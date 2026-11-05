@@ -1,5 +1,14 @@
 [
   {
+    "at": "2026-11-05T16:58:40Z",
+    "published": 0,
+    "failed": 0,
+    "waiting": 0,
+    "slugs": "is-geo-bring-sales, insights",
+    "indexnow": "Sent 2026-11-05",
+    "note": "Sent existing pages to Bing via IndexNow"
+  },
+  {
     "at": "2026-11-05T16:57:26Z",
     "published": 0,
     "failed": 0,

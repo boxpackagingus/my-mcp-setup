@@ -16,5 +16,14 @@
     "slugs": "",
     "indexnow": "Failed (ProxyError)",
     "note": "Plugin 1.1 installed. IndexNow blocked by the environment's network settings (api.indexnow.org not allowed)."
+  },
+  {
+    "at": "2026-11-05T16:58:40Z",
+    "published": 0,
+    "failed": 0,
+    "waiting": 0,
+    "slugs": "is-geo-bring-sales, insights",
+    "indexnow": "Sent 2026-11-05",
+    "note": "Sent existing pages to Bing via IndexNow"
   }
 ]
