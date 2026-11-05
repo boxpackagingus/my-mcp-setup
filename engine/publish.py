@@ -103,5 +103,5 @@ def _ping_sitemap(cfg):
         for path in ("/sitemap_index.xml", "/wp-sitemap.xml"):
             if google_api.gsc_submit_sitemap(prop, cfg["site"]["base_url"] + path):
                 break
-    except Exception as e:  # sitemap ping is nice-to-have
+    except (Exception, SystemExit) as e:  # sitemap ping is nice-to-have
         print(f"Sitemap ping skipped: {e}")
