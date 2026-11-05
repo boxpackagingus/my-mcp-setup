@@ -2,7 +2,7 @@
 import shutil
 from datetime import date
 
-from . import config, page, quality
+from . import config, indexnow, page, quality
 
 PAGES = config.DATA / "pages.json"
 
@@ -85,10 +85,36 @@ def run(cfg, dry_run=False):
         remaining -= 1
 
     if not dry_run:
-        config.write_json(PAGES, pages)
         if report["published"]:
             _ping_sitemap(cfg)
+            urls = [p["url"] for p in report["published"]]
+            sent = indexnow.submit(cfg, urls)
+            for p in pages:
+                if p["url"] in urls:
+                    p["indexnow"] = sent
+            report["indexnow"] = sent
+        config.write_json(PAGES, pages)
+        log_run(report)
     return report
+
+
+RUNS = config.DATA / "runs.json"
+
+
+def log_run(report, note=""):
+    """Appends one line per run to data/runs.json, for the dashboard's activity log."""
+    from datetime import datetime, timezone
+    runs = config.read_json(RUNS, [])
+    runs.append({
+        "at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "published": len(report.get("published", [])),
+        "failed": len(report.get("failed", [])),
+        "waiting": len(report.get("skipped", [])),
+        "slugs": ", ".join(p["slug"] for p in report.get("published", [])),
+        "indexnow": report.get("indexnow") or "",
+        "note": note or "; ".join(f["file"] + ": " + f["problems"][0] for f in report.get("failed", []))[:300],
+    })
+    config.write_json(RUNS, runs[-500:])
 
 
 def _wp():

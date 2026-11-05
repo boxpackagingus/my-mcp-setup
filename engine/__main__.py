@@ -6,6 +6,7 @@
   python -m engine publish [--dry-run] Publish drafts that pass (respects the daily limit)
   python -m engine track              Pull Search Console + GA4 numbers
   python -m engine dashboard          Rebuild dashboard/index.html
+  python -m engine sitecheck          Check llms.txt, robots.txt, sitemap and every page
   python -m engine export             Write the dashboard data files (dashboard/export/)
   python -m engine status             Show today's limit and queue size
 """
@@ -54,6 +55,14 @@ def main(argv):
     if cmd == "dashboard":
         from . import dashboard
         print(dashboard.build(cfg))
+        return 0
+    if cmd == "sitecheck":
+        from . import sitecheck
+        out = sitecheck.run(cfg)
+        for f in out["files"]:
+            print(f"{f['status']:8} {f['file']:14} {f['items']} {f['items_label']} · {f['note']}")
+        for p in out["pages"]:
+            print(f"page /{p['slug']}/ live={p['live']} sitemap={p['in_sitemap']} llms={p['in_llms']} md={p['markdown']} schema={p['schema']}")
         return 0
     if cmd == "export":
         from . import export

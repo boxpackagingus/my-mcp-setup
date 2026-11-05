@@ -94,3 +94,14 @@ def test_local_queries_rank_higher():
     a = research.score({"query": "geo agency orange county", "source": "autocomplete"}, CFG)
     b = research.score({"query": "geo agency", "source": "autocomplete"}, CFG)
     assert a > b
+
+
+def test_export_writes_all_dashboard_files(tmp_path, monkeypatch):
+    from engine import export
+    monkeypatch.setattr(export, "OUT", tmp_path)
+    counts = export.run(CFG)
+    assert set(counts) == {"totals", "pages", "keywords", "daily", "upcoming",
+                           "site_files", "page_checks", "indexing", "runs"}
+    totals = json.loads((tmp_path / "totals.json").read_text())[0]
+    if not totals["google_connected"]:
+        assert totals["impressions"] is None  # never a misleading zero

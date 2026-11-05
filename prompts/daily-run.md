@@ -61,7 +61,8 @@ python -m engine quality content/drafts/*.json
 Fix every FAIL and run it again. A draft that still fails after two fixes stays in `content/drafts/`.
 
 ```bash
-python -m engine publish
+python -m engine publish      # also notifies Bing via IndexNow and logs the run
+python -m engine sitecheck    # checks llms.txt, llms-full.txt, robots.txt, sitemap and every page
 python -m engine dashboard
 ```
 
@@ -74,7 +75,7 @@ python -m engine dashboard
    - anything that needs a human
 2. Commit everything with the message `Daily run YYYY-MM-DD` and push to `main`.
 3. Refresh the dashboard at https://claude.ai/artifact/Dd9pgZazE6LyFGzXSp8seV:
-   - Run `python -m engine export`. It writes five files in `dashboard/export/`: `totals`, `pages`, `keywords`, `daily` and `upcoming`.
+   - Run `python -m engine export`. It writes nine files in `dashboard/export/`: `totals`, `pages`, `keywords`, `daily`, `upcoming`, `site_files`, `page_checks`, `indexing` and `runs`. Each one matches the `datasets/<name>` document with the same name.
    - Upload each file as an asset to that artifact, one call per file (Artifact tool, `asset: true`).
    - For each upload, `update` the matching `datasets/<name>` document with `source.url` set to the new `/_blob/...` URL, `updated: {at: <now UTC>, by: "Chimera engine"}` and `edit: {via: "claude", at: <now UTC>}`. Use ArtifactData, and pin each write with `if_version` from a fresh read.
    - Then delete the old assets.

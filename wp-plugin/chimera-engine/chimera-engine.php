@@ -1,8 +1,8 @@
 <?php
 /**
  * Plugin Name: Chimera Engine
- * Description: Support for engine-built landing pages: llms.txt, Markdown copies, robots.txt rules, schema, hub listing, AI-traffic and lead tracking.
- * Version: 1.0.1
+ * Description: Support for engine-built landing pages: llms.txt, Markdown copies, robots.txt rules, schema, hub listing, IndexNow, AI-traffic and lead tracking.
+ * Version: 1.1.0
  * Requires at least: 6.0
  * Requires PHP: 7.4
  * Author: The Chimera AI
@@ -12,7 +12,7 @@ if (!defined('ABSPATH')) {
     exit;
 }
 
-const CHIMERA_ENGINE_VERSION = '1.0.1';
+const CHIMERA_ENGINE_VERSION = '1.1.0';
 
 /* -------------------------------------------------------------
  * 1. Page fields the engine writes through the REST API
@@ -68,7 +68,26 @@ function chimera_engine_pages($limit = -1)
 /* -------------------------------------------------------------
  * 2. REST: list engine pages (for the engine's own bookkeeping)
  * ----------------------------------------------------------- */
+function chimera_indexnow_key()
+{
+    $key = get_option('chimera_indexnow_key');
+    if (!$key || !preg_match('/^[a-f0-9]{32}$/', $key)) {
+        $key = bin2hex(random_bytes(16));
+        update_option('chimera_indexnow_key', $key, false);
+    }
+    return $key;
+}
+
 add_action('rest_api_init', function () {
+    register_rest_route('chimera/v1', '/indexnow', [
+        'methods'             => 'GET',
+        'permission_callback' => function () {
+            return current_user_can('edit_pages');
+        },
+        'callback'            => function () {
+            return ['key' => chimera_indexnow_key()];
+        },
+    ]);
     register_rest_route('chimera/v1', '/pages', [
         'methods'             => 'GET',
         'permission_callback' => function () {
@@ -125,6 +144,10 @@ add_action('parse_request', function () {
         $path = trim(substr($path, strlen($home)), '/');
     }
 
+    $indexnow = get_option('chimera_indexnow_key');
+    if ($indexnow && $path === $indexnow . '.txt') {
+        chimera_send_text($indexnow);
+    }
     if ($path === 'llms.txt' || $path === 'llms-full.txt') {
         chimera_send_text(chimera_llms_txt($path === 'llms-full.txt'));
     }

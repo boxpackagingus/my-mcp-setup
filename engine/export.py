@@ -58,6 +58,8 @@ def run(cfg):
         "ai_visits": latest.get("ai_sessions_28d") if google else None,
         "leads": latest.get("leads_28d") if google else None,
         "pages_indexed": latest.get("pages_indexed") if google else None,
+        "site_files_ok": sum(f["status"] == "OK" for f in config.read_json(config.DATA / "sitecheck.json", {"files": []})["files"]),
+        "site_files_total": len(config.read_json(config.DATA / "sitecheck.json", {"files": []})["files"]),
         "pages_per_day": cfg["publishing"]["pages_per_day"],
         "google_connected": google,
         "updated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
@@ -75,8 +77,29 @@ def run(cfg):
                  "search_console": "Your Search Console"}.get(c["source"], c["source"]),
                  "volume": c.get("volume"), "score": c.get("score")} for c in queue[:15]]
 
+    check = config.read_json(config.DATA / "sitecheck.json", {"files": [], "pages": []})
+    site_files = [{k: f.get(k) for k in ("file", "url", "status", "http", "items", "items_label", "note", "checked")}
+                  for f in check["files"]]
+    page_checks = [{k: c.get(k) for k in ("slug", "url", "published", "live", "in_sitemap", "in_llms",
+                                         "markdown", "schema", "checked")} for c in check["pages"]]
+
+    indexing = []
+    for p in sorted(pages, key=lambda p: p.get("published", ""), reverse=True):
+        verdict = p.get("index_verdict")
+        indexing.append({
+            "slug": p["slug"], "url": p["url"], "published": p.get("published"),
+            "google": {"PASS": "Indexed", "NEUTRAL": "Not indexed yet", "FAIL": "Problem"}.get(
+                verdict, "Waiting for Google" if not google else "Not checked yet"),
+            "coverage": p.get("index_coverage") or "",
+            "last_crawl": (p.get("index_last_crawl") or "")[:10] or None,
+            "bing": p.get("indexnow") or "Not sent",
+        })
+
+    runs = [dict(r) for r in reversed(config.read_json(config.DATA / "runs.json", []))][:60]
+
     files = {"totals": totals, "pages": page_rows, "keywords": keyword_rows,
-             "daily": daily, "upcoming": upcoming}
+             "daily": daily, "upcoming": upcoming, "site_files": site_files,
+             "page_checks": page_checks, "indexing": indexing, "runs": runs}
     for name, rows in files.items():
         config.write_json(OUT / f"{name}.json", rows)
     return {k: len(v) for k, v in files.items()}

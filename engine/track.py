@@ -38,6 +38,7 @@ def run(cfg):
         try:
             res = google_api.gsc_inspect(prop, p["url"])
             p["index_verdict"], p["index_coverage"] = res["verdict"], res["coverage"]
+            p["index_last_crawl"] = res["last_crawl"]
             p["index_checked"] = date.today().isoformat()
         except RuntimeError as e:
             print(f"Inspect failed for {p['url']}: {e}")

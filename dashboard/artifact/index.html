@@ -41,6 +41,14 @@
 .cg [data-dash-source-state=refreshing] { opacity: .5; transition: opacity var(--cds-dur-slow); }
 .cg-fail { display: flex; align-items: center; justify-content: center; gap: var(--cds-gap-xs); color: var(--color-fg-muted); font-size: var(--cds-font-size-caption); min-height: 3rem; }
 .cg-fail::before { content: ""; width: .375rem; height: .375rem; border-radius: 50%; background: var(--color-bad); }
+.cg-nav { display: flex; flex-wrap: wrap; gap: var(--cds-gap-xs); }
+.cg-nav button { font: inherit; font-size: var(--cds-font-size-caption); color: var(--color-fg); background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: 999px; padding: var(--cds-pad-xs) var(--cds-pad-md); cursor: pointer; }
+.cg-nav button:hover { border-color: var(--color-fg-muted); }
+.cg-nav button:focus-visible { outline: 2px solid var(--color-fg); outline-offset: 2px; }
+.cg-tile .cg-value small { font-family: var(--font-anthropic-sans); font-size: var(--cds-font-size-body); color: var(--color-fg-muted); }
+.cg-files { display: grid; gap: var(--cds-gap-md); grid-template-columns: repeat(auto-fit, minmax(min(100%, 14rem), 1fr)); }
+.cg td.cg-mono, .cg .cg-mono { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: var(--cds-font-size-caption); word-break: break-all; }
+.cg td.cg-wrap { white-space: normal; min-width: 12rem; }
 @media (max-width: 640px) { .cg .cg-hide-narrow { display: none; } }
 </style>
 
@@ -54,6 +62,17 @@
   <div class="cg-notice" data-google-notice hidden>
     <p>Google isn't connected yet, so impressions, clicks, visits and leads show a dash for now. They fill in automatically on the first daily run after the Google key is added.</p>
   </div>
+
+  <nav class="cg-nav" aria-label="Jump to section">
+    <button type="button" data-go="built">Overview</button>
+    <button type="button" data-go="live">New pages live</button>
+    <button type="button" data-go="indexed">Indexed pages</button>
+    <button type="button" data-go="files">Site files</button>
+    <button type="button" data-go="trend">Day by day</button>
+    <button type="button" data-go="pages">Page performance</button>
+    <button type="button" data-go="keywords">Keywords</button>
+    <button type="button" data-go="activity">Engine activity</button>
+  </nav>
 
   <section class="cg-section" id="built">
     <header>
@@ -75,6 +94,11 @@
         <p class="cg-label">Pages in Google</p>
         <p class="cg-value dash-skeleton" data-draw="tile" data-source="totals" data-field="pages_indexed" data-row="0">—</p>
         <p class="cg-help">Pages Google has added to its search results</p>
+      </div>
+      <div class="cg-tile">
+        <p class="cg-label">Site files working</p>
+        <p class="cg-value"><span data-draw="tile" data-source="totals" data-field="site_files_ok" data-row="0">—</span> <small>of <span data-draw="tile" data-source="totals" data-field="site_files_total" data-row="0">—</span></small></p>
+        <p class="cg-help">llms.txt, llms-full.txt, robots.txt and sitemap</p>
       </div>
       <div class="cg-tile">
         <p class="cg-label">Questions found</p>
@@ -118,6 +142,80 @@
     </div>
   </section>
 
+  <section class="cg-section" id="live">
+    <header>
+      <h2>New pages live</h2>
+      <p class="cg-muted">Every page the engine published, newest first, with today's live checks</p>
+    </header>
+    <div class="cg-card">
+      <div class="cg-table-wrap">
+        <table data-source="page_checks" data-row-key="slug">
+          <thead>
+            <tr>
+              <th data-field="slug">Page address</th>
+              <th data-field="published">Went live</th>
+              <th data-field="live">Opens</th>
+              <th data-field="in_sitemap">In sitemap</th>
+              <th data-field="in_llms">In llms.txt</th>
+              <th data-field="markdown" class="cg-hide-narrow">AI text copy</th>
+              <th data-field="schema" class="cg-hide-narrow">Schema</th>
+            </tr>
+          </thead>
+          <tbody data-draw="live-body"></tbody>
+        </table>
+      </div>
+      <p class="cg-muted">"AI text copy" is the plain-text version of the page at <span class="cg-mono">/page-address.md</span> that AI assistants read. "Schema" means the page tells search engines it's an article with FAQs.</p>
+    </div>
+  </section>
+
+  <section class="cg-section" id="indexed">
+    <header>
+      <h2>Indexed pages</h2>
+      <p class="cg-muted">Whether Google has added each page to its search results, and whether Bing was told about it</p>
+    </header>
+    <div class="cg-card">
+      <div class="cg-table-wrap">
+        <table data-source="indexing" data-row-key="slug">
+          <thead>
+            <tr>
+              <th data-field="url">Page URL</th>
+              <th data-field="google">Google</th>
+              <th data-field="coverage" class="cg-hide-narrow">Google's note</th>
+              <th data-field="last_crawl">Last visited by Google</th>
+              <th data-field="bing">Bing (IndexNow)</th>
+            </tr>
+          </thead>
+          <tbody data-draw="indexed-body"></tbody>
+        </table>
+      </div>
+      <p class="cg-muted">New pages usually take a few days to a few weeks to be indexed. Bing feeds ChatGPT search and Copilot, so the engine notifies it the moment a page goes live.</p>
+    </div>
+  </section>
+
+  <section class="cg-section" id="files">
+    <header>
+      <h2>Site files</h2>
+      <p class="cg-muted">The files search engines and AI assistants read to find and understand your pages, checked every morning</p>
+    </header>
+    <div class="cg-card">
+      <div class="cg-table-wrap">
+        <table data-source="site_files" data-row-key="file">
+          <thead>
+            <tr>
+              <th data-field="file">File</th>
+              <th data-field="status">Status</th>
+              <th data-field="items" class="cg-num">Count</th>
+              <th data-field="items_label">Of what</th>
+              <th data-field="note" class="cg-hide-narrow">What it's for</th>
+              <th data-field="checked">Last checked</th>
+            </tr>
+          </thead>
+          <tbody data-draw="files-body"></tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
   <section class="cg-section" id="trend">
     <header>
       <h2>Day by day</h2>
@@ -139,8 +237,8 @@
 
   <section class="cg-section" id="pages">
     <header>
-      <h2>Every page the engine built</h2>
-      <p class="cg-muted">Newest first. Results are for the last 28 days.</p>
+      <h2>Page performance</h2>
+      <p class="cg-muted">Every page the engine built, newest first. Results are for the last 28 days.</p>
     </header>
     <div class="cg-card">
       <div class="cg-table-wrap">
@@ -194,6 +292,30 @@
           <tbody data-draw="upcoming-body"></tbody>
         </table>
       </div>
+    </div>
+  </section>
+
+  <section class="cg-section" id="activity">
+    <header>
+      <h2>Engine activity</h2>
+      <p class="cg-muted">Each time the engine ran, newest first</p>
+    </header>
+    <div class="cg-card">
+      <div class="cg-table-wrap">
+        <table data-source="runs" data-row-key="at">
+          <thead>
+            <tr>
+              <th data-field="at">When</th>
+              <th data-field="published" class="cg-num">Published</th>
+              <th data-field="failed" class="cg-num">Held back</th>
+              <th data-field="slugs" class="cg-wrap">Pages</th>
+              <th data-field="note" class="cg-hide-narrow cg-wrap">Notes</th>
+            </tr>
+          </thead>
+          <tbody data-draw="runs-body"></tbody>
+        </table>
+      </div>
+      <p class="cg-muted">"Held back" pages failed the quality check and stayed as drafts instead of going live.</p>
     </div>
   </section>
 </div>
@@ -280,6 +402,91 @@
 
   dash.draw('impressions-chart', (el) => bars(el, 'impressions', 0, 'Shows up once Google Search Console is connected.'));
   dash.draw('clicks-chart', (el) => bars(el, 'clicks', 1, 'Shows up once Google Search Console is connected.'));
+})();
+</script>
+
+<script>
+(() => {
+  const { num, day } = window.cgFmt;
+  const td = (tr, text, cls) => { const c = document.createElement('td'); if (cls) c.className = cls; c.textContent = text; tr.append(c); return c; };
+  const pillCell = (tr, text, state, cls) => { const c = document.createElement('td'); if (cls) c.className = cls; const p = document.createElement('span'); p.className = 'cg-pill'; p.dataset.state = state; p.textContent = text; c.append(p); tr.append(c); };
+  const linkCell = (tr, href, text, cls) => { const c = document.createElement('td'); if (cls) c.className = cls; const a = document.createElement('a'); a.href = href; a.target = '_blank'; a.rel = 'noopener'; a.textContent = text; c.append(a); tr.append(c); };
+  const yes = (v) => (v === 'Yes' ? 'ok' : 'bad');
+  const status = (tb, d, cols, emptyText) => {
+    tb.replaceChildren();
+    const row = (node) => { const tr = document.createElement('tr'); const c = document.createElement('td'); c.colSpan = cols; c.append(node); tr.append(c); tb.append(tr); };
+    if (d.status === 'error') { const f = document.createElement('div'); f.className = 'cg-fail'; f.textContent = 'Failed to load'; row(f); return false; }
+    if (d.status !== 'ok') return false;
+    if (!d.data.length) { const e = document.createElement('span'); e.className = 'cg-muted'; e.textContent = emptyText; row(e); return false; }
+    return true;
+  };
+  const when = (v) => (v ? d3.utcFormat('%b %-d, %Y · %H:%M UTC')(new Date(v)) : '—');
+
+  // Jump menu
+  document.querySelectorAll('.cg-nav [data-go]').forEach((b) => b.addEventListener('click', () => {
+    const el = document.getElementById(b.dataset.go);
+    if (el) { el.scrollIntoView({ behavior: 'smooth', block: 'start' }); dash.setLink(el.id); }
+  }));
+
+  dash.draw('live-body', (tb) => {
+    const d = dash.data('page_checks');
+    if (!status(tb, d, 7, 'No pages live yet.')) return;
+    d.data.forEach((r) => {
+      const tr = document.createElement('tr'); tr.dataset.key = r.slug;
+      linkCell(tr, r.url, '/' + r.slug + '/', 'cg-mono');
+      td(tr, day(r.published));
+      pillCell(tr, r.live, r.live === 'Yes' ? 'ok' : 'bad');
+      pillCell(tr, r.in_sitemap, yes(r.in_sitemap));
+      pillCell(tr, r.in_llms, yes(r.in_llms));
+      pillCell(tr, r.markdown, yes(r.markdown), 'cg-hide-narrow');
+      pillCell(tr, r.schema, yes(r.schema), 'cg-hide-narrow');
+      tb.append(tr);
+    });
+  });
+
+  const G = { 'Indexed': 'ok', 'Not indexed yet': 'warn', 'Problem': 'bad' };
+  dash.draw('indexed-body', (tb) => {
+    const d = dash.data('indexing');
+    if (!status(tb, d, 5, 'No pages yet.')) return;
+    d.data.forEach((r) => {
+      const tr = document.createElement('tr'); tr.dataset.key = r.slug;
+      linkCell(tr, r.url, r.url, 'cg-mono');
+      pillCell(tr, r.google, G[r.google] || 'none');
+      td(tr, r.coverage || '—', 'cg-hide-narrow');
+      td(tr, day(r.last_crawl));
+      pillCell(tr, r.bing, /^Sent/.test(r.bing) ? 'ok' : /^Failed/.test(r.bing) ? 'bad' : 'none');
+      tb.append(tr);
+    });
+  });
+
+  dash.draw('files-body', (tb) => {
+    const d = dash.data('site_files');
+    if (!status(tb, d, 6, 'Not checked yet.')) return;
+    d.data.forEach((r) => {
+      const tr = document.createElement('tr');
+      linkCell(tr, r.url, r.file);
+      pillCell(tr, r.status, r.status === 'OK' ? 'ok' : 'bad');
+      td(tr, num(r.items), 'cg-num');
+      td(tr, r.items_label || '');
+      td(tr, r.note || '', 'cg-hide-narrow');
+      td(tr, when(r.checked));
+      tb.append(tr);
+    });
+  });
+
+  dash.draw('runs-body', (tb) => {
+    const d = dash.data('runs');
+    if (!status(tb, d, 5, 'The engine hasn’t run yet.')) return;
+    d.data.forEach((r) => {
+      const tr = document.createElement('tr'); tr.dataset.key = r.at;
+      td(tr, when(r.at));
+      td(tr, num(r.published), 'cg-num');
+      td(tr, num(r.failed), 'cg-num');
+      td(tr, r.slugs || '—', 'cg-wrap cg-mono');
+      td(tr, r.note || '—', 'cg-hide-narrow cg-wrap');
+      tb.append(tr);
+    });
+  });
 })();
 </script>
 
