@@ -1,0 +1,125 @@
+{
+  "mcpServers": {
+    "google-search-console": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@thenavidm/google-search-console-mcp-cli@latest"
+      ],
+      "env": {
+        "GSC_SERVICE_ACCOUNT_KEY_JSON": "${GSC_SERVICE_ACCOUNT_KEY_JSON}"
+      }
+    },
+    "cite42": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@cite42/mcp"
+      ],
+      "env": {
+        "CITE42_API_KEY": "${CITE42_API_KEY}"
+      }
+    },
+    "maxaeo-ai-visibility": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "maxaeo-ai-visibility-mcp"
+      ],
+      "env": {}
+    },
+    "lighthouse": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@danielsogl/lighthouse-mcp@latest"
+      ],
+      "env": {}
+    },
+    "seo-audit-console": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@houtini/seo-audit-console"
+      ],
+      "env": {
+        "GOOGLE_APPLICATION_CREDENTIALS": "${GSC_CREDENTIALS_PATH}"
+      }
+    },
+    "web-meta-scraper": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "web-meta-scraper-mcp"
+      ],
+      "env": {}
+    },
+    "fetch": {
+      "type": "stdio",
+      "command": "uvx",
+      "args": [
+        "mcp-server-fetch"
+      ],
+      "env": {}
+    },
+    "memory": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-memory"
+      ],
+      "env": {}
+    },
+    "sequential-thinking": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-sequential-thinking"
+      ],
+      "env": {}
+    },
+    "time": {
+      "type": "stdio",
+      "command": "uvx",
+      "args": [
+        "mcp-server-time"
+      ],
+      "env": {}
+    },
+    "context7": {
+      "type": "http",
+      "url": "https://mcp.context7.com/mcp",
+      "headers": {
+        "Authorization": "Bearer ${CONTEXT7_API_KEY}"
+      }
+    },
+    "npmjs": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@yawlabs/npmjs-mcp@latest"
+      ],
+      "env": {}
+    },
+    "semrush": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "github:mrkooblu/semrush-mcp"
+      ],
+      "env": {
+        "SEMRUSH_API_KEY": "${SEMRUSH_API_KEY}"
+      }
+    }
+  }
+}
