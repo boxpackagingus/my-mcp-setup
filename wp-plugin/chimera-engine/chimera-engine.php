@@ -1,0 +1,336 @@
+<?php
+/**
+ * Plugin Name: Chimera Engine
+ * Description: Support for engine-built landing pages: llms.txt, Markdown copies, robots.txt rules, schema, hub listing, AI-traffic and lead tracking.
+ * Version: 1.0.0
+ * Requires at least: 6.0
+ * Requires PHP: 7.4
+ * Author: The Chimera AI
+ */
+
+if (!defined('ABSPATH')) {
+    exit;
+}
+
+const CHIMERA_ENGINE_VERSION = '1.0.0';
+
+/* -------------------------------------------------------------
+ * 1. Page fields the engine writes through the REST API
+ * ----------------------------------------------------------- */
+add_action('init', function () {
+    $can_edit = function () {
+        return current_user_can('edit_pages');
+    };
+    $fields = [
+        '_chimera_engine'           => 'boolean',
+        '_chimera_query'            => 'string',
+        '_chimera_markdown'         => 'string',
+        '_chimera_schema'           => 'string',
+        '_chimera_meta_description' => 'string',
+        // Yoast SEO
+        '_yoast_wpseo_title'        => 'string',
+        '_yoast_wpseo_metadesc'     => 'string',
+        '_yoast_wpseo_focuskw'      => 'string',
+        // Rank Math
+        'rank_math_title'           => 'string',
+        'rank_math_description'     => 'string',
+        'rank_math_focus_keyword'   => 'string',
+    ];
+    foreach ($fields as $key => $type) {
+        register_post_meta('page', $key, [
+            'type'          => $type,
+            'single'        => true,
+            'show_in_rest'  => true,
+            'auth_callback' => $can_edit,
+        ]);
+    }
+});
+
+function chimera_is_engine_page($post_id = null)
+{
+    $post_id = $post_id ?: get_queried_object_id();
+    return $post_id && (bool) get_post_meta($post_id, '_chimera_engine', true);
+}
+
+function chimera_engine_pages($limit = -1)
+{
+    return get_posts([
+        'post_type'      => 'page',
+        'post_status'    => 'publish',
+        'posts_per_page' => $limit,
+        'meta_key'       => '_chimera_engine',
+        'meta_value'     => '1',
+        'orderby'        => 'date',
+        'order'          => 'DESC',
+    ]);
+}
+
+/* -------------------------------------------------------------
+ * 2. REST: list engine pages (for the engine's own bookkeeping)
+ * ----------------------------------------------------------- */
+add_action('rest_api_init', function () {
+    register_rest_route('chimera/v1', '/pages', [
+        'methods'             => 'GET',
+        'permission_callback' => function () {
+            return current_user_can('edit_pages');
+        },
+        'callback'            => function () {
+            return array_map(function ($p) {
+                return [
+                    'id'    => $p->ID,
+                    'slug'  => $p->post_name,
+                    'url'   => get_permalink($p),
+                    'title' => get_the_title($p),
+                    'query' => get_post_meta($p->ID, '_chimera_query', true),
+                    'date'  => get_the_date('Y-m-d', $p),
+                ];
+            }, chimera_engine_pages());
+        },
+    ]);
+});
+
+/* -------------------------------------------------------------
+ * 3. <head>: schema, meta description fallback, Markdown link
+ * ----------------------------------------------------------- */
+add_action('wp_head', function () {
+    if (!is_singular('page') || !chimera_is_engine_page()) {
+        return;
+    }
+    $id = get_queried_object_id();
+
+    $schema = json_decode((string) get_post_meta($id, '_chimera_schema', true), true);
+    if (is_array($schema)) {
+        echo '<script type="application/ld+json">' . wp_json_encode($schema, JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE) . "</script>\n";
+    }
+
+    $has_seo_plugin = defined('WPSEO_VERSION') || class_exists('RankMath');
+    $desc = get_post_meta($id, '_chimera_meta_description', true);
+    if (!$has_seo_plugin && $desc) {
+        echo '<meta name="description" content="' . esc_attr($desc) . "\">\n";
+    }
+
+    $slug = get_post_field('post_name', $id);
+    echo '<link rel="alternate" type="text/markdown" href="' . esc_url(home_url("/$slug.md")) . "\">\n";
+}, 5);
+
+/* -------------------------------------------------------------
+ * 4. /llms.txt, /llms-full.txt and /{slug}.md
+ * ----------------------------------------------------------- */
+add_action('parse_request', function () {
+    $path = trim((string) wp_parse_url($_SERVER['REQUEST_URI'] ?? '', PHP_URL_PATH), '/');
+    $home = trim((string) wp_parse_url(home_url('/'), PHP_URL_PATH), '/');
+    if ($home && strpos($path, $home) === 0) {
+        $path = trim(substr($path, strlen($home)), '/');
+    }
+
+    if ($path === 'llms.txt' || $path === 'llms-full.txt') {
+        chimera_send_text(chimera_llms_txt($path === 'llms-full.txt'));
+    }
+    if (preg_match('#^([a-z0-9-]+)\.md$#', $path, $m)) {
+        $page = get_page_by_path($m[1], OBJECT, 'page');
+        if ($page && $page->post_status === 'publish' && chimera_is_engine_page($page->ID)) {
+            $md = get_post_meta($page->ID, '_chimera_markdown', true);
+            if ($md) {
+                chimera_send_text($md, 'text/markdown');
+            }
+        }
+    }
+});
+
+function chimera_send_text($body, $type = 'text/plain')
+{
+    status_header(200);
+    header("Content-Type: $type; charset=utf-8");
+    header('X-Robots-Tag: noindex'); // the HTML page is the one that should rank
+    header('Cache-Control: public, max-age=3600');
+    echo $body;
+    exit;
+}
+
+function chimera_llms_txt($full = false)
+{
+    $name = get_bloginfo('name');
+    $desc = get_bloginfo('description');
+    $out  = "# $name\n\n";
+    if ($desc) {
+        $out .= "> $desc\n\n";
+    }
+    $out .= "Main site: " . home_url('/') . "\n\n";
+
+    $core = get_posts([
+        'post_type'      => 'page',
+        'post_status'    => 'publish',
+        'posts_per_page' => 30,
+        'meta_query'     => [['key' => '_chimera_engine', 'compare' => 'NOT EXISTS']],
+        'orderby'        => 'menu_order',
+        'order'          => 'ASC',
+    ]);
+    if ($core) {
+        $out .= "## Core pages\n\n";
+        foreach ($core as $p) {
+            $out .= '- [' . get_the_title($p) . '](' . get_permalink($p) . ")\n";
+        }
+        $out .= "\n";
+    }
+
+    $pages = chimera_engine_pages();
+    if ($pages) {
+        $out .= "## Guides and answers\n\n";
+        foreach ($pages as $p) {
+            $slug = $p->post_name;
+            $line = '- [' . get_the_title($p) . '](' . home_url("/$slug.md") . ')';
+            $d    = get_post_meta($p->ID, '_chimera_meta_description', true);
+            $out .= $d ? "$line: $d\n" : "$line\n";
+        }
+        $out .= "\n";
+        if ($full) {
+            foreach ($pages as $p) {
+                $md = get_post_meta($p->ID, '_chimera_markdown', true);
+                if ($md) {
+                    $out .= "\n---\n\n" . $md . "\n";
+                }
+            }
+        }
+    }
+    return $out;
+}
+
+/* -------------------------------------------------------------
+ * 5. robots.txt (only applies when there is no physical robots.txt file)
+ * ----------------------------------------------------------- */
+add_filter('robots_txt', function ($output, $public) {
+    if (!$public) {
+        return $output; // "Discourage search engines" is on; leave it alone
+    }
+    $bots = ['GPTBot', 'OAI-SearchBot', 'ChatGPT-User', 'PerplexityBot', 'Perplexity-User',
+             'ClaudeBot', 'Claude-SearchBot', 'Google-Extended', 'Applebot-Extended', 'Bingbot',
+             'CCBot', 'Meta-ExternalAgent', 'DuckAssistBot'];
+    $extra = "\n# AI search and answer engines\n";
+    foreach ($bots as $bot) {
+        $extra .= "User-agent: $bot\nAllow: /\nDisallow: /wp-admin/\n\n";
+    }
+    if (strpos($output, 'Sitemap:') === false) {
+        $sitemap = defined('WPSEO_VERSION') || class_exists('RankMath')
+            ? home_url('/sitemap_index.xml') : home_url('/wp-sitemap.xml');
+        $extra .= "Sitemap: $sitemap\n";
+    }
+    $extra .= "# LLM-readable index: " . home_url('/llms.txt') . "\n";
+    return $output . $extra;
+}, 20, 2);
+
+/* -------------------------------------------------------------
+ * 6. Keep engine pages out of automatic menus; list them in a hub
+ * ----------------------------------------------------------- */
+add_filter('wp_list_pages_excludes', function ($exclude) {
+    return array_merge((array) $exclude, wp_list_pluck(chimera_engine_pages(), 'ID'));
+});
+
+add_shortcode('chimera_hub', function ($atts) {
+    $atts  = shortcode_atts(['limit' => 500], $atts);
+    $pages = chimera_engine_pages((int) $atts['limit']);
+    if (!$pages) {
+        return '<p>New guides are on the way.</p>';
+    }
+    $html = '<ul class="chimera-hub">';
+    foreach ($pages as $p) {
+        $d     = get_post_meta($p->ID, '_chimera_meta_description', true);
+        $html .= '<li><a href="' . esc_url(get_permalink($p)) . '">' . esc_html(get_the_title($p)) . '</a>';
+        $html .= $d ? '<p>' . esc_html($d) . '</p>' : '';
+        $html .= '</li>';
+    }
+    return $html . '</ul>';
+});
+
+/* -------------------------------------------------------------
+ * 7. Styles for engine page blocks
+ * ----------------------------------------------------------- */
+add_action('wp_enqueue_scripts', function () {
+    if (!is_singular('page') || !chimera_is_engine_page()) {
+        return;
+    }
+    wp_register_style('chimera-engine', false, [], CHIMERA_ENGINE_VERSION);
+    wp_enqueue_style('chimera-engine');
+    wp_add_inline_style('chimera-engine', '
+.chimera-answer{border-left:4px solid currentColor;padding:1rem 1.25rem;margin:1.5rem 0;background:rgba(127,127,127,.08);border-radius:6px}
+.chimera-takeaways,.chimera-toc,.chimera-related,.chimera-sources{margin:1.5rem 0}
+.chimera-cta{padding:1.5rem;margin:2rem 0;border:1px solid rgba(127,127,127,.35);border-radius:10px}
+.chimera-faq{border-bottom:1px solid rgba(127,127,127,.25);padding:.75rem 0}
+.chimera-faq summary{cursor:pointer;list-style:none}
+.chimera-faq summary h3{display:inline;font-size:1.05rem;margin:0}
+.chimera-updated{opacity:.7;font-size:.9em}
+');
+});
+
+/* -------------------------------------------------------------
+ * 8. Traffic source + lead tracking (every page, so leads that
+ *    start on an engine page and convert elsewhere still count)
+ * ----------------------------------------------------------- */
+add_action('wp_footer', function () {
+    $ai = [
+        'chatgpt'    => ['chatgpt.com', 'chat.openai.com'],
+        'perplexity' => ['perplexity.ai'],
+        'gemini'     => ['gemini.google.com', 'bard.google.com'],
+        'copilot'    => ['copilot.microsoft.com', 'bing.com/chat'],
+        'claude'     => ['claude.ai'],
+        'deepseek'   => ['chat.deepseek.com'],
+        'meta_ai'    => ['meta.ai'],
+        'you'        => ['you.com'],
+    ];
+    ?>
+<script id="chimera-engine-tracking">
+(function () {
+  var AI = <?php echo wp_json_encode($ai); ?>;
+  var KEY = 'chimera_first_touch';
+  function store() { try { return window.localStorage; } catch (e) { return null; } }
+  function detectAI(text) {
+    text = (text || '').toLowerCase();
+    for (var k in AI) { for (var i = 0; i < AI[k].length; i++) { if (text.indexOf(AI[k][i]) !== -1) return k; } }
+    return '';
+  }
+  var params = new URLSearchParams(location.search);
+  var touch = {
+    landing: location.pathname,
+    referrer: document.referrer || '',
+    utm_source: params.get('utm_source') || '',
+    utm_medium: params.get('utm_medium') || '',
+    utm_campaign: params.get('utm_campaign') || ''
+  };
+  touch.ai_engine = detectAI(touch.utm_source) || detectAI(touch.referrer);
+  var s = store(), first = null;
+  try { first = JSON.parse((s && s.getItem(KEY)) || 'null'); } catch (e) {}
+  if (!first && (touch.referrer.indexOf(location.hostname) === -1 || touch.utm_source)) {
+    first = touch;
+    try { s && s.setItem(KEY, JSON.stringify(first)); } catch (e) {}
+  }
+  first = first || touch;
+
+  function send(name, extra) {
+    var p = Object.assign({ ai_engine: first.ai_engine || '(none)', first_landing: first.landing }, extra || {});
+    if (typeof window.gtag === 'function') window.gtag('event', name, p);
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push(Object.assign({ event: name }, p));
+  }
+  if (touch.ai_engine) send('ai_referral', { ai_engine: touch.ai_engine });
+
+  // Put the source into hidden form fields named chimera_* if your form has them.
+  function fill() {
+    ['landing', 'referrer', 'utm_source', 'utm_medium', 'utm_campaign', 'ai_engine'].forEach(function (k) {
+      document.querySelectorAll('input[name="chimera_' + k + '"], input[name$="[chimera_' + k + ']"]').forEach(function (el) { el.value = first[k] || ''; });
+    });
+  }
+  document.addEventListener('DOMContentLoaded', fill); fill();
+
+  var sent = false;
+  function lead(form) { if (sent) return; sent = true; send('<?php echo esc_js(apply_filters('chimera_lead_event', 'generate_lead')); ?>', { form: form || 'unknown', page: location.pathname }); }
+  document.addEventListener('wpcf7mailsent', function () { lead('cf7'); });
+  document.addEventListener('submit_success', function () { lead('elementor'); });
+  document.addEventListener('fluentform_submission_success', function () { lead('fluentform'); });
+  if (window.jQuery) {
+    jQuery(document).on('wpformsAjaxSubmitSuccess', function () { lead('wpforms'); });
+    jQuery(document).on('gform_confirmation_loaded', function () { lead('gravityforms'); });
+    jQuery(document).on('submit_success', function () { lead('elementor'); });
+  }
+})();
+</script>
+    <?php
+}, 99);

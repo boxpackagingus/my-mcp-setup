@@ -1,0 +1,71 @@
+{
+  "_comment": "Business settings for the engine. Fields marked TODO need your answers.",
+
+  "site": {
+    "domain": "thechimeraai.com",
+    "base_url": "https://thechimeraai.com",
+    "brand": "The Chimera AI",
+    "one_liner": "TODO: one sentence on what The Chimera AI does",
+    "services": ["TODO: Generative Engine Optimization (GEO)", "TODO: service 2"],
+    "ideal_customer": "TODO: who buys from you",
+    "target_countries": ["US"],
+    "language": "en",
+    "tone": "Clear, expert, practical. No hype.",
+    "never_say": ["guaranteed rankings", "guaranteed #1", "instant results"]
+  },
+
+  "lead": {
+    "offer": "TODO: e.g. Free GEO visibility audit",
+    "cta_heading": "Get your free AI visibility audit",
+    "cta_text": "See how ChatGPT, Perplexity and Google AI Overviews describe your business today.",
+    "form_shortcode": "TODO: e.g. [wpforms id=\"123\"]",
+    "ga4_lead_event": "generate_lead"
+  },
+
+  "publishing": {
+    "pages_per_day": 3,
+    "ramp": {
+      "target_pages_per_day": 10,
+      "after_days": 14,
+      "min_index_rate": 0.5
+    },
+    "status": "publish",
+    "hub_page_slug": "insights",
+    "show_in_menu": false,
+    "seo_plugin": "auto"
+  },
+
+  "quality": {
+    "min_words": 1200,
+    "min_sections": 5,
+    "min_faqs": 5,
+    "min_internal_links": 3,
+    "max_similarity_to_existing": 0.6
+  },
+
+  "research": {
+    "seed_topics": [
+      "generative engine optimization",
+      "GEO",
+      "AI search visibility",
+      "ChatGPT SEO",
+      "Perplexity SEO",
+      "Google AI Overviews",
+      "llms.txt"
+    ],
+    "question_prefixes": ["what is", "how to", "is", "does", "why", "can", "best", "vs", "cost of"],
+    "min_gsc_impressions": 20,
+    "min_volume": 10
+  },
+
+  "ai_referrers": {
+    "chatgpt": ["chatgpt.com", "chat.openai.com"],
+    "perplexity": ["perplexity.ai"],
+    "gemini": ["gemini.google.com", "bard.google.com"],
+    "copilot": ["copilot.microsoft.com", "bing.com/chat"],
+    "claude": ["claude.ai"],
+    "deepseek": ["chat.deepseek.com"],
+    "meta_ai": ["meta.ai"],
+    "you": ["you.com"]
+  }
+}

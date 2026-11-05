@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Chimera Growth Engine</title>
+<style>
+:root{--bg:#f7f7f5;--card:#fff;--ink:#1d1d1b;--muted:#6b6b66;--line:#e4e3de;--accent:#3b5bdb;--good:#2b8a3e;--warn:#e67700;--bad:#c92a2a}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#141413;--card:#1e1e1c;--ink:#ecebe6;--muted:#9c9b94;--line:#30302d;--accent:#748ffc;--good:#51cf66;--warn:#ffa94d;--bad:#ff6b6b}}
+:root[data-theme="dark"]{--bg:#141413;--card:#1e1e1c;--ink:#ecebe6;--muted:#9c9b94;--line:#30302d;--accent:#748ffc;--good:#51cf66;--warn:#ffa94d;--bad:#ff6b6b}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
+main{max-width:1180px;margin:0 auto;padding:24px 16px 64px}
+header{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:baseline;gap:8px;margin-bottom:20px}
+h1{font-size:22px;margin:0}
+h2{font-size:15px;margin:0 0 12px;color:var(--muted);font-weight:600;text-transform:uppercase;letter-spacing:.04em}
+.muted{color:var(--muted)}
+.grid{display:grid;gap:12px;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));margin-bottom:16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px}
+.kpi .v{font-size:28px;font-weight:650;font-variant-numeric:tabular-nums}
+.kpi .l{color:var(--muted);font-size:13px}
+.two{display:grid;gap:12px;grid-template-columns:2fr 1fr;margin-bottom:16px}
+@media (max-width:800px){.two{grid-template-columns:1fr}}
+svg{display:block;width:100%;height:auto}
+.bar{display:flex;align-items:center;gap:8px;margin:6px 0;font-size:14px}
+.bar span:first-child{width:90px;flex:none}
+.bar .track{flex:1;height:10px;background:var(--line);border-radius:5px;overflow:hidden}
+.bar .fill{height:100%;background:var(--accent)}
+.bar b{width:44px;text-align:right;font-variant-numeric:tabular-nums}
+.table-wrap{overflow-x:auto}
+table{width:100%;border-collapse:collapse;font-size:14px}
+th,td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--line);white-space:nowrap}
+th{color:var(--muted);font-weight:600}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}
+td a{color:var(--accent);text-decoration:none}
+.pill{display:inline-block;padding:1px 8px;border-radius:99px;font-size:12px;border:1px solid currentColor}
+.pass{color:var(--good)}.neutral{color:var(--warn)}.fail{color:var(--bad)}.none{color:var(--muted)}
+.empty{color:var(--muted);padding:12px 0}
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>Chimera Growth Engine · thechimeraai.com</h1>
+    <span class="muted" id="built"></span>
+  </header>
+
+  <section class="grid" id="kpis"></section>
+
+  <section class="two">
+    <div class="card"><h2>Search clicks per day (Search Console)</h2><div id="trend"></div></div>
+    <div class="card"><h2>AI search traffic, last 28 days</h2><div id="ai"></div></div>
+  </section>
+
+  <section class="card" style="margin-bottom:16px">
+    <h2>Engine pages</h2>
+    <div class="table-wrap"><table id="pages"></table></div>
+  </section>
+
+  <section class="card">
+    <h2>Next up: top queries in the queue</h2>
+    <div class="table-wrap"><table id="queue"></table></div>
+  </section>
+</main>
+<script>
+const D = {"site": "thechimeraai.com", "built": "2026-11-05", "summary": {"history": [], "latest": {}}, "pages": [], "queue": [], "pages_per_day": 3};
+const L = (D.summary && D.summary.latest) || {};
+const fmt = n => (n == null ? "—" : Number(n).toLocaleString());
+const esc = s => String(s == null ? "" : s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+document.getElementById("built").textContent = "Updated " + D.built;
+
+const kpis = [
+  ["Engine pages live", L.pages_total ?? D.pages.length],
+  ["Indexed by Google", L.pages_indexed],
+  ["Search clicks (28d)", L.clicks_28d],
+  ["Impressions (28d)", L.impressions_28d],
+  ["AI search visits (28d)", L.ai_sessions_28d],
+  ["Leads (28d)", L.leads_28d],
+  ["Leads from engine pages", L.engine_leads_28d],
+  ["Pages per day", D.pages_per_day],
+];
+document.getElementById("kpis").innerHTML = kpis.map(([l, v]) =>
+  `<div class="card kpi"><div class="v">${fmt(v)}</div><div class="l">${l}</div></div>`).join("");
+
+(function trend() {
+  const rows = (D.summary.gsc_daily || []).map(r => ({d: r.date, v: r.clicks}));
+  const el = document.getElementById("trend");
+  if (!rows.length) { el.innerHTML = '<div class="empty">No Search Console data yet.</div>'; return; }
+  const W = 640, H = 200, P = 28, max = Math.max(1, ...rows.map(r => r.v));
+  const x = i => P + i * (W - 2 * P) / Math.max(1, rows.length - 1);
+  const y = v => H - P - v * (H - 2 * P) / max;
+  const pts = rows.map((r, i) => `${x(i)},${y(r.v)}`).join(" ");
+  el.innerHTML = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Daily clicks">
+    <line x1="${P}" y1="${H-P}" x2="${W-P}" y2="${H-P}" stroke="var(--line)"/>
+    <text x="${P}" y="${P-10}" fill="var(--muted)" font-size="11">max ${fmt(max)}</text>
+    <polyline points="${pts}" fill="none" stroke="var(--accent)" stroke-width="2.5" stroke-linejoin="round"/>
+    <text x="${P}" y="${H-8}" fill="var(--muted)" font-size="11">${esc(rows[0].d)}</text>
+    <text x="${W-P}" y="${H-8}" fill="var(--muted)" font-size="11" text-anchor="end">${esc(rows[rows.length-1].d)}</text>
+  </svg>`;
+})();
+
+(function ai() {
+  const by = L.ai_by_engine || {};
+  const rows = Object.entries(by).sort((a, b) => b[1] - a[1]);
+  const el = document.getElementById("ai");
+  if (!rows.length) { el.innerHTML = '<div class="empty">No AI search visits recorded yet.</div>'; return; }
+  const max = Math.max(...rows.map(r => r[1]));
+  el.innerHTML = rows.map(([k, v]) => `<div class="bar"><span>${esc(k)}</span>
+    <span class="track"><span class="fill" style="display:block;width:${(v / max * 100).toFixed(1)}%"></span></span><b>${fmt(v)}</b></div>`).join("");
+})();
+
+(function pages() {
+  const el = document.getElementById("pages");
+  if (!D.pages.length) { el.outerHTML = '<div class="empty">No pages published yet.</div>'; return; }
+  const cls = v => v === "PASS" ? "pass" : v === "NEUTRAL" ? "neutral" : v === "FAIL" ? "fail" : "none";
+  el.innerHTML = `<thead><tr><th>Page</th><th>Published</th><th>Indexed</th><th class="num">Clicks</th>
+    <th class="num">Impr.</th><th class="num">Pos.</th><th class="num">Visits</th><th class="num">AI visits</th><th class="num">Leads</th></tr></thead><tbody>` +
+    D.pages.map(p => `<tr><td><a href="${esc(p.url)}" target="_blank" rel="noopener">/${esc(p.slug)}/</a></td>
+      <td>${esc(p.published)}</td><td><span class="pill ${cls(p.index_verdict)}">${esc(p.index_coverage || "not checked")}</span></td>
+      <td class="num">${fmt(p.clicks_28d)}</td><td class="num">${fmt(p.impressions_28d)}</td><td class="num">${fmt(p.position_28d)}</td>
+      <td class="num">${fmt(p.sessions_28d)}</td><td class="num">${fmt(p.ai_sessions_28d)}</td><td class="num">${fmt(p.leads_28d)}</td></tr>`).join("") + "</tbody>";
+})();
+
+(function queue() {
+  const el = document.getElementById("queue");
+  if (!D.queue.length) { el.outerHTML = '<div class="empty">Queue is empty. Run research.</div>'; return; }
+  el.innerHTML = `<thead><tr><th>Query</th><th>Source</th><th class="num">Volume</th><th class="num">Difficulty</th><th class="num">Score</th></tr></thead><tbody>` +
+    D.queue.map(q => `<tr><td>${esc(q.query)}</td><td>${esc(q.source)}</td><td class="num">${fmt(q.volume ?? q.impressions)}</td>
+      <td class="num">${fmt(q.difficulty)}</td><td class="num">${fmt(q.score)}</td></tr>`).join("") + "</tbody>";
+})();
+</script>
+</body>
+</html>

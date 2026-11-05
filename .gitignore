@@ -1,0 +1,5 @@
+content/preview/
+__pycache__/
+*.pyc
+*.tmp
+.pytest_cache/
