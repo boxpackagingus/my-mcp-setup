@@ -31,7 +31,7 @@ Add these as environment variables in the cloud environment settings
 | `GSC_CREDENTIALS_PATH` | seo-audit-console | Path to that same JSON key on disk (see note below) |
 | `CITE42_API_KEY` | cite42 | https://www.cite42.dev/app/keys |
 | `SEMRUSH_API_KEY` | semrush | Semrush account, API section (needs a paid API plan) |
-| `CONTEXT7_API_KEY` | context7 (optional) | https://context7.com/dashboard |
+| `CONTEXT7_API_KEY` | context7 (optional, higher limits) | https://context7.com/dashboard. If you get one, run: `claude mcp add -s project -t http context7 https://mcp.context7.com/mcp -H 'Authorization: Bearer ${CONTEXT7_API_KEY}'` |
 
 Note on `GSC_CREDENTIALS_PATH`: cloud sessions have no file upload. To use seo-audit-console, add this line to the environment's setup script. It saves the JSON secret to a file:
 
