@@ -7,5 +7,14 @@
     "slugs": "is-geo-bring-sales",
     "indexnow": "",
     "note": "First page, published during setup"
+  },
+  {
+    "at": "2026-11-05T16:57:26Z",
+    "published": 0,
+    "failed": 0,
+    "waiting": 0,
+    "slugs": "",
+    "indexnow": "Failed (ProxyError)",
+    "note": "Plugin 1.1 installed. IndexNow blocked by the environment's network settings (api.indexnow.org not allowed)."
   }
 ]
