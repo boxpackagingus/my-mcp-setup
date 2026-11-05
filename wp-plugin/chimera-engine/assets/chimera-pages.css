@@ -244,3 +244,14 @@
 .cp-home-guides .cp-sec-head { margin-bottom: 24px; }
 
 @media (prefers-reduced-motion: reduce) { .cp * { transition: none !important; } }
+
+/* Homepage section sits on the homepage's dark background */
+.cp-home-guides h2 { color: var(--cp-on-night); }
+.cp-home-guides .cp-eyebrow, .cp-home-guides .cp-sec-lead { color: var(--cp-on-night-muted); }
+.cp-home-guides .cp-sec-lead a { color: var(--cp-accent); font-weight: 600; text-decoration: none !important; }
+
+/* Phones: contents chips scroll sideways instead of stacking */
+@media (max-width: 640px) {
+  .cp-toc ol { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 6px; scroll-snap-type: x proximity; }
+  .cp-toc li { flex: none; scroll-snap-align: start; }
+}

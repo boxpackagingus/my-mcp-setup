@@ -35,10 +35,10 @@ def main(argv):
         return 0
     if cmd == "quality":
         from . import publish, quality
-        texts = publish.existing_texts()
         failed = 0
         for f in args:
-            ok, problems, stats = quality.check(config.read_json(f, {}), cfg, texts)
+            spec = config.read_json(f, {})
+            ok, problems, stats = quality.check(spec, cfg, publish.existing_texts(exclude=spec.get("slug")))
             print(f"{'PASS' if ok else 'FAIL'}  {f}  {stats}")
             for p in problems:
                 print(f"   - {p}")
