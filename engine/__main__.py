@@ -6,6 +6,7 @@
   python -m engine publish [--dry-run] Publish drafts that pass (respects the daily limit)
   python -m engine track              Pull Search Console + GA4 numbers
   python -m engine dashboard          Rebuild dashboard/index.html
+  python -m engine export             Write the dashboard data files (dashboard/export/)
   python -m engine status             Show today's limit and queue size
 """
 import json
@@ -53,6 +54,10 @@ def main(argv):
     if cmd == "dashboard":
         from . import dashboard
         print(dashboard.build(cfg))
+        return 0
+    if cmd == "export":
+        from . import export
+        print(json.dumps(export.run(cfg), indent=2))
         return 0
     if cmd == "status":
         from . import publish

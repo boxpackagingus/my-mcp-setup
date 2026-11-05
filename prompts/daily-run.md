@@ -73,4 +73,9 @@ python -m engine dashboard
    - the key numbers from `track`
    - anything that needs a human
 2. Commit everything with the message `Daily run YYYY-MM-DD` and push to `main`.
-3. Republish the dashboard artifact from `dashboard/index.html` (same artifact URL each day).
+3. Refresh the dashboard at https://claude.ai/artifact/Dd9pgZazE6LyFGzXSp8seV:
+   - Run `python -m engine export`. It writes five files in `dashboard/export/`: `totals`, `pages`, `keywords`, `daily` and `upcoming`.
+   - Upload each file as an asset to that artifact, one call per file (Artifact tool, `asset: true`).
+   - For each upload, `update` the matching `datasets/<name>` document with `source.url` set to the new `/_blob/...` URL, `updated: {at: <now UTC>, by: "Chimera engine"}` and `edit: {via: "claude", at: <now UTC>}`. Use ArtifactData, and pin each write with `if_version` from a fresh read.
+   - Then delete the old assets.
+   - Don't change `files/index.html` unless the page itself needs to change.

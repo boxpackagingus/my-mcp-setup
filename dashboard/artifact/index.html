@@ -1,0 +1,343 @@
+<meta name="dash-one-writer">
+<style>
+.cg { display: grid; gap: var(--cds-gap-xl); font-family: var(--font-anthropic-sans); font-variant-numeric: tabular-nums; }
+.cg h1 { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: var(--cds-font-size-title); margin: 0; text-wrap: balance; }
+.cg h2 { font-size: var(--cds-font-size-heading); font-weight: var(--cds-font-weight-medium); margin: 0; }
+.cg-head { display: grid; gap: var(--cds-gap-xs); }
+.cg-lede { font-size: var(--cds-font-size-body); margin: 0; max-width: 65ch; }
+.cg-lede b { font-weight: 600; }
+.cg-muted { color: var(--color-fg-muted); font-size: var(--cds-font-size-caption); margin: 0; }
+.cg-notice { display: flex; gap: var(--cds-gap-sm); align-items: flex-start; padding: var(--cds-pad-md) var(--cds-pad-lg); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); background: var(--color-panel); font-size: var(--cds-font-size-body); max-width: 80ch; }
+.cg-notice::before { content: ""; flex: none; width: .5rem; height: .5rem; margin-top: .45rem; border-radius: 50%; background: var(--color-warn); }
+.cg-notice p { margin: 0; }
+.cg-section { display: grid; gap: var(--cds-gap-md); }
+.cg-section > header { display: grid; gap: 2px; }
+.cg-tiles { display: grid; gap: var(--cds-gap-md); grid-template-columns: repeat(auto-fit, minmax(min(100%, 11rem), 1fr)); }
+.cg-tile { display: grid; gap: var(--cds-gap-xs); align-content: start; background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); padding: var(--cds-pad-lg); }
+.cg-tile .cg-label { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); margin: 0; }
+.cg-tile .cg-value { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: var(--cds-font-size-title); line-height: 1.1; margin: 0; }
+.cg-tile .cg-help { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); margin: 0; }
+.cg-cards { display: grid; gap: var(--cds-gap-md); grid-template-columns: repeat(auto-fit, minmax(min(100%, 20rem), 1fr)); }
+.cg-card { display: grid; gap: var(--cds-gap-sm); align-content: start; min-width: 0; background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); padding: var(--cds-pad-lg); }
+.cg-chart { position: relative; min-height: 180px; }
+.cg-chart svg { display: block; }
+.cg-empty { display: flex; align-items: center; justify-content: center; min-height: 180px; color: var(--color-fg-muted); font-size: var(--cds-font-size-caption); text-align: center; padding-inline: var(--cds-pad-md); }
+.cg-tip { position: absolute; pointer-events: none; background: var(--cds-surface-popover); border: 1px solid var(--cds-border); border-radius: var(--cds-radius); box-shadow: var(--cds-shadow-popover); padding: var(--cds-pad-xs) var(--cds-pad-sm); font-size: var(--cds-font-size-caption); white-space: nowrap; }
+.cg-tip .cg-tip-day { color: var(--cds-text-secondary); }
+.cg-table-wrap { overflow-x: auto; max-height: 28rem; overflow-y: auto; }
+.cg table { width: 100%; border-collapse: collapse; font-size: var(--cds-font-size-body); }
+.cg th { position: sticky; top: 0; background: var(--color-panel); text-align: left; font-weight: var(--cds-font-weight-medium); font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); padding: var(--cds-pad-xs) var(--cds-pad-sm); border-bottom: 1px solid var(--color-border-line); white-space: nowrap; }
+.cg td { padding: var(--cds-pad-sm); border-bottom: 1px solid var(--color-border-line); vertical-align: top; }
+.cg th.cg-num, .cg td.cg-num { text-align: right; white-space: nowrap; }
+.cg td a { color: inherit; text-underline-offset: 3px; }
+.cg td .cg-sub { display: block; color: var(--color-fg-muted); font-size: var(--cds-font-size-caption); }
+.cg-pill { display: inline-block; padding: 1px 8px; border-radius: 999px; border: 1px solid currentColor; font-size: var(--cds-font-size-caption); white-space: nowrap; }
+.cg-pill[data-state="ok"] { color: var(--color-ok); }
+.cg-pill[data-state="warn"] { color: var(--color-warn); }
+.cg-pill[data-state="bad"] { color: var(--color-bad); }
+.cg-pill[data-state="none"] { color: var(--color-fg-muted); }
+.cg [data-dash-source-state=empty] { color: transparent; }
+.cg .cg-value[data-dash-source-state=empty] { color: var(--color-fg-muted); }
+.cg [data-dash-source-state=refreshing] { opacity: .5; transition: opacity var(--cds-dur-slow); }
+.cg-fail { display: flex; align-items: center; justify-content: center; gap: var(--cds-gap-xs); color: var(--color-fg-muted); font-size: var(--cds-font-size-caption); min-height: 3rem; }
+.cg-fail::before { content: ""; width: .375rem; height: .375rem; border-radius: 50%; background: var(--color-bad); }
+@media (max-width: 640px) { .cg .cg-hide-narrow { display: none; } }
+</style>
+
+<div class="cg">
+  <header class="cg-head">
+    <h1>Chimera Growth Dashboard</h1>
+    <p class="cg-lede">So far the engine has built <b data-draw="lede-pages" data-source="totals" data-field="pages_live" data-row="0">—</b> pages on thechimeraai.com, targeting <b data-draw="lede-keywords" data-source="totals" data-field="keywords_used" data-row="0">—</b> keywords.</p>
+    <p class="cg-muted">Updated <span data-draw="updated" data-source="totals" data-field="updated" data-row="0">—</span> · the engine refreshes this page every morning.</p>
+  </header>
+
+  <div class="cg-notice" data-google-notice hidden>
+    <p>Google isn't connected yet, so impressions, clicks, visits and leads show a dash for now. They fill in automatically on the first daily run after the Google key is added.</p>
+  </div>
+
+  <section class="cg-section" id="built">
+    <header>
+      <h2>What we've built</h2>
+      <p class="cg-muted">All time</p>
+    </header>
+    <div class="cg-tiles">
+      <div class="cg-tile">
+        <p class="cg-label">Pages built</p>
+        <p class="cg-value dash-skeleton" data-draw="tile" data-source="totals" data-field="pages_live" data-row="0">—</p>
+        <p class="cg-help">Landing pages live on your site</p>
+      </div>
+      <div class="cg-tile">
+        <p class="cg-label">Keywords used</p>
+        <p class="cg-value dash-skeleton" data-draw="tile" data-source="totals" data-field="keywords_used" data-row="0">—</p>
+        <p class="cg-help">Main and supporting keywords across all pages</p>
+      </div>
+      <div class="cg-tile">
+        <p class="cg-label">Pages in Google</p>
+        <p class="cg-value dash-skeleton" data-draw="tile" data-source="totals" data-field="pages_indexed" data-row="0">—</p>
+        <p class="cg-help">Pages Google has added to its search results</p>
+      </div>
+      <div class="cg-tile">
+        <p class="cg-label">Questions found</p>
+        <p class="cg-value dash-skeleton" data-draw="tile" data-source="totals" data-field="queries_found" data-row="0">—</p>
+        <p class="cg-help">Searches waiting for a page of their own</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="cg-section" id="results">
+    <header>
+      <h2>What it's bringing in</h2>
+      <p class="cg-muted">Last 28 days, whole site</p>
+    </header>
+    <div class="cg-tiles">
+      <div class="cg-tile">
+        <p class="cg-label">Impressions</p>
+        <p class="cg-value dash-skeleton" data-draw="tile" data-source="totals" data-field="impressions" data-row="0">—</p>
+        <p class="cg-help">Times your pages appeared in Google results</p>
+      </div>
+      <div class="cg-tile">
+        <p class="cg-label">Clicks from Google</p>
+        <p class="cg-value dash-skeleton" data-draw="tile" data-source="totals" data-field="clicks" data-row="0">—</p>
+        <p class="cg-help">People who clicked through from Google</p>
+      </div>
+      <div class="cg-tile">
+        <p class="cg-label">Website visits</p>
+        <p class="cg-value dash-skeleton" data-draw="tile" data-source="totals" data-field="visits" data-row="0">—</p>
+        <p class="cg-help">All visits, from every source</p>
+      </div>
+      <div class="cg-tile">
+        <p class="cg-label">Visits from AI search</p>
+        <p class="cg-value dash-skeleton" data-draw="tile" data-source="totals" data-field="ai_visits" data-row="0">—</p>
+        <p class="cg-help">From ChatGPT, Perplexity, Gemini, Copilot and Claude</p>
+      </div>
+      <div class="cg-tile">
+        <p class="cg-label">Leads</p>
+        <p class="cg-value dash-skeleton" data-draw="tile" data-source="totals" data-field="leads" data-row="0">—</p>
+        <p class="cg-help">Audit requests sent through your forms</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="cg-section" id="trend">
+    <header>
+      <h2>Day by day</h2>
+      <p class="cg-muted">From Google Search Console</p>
+    </header>
+    <div class="cg-cards">
+      <div class="cg-card">
+        <h2>Impressions per day</h2>
+        <p class="cg-muted">How often you showed up in Google</p>
+        <div class="cg-chart" data-draw="impressions-chart" data-source="daily"></div>
+      </div>
+      <div class="cg-card">
+        <h2>Clicks per day</h2>
+        <p class="cg-muted">How many people came to your site from Google</p>
+        <div class="cg-chart" data-draw="clicks-chart" data-source="daily"></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="cg-section" id="pages">
+    <header>
+      <h2>Every page the engine built</h2>
+      <p class="cg-muted">Newest first. Results are for the last 28 days.</p>
+    </header>
+    <div class="cg-card">
+      <div class="cg-table-wrap">
+        <table data-source="pages" data-row-key="slug">
+          <thead>
+            <tr>
+              <th data-field="title">Page</th>
+              <th data-field="keyword" class="cg-hide-narrow">Main keyword</th>
+              <th data-field="published">Published</th>
+              <th data-field="indexed">In Google?</th>
+              <th data-field="impressions" class="cg-num">Impressions</th>
+              <th data-field="clicks" class="cg-num">Clicks</th>
+              <th data-field="visits" class="cg-num cg-hide-narrow">Visits</th>
+              <th data-field="leads" class="cg-num">Leads</th>
+            </tr>
+          </thead>
+          <tbody data-draw="pages-body"></tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <section class="cg-cards">
+    <div class="cg-card" id="keywords">
+      <h2>Keywords used</h2>
+      <p class="cg-muted">Each keyword and the page that targets it</p>
+      <div class="cg-table-wrap">
+        <table data-source="keywords" data-row-key="keyword">
+          <thead>
+            <tr>
+              <th data-field="keyword">Keyword</th>
+              <th data-field="kind">Type</th>
+              <th data-field="page">Page</th>
+            </tr>
+          </thead>
+          <tbody data-draw="keywords-body"></tbody>
+        </table>
+      </div>
+    </div>
+    <div class="cg-card" id="next">
+      <h2>Coming up next</h2>
+      <p class="cg-muted">Top searches the engine plans to write pages for</p>
+      <div class="cg-table-wrap">
+        <table data-source="upcoming" data-row-key="query">
+          <thead>
+            <tr>
+              <th data-field="query">Search</th>
+              <th data-field="source">Found in</th>
+            </tr>
+          </thead>
+          <tbody data-draw="upcoming-body"></tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+</div>
+
+<script>
+(() => {
+  const num = (v) => (v === null || v === undefined || v === '' ? '—' : d3.format(',')(Number(v)));
+  const day = (v) => (v ? d3.utcFormat('%b %-d, %Y')(new Date(String(v).slice(0, 10))) : '—');
+  window.cgFmt = { num, day };
+
+  // Show the "Google isn't connected" note only while it's true.
+  dash.onData(() => {
+    const t = dash.data('totals');
+    const connected = t.status === 'ok' && t.data[0] && t.data[0].google_connected;
+    document.querySelectorAll('[data-google-notice]').forEach((el) => { el.hidden = !(t.status === 'ok' && !connected); });
+  });
+
+  // Single numbers from the totals file.
+  const drawNumber = (el) => {
+    const t = dash.data('totals');
+    el.classList.toggle('dash-skeleton', t.status === 'loading');
+    if (t.status !== 'ok' || !t.data[0]) { el.textContent = '—'; return; }
+    el.textContent = num(t.data[0][el.dataset.field]);
+  };
+  ['tile', 'lede-pages', 'lede-keywords'].forEach((name) => dash.draw(name, drawNumber));
+  dash.draw('updated', (el) => {
+    const t = dash.data('totals');
+    el.textContent = t.status === 'ok' && t.data[0] ? day(t.data[0].updated) : '—';
+  });
+})();
+</script>
+
+<script>
+(() => {
+  const { num } = window.cgFmt;
+
+  const bars = (el, field, colorIndex, emptyText) => {
+    const d = dash.data('daily');
+    el.replaceChildren();
+    if (d.status === 'error') {
+      const f = document.createElement('div'); f.className = 'cg-fail'; f.textContent = 'Failed to load'; el.append(f); return;
+    }
+    if (d.status !== 'ok') return;
+    const rows = d.data.map((r) => ({ day: new Date(String(r.day).slice(0, 10)), v: Number(r[field]) || 0 }));
+    if (!rows.length) {
+      const e = document.createElement('div'); e.className = 'cg-empty'; e.textContent = emptyText; el.append(e); return;
+    }
+    const W = Math.max(280, el.clientWidth), H = 180, m = { t: 12, r: 8, b: 24, l: 8 };
+    const svg = d3.select(el).append('svg').attr('width', '100%').attr('viewBox', `0 0 ${W} ${H}`);
+    const max = d3.max(rows, (r) => r.v) || 1;
+    const y = d3.scaleLinear([0, max], [H - m.b, m.t]).nice(4);
+    const ticks = y.ticks(4);
+    const probe = svg.append('text').attr('font-size', 11).text(num(ticks[ticks.length - 1]));
+    m.l = Math.ceil(probe.node().getComputedTextLength()) + 10; probe.remove();
+    const x = d3.scaleBand(rows.map((r) => r.day), [m.l, W - m.r]).padding(0.25);
+    svg.append('g').selectAll('line').data(ticks).join('line')
+      .attr('x1', m.l).attr('x2', W - m.r).attr('y1', (t) => y(t)).attr('y2', (t) => y(t))
+      .attr('stroke', 'var(--cds-chart-grid)');
+    svg.append('g').selectAll('text').data(ticks).join('text')
+      .attr('x', m.l - 6).attr('y', (t) => y(t)).attr('dy', '0.32em').attr('text-anchor', 'end')
+      .attr('font-size', 11).attr('fill', 'var(--color-fg-muted)').text((t) => num(t));
+    const fmt = d3.utcFormat('%b %-d');
+    const ends = [rows[0], rows[rows.length - 1]];
+    svg.append('g').selectAll('text').data(ends.length > 1 && ends[0] !== ends[1] ? ends : [rows[0]]).join('text')
+      .attr('x', (r, i) => (i === 0 ? m.l : W - m.r)).attr('y', H - 6)
+      .attr('text-anchor', (r, i) => (i === 0 ? 'start' : 'end'))
+      .attr('font-size', 11).attr('fill', 'var(--color-fg-muted)').text((r) => fmt(r.day));
+    const tip = document.createElement('div'); tip.className = 'cg-tip'; tip.hidden = true; el.append(tip);
+    svg.append('g').selectAll('rect').data(rows).join('rect')
+      .attr('x', (r) => x(r.day)).attr('width', Math.min(32, x.bandwidth()))
+      .attr('y', (r) => y(r.v)).attr('height', (r) => y(0) - y(r.v))
+      .attr('rx', 3).attr('fill', dash.colors[colorIndex])
+      .on('pointerenter', function (ev, r) {
+        d3.select(this).attr('opacity', 0.8);
+        tip.replaceChildren();
+        const a = document.createElement('div'); a.className = 'cg-tip-day'; a.textContent = fmt(r.day);
+        const b = document.createElement('div'); b.textContent = num(r.v);
+        tip.append(a, b); tip.hidden = false;
+        const left = Math.min(Math.max(0, x(r.day) / W * el.clientWidth - 30), el.clientWidth - tip.offsetWidth);
+        tip.style.left = `${left}px`; tip.style.top = '0px';
+      })
+      .on('pointerleave', function () { d3.select(this).attr('opacity', 1); tip.hidden = true; });
+  };
+
+  dash.draw('impressions-chart', (el) => bars(el, 'impressions', 0, 'Shows up once Google Search Console is connected.'));
+  dash.draw('clicks-chart', (el) => bars(el, 'clicks', 1, 'Shows up once Google Search Console is connected.'));
+})();
+</script>
+
+<script>
+(() => {
+  const { num, day } = window.cgFmt;
+  const cell = (tr, text, cls) => { const td = document.createElement('td'); if (cls) td.className = cls; td.textContent = text; tr.append(td); return td; };
+  const failRow = (tb, cols) => { const tr = document.createElement('tr'); const td = document.createElement('td'); td.colSpan = cols; const f = document.createElement('div'); f.className = 'cg-fail'; f.textContent = 'Failed to load'; td.append(f); tr.append(td); tb.append(tr); };
+  const emptyRow = (tb, cols, text) => { const tr = document.createElement('tr'); const td = document.createElement('td'); td.colSpan = cols; td.className = 'cg-muted'; td.textContent = text; tr.append(td); tb.append(tr); };
+  const STATE = { 'Indexed': 'ok', 'Not yet': 'warn', 'Problem': 'bad' };
+
+  dash.draw('pages-body', (tb) => {
+    const d = dash.data('pages');
+    tb.replaceChildren();
+    if (d.status === 'error') return failRow(tb, 8);
+    if (d.status !== 'ok') return;
+    if (!d.data.length) return emptyRow(tb, 8, 'No pages yet. The first ones appear after the next daily run.');
+    d.data.forEach((r) => {
+      const tr = document.createElement('tr'); tr.dataset.key = r.slug;
+      const td = document.createElement('td');
+      const a = document.createElement('a'); a.href = r.url; a.target = '_blank'; a.rel = 'noopener'; a.textContent = r.title;
+      td.append(a); tr.append(td);
+      cell(tr, r.keyword, 'cg-hide-narrow');
+      cell(tr, day(r.published));
+      const st = document.createElement('td'); const pill = document.createElement('span');
+      pill.className = 'cg-pill'; pill.dataset.state = STATE[r.indexed] || 'none'; pill.textContent = r.indexed; st.append(pill); tr.append(st);
+      cell(tr, num(r.impressions), 'cg-num');
+      cell(tr, num(r.clicks), 'cg-num');
+      cell(tr, num(r.visits), 'cg-num cg-hide-narrow');
+      cell(tr, num(r.leads), 'cg-num');
+      tb.append(tr);
+    });
+  });
+
+  dash.draw('keywords-body', (tb) => {
+    const d = dash.data('keywords');
+    tb.replaceChildren();
+    if (d.status === 'error') return failRow(tb, 3);
+    if (d.status !== 'ok') return;
+    if (!d.data.length) return emptyRow(tb, 3, 'No keywords yet.');
+    d.data.forEach((r) => {
+      const tr = document.createElement('tr');
+      cell(tr, r.keyword); cell(tr, r.kind); cell(tr, r.page);
+      tb.append(tr);
+    });
+  });
+
+  dash.draw('upcoming-body', (tb) => {
+    const d = dash.data('upcoming');
+    tb.replaceChildren();
+    if (d.status === 'error') return failRow(tb, 2);
+    if (d.status !== 'ok') return;
+    if (!d.data.length) return emptyRow(tb, 2, 'The engine finds new searches every morning.');
+    d.data.forEach((r) => {
+      const tr = document.createElement('tr');
+      cell(tr, r.query); cell(tr, r.source);
+      tb.append(tr);
+    });
+  });
+})();
+</script>
