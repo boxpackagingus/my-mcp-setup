@@ -1,0 +1,260 @@
+{
+  "query": "robots txt for ai crawlers",
+  "slug": "robots-txt-for-ai-crawlers",
+  "eyebrow": "Technical GEO",
+  "primary_keyword": "robots.txt for AI crawlers",
+  "secondary_keywords": [
+    "AI crawlers",
+    "GPTBot",
+    "OAI-SearchBot",
+    "block AI training"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Robots.txt for AI Crawlers: What to Allow and Block",
+    "meta_description": "Robots.txt for AI crawlers: which bots power AI search, which train models, an example file that allows search but blocks training, and how to test it."
+  },
+  "h1": "Robots.txt for AI Crawlers: Allow Search, Control Training",
+  "answer": "Robots.txt for AI crawlers should allow the bots that power AI search answers, such as OAI-SearchBot, ChatGPT-User, PerplexityBot, Claude-SearchBot, Googlebot and Bingbot, if you want to be cited. Training crawlers such as GPTBot, Google-Extended and ClaudeBot can be blocked separately without removing you from those platforms' search answers.",
+  "key_takeaways": [
+    "Search bots and training bots are often separate, so you can treat them differently.",
+    "Blocking search bots removes you from that platform's answers.",
+    "Blocking training bots does not stop search citations.",
+    "Firewalls and CDNs can block bots even when robots.txt allows them.",
+    "Test your file and your firewall after every change."
+  ],
+  "sections": [
+    {
+      "heading": "Why robots.txt matters for GEO",
+      "body_html": "<p>Robots.txt is a plain text file at the root of your site that tells crawlers which parts they may fetch. Reputable AI companies honor it. That makes it the first switch in any GEO program: if the crawler an engine uses for its search answers is blocked, that engine cannot read your pages, and it is very unlikely to cite them.</p><p>Many sites block AI bots by accident, through a template copied years ago, a security plugin or a CDN setting.</p><p>The fix is usually quick. Reviewing the file takes minutes, and a corrected rule can make your pages readable by an AI engine the next time its crawler visits. Few GEO tasks have a better ratio of effort to impact, which is why it belongs at the top of every audit.</p>"
+    },
+    {
+      "heading": "Search crawlers vs training crawlers",
+      "body_html": "<p>Most AI companies now run separate bots for different jobs:</p><ul><li><strong>OpenAI:</strong> OAI-SearchBot (ChatGPT search results), ChatGPT-User (pages a user asks for), GPTBot (training).</li><li><strong>Anthropic:</strong> Claude-SearchBot (search quality), Claude-User (user requests), ClaudeBot (training).</li><li><strong>Perplexity:</strong> PerplexityBot (search index; Perplexity says it is not used for training), Perplexity-User (user requests).</li><li><strong>Google:</strong> Googlebot (Search, including AI Overviews), Google-Extended (a control token for Gemini training and grounding that Google says does not affect Search).</li><li><strong>Microsoft:</strong> Bingbot (Bing, which grounds Copilot's web answers).</li></ul><p>That separation lets you be cited in AI answers while opting out of model training.</p>"
+    },
+    {
+      "heading": "An example robots.txt",
+      "body_html": "<p>This example allows the search and user-request bots, and opts out of training. Adapt it to your own choices:</p><blockquote><code># Search and answer engines: allowed<br>User-agent: Googlebot<br>Allow: /<br><br>User-agent: Bingbot<br>Allow: /<br><br>User-agent: OAI-SearchBot<br>Allow: /<br><br>User-agent: ChatGPT-User<br>Allow: /<br><br>User-agent: PerplexityBot<br>Allow: /<br><br>User-agent: Claude-SearchBot<br>Allow: /<br><br>User-agent: Claude-User<br>Allow: /<br><br># Optional: opt out of model training<br>User-agent: GPTBot<br>Disallow: /<br><br>User-agent: Google-Extended<br>Disallow: /<br><br>User-agent: ClaudeBot<br>Disallow: /<br><br>Sitemap: https://example.com/sitemap.xml</code></blockquote><p>If you are happy for your content to be used in training too, simply allow those bots or leave them out.</p>"
+    },
+    {
+      "heading": "Decide your training policy deliberately",
+      "body_html": "<p>Whether to allow training crawlers is a business decision, not a technical one.</p><ul><li><strong>Allow training</strong> if you want your brand, facts and expertise reflected in future model knowledge, which can influence answers that do not search the web.</li><li><strong>Block training</strong> if your content is your product, such as paid research or proprietary data, or if you prefer not to contribute.</li></ul><p>Whichever you choose, keep search bots allowed if you want to be cited.</p>"
+    },
+    {
+      "heading": "Check your firewall and CDN too",
+      "body_html": "<p>Robots.txt is a request, not a gate. Your firewall, CDN or security plugin can block a bot before it ever reads the file. Common culprits are bot-fighting modes, country blocks and rate limits. Review your security settings for rules that challenge or block OAI-SearchBot, PerplexityBot, Claude-SearchBot and Bingbot, and allow them explicitly where your provider supports verified-bot lists.</p>"
+    },
+    {
+      "heading": "How to test your setup",
+      "body_html": "<ol><li><strong>Open /robots.txt</strong> in a browser and read it as plain text.</li><li><strong>Check for a blanket block</strong> such as <code>User-agent: *</code> followed by <code>Disallow: /</code>.</li><li><strong>Use Google Search Console's robots.txt report</strong> to see how Google reads it.</li><li><strong>Check server logs</strong> for visits from the AI bots you allowed.</li><li><strong>Test a page in each engine</strong> by asking a question your page answers and seeing whether it is found.</li></ol>"
+    },
+    {
+      "heading": "Other AI-related crawlers",
+      "body_html": "<p>You may also see Applebot-Extended (Apple's control for training use), CCBot (Common Crawl, a dataset many models have used), Meta-ExternalAgent and others. Decide on each the same way: allow what helps people find you, block what you do not want, and keep the file tidy so it is easy to audit.</p>"
+    },
+    {
+      "heading": "robots.txt on WordPress",
+      "body_html": "<p>WordPress creates a virtual robots.txt automatically when there is no physical file on the server. SEO plugins and tools such as the Chimera Engine plugin can add rules to it, including AI crawler rules and your sitemap location. If your host or a previous developer uploaded a physical robots.txt file, it overrides the virtual one, so check for it in your site's root folder before editing rules in a plugin. Always confirm the result by opening /robots.txt in a browser.</p>"
+    },
+    {
+      "heading": "Common robots.txt mistakes",
+      "body_html": "<ul><li>A leftover <code>Disallow: /</code> from a staging site.</li><li>Blocking all unknown bots, which catches new AI search crawlers.</li><li>Blocking CSS and JavaScript files that pages need to render.</li><li>Forgetting the Sitemap line.</li><li>Assuming robots.txt blocks indexing. It controls crawling; use noindex to keep pages out of search.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What should robots.txt allow for AI search?",
+      "a": "Allow the bots that power AI search answers and user requests: OAI-SearchBot and ChatGPT-User, PerplexityBot and Perplexity-User, Claude-SearchBot and Claude-User, plus Googlebot and Bingbot."
+    },
+    {
+      "q": "Does blocking GPTBot remove me from ChatGPT?",
+      "a": "OpenAI describes GPTBot as its training crawler, separate from OAI-SearchBot, which powers ChatGPT search results. Blocking GPTBot alone does not stop your pages appearing in ChatGPT search."
+    },
+    {
+      "q": "What is Google-Extended?",
+      "a": "It is a robots.txt token that controls whether your content is used for Gemini model training and grounding. Google says it does not affect inclusion or ranking in Google Search."
+    },
+    {
+      "q": "Can my firewall block AI crawlers?",
+      "a": "Yes. Firewalls, CDNs and security plugins can block bots before robots.txt is read. Check their settings and allow the bots you want."
+    },
+    {
+      "q": "Does robots.txt stop pages being indexed?",
+      "a": "It controls crawling, not indexing. To keep a page out of search results, use a noindex directive and let crawlers see it."
+    },
+    {
+      "q": "How do I know AI bots are visiting?",
+      "a": "Check your server or CDN logs for their user agents, and confirm that pages you allowed can be found when you ask each engine a question they answer."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "how to get cited by Claude",
+      "url": "https://thechimeraai.com/how-to-get-cited-by-claude/"
+    },
+    {
+      "anchor": "llms.txt best practices",
+      "url": "https://thechimeraai.com/best-practices-for-llms-txt/"
+    },
+    {
+      "anchor": "Perplexity SEO",
+      "url": "https://thechimeraai.com/perplexity-seo/"
+    },
+    {
+      "anchor": "how Chimera's six-phase GEO build works",
+      "url": "https://thechimeraai.com/#process"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "OpenAI: Overview of OpenAI crawlers",
+      "url": "https://platform.openai.com/docs/bots"
+    },
+    {
+      "title": "Anthropic: Does Anthropic crawl data from the web, and how can site owners block the crawler?",
+      "url": "https://support.anthropic.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler"
+    },
+    {
+      "title": "Perplexity: Perplexity crawlers",
+      "url": "https://docs.perplexity.ai/guides/bots"
+    },
+    {
+      "title": "Google Search Central: Google's common crawlers (including Google-Extended)",
+      "url": "https://developers.google.com/search/docs/crawling-indexing/google-common-crawlers"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 1,
+      "type": "matrix",
+      "eyebrow": "Crawler access",
+      "title": "Which crawler each AI platform uses",
+      "lead": "Allow these in robots.txt and your firewall, or that platform cannot read your pages for its answers.",
+      "columns": [
+        "chatgpt",
+        "perplexity",
+        "google",
+        "claude",
+        "copilot"
+      ],
+      "rows": [
+        {
+          "label": "Crawler for search answers",
+          "cells": [
+            "OAI-SearchBot",
+            "PerplexityBot",
+            "Googlebot",
+            "Claude-SearchBot",
+            "Bingbot"
+          ]
+        },
+        {
+          "label": "Fetches pages on a user's request",
+          "cells": [
+            "ChatGPT-User",
+            "Perplexity-User",
+            "Googlebot",
+            "Claude-User",
+            "Bingbot"
+          ]
+        },
+        {
+          "label": "Separate training crawler you can block",
+          "cells": [
+            "Yes: GPTBot",
+            "Not used for training",
+            "Yes: Google-Extended",
+            "Yes: ClaudeBot",
+            "No separate bot"
+          ]
+        }
+      ],
+      "source": {
+        "title": "OpenAI, Perplexity, Google and Anthropic crawler documentation",
+        "url": "https://platform.openai.com/docs/bots",
+        "note": "Check each platform's docs for changes"
+      }
+    },
+    {
+      "after": 4,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "How a crawler decides whether to read your page",
+      "lead": "Two gates every bot passes through.",
+      "steps": [
+        {
+          "title": "Firewall",
+          "text": "Your CDN or security tool decides whether the request gets through."
+        },
+        {
+          "title": "robots.txt",
+          "text": "The bot checks whether it may fetch that path."
+        },
+        {
+          "title": "Fetch",
+          "text": "Allowed bots read the page and its content."
+        },
+        {
+          "title": "Use",
+          "text": "Search bots feed answers; training bots feed future models."
+        }
+      ]
+    },
+    {
+      "after": 6,
+      "type": "engines",
+      "eyebrow": "AI platforms",
+      "title": "The platforms behind each crawler",
+      "lead": "The answer engines that matter most for buyer research, and how each one finds sources.",
+      "items": [
+        {
+          "engine": "chatgpt",
+          "note": "The largest assistant. Searches the web for current questions and links sources in its answers."
+        },
+        {
+          "engine": "google",
+          "note": "AI summaries above Google results, built from pages Google has indexed."
+        },
+        {
+          "engine": "gemini",
+          "note": "Google's assistant app, increasingly used for research and comparisons."
+        },
+        {
+          "engine": "perplexity",
+          "note": "Answer engine built around numbered, clickable citations."
+        },
+        {
+          "engine": "claude",
+          "note": "Anthropic's assistant, used heavily for research and work tasks; can search the web."
+        },
+        {
+          "engine": "copilot",
+          "note": "Microsoft's assistant in Windows, Edge and Office, grounded in Bing results."
+        }
+      ]
+    }
+  ],
+  "hero_query": "Which AI bots should my robots.txt allow?",
+  "short_title": "Robots.txt for AI Crawlers: What to Allow and Block",
+  "hero_engines": [
+    "chatgpt",
+    "claude",
+    "perplexity",
+    "google",
+    "gemini",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 166,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/robots-txt-for-ai-crawlers-chimera.jpg",
+    "alt": "Robots.txt for AI Crawlers: What to Allow and Block: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-05",
+  "updated": "2026-11-05"
+}

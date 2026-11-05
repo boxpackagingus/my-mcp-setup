@@ -1,0 +1,256 @@
+{
+  "query": "how to get cited by claude",
+  "slug": "how-to-get-cited-by-claude",
+  "eyebrow": "Claude visibility",
+  "primary_keyword": "cited by Claude",
+  "secondary_keywords": [
+    "Claude SEO",
+    "Claude-SearchBot",
+    "Anthropic crawler",
+    "AI search visibility"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "How to Get Cited by Claude: A Practical Guide for Brands",
+    "meta_description": "How to get cited by Claude: let Claude-SearchBot crawl you, write precise and sourced pages, and track claude.ai referrals and the leads they bring."
+  },
+  "h1": "How to Get Your Brand Cited by Claude",
+  "answer": "To get cited by Claude, allow Anthropic's Claude-SearchBot and Claude-User to reach your pages, publish precise, well-sourced answers to the questions your buyers ask, and keep your brand described consistently across the web. When Claude searches the web it links its sources, so clear, checkable pages are the ones it picks.",
+  "key_takeaways": [
+    "Claude can search the web and shows the sources it used.",
+    "Anthropic runs separate bots for search, user requests and training.",
+    "Claude rewards precise, well-structured and well-sourced writing.",
+    "Many Claude users are professionals doing research, a high-value audience.",
+    "Visits from claude.ai show up as referrals in your analytics."
+  ],
+  "sections": [
+    {
+      "heading": "How Claude finds and cites sources",
+      "body_html": "<p>Claude, Anthropic's assistant, answers many questions from what it learned in training. When web search is turned on, it also looks up current pages, reads them and cites the ones it used, with links the reader can open.</p><p>That gives you two ways to be named:</p><ul><li><strong>Live citations:</strong> when Claude searches, your page can be one of the linked sources.</li><li><strong>Learned reputation:</strong> brands that are widely and consistently described across the web are more likely to come up when Claude answers from what it already knows.</li></ul><p>The first moves quickly once your pages are crawlable and strong. The second builds over months.</p>"
+    },
+    {
+      "heading": "Step 1: Let Anthropic's crawlers in",
+      "body_html": "<p>Anthropic documents three user agents, each with a different job:</p><ul><li><strong>Claude-SearchBot:</strong> crawls pages to improve the quality of Claude's search results.</li><li><strong>Claude-User:</strong> fetches a page when a person asks Claude to read it.</li><li><strong>ClaudeBot:</strong> collects public web content that may be used for model training.</li></ul><p>To be cited, allow Claude-SearchBot and Claude-User in robots.txt, and check that your CDN or security plugin does not block them. You can block ClaudeBot separately if you prefer not to contribute to training; that does not stop search citations.</p>"
+    },
+    {
+      "heading": "Step 2: Write pages Claude trusts",
+      "body_html": "<p>Claude is often used for careful research: comparing vendors, checking facts, drafting proposals. Pages that do well with that kind of user share a few traits:</p><ol><li><strong>A precise answer first.</strong> State the answer to the exact question in the opening lines, without hype.</li><li><strong>Clear reasoning.</strong> Explain why, with steps, trade-offs and conditions under which the answer changes.</li><li><strong>Checkable evidence.</strong> Link sources for numbers and claims, and name the methods you use.</li><li><strong>Honest limits.</strong> Say who the advice is not for. Balanced pages are easier to cite than sales copy.</li><li><strong>Clean structure.</strong> Descriptive headings, short paragraphs, tables and FAQs that make each passage easy to lift.</li></ol>"
+    },
+    {
+      "heading": "Step 3: Build the reputation Claude draws on",
+      "body_html": "<p>When Claude recommends providers without searching, it relies on what it learned about them. You cannot edit that directly, but you can influence what the web says about you over time:</p><ul><li><strong>Consistent descriptions</strong> of your specialty and location on your site, profiles and directories.</li><li><strong>Expert contributions</strong> such as quotes in industry articles, podcasts with show notes and conference talks.</li><li><strong>Original resources</strong> others reference: data, templates, checklists and guides.</li><li><strong>Detailed reviews</strong> on the platforms your buyers use.</li></ul>"
+    },
+    {
+      "heading": "Step 4: Measure Claude's impact",
+      "body_html": "<p>Visits from Claude's citations usually arrive with <code>claude.ai</code> as the referrer. Group them with chatgpt.com, perplexity.ai, gemini.google.com and copilot.microsoft.com in an AI search channel in Google Analytics, and track which pages they land on and whether they submit your form.</p><p>Then keep a monthly test: ask Claude, with web search on, the same 20 buyer questions and record whether you are named and linked. Because answers vary between sessions, look at the trend across questions rather than any single answer.</p>"
+    },
+    {
+      "heading": "What Claude users want from a page",
+      "body_html": "<p>Claude is popular for long, thoughtful sessions: analysts, founders, marketers and engineers working through a problem. When Claude cites a page for that audience, the visitor arrives expecting depth. Give them:</p><ul><li><strong>Specifics they can act on</strong>, such as checklists, decision criteria and examples.</li><li><strong>Comparison tables</strong> that make trade-offs visible at a glance.</li><li><strong>A low-pressure next step</strong>, like a free audit or a sample report, rather than a hard sell.</li></ul><p>Pages that respect the reader's time tend to convert this audience well.</p>"
+    },
+    {
+      "heading": "Example: a page built to be cited",
+      "body_html": "<p>Imagine a page answering <em>\"How do I choose a GEO agency for a B2B software company?\"</em>. A version Claude is likely to cite opens with a two-sentence answer, then gives a table of selection criteria, a short section on red flags, a worked example of comparing two proposals, and FAQs. Every claim that sounds like a fact links to a source. The page says plainly when a smaller agency or an in-house approach would be the better choice.</p><p>Compare that with a page that opens with a company history and a list of awards. Claude can read both, but only the first gives it passages worth quoting.</p>"
+    },
+    {
+      "heading": "Common reasons brands are missing from Claude",
+      "body_html": "<ul><li><strong>Blocked crawlers:</strong> a blanket bot block in a firewall or security plugin.</li><li><strong>Thin pages:</strong> marketing copy with no specifics gives Claude nothing to cite.</li><li><strong>No outside signals:</strong> a brand that only describes itself on its own site.</li><li><strong>Inconsistent details:</strong> different names, services or locations across the web.</li><li><strong>Testing once:</strong> drawing conclusions from one answer instead of a monthly set.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I get cited by Claude?",
+      "a": "Allow Claude-SearchBot and Claude-User to crawl your site, publish precise and well-sourced answers to buyer questions, and keep your brand consistent across the web. When Claude searches, it links the pages it relies on."
+    },
+    {
+      "q": "What is Claude-SearchBot?",
+      "a": "It is the crawler Anthropic uses to improve Claude's search results. Allowing it in robots.txt lets your pages be considered when Claude searches the web for an answer."
+    },
+    {
+      "q": "Does blocking ClaudeBot stop Claude from citing me?",
+      "a": "Anthropic describes ClaudeBot as its training crawler, separate from Claude-SearchBot and Claude-User. Blocking only ClaudeBot keeps your content out of training while still allowing search-related access."
+    },
+    {
+      "q": "Can I see traffic from Claude?",
+      "a": "Yes. Visits from links in Claude's answers usually show claude.ai as the referrer in Google Analytics. Include it in an AI search channel and track the leads it sends."
+    },
+    {
+      "q": "Does Claude always search the web?",
+      "a": "No. Claude answers many questions from its training. Web search applies when it is enabled and the question needs current information, which is why both crawl access and long-term reputation matter."
+    },
+    {
+      "q": "Is optimizing for Claude different from ChatGPT?",
+      "a": "The foundations are the same: crawl access, direct answers, evidence and reputation. Claude's audience skews toward detailed research, so depth and balance matter even more."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "how to rank in ChatGPT",
+      "url": "https://thechimeraai.com/how-to-rank-in-chatgpt/"
+    },
+    {
+      "anchor": "robots.txt for AI crawlers",
+      "url": "https://thechimeraai.com/robots-txt-for-ai-crawlers/"
+    },
+    {
+      "anchor": "Perplexity SEO",
+      "url": "https://thechimeraai.com/perplexity-seo/"
+    },
+    {
+      "anchor": "Chimera's GEO services",
+      "url": "https://thechimeraai.com/#services"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Anthropic: Does Anthropic crawl data from the web, and how can site owners block the crawler?",
+      "url": "https://support.anthropic.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler"
+    },
+    {
+      "title": "GEO: Generative Engine Optimization (Aggarwal et al., KDD 2024)",
+      "url": "https://arxiv.org/abs/2311.09735"
+    },
+    {
+      "title": "Google Search Central: Introduction to robots.txt",
+      "url": "https://developers.google.com/search/docs/crawling-indexing/robots/intro"
+    },
+    {
+      "title": "Google Search Central: Creating helpful, reliable, people-first content",
+      "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 1,
+      "type": "matrix",
+      "eyebrow": "Crawler access",
+      "title": "Which crawler each AI platform uses",
+      "lead": "Allow these in robots.txt and your firewall, or that platform cannot read your pages for its answers.",
+      "columns": [
+        "chatgpt",
+        "perplexity",
+        "google",
+        "claude",
+        "copilot"
+      ],
+      "rows": [
+        {
+          "label": "Crawler for search answers",
+          "cells": [
+            "OAI-SearchBot",
+            "PerplexityBot",
+            "Googlebot",
+            "Claude-SearchBot",
+            "Bingbot"
+          ]
+        },
+        {
+          "label": "Fetches pages on a user's request",
+          "cells": [
+            "ChatGPT-User",
+            "Perplexity-User",
+            "Googlebot",
+            "Claude-User",
+            "Bingbot"
+          ]
+        },
+        {
+          "label": "Separate training crawler you can block",
+          "cells": [
+            "Yes: GPTBot",
+            "Not used for training",
+            "Yes: Google-Extended",
+            "Yes: ClaudeBot",
+            "No separate bot"
+          ]
+        }
+      ],
+      "source": {
+        "title": "OpenAI, Perplexity, Google and Anthropic crawler documentation",
+        "url": "https://platform.openai.com/docs/bots",
+        "note": "Check each platform's docs for changes"
+      }
+    },
+    {
+      "after": 2,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "How Claude decides what to cite",
+      "lead": "When web search is on, Claude follows a simple loop.",
+      "steps": [
+        {
+          "title": "Question",
+          "text": "A user asks Claude something that needs current information."
+        },
+        {
+          "title": "Search",
+          "text": "Claude searches the web for relevant pages."
+        },
+        {
+          "title": "Read",
+          "text": "It reads the most relevant pages and weighs their evidence."
+        },
+        {
+          "title": "Cite",
+          "text": "It answers and links the sources it relied on."
+        }
+      ]
+    },
+    {
+      "after": 5,
+      "type": "engines",
+      "eyebrow": "AI platforms",
+      "title": "Claude among the answer engines",
+      "lead": "The answer engines that matter most for buyer research, and how each one finds sources.",
+      "items": [
+        {
+          "engine": "chatgpt",
+          "note": "The largest assistant. Searches the web for current questions and links sources in its answers."
+        },
+        {
+          "engine": "google",
+          "note": "AI summaries above Google results, built from pages Google has indexed."
+        },
+        {
+          "engine": "gemini",
+          "note": "Google's assistant app, increasingly used for research and comparisons."
+        },
+        {
+          "engine": "perplexity",
+          "note": "Answer engine built around numbered, clickable citations."
+        },
+        {
+          "engine": "claude",
+          "note": "Anthropic's assistant, used heavily for research and work tasks; can search the web."
+        },
+        {
+          "engine": "copilot",
+          "note": "Microsoft's assistant in Windows, Edge and Office, grounded in Bing results."
+        }
+      ]
+    }
+  ],
+  "hero_query": "How do I get my site cited by Claude?",
+  "short_title": "How to Get Cited by Claude: A Practical Guide for Brands",
+  "hero_engines": [
+    "claude",
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 159,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/how-to-get-cited-by-claude-chimera.jpg",
+    "alt": "How to Get Cited by Claude: A Practical Guide for Brands: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-05",
+  "updated": "2026-11-05"
+}

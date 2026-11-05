@@ -248,5 +248,475 @@
     "keyword": "GEO meaning",
     "kind": "Supporting",
     "page": "what-is-generative-engine-optimization-and-how-does-it-work"
+  },
+  {
+    "keyword": "AI Overviews vs featured snippets",
+    "kind": "Main",
+    "page": "ai-overviews-vs-featured-snippets"
+  },
+  {
+    "keyword": "featured snippets",
+    "kind": "Supporting",
+    "page": "ai-overviews-vs-featured-snippets"
+  },
+  {
+    "keyword": "AI Overviews",
+    "kind": "Supporting",
+    "page": "ai-overviews-vs-featured-snippets"
+  },
+  {
+    "keyword": "snippet optimization",
+    "kind": "Supporting",
+    "page": "ai-overviews-vs-featured-snippets"
+  },
+  {
+    "keyword": "AI visibility audit",
+    "kind": "Main",
+    "page": "ai-visibility-audit"
+  },
+  {
+    "keyword": "AI search audit",
+    "kind": "Supporting",
+    "page": "ai-visibility-audit"
+  },
+  {
+    "keyword": "GEO audit",
+    "kind": "Supporting",
+    "page": "ai-visibility-audit"
+  },
+  {
+    "keyword": "ChatGPT visibility audit",
+    "kind": "Supporting",
+    "page": "ai-visibility-audit"
+  },
+  {
+    "keyword": "AI visibility report",
+    "kind": "Supporting",
+    "page": "ai-visibility-audit"
+  },
+  {
+    "keyword": "entity SEO for AI search",
+    "kind": "Main",
+    "page": "entity-seo-for-ai-search"
+  },
+  {
+    "keyword": "brand entity",
+    "kind": "Supporting",
+    "page": "entity-seo-for-ai-search"
+  },
+  {
+    "keyword": "knowledge graph",
+    "kind": "Supporting",
+    "page": "entity-seo-for-ai-search"
+  },
+  {
+    "keyword": "sameAs schema",
+    "kind": "Supporting",
+    "page": "entity-seo-for-ai-search"
+  },
+  {
+    "keyword": "AI brand understanding",
+    "kind": "Supporting",
+    "page": "entity-seo-for-ai-search"
+  },
+  {
+    "keyword": "Gemini SEO",
+    "kind": "Main",
+    "page": "gemini-seo"
+  },
+  {
+    "keyword": "Google Gemini",
+    "kind": "Supporting",
+    "page": "gemini-seo"
+  },
+  {
+    "keyword": "Google-Extended",
+    "kind": "Supporting",
+    "page": "gemini-seo"
+  },
+  {
+    "keyword": "Gemini app",
+    "kind": "Supporting",
+    "page": "gemini-seo"
+  },
+  {
+    "keyword": "AI search visibility",
+    "kind": "Supporting",
+    "page": "gemini-seo"
+  },
+  {
+    "keyword": "GEO agency in Orange County",
+    "kind": "Main",
+    "page": "geo-agency-orange-county"
+  },
+  {
+    "keyword": "GEO agency California",
+    "kind": "Supporting",
+    "page": "geo-agency-orange-county"
+  },
+  {
+    "keyword": "AI search agency Orange County",
+    "kind": "Supporting",
+    "page": "geo-agency-orange-county"
+  },
+  {
+    "keyword": "generative engine optimization Orange County",
+    "kind": "Supporting",
+    "page": "geo-agency-orange-county"
+  },
+  {
+    "keyword": "AI SEO Irvine",
+    "kind": "Supporting",
+    "page": "geo-agency-orange-county"
+  },
+  {
+    "keyword": "GEO for B2B SaaS",
+    "kind": "Main",
+    "page": "geo-for-b2b-saas"
+  },
+  {
+    "keyword": "SaaS AI search",
+    "kind": "Supporting",
+    "page": "geo-for-b2b-saas"
+  },
+  {
+    "keyword": "AI shortlist",
+    "kind": "Supporting",
+    "page": "geo-for-b2b-saas"
+  },
+  {
+    "keyword": "software comparison pages",
+    "kind": "Supporting",
+    "page": "geo-for-b2b-saas"
+  },
+  {
+    "keyword": "B2B GEO",
+    "kind": "Supporting",
+    "page": "geo-for-b2b-saas"
+  },
+  {
+    "keyword": "GEO for e-commerce",
+    "kind": "Main",
+    "page": "geo-for-ecommerce"
+  },
+  {
+    "keyword": "AI product recommendations",
+    "kind": "Supporting",
+    "page": "geo-for-ecommerce"
+  },
+  {
+    "keyword": "ChatGPT shopping",
+    "kind": "Supporting",
+    "page": "geo-for-ecommerce"
+  },
+  {
+    "keyword": "ecommerce AI search",
+    "kind": "Supporting",
+    "page": "geo-for-ecommerce"
+  },
+  {
+    "keyword": "Product schema",
+    "kind": "Supporting",
+    "page": "geo-for-ecommerce"
+  },
+  {
+    "keyword": "GEO mistakes",
+    "kind": "Main",
+    "page": "geo-mistakes-to-avoid"
+  },
+  {
+    "keyword": "GEO pitfalls",
+    "kind": "Supporting",
+    "page": "geo-mistakes-to-avoid"
+  },
+  {
+    "keyword": "AI search mistakes",
+    "kind": "Supporting",
+    "page": "geo-mistakes-to-avoid"
+  },
+  {
+    "keyword": "AI visibility problems",
+    "kind": "Supporting",
+    "page": "geo-mistakes-to-avoid"
+  },
+  {
+    "keyword": "GEO cost",
+    "kind": "Main",
+    "page": "how-much-does-geo-cost"
+  },
+  {
+    "keyword": "GEO pricing",
+    "kind": "Supporting",
+    "page": "how-much-does-geo-cost"
+  },
+  {
+    "keyword": "generative engine optimization cost",
+    "kind": "Supporting",
+    "page": "how-much-does-geo-cost"
+  },
+  {
+    "keyword": "GEO agency pricing",
+    "kind": "Supporting",
+    "page": "how-much-does-geo-cost"
+  },
+  {
+    "keyword": "AI SEO cost",
+    "kind": "Supporting",
+    "page": "how-much-does-geo-cost"
+  },
+  {
+    "keyword": "check if ChatGPT mentions your brand",
+    "kind": "Main",
+    "page": "how-to-check-if-chatgpt-mentions-your-brand"
+  },
+  {
+    "keyword": "ChatGPT brand mentions",
+    "kind": "Supporting",
+    "page": "how-to-check-if-chatgpt-mentions-your-brand"
+  },
+  {
+    "keyword": "AI brand monitoring",
+    "kind": "Supporting",
+    "page": "how-to-check-if-chatgpt-mentions-your-brand"
+  },
+  {
+    "keyword": "track AI mentions",
+    "kind": "Supporting",
+    "page": "how-to-check-if-chatgpt-mentions-your-brand"
+  },
+  {
+    "keyword": "brand mentions for AI search",
+    "kind": "Main",
+    "page": "how-to-get-brand-mentions-for-ai-search"
+  },
+  {
+    "keyword": "digital PR for AI",
+    "kind": "Supporting",
+    "page": "how-to-get-brand-mentions-for-ai-search"
+  },
+  {
+    "keyword": "AI brand authority",
+    "kind": "Supporting",
+    "page": "how-to-get-brand-mentions-for-ai-search"
+  },
+  {
+    "keyword": "earned media GEO",
+    "kind": "Supporting",
+    "page": "how-to-get-brand-mentions-for-ai-search"
+  },
+  {
+    "keyword": "brand reputation AI",
+    "kind": "Supporting",
+    "page": "how-to-get-brand-mentions-for-ai-search"
+  },
+  {
+    "keyword": "cited by Claude",
+    "kind": "Main",
+    "page": "how-to-get-cited-by-claude"
+  },
+  {
+    "keyword": "Claude SEO",
+    "kind": "Supporting",
+    "page": "how-to-get-cited-by-claude"
+  },
+  {
+    "keyword": "Claude-SearchBot",
+    "kind": "Supporting",
+    "page": "how-to-get-cited-by-claude"
+  },
+  {
+    "keyword": "Anthropic crawler",
+    "kind": "Supporting",
+    "page": "how-to-get-cited-by-claude"
+  },
+  {
+    "keyword": "measure GEO results",
+    "kind": "Main",
+    "page": "how-to-measure-geo-results"
+  },
+  {
+    "keyword": "GEO KPIs",
+    "kind": "Supporting",
+    "page": "how-to-measure-geo-results"
+  },
+  {
+    "keyword": "AI visibility metrics",
+    "kind": "Supporting",
+    "page": "how-to-measure-geo-results"
+  },
+  {
+    "keyword": "GEO reporting",
+    "kind": "Supporting",
+    "page": "how-to-measure-geo-results"
+  },
+  {
+    "keyword": "AI search measurement",
+    "kind": "Supporting",
+    "page": "how-to-measure-geo-results"
+  },
+  {
+    "keyword": "Google AI Mode",
+    "kind": "Main",
+    "page": "how-to-optimize-for-google-ai-mode"
+  },
+  {
+    "keyword": "AI Mode SEO",
+    "kind": "Supporting",
+    "page": "how-to-optimize-for-google-ai-mode"
+  },
+  {
+    "keyword": "query fan-out",
+    "kind": "Supporting",
+    "page": "how-to-optimize-for-google-ai-mode"
+  },
+  {
+    "keyword": "conversational search",
+    "kind": "Supporting",
+    "page": "how-to-optimize-for-google-ai-mode"
+  },
+  {
+    "keyword": "track AI traffic in Google Analytics",
+    "kind": "Main",
+    "page": "how-to-track-ai-traffic-in-google-analytics"
+  },
+  {
+    "keyword": "GA4 AI traffic",
+    "kind": "Supporting",
+    "page": "how-to-track-ai-traffic-in-google-analytics"
+  },
+  {
+    "keyword": "ChatGPT referral traffic",
+    "kind": "Supporting",
+    "page": "how-to-track-ai-traffic-in-google-analytics"
+  },
+  {
+    "keyword": "AI search channel",
+    "kind": "Supporting",
+    "page": "how-to-track-ai-traffic-in-google-analytics"
+  },
+  {
+    "keyword": "custom channel group",
+    "kind": "Supporting",
+    "page": "how-to-track-ai-traffic-in-google-analytics"
+  },
+  {
+    "keyword": "write content for AI search",
+    "kind": "Main",
+    "page": "how-to-write-content-for-ai-search"
+  },
+  {
+    "keyword": "AI content writing",
+    "kind": "Supporting",
+    "page": "how-to-write-content-for-ai-search"
+  },
+  {
+    "keyword": "GEO content",
+    "kind": "Supporting",
+    "page": "how-to-write-content-for-ai-search"
+  },
+  {
+    "keyword": "answer-first writing",
+    "kind": "Supporting",
+    "page": "how-to-write-content-for-ai-search"
+  },
+  {
+    "keyword": "content for ChatGPT",
+    "kind": "Supporting",
+    "page": "how-to-write-content-for-ai-search"
+  },
+  {
+    "keyword": "local GEO",
+    "kind": "Main",
+    "page": "local-geo"
+  },
+  {
+    "keyword": "local AI search",
+    "kind": "Supporting",
+    "page": "local-geo"
+  },
+  {
+    "keyword": "AI local recommendations",
+    "kind": "Supporting",
+    "page": "local-geo"
+  },
+  {
+    "keyword": "Google Business Profile",
+    "kind": "Supporting",
+    "page": "local-geo"
+  },
+  {
+    "keyword": "local SEO AI",
+    "kind": "Supporting",
+    "page": "local-geo"
+  },
+  {
+    "keyword": "Copilot SEO",
+    "kind": "Main",
+    "page": "microsoft-copilot-seo"
+  },
+  {
+    "keyword": "Bing SEO",
+    "kind": "Supporting",
+    "page": "microsoft-copilot-seo"
+  },
+  {
+    "keyword": "Bing Webmaster Tools",
+    "kind": "Supporting",
+    "page": "microsoft-copilot-seo"
+  },
+  {
+    "keyword": "IndexNow",
+    "kind": "Supporting",
+    "page": "microsoft-copilot-seo"
+  },
+  {
+    "keyword": "Copilot citations",
+    "kind": "Supporting",
+    "page": "microsoft-copilot-seo"
+  },
+  {
+    "keyword": "robots.txt for AI crawlers",
+    "kind": "Main",
+    "page": "robots-txt-for-ai-crawlers"
+  },
+  {
+    "keyword": "AI crawlers",
+    "kind": "Supporting",
+    "page": "robots-txt-for-ai-crawlers"
+  },
+  {
+    "keyword": "GPTBot",
+    "kind": "Supporting",
+    "page": "robots-txt-for-ai-crawlers"
+  },
+  {
+    "keyword": "block AI training",
+    "kind": "Supporting",
+    "page": "robots-txt-for-ai-crawlers"
+  },
+  {
+    "keyword": "schema markup for AI search",
+    "kind": "Main",
+    "page": "schema-markup-for-ai-search"
+  },
+  {
+    "keyword": "structured data for AI",
+    "kind": "Supporting",
+    "page": "schema-markup-for-ai-search"
+  },
+  {
+    "keyword": "JSON-LD",
+    "kind": "Supporting",
+    "page": "schema-markup-for-ai-search"
+  },
+  {
+    "keyword": "Organization schema",
+    "kind": "Supporting",
+    "page": "schema-markup-for-ai-search"
+  },
+  {
+    "keyword": "FAQ schema",
+    "kind": "Supporting",
+    "page": "schema-markup-for-ai-search"
   }
 ]

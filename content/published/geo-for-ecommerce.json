@@ -1,0 +1,251 @@
+{
+  "query": "geo for ecommerce",
+  "slug": "geo-for-ecommerce",
+  "eyebrow": "E-commerce",
+  "primary_keyword": "GEO for e-commerce",
+  "secondary_keywords": [
+    "AI product recommendations",
+    "ChatGPT shopping",
+    "ecommerce AI search",
+    "Product schema"
+  ],
+  "search_intent": "commercial",
+  "seo": {
+    "title": "GEO for E-commerce: Get Your Products Recommended by AI",
+    "meta_description": "GEO for e-commerce: get products recommended by ChatGPT, Gemini, Perplexity and Google AI Overviews with better product pages, schema and reviews."
+  },
+  "h1": "GEO for E-commerce: How to Get Your Products Recommended by AI",
+  "answer": "GEO for e-commerce means making your products easy for AI assistants to find, understand and recommend. Give every important product and category page clear specs, use cases, comparisons and honest pros and cons, add Product and review schema, earn reviews and mentions on sites shoppers trust, and publish buying guides that answer the questions shoppers ask before they buy.",
+  "key_takeaways": [
+    "Shoppers increasingly ask AI assistants which product to buy.",
+    "AI engines need clear specs, use cases and comparisons to recommend a product.",
+    "Product, offer and review structured data help engines read your catalog.",
+    "Reviews and third-party mentions strongly shape recommendations.",
+    "Buying guides capture the research questions that come before a purchase."
+  ],
+  "sections": [
+    {
+      "heading": "How shoppers use AI to choose products",
+      "body_html": "<p>Shoppers now ask AI assistants the questions they used to type into search: \"best mattress for back pain under $1,000\", \"what size tent for a 100-person wedding\", \"is lab-grown diamond jewelry worth it\". The assistant replies with a short list of products or brands and reasons, and the shopper often clicks straight through to the product page.</p><p>For an online store, that means the battle for a sale starts inside the answer. The brands named there get the click; the rest of the category may never be seen.</p>"
+    },
+    {
+      "heading": "What AI engines need from a product page",
+      "body_html": "<ul><li><strong>Plain-language summary:</strong> what the product is, who it is for and the main benefit, in the first lines.</li><li><strong>Complete specs:</strong> sizes, materials, dimensions, compatibility and care, in text rather than only images.</li><li><strong>Use cases:</strong> the situations the product suits, and the ones it does not.</li><li><strong>Comparison:</strong> how it differs from your other models and common alternatives.</li><li><strong>Price and availability:</strong> current, visible and matching your structured data.</li><li><strong>Reviews:</strong> real customer feedback with details, not just star ratings.</li></ul><p>Most product pages are built for browsing photos. AI engines need words they can quote.</p>"
+    },
+    {
+      "heading": "Structured data for e-commerce",
+      "body_html": "<p>Mark up product pages with Product schema including name, description, brand, images, offers (price, currency, availability) and, where you genuinely have them, aggregate ratings and reviews. Add Organization schema sitewide and BreadcrumbList for category paths.</p><p>Keep the markup in sync with the visible page. Engines that see a price in schema that differs from the page will distrust both. For merchants, Google Merchant Center product data also feeds Google's shopping surfaces, so keep it accurate and complete.</p>"
+    },
+    {
+      "heading": "Category pages and buying guides",
+      "body_html": "<p>Category pages often rank for the broad terms, but many shopper questions sit between categories and products. Build guides that answer them directly:</p><ol><li><strong>\"Best X for Y\" guides</strong> with clear criteria and honest picks, including when a cheaper option is enough.</li><li><strong>Size and fit guides</strong> with tables.</li><li><strong>\"X vs Y\" comparisons</strong> between materials, models or approaches.</li><li><strong>Cost guides</strong> explaining what drives price.</li><li><strong>Care and how-to guides</strong> that build trust after the sale and earn links.</li></ol><p>Link each guide to the matching products and categories, and back again.</p>"
+    },
+    {
+      "heading": "Reviews and mentions shape recommendations",
+      "body_html": "<p>When an assistant recommends products, it leans heavily on what others say: reviews, comparison articles, gift guides, community discussions and press. A product with detailed reviews on your site and mentions in respected roundups is far easier to recommend than one that only describes itself.</p><ul><li>Ask customers for reviews that mention use cases and details.</li><li>Pitch products to reviewers and gift guides in your niche.</li><li>Answer questions in communities where your shoppers gather, without spamming.</li><li>Keep listings on marketplaces and comparison sites accurate and consistent with your site.</li></ul>"
+    },
+    {
+      "heading": "Technical checks for online stores",
+      "body_html": "<ul><li><strong>Crawler access:</strong> e-commerce platforms and CDNs often block bots aggressively. Allow OAI-SearchBot, PerplexityBot, Claude-SearchBot, Googlebot and Bingbot.</li><li><strong>Rendering:</strong> make sure product details are in the HTML, not loaded only after scripts run.</li><li><strong>Faceted URLs:</strong> keep filter combinations from creating thousands of near-duplicate pages.</li><li><strong>Speed:</strong> fast product pages help every channel.</li></ul>"
+    },
+    {
+      "heading": "Measuring e-commerce GEO",
+      "body_html": "<p>Track AI-referred sessions, add-to-carts and purchases by engine and landing page in Google Analytics 4, using a custom AI search channel. Test your top shopper questions in ChatGPT, Gemini, Perplexity and Google AI Overviews monthly and record which products are named. Over time, connect improvements in AI mentions to revenue from those landing pages.</p>"
+    },
+    {
+      "heading": "Example: rewriting a product description for AI",
+      "body_html": "<p>Here is the difference in practice. A typical description reads: <em>\"Our premium sailcloth tent brings elegance to any occasion.\"</em> It sounds nice, but an AI assistant learns almost nothing from it.</p><p>A GEO-ready version reads: <em>\"A 40 × 60 ft sailcloth tent that seats up to 180 guests at round tables, rated for winds up to 40 mph, with sidewalls for cooler evenings. Best for weddings and outdoor events in Southern California; for indoor-outdoor venues under 100 guests, our 30 × 45 ft model is a better fit.\"</em></p><p>The second version gives exact capacity, conditions, use case and an honest alternative. Those are the facts an assistant needs to recommend it to the right shopper, and the facts a shopper needs to buy with confidence.</p>"
+    },
+    {
+      "heading": "Where to start",
+      "body_html": "<p>Pick your ten best-selling or highest-margin products. Rewrite their opening descriptions to answer who each is for and why, complete their specs, add or fix Product schema, and request detailed reviews. Then publish one strong buying guide for each of your top categories. This small set usually shows results before you scale to the full catalog.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is GEO for e-commerce?",
+      "a": "It is the work of getting your products recommended inside AI answers from ChatGPT, Gemini, Perplexity and Google AI Overviews, using clear product content, accurate structured data, reviews, third-party mentions and buying guides."
+    },
+    {
+      "q": "Do product pages need schema for AI search?",
+      "a": "Product schema with offers and genuine reviews helps engines understand your catalog, as long as it matches what is visible on the page. Keep prices and availability in sync."
+    },
+    {
+      "q": "Do reviews affect AI recommendations?",
+      "a": "Yes, strongly. AI assistants lean on what customers and third-party sites say. Detailed reviews and mentions in respected roundups make products easier to recommend."
+    },
+    {
+      "q": "Should I write buying guides for GEO?",
+      "a": "Yes. Guides that answer 'best X for Y', comparison and cost questions capture the research that happens before a purchase and give AI engines something specific to cite."
+    },
+    {
+      "q": "How do I track sales from AI search?",
+      "a": "Create an AI search channel in Google Analytics 4 that matches referrers such as chatgpt.com and perplexity.ai, then report add-to-carts and purchases for that channel by landing page."
+    },
+    {
+      "q": "Which products should I optimize first?",
+      "a": "Start with best-sellers and high-margin products, plus the category buying guides that lead to them. Prove the approach on a small set, then scale."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "schema markup for AI search",
+      "url": "https://thechimeraai.com/schema-markup-for-ai-search/"
+    },
+    {
+      "anchor": "how to get brand mentions for AI search",
+      "url": "https://thechimeraai.com/how-to-get-brand-mentions-for-ai-search/"
+    },
+    {
+      "anchor": "track AI traffic in Google Analytics",
+      "url": "https://thechimeraai.com/how-to-track-ai-traffic-in-google-analytics/"
+    },
+    {
+      "anchor": "GEO results for real brands",
+      "url": "https://thechimeraai.com/#results"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Search Central: Introduction to structured data",
+      "url": "https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data"
+    },
+    {
+      "title": "GEO: Generative Engine Optimization (Aggarwal et al., KDD 2024)",
+      "url": "https://arxiv.org/abs/2311.09735"
+    },
+    {
+      "title": "Google Search Central: Creating helpful, reliable, people-first content",
+      "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content"
+    },
+    {
+      "title": "Dataconomy: Google's AI Overviews now serve 2 billion monthly users (Jul 24, 2025)",
+      "url": "https://dataconomy.com/2025/07/24/googles-ai-overviews-now-serve-2-billion-monthly-users/"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 0,
+      "type": "engines",
+      "eyebrow": "AI platforms",
+      "title": "Where shoppers ask for product advice",
+      "lead": "The answer engines that matter most for buyer research, and how each one finds sources.",
+      "items": [
+        {
+          "engine": "chatgpt",
+          "note": "Shoppers ask for product picks and comparisons, often with a budget."
+        },
+        {
+          "engine": "google",
+          "note": "AI summaries appear above shopping and product results for research queries."
+        },
+        {
+          "engine": "gemini",
+          "note": "Google's assistant app, increasingly used for research and comparisons."
+        },
+        {
+          "engine": "perplexity",
+          "note": "Popular for researched buying questions, always with sources."
+        },
+        {
+          "engine": "claude",
+          "note": "Anthropic's assistant, used heavily for research and work tasks; can search the web."
+        },
+        {
+          "engine": "copilot",
+          "note": "Microsoft's assistant in Windows, Edge and Office, grounded in Bing results."
+        }
+      ]
+    },
+    {
+      "after": 1,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "From shopper question to sale",
+      "lead": "Where an AI recommendation fits in the path to purchase.",
+      "steps": [
+        {
+          "title": "Question",
+          "text": "\"Best X for Y under $Z?\""
+        },
+        {
+          "title": "Shortlist",
+          "text": "The assistant names a few products with reasons."
+        },
+        {
+          "title": "Product page",
+          "text": "The shopper checks specs, reviews and price."
+        },
+        {
+          "title": "Purchase",
+          "text": "Clear details and trust close the sale."
+        }
+      ]
+    },
+    {
+      "after": 4,
+      "type": "stats",
+      "eyebrow": "By the numbers",
+      "title": "The audience asking about products",
+      "lead": "Company-reported audience figures for the biggest AI answer engines. Each is the latest official number we could verify, with its date.",
+      "items": [
+        {
+          "engine": "chatgpt",
+          "value": "800M",
+          "label": "ChatGPT weekly active users",
+          "date": "Oct 2025, OpenAI",
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2025/10/06/sam-altman-says-chatgpt-has-hit-800m-weekly-active-users/"
+        },
+        {
+          "engine": "google",
+          "value": "2B",
+          "label": "AI Overviews monthly users",
+          "date": "Jul 2025, Google",
+          "source": "Dataconomy",
+          "source_url": "https://dataconomy.com/2025/07/24/googles-ai-overviews-now-serve-2-billion-monthly-users/"
+        },
+        {
+          "engine": "gemini",
+          "value": "650M",
+          "label": "Gemini app monthly active users",
+          "date": "Oct 2025, Google",
+          "source": "9to5Google",
+          "source_url": "https://9to5google.com/2025/10/29/gemini-app-650-million-users/"
+        },
+        {
+          "engine": "perplexity",
+          "value": "780M",
+          "label": "Perplexity queries in one month",
+          "date": "May 2025, Perplexity CEO",
+          "source": "MediaPost",
+          "source_url": "https://www.mediapost.com/publications/article/406449/perplexity-ceo-estimates-firm-will-serve-1b-querie.html"
+        }
+      ],
+      "note": "Weekly users, monthly users and monthly queries measure different things, so compare each figure with its own history rather than with the others."
+    }
+  ],
+  "hero_query": "Which product should I buy? Ask AI.",
+  "short_title": "GEO for E-commerce: Get Your Products Recommended by AI",
+  "hero_engines": [
+    "chatgpt",
+    "google",
+    "gemini",
+    "perplexity",
+    "claude",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 154,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/geo-for-ecommerce-chimera.jpg",
+    "alt": "GEO for E-commerce: Get Your Products Recommended by AI: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-05",
+  "updated": "2026-11-05"
+}

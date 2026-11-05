@@ -281,4 +281,10 @@ def render_markdown(spec, cfg):
 def plain_text(spec):
     body = " ".join(html_to_markdown(s["body_html"]) for s in spec["sections"])
     faqs = " ".join(f["q"] + " " + f["a"] for f in spec["faqs"])
-    return f'{spec["h1"]} {spec["answer"]} {" ".join(spec.get("key_takeaways", []))} {body} {faqs}'
+    vis = []
+    for v in spec.get("visuals", []):
+        vis.append(v.get("title", "") + " " + v.get("lead", ""))
+        for key in ("items", "steps", "rows"):
+            for it in v.get(key, []):
+                vis.append(" ".join(str(it.get(k, "")) for k in ("title", "label", "note", "text", "value", "when")))
+    return f'{spec["h1"]} {spec["answer"]} {" ".join(spec.get("key_takeaways", []))} {body} {" ".join(vis)} {faqs}'

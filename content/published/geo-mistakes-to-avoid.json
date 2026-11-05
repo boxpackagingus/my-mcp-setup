@@ -1,0 +1,269 @@
+{
+  "query": "geo mistakes to avoid",
+  "slug": "geo-mistakes-to-avoid",
+  "eyebrow": "Common pitfalls",
+  "primary_keyword": "GEO mistakes",
+  "secondary_keywords": [
+    "GEO pitfalls",
+    "AI search mistakes",
+    "GEO checklist",
+    "AI visibility problems"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "12 GEO Mistakes to Avoid (and What to Do Instead)",
+    "meta_description": "The most common GEO mistakes: blocked AI crawlers, buried answers, thin pages at scale, inconsistent brand details, missing measurement, and what to do instead."
+  },
+  "h1": "12 GEO Mistakes to Avoid, and What to Do Instead",
+  "answer": "The most common GEO mistakes are blocking AI crawlers by accident, burying the answer, publishing thin pages at scale, describing your brand inconsistently, ignoring off-site mentions, abandoning SEO, misusing schema and measuring nothing. Each one makes it harder for ChatGPT, Gemini, Perplexity and Google AI Overviews to find, trust or cite you.",
+  "key_takeaways": [
+    "Most GEO problems are basic and fixable within weeks.",
+    "Blocked crawlers and buried answers are the most common and costly.",
+    "Scale without quality can hurt search and AI visibility.",
+    "Consistency across the web matters as much as on-page work.",
+    "Without measurement, you cannot tell what is working."
+  ],
+  "sections": [
+    {
+      "heading": "Mistakes 1–3: Access and indexing",
+      "body_html": "<ol><li><strong>Blocking AI crawlers by accident.</strong> A security plugin, CDN bot mode or old robots.txt blocks OAI-SearchBot, PerplexityBot, Claude-SearchBot or Bingbot. <em>Instead:</em> audit robots.txt and firewall rules, and allow the search bots you want to be cited by.</li><li><strong>Ignoring indexing problems.</strong> Pages that Google and Bing have not indexed are rarely used by AI engines that rely on them. <em>Instead:</em> check URL Inspection in Search Console and Bing Webmaster Tools for every key page.</li><li><strong>Hiding content behind scripts or tabs.</strong> Text that only appears after heavy JavaScript or clicks is harder to read. <em>Instead:</em> keep key content in the HTML.</li></ol>"
+    },
+    {
+      "heading": "Mistakes 4–6: Content",
+      "body_html": "<ol start=\"4\"><li><strong>Burying the answer.</strong> Long introductions push the actual answer far down the page. <em>Instead:</em> answer in the first 40–60 words, then expand.</li><li><strong>Writing vague, general claims.</strong> \"We deliver great results\" gives engines nothing to quote. <em>Instead:</em> use specifics, examples and sourced facts.</li><li><strong>Publishing thin pages at scale.</strong> Large volumes of near-identical pages add little value, and Google's spam policies target scaled content abuse. <em>Instead:</em> publish fewer, genuinely useful pages, each answering a distinct question.</li></ol>"
+    },
+    {
+      "heading": "Mistakes 7–9: Brand and authority",
+      "body_html": "<ol start=\"7\"><li><strong>Inconsistent brand details.</strong> Different names, descriptions or locations across your site and profiles confuse engines. <em>Instead:</em> write one canonical description and use it everywhere.</li><li><strong>Relying only on your own site.</strong> AI assistants recommend brands the wider web talks about. <em>Instead:</em> earn reviews, directory listings, expert quotes and mentions.</li><li><strong>Buying fake reviews or links.</strong> It breaks platform rules and Google's policies. <em>Instead:</em> invest in genuine reviews and earned coverage.</li></ol>"
+    },
+    {
+      "heading": "Mistakes 10–12: Strategy and measurement",
+      "body_html": "<ol start=\"10\"><li><strong>Abandoning SEO for GEO.</strong> Many AI answers draw on pages that already rank. <em>Instead:</em> keep SEO healthy and build GEO on top.</li><li><strong>Misusing schema.</strong> Marking up content that is not visible, or fake ratings, can be treated as spam. <em>Instead:</em> use accurate JSON-LD that matches the page.</li><li><strong>Measuring nothing, or the wrong thing.</strong> Rankings alone miss AI visibility. <em>Instead:</em> track mention and citation rates by engine, AI referral sessions and leads.</li></ol>"
+    },
+    {
+      "heading": "The mistakes that cost the most",
+      "body_html": "<p>Not all mistakes are equal. Blocked crawlers can make you completely invisible to an engine, however good your content is. Buried answers make strong pages hard to cite. Thin content at scale can damage the whole domain. Fix those three before anything else; they are also the quickest to fix.</p>"
+    },
+    {
+      "heading": "Subtler mistakes we see often",
+      "body_html": "<ul><li><strong>Testing once and giving up.</strong> AI answers vary; judge progress over months across many questions.</li><li><strong>Personalized tests.</strong> Testing in an account that remembers your brand gives flattering, misleading results.</li><li><strong>No next step on the page.</strong> AI-referred visitors arrive ready to act; give them a clear form or offer.</li><li><strong>Out-of-date facts.</strong> Old prices, services or locations get repeated by engines that trust your page.</li><li><strong>Treating llms.txt as a magic switch.</strong> It is useful groundwork, not a replacement for crawl access and strong pages.</li></ul>"
+    },
+    {
+      "heading": "A quick self-check",
+      "body_html": "<table><tr><th>Question</th><th>If the answer is no</th></tr><tr><td>Can AI search bots reach your pages?</td><td>Fix robots.txt and firewall rules today</td></tr><tr><td>Are your key pages indexed?</td><td>Check Search Console and Bing Webmaster Tools</td></tr><tr><td>Does each page answer its question in the first lines?</td><td>Rewrite the openings</td></tr><tr><td>Is your brand described the same everywhere?</td><td>Write and roll out one description</td></tr><tr><td>Do you track AI referrals and leads?</td><td>Set up an AI channel in GA4</td></tr></table>"
+    },
+    {
+      "heading": "How to fix things in the right order",
+      "body_html": "<p>Start with access: crawlers, firewall and indexing. Then rewrite the openings of your most important pages and add FAQs. Next, align your brand description and schema. Then build mentions and publish pages for the questions you are missing. Measure monthly throughout. This order fixes the biggest blockers first and makes every later step more effective.</p>"
+    },
+    {
+      "heading": "What fixing these mistakes looks like",
+      "body_html": "<p>Picture a business whose security plugin blocks AI bots, whose homepage opens with a mission statement, and whose directory listings use three different names. In week one, the bot rules are corrected and indexing is checked. In week two, the homepage and top service pages open with plain answers about what the business does, for whom and where. In week three, every listing is updated to one name and description. None of this is glamorous, but together it removes the reasons an engine had to skip the brand, and it creates a clean base for new pages and mentions to build on.</p>"
+    },
+    {
+      "heading": "When to get help",
+      "body_html": "<p>If your tests show competitors named everywhere and you are missing, or you cannot tell why traffic is not converting, an AI visibility audit is a fast way to find the cause. It tests your buyer questions in each engine, checks the technical and brand basics, and gives you a prioritized list of fixes, starting with the mistakes on this page.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the most common GEO mistake?",
+      "a": "Blocking AI search crawlers by accident through robots.txt, a security plugin or a CDN setting. It can make you invisible to an engine regardless of content quality."
+    },
+    {
+      "q": "Can publishing lots of pages hurt GEO?",
+      "a": "Yes, if they are thin or near-identical. Google's spam policies target scaled content that adds little value, and AI engines rarely cite it. Quality and distinct value matter more than volume."
+    },
+    {
+      "q": "Should I stop doing SEO to focus on GEO?",
+      "a": "No. Many AI answers draw on pages that already rank, so healthy SEO supports GEO. Build GEO on top of a strong SEO foundation."
+    },
+    {
+      "q": "Is llms.txt required for GEO?",
+      "a": "No. It is low-cost groundwork, but crawl access, strong pages and brand authority matter far more."
+    },
+    {
+      "q": "How do I know which mistakes I am making?",
+      "a": "Test your buyer questions in each AI engine, check robots.txt and firewall rules, review indexing, and compare your brand description across profiles. An AI visibility audit does this systematically."
+    },
+    {
+      "q": "How quickly can GEO mistakes be fixed?",
+      "a": "Access and indexing problems can often be fixed in days. Content rewrites take weeks. Brand consistency and mentions build over months."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "GEO SEO best practices",
+      "url": "https://thechimeraai.com/geo-seo-best-practices/"
+    },
+    {
+      "anchor": "robots.txt for AI crawlers",
+      "url": "https://thechimeraai.com/robots-txt-for-ai-crawlers/"
+    },
+    {
+      "anchor": "how to write content for AI search",
+      "url": "https://thechimeraai.com/how-to-write-content-for-ai-search/"
+    },
+    {
+      "anchor": "how Chimera's six-phase GEO build works",
+      "url": "https://thechimeraai.com/#process"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Search Central: Spam policies",
+      "url": "https://developers.google.com/search/docs/essentials/spam-policies"
+    },
+    {
+      "title": "GEO: Generative Engine Optimization (Aggarwal et al., KDD 2024)",
+      "url": "https://arxiv.org/abs/2311.09735"
+    },
+    {
+      "title": "Google Search Central: Introduction to robots.txt",
+      "url": "https://developers.google.com/search/docs/crawling-indexing/robots/intro"
+    },
+    {
+      "title": "Google Search Central: Introduction to structured data",
+      "url": "https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 0,
+      "type": "scorecard",
+      "eyebrow": "Scorecard",
+      "title": "How costly each mistake is",
+      "lead": "Our view of the damage each mistake does to AI visibility (5 = most damaging).",
+      "rows": [
+        {
+          "label": "Blocking AI search crawlers",
+          "score": 5,
+          "note": "Can make you invisible to an engine."
+        },
+        {
+          "label": "Burying the answer",
+          "score": 4,
+          "note": "Strong pages become hard to cite."
+        },
+        {
+          "label": "Thin content at scale",
+          "score": 5,
+          "note": "Risks the whole domain."
+        },
+        {
+          "label": "Inconsistent brand details",
+          "score": 3,
+          "note": "Leads to vague or wrong descriptions."
+        },
+        {
+          "label": "No measurement",
+          "score": 3,
+          "note": "You cannot tell what works."
+        }
+      ]
+    },
+    {
+      "after": 1,
+      "type": "matrix",
+      "eyebrow": "Crawler access",
+      "title": "Which crawler each AI platform uses",
+      "lead": "Allow these in robots.txt and your firewall, or that platform cannot read your pages for its answers.",
+      "columns": [
+        "chatgpt",
+        "perplexity",
+        "google",
+        "claude",
+        "copilot"
+      ],
+      "rows": [
+        {
+          "label": "Crawler for search answers",
+          "cells": [
+            "OAI-SearchBot",
+            "PerplexityBot",
+            "Googlebot",
+            "Claude-SearchBot",
+            "Bingbot"
+          ]
+        },
+        {
+          "label": "Fetches pages on a user's request",
+          "cells": [
+            "ChatGPT-User",
+            "Perplexity-User",
+            "Googlebot",
+            "Claude-User",
+            "Bingbot"
+          ]
+        },
+        {
+          "label": "Separate training crawler you can block",
+          "cells": [
+            "Yes: GPTBot",
+            "Not used for training",
+            "Yes: Google-Extended",
+            "Yes: ClaudeBot",
+            "No separate bot"
+          ]
+        }
+      ],
+      "source": {
+        "title": "OpenAI, Perplexity, Google and Anthropic crawler documentation",
+        "url": "https://platform.openai.com/docs/bots",
+        "note": "Check each platform's docs for changes"
+      }
+    },
+    {
+      "after": 7,
+      "type": "timeline",
+      "eyebrow": "Timeline",
+      "title": "Fixing mistakes in the right order",
+      "lead": "Biggest blockers first.",
+      "items": [
+        {
+          "when": "Days 1–3",
+          "title": "Access",
+          "text": "Unblock crawlers; check firewall and indexing."
+        },
+        {
+          "when": "Weeks 1–2",
+          "title": "Answers",
+          "text": "Rewrite openings of key pages; add FAQs."
+        },
+        {
+          "when": "Weeks 2–4",
+          "title": "Consistency",
+          "text": "One brand description; accurate schema."
+        },
+        {
+          "when": "Months 2–3",
+          "title": "Authority + pages",
+          "text": "Earn mentions; publish missing answers."
+        }
+      ]
+    }
+  ],
+  "hero_query": "Why isn't AI recommending my brand?",
+  "short_title": "12 GEO Mistakes to Avoid (and What to Do Instead)",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 155,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/geo-mistakes-to-avoid-chimera.jpg",
+    "alt": "12 GEO Mistakes to Avoid (and What to Do Instead): illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-05",
+  "updated": "2026-11-05"
+}
