@@ -258,6 +258,7 @@ add_action('wp_enqueue_scripts', function () {
 .chimera-faq summary{cursor:pointer;list-style:none}
 .chimera-faq summary h3{display:inline;font-size:1.05rem;margin:0}
 .chimera-updated{opacity:.7;font-size:.9em}
+.chimera-cta-button{display:inline-block;padding:.75rem 1.25rem;border:2px solid currentColor;border-radius:8px;color:inherit;text-decoration:none;font-weight:600}
 ');
 });
 

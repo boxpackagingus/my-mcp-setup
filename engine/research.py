@@ -118,12 +118,26 @@ def same_question(a, b):
     return len(wa & wb) / len(wa | wb) >= 0.8
 
 
-def score(c):
+def relevant(query, cfg):
+    """Keeps queries about AI search / SEO; drops 'geothermal', 'george' and similar noise."""
+    r = cfg["research"]
+    q = f" {query.lower()} "
+    tokens = set(query.lower().replace("?", "").split())
+    if any(f" {x} " in q or (" " not in x and x in tokens) for x in r.get("exclude_terms", [])):
+        return False
+    terms = r.get("relevant_terms", [])
+    return any((" " in t and t in q) or t in tokens for t in terms)
+
+
+def score(c, cfg=None):
     words = c["query"].split()
     intent = max([INTENT_WORDS.get(w, 1.0) for w in words] or [1.0])
     demand = c.get("volume") or c.get("impressions") or 10
     difficulty = c.get("difficulty") or 30
     bonus = 1.5 if c["source"] == "search_console" else 1.0  # Google already links you to it
+    q = f' {c["query"]} '
+    if cfg and any(f" {t} " in q for t in cfg["research"].get("local_terms", [])):
+        bonus *= 1.5  # your own market
     return round(demand * intent * bonus / (1 + difficulty / 25), 2)
 
 
@@ -142,13 +156,13 @@ def run(cfg, use_gsc=True):
     queue, kept = [], []
     for c in candidates:
         c["slug"] = page.slugify(c["query"])
-        if c["slug"] in taken:
+        if not relevant(c["query"], cfg) or c["slug"] in taken:
             continue
         if c.get("volume") is not None and c["volume"] < cfg["research"]["min_volume"]:
             continue
         if any(same_question(c["query"], q) for q in existing_queries + kept):
             continue  # same question as a page we already have
-        c["score"] = score(c)
+        c["score"] = score(c, cfg)
         queue.append(c)
         kept.append(c["query"])
     queue.sort(key=lambda c: c["score"], reverse=True)

@@ -1,27 +1,80 @@
 {
   "_comment": "Business settings for the engine. Fields marked TODO need your answers.",
-
   "site": {
     "domain": "thechimeraai.com",
     "base_url": "https://thechimeraai.com",
-    "brand": "The Chimera AI",
-    "one_liner": "TODO: one sentence on what The Chimera AI does",
-    "services": ["TODO: Generative Engine Optimization (GEO)", "TODO: service 2"],
-    "ideal_customer": "TODO: who buys from you",
-    "target_countries": ["US"],
+    "brand": "Chimera",
+    "one_liner": "Chimera is a Generative Engine Optimization (GEO) agency in Orange County, California that gets brands cited by name in ChatGPT, Gemini, Perplexity, Claude and Google AI Overviews.",
+    "services": [
+      "AI Visibility Audit",
+      "GEO Content Structuring",
+      "Machine-Readable Structuring (schema, llms.txt)",
+      "Entity & Authority Building",
+      "AI Citation Optimization",
+      "On-site SEO in parallel"
+    ],
+    "ideal_customer": "TODO: confirm. Brands and e-commerce businesses (e.g. Royal Tent USA, Darry Ring, Mentha Clean) that want to be recommended by AI assistants, with a California focus.",
+    "target_countries": [
+      "US"
+    ],
     "language": "en",
     "tone": "Clear, expert, practical. No hype.",
-    "never_say": ["guaranteed rankings", "guaranteed #1", "instant results"]
+    "never_say": [
+      "guaranteed rankings",
+      "guaranteed #1",
+      "instant results"
+    ],
+    "location": "Orange County, CA",
+    "proof_clients": [
+      "Royal Tent USA",
+      "Darry Ring",
+      "Mentha Clean",
+      "Realiefe Mattress",
+      "Dumper",
+      "Zavion"
+    ],
+    "process": [
+      "Diagnose",
+      "Fix",
+      "Structure",
+      "Content",
+      "Authority",
+      "AI Signal"
+    ],
+    "core_links": [
+      {
+        "anchor": "Chimera GEO services",
+        "url": "https://thechimeraai.com/#services"
+      },
+      {
+        "anchor": "how the six-phase GEO build works",
+        "url": "https://thechimeraai.com/#process"
+      },
+      {
+        "anchor": "GEO results for real brands",
+        "url": "https://thechimeraai.com/#results"
+      },
+      {
+        "anchor": "GEO questions answered",
+        "url": "https://thechimeraai.com/#faq"
+      },
+      {
+        "anchor": "book an AI visibility audit",
+        "url": "https://thechimeraai.com/#audit"
+      }
+    ]
   },
-
   "lead": {
-    "offer": "TODO: e.g. Free GEO visibility audit",
-    "cta_heading": "Get your free AI visibility audit",
-    "cta_text": "See how ChatGPT, Perplexity and Google AI Overviews describe your business today.",
-    "form_shortcode": "TODO: e.g. [wpforms id=\"123\"]",
-    "ga4_lead_event": "generate_lead"
+    "offer": "Free AI Visibility Audit",
+    "cta_heading": "See exactly where AI ranks you today",
+    "cta_text": "Book your AI Visibility Audit: we check how ChatGPT, Gemini, Perplexity, Claude and Google AI Overviews describe your brand, and send a prioritized fix list.",
+    "form_shortcode": "TODO: shortcode of the audit form, e.g. [elementor-template id=\"123\"]",
+    "ga4_lead_event": "generate_lead",
+    "fallback_button": {
+      "text": "Book Your AI Visibility Audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
   },
-
   "publishing": {
     "pages_per_day": 3,
     "ramp": {
@@ -34,7 +87,6 @@
     "show_in_menu": false,
     "seo_plugin": "auto"
   },
-
   "quality": {
     "min_words": 1200,
     "min_sections": 5,
@@ -42,30 +94,139 @@
     "min_internal_links": 3,
     "max_similarity_to_existing": 0.6
   },
-
   "research": {
     "seed_topics": [
       "generative engine optimization",
-      "GEO",
+      "GEO SEO",
+      "GEO marketing",
+      "GEO agency",
       "AI search visibility",
+      "AI SEO",
       "ChatGPT SEO",
       "Perplexity SEO",
       "Google AI Overviews",
-      "llms.txt"
+      "AI Overviews SEO",
+      "llms.txt",
+      "answer engine optimization",
+      "LLM SEO",
+      "rank in ChatGPT"
     ],
-    "question_prefixes": ["what is", "how to", "is", "does", "why", "can", "best", "vs", "cost of"],
+    "question_prefixes": [
+      "what is",
+      "how to",
+      "is",
+      "does",
+      "why",
+      "can",
+      "best",
+      "vs",
+      "cost of"
+    ],
     "min_gsc_impressions": 20,
-    "min_volume": 10
+    "min_volume": 10,
+    "relevant_terms": [
+      "geo",
+      "generative",
+      "ai",
+      "chatgpt",
+      "perplexity",
+      "gemini",
+      "claude",
+      "copilot",
+      "llm",
+      "llms",
+      "llms.txt",
+      "overview",
+      "overviews",
+      "answer engine",
+      "aeo",
+      "seo",
+      "citation",
+      "cited",
+      "visibility",
+      "search engine"
+    ],
+    "exclude_terms": [
+      "australia",
+      "bangalore",
+      "canada",
+      "certification",
+      "course",
+      "delhi",
+      "dubai",
+      "free download",
+      "geo tag",
+      "geocache",
+      "geocaching",
+      "geode",
+      "geography",
+      "geolocation",
+      "geometry",
+      "george",
+      "georgia",
+      "geotag",
+      "geothermal",
+      "hong kong",
+      "india",
+      "internship",
+      "jobs",
+      "kenya",
+      "login",
+      "london",
+      "malaysia",
+      "melbourne",
+      "mumbai",
+      "nigeria",
+      "pakistan",
+      "perth",
+      "philippines",
+      "salary",
+      "singapore",
+      "south africa",
+      "sydney",
+      "toronto",
+      "uk"
+    ],
+    "local_terms": [
+      "orange county",
+      "california",
+      "los angeles",
+      "irvine",
+      "newport beach",
+      "anaheim",
+      "san diego",
+      "usa",
+      "us",
+      "united states"
+    ]
   },
-
   "ai_referrers": {
-    "chatgpt": ["chatgpt.com", "chat.openai.com"],
-    "perplexity": ["perplexity.ai"],
-    "gemini": ["gemini.google.com", "bard.google.com"],
-    "copilot": ["copilot.microsoft.com", "bing.com/chat"],
-    "claude": ["claude.ai"],
-    "deepseek": ["chat.deepseek.com"],
-    "meta_ai": ["meta.ai"],
-    "you": ["you.com"]
+    "chatgpt": [
+      "chatgpt.com",
+      "chat.openai.com"
+    ],
+    "perplexity": [
+      "perplexity.ai"
+    ],
+    "gemini": [
+      "gemini.google.com",
+      "bard.google.com"
+    ],
+    "copilot": [
+      "copilot.microsoft.com",
+      "bing.com/chat"
+    ],
+    "claude": [
+      "claude.ai"
+    ],
+    "deepseek": [
+      "chat.deepseek.com"
+    ],
+    "meta_ai": [
+      "meta.ai"
+    ],
+    "you": [
+      "you.com"
+    ]
   }
 }

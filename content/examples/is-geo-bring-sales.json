@@ -2,7 +2,12 @@
   "query": "is geo bring sales",
   "slug": "is-geo-bring-sales",
   "primary_keyword": "GEO sales",
-  "secondary_keywords": ["generative engine optimization", "AI search leads", "ChatGPT recommendations", "AI visibility"],
+  "secondary_keywords": [
+    "generative engine optimization",
+    "AI search leads",
+    "ChatGPT recommendations",
+    "AI visibility"
+  ],
   "search_intent": "commercial investigation",
   "volume": null,
   "seo": {
@@ -79,13 +84,35 @@
     }
   ],
   "internal_links": [
-    {"anchor": "The Chimera AI home page", "url": "https://thechimeraai.com/"},
-    {"anchor": "More GEO guides and answers", "url": "https://thechimeraai.com/insights/"},
-    {"anchor": "Contact The Chimera AI", "url": "https://thechimeraai.com/contact/"}
+    {
+      "anchor": "Chimera GEO services",
+      "url": "https://thechimeraai.com/#services"
+    },
+    {
+      "anchor": "how the six-phase GEO build works",
+      "url": "https://thechimeraai.com/#process"
+    },
+    {
+      "anchor": "GEO results for real brands",
+      "url": "https://thechimeraai.com/#results"
+    },
+    {
+      "anchor": "book an AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
   ],
   "sources": [
-    {"title": "GEO: Generative Engine Optimization (Aggarwal et al., KDD 2024)", "url": "https://arxiv.org/abs/2311.09735"},
-    {"title": "Google Search Central: AI features and your website", "url": "https://developers.google.com/search/docs/appearance/ai-features"},
-    {"title": "The llms.txt proposal", "url": "https://llmstxt.org"}
+    {
+      "title": "GEO: Generative Engine Optimization (Aggarwal et al., KDD 2024)",
+      "url": "https://arxiv.org/abs/2311.09735"
+    },
+    {
+      "title": "Google Search Central: AI features and your website",
+      "url": "https://developers.google.com/search/docs/appearance/ai-features"
+    },
+    {
+      "title": "The llms.txt proposal",
+      "url": "https://llmstxt.org"
+    }
   ]
 }

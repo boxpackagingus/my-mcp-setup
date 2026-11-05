@@ -8,7 +8,8 @@ class WordPress:
     def __init__(self):
         self.base = config.env("WP_URL").rstrip("/")
         self.auth = (config.env("WP_USER"), config.env("WP_APP_PASSWORD"))
-        self.api = f"{self.base}/wp-json/wp/v2"
+        # ?rest_route= works even when pretty permalinks are broken on the server.
+        self.api = f"{self.base}/?rest_route=/wp/v2"
 
     def _req(self, method, path, **kw):
         r = requests.request(method, f"{self.api}{path}", auth=self.auth, timeout=60, **kw)
@@ -19,7 +20,7 @@ class WordPress:
     def check(self):
         """Confirms login works and the Chimera Engine plugin is active."""
         me = self._req("GET", "/users/me", params={"context": "edit"})
-        root = requests.get(f"{self.base}/wp-json/", timeout=30).json()
+        root = requests.get(f"{self.base}/?rest_route=/", timeout=30).json()
         plugin = "chimera/v1" in root.get("namespaces", [])
         return {"user": me.get("name"), "roles": me.get("roles"), "plugin_active": plugin}
 
@@ -29,7 +30,7 @@ class WordPress:
 
     def all_engine_pages(self):
         """Every page the engine made (served by the Chimera Engine plugin)."""
-        r = requests.get(f"{self.base}/wp-json/chimera/v1/pages", auth=self.auth, timeout=60)
+        r = requests.get(f"{self.base}/?rest_route=/chimera/v1/pages", auth=self.auth, timeout=60)
         r.raise_for_status()
         return r.json()
 

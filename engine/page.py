@@ -48,9 +48,14 @@ def render_html(spec, cfg):
     parts.append(f'<nav class="chimera-toc" aria-label="Contents"><h2>On this page</h2><ol>{toc}'
                  f'<li><a href="#faq">FAQs</a></li></ol></nav>')
 
+    form = lead.get("form_shortcode", "")
+    if not form or form.startswith("TODO"):
+        # No form yet: send people to the booking section instead.
+        btn = lead.get("fallback_button") or {"text": "Get in touch", "url": cfg["site"]["base_url"] + "/"}
+        form = f'<p><a class="chimera-cta-button" href="{_e(btn["url"])}">{_e(btn["text"])}</a></p>'
     cta = (
         f'<div class="chimera-cta" id="get-started"><h2>{_e(lead["cta_heading"])}</h2>'
-        f'<p>{_e(lead["cta_text"])}</p>{lead.get("form_shortcode", "")}</div>'
+        f'<p>{_e(lead["cta_text"])}</p>{form}</div>'
     )
 
     for i, s in enumerate(spec["sections"]):

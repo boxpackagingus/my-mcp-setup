@@ -53,7 +53,7 @@ def test_slugify():
 def test_html_has_answer_cta_and_faq_but_no_script():
     html = page.render_html(EXAMPLE, CFG)
     assert "chimera-answer" in html
-    assert html.count("chimera-cta") == 2
+    assert html.count('class="chimera-cta"') == 2
     assert 'id="faq"' in html
     assert "<script" not in html
 
@@ -79,4 +79,18 @@ def test_same_question_detection():
 def test_scoring_prefers_commercial_intent():
     a = research.score({"query": "geo agency cost", "source": "autocomplete", "volume": 100})
     b = research.score({"query": "what is geo", "source": "autocomplete", "volume": 100})
+    assert a > b
+
+
+def test_relevance_filter():
+    assert research.relevant("generative engine optimization agency", CFG)
+    assert research.relevant("how to rank in chatgpt", CFG)
+    assert not research.relevant("cost of geothermal system", CFG)
+    assert not research.relevant("cost of george mason university", CFG)
+    assert not research.relevant("best geo agency in india", CFG)
+
+
+def test_local_queries_rank_higher():
+    a = research.score({"query": "geo agency orange county", "source": "autocomplete"}, CFG)
+    b = research.score({"query": "geo agency", "source": "autocomplete"}, CFG)
     assert a > b
