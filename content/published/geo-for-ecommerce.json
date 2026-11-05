@@ -227,6 +227,35 @@
         }
       ],
       "note": "Weekly users, monthly users and monthly queries measure different things, so compare each figure with its own history rather than with the others."
+    },
+    {
+      "after": 2,
+      "type": "line",
+      "eyebrow": "Interactive chart",
+      "title": "Gemini app monthly users over time",
+      "lead": "Google's assistant grew more than sevenfold in a year. Hover the points for each figure.",
+      "engine": "gemini",
+      "chart_label": "Gemini app monthly active users (millions)",
+      "unit": "M",
+      "items": [
+        {
+          "label": "Oct 2024",
+          "value": 90
+        },
+        {
+          "label": "Mar 2025",
+          "value": 350
+        },
+        {
+          "label": "Oct 2025",
+          "value": 650
+        }
+      ],
+      "source": {
+        "title": "9to5Google: Gemini app passes 650 million monthly users (Oct 29, 2025)",
+        "url": "https://9to5google.com/2025/10/29/gemini-app-650-million-users/",
+        "note": "Oct 2024 and Mar 2025 from court documents; Oct 2025 from Alphabet's Q3 earnings call"
+      }
     }
   ],
   "hero_query": "Which product should I buy? Ask AI.",
@@ -247,5 +276,13 @@
     "height": 840
   },
   "published": "2026-11-05",
-  "updated": "2026-11-05"
+  "updated": "2026-11-05",
+  "photo": {
+    "id": 196,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/geo-for-ecommerce-photo.jpg",
+    "alt": "Shopper browsing product recommendations on a tablet with parcels nearby",
+    "width": 1360,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Kittl AI"
+  }
 }

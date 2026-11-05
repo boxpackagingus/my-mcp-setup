@@ -218,6 +218,64 @@
           "text": "Publish one strong local page and test."
         }
       ]
+    },
+    {
+      "after": 2,
+      "type": "line",
+      "eyebrow": "Interactive chart",
+      "title": "Google AI Overviews monthly users",
+      "lead": "Google says AI Overviews grew from 1.5 billion to 2 billion monthly users within months.",
+      "engine": "google",
+      "chart_label": "AI Overviews monthly users (billions)",
+      "unit": "B",
+      "items": [
+        {
+          "label": "May 2025",
+          "value": 1.5
+        },
+        {
+          "label": "Jul 2025",
+          "value": 2
+        }
+      ],
+      "source": {
+        "title": "Dataconomy: Google's AI Overviews now serve 2 billion monthly users (Jul 24, 2025)",
+        "url": "https://dataconomy.com/2025/07/24/googles-ai-overviews-now-serve-2-billion-monthly-users/",
+        "note": "Figures reported by Google"
+      }
+    },
+    {
+      "after": 5,
+      "type": "line",
+      "eyebrow": "Interactive chart",
+      "title": "ChatGPT's weekly users over time",
+      "lead": "OpenAI's own figures. Hover the points to see each milestone.",
+      "engine": "chatgpt",
+      "chart_label": "ChatGPT weekly active users (millions)",
+      "unit": "M",
+      "items": [
+        {
+          "label": "Nov 2023",
+          "value": 100
+        },
+        {
+          "label": "Mar 2025",
+          "value": 500
+        },
+        {
+          "label": "Aug 2025",
+          "value": 700
+        },
+        {
+          "label": "Oct 2025",
+          "value": 800
+        }
+      ],
+      "source": {
+        "title": "TechCrunch: Sam Altman says ChatGPT has hit 800M weekly active users (Oct 6, 2025)",
+        "url": "https://techcrunch.com/2025/10/06/sam-altman-says-chatgpt-has-hit-800m-weekly-active-users/",
+        "note": "Figures announced by OpenAI"
+      }
     }
   ],
   "hero_query": "Who's the best provider near me?",
@@ -238,5 +296,13 @@
     "height": 840
   },
   "published": "2026-11-05",
-  "updated": "2026-11-05"
+  "updated": "2026-11-05",
+  "photo": {
+    "id": 198,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/local-geo-photo.jpg",
+    "alt": "Local shop owner standing in the doorway of a storefront, checking a phone",
+    "width": 1360,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Kittl AI"
+  }
 }

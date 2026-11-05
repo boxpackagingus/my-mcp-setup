@@ -190,6 +190,68 @@
           "note": "Microsoft's assistant in Windows, Edge and Office, grounded in Bing results."
         }
       ]
+    },
+    {
+      "after": 2,
+      "type": "line",
+      "eyebrow": "Interactive chart",
+      "title": "ChatGPT's weekly users over time",
+      "lead": "OpenAI's own figures. Hover the points to see each milestone.",
+      "engine": "chatgpt",
+      "chart_label": "ChatGPT weekly active users (millions)",
+      "unit": "M",
+      "items": [
+        {
+          "label": "Nov 2023",
+          "value": 100
+        },
+        {
+          "label": "Mar 2025",
+          "value": 500
+        },
+        {
+          "label": "Aug 2025",
+          "value": 700
+        },
+        {
+          "label": "Oct 2025",
+          "value": 800
+        }
+      ],
+      "source": {
+        "title": "TechCrunch: Sam Altman says ChatGPT has hit 800M weekly active users (Oct 6, 2025)",
+        "url": "https://techcrunch.com/2025/10/06/sam-altman-says-chatgpt-has-hit-800m-weekly-active-users/",
+        "note": "Figures announced by OpenAI"
+      }
+    },
+    {
+      "after": 5,
+      "type": "line",
+      "eyebrow": "Interactive chart",
+      "title": "Gemini app monthly users over time",
+      "lead": "Google's assistant grew more than sevenfold in a year. Hover the points for each figure.",
+      "engine": "gemini",
+      "chart_label": "Gemini app monthly active users (millions)",
+      "unit": "M",
+      "items": [
+        {
+          "label": "Oct 2024",
+          "value": 90
+        },
+        {
+          "label": "Mar 2025",
+          "value": 350
+        },
+        {
+          "label": "Oct 2025",
+          "value": 650
+        }
+      ],
+      "source": {
+        "title": "9to5Google: Gemini app passes 650 million monthly users (Oct 29, 2025)",
+        "url": "https://9to5google.com/2025/10/29/gemini-app-650-million-users/",
+        "note": "Oct 2024 and Mar 2025 from court documents; Oct 2025 from Alphabet's Q3 earnings call"
+      }
     }
   ],
   "hero_engines": [
@@ -206,5 +268,13 @@
     "alt": "How to Choose a GEO Agency: A 10-Point Checklist: illustration with the AI platforms covered in this guide",
     "width": 1600,
     "height": 840
+  },
+  "photo": {
+    "id": 201,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/how-to-choose-a-geo-agency-photo.jpg",
+    "alt": "Business owner meeting an agency team, about to shake hands",
+    "width": 1360,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Kittl AI"
   }
 }

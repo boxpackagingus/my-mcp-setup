@@ -132,7 +132,24 @@ def matrix(v, tone):
             f'<p class="cp-figsource">Logos are trademarks of their owners and are shown only to identify each platform.</p></section>')
 
 
-RENDER = {"engines": engines, "flow": flow, "timeline": timeline, "stats": stats,
+def line(v, tone):
+    """Animated, hoverable line chart drawn by the plugin's script from data-points.
+    The same numbers are always visible in a data table, so they work without script too."""
+    import json as _json
+    pts = [{"l": i["label"], "v": float(i["value"])} for i in v["items"]]
+    unit = v.get("unit", "")
+    rows = "".join(f"<tr><td>{_e(i['label'])}</td><td>{_e(i.get('display', str(i['value']) + unit))}</td></tr>" for i in v["items"])
+    who = f'<div class="cp-chart-who">{logo(v["engine"], "sm")}<span>{_e(v.get("chart_label", ""))}</span></div>' if v.get("engine") else ""
+    first, last = v["items"][0], v["items"][-1]
+    label = f'{v.get("chart_label", v["title"])}: from {first["value"]}{unit} in {first["label"]} to {last["value"]}{unit} in {last["label"]}'
+    return (f'<section class="cp-sec cp-tone--{tone} cp-vis cp-vis--line">{_head(v, "Chart")}'
+            f'<figure class="cp-chart">{who}'
+            f'<div class="cp-line" role="img" aria-label="{_e(label)}" data-unit="{_e(unit)}" data-points="{_e(_json.dumps(pts))}"></div>'
+            f'<details class="cp-chartdata"><summary>View the data</summary><table><tr><th>Date</th><th>Value</th></tr>{rows}</table></details>'
+            f'{_source(v)}</figure></section>')
+
+
+RENDER = {"engines": engines, "line": line, "flow": flow, "timeline": timeline, "stats": stats,
           "bars": bars, "scorecard": scorecard, "matrix": matrix}
 
 

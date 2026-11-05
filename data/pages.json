@@ -1,126 +1,5 @@
 [
   {
-    "slug": "answer-engine-optimization-vs-generative-engine-optimization",
-    "query": "answer engine optimization vs generative engine optimization",
-    "url": "https://thechimeraai.com/answer-engine-optimization-vs-generative-engine-optimization/",
-    "wp_id": 99,
-    "published": "2026-11-05",
-    "primary_keyword": "AEO vs GEO",
-    "volume": null,
-    "words": 1212,
-    "indexnow": "Sent 2026-11-05"
-  },
-  {
-    "slug": "best-practices-for-llms-txt",
-    "query": "best practices for llms txt",
-    "url": "https://thechimeraai.com/best-practices-for-llms-txt/",
-    "wp_id": 100,
-    "published": "2026-11-05",
-    "primary_keyword": "llms.txt best practices",
-    "volume": null,
-    "words": 1254,
-    "indexnow": "Sent 2026-11-05"
-  },
-  {
-    "slug": "generative-engine-optimization-agency",
-    "query": "generative engine optimization agency",
-    "url": "https://thechimeraai.com/generative-engine-optimization-agency/",
-    "wp_id": 101,
-    "published": "2026-11-05",
-    "primary_keyword": "generative engine optimization agency",
-    "volume": null,
-    "words": 1352,
-    "indexnow": "Sent 2026-11-05"
-  },
-  {
-    "slug": "geo-seo-best-practices",
-    "query": "geo seo best practices",
-    "url": "https://thechimeraai.com/geo-seo-best-practices/",
-    "wp_id": 102,
-    "published": "2026-11-05",
-    "primary_keyword": "GEO SEO best practices",
-    "volume": null,
-    "words": 1321,
-    "indexnow": "Sent 2026-11-05"
-  },
-  {
-    "slug": "geo-vs-seo",
-    "query": "geo vs seo",
-    "url": "https://thechimeraai.com/geo-vs-seo/",
-    "wp_id": 103,
-    "published": "2026-11-05",
-    "primary_keyword": "GEO vs SEO",
-    "volume": null,
-    "words": 1244,
-    "indexnow": "Sent 2026-11-05"
-  },
-  {
-    "slug": "how-to-choose-a-geo-agency",
-    "query": "how to choose a geo agency",
-    "url": "https://thechimeraai.com/how-to-choose-a-geo-agency/",
-    "wp_id": 104,
-    "published": "2026-11-05",
-    "primary_keyword": "choose a GEO agency",
-    "volume": null,
-    "words": 1249,
-    "indexnow": "Sent 2026-11-05"
-  },
-  {
-    "slug": "how-to-rank-in-chatgpt",
-    "query": "how to rank in chatgpt",
-    "url": "https://thechimeraai.com/how-to-rank-in-chatgpt/",
-    "wp_id": 105,
-    "published": "2026-11-05",
-    "primary_keyword": "rank in ChatGPT",
-    "volume": null,
-    "words": 1299,
-    "indexnow": "Sent 2026-11-05"
-  },
-  {
-    "slug": "how-to-show-up-in-google-ai-overviews",
-    "query": "how to show up in google ai overviews",
-    "url": "https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/",
-    "wp_id": 106,
-    "published": "2026-11-05",
-    "primary_keyword": "Google AI Overviews",
-    "volume": null,
-    "words": 1297,
-    "indexnow": "Sent 2026-11-05"
-  },
-  {
-    "slug": "is-geo-bring-sales",
-    "query": "is geo bring sales",
-    "url": "https://thechimeraai.com/is-geo-bring-sales/",
-    "wp_id": 95,
-    "published": "2026-11-05",
-    "primary_keyword": "GEO sales",
-    "volume": null,
-    "words": 1580,
-    "indexnow": "Sent 2026-11-05"
-  },
-  {
-    "slug": "perplexity-seo",
-    "query": "perplexity seo",
-    "url": "https://thechimeraai.com/perplexity-seo/",
-    "wp_id": 108,
-    "published": "2026-11-05",
-    "primary_keyword": "Perplexity SEO",
-    "volume": null,
-    "words": 1235,
-    "indexnow": "Sent 2026-11-05"
-  },
-  {
-    "slug": "what-is-generative-engine-optimization-and-how-does-it-work",
-    "query": "what is generative engine optimization and how does it work",
-    "url": "https://thechimeraai.com/what-is-generative-engine-optimization-and-how-does-it-work/",
-    "wp_id": 109,
-    "published": "2026-11-05",
-    "primary_keyword": "generative engine optimization",
-    "volume": null,
-    "words": 1285,
-    "indexnow": "Sent 2026-11-05"
-  },
-  {
     "slug": "ai-overviews-vs-featured-snippets",
     "query": "ai overviews vs featured snippets",
     "url": "https://thechimeraai.com/ai-overviews-vs-featured-snippets/",
@@ -128,7 +7,7 @@
     "published": "2026-11-05",
     "primary_keyword": "AI Overviews vs featured snippets",
     "volume": null,
-    "words": 1247,
+    "words": 1275,
     "indexnow": "Sent 2026-11-05"
   },
   {
@@ -139,7 +18,29 @@
     "published": "2026-11-05",
     "primary_keyword": "AI visibility audit",
     "volume": null,
-    "words": 1231,
+    "words": 1258,
+    "indexnow": "Sent 2026-11-05"
+  },
+  {
+    "slug": "answer-engine-optimization-vs-generative-engine-optimization",
+    "query": "answer engine optimization vs generative engine optimization",
+    "url": "https://thechimeraai.com/answer-engine-optimization-vs-generative-engine-optimization/",
+    "wp_id": 99,
+    "published": "2026-11-05",
+    "primary_keyword": "AEO vs GEO",
+    "volume": null,
+    "words": 1423,
+    "indexnow": "Sent 2026-11-05"
+  },
+  {
+    "slug": "best-practices-for-llms-txt",
+    "query": "best practices for llms txt",
+    "url": "https://thechimeraai.com/best-practices-for-llms-txt/",
+    "wp_id": 100,
+    "published": "2026-11-05",
+    "primary_keyword": "llms.txt best practices",
+    "volume": null,
+    "words": 1404,
     "indexnow": "Sent 2026-11-05"
   },
   {
@@ -150,7 +51,7 @@
     "published": "2026-11-05",
     "primary_keyword": "entity SEO for AI search",
     "volume": null,
-    "words": 1211,
+    "words": 1268,
     "indexnow": "Sent 2026-11-05"
   },
   {
@@ -161,7 +62,18 @@
     "published": "2026-11-05",
     "primary_keyword": "Gemini SEO",
     "volume": null,
-    "words": 1226,
+    "words": 1256,
+    "indexnow": "Sent 2026-11-05"
+  },
+  {
+    "slug": "generative-engine-optimization-agency",
+    "query": "generative engine optimization agency",
+    "url": "https://thechimeraai.com/generative-engine-optimization-agency/",
+    "wp_id": 101,
+    "published": "2026-11-05",
+    "primary_keyword": "generative engine optimization agency",
+    "volume": null,
+    "words": 1596,
     "indexnow": "Sent 2026-11-05"
   },
   {
@@ -172,7 +84,7 @@
     "published": "2026-11-05",
     "primary_keyword": "GEO agency in Orange County",
     "volume": null,
-    "words": 1228,
+    "words": 1256,
     "indexnow": "Sent 2026-11-05"
   },
   {
@@ -183,7 +95,7 @@
     "published": "2026-11-05",
     "primary_keyword": "GEO for B2B SaaS",
     "volume": null,
-    "words": 1221,
+    "words": 1251,
     "indexnow": "Sent 2026-11-05"
   },
   {
@@ -194,7 +106,7 @@
     "published": "2026-11-05",
     "primary_keyword": "GEO for e-commerce",
     "volume": null,
-    "words": 1249,
+    "words": 1279,
     "indexnow": "Sent 2026-11-05"
   },
   {
@@ -205,7 +117,29 @@
     "published": "2026-11-05",
     "primary_keyword": "GEO mistakes",
     "volume": null,
-    "words": 1205,
+    "words": 1262,
+    "indexnow": "Sent 2026-11-05"
+  },
+  {
+    "slug": "geo-seo-best-practices",
+    "query": "geo seo best practices",
+    "url": "https://thechimeraai.com/geo-seo-best-practices/",
+    "wp_id": 102,
+    "published": "2026-11-05",
+    "primary_keyword": "GEO SEO best practices",
+    "volume": null,
+    "words": 1510,
+    "indexnow": "Sent 2026-11-05"
+  },
+  {
+    "slug": "geo-vs-seo",
+    "query": "geo vs seo",
+    "url": "https://thechimeraai.com/geo-vs-seo/",
+    "wp_id": 103,
+    "published": "2026-11-05",
+    "primary_keyword": "GEO vs SEO",
+    "volume": null,
+    "words": 1442,
     "indexnow": "Sent 2026-11-05"
   },
   {
@@ -216,7 +150,7 @@
     "published": "2026-11-05",
     "primary_keyword": "GEO cost",
     "volume": null,
-    "words": 1246,
+    "words": 1273,
     "indexnow": "Sent 2026-11-05"
   },
   {
@@ -227,7 +161,18 @@
     "published": "2026-11-05",
     "primary_keyword": "check if ChatGPT mentions your brand",
     "volume": null,
-    "words": 1224,
+    "words": 1254,
+    "indexnow": "Sent 2026-11-05"
+  },
+  {
+    "slug": "how-to-choose-a-geo-agency",
+    "query": "how to choose a geo agency",
+    "url": "https://thechimeraai.com/how-to-choose-a-geo-agency/",
+    "wp_id": 104,
+    "published": "2026-11-05",
+    "primary_keyword": "choose a GEO agency",
+    "volume": null,
+    "words": 1466,
     "indexnow": "Sent 2026-11-05"
   },
   {
@@ -238,7 +183,7 @@
     "published": "2026-11-05",
     "primary_keyword": "brand mentions for AI search",
     "volume": null,
-    "words": 1212,
+    "words": 1269,
     "indexnow": "Sent 2026-11-05"
   },
   {
@@ -249,7 +194,7 @@
     "published": "2026-11-05",
     "primary_keyword": "cited by Claude",
     "volume": null,
-    "words": 1227,
+    "words": 1284,
     "indexnow": "Sent 2026-11-05"
   },
   {
@@ -260,7 +205,7 @@
     "published": "2026-11-05",
     "primary_keyword": "measure GEO results",
     "volume": null,
-    "words": 1219,
+    "words": 1276,
     "indexnow": "Sent 2026-11-05"
   },
   {
@@ -271,7 +216,29 @@
     "published": "2026-11-05",
     "primary_keyword": "Google AI Mode",
     "volume": null,
-    "words": 1209,
+    "words": 1237,
+    "indexnow": "Sent 2026-11-05"
+  },
+  {
+    "slug": "how-to-rank-in-chatgpt",
+    "query": "how to rank in chatgpt",
+    "url": "https://thechimeraai.com/how-to-rank-in-chatgpt/",
+    "wp_id": 105,
+    "published": "2026-11-05",
+    "primary_keyword": "rank in ChatGPT",
+    "volume": null,
+    "words": 1468,
+    "indexnow": "Sent 2026-11-05"
+  },
+  {
+    "slug": "how-to-show-up-in-google-ai-overviews",
+    "query": "how to show up in google ai overviews",
+    "url": "https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/",
+    "wp_id": 106,
+    "published": "2026-11-05",
+    "primary_keyword": "Google AI Overviews",
+    "volume": null,
+    "words": 1461,
     "indexnow": "Sent 2026-11-05"
   },
   {
@@ -282,7 +249,7 @@
     "published": "2026-11-05",
     "primary_keyword": "track AI traffic in Google Analytics",
     "volume": null,
-    "words": 1257,
+    "words": 1287,
     "indexnow": "Sent 2026-11-05"
   },
   {
@@ -293,7 +260,18 @@
     "published": "2026-11-05",
     "primary_keyword": "write content for AI search",
     "volume": null,
-    "words": 1225,
+    "words": 1282,
+    "indexnow": "Sent 2026-11-05"
+  },
+  {
+    "slug": "is-geo-bring-sales",
+    "query": "is geo bring sales",
+    "url": "https://thechimeraai.com/is-geo-bring-sales/",
+    "wp_id": 95,
+    "published": "2026-11-05",
+    "primary_keyword": "GEO sales",
+    "volume": null,
+    "words": 1769,
     "indexnow": "Sent 2026-11-05"
   },
   {
@@ -304,7 +282,7 @@
     "published": "2026-11-05",
     "primary_keyword": "local GEO",
     "volume": null,
-    "words": 1204,
+    "words": 1259,
     "indexnow": "Sent 2026-11-05"
   },
   {
@@ -315,7 +293,18 @@
     "published": "2026-11-05",
     "primary_keyword": "Copilot SEO",
     "volume": null,
-    "words": 1206,
+    "words": 1263,
+    "indexnow": "Sent 2026-11-05"
+  },
+  {
+    "slug": "perplexity-seo",
+    "query": "perplexity seo",
+    "url": "https://thechimeraai.com/perplexity-seo/",
+    "wp_id": 108,
+    "published": "2026-11-05",
+    "primary_keyword": "Perplexity SEO",
+    "volume": null,
+    "words": 1388,
     "indexnow": "Sent 2026-11-05"
   },
   {
@@ -326,7 +315,7 @@
     "published": "2026-11-05",
     "primary_keyword": "robots.txt for AI crawlers",
     "volume": null,
-    "words": 1217,
+    "words": 1274,
     "indexnow": "Sent 2026-11-05"
   },
   {
@@ -337,7 +326,18 @@
     "published": "2026-11-05",
     "primary_keyword": "schema markup for AI search",
     "volume": null,
-    "words": 1215,
+    "words": 1270,
+    "indexnow": "Sent 2026-11-05"
+  },
+  {
+    "slug": "what-is-generative-engine-optimization-and-how-does-it-work",
+    "query": "what is generative engine optimization and how does it work",
+    "url": "https://thechimeraai.com/what-is-generative-engine-optimization-and-how-does-it-work/",
+    "wp_id": 109,
+    "published": "2026-11-05",
+    "primary_keyword": "generative engine optimization",
+    "volume": null,
+    "words": 1562,
     "indexnow": "Sent 2026-11-05"
   }
 ]

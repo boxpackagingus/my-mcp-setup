@@ -219,6 +219,39 @@
           "text": "Enough data to see which topics produce leads, so you double down."
         }
       ]
+    },
+    {
+      "after": 2,
+      "type": "line",
+      "eyebrow": "Interactive chart",
+      "title": "ChatGPT's weekly users over time",
+      "lead": "OpenAI's own figures. Hover the points to see each milestone.",
+      "engine": "chatgpt",
+      "chart_label": "ChatGPT weekly active users (millions)",
+      "unit": "M",
+      "items": [
+        {
+          "label": "Nov 2023",
+          "value": 100
+        },
+        {
+          "label": "Mar 2025",
+          "value": 500
+        },
+        {
+          "label": "Aug 2025",
+          "value": 700
+        },
+        {
+          "label": "Oct 2025",
+          "value": 800
+        }
+      ],
+      "source": {
+        "title": "TechCrunch: Sam Altman says ChatGPT has hit 800M weekly active users (Oct 6, 2025)",
+        "url": "https://techcrunch.com/2025/10/06/sam-altman-says-chatgpt-has-hit-800m-weekly-active-users/",
+        "note": "Figures announced by OpenAI"
+      }
     }
   ],
   "hero_engines": [
@@ -235,5 +268,13 @@
     "alt": "Does GEO Bring Sales? How AI Search Drives Revenue: illustration with the AI platforms covered in this guide",
     "width": 1600,
     "height": 840
+  },
+  "photo": {
+    "id": 190,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/is-geo-bring-sales-photo.jpg",
+    "alt": "Business founder smiling at rising sales leads on a laptop",
+    "width": 1360,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Kittl AI"
   }
 }

@@ -352,3 +352,56 @@
 .cp-tone--dark .cp-bar-track { background: var(--cp-night-3); }
 .cp-tone--dark .cp-dot { background: var(--cp-night-3); }
 .cp-tone--light .cp-tl-item::before { box-shadow: 0 0 0 4px var(--cp-card); }
+
+/* ===================== 1.5: motion, interactive charts, photography ===================== */
+/* Scroll reveal (only when the script runs, so content is never hidden without it) */
+.cp-js .cp > section, .cp-js .cp > figure, .cp-js .cp > nav { opacity: 0; transform: translateY(22px); transition: opacity .7s cubic-bezier(.2, .7, .2, 1), transform .7s cubic-bezier(.2, .7, .2, 1); }
+.cp-js .cp > .is-in { opacity: 1; transform: none; }
+.cp-js .cp-bar-fill { transform: scaleX(0); transform-origin: left center; transition: transform 1.2s cubic-bezier(.2, .7, .2, 1) .15s; }
+.cp-js .is-in .cp-bar-fill { transform: scaleX(1); }
+.cp-js .cp-flow-step, .cp-js .cp-engine, .cp-js .cp-stat, .cp-js .cp-take, .cp-js .cp-fcard, .cp-js .cp-step, .cp-js .cp-topic, .cp-js .cp-tl-item { opacity: 0; transform: translateY(14px); transition: opacity .55s ease, transform .55s ease; }
+.cp-js .is-in .cp-flow-step, .cp-js .is-in .cp-engine, .cp-js .is-in .cp-stat, .cp-js .is-in .cp-take, .cp-js .is-in .cp-fcard, .cp-js .is-in .cp-step, .cp-js .is-in .cp-topic, .cp-js .is-in .cp-tl-item { opacity: 1; transform: none; }
+.cp-js .is-in li:nth-child(2), .cp-js .is-in article:nth-child(2) { transition-delay: .08s; }
+.cp-js .is-in li:nth-child(3), .cp-js .is-in article:nth-child(3) { transition-delay: .16s; }
+.cp-js .is-in li:nth-child(4), .cp-js .is-in article:nth-child(4) { transition-delay: .24s; }
+.cp-js .is-in li:nth-child(5), .cp-js .is-in article:nth-child(5) { transition-delay: .32s; }
+.cp-js .is-in li:nth-child(n+6) { transition-delay: .4s; }
+
+/* Hover lift on cards */
+.cp-engine, .cp-fcard, .cp-step, .cp-topic, .cp-stat, .cp-take, .cp-flow-step { transition: transform .2s ease, box-shadow .2s ease; }
+.cp-engine:hover, .cp-fcard:hover, .cp-step:hover, .cp-topic:hover, .cp-flow-step:hover { transform: translateY(-3px); box-shadow: 0 14px 30px rgba(22, 23, 28, .08); }
+
+/* Hero glow drifts slowly */
+@media (prefers-reduced-motion: no-preference) {
+  .cp-hero::before, .cp-lead::before, .cp-explore::before { animation: cp-drift 18s ease-in-out infinite alternate; background-size: 140% 140%; }
+  @keyframes cp-drift { from { background-position: 0% 0%; } to { background-position: 100% 100%; } }
+  .cp-hero-art img { animation: cp-zoom 14s ease-out both; }
+  @keyframes cp-zoom { from { transform: scale(1.06); } to { transform: scale(1); } }
+}
+
+/* Interactive line chart */
+.cp-line { position: relative; min-height: 220px; }
+.cp-line svg { display: block; overflow: visible; }
+.cp-ln-grid { stroke: var(--cp-line); stroke-width: 1; }
+.cp-ln-tick { fill: var(--cp-ink-muted); font-size: 12px; font-variant-numeric: tabular-nums; }
+.cp-ln-path { transition: stroke-dashoffset 1.6s cubic-bezier(.2, .7, .2, 1); filter: drop-shadow(0 6px 10px rgba(139, 92, 246, .25)); }
+.cp-ln-area { transition: opacity 1.2s ease .6s; }
+.cp-ln-dot { fill: #fff; stroke: #8b5cf6; stroke-width: 3; transition: r .15s ease; }
+.cp-ln-pt { cursor: pointer; outline: none; }
+.cp-ln-pt:hover .cp-ln-dot, .cp-ln-pt:focus .cp-ln-dot { r: 8; fill: var(--cp-accent); stroke: var(--cp-ink); }
+.cp-ln-val { fill: var(--cp-ink); font-size: 13px; font-weight: 700; font-variant-numeric: tabular-nums; }
+.cp-ln-tip { position: absolute; pointer-events: none; min-width: 100px; padding: 8px 12px; border-radius: 10px; background: var(--cp-night); color: var(--cp-on-night); font-size: .82rem; box-shadow: 0 12px 30px rgba(0, 0, 0, .25); display: grid; gap: 2px; }
+.cp-ln-tip b { font-size: 1.1rem; color: var(--cp-accent); }
+.cp-tone--dark .cp-ln-grid { stroke: var(--cp-night-line); }
+.cp-tone--dark .cp-ln-tick { fill: var(--cp-on-night-muted); }
+.cp-tone--dark .cp-ln-val { fill: var(--cp-on-night); }
+.cp-chartdata { margin-top: 12px; font-size: .88rem; }
+.cp-chartdata summary { cursor: pointer; color: var(--cp-ink-muted); font-weight: 600; }
+.cp-chartdata table { margin-top: 8px; border-collapse: collapse; width: auto; min-width: 260px; }
+.cp-chartdata th, .cp-chartdata td { padding: 6px 14px 6px 0; border-bottom: 1px solid var(--cp-line); text-align: left; font-variant-numeric: tabular-nums; }
+
+/* Editorial photography */
+.cp-photo { margin: 0; position: relative; border-radius: var(--cp-radius); overflow: hidden; background: var(--cp-night); }
+.cp-photo img { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; }
+.cp-photo figcaption { position: absolute; left: 16px; bottom: 14px; right: 16px; font-size: .78rem; color: rgba(255, 255, 255, .85); text-shadow: 0 1px 8px rgba(0, 0, 0, .6); }
+@media (prefers-reduced-motion: no-preference) { .cp-photo img { transition: transform 6s ease; } .cp-photo:hover img { transform: scale(1.04); } }

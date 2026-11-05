@@ -99,3 +99,28 @@ ANSWER_FLOW = ("How an AI engine picks its sources",
                 ("Retrieve", "It searches its index or a partner's for pages likely to answer each part."),
                 ("Select", "It keeps the clearest, most trustworthy passages and drops the rest."),
                 ("Answer", "It writes a summary, names brands and links the sources it used.")])
+
+
+def chatgpt_line(after, lead=None):
+    return {"after": after, "type": "line", "eyebrow": "Interactive chart", "title": "ChatGPT's weekly users over time",
+            "lead": lead or "OpenAI's own figures. Hover the points to see each milestone.",
+            "engine": "chatgpt", "chart_label": "ChatGPT weekly active users (millions)", "unit": "M",
+            "items": [{"label": "Nov 2023", "value": 100}, {"label": "Mar 2025", "value": 500},
+                      {"label": "Aug 2025", "value": 700}, {"label": "Oct 2025", "value": 800}],
+            "source": {**SRC_CHATGPT, "note": "Figures announced by OpenAI"}}
+
+
+def gemini_line(after, lead=None):
+    return {"after": after, "type": "line", "eyebrow": "Interactive chart", "title": "Gemini app monthly users over time",
+            "lead": lead or "Google's assistant grew more than sevenfold in a year. Hover the points for each figure.",
+            "engine": "gemini", "chart_label": "Gemini app monthly active users (millions)", "unit": "M",
+            "items": [{"label": "Oct 2024", "value": 90}, {"label": "Mar 2025", "value": 350}, {"label": "Oct 2025", "value": 650}],
+            "source": {**SRC_GEMINI, "note": "Oct 2024 and Mar 2025 from court documents; Oct 2025 from Alphabet's Q3 earnings call"}}
+
+
+def aio_line(after, lead=None):
+    return {"after": after, "type": "line", "eyebrow": "Interactive chart", "title": "Google AI Overviews monthly users",
+            "lead": lead or "Google says AI Overviews grew from 1.5 billion to 2 billion monthly users within months.",
+            "engine": "google", "chart_label": "AI Overviews monthly users (billions)", "unit": "B",
+            "items": [{"label": "May 2025", "value": 1.5}, {"label": "Jul 2025", "value": 2}],
+            "source": {**SRC_AIO, "note": "Figures reported by Google"}}

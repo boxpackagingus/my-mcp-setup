@@ -232,6 +232,31 @@
           "note": "Does not help either format."
         }
       ]
+    },
+    {
+      "after": 3,
+      "type": "line",
+      "eyebrow": "Interactive chart",
+      "title": "Google AI Overviews monthly users",
+      "lead": "Google says AI Overviews grew from 1.5 billion to 2 billion monthly users within months.",
+      "engine": "google",
+      "chart_label": "AI Overviews monthly users (billions)",
+      "unit": "B",
+      "items": [
+        {
+          "label": "May 2025",
+          "value": 1.5
+        },
+        {
+          "label": "Jul 2025",
+          "value": 2
+        }
+      ],
+      "source": {
+        "title": "Dataconomy: Google's AI Overviews now serve 2 billion monthly users (Jul 24, 2025)",
+        "url": "https://dataconomy.com/2025/07/24/googles-ai-overviews-now-serve-2-billion-monthly-users/",
+        "note": "Figures reported by Google"
+      }
     }
   ],
   "hero_query": "AI Overview or featured snippet: what's the difference?",
@@ -252,5 +277,13 @@
     "height": 840
   },
   "published": "2026-11-05",
-  "updated": "2026-11-05"
+  "updated": "2026-11-05",
+  "photo": {
+    "id": 221,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/ai-overviews-vs-featured-snippets-photo-1.jpg",
+    "alt": "Phone on a desk showing a search page with a highlighted answer box",
+    "width": 1344,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Kittl AI"
+  }
 }

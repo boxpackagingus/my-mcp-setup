@@ -231,6 +231,31 @@
         }
       ],
       "note": "Weekly users, monthly users and monthly queries measure different things, so compare each figure with its own history rather than with the others."
+    },
+    {
+      "after": 3,
+      "type": "line",
+      "eyebrow": "Interactive chart",
+      "title": "Google AI Overviews monthly users",
+      "lead": "Google says AI Overviews grew from 1.5 billion to 2 billion monthly users within months.",
+      "engine": "google",
+      "chart_label": "AI Overviews monthly users (billions)",
+      "unit": "B",
+      "items": [
+        {
+          "label": "May 2025",
+          "value": 1.5
+        },
+        {
+          "label": "Jul 2025",
+          "value": 2
+        }
+      ],
+      "source": {
+        "title": "Dataconomy: Google's AI Overviews now serve 2 billion monthly users (Jul 24, 2025)",
+        "url": "https://dataconomy.com/2025/07/24/googles-ai-overviews-now-serve-2-billion-monthly-users/",
+        "note": "Figures reported by Google"
+      }
     }
   ],
   "hero_query": "Best GEO agency in Orange County?",
@@ -251,5 +276,13 @@
     "height": 840
   },
   "published": "2026-11-05",
-  "updated": "2026-11-05"
+  "updated": "2026-11-05",
+  "photo": {
+    "id": 191,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/geo-agency-orange-county-photo.jpg",
+    "alt": "Strategist working by a window overlooking an Orange County business district at golden hour",
+    "width": 1360,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Kittl AI"
+  }
 }

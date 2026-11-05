@@ -244,6 +244,35 @@
           "text": "It names a few brands and links the pages it used."
         }
       ]
+    },
+    {
+      "after": 2,
+      "type": "line",
+      "eyebrow": "Interactive chart",
+      "title": "Gemini app monthly users over time",
+      "lead": "Google's assistant grew more than sevenfold in a year. Hover the points for each figure.",
+      "engine": "gemini",
+      "chart_label": "Gemini app monthly active users (millions)",
+      "unit": "M",
+      "items": [
+        {
+          "label": "Oct 2024",
+          "value": 90
+        },
+        {
+          "label": "Mar 2025",
+          "value": 350
+        },
+        {
+          "label": "Oct 2025",
+          "value": 650
+        }
+      ],
+      "source": {
+        "title": "9to5Google: Gemini app passes 650 million monthly users (Oct 29, 2025)",
+        "url": "https://9to5google.com/2025/10/29/gemini-app-650-million-users/",
+        "note": "Oct 2024 and Mar 2025 from court documents; Oct 2025 from Alphabet's Q3 earnings call"
+      }
     }
   ],
   "hero_image": {
@@ -252,5 +281,13 @@
     "alt": "How to Rank in ChatGPT: 9 Steps to Get Recommended: illustration with the AI platforms covered in this guide",
     "width": 1600,
     "height": 840
+  },
+  "photo": {
+    "id": 222,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/how-to-rank-in-chatgpt-photo-1.jpg",
+    "alt": "Person typing a question into an AI chat assistant on a laptop at night",
+    "width": 1360,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Kittl AI"
   }
 }

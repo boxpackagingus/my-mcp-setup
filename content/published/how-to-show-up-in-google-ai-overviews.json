@@ -231,6 +231,31 @@
         "url": "https://9to5google.com/2025/10/29/gemini-app-650-million-users/",
         "note": "Oct 2024 and Mar 2025 from court documents; Oct 2025 from Alphabet's Q3 earnings call"
       }
+    },
+    {
+      "after": 3,
+      "type": "line",
+      "eyebrow": "Interactive chart",
+      "title": "Google AI Overviews monthly users",
+      "lead": "Google says AI Overviews grew from 1.5 billion to 2 billion monthly users within months.",
+      "engine": "google",
+      "chart_label": "AI Overviews monthly users (billions)",
+      "unit": "B",
+      "items": [
+        {
+          "label": "May 2025",
+          "value": 1.5
+        },
+        {
+          "label": "Jul 2025",
+          "value": 2
+        }
+      ],
+      "source": {
+        "title": "Dataconomy: Google's AI Overviews now serve 2 billion monthly users (Jul 24, 2025)",
+        "url": "https://dataconomy.com/2025/07/24/googles-ai-overviews-now-serve-2-billion-monthly-users/",
+        "note": "Figures reported by Google"
+      }
     }
   ],
   "hero_image": {
@@ -239,5 +264,13 @@
     "alt": "How to Show Up in Google AI Overviews (2026 Guide): illustration with the AI platforms covered in this guide",
     "width": 1600,
     "height": 840
+  },
+  "photo": {
+    "id": 220,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/how-to-show-up-in-google-ai-overviews-photo-1.jpg",
+    "alt": "Person reading an AI summary at the top of search results on a phone in a cafe",
+    "width": 1360,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Kittl AI"
   }
 }

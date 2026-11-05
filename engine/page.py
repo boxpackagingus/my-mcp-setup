@@ -135,6 +135,13 @@ def render_html(spec, cfg):
     n = len(spec["sections"])
     for i, s in enumerate(spec["sections"]):
         parts.append(design.section(_e(s["heading"]), _anchor(s["heading"]), s["body_html"], _tone(i), s.get("label")))
+        photo = spec.get("photo")
+        if photo and i == 0:
+            parts.append(
+                f'<figure class="cp-photo"><img src="{_e(photo["url"])}" alt="{_e(photo["alt"])}" '
+                f'width="{int(photo.get("width", 1360))}" height="{int(photo.get("height", 768))}" loading="lazy" decoding="async">'
+                f'<figcaption>{_e(photo.get("caption", ""))}</figcaption></figure>'
+            )
         prev = _tone(i)
         for v in [v for v in spec.get("visuals", []) if v.get("after") == i]:
             nxt = _tone(i + 1) if i + 1 < n else "paper"
