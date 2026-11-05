@@ -52,8 +52,8 @@ def test_slugify():
 
 def test_html_has_answer_cta_and_faq_but_no_script():
     html = page.render_html(EXAMPLE, CFG)
-    assert "chimera-answer" in html
-    assert html.count('class="chimera-cta"') == 2
+    assert "cp-answer" in html
+    assert html.count('data-chimera-form=') == 2
     assert 'id="faq"' in html
     assert "<script" not in html
 

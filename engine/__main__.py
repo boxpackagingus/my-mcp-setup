@@ -46,7 +46,8 @@ def main(argv):
         return 1 if failed else 0
     if cmd == "publish":
         from . import publish
-        print(json.dumps(publish.run(cfg, dry_run="--dry-run" in args), indent=2))
+        max_pages = int(args[args.index("--max") + 1]) if "--max" in args else None
+        print(json.dumps(publish.run(cfg, dry_run="--dry-run" in args, max_pages=max_pages), indent=2))
         return 0
     if cmd == "track":
         from . import track

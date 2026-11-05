@@ -1,12 +1,197 @@
 [
   {
-    "keyword": "GEO sales",
+    "keyword": "AEO vs GEO",
     "kind": "Main",
-    "page": "is-geo-bring-sales"
+    "page": "answer-engine-optimization-vs-generative-engine-optimization"
+  },
+  {
+    "keyword": "answer engine optimization",
+    "kind": "Supporting",
+    "page": "answer-engine-optimization-vs-generative-engine-optimization"
   },
   {
     "keyword": "generative engine optimization",
     "kind": "Supporting",
+    "page": "answer-engine-optimization-vs-generative-engine-optimization"
+  },
+  {
+    "keyword": "AEO meaning",
+    "kind": "Supporting",
+    "page": "answer-engine-optimization-vs-generative-engine-optimization"
+  },
+  {
+    "keyword": "AI search optimization",
+    "kind": "Supporting",
+    "page": "answer-engine-optimization-vs-generative-engine-optimization"
+  },
+  {
+    "keyword": "llms.txt best practices",
+    "kind": "Main",
+    "page": "best-practices-for-llms-txt"
+  },
+  {
+    "keyword": "how to create llms.txt",
+    "kind": "Supporting",
+    "page": "best-practices-for-llms-txt"
+  },
+  {
+    "keyword": "llms.txt example",
+    "kind": "Supporting",
+    "page": "best-practices-for-llms-txt"
+  },
+  {
+    "keyword": "llms.txt vs robots.txt",
+    "kind": "Supporting",
+    "page": "best-practices-for-llms-txt"
+  },
+  {
+    "keyword": "llms-full.txt",
+    "kind": "Supporting",
+    "page": "best-practices-for-llms-txt"
+  },
+  {
+    "keyword": "generative engine optimization agency",
+    "kind": "Main",
+    "page": "generative-engine-optimization-agency"
+  },
+  {
+    "keyword": "GEO agency",
+    "kind": "Supporting",
+    "page": "generative-engine-optimization-agency"
+  },
+  {
+    "keyword": "AI search agency",
+    "kind": "Supporting",
+    "page": "generative-engine-optimization-agency"
+  },
+  {
+    "keyword": "ChatGPT visibility",
+    "kind": "Supporting",
+    "page": "generative-engine-optimization-agency"
+  },
+  {
+    "keyword": "AI Overviews optimization",
+    "kind": "Supporting",
+    "page": "generative-engine-optimization-agency"
+  },
+  {
+    "keyword": "GEO SEO best practices",
+    "kind": "Main",
+    "page": "geo-seo-best-practices"
+  },
+  {
+    "keyword": "generative engine optimization checklist",
+    "kind": "Supporting",
+    "page": "geo-seo-best-practices"
+  },
+  {
+    "keyword": "AI search best practices",
+    "kind": "Supporting",
+    "page": "geo-seo-best-practices"
+  },
+  {
+    "keyword": "GEO checklist",
+    "kind": "Supporting",
+    "page": "geo-seo-best-practices"
+  },
+  {
+    "keyword": "optimize for AI search",
+    "kind": "Supporting",
+    "page": "geo-seo-best-practices"
+  },
+  {
+    "keyword": "GEO vs SEO",
+    "kind": "Main",
+    "page": "geo-vs-seo"
+  },
+  {
+    "keyword": "generative engine optimization vs SEO",
+    "kind": "Supporting",
+    "page": "geo-vs-seo"
+  },
+  {
+    "keyword": "difference between GEO and SEO",
+    "kind": "Supporting",
+    "page": "geo-vs-seo"
+  },
+  {
+    "keyword": "does GEO replace SEO",
+    "kind": "Supporting",
+    "page": "geo-vs-seo"
+  },
+  {
+    "keyword": "choose a GEO agency",
+    "kind": "Main",
+    "page": "how-to-choose-a-geo-agency"
+  },
+  {
+    "keyword": "GEO agency checklist",
+    "kind": "Supporting",
+    "page": "how-to-choose-a-geo-agency"
+  },
+  {
+    "keyword": "best GEO agency",
+    "kind": "Supporting",
+    "page": "how-to-choose-a-geo-agency"
+  },
+  {
+    "keyword": "generative engine optimization services",
+    "kind": "Supporting",
+    "page": "how-to-choose-a-geo-agency"
+  },
+  {
+    "keyword": "rank in ChatGPT",
+    "kind": "Main",
+    "page": "how-to-rank-in-chatgpt"
+  },
+  {
+    "keyword": "ChatGPT SEO",
+    "kind": "Supporting",
+    "page": "how-to-rank-in-chatgpt"
+  },
+  {
+    "keyword": "get recommended by ChatGPT",
+    "kind": "Supporting",
+    "page": "how-to-rank-in-chatgpt"
+  },
+  {
+    "keyword": "ChatGPT search",
+    "kind": "Supporting",
+    "page": "how-to-rank-in-chatgpt"
+  },
+  {
+    "keyword": "OAI-SearchBot",
+    "kind": "Supporting",
+    "page": "how-to-rank-in-chatgpt"
+  },
+  {
+    "keyword": "Google AI Overviews",
+    "kind": "Main",
+    "page": "how-to-show-up-in-google-ai-overviews"
+  },
+  {
+    "keyword": "AI Overviews SEO",
+    "kind": "Supporting",
+    "page": "how-to-show-up-in-google-ai-overviews"
+  },
+  {
+    "keyword": "get cited in AI Overviews",
+    "kind": "Supporting",
+    "page": "how-to-show-up-in-google-ai-overviews"
+  },
+  {
+    "keyword": "AI Mode",
+    "kind": "Supporting",
+    "page": "how-to-show-up-in-google-ai-overviews"
+  },
+  {
+    "keyword": "Google AI search",
+    "kind": "Supporting",
+    "page": "how-to-show-up-in-google-ai-overviews"
+  },
+  {
+    "keyword": "GEO sales",
+    "kind": "Main",
     "page": "is-geo-bring-sales"
   },
   {
@@ -23,5 +208,45 @@
     "keyword": "AI visibility",
     "kind": "Supporting",
     "page": "is-geo-bring-sales"
+  },
+  {
+    "keyword": "Perplexity SEO",
+    "kind": "Main",
+    "page": "perplexity-seo"
+  },
+  {
+    "keyword": "get cited by Perplexity",
+    "kind": "Supporting",
+    "page": "perplexity-seo"
+  },
+  {
+    "keyword": "PerplexityBot",
+    "kind": "Supporting",
+    "page": "perplexity-seo"
+  },
+  {
+    "keyword": "Perplexity AI search",
+    "kind": "Supporting",
+    "page": "perplexity-seo"
+  },
+  {
+    "keyword": "answer engine visibility",
+    "kind": "Supporting",
+    "page": "perplexity-seo"
+  },
+  {
+    "keyword": "what is GEO",
+    "kind": "Supporting",
+    "page": "what-is-generative-engine-optimization-and-how-does-it-work"
+  },
+  {
+    "keyword": "how GEO works",
+    "kind": "Supporting",
+    "page": "what-is-generative-engine-optimization-and-how-does-it-work"
+  },
+  {
+    "keyword": "GEO meaning",
+    "kind": "Supporting",
+    "page": "what-is-generative-engine-optimization-and-how-does-it-work"
   }
 ]

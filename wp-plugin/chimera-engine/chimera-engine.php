@@ -1,8 +1,8 @@
 <?php
 /**
  * Plugin Name: Chimera Engine
- * Description: Support for engine-built landing pages: llms.txt, Markdown copies, robots.txt rules, schema, hub listing, IndexNow, AI-traffic and lead tracking.
- * Version: 1.1.0
+ * Description: Support for engine-built landing pages: llms.txt, Markdown copies, robots.txt rules, schema, hub listing, IndexNow, page design, lead form, AI-traffic and lead tracking.
+ * Version: 1.2.0
  * Requires at least: 6.0
  * Requires PHP: 7.4
  * Author: The Chimera AI
@@ -12,7 +12,7 @@ if (!defined('ABSPATH')) {
     exit;
 }
 
-const CHIMERA_ENGINE_VERSION = '1.1.0';
+const CHIMERA_ENGINE_VERSION = '1.2.0';
 
 /* -------------------------------------------------------------
  * 1. Page fields the engine writes through the REST API
@@ -267,24 +267,24 @@ add_shortcode('chimera_hub', function ($atts) {
 });
 
 /* -------------------------------------------------------------
- * 7. Styles for engine page blocks
+ * 7. Page design and lead form (assets/ and includes/leads.php)
  * ----------------------------------------------------------- */
-add_action('wp_enqueue_scripts', function () {
-    if (!is_singular('page') || !chimera_is_engine_page()) {
-        return;
+require_once __DIR__ . '/includes/leads.php';
+
+add_filter('body_class', function ($classes) {
+    if (is_singular('page') && chimera_is_engine_page()) {
+        $classes[] = 'chimera-engine-page';
     }
-    wp_register_style('chimera-engine', false, [], CHIMERA_ENGINE_VERSION);
-    wp_enqueue_style('chimera-engine');
-    wp_add_inline_style('chimera-engine', '
-.chimera-answer{border-left:4px solid currentColor;padding:1rem 1.25rem;margin:1.5rem 0;background:rgba(127,127,127,.08);border-radius:6px}
-.chimera-takeaways,.chimera-toc,.chimera-related,.chimera-sources{margin:1.5rem 0}
-.chimera-cta{padding:1.5rem;margin:2rem 0;border:1px solid rgba(127,127,127,.35);border-radius:10px}
-.chimera-faq{border-bottom:1px solid rgba(127,127,127,.25);padding:.75rem 0}
-.chimera-faq summary{cursor:pointer;list-style:none}
-.chimera-faq summary h3{display:inline;font-size:1.05rem;margin:0}
-.chimera-updated{opacity:.7;font-size:.9em}
-.chimera-cta-button{display:inline-block;padding:.75rem 1.25rem;border:2px solid currentColor;border-radius:8px;color:inherit;text-decoration:none;font-weight:600}
-');
+    return $classes;
+});
+
+add_action('wp_enqueue_scripts', function () {
+    $base = plugin_dir_url(__FILE__) . 'assets/';
+    if (is_singular('page') && chimera_is_engine_page()) {
+        wp_enqueue_style('chimera-pages', $base . 'chimera-pages.css', [], CHIMERA_ENGINE_VERSION);
+    }
+    // The form can appear on any page (engine pages, or anywhere [chimera_lead_form] is used).
+    wp_register_script('chimera-lead', $base . 'chimera-lead.js', [], CHIMERA_ENGINE_VERSION, true);
 });
 
 /* -------------------------------------------------------------
@@ -348,6 +348,7 @@ add_action('wp_footer', function () {
 
   var sent = false;
   function lead(form) { if (sent) return; sent = true; send('<?php echo esc_js(apply_filters('chimera_lead_event', 'generate_lead')); ?>', { form: form || 'unknown', page: location.pathname }); }
+  document.addEventListener('chimera_lead_success', function () { lead('chimera'); });
   document.addEventListener('wpcf7mailsent', function () { lead('cf7'); });
   document.addEventListener('submit_success', function () { lead('elementor'); });
   document.addEventListener('fluentform_submission_success', function () { lead('fluentform'); });

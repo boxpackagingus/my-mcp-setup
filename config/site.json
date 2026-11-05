@@ -34,12 +34,30 @@
       "Zavion"
     ],
     "process": [
-      "Diagnose",
-      "Fix",
-      "Structure",
-      "Content",
-      "Authority",
-      "AI Signal"
+      {
+        "name": "Diagnose",
+        "text": "Map where ChatGPT, Gemini, Perplexity, Claude and Google AI Overviews mention you today, and where they don't."
+      },
+      {
+        "name": "Fix",
+        "text": "Clear the technical blockers: crawl access, indexing, speed and broken signals."
+      },
+      {
+        "name": "Structure",
+        "text": "Add schema, llms.txt and clean page structure so AI can parse and attribute you."
+      },
+      {
+        "name": "Content",
+        "text": "Rebuild key pages at passage level: direct answers, comparisons and quotable facts."
+      },
+      {
+        "name": "Authority",
+        "text": "Earn brand mentions and entity signals across the open web."
+      },
+      {
+        "name": "AI Signal",
+        "text": "Track citations engine by engine and double down on what gets you recommended."
+      }
     ],
     "core_links": [
       {
@@ -73,10 +91,16 @@
     "fallback_button": {
       "text": "Book Your AI Visibility Audit",
       "url": "https://thechimeraai.com/#audit"
-    }
+    },
+    "points": [
+      "See how each AI engine describes your brand today",
+      "Find the questions where competitors get cited instead of you",
+      "Get a prioritized fix list you can act on this month"
+    ],
+    "notify_email": "zaroon@thechimeramarketing.com"
   },
   "publishing": {
-    "pages_per_day": 3,
+    "pages_per_day": 10,
     "ramp": {
       "target_pages_per_day": 10,
       "after_days": 14,

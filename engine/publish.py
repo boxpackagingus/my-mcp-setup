@@ -25,15 +25,18 @@ def pages_allowed_today(cfg):
     return max(0, limit - done_today), limit
 
 
-def existing_texts():
+def existing_texts(exclude=None):
     texts = []
     for f in config.PUBLISHED.glob("*.json"):
-        texts.append(page.plain_text(config.read_json(f, {})))
+        if f.stem != exclude:
+            texts.append(page.plain_text(config.read_json(f, {})))
     return texts
 
 
-def run(cfg, dry_run=False):
+def run(cfg, dry_run=False, max_pages=None):
     remaining, limit = pages_allowed_today(cfg)
+    if max_pages is not None:  # a one-off override chosen by a person
+        remaining, limit = max_pages, max_pages
     drafts = sorted(config.DRAFTS.glob("*.json"))
     report = {"limit": limit, "remaining_before": remaining, "published": [], "failed": [], "skipped": []}
     if not drafts:
@@ -41,11 +44,9 @@ def run(cfg, dry_run=False):
 
     wp = None if dry_run else _wp()
     pages = config.read_json(PAGES, [])
-    texts = existing_texts()
-
     for f in drafts:
         spec = config.read_json(f, {})
-        ok, problems, stats = quality.check(spec, cfg, texts)
+        ok, problems, stats = quality.check(spec, cfg, existing_texts(exclude=spec.get("slug")))
         if not ok:
             report["failed"].append({"file": f.name, "problems": problems})
             continue
@@ -80,7 +81,6 @@ def run(cfg, dry_run=False):
         })
         config.write_json(f, spec)
         shutil.move(str(f), config.PUBLISHED / f.name)
-        texts.append(page.plain_text(spec))
         report["published"].append({"slug": spec["slug"], "url": url, "action": action, **stats})
         remaining -= 1
 
