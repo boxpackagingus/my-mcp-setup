@@ -105,3 +105,20 @@ def test_export_writes_all_dashboard_files(tmp_path, monkeypatch):
     totals = json.loads((tmp_path / "totals.json").read_text())[0]
     if not totals["google_connected"]:
         assert totals["impressions"] is None  # never a misleading zero
+
+
+def test_design_turns_lists_into_cards():
+    from engine import design
+    out = design.section("Heading", "heading", "<p>Lead.</p><ul><li><strong>One.</strong> first</li><li>two</li></ul>", "paper", None)
+    assert 'class="cp-sec-lead">Lead.' in out
+    assert out.count('class="cp-fcard"') == 2 and "<h4>One</h4>" in out
+    steps = design.section("H", "h", '<ol start="4"><li><strong>A</strong> x</li></ol>', "light", None)
+    assert 'cp-step-n">04<' in steps
+    topics = design.section("H", "h", "<p>Intro</p><h3>X</h3><p>a</p><h3>Y</h3><p>b</p>", "dark", None)
+    assert topics.count('class="cp-topic"') == 2 and "cp-tone--dark" in topics
+
+
+def test_every_page_links_home():
+    html = page.render_html(EXAMPLE, CFG)
+    assert 'class="cp-crumbs"' in html and 'href="https://thechimeraai.com/"' in html
+    assert html.count('class="cp-explore-card"') == 4

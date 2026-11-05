@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Chimera Engine
  * Description: Support for engine-built landing pages: llms.txt, Markdown copies, robots.txt rules, schema, hub listing, IndexNow, page design, lead form, AI-traffic and lead tracking.
- * Version: 1.2.1
+ * Version: 1.3.0
  * Requires at least: 6.0
  * Requires PHP: 7.4
  * Author: The Chimera AI
@@ -12,7 +12,7 @@ if (!defined('ABSPATH')) {
     exit;
 }
 
-const CHIMERA_ENGINE_VERSION = '1.2.1';
+const CHIMERA_ENGINE_VERSION = '1.3.0';
 
 /* -------------------------------------------------------------
  * 1. Page fields the engine writes through the REST API
@@ -27,6 +27,7 @@ add_action('init', function () {
         '_chimera_markdown'         => 'string',
         '_chimera_schema'           => 'string',
         '_chimera_meta_description' => 'string',
+        '_chimera_eyebrow'          => 'string',
         // Yoast SEO
         '_yoast_wpseo_title'        => 'string',
         '_yoast_wpseo_metadesc'     => 'string',
@@ -250,21 +251,53 @@ add_filter('wp_list_pages_excludes', function ($exclude) {
     return array_merge((array) $exclude, wp_list_pluck(chimera_engine_pages(), 'ID'));
 });
 
-add_shortcode('chimera_hub', function ($atts) {
-    $atts  = shortcode_atts(['limit' => 500], $atts);
-    $pages = chimera_engine_pages((int) $atts['limit']);
+function chimera_guide_cards($limit = -1)
+{
+    $pages = chimera_engine_pages($limit);
     if (!$pages) {
         return '<p>New guides are on the way.</p>';
     }
-    $html = '<ul class="chimera-hub">';
+    $html = '<ul class="cp-guidegrid">';
     foreach ($pages as $p) {
-        $d     = get_post_meta($p->ID, '_chimera_meta_description', true);
-        $html .= '<li><a href="' . esc_url(get_permalink($p)) . '">' . esc_html(get_the_title($p)) . '</a>';
-        $html .= $d ? '<p>' . esc_html($d) . '</p>' : '';
-        $html .= '</li>';
+        $d   = get_post_meta($p->ID, '_chimera_meta_description', true);
+        $tag = get_post_meta($p->ID, '_chimera_eyebrow', true) ?: 'GEO guide';
+        $html .= '<li><a class="cp-guide" href="' . esc_url(get_permalink($p)) . '">'
+            . '<span class="cp-eyebrow">' . esc_html($tag) . '</span>'
+            . '<strong>' . esc_html(get_the_title($p)) . '</strong>'
+            . ($d ? '<span class="cp-guide-desc">' . esc_html($d) . '</span>' : '')
+            . '<span class="cp-arrow" aria-hidden="true">→</span></a></li>';
     }
     return $html . '</ul>';
+}
+
+add_shortcode('chimera_hub', function ($atts) {
+    $atts = shortcode_atts(['limit' => 500], $atts);
+    $count = count(chimera_engine_pages());
+    return '<div class="cp">'
+        . '<section class="cp-hub-hero cp-hero"><p class="cp-eyebrow">GEO Insights · ' . (int) $count . ' guides</p>'
+        . '<h2>Answers on getting found, cited and recommended by AI</h2>'
+        . '<p>Practical guides on Generative Engine Optimization: how ChatGPT, Gemini, Perplexity, Claude and Google AI Overviews choose which brands to name, and what to change on your site.</p>'
+        . '<div class="cp-actions"><a class="cp-btn cp-btn--primary" href="' . esc_url(home_url('/#audit')) . '">Get your free AI visibility audit</a>'
+        . '<a class="cp-btn cp-btn--ghost" href="' . esc_url(home_url('/')) . '">Back to the homepage</a></div></section>'
+        . chimera_guide_cards((int) $atts['limit'])
+        . '</div>';
 });
+
+/* Homepage: a "Latest GEO guides" section after the page content links to the newest guides. */
+add_filter('the_content', function ($content) {
+    if (!is_front_page() || !in_the_loop() || !is_main_query() || !apply_filters('chimera_home_guides', true)) {
+        return $content;
+    }
+    static $done = false;
+    if ($done || !chimera_engine_pages(1)) {
+        return $content;
+    }
+    $done = true;
+    return $content . '<div class="cp"><section class="cp-home-guides"><div class="cp-sec-head"><div>'
+        . '<p class="cp-eyebrow">GEO Insights</p><h2>Latest guides on AI search</h2></div>'
+        . '<p class="cp-sec-lead">How AI engines decide who to recommend, and what you can do about it. <a href="' . esc_url(home_url('/insights/')) . '">See all guides →</a></p></div>'
+        . chimera_guide_cards(6) . '</section></div>';
+}, 999);
 
 /* -------------------------------------------------------------
  * 7. Page design and lead form (assets/ and includes/leads.php)
@@ -280,7 +313,9 @@ add_filter('body_class', function ($classes) {
 
 add_action('wp_enqueue_scripts', function () {
     $base = plugin_dir_url(__FILE__) . 'assets/';
-    if (is_singular('page') && chimera_is_engine_page()) {
+    $post = get_post();
+    $hub  = $post && has_shortcode((string) $post->post_content, 'chimera_hub');
+    if ((is_singular('page') && chimera_is_engine_page()) || $hub || is_front_page()) {
         wp_enqueue_style('chimera-pages', $base . 'chimera-pages.css', [], CHIMERA_ENGINE_VERSION);
     }
     // The form can appear on any page (engine pages, or anywhere [chimera_lead_form] is used).

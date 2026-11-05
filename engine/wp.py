@@ -60,6 +60,7 @@ class WordPress:
             "_chimera_markdown": markdown,
             "_chimera_schema": schema_json,
             "_chimera_meta_description": seo["meta_description"],
+            "_chimera_eyebrow": spec.get("eyebrow", ""),
             # Yoast and Rank Math fields (the plugin exposes them to the API).
             "_yoast_wpseo_title": seo["title"],
             "_yoast_wpseo_metadesc": seo["meta_description"],

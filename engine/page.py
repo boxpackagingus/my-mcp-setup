@@ -57,28 +57,70 @@ def _process_band(cfg):
             f'<h2>A six-phase GEO build that compounds over time</h2><ol class="cp-steps">{items}</ol></section>')
 
 
+EXPLORE = [
+    ("What we do", "Six GEO services, from the AI visibility audit to citation tracking.", "/#services"),
+    ("How it works", "The six-phase build: diagnose, fix, structure, content, authority, AI signal.", "/#process"),
+    ("Results", "Brands that AI engines now cite and recommend.", "/#results"),
+    ("GEO questions", "Straight answers to what clients ask us most.", "/#faq"),
+]
+
+
+def _tone(i):
+    """Background rhythm for content sections: light and paper, with a dark band now and then."""
+    if i == 3 or (i >= 6 and i % 3 == 0):
+        return "dark"
+    return "paper" if i % 2 else "light"
+
+
 def render_html(spec, cfg):
     """Page body for WordPress. No <script> or <style>: the plugin supplies the design and the form."""
+    from . import design
+
     site = cfg["site"]
+    base = site["base_url"].rstrip("/")
+    hub = cfg["publishing"].get("hub_page_slug", "insights")
     parts = ['<div class="cp">']
+
+    # Breadcrumb: links every page back to the homepage and the guides hub.
+    parts.append(
+        f'<nav class="cp-crumbs" aria-label="Breadcrumb"><a href="{base}/">Home</a><span aria-hidden="true">/</span>'
+        f'<a href="{base}/{hub}/">GEO Insights</a><span aria-hidden="true">/</span>'
+        f'<span aria-current="page">{_e(spec.get("eyebrow") or spec["h1"])}</span></nav>'
+    )
 
     clients = site.get("proof_clients") or []
     trust = ""
     if clients:
-        trust = ('<p class="cp-trust"><span>Brands working with ' + _e(site["brand"]) + ':</span> '
-                 + " ".join(f"<b>{_e(c)}</b>" for c in clients) + "</p>")
+        trust = ('<div class="cp-trust"><span>Brands working with ' + _e(site["brand"]) + '</span>'
+                 + "".join(f"<b>{_e(c)}</b>" for c in clients) + "</div>")
+    words = len(plain_text(spec).split())
+    minutes = max(3, round(words / 230))
+    updated_iso = spec.get("updated") or date.today().isoformat()
+    d = date.fromisoformat(updated_iso[:10])
+    updated = f"{d.strftime('%b')} {d.day}, {d.year}"
     parts.append(
-        '<section class="cp-hero">'
+        '<section class="cp-hero"><div class="cp-hero-grid"><div>'
         f'<p class="cp-eyebrow">{_e(spec.get("eyebrow") or "GEO guide")}</p>'
         f'<p class="cp-answer"><strong>Short answer:</strong> {_e(spec["answer"])}</p>'
         '<div class="cp-actions"><a class="cp-btn cp-btn--primary" href="#get-started">Get your free AI visibility audit</a>'
-        '<a class="cp-btn cp-btn--ghost" href="#faq">Read the FAQs</a></div>'
-        f'{trust}</section>'
+        '<a class="cp-btn cp-btn--ghost" href="#faq">Read the FAQs</a></div></div>'
+        '<dl class="cp-glance">'
+        f'<div><dt>Reading time</dt><dd>{minutes} min</dd></div>'
+        f'<div><dt>Sections</dt><dd>{len(spec["sections"])}</dd></div>'
+        f'<div><dt>FAQs answered</dt><dd>{len(spec["faqs"])}</dd></div>'
+        f'<div><dt>Updated</dt><dd>{_e(updated)}</dd></div>'
+        f'</dl></div>{trust}</section>'
     )
 
     if spec.get("key_takeaways"):
-        items = "".join(f'<li class="cp-card">{_e(t)}</li>' for t in spec["key_takeaways"])
-        parts.append(f'<section class="cp-band cp-takeaways"><h2>Key takeaways</h2><ul class="cp-cards">{items}</ul></section>')
+        items = "".join(f'<li class="cp-take"><span class="cp-take-n">{i + 1:02d}</span><p>{_e(t)}</p></li>'
+                        for i, t in enumerate(spec["key_takeaways"]))
+        parts.append(
+            '<section class="cp-sec cp-tone--paper cp-takeaways"><div class="cp-sec-head"><div>'
+            '<p class="cp-eyebrow">Summary</p><h2>Key takeaways</h2></div>'
+            '<p class="cp-sec-lead">The five things to know before you read the rest.</p></div>'
+            f'<ol class="cp-takegrid">{items}</ol></section>'
+        )
 
     toc = "".join(f'<li><a href="#{_anchor(s["heading"])}">{_e(s["heading"])}</a></li>' for s in spec["sections"])
     parts.append(f'<nav class="cp-toc" aria-label="Contents"><p class="cp-eyebrow">On this page</p><ol>{toc}'
@@ -86,23 +128,45 @@ def render_html(spec, cfg):
 
     n = len(spec["sections"])
     for i, s in enumerate(spec["sections"]):
-        parts.append(f'<section class="cp-section" id="{_anchor(s["heading"])}"><h2>{_e(s["heading"])}</h2>{s["body_html"]}</section>')
+        parts.append(design.section(_e(s["heading"]), _anchor(s["heading"]), s["body_html"], _tone(i), s.get("label")))
         if i == 1:
             parts.append(_lead_block(cfg, "inline", "get-started"))
         if i == min(4, n - 2):
             parts.append(_process_band(cfg))
 
     faq = "".join(
-        f'<details class="cp-faq"><summary><h3>{_e(f["q"])}</h3></summary><p>{_e(f["a"])}</p></details>'
-        for f in spec["faqs"]
+        f'<details class="cp-faq"{" open" if k == 0 else ""}><summary><h3>{_e(f["q"])}</h3></summary><p>{_e(f["a"])}</p></details>'
+        for k, f in enumerate(spec["faqs"])
     )
-    parts.append(f'<section class="cp-band" id="faq"><p class="cp-eyebrow">FAQ</p><h2>Frequently asked questions</h2>'
-                 f'<div class="cp-faq-list">{faq}</div></section>')
+    parts.append(
+        '<section class="cp-sec cp-tone--paper cp-faqsec" id="faq"><div class="cp-faq-side">'
+        '<p class="cp-eyebrow">FAQ</p><h2>Frequently asked questions</h2>'
+        '<p class="cp-sec-lead">Quick answers to what people ask next. Still unsure? Our team will look at your brand for free.</p>'
+        f'<a class="cp-btn cp-btn--dark" href="#get-started-bottom">Ask about your brand</a></div>'
+        f'<div class="cp-faq-list">{faq}</div></section>'
+    )
 
     if spec.get("internal_links"):
-        links = "".join(f'<li class="cp-card"><a href="{_e(l["url"])}">{_e(l["anchor"])}</a></li>'
-                        for l in spec["internal_links"])
-        parts.append(f'<section class="cp-related"><h2>Related guides</h2><ul class="cp-cards">{links}</ul></section>')
+        cards = []
+        for l in spec["internal_links"]:
+            home = "#" in l["url"] or l["url"].rstrip("/") == base
+            tag = site["brand"] if home else "Guide"
+            cards.append(f'<li><a class="cp-link-card" href="{_e(l["url"])}"><span class="cp-eyebrow">{_e(tag)}</span>'
+                         f'<strong>{_e(l["anchor"][:1].upper() + l["anchor"][1:])}</strong><span class="cp-arrow" aria-hidden="true">→</span></a></li>')
+        parts.append('<section class="cp-sec cp-tone--light cp-related"><div class="cp-sec-head"><div>'
+                     '<p class="cp-eyebrow">Keep reading</p><h2>Related guides</h2></div></div>'
+                     f'<ul class="cp-linkgrid">{"".join(cards)}</ul></section>')
+
+    # Explore band: links to the main website's homepage sections.
+    explore = "".join(
+        f'<li><a class="cp-explore-card" href="{base}{url}"><strong>{_e(title)}</strong><span>{_e(text)}</span>'
+        f'<span class="cp-arrow" aria-hidden="true">→</span></a></li>' for title, text, url in EXPLORE)
+    parts.append(
+        f'<section class="cp-explore"><div class="cp-sec-head"><div><p class="cp-eyebrow">{_e(site["brand"])} · {_e(site.get("location", ""))}</p>'
+        f'<h2>Get recommended by AI, not just ranked</h2></div>'
+        f'<p class="cp-sec-lead">{_e(site["one_liner"])} <a href="{base}/">Visit the {_e(site["brand"])} homepage</a>.</p></div>'
+        f'<ul class="cp-exploregrid">{explore}</ul></section>'
+    )
 
     parts.append(_lead_block(cfg, "full", "get-started-bottom"))
 
@@ -111,10 +175,11 @@ def render_html(spec, cfg):
             f'<li><a href="{_e(s["url"])}" rel="nofollow noopener" target="_blank">{_e(s["title"])}</a></li>'
             for s in spec["sources"]
         )
-        parts.append(f'<section class="cp-sources"><h2>Sources</h2><ul>{src}</ul></section>')
-
-    updated = spec.get("updated") or date.today().isoformat()
-    parts.append(f'<p class="cp-updated">Last updated: {_e(updated)}</p></div>')
+        parts.append(f'<section class="cp-sources"><p class="cp-eyebrow">Sources</p><ul>{src}</ul>'
+                     f'<p class="cp-updated">Last updated: {_e(updated)}</p></section>')
+    else:
+        parts.append(f'<p class="cp-updated">Last updated: {_e(updated)}</p>')
+    parts.append("</div>")
     return "\n".join(parts)
 
 
@@ -149,7 +214,9 @@ def render_schema(spec, cfg):
             "@type": "BreadcrumbList",
             "itemListElement": [
                 {"@type": "ListItem", "position": 1, "name": "Home", "item": site["base_url"] + "/"},
-                {"@type": "ListItem", "position": 2, "name": spec["h1"], "item": url},
+                {"@type": "ListItem", "position": 2, "name": "GEO Insights",
+                 "item": f'{site["base_url"]}/{cfg["publishing"].get("hub_page_slug", "insights")}/'},
+                {"@type": "ListItem", "position": 3, "name": spec["h1"], "item": url},
             ],
         },
     ]
