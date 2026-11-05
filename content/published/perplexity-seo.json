@@ -128,5 +128,167 @@
     }
   ],
   "published": "2026-11-05",
-  "updated": "2026-11-05"
+  "updated": "2026-11-05",
+  "short_title": "Perplexity SEO: How to Get Cited by Perplexity",
+  "hero_query": "How do I get cited by Perplexity?",
+  "hero_engines": [
+    "perplexity",
+    "chatgpt",
+    "google",
+    "gemini",
+    "claude",
+    "copilot"
+  ],
+  "visuals": [
+    {
+      "after": 0,
+      "type": "stats",
+      "eyebrow": "By the numbers",
+      "title": "Perplexity's scale, and its peers",
+      "lead": "Company-reported audience figures for the biggest AI answer engines. Each is the latest official number we could verify, with its date.",
+      "items": [
+        {
+          "engine": "chatgpt",
+          "value": "800M",
+          "label": "ChatGPT weekly active users",
+          "date": "Oct 2025, OpenAI",
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2025/10/06/sam-altman-says-chatgpt-has-hit-800m-weekly-active-users/"
+        },
+        {
+          "engine": "google",
+          "value": "2B",
+          "label": "AI Overviews monthly users",
+          "date": "Jul 2025, Google",
+          "source": "Dataconomy",
+          "source_url": "https://dataconomy.com/2025/07/24/googles-ai-overviews-now-serve-2-billion-monthly-users/"
+        },
+        {
+          "engine": "gemini",
+          "value": "650M",
+          "label": "Gemini app monthly active users",
+          "date": "Oct 2025, Google",
+          "source": "9to5Google",
+          "source_url": "https://9to5google.com/2025/10/29/gemini-app-650-million-users/"
+        },
+        {
+          "engine": "perplexity",
+          "value": "780M",
+          "label": "Perplexity queries in one month",
+          "date": "May 2025, Perplexity CEO",
+          "source": "MediaPost",
+          "source_url": "https://www.mediapost.com/publications/article/406449/perplexity-ceo-estimates-firm-will-serve-1b-querie.html"
+        }
+      ],
+      "note": "Weekly users, monthly users and monthly queries measure different things, so compare each figure with its own history rather than with the others."
+    },
+    {
+      "after": 1,
+      "type": "matrix",
+      "eyebrow": "Crawler access",
+      "title": "Which crawler each AI platform uses",
+      "lead": "Allow these in robots.txt and your firewall, or that platform cannot read your pages for its answers.",
+      "columns": [
+        "chatgpt",
+        "perplexity",
+        "google",
+        "claude",
+        "copilot"
+      ],
+      "rows": [
+        {
+          "label": "Crawler for search answers",
+          "cells": [
+            "OAI-SearchBot",
+            "PerplexityBot",
+            "Googlebot",
+            "Claude-SearchBot",
+            "Bingbot"
+          ]
+        },
+        {
+          "label": "Fetches pages on a user's request",
+          "cells": [
+            "ChatGPT-User",
+            "Perplexity-User",
+            "Googlebot",
+            "Claude-User",
+            "Bingbot"
+          ]
+        },
+        {
+          "label": "Separate training crawler you can block",
+          "cells": [
+            "Yes: GPTBot",
+            "Not used for training",
+            "Yes: Google-Extended",
+            "Yes: ClaudeBot",
+            "No separate bot"
+          ]
+        }
+      ],
+      "source": {
+        "title": "OpenAI, Perplexity, Google and Anthropic crawler documentation",
+        "url": "https://platform.openai.com/docs/bots",
+        "note": "Check each platform's docs for changes"
+      }
+    },
+    {
+      "after": 5,
+      "type": "matrix",
+      "eyebrow": "Compare platforms",
+      "title": "How each platform shows its sources",
+      "lead": "Platforms that show clickable sources send measurable visits. The rest shape decisions you see later as branded searches.",
+      "columns": [
+        "chatgpt",
+        "perplexity",
+        "google",
+        "gemini",
+        "claude",
+        "copilot"
+      ],
+      "rows": [
+        {
+          "label": "Links to sources in answers",
+          "cells": [
+            "Yes, when searching",
+            "Yes, numbered",
+            "Yes",
+            "Sometimes",
+            "Yes, with web search",
+            "Yes"
+          ]
+        },
+        {
+          "label": "Searches the live web",
+          "cells": [
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes, when enabled",
+            "Yes"
+          ]
+        },
+        {
+          "label": "Referral shows in analytics",
+          "cells": [
+            "Yes: chatgpt.com",
+            "Yes: perplexity.ai",
+            "Counted as Google",
+            "Yes: gemini.google.com",
+            "Yes: claude.ai",
+            "Yes: copilot.microsoft.com"
+          ]
+        }
+      ]
+    }
+  ],
+  "hero_image": {
+    "id": 135,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/perplexity-seo-chimera.jpg",
+    "alt": "Perplexity SEO: How to Get Cited by Perplexity AI: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  }
 }

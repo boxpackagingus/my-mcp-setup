@@ -120,5 +120,128 @@
     }
   ],
   "published": "2026-11-05",
-  "updated": "2026-11-05"
+  "updated": "2026-11-05",
+  "short_title": "Generative Engine Optimization Agency: What They Do",
+  "hero_query": "Which GEO agency should I hire?",
+  "visuals": [
+    {
+      "after": 0,
+      "type": "engines",
+      "eyebrow": "AI platforms",
+      "title": "The engines a GEO agency works on",
+      "lead": "The answer engines that matter most for buyer research, and how each one finds sources.",
+      "items": [
+        {
+          "engine": "chatgpt",
+          "note": "The largest assistant. Searches the web for current questions and links sources in its answers."
+        },
+        {
+          "engine": "google",
+          "note": "AI summaries above Google results, built from pages Google has indexed."
+        },
+        {
+          "engine": "gemini",
+          "note": "Google's assistant app, increasingly used for research and comparisons."
+        },
+        {
+          "engine": "perplexity",
+          "note": "Answer engine built around numbered, clickable citations."
+        },
+        {
+          "engine": "claude",
+          "note": "Anthropic's assistant, used heavily for research and work tasks; can search the web."
+        },
+        {
+          "engine": "copilot",
+          "note": "Microsoft's assistant in Windows, Edge and Office, grounded in Bing results."
+        }
+      ]
+    },
+    {
+      "after": 4,
+      "type": "timeline",
+      "eyebrow": "Timeline",
+      "title": "A good first 90 days",
+      "lead": "What a credible agency should deliver, week by week.",
+      "items": [
+        {
+          "when": "Wk 1–2",
+          "title": "Diagnose",
+          "text": "Baseline of AI answers for 30–50 buyer questions plus a technical audit."
+        },
+        {
+          "when": "Wk 2–4",
+          "title": "Fix",
+          "text": "Unblock AI crawlers, fix indexing, add schema and llms.txt, set up tracking."
+        },
+        {
+          "when": "Wk 4–8",
+          "title": "Structure + content",
+          "text": "Rebuild key pages and publish answers to high-intent questions."
+        },
+        {
+          "when": "Wk 8–12",
+          "title": "Authority + measure",
+          "text": "Earn mentions, re-test the baseline and report what moved."
+        }
+      ]
+    },
+    {
+      "after": 5,
+      "type": "stats",
+      "eyebrow": "By the numbers",
+      "title": "Why brands hire a GEO agency now",
+      "lead": "Company-reported audience figures for the biggest AI answer engines. Each is the latest official number we could verify, with its date.",
+      "items": [
+        {
+          "engine": "chatgpt",
+          "value": "800M",
+          "label": "ChatGPT weekly active users",
+          "date": "Oct 2025, OpenAI",
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2025/10/06/sam-altman-says-chatgpt-has-hit-800m-weekly-active-users/"
+        },
+        {
+          "engine": "google",
+          "value": "2B",
+          "label": "AI Overviews monthly users",
+          "date": "Jul 2025, Google",
+          "source": "Dataconomy",
+          "source_url": "https://dataconomy.com/2025/07/24/googles-ai-overviews-now-serve-2-billion-monthly-users/"
+        },
+        {
+          "engine": "gemini",
+          "value": "650M",
+          "label": "Gemini app monthly active users",
+          "date": "Oct 2025, Google",
+          "source": "9to5Google",
+          "source_url": "https://9to5google.com/2025/10/29/gemini-app-650-million-users/"
+        },
+        {
+          "engine": "perplexity",
+          "value": "780M",
+          "label": "Perplexity queries in one month",
+          "date": "May 2025, Perplexity CEO",
+          "source": "MediaPost",
+          "source_url": "https://www.mediapost.com/publications/article/406449/perplexity-ceo-estimates-firm-will-serve-1b-querie.html"
+        }
+      ],
+      "note": "Weekly users, monthly users and monthly queries measure different things, so compare each figure with its own history rather than with the others."
+    }
+  ],
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 128,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/generative-engine-optimization-agency-chimera.jpg",
+    "alt": "Generative Engine Optimization Agency: What They Do: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  }
 }

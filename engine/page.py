@@ -74,7 +74,7 @@ def _tone(i):
 
 def render_html(spec, cfg):
     """Page body for WordPress. No <script> or <style>: the plugin supplies the design and the form."""
-    from . import design
+    from . import design, visuals
 
     site = cfg["site"]
     base = site["base_url"].rstrip("/")
@@ -111,6 +111,12 @@ def render_html(spec, cfg):
         f'<div><dt>Updated</dt><dd>{_e(updated)}</dd></div>'
         f'</dl></div>{trust}</section>'
     )
+    hero = spec.get("hero_image")
+    if hero:
+        parts.append(
+            f'<figure class="cp-hero-art"><img src="{_e(hero["url"])}" alt="{_e(hero["alt"])}" '
+            f'width="{int(hero.get("width", 1600))}" height="{int(hero.get("height", 840))}" loading="eager" decoding="async"></figure>'
+        )
 
     if spec.get("key_takeaways"):
         items = "".join(f'<li class="cp-take"><span class="cp-take-n">{i + 1:02d}</span><p>{_e(t)}</p></li>'
@@ -129,6 +135,12 @@ def render_html(spec, cfg):
     n = len(spec["sections"])
     for i, s in enumerate(spec["sections"]):
         parts.append(design.section(_e(s["heading"]), _anchor(s["heading"]), s["body_html"], _tone(i), s.get("label")))
+        prev = _tone(i)
+        for v in [v for v in spec.get("visuals", []) if v.get("after") == i]:
+            nxt = _tone(i + 1) if i + 1 < n else "paper"
+            tone = next((c for c in ("paper", "light") if c not in (prev, nxt)), "light" if prev != "light" else "paper")
+            parts.append(visuals.render(v, tone))
+            prev = tone
         if i == 1:
             parts.append(_lead_block(cfg, "inline", "get-started"))
         if i == min(4, n - 2):
@@ -247,6 +259,18 @@ def render_markdown(spec, cfg):
         out += ["## Key takeaways", ""] + [f"- {t}" for t in spec["key_takeaways"]] + [""]
     for s in spec["sections"]:
         out += [f"## {s['heading']}", "", html_to_markdown(s["body_html"]), ""]
+    for v in spec.get("visuals", []):
+        out += [f"## {v['title']}", ""]
+        for key in ("items", "steps", "rows"):
+            for it in v.get(key, []):
+                label = it.get("title") or it.get("label") or it.get("engine", "")
+                text = it.get("note") or it.get("text") or it.get("value") or ""
+                if it.get("display") or ("value" in it and key == "items" and v["type"] == "bars"):
+                    text = f'{it.get("display", it.get("value"))}{v.get("unit", "")}'
+                out.append(f"- {label}: {text}".rstrip(": "))
+        if v.get("source"):
+            out.append(f"Source: {v['source']['title']} ({v['source']['url']})")
+        out.append("")
     out += ["## Frequently asked questions", ""]
     for f in spec["faqs"]:
         out += [f"### {f['q']}", "", f["a"], ""]

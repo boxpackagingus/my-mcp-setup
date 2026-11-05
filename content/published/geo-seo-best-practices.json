@@ -136,5 +136,151 @@
     }
   ],
   "published": "2026-11-05",
-  "updated": "2026-11-05"
+  "updated": "2026-11-05",
+  "short_title": "GEO SEO Best Practices: 15-Point Checklist",
+  "hero_query": "What are the best practices for GEO SEO?",
+  "visuals": [
+    {
+      "after": 0,
+      "type": "matrix",
+      "eyebrow": "Crawler access",
+      "title": "Which crawler each AI platform uses",
+      "lead": "Allow these in robots.txt and your firewall, or that platform cannot read your pages for its answers.",
+      "columns": [
+        "chatgpt",
+        "perplexity",
+        "google",
+        "claude",
+        "copilot"
+      ],
+      "rows": [
+        {
+          "label": "Crawler for search answers",
+          "cells": [
+            "OAI-SearchBot",
+            "PerplexityBot",
+            "Googlebot",
+            "Claude-SearchBot",
+            "Bingbot"
+          ]
+        },
+        {
+          "label": "Fetches pages on a user's request",
+          "cells": [
+            "ChatGPT-User",
+            "Perplexity-User",
+            "Googlebot",
+            "Claude-User",
+            "Bingbot"
+          ]
+        },
+        {
+          "label": "Separate training crawler you can block",
+          "cells": [
+            "Yes: GPTBot",
+            "Not used for training",
+            "Yes: Google-Extended",
+            "Yes: ClaudeBot",
+            "No separate bot"
+          ]
+        }
+      ],
+      "source": {
+        "title": "OpenAI, Perplexity, Google and Anthropic crawler documentation",
+        "url": "https://platform.openai.com/docs/bots",
+        "note": "Check each platform's docs for changes"
+      }
+    },
+    {
+      "after": 5,
+      "type": "scorecard",
+      "eyebrow": "Scorecard",
+      "title": "Effort vs impact of each practice",
+      "lead": "Our view of where to start if time is short (5 = highest impact for the effort).",
+      "rows": [
+        {
+          "label": "Unblock AI crawlers",
+          "score": 5,
+          "note": "Minutes of work; nothing else matters if bots are blocked."
+        },
+        {
+          "label": "Answer-first openings",
+          "score": 5,
+          "note": "A rewrite of the first lines on your top pages."
+        },
+        {
+          "label": "FAQs and schema",
+          "score": 4,
+          "note": "Moderate effort, broad benefit."
+        },
+        {
+          "label": "Brand mentions off-site",
+          "score": 4,
+          "note": "Slow, but compounds over months."
+        },
+        {
+          "label": "llms.txt",
+          "score": 2,
+          "note": "Cheap groundwork; impact still unproven."
+        }
+      ]
+    },
+    {
+      "after": 7,
+      "type": "stats",
+      "eyebrow": "By the numbers",
+      "title": "Why it pays to get this right",
+      "lead": "Company-reported audience figures for the biggest AI answer engines. Each is the latest official number we could verify, with its date.",
+      "items": [
+        {
+          "engine": "chatgpt",
+          "value": "800M",
+          "label": "ChatGPT weekly active users",
+          "date": "Oct 2025, OpenAI",
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2025/10/06/sam-altman-says-chatgpt-has-hit-800m-weekly-active-users/"
+        },
+        {
+          "engine": "google",
+          "value": "2B",
+          "label": "AI Overviews monthly users",
+          "date": "Jul 2025, Google",
+          "source": "Dataconomy",
+          "source_url": "https://dataconomy.com/2025/07/24/googles-ai-overviews-now-serve-2-billion-monthly-users/"
+        },
+        {
+          "engine": "gemini",
+          "value": "650M",
+          "label": "Gemini app monthly active users",
+          "date": "Oct 2025, Google",
+          "source": "9to5Google",
+          "source_url": "https://9to5google.com/2025/10/29/gemini-app-650-million-users/"
+        },
+        {
+          "engine": "perplexity",
+          "value": "780M",
+          "label": "Perplexity queries in one month",
+          "date": "May 2025, Perplexity CEO",
+          "source": "MediaPost",
+          "source_url": "https://www.mediapost.com/publications/article/406449/perplexity-ceo-estimates-firm-will-serve-1b-querie.html"
+        }
+      ],
+      "note": "Weekly users, monthly users and monthly queries measure different things, so compare each figure with its own history rather than with the others."
+    }
+  ],
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 129,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/geo-seo-best-practices-chimera.jpg",
+    "alt": "GEO SEO Best Practices: 15-Point Checklist for 2026: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  }
 }

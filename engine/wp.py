@@ -70,6 +70,7 @@ class WordPress:
             "rank_math_focus_keyword": ",".join([spec["primary_keyword"]] + spec.get("secondary_keywords", [])[:4]),
         }
         body = {
+            **({"featured_media": spec["hero_image"]["id"]} if spec.get("hero_image", {}).get("id") else {}),
             "title": spec["h1"],
             "slug": spec["slug"],
             "content": html,

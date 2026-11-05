@@ -128,5 +128,91 @@
     }
   ],
   "published": "2026-11-05",
-  "updated": "2026-11-05"
+  "updated": "2026-11-05",
+  "short_title": "AEO vs GEO: What's the Difference?",
+  "hero_query": "Should I focus on AEO or GEO?",
+  "visuals": [
+    {
+      "after": 2,
+      "type": "scorecard",
+      "eyebrow": "Scorecard",
+      "title": "Where AEO and GEO focus",
+      "lead": "How strongly each tactic matters for each approach (5 = central).",
+      "rows": [
+        {
+          "label": "Direct answers and question headings",
+          "score": 5,
+          "note": "Central to both AEO and GEO."
+        },
+        {
+          "label": "FAQ and structured data",
+          "score": 4,
+          "note": "Core AEO; supportive for GEO."
+        },
+        {
+          "label": "Brand mentions across the web",
+          "score": 5,
+          "note": "Central to GEO; rarely part of classic AEO."
+        },
+        {
+          "label": "AI crawler access",
+          "score": 5,
+          "note": "A GEO essential; not part of classic AEO."
+        },
+        {
+          "label": "Sourced statistics and quotes",
+          "score": 4,
+          "note": "Shown to raise visibility in generative answers."
+        }
+      ]
+    },
+    {
+      "after": 4,
+      "type": "engines",
+      "eyebrow": "AI platforms",
+      "title": "Answer engines vs generative engines",
+      "lead": "The answer engines that matter most for buyer research, and how each one finds sources.",
+      "items": [
+        {
+          "engine": "chatgpt",
+          "note": "The largest assistant. Searches the web for current questions and links sources in its answers."
+        },
+        {
+          "engine": "google",
+          "note": "AI summaries above Google results, built from pages Google has indexed."
+        },
+        {
+          "engine": "gemini",
+          "note": "Google's assistant app, increasingly used for research and comparisons."
+        },
+        {
+          "engine": "perplexity",
+          "note": "Answer engine built around numbered, clickable citations."
+        },
+        {
+          "engine": "claude",
+          "note": "Anthropic's assistant, used heavily for research and work tasks; can search the web."
+        },
+        {
+          "engine": "copilot",
+          "note": "Microsoft's assistant in Windows, Edge and Office, grounded in Bing results."
+        }
+      ]
+    }
+  ],
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 126,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/answer-engine-optimization-vs-generative-engine-optimization-chimera.jpg",
+    "alt": "AEO vs GEO: What's the Difference and Which Matters?: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  }
 }

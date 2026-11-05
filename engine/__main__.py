@@ -57,6 +57,23 @@ def main(argv):
         from . import dashboard
         print(dashboard.build(cfg))
         return 0
+    if cmd == "heroes":
+        # Render and upload hero images for drafts that don't have one yet (or all with --force).
+        from . import heroart
+        files = sorted(config.DRAFTS.glob("*.json"))
+        specs = [config.read_json(f, {}) for f in files]
+        todo = [s for s in specs if "--force" in args or not s.get("hero_image")]
+        if not todo:
+            print("All drafts already have hero images.")
+            return 0
+        out = config.ROOT / "content" / "preview" / "art"
+        rendered = heroart.render(todo, out)
+        for f, s in zip(files, specs):
+            if s["slug"] in rendered:
+                img = heroart.upload(s, rendered[s["slug"]])
+                config.write_json(f, s)
+                print("uploaded", s["slug"], img["url"])
+        return 0
     if cmd == "sitecheck":
         from . import sitecheck
         out = sitecheck.run(cfg)

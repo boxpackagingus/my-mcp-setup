@@ -125,5 +125,115 @@
   ],
   "published": "2026-11-05",
   "updated": "2026-11-05",
-  "eyebrow": "GEO and revenue"
+  "eyebrow": "GEO and revenue",
+  "short_title": "Does GEO Bring Sales? How AI Search Turns Into Revenue",
+  "hero_query": "Is GEO worth it for my sales?",
+  "visuals": [
+    {
+      "after": 0,
+      "type": "stats",
+      "eyebrow": "By the numbers",
+      "title": "AI search by the numbers",
+      "lead": "Company-reported audience figures for the biggest AI answer engines. Each is the latest official number we could verify, with its date.",
+      "items": [
+        {
+          "engine": "chatgpt",
+          "value": "800M",
+          "label": "ChatGPT weekly active users",
+          "date": "Oct 2025, OpenAI",
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2025/10/06/sam-altman-says-chatgpt-has-hit-800m-weekly-active-users/"
+        },
+        {
+          "engine": "google",
+          "value": "2B",
+          "label": "AI Overviews monthly users",
+          "date": "Jul 2025, Google",
+          "source": "Dataconomy",
+          "source_url": "https://dataconomy.com/2025/07/24/googles-ai-overviews-now-serve-2-billion-monthly-users/"
+        },
+        {
+          "engine": "gemini",
+          "value": "650M",
+          "label": "Gemini app monthly active users",
+          "date": "Oct 2025, Google",
+          "source": "9to5Google",
+          "source_url": "https://9to5google.com/2025/10/29/gemini-app-650-million-users/"
+        },
+        {
+          "engine": "perplexity",
+          "value": "780M",
+          "label": "Perplexity queries in one month",
+          "date": "May 2025, Perplexity CEO",
+          "source": "MediaPost",
+          "source_url": "https://www.mediapost.com/publications/article/406449/perplexity-ceo-estimates-firm-will-serve-1b-querie.html"
+        }
+      ],
+      "note": "Weekly users, monthly users and monthly queries measure different things, so compare each figure with its own history rather than with the others."
+    },
+    {
+      "after": 1,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "How a GEO sale happens",
+      "lead": "From the buyer's question to a booked call.",
+      "steps": [
+        {
+          "title": "Ask",
+          "text": "A buyer asks an AI assistant a specific question."
+        },
+        {
+          "title": "Shortlist",
+          "text": "The engine names a few providers and links sources."
+        },
+        {
+          "title": "Verify",
+          "text": "The buyer clicks through to check proof, process and fit."
+        },
+        {
+          "title": "Convert",
+          "text": "A clear offer and short form turn the visit into a lead."
+        }
+      ]
+    },
+    {
+      "after": 5,
+      "type": "timeline",
+      "eyebrow": "Timeline",
+      "title": "A realistic GEO sales timeline",
+      "lead": "What to expect, and when.",
+      "items": [
+        {
+          "when": "Wk 1–4",
+          "title": "Indexed",
+          "text": "New pages crawled and indexed; first impressions in Search Console."
+        },
+        {
+          "when": "Mo 1–3",
+          "title": "First citations",
+          "text": "Long-tail questions start citing you; first AI-referred visits."
+        },
+        {
+          "when": "Mo 3–6",
+          "title": "Lead patterns",
+          "text": "Enough data to see which topics produce leads, so you double down."
+        }
+      ]
+    }
+  ],
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 134,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/is-geo-bring-sales-chimera.jpg",
+    "alt": "Does GEO Bring Sales? How AI Search Drives Revenue: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  }
 }

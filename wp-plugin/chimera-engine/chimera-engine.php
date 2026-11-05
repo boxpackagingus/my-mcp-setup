@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Chimera Engine
  * Description: Support for engine-built landing pages: llms.txt, Markdown copies, robots.txt rules, schema, hub listing, IndexNow, page design, lead form, AI-traffic and lead tracking.
- * Version: 1.3.1
+ * Version: 1.4.0
  * Requires at least: 6.0
  * Requires PHP: 7.4
  * Author: The Chimera AI
@@ -12,7 +12,7 @@ if (!defined('ABSPATH')) {
     exit;
 }
 
-const CHIMERA_ENGINE_VERSION = '1.3.1';
+const CHIMERA_ENGINE_VERSION = '1.4.0';
 
 /* -------------------------------------------------------------
  * 1. Page fields the engine writes through the REST API
@@ -133,6 +133,23 @@ add_action('wp_head', function () {
 
     $slug = get_post_field('post_name', $id);
     echo '<link rel="alternate" type="text/markdown" href="' . esc_url(home_url("/$slug.md")) . "\">\n";
+
+    // Social previews (Open Graph / X) from the page's hero image, unless an SEO plugin already does it.
+    if (!$has_seo_plugin) {
+        $img = get_the_post_thumbnail_url($id, 'full');
+        echo '<meta property="og:type" content="article">' . "\n";
+        echo '<meta property="og:title" content="' . esc_attr(get_the_title($id)) . '">' . "\n";
+        echo '<meta property="og:url" content="' . esc_url(get_permalink($id)) . '">' . "\n";
+        echo '<meta property="og:site_name" content="' . esc_attr(get_bloginfo('name')) . '">' . "\n";
+        if ($desc) {
+            echo '<meta property="og:description" content="' . esc_attr($desc) . '">' . "\n";
+        }
+        if ($img) {
+            echo '<meta property="og:image" content="' . esc_url($img) . '">' . "\n";
+            echo '<meta name="twitter:card" content="summary_large_image">' . "\n";
+            echo '<meta name="twitter:image" content="' . esc_url($img) . '">' . "\n";
+        }
+    }
 }, 5);
 
 /* -------------------------------------------------------------
