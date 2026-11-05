@@ -73,6 +73,8 @@ def run(cfg):
         daily.append({"day": d, "impressions": r["impressions"], "clicks": r["clicks"],
                       "visits": g.get("sessions")})
 
+    done = {p["slug"] for p in pages} | {p["query"].lower() for p in pages}
+    queue = [c for c in queue if c.get("slug") not in done and c["query"].lower() not in done]
     upcoming = [{"query": c["query"], "source": {"autocomplete": "Google suggestions",
                  "search_console": "Your Search Console"}.get(c["source"], c["source"]),
                  "volume": c.get("volume"), "score": c.get("score")} for c in queue[:15]]
