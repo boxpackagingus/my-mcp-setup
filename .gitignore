@@ -4,3 +4,7 @@ __pycache__/
 *.tmp
 .pytest_cache/
 chimera-engine.zip
+
+# Qwoted session cookies (full account access)
+.qwoted/
+statistics_pages/
