@@ -217,14 +217,19 @@ add_action('rest_api_init', function () {
             $all   = (int) (wp_count_posts('chimera_lead')->private ?? 0);
             $by_page = [];
             $by_source = [];
+            $mail_failed = 0;
             foreach ($ids as $id) {
+                if (get_post_meta($id, '_lead_mail_sent', true) === 'no') {
+                    $mail_failed++;
+                }
                 $path = get_post_meta($id, '_lead_page_path', true) ?: '/';
                 $by_page[$path] = ($by_page[$path] ?? 0) + 1;
                 $src = get_post_meta($id, '_lead_ai_engine', true) ?: 'other';
                 $by_source[$src] = ($by_source[$src] ?? 0) + 1;
             }
             return ['days' => $days, 'total' => count($ids), 'all_time' => $all,
-                    'by_page' => $by_page, 'by_ai_engine' => $by_source];
+                    'by_page' => $by_page, 'by_ai_engine' => $by_source,
+                    'emails_failed' => $mail_failed, 'email_to' => chimera_lead_email()];
         },
     ]);
 });

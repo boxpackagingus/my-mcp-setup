@@ -132,3 +132,14 @@
 .cp-updated { font-size: .85rem; color: var(--cp-ink-muted); margin: 0; }
 
 @media (prefers-reduced-motion: reduce) { .cp-btn, .cp-faq summary::after { transition: none; } }
+
+/* Theme overrides: themes style every button, link and input globally,
+   so the engine's controls restate their look with higher priority. */
+.cp a.cp-btn, .cp button.cp-btn, .cp .cp-form button[type="submit"] { text-decoration: none !important; border-radius: 999px !important; font-weight: 600 !important; font-size: 1rem !important; line-height: 1 !important; padding: 14px 22px !important; text-transform: none !important; letter-spacing: normal !important; }
+.cp a.cp-btn--primary, .cp button.cp-btn--primary, .cp .cp-form button[type="submit"] { background: var(--cp-accent) !important; color: var(--cp-accent-ink) !important; border: 1px solid var(--cp-accent) !important; }
+.cp a.cp-btn--primary:hover, .cp button.cp-btn--primary:hover, .cp .cp-form button[type="submit"]:hover { background: #ffd35f !important; color: var(--cp-accent-ink) !important; }
+.cp a.cp-btn--ghost { background: transparent !important; color: var(--cp-on-night) !important; border: 1px solid var(--cp-night-line) !important; }
+.cp .cp-form button[type="submit"][disabled] { opacity: .7; cursor: wait; }
+.cp .cp-form input, .cp .cp-form select, .cp .cp-form textarea { border: 1px solid var(--cp-line) !important; border-radius: 10px !important; background: #fbfaf7 !important; color: var(--cp-ink) !important; box-shadow: none !important; }
+.cp .cp-form input:focus, .cp .cp-form select:focus, .cp .cp-form textarea:focus { border-color: var(--cp-ink-muted) !important; }
+.cp .cp-toc a, .cp-related a { text-decoration: none !important; }
