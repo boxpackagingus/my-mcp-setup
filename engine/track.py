@@ -2,7 +2,11 @@
 from datetime import date, timedelta
 from urllib.parse import urlparse
 
-from . import config, google_api
+import os
+
+import requests
+
+from . import config, google_api, sitekit
 
 PAGES = config.DATA / "pages.json"
 SUMMARY = config.DATA / "summary.json"
@@ -25,35 +29,42 @@ def run(cfg):
     yday = (date.today() - timedelta(days=1)).isoformat()
     month_ago = (date.today() - timedelta(days=28)).isoformat()
 
-    prop = google_api.gsc_property(cfg["site"]["domain"])
+    use_sitekit = not os.environ.get("GSC_SERVICE_ACCOUNT_KEY_JSON")
+    lead_event = cfg["lead"]["ga4_lead_event"]
 
-    # Search Console: whole site, then per engine page.
-    site_daily = google_api.gsc_query(prop, start.isoformat(), end.isoformat(), ["date"])
-    page_rows = google_api.gsc_query(prop, start.isoformat(), end.isoformat(), ["page"])
+    if use_sitekit:
+        # Site Kit by Google on the WordPress site supplies Search Console and GA4 data.
+        site_daily = sitekit.gsc_query(start.isoformat(), end.isoformat(), ["date"])
+        page_rows = sitekit.gsc_query(start.isoformat(), end.isoformat(), ["page"])
+        # Site Kit allows landingPage (not landingPagePlusQueryString); rename for the shared code below.
+        traffic = [dict(r, landingPagePlusQueryString=r.get("landingPage", "")) for r in
+                   sitekit.ga4_report(month_ago, yday, ["landingPage", "sessionSource"],
+                                      ["sessions", "engagedSessions", "keyEvents"])]
+        leads = [dict(r, landingPagePlusQueryString=r.get("landingPage", "")) for r in
+                 sitekit.ga4_report(month_ago, yday, ["landingPage", "sessionSource"],
+                                    ["eventCount"], event_name=lead_event)]
+        ga_daily = sitekit.ga4_report(month_ago, yday, ["date"], ["sessions", "keyEvents"])
+    else:
+        prop = google_api.gsc_property(cfg["site"]["domain"])
+        site_daily = google_api.gsc_query(prop, start.isoformat(), end.isoformat(), ["date"])
+        page_rows = google_api.gsc_query(prop, start.isoformat(), end.isoformat(), ["page"])
+        # URL inspection: oldest-checked pages first (service-account mode only).
+        pages.sort(key=lambda p: p.get("index_checked", ""))
+        for p in pages[:INSPECT_PER_DAY]:
+            try:
+                res = google_api.gsc_inspect(prop, p["url"])
+                p["index_verdict"], p["index_coverage"] = res["verdict"], res["coverage"]
+                p["index_last_crawl"] = res["last_crawl"]
+                p["index_checked"] = date.today().isoformat()
+            except RuntimeError as e:
+                print(f"Inspect failed for {p['url']}: {e}")
+        traffic = google_api.ga4_report(month_ago, yday, ["landingPagePlusQueryString", "sessionSource"],
+                                        ["sessions", "engagedSessions", "keyEvents"])
+        leads = google_api.ga4_report(month_ago, yday, ["landingPagePlusQueryString", "sessionSource"], ["eventCount"],
+                                      dimension_filter={"filter": {"fieldName": "eventName",
+                                                                   "stringFilter": {"value": lead_event}}})
+        ga_daily = google_api.ga4_report(month_ago, yday, ["date"], ["sessions", "keyEvents"])
     gsc_by_path = {urlparse(r["page"]).path.rstrip("/") + "/": r for r in page_rows}
-
-    # URL inspection: oldest-checked pages first.
-    pages.sort(key=lambda p: p.get("index_checked", ""))
-    for p in pages[:INSPECT_PER_DAY]:
-        try:
-            res = google_api.gsc_inspect(prop, p["url"])
-            p["index_verdict"], p["index_coverage"] = res["verdict"], res["coverage"]
-            p["index_last_crawl"] = res["last_crawl"]
-            p["index_checked"] = date.today().isoformat()
-        except RuntimeError as e:
-            print(f"Inspect failed for {p['url']}: {e}")
-
-    # GA4: sessions by landing page and source, plus lead events.
-    traffic = google_api.ga4_report(
-        month_ago, yday, ["landingPagePlusQueryString", "sessionSource"],
-        ["sessions", "engagedSessions", "keyEvents"],
-    )
-    leads = google_api.ga4_report(
-        month_ago, yday, ["landingPagePlusQueryString", "sessionSource"], ["eventCount"],
-        dimension_filter={"filter": {"fieldName": "eventName",
-                                     "stringFilter": {"value": cfg["lead"]["ga4_lead_event"]}}},
-    )
-    ga_daily = google_api.ga4_report(month_ago, yday, ["date"], ["sessions", "keyEvents"])
 
     ai_totals, site_leads = {}, 0
     for p in pages:
@@ -80,6 +91,27 @@ def run(cfg):
         p.update(clicks_28d=g.get("clicks", 0), impressions_28d=g.get("impressions", 0),
                  position_28d=round(g["position"], 1) if g else None)
 
+    if use_sitekit:
+        # Without URL Inspection, a page that earns search impressions is known to be indexed.
+        for p in pages:
+            if p["impressions_28d"]:
+                p["index_verdict"], p["index_coverage"] = "PASS", "Appearing in Google Search"
+                p["index_checked"] = date.today().isoformat()
+            elif p.get("index_verdict") != "PASS":
+                p["index_verdict"], p["index_coverage"] = "NEUTRAL", "No search impressions yet"
+
+    # Form leads recorded by the Chimera Engine plugin (independent of GA4).
+    try:
+        base = config.env("WP_URL").rstrip("/")
+        ls = requests.get(f"{base}/?rest_route=/chimera/v1/leads-summary", timeout=30,
+                          auth=(config.env("WP_USER"), config.env("WP_APP_PASSWORD"))).json()
+        form_leads, form_by_page = int(ls.get("total", 0)), ls.get("by_page", {})
+        for p in pages:
+            p["form_leads_28d"] = int(form_by_page.get(urlparse(p["url"]).path, 0))
+    except Exception as e:
+        print(f"Form lead summary skipped: {e}")
+        form_leads = None
+
     indexed = sum(p.get("index_verdict") == "PASS" for p in pages)
     summary = config.read_json(SUMMARY, {"history": []})
     today = {
@@ -92,7 +124,9 @@ def run(cfg):
         "sessions_28d": sum(r["sessions"] for r in ga_daily),
         "ai_sessions_28d": sum(ai_totals.values()),
         "ai_by_engine": ai_totals,
-        "leads_28d": site_leads,
+        "leads_28d": max(site_leads, form_leads or 0),
+        "form_leads_28d": form_leads,
+        "source": "Site Kit" if use_sitekit else "Google API",
         "engine_leads_28d": sum(p["leads_28d"] for p in pages),
     }
     summary["history"] = [h for h in summary["history"] if h["date"] != today["date"]] + [today]

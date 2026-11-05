@@ -90,7 +90,7 @@ def run(cfg):
         verdict = p.get("index_verdict")
         indexing.append({
             "slug": p["slug"], "url": p["url"], "published": p.get("published"),
-            "google": {"PASS": "Indexed", "NEUTRAL": "Not indexed yet", "FAIL": "Problem"}.get(
+            "google": {"PASS": "Indexed", "NEUTRAL": "No search data yet", "FAIL": "Problem"}.get(
                 verdict, "Waiting for Google" if not google else "Not checked yet"),
             "coverage": p.get("index_coverage") or "",
             "last_crawl": (p.get("index_last_crawl") or "")[:10] or None,

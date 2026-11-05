@@ -1,0 +1,177 @@
+{
+  "history": [
+    {
+      "date": "2026-11-05",
+      "pages_total": 31,
+      "pages_indexed": 0,
+      "clicks_28d": 0,
+      "impressions_28d": 0,
+      "engine_clicks_28d": 0,
+      "sessions_28d": 0.0,
+      "ai_sessions_28d": 0,
+      "ai_by_engine": {},
+      "leads_28d": 1,
+      "form_leads_28d": 1,
+      "source": "Site Kit",
+      "engine_leads_28d": 0
+    }
+  ],
+  "latest": {
+    "date": "2026-11-05",
+    "pages_total": 31,
+    "pages_indexed": 0,
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "engine_clicks_28d": 0,
+    "sessions_28d": 0.0,
+    "ai_sessions_28d": 0,
+    "ai_by_engine": {},
+    "leads_28d": 1,
+    "form_leads_28d": 1,
+    "source": "Site Kit",
+    "engine_leads_28d": 0
+  },
+  "gsc_daily": [],
+  "ga_daily": [
+    {
+      "date": "20261008",
+      "sessions": 0.0,
+      "keyEvents": 0.0
+    },
+    {
+      "date": "20261009",
+      "sessions": 0.0,
+      "keyEvents": 0.0
+    },
+    {
+      "date": "20261010",
+      "sessions": 0.0,
+      "keyEvents": 0.0
+    },
+    {
+      "date": "20261011",
+      "sessions": 0.0,
+      "keyEvents": 0.0
+    },
+    {
+      "date": "20261012",
+      "sessions": 0.0,
+      "keyEvents": 0.0
+    },
+    {
+      "date": "20261013",
+      "sessions": 0.0,
+      "keyEvents": 0.0
+    },
+    {
+      "date": "20261014",
+      "sessions": 0.0,
+      "keyEvents": 0.0
+    },
+    {
+      "date": "20261015",
+      "sessions": 0.0,
+      "keyEvents": 0.0
+    },
+    {
+      "date": "20261016",
+      "sessions": 0.0,
+      "keyEvents": 0.0
+    },
+    {
+      "date": "20261017",
+      "sessions": 0.0,
+      "keyEvents": 0.0
+    },
+    {
+      "date": "20261018",
+      "sessions": 0.0,
+      "keyEvents": 0.0
+    },
+    {
+      "date": "20261019",
+      "sessions": 0.0,
+      "keyEvents": 0.0
+    },
+    {
+      "date": "20261020",
+      "sessions": 0.0,
+      "keyEvents": 0.0
+    },
+    {
+      "date": "20261021",
+      "sessions": 0.0,
+      "keyEvents": 0.0
+    },
+    {
+      "date": "20261022",
+      "sessions": 0.0,
+      "keyEvents": 0.0
+    },
+    {
+      "date": "20261023",
+      "sessions": 0.0,
+      "keyEvents": 0.0
+    },
+    {
+      "date": "20261024",
+      "sessions": 0.0,
+      "keyEvents": 0.0
+    },
+    {
+      "date": "20261025",
+      "sessions": 0.0,
+      "keyEvents": 0.0
+    },
+    {
+      "date": "20261026",
+      "sessions": 0.0,
+      "keyEvents": 0.0
+    },
+    {
+      "date": "20261027",
+      "sessions": 0.0,
+      "keyEvents": 0.0
+    },
+    {
+      "date": "20261028",
+      "sessions": 0.0,
+      "keyEvents": 0.0
+    },
+    {
+      "date": "20261029",
+      "sessions": 0.0,
+      "keyEvents": 0.0
+    },
+    {
+      "date": "20261030",
+      "sessions": 0.0,
+      "keyEvents": 0.0
+    },
+    {
+      "date": "20261031",
+      "sessions": 0.0,
+      "keyEvents": 0.0
+    },
+    {
+      "date": "20261101",
+      "sessions": 0.0,
+      "keyEvents": 0.0
+    },
+    {
+      "date": "20261102",
+      "sessions": 0.0,
+      "keyEvents": 0.0
+    },
+    {
+      "date": "20261103",
+      "sessions": 0.0,
+      "keyEvents": 0.0
+    },
+    {
+      "date": "20261104",
+      "sessions": 0.0,
+      "keyEvents": 0.0
+    }
+  ]
+}

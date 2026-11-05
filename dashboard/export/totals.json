@@ -3,16 +3,16 @@
     "pages_live": 31,
     "keywords_used": 144,
     "queries_found": 200,
-    "impressions": null,
-    "clicks": null,
-    "visits": null,
-    "ai_visits": null,
-    "leads": null,
-    "pages_indexed": null,
+    "impressions": 0,
+    "clicks": 0,
+    "visits": 0.0,
+    "ai_visits": 0,
+    "leads": 1,
+    "pages_indexed": 0,
     "site_files_ok": 4,
     "site_files_total": 4,
     "pages_per_day": 10,
-    "google_connected": false,
-    "updated": "2026-11-05T20:15:16Z"
+    "google_connected": true,
+    "updated": "2026-11-05T21:16:03Z"
   }
 ]

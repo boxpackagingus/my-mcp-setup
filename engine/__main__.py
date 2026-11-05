@@ -107,20 +107,25 @@ def check(cfg):
     except requests.RequestException as e:
         ok = False
         print(f"[fail] Website not reachable: {e}. Add {cfg['site']['domain']} to Allowed domains.")
-    try:
-        from . import google_api
-        prop = google_api.gsc_property(cfg["site"]["domain"])
-        print(f"[ok]   Search Console property: {prop}")
-    except (SystemExit, Exception) as e:
-        ok = False
-        print(f"[fail] Search Console: {e}")
-    try:
-        from . import google_api
-        google_api.ga4_report("7daysAgo", "yesterday", ["date"], ["sessions"])
-        print("[ok]   Google Analytics 4")
-    except (SystemExit, Exception) as e:
-        ok = False
-        print(f"[fail] Google Analytics 4: {e}")
+    import os
+    if not os.environ.get("GSC_SERVICE_ACCOUNT_KEY_JSON"):
+        from . import sitekit
+        if sitekit.available():
+            print("[ok]   Search Console + Google Analytics 4 via Site Kit")
+        else:
+            ok = False
+            print("[fail] Site Kit: share Search Console and Analytics with the engine user's role "
+                  "(Site Kit → Dashboard → sharing icon → Apply)")
+    else:
+        try:
+            from . import google_api
+            prop = google_api.gsc_property(cfg["site"]["domain"])
+            print(f"[ok]   Search Console property: {prop}")
+            google_api.ga4_report("7daysAgo", "yesterday", ["date"], ["sessions"])
+            print("[ok]   Google Analytics 4")
+        except (SystemExit, Exception) as e:
+            ok = False
+            print(f"[fail] Google API: {e}")
     try:
         from .wp import WordPress
         info = WordPress().check()
