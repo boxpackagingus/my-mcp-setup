@@ -1,5 +1,5 @@
 {
-  "checked": "2026-11-06T15:25:10Z",
+  "checked": "2026-11-06T15:31:22Z",
   "files": [
     {
       "file": "robots.txt",
@@ -9,17 +9,17 @@
       "items": 5,
       "items_label": "AI crawlers allowed",
       "note": "Lists the sitemap",
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "file": "Sitemap",
       "url": "https://thechimeraai.com/wp-sitemap.xml",
       "http": 200,
-      "status": "Problem",
-      "items": 44,
+      "status": "OK",
+      "items": 84,
       "items_label": "pages listed",
-      "note": "40 engine pages missing (likely a stale cached copy; purge the site cache)",
-      "checked": "2026-11-06T15:25:10Z"
+      "note": "Google reads this to find new pages",
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "file": "llms.txt",
@@ -29,7 +29,7 @@
       "items": 81,
       "items_label": "guides listed",
       "note": "Map of your site for AI assistants",
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "file": "llms-full.txt",
@@ -39,7 +39,7 @@
       "items": 81,
       "items_label": "full guides included",
       "note": "698 KB of plain text for AI assistants",
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     }
   ],
   "pages": [
@@ -53,7 +53,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "ai-visibility-audit",
@@ -65,7 +65,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "answer-engine-optimization-vs-generative-engine-optimization",
@@ -77,7 +77,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "best-practices-for-llms-txt",
@@ -89,7 +89,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "entity-seo-for-ai-search",
@@ -101,7 +101,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "gemini-seo",
@@ -113,7 +113,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "generative-engine-optimization-agency",
@@ -125,7 +125,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "geo-agency-orange-county",
@@ -137,7 +137,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "geo-for-b2b-saas",
@@ -149,7 +149,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "geo-for-ecommerce",
@@ -161,7 +161,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "geo-mistakes-to-avoid",
@@ -173,7 +173,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "geo-seo-best-practices",
@@ -185,7 +185,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "geo-vs-seo",
@@ -197,7 +197,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "how-much-does-geo-cost",
@@ -209,7 +209,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "how-to-check-if-chatgpt-mentions-your-brand",
@@ -221,7 +221,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "how-to-choose-a-geo-agency",
@@ -233,7 +233,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "how-to-get-brand-mentions-for-ai-search",
@@ -245,7 +245,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "how-to-get-cited-by-claude",
@@ -257,7 +257,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "how-to-measure-geo-results",
@@ -269,7 +269,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "how-to-optimize-for-google-ai-mode",
@@ -281,7 +281,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "how-to-rank-in-chatgpt",
@@ -293,7 +293,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "how-to-show-up-in-google-ai-overviews",
@@ -305,7 +305,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "how-to-track-ai-traffic-in-google-analytics",
@@ -317,7 +317,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "how-to-write-content-for-ai-search",
@@ -329,7 +329,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "is-geo-bring-sales",
@@ -341,7 +341,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "local-geo",
@@ -353,7 +353,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "microsoft-copilot-seo",
@@ -365,7 +365,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "perplexity-seo",
@@ -377,7 +377,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "robots-txt-for-ai-crawlers",
@@ -389,7 +389,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "schema-markup-for-ai-search",
@@ -401,7 +401,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "what-is-generative-engine-optimization-and-how-does-it-work",
@@ -413,7 +413,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "ai-crawler-user-agents",
@@ -425,31 +425,31 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "ai-search-for-b2b-lead-generation",
       "url": "https://thechimeraai.com/ai-search-for-b2b-lead-generation/",
       "published": "2026-11-06",
       "live": "Yes",
-      "in_sitemap": "No",
+      "in_sitemap": "Yes",
       "in_llms": "Yes",
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "ai-search-optimization-checklist",
       "url": "https://thechimeraai.com/ai-search-optimization-checklist/",
       "published": "2026-11-06",
       "live": "Yes",
-      "in_sitemap": "No",
+      "in_sitemap": "Yes",
       "in_llms": "Yes",
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "ai-search-statistics",
@@ -461,103 +461,103 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "ai-share-of-voice",
       "url": "https://thechimeraai.com/ai-share-of-voice/",
       "published": "2026-11-06",
       "live": "Yes",
-      "in_sitemap": "No",
+      "in_sitemap": "Yes",
       "in_llms": "Yes",
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "author-pages-for-eeat",
       "url": "https://thechimeraai.com/author-pages-for-eeat/",
       "published": "2026-11-06",
       "live": "Yes",
-      "in_sitemap": "No",
+      "in_sitemap": "Yes",
       "in_llms": "Yes",
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "chatgpt-search-vs-google",
       "url": "https://thechimeraai.com/chatgpt-search-vs-google/",
       "published": "2026-11-06",
       "live": "Yes",
-      "in_sitemap": "No",
+      "in_sitemap": "Yes",
       "in_llms": "Yes",
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "digital-pr-for-ai-search",
       "url": "https://thechimeraai.com/digital-pr-for-ai-search/",
       "published": "2026-11-06",
       "live": "Yes",
-      "in_sitemap": "No",
+      "in_sitemap": "Yes",
       "in_llms": "Yes",
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "does-google-penalize-ai-content",
       "url": "https://thechimeraai.com/does-google-penalize-ai-content/",
       "published": "2026-11-06",
       "live": "Yes",
-      "in_sitemap": "No",
+      "in_sitemap": "Yes",
       "in_llms": "Yes",
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "eeat-for-ai-search",
       "url": "https://thechimeraai.com/eeat-for-ai-search/",
       "published": "2026-11-06",
       "live": "Yes",
-      "in_sitemap": "No",
+      "in_sitemap": "Yes",
       "in_llms": "Yes",
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "faq-pages-for-ai-search",
       "url": "https://thechimeraai.com/faq-pages-for-ai-search/",
       "published": "2026-11-06",
       "live": "Yes",
-      "in_sitemap": "No",
+      "in_sitemap": "Yes",
       "in_llms": "Yes",
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "geo-content-strategy",
       "url": "https://thechimeraai.com/geo-content-strategy/",
       "published": "2026-11-06",
       "live": "Yes",
-      "in_sitemap": "No",
+      "in_sitemap": "Yes",
       "in_llms": "Yes",
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "geo-for-dentists",
@@ -569,55 +569,55 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "geo-for-financial-advisors",
       "url": "https://thechimeraai.com/geo-for-financial-advisors/",
       "published": "2026-11-06",
       "live": "Yes",
-      "in_sitemap": "No",
+      "in_sitemap": "Yes",
       "in_llms": "Yes",
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "geo-for-healthcare",
       "url": "https://thechimeraai.com/geo-for-healthcare/",
       "published": "2026-11-06",
       "live": "Yes",
-      "in_sitemap": "No",
+      "in_sitemap": "Yes",
       "in_llms": "Yes",
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "geo-for-home-services",
       "url": "https://thechimeraai.com/geo-for-home-services/",
       "published": "2026-11-06",
       "live": "Yes",
-      "in_sitemap": "No",
+      "in_sitemap": "Yes",
       "in_llms": "Yes",
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "geo-for-hotels",
       "url": "https://thechimeraai.com/geo-for-hotels/",
       "published": "2026-11-06",
       "live": "Yes",
-      "in_sitemap": "No",
+      "in_sitemap": "Yes",
       "in_llms": "Yes",
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "geo-for-law-firms",
@@ -629,103 +629,103 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "geo-for-manufacturers",
       "url": "https://thechimeraai.com/geo-for-manufacturers/",
       "published": "2026-11-06",
       "live": "Yes",
-      "in_sitemap": "No",
+      "in_sitemap": "Yes",
       "in_llms": "Yes",
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "geo-for-med-spas",
       "url": "https://thechimeraai.com/geo-for-med-spas/",
       "published": "2026-11-06",
       "live": "Yes",
-      "in_sitemap": "No",
+      "in_sitemap": "Yes",
       "in_llms": "Yes",
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "geo-for-multi-location-businesses",
       "url": "https://thechimeraai.com/geo-for-multi-location-businesses/",
       "published": "2026-11-06",
       "live": "Yes",
-      "in_sitemap": "No",
+      "in_sitemap": "Yes",
       "in_llms": "Yes",
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "geo-for-real-estate-agents",
       "url": "https://thechimeraai.com/geo-for-real-estate-agents/",
       "published": "2026-11-06",
       "live": "Yes",
-      "in_sitemap": "No",
+      "in_sitemap": "Yes",
       "in_llms": "Yes",
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "geo-for-restaurants",
       "url": "https://thechimeraai.com/geo-for-restaurants/",
       "published": "2026-11-06",
       "live": "Yes",
-      "in_sitemap": "No",
+      "in_sitemap": "Yes",
       "in_llms": "Yes",
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "geo-for-startups",
       "url": "https://thechimeraai.com/geo-for-startups/",
       "published": "2026-11-06",
       "live": "Yes",
-      "in_sitemap": "No",
+      "in_sitemap": "Yes",
       "in_llms": "Yes",
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "geo-roi",
       "url": "https://thechimeraai.com/geo-roi/",
       "published": "2026-11-06",
       "live": "Yes",
-      "in_sitemap": "No",
+      "in_sitemap": "Yes",
       "in_llms": "Yes",
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "geo-vs-ppc",
       "url": "https://thechimeraai.com/geo-vs-ppc/",
       "published": "2026-11-06",
       "live": "Yes",
-      "in_sitemap": "No",
+      "in_sitemap": "Yes",
       "in_llms": "Yes",
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "how-ai-search-engines-choose-sources",
@@ -737,19 +737,19 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "how-chatgpt-recommends-local-businesses",
       "url": "https://thechimeraai.com/how-chatgpt-recommends-local-businesses/",
       "published": "2026-11-06",
       "live": "Yes",
-      "in_sitemap": "No",
+      "in_sitemap": "Yes",
       "in_llms": "Yes",
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "how-long-does-geo-take",
@@ -761,127 +761,127 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "how-long-should-content-be-for-ai-search",
       "url": "https://thechimeraai.com/how-long-should-content-be-for-ai-search/",
       "published": "2026-11-06",
       "live": "Yes",
-      "in_sitemap": "No",
+      "in_sitemap": "Yes",
       "in_llms": "Yes",
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "how-to-find-prompts-people-ask-ai",
       "url": "https://thechimeraai.com/how-to-find-prompts-people-ask-ai/",
       "published": "2026-11-06",
       "live": "Yes",
-      "in_sitemap": "No",
+      "in_sitemap": "Yes",
       "in_llms": "Yes",
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "how-to-fix-wrong-information-about-your-brand-in-chatgpt",
       "url": "https://thechimeraai.com/how-to-fix-wrong-information-about-your-brand-in-chatgpt/",
       "published": "2026-11-06",
       "live": "Yes",
-      "in_sitemap": "No",
+      "in_sitemap": "Yes",
       "in_llms": "Yes",
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "how-to-get-a-google-knowledge-panel",
       "url": "https://thechimeraai.com/how-to-get-a-google-knowledge-panel/",
       "published": "2026-11-06",
       "live": "Yes",
-      "in_sitemap": "No",
+      "in_sitemap": "Yes",
       "in_llms": "Yes",
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "how-to-get-on-best-of-lists",
       "url": "https://thechimeraai.com/how-to-get-on-best-of-lists/",
       "published": "2026-11-06",
       "live": "Yes",
-      "in_sitemap": "No",
+      "in_sitemap": "Yes",
       "in_llms": "Yes",
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "how-to-optimize-for-meta-ai",
       "url": "https://thechimeraai.com/how-to-optimize-for-meta-ai/",
       "published": "2026-11-06",
       "live": "Yes",
-      "in_sitemap": "No",
+      "in_sitemap": "Yes",
       "in_llms": "Yes",
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "how-to-track-ai-visibility",
       "url": "https://thechimeraai.com/how-to-track-ai-visibility/",
       "published": "2026-11-06",
       "live": "Yes",
-      "in_sitemap": "No",
+      "in_sitemap": "Yes",
       "in_llms": "Yes",
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "how-to-update-old-content-for-ai-search",
       "url": "https://thechimeraai.com/how-to-update-old-content-for-ai-search/",
       "published": "2026-11-06",
       "live": "Yes",
-      "in_sitemap": "No",
+      "in_sitemap": "Yes",
       "in_llms": "Yes",
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "how-to-write-comparison-pages",
       "url": "https://thechimeraai.com/how-to-write-comparison-pages/",
       "published": "2026-11-06",
       "live": "Yes",
-      "in_sitemap": "No",
+      "in_sitemap": "Yes",
       "in_llms": "Yes",
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "internal-linking-for-ai-search",
       "url": "https://thechimeraai.com/internal-linking-for-ai-search/",
       "published": "2026-11-06",
       "live": "Yes",
-      "in_sitemap": "No",
+      "in_sitemap": "Yes",
       "in_llms": "Yes",
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "is-seo-dead",
@@ -893,67 +893,67 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "local-business-schema-for-ai-search",
       "url": "https://thechimeraai.com/local-business-schema-for-ai-search/",
       "published": "2026-11-06",
       "live": "Yes",
-      "in_sitemap": "No",
+      "in_sitemap": "Yes",
       "in_llms": "Yes",
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "press-releases-for-ai-search",
       "url": "https://thechimeraai.com/press-releases-for-ai-search/",
       "published": "2026-11-06",
       "live": "Yes",
-      "in_sitemap": "No",
+      "in_sitemap": "Yes",
       "in_llms": "Yes",
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "product-pages-for-ai-shopping",
       "url": "https://thechimeraai.com/product-pages-for-ai-shopping/",
       "published": "2026-11-06",
       "live": "Yes",
-      "in_sitemap": "No",
+      "in_sitemap": "Yes",
       "in_llms": "Yes",
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "reddit-for-ai-search",
       "url": "https://thechimeraai.com/reddit-for-ai-search/",
       "published": "2026-11-06",
       "live": "Yes",
-      "in_sitemap": "No",
+      "in_sitemap": "Yes",
       "in_llms": "Yes",
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "topical-authority-for-ai-search",
       "url": "https://thechimeraai.com/topical-authority-for-ai-search/",
       "published": "2026-11-06",
       "live": "Yes",
-      "in_sitemap": "No",
+      "in_sitemap": "Yes",
       "in_llms": "Yes",
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "what-is-llm-seo",
@@ -965,7 +965,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "what-is-query-fan-out",
@@ -977,31 +977,31 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "wikipedia-and-wikidata-for-ai-search",
       "url": "https://thechimeraai.com/wikipedia-and-wikidata-for-ai-search/",
       "published": "2026-11-06",
       "live": "Yes",
-      "in_sitemap": "No",
+      "in_sitemap": "Yes",
       "in_llms": "Yes",
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "youtube-for-ai-search",
       "url": "https://thechimeraai.com/youtube-for-ai-search/",
       "published": "2026-11-06",
       "live": "Yes",
-      "in_sitemap": "No",
+      "in_sitemap": "Yes",
       "in_llms": "Yes",
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     },
     {
       "slug": "zero-click-searches",
@@ -1013,7 +1013,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:25:10Z"
+      "checked": "2026-11-06T15:31:22Z"
     }
   ]
 }
