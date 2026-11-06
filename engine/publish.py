@@ -86,6 +86,7 @@ def run(cfg, dry_run=False, max_pages=None):
 
     if not dry_run:
         if report["published"]:
+            _purge_cache()
             _ping_sitemap(cfg)
             urls = [p["url"] for p in report["published"]]
             sent = indexnow.submit(cfg, urls)
@@ -120,6 +121,19 @@ def log_run(report, note=""):
 def _wp():
     from .wp import WordPress
     return WordPress()
+
+
+def _purge_cache():
+    """Clears the site's page cache (LiteSpeed) so the sitemap and homepage show the new pages."""
+    import requests
+    try:
+        base = config.env("WP_URL").rstrip("/")
+        r = requests.post(f"{base}/?rest_route=/chimera/v1/purge-cache", timeout=30,
+                          auth=(config.env("WP_USER"), config.env("WP_APP_PASSWORD")))
+        if r.status_code == 404:
+            print("Cache purge skipped: install Chimera Engine plugin 1.6.0 or later.")
+    except (SystemExit, Exception) as e:
+        print(f"Cache purge skipped: {e}")
 
 
 def _ping_sitemap(cfg):

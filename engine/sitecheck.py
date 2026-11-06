@@ -17,7 +17,8 @@ AI_BOTS = ["GPTBot", "OAI-SearchBot", "PerplexityBot", "ClaudeBot", "Google-Exte
 
 def _get(url):
     try:
-        r = requests.get(url, headers=UA, timeout=30, params={"nocache": datetime.now().timestamp()})
+        # No cache-busting parameter: check exactly what Google and AI crawlers are served.
+        r = requests.get(url, headers=UA, timeout=30)
         return r.status_code, r.text, r.headers.get("content-type", "")
     except requests.RequestException as e:
         return 0, str(e), ""
@@ -75,11 +76,16 @@ def run(cfg):
     # sitemap
     sitemap_url = sitemap_line.group(1) if sitemap_line else base + "/wp-sitemap.xml"
     smap = _sitemap_urls(sitemap_url)
+    from urllib.parse import urlparse as _up
+    listed = {_up(u).path.rstrip("/") + "/" for u in smap}
+    missing = [p for p in config.read_json(config.DATA / "pages.json", [])
+               if _up(p["url"]).path.rstrip("/") + "/" not in listed]
     files.append({
         "file": "Sitemap", "url": sitemap_url, "http": 200 if smap else _get(sitemap_url)[0],
-        "status": "OK" if smap else "Problem",
+        "status": "OK" if smap and not missing else "Problem",
         "items": len(smap), "items_label": "pages listed",
-        "note": "Google reads this to find new pages", "checked": now,
+        "note": (f"{len(missing)} engine pages missing (likely a stale cached copy; purge the site cache)" if missing
+                 else "Google reads this to find new pages"), "checked": now,
     })
 
     # llms.txt and llms-full.txt
