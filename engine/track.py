@@ -24,7 +24,8 @@ def classify_ai(source, cfg):
 def run(cfg):
     pages = config.read_json(PAGES, [])
     by_path = {urlparse(p["url"]).path.rstrip("/") + "/": p for p in pages}
-    end = date.today() - timedelta(days=3)
+    # Site Kit returns the freshest data Google has; the service-account path keeps the 3-day lag.
+    end = date.today() - timedelta(days=1 if not os.environ.get("GSC_SERVICE_ACCOUNT_KEY_JSON") else 3)
     start = end - timedelta(days=27)
     yday = (date.today() - timedelta(days=1)).isoformat()
     month_ago = (date.today() - timedelta(days=28)).isoformat()

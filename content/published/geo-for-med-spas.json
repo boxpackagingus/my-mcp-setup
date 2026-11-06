@@ -1,0 +1,286 @@
+{
+  "query": "geo for med spas",
+  "slug": "geo-for-med-spas",
+  "eyebrow": "Industry guide",
+  "primary_keyword": "GEO for med spas",
+  "secondary_keywords": [
+    "med spa marketing AI",
+    "AI SEO for med spas",
+    "aesthetic clinic ChatGPT",
+    "med spa local SEO"
+  ],
+  "search_intent": "commercial",
+  "seo": {
+    "title": "GEO for Med Spas: Get Recommended by AI Search",
+    "meta_description": "GEO for med spas: how clients research treatments with ChatGPT and Google AI, which pages get cited, trust and compliance signals, and a 90-day plan."
+  },
+  "h1": "GEO for Med Spas: How to Get Your Clinic Recommended by AI",
+  "answer": "GEO for med spas means making your clinic easy for AI tools like Google AI Overviews, ChatGPT and Perplexity to find, trust and recommend when people research treatments such as Botox, fillers or laser hair removal. It depends on detailed treatment pages, named and credentialed providers, honest pricing guidance, consistent local listings and genuine reviews.",
+  "key_takeaways": [
+    "Clients research treatments, safety and price with AI before booking.",
+    "Each treatment needs its own detailed, provider-reviewed page.",
+    "Named, credentialed injectors are a major trust signal.",
+    "Honest price ranges answer the most common question.",
+    "Health advertising rules apply to every claim you publish."
+  ],
+  "sections": [
+    {
+      "heading": "How med spa clients research with AI",
+      "body_html": "<p>Aesthetic treatments are researched carefully. Before booking, people ask questions such as \"how long does Botox last\", \"is laser hair removal safe for dark skin\", \"filler vs Sculptra for cheeks\" and \"best med spa in Newport Beach\". Pew Research Center found that question-style Google searches produced an AI summary 60% of the time in its March 2025 data, so these are the searches where an AI answer, not a list of links, shapes the first impression.</p><p>When the answer cites your treatment page or names your clinic, you start the relationship before the client has compared anyone else.</p>"
+    },
+    {
+      "heading": "Treatment pages that earn citations",
+      "body_html": "<ul><li><strong>One page per treatment</strong>, not a single services list.</li><li><strong>A direct opening answer</strong>: what it does, who it suits, how long results last.</li><li><strong>The appointment step by step</strong>: consultation, numbing, procedure time, downtime.</li><li><strong>Side effects and who should not have it</strong>, stated plainly.</li><li><strong>How it compares</strong> with the alternatives clients ask about.</li><li><strong>An FAQ</strong> with real questions from consultations.</li></ul><p>Pages that explain risks honestly are more trustworthy to readers and more useful to AI systems than pages that only sell.</p>"
+    },
+    {
+      "heading": "Providers and credentials",
+      "body_html": "<p>Clients want to know who is holding the needle. Give every injector and clinician a profile with their license type, training, years of experience and the treatments they perform. Name the reviewing clinician on each treatment page. Google's guidance on helpful content says trust is the most important part of E-E-A-T, and for treatments that affect someone's face and health, visible qualifications are the clearest way to show it.</p>"
+    },
+    {
+      "heading": "Talking about price",
+      "body_html": "<p>\"How much does it cost\" is one of the most common aesthetic questions, and many clinics avoid it. You do not need a fixed menu if pricing varies, but explain how you price (per unit, per syringe, per area or per package), give typical ranges, mention consultation fees and financing, and say what changes the total. Specific, honest pricing is exactly the kind of detail AI answers prefer to quote, and it filters out bookings that would never convert.</p>"
+    },
+    {
+      "heading": "Local signals and listings",
+      "body_html": "<p>Keep your clinic name, address, phone and hours identical on your website, Google Business Profile, Bing Places and booking platforms. Schema.org's <code>HealthAndBeautyBusiness</code> type, a kind of LocalBusiness, can describe the clinic, and <code>MedicalBusiness</code> fits clinics led by medical professionals. Choose the type that honestly reflects your business, and describe services, opening hours and location in the markup.</p>"
+    },
+    {
+      "heading": "Reviews, photos and consent",
+      "body_html": "<p>Reviews matter more in aesthetics than in most industries because the result is visible. Ask satisfied clients to review you on the platforms they already use and reply without sharing personal details. Before-and-after photos are powerful but need written consent, consistent lighting and honest captions. Never edit results, and avoid promising outcomes; aesthetic results vary and medical advertising rules in most states prohibit misleading claims.</p>"
+    },
+    {
+      "heading": "Content ideas beyond treatment pages",
+      "body_html": "<p>Seasonal and decision content performs well: how far ahead of a wedding to book treatments, what to avoid before and after an appointment, how to choose between two similar treatments, how to spot an unqualified provider. Each piece should link to the matching treatment page and be reviewed by a clinician. Content like this answers the follow-up questions AI tools look for when building a complete answer.</p>"
+    },
+    {
+      "heading": "How to measure progress",
+      "body_html": "<p>Track booked consultations by source, AI referrals in Google Analytics, branded searches for the clinic and its providers, and a monthly record of which clinics ChatGPT, Gemini and Perplexity recommend for your top treatments in your city. One new regular client can be worth years of revenue, so focus on bookings rather than traffic.</p>"
+    },
+    {
+      "heading": "Common mistakes",
+      "body_html": "<p>The patterns that hold med spas back are a single page listing every treatment, provider names missing from the site, prices hidden entirely, and booking platforms showing different hours from the website. Each one makes it harder for an AI tool to recommend the clinic with confidence.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is GEO for med spas?",
+      "a": "Generative engine optimization for med spas is making your clinic easy for AI tools like Google AI Overviews, ChatGPT and Perplexity to find, trust and recommend when people research aesthetic treatments or look for a clinic."
+    },
+    {
+      "q": "Can ChatGPT recommend my med spa?",
+      "a": "Yes. When people ask for clinics in an area, ChatGPT and other assistants can suggest specific businesses. Clear treatment pages, named providers, consistent listings and reviews make your clinic more likely to be included."
+    },
+    {
+      "q": "Should a med spa publish prices?",
+      "a": "Publishing how you price and typical ranges helps clients and gives AI answers specific information to use, even if final prices depend on a consultation."
+    },
+    {
+      "q": "What schema should a med spa use?",
+      "a": "HealthAndBeautyBusiness suits many clinics; MedicalBusiness can fit clinics led by medical professionals. Pick the type that honestly matches your business and include services, hours and location."
+    },
+    {
+      "q": "Do before-and-after photos help with AI search?",
+      "a": "They help clients decide and show real experience, but AI tools mostly read text. Pair photos with written explanations, and always get written consent."
+    },
+    {
+      "q": "How long does GEO take for a med spa?",
+      "a": "Listing and technical fixes can help within weeks. Becoming a regular recommendation for competitive treatments in a busy area usually takes three to six months."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "schema markup for AI search",
+      "url": "https://thechimeraai.com/schema-markup-for-ai-search/"
+    },
+    {
+      "anchor": "GEO for dentists",
+      "url": "https://thechimeraai.com/geo-for-dentists/"
+    },
+    {
+      "anchor": "how to check if ChatGPT mentions your brand",
+      "url": "https://thechimeraai.com/how-to-check-if-chatgpt-mentions-your-brand/"
+    },
+    {
+      "anchor": "Chimera's GEO services",
+      "url": "https://thechimeraai.com/#services"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Schema.org: HealthAndBeautyBusiness",
+      "url": "https://schema.org/HealthAndBeautyBusiness"
+    },
+    {
+      "title": "Schema.org: MedicalBusiness",
+      "url": "https://schema.org/MedicalBusiness"
+    },
+    {
+      "title": "Google Search Central: Creating helpful, reliable, people-first content",
+      "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content"
+    },
+    {
+      "title": "Pew Research Center: Google users are less likely to click on links when an AI summary appears in the results (Jul 22, 2025)",
+      "url": "https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/"
+    },
+    {
+      "title": "Google Business Profile",
+      "url": "https://www.google.com/business/"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 0,
+      "type": "engines",
+      "eyebrow": "AI platforms",
+      "title": "Where clients research aesthetic treatments",
+      "lead": "The answer engines that matter most for buyer research, and how each one finds sources.",
+      "items": [
+        {
+          "engine": "chatgpt",
+          "note": "The largest assistant. Searches the web for current questions and links sources in its answers."
+        },
+        {
+          "engine": "google",
+          "note": "AI summaries above Google results, built from pages Google has indexed."
+        },
+        {
+          "engine": "gemini",
+          "note": "Google's assistant app, increasingly used for research and comparisons."
+        },
+        {
+          "engine": "perplexity",
+          "note": "Answer engine built around numbered, clickable citations."
+        },
+        {
+          "engine": "claude",
+          "note": "Anthropic's assistant, used heavily for research and work tasks; can search the web."
+        },
+        {
+          "engine": "copilot",
+          "note": "Microsoft's assistant in Windows, Edge and Office, grounded in Bing results."
+        }
+      ]
+    },
+    {
+      "after": 0,
+      "type": "bars",
+      "eyebrow": "Pew Research data",
+      "title": "Which searches trigger an AI summary",
+      "lead": "Share of Google searches that produced an AI summary, by type of search, March 2025.",
+      "unit": "%",
+      "engine": "google",
+      "chart_label": "Searches with an AI summary",
+      "items": [
+        {
+          "label": "Searches starting with who, what, when or why",
+          "value": 60
+        },
+        {
+          "label": "Searches of 10 words or more",
+          "value": 53
+        },
+        {
+          "label": "Full-sentence searches (noun and verb)",
+          "value": 36
+        },
+        {
+          "label": "All searches in the study",
+          "value": 18
+        },
+        {
+          "label": "One- or two-word searches",
+          "value": 8
+        }
+      ],
+      "source": {
+        "title": "Pew Research Center, March 2025 browsing data from 900 U.S. adults",
+        "url": "https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/"
+      }
+    },
+    {
+      "after": 2,
+      "type": "scorecard",
+      "eyebrow": "Scorecard",
+      "title": "What builds trust for a med spa",
+      "lead": "How strongly each signal helps (5 = most).",
+      "rows": [
+        {
+          "label": "Named, credentialed providers",
+          "score": 5,
+          "note": "Clients and AI look for qualifications."
+        },
+        {
+          "label": "Honest risks and downtime",
+          "score": 5,
+          "note": "Shows the page is written for patients."
+        },
+        {
+          "label": "Clear pricing guidance",
+          "score": 4,
+          "note": "Answers the most common question."
+        },
+        {
+          "label": "Consistent local listings",
+          "score": 4,
+          "note": "Feeds near-me answers."
+        },
+        {
+          "label": "Promises of perfect results",
+          "score": 1,
+          "note": "Misleading and often against advertising rules."
+        }
+      ]
+    },
+    {
+      "after": 7,
+      "type": "timeline",
+      "eyebrow": "Timeline",
+      "title": "A 90-day plan for a med spa",
+      "lead": "A simple order of work for the first three months.",
+      "items": [
+        {
+          "when": "Month 1",
+          "title": "Audit and fix",
+          "text": "Check AI answers, fix listings and provider profiles."
+        },
+        {
+          "when": "Month 2",
+          "title": "Treatment pages",
+          "text": "Rebuild top treatment pages with risks, steps and pricing."
+        },
+        {
+          "when": "Month 3",
+          "title": "Decision content",
+          "text": "Publish comparison and preparation guides; grow reviews."
+        }
+      ]
+    }
+  ],
+  "hero_query": "Which med spa near me is best for Botox?",
+  "short_title": "GEO for Med Spas: Get Recommended by AI Search",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 283,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/geo-for-med-spas-chimera.jpg",
+    "alt": "GEO for Med Spas: Get Recommended by AI Search: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-06",
+  "updated": "2026-11-06"
+}

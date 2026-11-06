@@ -1,0 +1,249 @@
+{
+  "query": "geo for real estate agents",
+  "slug": "geo-for-real-estate-agents",
+  "eyebrow": "Industry guide",
+  "primary_keyword": "GEO for real estate agents",
+  "secondary_keywords": [
+    "real estate AI search",
+    "AI SEO for realtors",
+    "ChatGPT real estate agent",
+    "realtor marketing AI"
+  ],
+  "search_intent": "commercial",
+  "seo": {
+    "title": "GEO for Real Estate Agents: Win AI Search Answers",
+    "meta_description": "GEO for real estate agents: how buyers and sellers use ChatGPT and Google AI, the neighborhood content AI cites, agent trust signals and a simple plan."
+  },
+  "h1": "GEO for Real Estate Agents: How to Get Recommended by AI",
+  "answer": "GEO for real estate agents means making you and your brokerage easy for AI tools such as ChatGPT, Google AI Overviews and Perplexity to cite when people ask about neighborhoods, buying, selling or which agent to hire. The strongest assets are genuine local knowledge pages, clear process guides, a consistent agent profile and reviews from real clients.",
+  "key_takeaways": [
+    "Buyers and sellers ask AI about neighborhoods, costs and process.",
+    "Hyper-local knowledge is the edge portals cannot copy.",
+    "A consistent agent profile across sites helps AI describe you.",
+    "Process guides answer seller and buyer questions directly.",
+    "Fair housing rules apply to every neighborhood description."
+  ],
+  "sections": [
+    {
+      "heading": "Why AI search matters for agents",
+      "body_html": "<p>Big listing portals dominate searches for homes for sale, and that is unlikely to change. But many of the questions people ask before choosing an agent are not about listings: \"what is it like to live in Tustin\", \"how much are closing costs in California\", \"should I sell before buying\", \"how do I choose a listing agent\". These are long, conversational questions, the kind that AI tools answer directly. An agent who answers them well can be the cited expert, which portals rarely are.</p>"
+    },
+    {
+      "heading": "Neighborhood pages AI can trust",
+      "body_html": "<ul><li><strong>Write from first-hand knowledge</strong>: streets, commute patterns, parks, what different blocks feel like.</li><li><strong>Cover practical details</strong>: housing types, typical lot sizes, HOA patterns, nearby amenities.</li><li><strong>Link to official sources</strong> for schools and property taxes rather than stating rankings yourself.</li><li><strong>Update regularly</strong> and show the date of the last update.</li></ul><p>Generic neighborhood pages that could describe any suburb add nothing. Specific observations from someone who sells there every week are what make a page citable.</p>"
+    },
+    {
+      "heading": "Process guides for buyers and sellers",
+      "body_html": "<p>Explain the steps of buying and selling in your state in plain language: preparing a home for sale, how pricing is set, what inspections and contingencies mean, typical timelines from listing to closing, and which costs sellers and buyers usually pay. Each guide should open with a direct answer and use headings for the follow-up questions. These pages earn citations for the research questions that come before someone calls an agent.</p>"
+    },
+    {
+      "heading": "A consistent agent profile",
+      "body_html": "<p>AI tools build their picture of you from many places: your website, brokerage profile, portal profiles, Google Business Profile, social accounts and review sites. Use the same name, license number where appropriate, brokerage, service areas and specialties everywhere. Schema.org's <code>RealEstateAgent</code> type, a kind of LocalBusiness, can describe your business on your own site. Inconsistent details lead to vague or wrong descriptions.</p>"
+    },
+    {
+      "heading": "Reviews and proof of experience",
+      "body_html": "<p>Ask every client for a review on the platforms buyers and sellers actually check, and reply to each one. Publish short, factual stories of recent transactions with permission: the situation, what you did and the outcome, without exaggeration or private details. Real experience in specific neighborhoods is the trust signal that separates an agent from a generic article.</p>"
+    },
+    {
+      "heading": "Fair housing and accuracy",
+      "body_html": "<p>Neighborhood content must follow fair housing rules. Describe places in terms of homes, amenities, commute and services, never the people who live there or who a neighborhood is \"good for\". Avoid steering language, and point to official sources for school and crime information rather than characterizing them yourself. Accuracy also matters for AI: a wrong figure repeated by an assistant can damage your credibility.</p>"
+    },
+    {
+      "heading": "Where to start",
+      "body_html": "<ol><li><strong>Ask ChatGPT, Gemini and Perplexity</strong> who they recommend as an agent in your area, and record the answers.</li><li><strong>Make your profiles consistent</strong> across every site.</li><li><strong>Write three neighborhood pages</strong> where you sell most often.</li><li><strong>Publish a seller guide and a buyer guide</strong> for your state.</li><li><strong>Ask recent clients for reviews</strong>, then re-check AI answers monthly.</li></ol>"
+    },
+    {
+      "heading": "How to measure results",
+      "body_html": "<p>Track valuation requests, buyer consultations and calls by source, AI referrals in Google Analytics, and searches for your name. Note which agents AI tools name for your neighborhoods each month. A single listing appointment from an AI-informed seller can justify the work.</p>"
+    },
+    {
+      "heading": "Common mistakes agents make",
+      "body_html": "<p>The biggest gaps are generic neighborhood pages copied from portal data, profiles that list a different brokerage or service area on each site, and no written explanation of how the agent works. Another is relying only on social media: posts are rarely what AI tools cite, while a clear guide on your own site can be cited for years. Fix consistency first, then add depth where you genuinely sell.</p>"
+    },
+    {
+      "heading": "An example of a citable neighborhood answer",
+      "body_html": "<p>Compare two openings. A generic page says: \"Tustin is a great place to live with something for everyone.\" A citable page says: \"Tustin's Old Town has 1920s bungalows on small lots within walking distance of cafes on Main Street, while Tustin Ranch has larger 1990s homes with HOAs and community pools; commuters reach the 5 and 55 freeways in minutes.\" The second is specific, checkable and useful, so it is the kind of passage an AI answer can reuse.</p>"
+    },
+    {
+      "heading": "Where to get help",
+      "body_html": "<p>A GEO audit for an agent asks AI tools who they recommend in your areas, then checks your profiles for consistency and your site for the neighborhood and process content that earns citations. It produces a short, prioritized list of pages to write and profiles to fix first.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is GEO for real estate agents?",
+      "a": "It is making your agent brand and content easy for AI tools like ChatGPT, Google AI Overviews and Perplexity to find, trust and recommend when people ask about neighborhoods, buying, selling or choosing an agent."
+    },
+    {
+      "q": "Can I compete with listing portals in AI search?",
+      "a": "Not for listing searches, but yes for neighborhood knowledge and process questions, where first-hand local expertise is more useful than portal data."
+    },
+    {
+      "q": "What schema should a real estate agent use?",
+      "a": "Schema.org's RealEstateAgent type, a kind of LocalBusiness, can describe your business, service areas and contact details on your own site."
+    },
+    {
+      "q": "Do fair housing rules apply to AI-focused content?",
+      "a": "Yes. All neighborhood and marketing content must avoid describing who lives in an area or who it suits, and should focus on homes, amenities and services."
+    },
+    {
+      "q": "How many neighborhood pages should I create?",
+      "a": "Start with the areas where you genuinely sell most and know best. A few deep, specific pages are better than dozens of thin ones."
+    },
+    {
+      "q": "How do I know if AI tools recommend me?",
+      "a": "Ask the main assistants who they recommend as an agent in your area each month and record the answers, alongside AI referrals in Google Analytics."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "how to check if ChatGPT mentions your brand",
+      "url": "https://thechimeraai.com/how-to-check-if-chatgpt-mentions-your-brand/"
+    },
+    {
+      "anchor": "how to write content for AI search",
+      "url": "https://thechimeraai.com/how-to-write-content-for-ai-search/"
+    },
+    {
+      "anchor": "how long GEO takes",
+      "url": "https://thechimeraai.com/how-long-does-geo-take/"
+    },
+    {
+      "anchor": "Chimera's GEO services",
+      "url": "https://thechimeraai.com/#services"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Schema.org: RealEstateAgent",
+      "url": "https://schema.org/RealEstateAgent"
+    },
+    {
+      "title": "Google Search Central: Creating helpful, reliable, people-first content",
+      "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content"
+    },
+    {
+      "title": "Pew Research Center: Google users are less likely to click on links when an AI summary appears in the results (Jul 22, 2025)",
+      "url": "https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/"
+    },
+    {
+      "title": "Google Business Profile",
+      "url": "https://www.google.com/business/"
+    },
+    {
+      "title": "Google Search Central: Local business structured data",
+      "url": "https://developers.google.com/search/docs/appearance/structured-data/local-business"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 0,
+      "type": "engines",
+      "eyebrow": "AI platforms",
+      "title": "Where buyers and sellers ask questions",
+      "lead": "The answer engines that matter most for buyer research, and how each one finds sources.",
+      "items": [
+        {
+          "engine": "chatgpt",
+          "note": "The largest assistant. Searches the web for current questions and links sources in its answers."
+        },
+        {
+          "engine": "google",
+          "note": "AI summaries above Google results, built from pages Google has indexed."
+        },
+        {
+          "engine": "gemini",
+          "note": "Google's assistant app, increasingly used for research and comparisons."
+        },
+        {
+          "engine": "perplexity",
+          "note": "Answer engine built around numbered, clickable citations."
+        },
+        {
+          "engine": "claude",
+          "note": "Anthropic's assistant, used heavily for research and work tasks; can search the web."
+        },
+        {
+          "engine": "copilot",
+          "note": "Microsoft's assistant in Windows, Edge and Office, grounded in Bing results."
+        }
+      ]
+    },
+    {
+      "after": 1,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "How local knowledge becomes a recommendation",
+      "lead": "Specific, first-hand detail is what AI answers reuse.",
+      "steps": [
+        {
+          "title": "Question",
+          "text": "A seller asks an assistant about selling in your area."
+        },
+        {
+          "title": "Search",
+          "text": "The AI looks for specific local process and market guidance."
+        },
+        {
+          "title": "Citation",
+          "text": "Your neighborhood or seller guide is quoted."
+        },
+        {
+          "title": "Contact",
+          "text": "The seller searches your name and books a valuation."
+        }
+      ]
+    },
+    {
+      "after": 6,
+      "type": "timeline",
+      "eyebrow": "Timeline",
+      "title": "First 90 days for an agent",
+      "lead": "A simple order of work for the first three months.",
+      "items": [
+        {
+          "when": "Month 1",
+          "title": "Profiles",
+          "text": "Make every agent profile consistent and complete."
+        },
+        {
+          "when": "Month 2",
+          "title": "Local pages",
+          "text": "Publish three deep neighborhood pages."
+        },
+        {
+          "when": "Month 3",
+          "title": "Guides and reviews",
+          "text": "Add buyer and seller guides; collect reviews."
+        }
+      ]
+    }
+  ],
+  "hero_query": "Who is the best real estate agent in Irvine?",
+  "short_title": "GEO for Real Estate Agents: Win AI Search Answers",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 285,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/geo-for-real-estate-agents-chimera.jpg",
+    "alt": "GEO for Real Estate Agents: Win AI Search Answers: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-06",
+  "updated": "2026-11-06"
+}

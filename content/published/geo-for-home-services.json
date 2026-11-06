@@ -1,0 +1,258 @@
+{
+  "query": "geo for home service businesses",
+  "slug": "geo-for-home-services",
+  "eyebrow": "Industry guide",
+  "primary_keyword": "GEO for home service businesses",
+  "secondary_keywords": [
+    "AI SEO for contractors",
+    "plumber AI search",
+    "HVAC marketing AI",
+    "home services local SEO"
+  ],
+  "search_intent": "commercial",
+  "seo": {
+    "title": "GEO for Home Service Businesses: Plumbers to Roofers",
+    "meta_description": "GEO for home service businesses: how homeowners ask AI for plumbers, HVAC and roofers, the pages and local signals that get you recommended, and a plan."
+  },
+  "h1": "GEO for Home Service Businesses: Get Recommended When Homeowners Ask AI",
+  "answer": "GEO for home service businesses means making plumbers, HVAC companies, electricians, roofers and similar trades easy for AI tools to recommend when homeowners describe a problem or ask who to call. It rests on clear service-area details, problem-and-solution pages, honest pricing guidance, licensing information and a steady flow of genuine reviews.",
+  "key_takeaways": [
+    "Homeowners describe problems to AI before they search for a company.",
+    "Problem-based pages match how people actually ask.",
+    "Service areas, hours and emergency availability must be consistent.",
+    "License, insurance and warranty details build trust.",
+    "Reviews that mention specific jobs are especially persuasive."
+  ],
+  "sections": [
+    {
+      "heading": "How homeowners use AI for home repairs",
+      "body_html": "<p>A homeowner with a problem rarely searches for a company name first. They describe the symptom: \"water heater making popping noise\", \"AC blowing warm air\", \"how much does a roof leak repair cost\". AI tools now answer those questions directly and, when asked, suggest local companies. If your site explains the problem clearly and shows you fix it in that area, you can be both the cited source and the recommended business.</p>"
+    },
+    {
+      "heading": "Problem-and-solution pages",
+      "body_html": "<ul><li><strong>Name the symptom</strong> in the heading, the way homeowners describe it.</li><li><strong>Explain the likely causes</strong> in plain language.</li><li><strong>Say what is safe to check yourself</strong> and when to call a professional.</li><li><strong>Describe the repair</strong>: what you do, how long it takes, typical cost drivers.</li><li><strong>Link to the matching service page</strong> and booking.</li></ul><p>Honest advice, including when a repair is not worth it, builds trust with readers and gives AI tools a reliable passage to quote.</p>"
+    },
+    {
+      "heading": "Service areas and availability",
+      "body_html": "<p>Local answers depend on clear, consistent details. List the cities and neighborhoods you serve on one clear service-area page, keep your Google Business Profile service areas accurate, and state your hours and whether you offer emergency service. Schema.org's <code>HomeAndConstructionBusiness</code> type and its more specific types, such as <code>HVACBusiness</code> or <code>RoofingContractor</code>, describe your business in markup. Avoid publishing dozens of near-identical city pages; Google's spam policies treat scaled, unoriginal pages as abuse.</p>"
+    },
+    {
+      "heading": "Pricing guidance",
+      "body_html": "<p>Cost is one of the first things homeowners ask about. Explain your pricing model (call-out fee, flat rate or hourly), give typical ranges for common jobs, and list what increases cost, such as access, parts or after-hours work. A clear cost page is useful to AI answers and reduces calls from people expecting a very different price.</p>"
+    },
+    {
+      "heading": "Licensing, insurance and guarantees",
+      "body_html": "<p>Homeowners worry about letting a stranger into their home. Show your license numbers, insurance, warranty terms, background-check policy and how long you have been in business. Put the essentials on every service page, not just an About page. These are the specific, checkable facts that make a recommendation feel safe.</p>"
+    },
+    {
+      "heading": "Reviews that describe real jobs",
+      "body_html": "<p>Reviews that mention the job, the neighborhood and the technician are more persuasive to people and give AI systems more context than \"great service\". After each completed job, send a short review request and reply to every review. Never offer incentives for positive reviews or post fake ones; both violate platform rules and damage trust when discovered.</p>"
+    },
+    {
+      "heading": "Seasonal content",
+      "body_html": "<p>Home services are seasonal, and so are the questions. Publish guides ahead of each season: furnace checks before winter, AC maintenance before summer, gutter and roof checks before the rainy season. Each guide answers questions people will be asking soon, so it has time to be indexed and cited when demand peaks.</p>"
+    },
+    {
+      "heading": "How to measure results",
+      "body_html": "<p>Track calls, booked jobs and quote requests by source; AI referrals in Google Analytics; and searches for your business name. Each month, ask the major assistants who they recommend for your main services in your area. For trades, booked jobs per month is the number that matters.</p>"
+    },
+    {
+      "heading": "Common mistakes trade businesses make",
+      "body_html": "<p>Most lost visibility comes from a few habits: a single services page listing everything in one paragraph, a phone number that differs between the website and the business profile, no mention of licensing or insurance, and pages for dozens of cities with identical text. Another is collecting reviews in bursts and then stopping; a steady flow matters more than a one-time push.</p>"
+    },
+    {
+      "heading": "An example problem page outline",
+      "body_html": "<p>For \"water heater making popping noise\": open with a two-sentence answer (sediment buildup is the most common cause, and flushing the tank often fixes it). Then cover causes, what a homeowner can safely check, warning signs that need a professional, what the repair or flush involves, typical time and cost drivers, when replacement makes more sense, and a booking link. That page answers the question fully and shows you are the business to call.</p>"
+    },
+    {
+      "heading": "Where to get help",
+      "body_html": "<p>A GEO audit for a trade business asks the main AI tools who they recommend for your top jobs in your service area, then compares your listings, service pages and reviews with the businesses that appear. It checks crawler access and listing consistency and lists the problem pages worth writing first. Most of the early fixes are quick, practical changes the office team can make in an afternoon.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is GEO for home service businesses?",
+      "a": "It is making trades such as plumbers, HVAC companies, electricians and roofers easy for AI tools to find, trust and recommend when homeowners describe a problem or ask who to call."
+    },
+    {
+      "q": "Can AI tools recommend local plumbers or HVAC companies?",
+      "a": "Yes. Assistants can suggest local businesses when asked, drawing on websites, business profiles and reviews. Consistent details and helpful problem pages improve your chances."
+    },
+    {
+      "q": "Should I create a page for every city I serve?",
+      "a": "Only where you have something specific to say. A single clear service-area page plus strong service and problem pages usually works better than many thin city pages."
+    },
+    {
+      "q": "What schema should a home service business use?",
+      "a": "HomeAndConstructionBusiness or a more specific type such as HVACBusiness or RoofingContractor, with your services, hours and service area."
+    },
+    {
+      "q": "Do reviews affect AI recommendations?",
+      "a": "Reviews are a strong trust signal for local businesses. Detailed reviews that mention the job and location give both people and AI systems useful context."
+    },
+    {
+      "q": "How fast can a home service business see results?",
+      "a": "Listing and technical fixes can help within weeks. Becoming a regular recommendation usually takes three to six months of content and review building."
+    },
+    {
+      "q": "Should I show prices on my website?",
+      "a": "Showing how you price and typical ranges for common jobs helps homeowners and gives AI answers specific detail. Exact quotes can still depend on an inspection."
+    },
+    {
+      "q": "Does emergency service availability affect AI recommendations?",
+      "a": "It can. When homeowners ask for help now, clear information about emergency service and hours helps AI tools match your business to urgent requests."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "schema markup for AI search",
+      "url": "https://thechimeraai.com/schema-markup-for-ai-search/"
+    },
+    {
+      "anchor": "how to check if ChatGPT mentions your brand",
+      "url": "https://thechimeraai.com/how-to-check-if-chatgpt-mentions-your-brand/"
+    },
+    {
+      "anchor": "GEO mistakes to avoid",
+      "url": "https://thechimeraai.com/geo-mistakes-to-avoid/"
+    },
+    {
+      "anchor": "Chimera's GEO services",
+      "url": "https://thechimeraai.com/#services"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Schema.org: HomeAndConstructionBusiness",
+      "url": "https://schema.org/HomeAndConstructionBusiness"
+    },
+    {
+      "title": "Google Search Central: Local business structured data",
+      "url": "https://developers.google.com/search/docs/appearance/structured-data/local-business"
+    },
+    {
+      "title": "Google Search Central: Spam policies",
+      "url": "https://developers.google.com/search/docs/essentials/spam-policies"
+    },
+    {
+      "title": "Google Search Central: Creating helpful, reliable, people-first content",
+      "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content"
+    },
+    {
+      "title": "Google Business Profile",
+      "url": "https://www.google.com/business/"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 0,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "From broken appliance to booked job",
+      "lead": "How a homeowner's question turns into a call.",
+      "steps": [
+        {
+          "title": "Symptom",
+          "text": "The homeowner describes the problem to an AI tool."
+        },
+        {
+          "title": "Explanation",
+          "text": "The answer cites a clear problem page."
+        },
+        {
+          "title": "Recommendation",
+          "text": "Local companies that fix it are named."
+        },
+        {
+          "title": "Booking",
+          "text": "The homeowner calls the company they trust."
+        }
+      ]
+    },
+    {
+      "after": 4,
+      "type": "scorecard",
+      "eyebrow": "Scorecard",
+      "title": "What gets a trade business recommended",
+      "lead": "How strongly each helps (5 = most).",
+      "rows": [
+        {
+          "label": "Problem-based service pages",
+          "score": 5,
+          "note": "Match how homeowners ask."
+        },
+        {
+          "label": "Consistent service areas and hours",
+          "score": 5,
+          "note": "Essential for local answers."
+        },
+        {
+          "label": "License, insurance and warranty shown",
+          "score": 4,
+          "note": "Makes a recommendation feel safe."
+        },
+        {
+          "label": "Detailed job reviews",
+          "score": 4,
+          "note": "Adds context and trust."
+        },
+        {
+          "label": "Dozens of copied city pages",
+          "score": 1,
+          "note": "Risks spam policies."
+        }
+      ]
+    },
+    {
+      "after": 6,
+      "type": "timeline",
+      "eyebrow": "Timeline",
+      "title": "Your first 90 days",
+      "lead": "A simple order of work for the first three months.",
+      "items": [
+        {
+          "when": "Month 1",
+          "title": "Listings",
+          "text": "Fix service areas, hours and business details everywhere."
+        },
+        {
+          "when": "Month 2",
+          "title": "Problem pages",
+          "text": "Write pages for your ten most common jobs."
+        },
+        {
+          "when": "Month 3",
+          "title": "Reviews and seasons",
+          "text": "Systemize review requests; publish seasonal guides."
+        }
+      ]
+    }
+  ],
+  "hero_query": "Who should I call to fix my AC today?",
+  "short_title": "GEO for Home Service Businesses: Plumbers to Roofers",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 280,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/geo-for-home-services-chimera.jpg",
+    "alt": "GEO for Home Service Businesses: Plumbers to Roofers: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-06",
+  "updated": "2026-11-06"
+}

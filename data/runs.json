@@ -79,5 +79,41 @@
     "slugs": "ai-crawler-user-agents, ai-search-statistics, geo-for-dentists, geo-for-law-firms, how-ai-search-engines-choose-sources, how-long-does-geo-take, is-seo-dead, what-is-llm-seo, what-is-query-fan-out, zero-click-searches",
     "indexnow": "Sent 2026-11-06",
     "note": ""
+  },
+  {
+    "at": "2026-11-06T14:26:45Z",
+    "published": 10,
+    "failed": 0,
+    "waiting": 0,
+    "slugs": "geo-for-financial-advisors, geo-for-healthcare, geo-for-home-services, geo-for-hotels, geo-for-manufacturers, geo-for-med-spas, geo-for-multi-location-businesses, geo-for-real-estate-agents, geo-for-restaurants, geo-for-startups",
+    "indexnow": "Sent 2026-11-06",
+    "note": ""
+  },
+  {
+    "at": "2026-11-06T14:32:57Z",
+    "published": 10,
+    "failed": 0,
+    "waiting": 0,
+    "slugs": "digital-pr-for-ai-search, does-google-penalize-ai-content, eeat-for-ai-search, faq-pages-for-ai-search, how-to-get-on-best-of-lists, how-to-update-old-content-for-ai-search, how-to-write-comparison-pages, internal-linking-for-ai-search, reddit-for-ai-search, topical-authority-for-ai-search",
+    "indexnow": "Sent 2026-11-06",
+    "note": ""
+  },
+  {
+    "at": "2026-11-06T14:39:12Z",
+    "published": 10,
+    "failed": 0,
+    "waiting": 0,
+    "slugs": "ai-search-optimization-checklist, ai-share-of-voice, chatgpt-search-vs-google, geo-vs-ppc, how-chatgpt-recommends-local-businesses, how-to-find-prompts-people-ask-ai, how-to-fix-wrong-information-about-your-brand-in-chatgpt, how-to-track-ai-visibility, product-pages-for-ai-shopping, youtube-for-ai-search",
+    "indexnow": "Sent 2026-11-06",
+    "note": ""
+  },
+  {
+    "at": "2026-11-06T14:47:36Z",
+    "published": 10,
+    "failed": 0,
+    "waiting": 0,
+    "slugs": "ai-search-for-b2b-lead-generation, author-pages-for-eeat, geo-content-strategy, geo-roi, how-long-should-content-be-for-ai-search, how-to-get-a-google-knowledge-panel, how-to-optimize-for-meta-ai, local-business-schema-for-ai-search, press-releases-for-ai-search, wikipedia-and-wikidata-for-ai-search",
+    "indexnow": "Sent 2026-11-06",
+    "note": ""
   }
 ]

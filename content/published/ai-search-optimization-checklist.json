@@ -1,0 +1,321 @@
+{
+  "query": "ai search optimization checklist",
+  "slug": "ai-search-optimization-checklist",
+  "eyebrow": "Checklist",
+  "primary_keyword": "AI search optimization checklist",
+  "secondary_keywords": [
+    "GEO checklist",
+    "AI SEO checklist",
+    "generative engine optimization checklist",
+    "AI visibility checklist"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "AI Search Optimization Checklist: 40 Steps for 2026",
+    "meta_description": "AI search optimization checklist: technical access, content, structured data, brand consistency, off-site signals and measurement steps to get cited by AI."
+  },
+  "h1": "AI Search Optimization Checklist: Everything to Check, in Order",
+  "answer": "This AI search optimization checklist covers the steps that help your business get found and cited by ChatGPT, Google AI Overviews, Gemini, Perplexity and Copilot: technical access for AI crawlers, answer-first content, structured data, consistent brand details, third-party mentions and measurement. Work through it in order, because the early steps are prerequisites for the later ones.",
+  "key_takeaways": [
+    "Start with technical access: crawlers, indexing, speed.",
+    "Then make key pages answer-first and specific.",
+    "Add structured data that matches visible content.",
+    "Keep brand details consistent everywhere.",
+    "Earn mentions, then measure and repeat monthly."
+  ],
+  "sections": [
+    {
+      "heading": "How to use this checklist",
+      "body_html": "<p>Work through the sections in order. Technical problems block everything else, so fix those first. Mark each item as done, not applicable or to do, and revisit the whole list every quarter. Most items take minutes to check; fixes vary from a settings change to a content project.</p>"
+    },
+    {
+      "heading": "1. Crawler access",
+      "body_html": "<ul><li>robots.txt allows OAI-SearchBot, ChatGPT-User, PerplexityBot, Perplexity-User, Claude-SearchBot, Claude-User, Googlebot and Bingbot.</li><li>Your firewall or CDN does not block AI search bots.</li><li>Important content is in the HTML, not only loaded by scripts.</li><li>No accidental noindex tags on pages you want found.</li><li>A decision is made, on purpose, about training bots such as GPTBot, ClaudeBot and Google-Extended.</li></ul>"
+    },
+    {
+      "heading": "2. Indexing and discovery",
+      "body_html": "<ul><li>XML sitemap submitted in Google Search Console and Bing Webmaster Tools.</li><li>IndexNow set up where your platform supports it.</li><li>Key pages indexed in both Google and Bing.</li><li>No orphan pages: every important page is linked from another page.</li><li>An llms.txt file listing your most important pages (optional but quick).</li></ul>"
+    },
+    {
+      "heading": "3. Page experience",
+      "body_html": "<ul><li>Pages load quickly on mobile.</li><li>Content is readable without pop-ups covering it.</li><li>HTTPS everywhere.</li><li>Clean, descriptive URLs.</li></ul>"
+    },
+    {
+      "heading": "4. Answer-first content",
+      "body_html": "<ul><li>Each key page opens with a 40 to 60 word direct answer.</li><li>Headings are phrased as the questions buyers ask.</li><li>Each section answers in its first two or three sentences.</li><li>Lists for steps, tables for comparisons.</li><li>An FAQ with five to eight real follow-up questions.</li><li>Pages say who the offer is and is not for.</li></ul>"
+    },
+    {
+      "heading": "5. Facts and trust",
+      "body_html": "<ul><li>Every statistic has a source and a date.</li><li>Prices or price ranges are stated where possible.</li><li>Authors and reviewers are named with credentials.</li><li>First-hand examples and real results, shared with permission.</li><li>Business name, address, phone and contact details are easy to find.</li><li>Outdated pages are updated, merged or redirected.</li></ul>"
+    },
+    {
+      "heading": "6. Structured data",
+      "body_html": "<ul><li>Organization markup with official name, logo and profiles.</li><li>LocalBusiness or a more specific type for physical locations.</li><li>Article markup with author for guides.</li><li>Product markup for products, following Google's documentation.</li><li>All markup matches what is visible on the page.</li></ul>"
+    },
+    {
+      "heading": "7. Brand consistency",
+      "body_html": "<ul><li>One plain-language description of what you do, used everywhere.</li><li>Identical name, address and phone across website, Google Business Profile, Bing Places and directories.</li><li>Social and directory profiles complete and current.</li><li>Leadership names and titles consistent.</li></ul>"
+    },
+    {
+      "heading": "8. Off-site signals",
+      "body_html": "<ul><li>Genuine reviews on the platforms your buyers use, with replies.</li><li>Listings on relevant industry directories.</li><li>Inclusion in credible roundups and best-of lists.</li><li>Press or trade coverage, earned through data or expertise.</li><li>Helpful participation in communities where buyers ask questions.</li></ul>"
+    },
+    {
+      "heading": "9. Measurement",
+      "body_html": "<ul><li>AI referrals tracked in Google Analytics (chatgpt.com, perplexity.ai, gemini.google.com, claude.ai, copilot.microsoft.com).</li><li>A fixed set of buyer questions checked monthly in each assistant.</li><li>Search Console impressions for question-style queries.</li><li>Branded search volume tracked over time.</li><li>Leads recorded by source and landing page.</li></ul>"
+    },
+    {
+      "heading": "10. Routine",
+      "body_html": "<ul><li>Monthly: answer checks, referral review, fix any wrong information.</li><li>Quarterly: rerun this checklist, update key pages, review crawler rules.</li><li>Whenever something changes: update listings and pages on the same day.</li></ul>"
+    },
+    {
+      "heading": "What to do first if you only have an hour",
+      "body_html": "<p>Check robots.txt and your firewall for blocked AI search bots, confirm your sitemap is submitted to Google and Bing, rewrite the opening paragraph of your most important service page as a direct answer, and make sure your Google Business Profile details match your website exactly. Those four steps remove the most common blockers.</p>"
+    },
+    {
+      "heading": "A worked example",
+      "body_html": "<p>A small Orange County accounting firm runs the checklist. Section 1 reveals that its hosting firewall blocks unknown bots, including OAI-SearchBot and PerplexityBot, so the firm asks its host to allow verified AI search crawlers. Section 2 shows the site was never submitted to Bing Webmaster Tools. Section 4 finds the services page opens with a paragraph about the firm's history rather than what it does. Section 7 shows two directories still list a suite number from a previous office. Each fix takes under an hour, and together they remove the main reasons the firm was absent from AI answers.</p>"
+    },
+    {
+      "heading": "Who owns each section",
+      "body_html": "<p>Assign an owner to each part of the checklist: a developer or host for crawler access and page experience, a marketer for content and structured data, an operations person for listings and brand details, and whoever handles customer feedback for reviews. Shared ownership is the most common reason checklist items stay unfinished for months.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Let the AI search bots in, get indexed in Google and Bing, put a direct answer at the top of every important page, back up your claims, describe your business the same way everywhere, earn genuine reviews and mentions, and check what the assistants say every month. Everything else on this checklist supports one of those seven habits.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is an AI search optimization checklist?",
+      "a": "A list of the technical, content, structured data, brand and measurement steps that help a business get found and cited by AI tools like ChatGPT, Google AI Overviews and Perplexity."
+    },
+    {
+      "q": "What should I check first?",
+      "a": "Crawler access and indexing. If AI search bots cannot reach your pages, nothing else on the checklist will matter."
+    },
+    {
+      "q": "Which AI bots should robots.txt allow?",
+      "a": "At minimum the search and user-fetch bots: OAI-SearchBot, ChatGPT-User, PerplexityBot, Perplexity-User, Claude-SearchBot, Claude-User, Googlebot and Bingbot."
+    },
+    {
+      "q": "Do I need an llms.txt file?",
+      "a": "It is optional. It is quick to add and can help AI tools find your key pages, but crawler access and clear content matter more."
+    },
+    {
+      "q": "How often should I go through the checklist?",
+      "a": "Run the full checklist quarterly and the measurement steps monthly."
+    },
+    {
+      "q": "Does structured data help AI search?",
+      "a": "It helps machines understand your business and pages when it matches visible content. It does not replace clear, useful answers."
+    },
+    {
+      "q": "How do I measure AI search optimization?",
+      "a": "Track AI referrals in analytics, check a fixed set of buyer questions monthly, and watch Search Console impressions, branded search and leads."
+    },
+    {
+      "q": "Can I do this myself?",
+      "a": "Many items are quick to check yourself. Content and off-site work take more time, which is where outside help is often useful."
+    },
+    {
+      "q": "Is this checklist different from an SEO checklist?",
+      "a": "It overlaps heavily, because AI search relies on crawling and indexing. It adds AI crawler access, answer-first content, brand consistency and AI answer checks."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "robots.txt for AI crawlers",
+      "url": "https://thechimeraai.com/robots-txt-for-ai-crawlers/"
+    },
+    {
+      "anchor": "schema markup for AI search",
+      "url": "https://thechimeraai.com/schema-markup-for-ai-search/"
+    },
+    {
+      "anchor": "llms.txt best practices",
+      "url": "https://thechimeraai.com/best-practices-for-llms-txt/"
+    },
+    {
+      "anchor": "how to track AI traffic in Google Analytics",
+      "url": "https://thechimeraai.com/how-to-track-ai-traffic-in-google-analytics/"
+    },
+    {
+      "anchor": "Chimera's GEO services",
+      "url": "https://thechimeraai.com/#services"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "OpenAI: Overview of OpenAI crawlers",
+      "url": "https://platform.openai.com/docs/bots"
+    },
+    {
+      "title": "Perplexity: Perplexity crawlers",
+      "url": "https://docs.perplexity.ai/guides/bots"
+    },
+    {
+      "title": "Anthropic: Does Anthropic crawl data from the web, and how can site owners block the crawler?",
+      "url": "https://support.anthropic.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler"
+    },
+    {
+      "title": "Google Search Central: Google's common crawlers (including Google-Extended)",
+      "url": "https://developers.google.com/search/docs/crawling-indexing/google-common-crawlers"
+    },
+    {
+      "title": "IndexNow: how it works",
+      "url": "https://www.indexnow.org/"
+    },
+    {
+      "title": "Google Search Central: Introduction to structured data",
+      "url": "https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data"
+    },
+    {
+      "title": "Google Search Central: Organization structured data",
+      "url": "https://developers.google.com/search/docs/appearance/structured-data/organization"
+    },
+    {
+      "title": "Google Search Central: Creating helpful, reliable, people-first content",
+      "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 1,
+      "type": "matrix",
+      "eyebrow": "Crawler access",
+      "title": "Which crawler each AI platform uses",
+      "lead": "Allow these in robots.txt and your firewall, or that platform cannot read your pages for its answers.",
+      "columns": [
+        "chatgpt",
+        "perplexity",
+        "google",
+        "claude",
+        "copilot"
+      ],
+      "rows": [
+        {
+          "label": "Crawler for search answers",
+          "cells": [
+            "OAI-SearchBot",
+            "PerplexityBot",
+            "Googlebot",
+            "Claude-SearchBot",
+            "Bingbot"
+          ]
+        },
+        {
+          "label": "Fetches pages on a user's request",
+          "cells": [
+            "ChatGPT-User",
+            "Perplexity-User",
+            "Googlebot",
+            "Claude-User",
+            "Bingbot"
+          ]
+        },
+        {
+          "label": "Separate training crawler you can block",
+          "cells": [
+            "Yes: GPTBot",
+            "Not used for training",
+            "Yes: Google-Extended",
+            "Yes: ClaudeBot",
+            "No separate bot"
+          ]
+        }
+      ],
+      "source": {
+        "title": "OpenAI, Perplexity, Google and Anthropic crawler documentation",
+        "url": "https://platform.openai.com/docs/bots",
+        "note": "Check each platform's docs for changes"
+      }
+    },
+    {
+      "after": 3,
+      "type": "timeline",
+      "eyebrow": "Timeline",
+      "title": "The checklist in order",
+      "lead": "Each stage depends on the one before.",
+      "items": [
+        {
+          "when": "Step 1",
+          "title": "Access",
+          "text": "Crawlers, indexing and page experience."
+        },
+        {
+          "when": "Step 2",
+          "title": "Content",
+          "text": "Answer-first pages with sourced facts."
+        },
+        {
+          "when": "Step 3",
+          "title": "Signals",
+          "text": "Structured data, consistency and mentions."
+        },
+        {
+          "when": "Step 4",
+          "title": "Measure",
+          "text": "Monthly checks and quarterly reviews."
+        }
+      ]
+    },
+    {
+      "after": 10,
+      "type": "scorecard",
+      "eyebrow": "Scorecard",
+      "title": "The highest-impact items",
+      "lead": "How much each helps (5 = most).",
+      "rows": [
+        {
+          "label": "AI search bots allowed",
+          "score": 5,
+          "note": "Nothing works without access."
+        },
+        {
+          "label": "Direct answer on key pages",
+          "score": 5,
+          "note": "The passage AI quotes."
+        },
+        {
+          "label": "Consistent business details",
+          "score": 5,
+          "note": "Prevents wrong answers."
+        },
+        {
+          "label": "Genuine reviews and mentions",
+          "score": 4,
+          "note": "Corroboration."
+        },
+        {
+          "label": "Monthly answer checks",
+          "score": 4,
+          "note": "Shows what is working."
+        }
+      ]
+    }
+  ],
+  "hero_query": "What should I check to show up in AI search?",
+  "short_title": "AI Search Optimization Checklist: 40 Steps for 2026",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 318,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/ai-search-optimization-checklist-chimera.jpg",
+    "alt": "AI Search Optimization Checklist: 40 Steps for 2026: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-06",
+  "updated": "2026-11-06"
+}

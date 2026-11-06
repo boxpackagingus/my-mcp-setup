@@ -66,12 +66,17 @@ def run(cfg):
     }]
 
     ga = {r["date"]: r for r in summary.get("ga_daily", [])}
+    # One row per day for the last 28 days, with zeros where Google has nothing yet.
+    gsc = {r["date"]: r for r in summary.get("gsc_daily", [])}
     daily = []
-    for r in summary.get("gsc_daily", []):
-        d = r["date"]
-        g = ga.get(d.replace("-", ""), ga.get(d, {}))
-        daily.append({"day": d, "impressions": r["impressions"], "clicks": r["clicks"],
-                      "visits": g.get("sessions")})
+    if google:
+        from datetime import date, timedelta
+        end = date.today() - timedelta(days=1)
+        for i in range(27, -1, -1):
+            d = (end - timedelta(days=i)).isoformat()
+            r, g = gsc.get(d, {}), ga.get(d.replace("-", ""), ga.get(d, {}))
+            daily.append({"day": d, "impressions": int(r.get("impressions", 0)), "clicks": int(r.get("clicks", 0)),
+                          "visits": int(g.get("sessions", 0) or 0)})
 
     done = {p["slug"] for p in pages} | {p["query"].lower() for p in pages}
     queue = [c for c in queue if c.get("slug") not in done and c["query"].lower() not in done]

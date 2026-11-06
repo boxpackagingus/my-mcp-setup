@@ -17,10 +17,10 @@
     },
     {
       "date": "2026-11-06",
-      "pages_total": 31,
-      "pages_indexed": 0,
+      "pages_total": 81,
+      "pages_indexed": 1,
       "clicks_28d": 0,
-      "impressions_28d": 0,
+      "impressions_28d": 1,
       "engine_clicks_28d": 0,
       "sessions_28d": 8.0,
       "ai_sessions_28d": 0,
@@ -33,10 +33,10 @@
   ],
   "latest": {
     "date": "2026-11-06",
-    "pages_total": 31,
-    "pages_indexed": 0,
+    "pages_total": 81,
+    "pages_indexed": 1,
     "clicks_28d": 0,
-    "impressions_28d": 0,
+    "impressions_28d": 1,
     "engine_clicks_28d": 0,
     "sessions_28d": 8.0,
     "ai_sessions_28d": 0,
@@ -46,7 +46,15 @@
     "source": "Site Kit",
     "engine_leads_28d": 0
   },
-  "gsc_daily": [],
+  "gsc_daily": [
+    {
+      "date": "2026-11-05",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    }
+  ],
   "ga_daily": [
     {
       "date": "20261009",

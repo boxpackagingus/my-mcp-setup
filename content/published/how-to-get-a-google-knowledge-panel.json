@@ -1,0 +1,242 @@
+{
+  "query": "how to get a google knowledge panel",
+  "slug": "how-to-get-a-google-knowledge-panel",
+  "eyebrow": "Brand entity",
+  "primary_keyword": "Google knowledge panel",
+  "secondary_keywords": [
+    "knowledge panel",
+    "Google Knowledge Graph",
+    "claim knowledge panel",
+    "brand entity"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "How to Get a Google Knowledge Panel for Your Business",
+    "meta_description": "How to get a Google knowledge panel: how panels are generated, the signals that help, claiming and verifying, suggesting edits, and why it matters for AI."
+  },
+  "h1": "How to Get a Google Knowledge Panel (and Why It Helps in AI Search)",
+  "answer": "You cannot apply for a Google knowledge panel: Google generates panels automatically for entities in its Knowledge Graph, using information from across the web. To get a Google knowledge panel, make your business a clear, well-documented entity: a consistent name and description everywhere, Organization structured data, official profiles, and coverage on independent, reliable sites. Once a panel appears, you can claim it.",
+  "key_takeaways": [
+    "Knowledge panels are generated automatically from web sources.",
+    "You cannot request one, but you can make your entity clear.",
+    "Organization structured data and consistent profiles help.",
+    "Independent coverage makes an entity well documented.",
+    "Once it exists, claim it and suggest edits."
+  ],
+  "sections": [
+    {
+      "heading": "What a knowledge panel is",
+      "body_html": "<p>A knowledge panel is the information box that appears in Google Search for people, places, organizations and things that are in Google's Knowledge Graph. Google's help explains that panels are meant to give a quick snapshot of a topic based on Google's understanding of available content on the web, and that they are automatically generated from various sources. For businesses, a panel typically shows the name, logo, description, website, social profiles and key facts.</p><p>Note that this is different from a Google Business Profile, which local businesses create and manage directly for Maps and local results.</p>"
+    },
+    {
+      "heading": "Why it matters for AI search",
+      "body_html": "<p>A knowledge panel is a visible sign that Google recognizes your business as a distinct entity with known facts. The same understanding helps Google's AI features describe you correctly, and AI tools generally do better with businesses that are documented consistently across the web. An entity that is clearly defined is less likely to be confused with a similar name or described with wrong details.</p>"
+    },
+    {
+      "heading": "Step 1: define your entity",
+      "body_html": "<p>Decide exactly how your business should be described: official name, one-sentence description, founding date, location, leaders and what you do. Use the same wording on your homepage, About page, social profiles, directories and press materials. Inconsistency is the most common reason an entity stays unclear.</p>"
+    },
+    {
+      "heading": "Step 2: add Organization structured data",
+      "body_html": "<p>Google's Organization structured data documentation explains that markup can help Google understand your organization's administrative details and disambiguate it in search results, and that some properties can influence visual elements such as which logo appears in results and in your knowledge panel. Add Organization markup to your homepage with your official name, URL, logo, contact details and a sameAs list of your official profiles.</p>"
+    },
+    {
+      "heading": "Step 3: build official profiles",
+      "body_html": "<ul><li>LinkedIn company page.</li><li>Main social profiles you actually use.</li><li>Industry directories and associations.</li><li>Google Business Profile, if you serve customers locally.</li><li>Crunchbase or similar business databases, where relevant.</li></ul><p>Keep each profile complete and consistent, and link to them from your website.</p>"
+    },
+    {
+      "heading": "Step 4: earn independent coverage",
+      "body_html": "<p>Google's help notes that panel information comes from various sources across the web. Coverage in reliable, independent sources, such as news articles, industry publications and reputable directories, documents your business beyond your own claims. This is the slowest step and the one most within reach of genuine PR work: original data, expert commentary and newsworthy activity.</p>"
+    },
+    {
+      "heading": "Step 5: consider Wikidata carefully",
+      "body_html": "<p>Wikidata is a free, collaborative knowledge base of structured data that many systems draw on. Some businesses meet its criteria and have entries. If you edit there, follow its rules, add only verifiable facts with references, and avoid promotional content. Do not create entries that do not meet the project's standards; they are likely to be removed.</p>"
+    },
+    {
+      "heading": "Claiming your knowledge panel",
+      "body_html": "<p>When a panel appears for your business, Google's help explains that if you are the subject or an official representative, you can claim the panel and suggest changes after getting verified. People who are not official representatives can use the feedback link on a panel to suggest edits for review. Claiming lets you suggest corrections and, in some cases, choose a featured image.</p>"
+    },
+    {
+      "heading": "What you cannot do",
+      "body_html": "<p>You cannot pay for a knowledge panel, write its contents directly or force one to appear. Google decides what to show based on its understanding of the web. Services promising guaranteed panels should be treated with caution, especially if they involve creating fake coverage or low-quality profiles.</p>"
+    },
+    {
+      "heading": "How long it takes",
+      "body_html": "<p>There is no fixed timeline. Well-known businesses may already have panels. For smaller businesses, it can take months of consistent profiles and independent coverage before Google shows one, and some never do. The work is still worthwhile, because the same clarity helps AI tools describe you accurately whether or not a panel appears.</p>"
+    },
+    {
+      "heading": "A checklist",
+      "body_html": "<ol><li>One official name and description, used everywhere.</li><li>Organization structured data with logo and sameAs links.</li><li>Complete, consistent official profiles.</li><li>Independent coverage in reliable sources.</li><li>Accurate Wikidata entry only if you genuinely qualify.</li><li>Claim and maintain the panel once it appears.</li></ol>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Knowledge panels are earned by being a clear, consistent and well-documented entity. Describe your business the same way everywhere, mark it up properly, build official profiles, earn independent coverage and claim the panel when it appears.</p>"
+    },
+    {
+      "heading": "Knowledge panels for people",
+      "body_html": "<p>Founders and experts can also have knowledge panels. The same principles apply: a consistent name and professional description, an author or profile page on the company site, complete professional profiles, and independent coverage such as interviews, conference talks and published articles. A recognized founder can strengthen how AI tools describe the company too.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I create a Google knowledge panel for my business?",
+      "a": "No. Google generates knowledge panels automatically for entities in its Knowledge Graph. You can make your business easier to recognize and claim the panel once it appears."
+    },
+    {
+      "q": "What is the difference between a knowledge panel and a Google Business Profile?",
+      "a": "A Google Business Profile is a listing local businesses create and manage for Maps and local results. A knowledge panel is generated by Google for entities it recognizes."
+    },
+    {
+      "q": "How do I claim my knowledge panel?",
+      "a": "Google's help explains that official representatives can claim a panel after getting verified, then suggest changes."
+    },
+    {
+      "q": "Does structured data help get a knowledge panel?",
+      "a": "Organization structured data helps Google understand and disambiguate your organization and can influence elements such as the logo shown in your panel."
+    },
+    {
+      "q": "Do I need a Wikipedia page for a knowledge panel?",
+      "a": "Not necessarily. Panels draw on many sources. Wikipedia has strict notability and conflict-of-interest rules, so most businesses should focus on consistent profiles and independent coverage."
+    },
+    {
+      "q": "How long does it take to get a knowledge panel?",
+      "a": "There is no fixed timeline. It can take months of consistent signals, and some smaller businesses never get one."
+    },
+    {
+      "q": "Can I edit my knowledge panel?",
+      "a": "Once claimed, you can suggest edits. Non-representatives can use the feedback link to suggest changes for review."
+    },
+    {
+      "q": "Does a knowledge panel help in AI search?",
+      "a": "It reflects that Google recognizes your business as an entity with known facts, which supports accurate descriptions in AI features."
+    },
+    {
+      "q": "Does a Google Business Profile create a knowledge panel?",
+      "a": "A Google Business Profile powers local results and Maps. A knowledge panel is a separate feature Google generates for entities it recognizes."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "entity SEO for AI search",
+      "url": "https://thechimeraai.com/entity-seo-for-ai-search/"
+    },
+    {
+      "anchor": "schema markup for AI search",
+      "url": "https://thechimeraai.com/schema-markup-for-ai-search/"
+    },
+    {
+      "anchor": "Wikipedia and Wikidata for AI search",
+      "url": "https://thechimeraai.com/wikipedia-and-wikidata-for-ai-search/"
+    },
+    {
+      "anchor": "how to fix wrong information about your brand in ChatGPT",
+      "url": "https://thechimeraai.com/how-to-fix-wrong-information-about-your-brand-in-chatgpt/"
+    },
+    {
+      "anchor": "Chimera's GEO services",
+      "url": "https://thechimeraai.com/#services"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Knowledge Panel Help: About knowledge panels",
+      "url": "https://support.google.com/knowledgepanel/answer/9163198"
+    },
+    {
+      "title": "Google Search Central: Organization structured data",
+      "url": "https://developers.google.com/search/docs/appearance/structured-data/organization"
+    },
+    {
+      "title": "Wikidata: Introduction",
+      "url": "https://www.wikidata.org/wiki/Wikidata:Introduction"
+    },
+    {
+      "title": "Google Search Central: Creating helpful, reliable, people-first content",
+      "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 0,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "How an entity becomes a knowledge panel",
+      "lead": "Google builds panels from what the web says.",
+      "steps": [
+        {
+          "title": "Define",
+          "text": "One consistent name and description."
+        },
+        {
+          "title": "Mark up",
+          "text": "Organization structured data with official profiles."
+        },
+        {
+          "title": "Corroborate",
+          "text": "Independent, reliable coverage."
+        },
+        {
+          "title": "Panel",
+          "text": "Google recognizes the entity; you claim it."
+        }
+      ]
+    },
+    {
+      "after": 6,
+      "type": "scorecard",
+      "eyebrow": "Scorecard",
+      "title": "What helps Google recognize your business",
+      "lead": "How much each helps (5 = most).",
+      "rows": [
+        {
+          "label": "Consistent name and description",
+          "score": 5,
+          "note": "Removes ambiguity."
+        },
+        {
+          "label": "Organization structured data",
+          "score": 4,
+          "note": "Helps disambiguation and logo."
+        },
+        {
+          "label": "Independent coverage",
+          "score": 5,
+          "note": "Documents the entity beyond your claims."
+        },
+        {
+          "label": "Complete official profiles",
+          "score": 4,
+          "note": "More consistent sources."
+        },
+        {
+          "label": "Paid guaranteed-panel services",
+          "score": 1,
+          "note": "Treat with caution."
+        }
+      ]
+    }
+  ],
+  "hero_query": "How do I get a Google knowledge panel for my company?",
+  "short_title": "How to Get a Google Knowledge Panel for Your Business",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 343,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/how-to-get-a-google-knowledge-panel-chimera.jpg",
+    "alt": "How to Get a Google Knowledge Panel for Your Business: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-06",
+  "updated": "2026-11-06"
+}
