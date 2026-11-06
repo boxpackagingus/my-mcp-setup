@@ -258,5 +258,13 @@
     "height": 840
   },
   "published": "2026-11-06",
-  "updated": "2026-11-06"
+  "updated": "2026-11-06",
+  "photo": {
+    "id": 382,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/topical-authority-for-ai-search-photo.jpg",
+    "alt": "Strategist arranging index cards into connected topic clusters",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
 }

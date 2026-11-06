@@ -262,5 +262,13 @@
     "height": 840
   },
   "published": "2026-11-06",
-  "updated": "2026-11-06"
+  "updated": "2026-11-06",
+  "photo": {
+    "id": 402,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/how-long-should-content-be-for-ai-search-photo.jpg",
+    "alt": "Editor trimming a long paper manuscript with scissors",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
 }

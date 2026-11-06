@@ -274,5 +274,13 @@
     "height": 840
   },
   "published": "2026-11-06",
-  "updated": "2026-11-06"
+  "updated": "2026-11-06",
+  "photo": {
+    "id": 405,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/ai-search-for-b2b-lead-generation-photo.jpg",
+    "alt": "Buying committee reviewing vendor proposals in a glass meeting room",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
 }

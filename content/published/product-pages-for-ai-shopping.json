@@ -257,5 +257,13 @@
     "height": 840
   },
   "published": "2026-11-06",
-  "updated": "2026-11-06"
+  "updated": "2026-11-06",
+  "photo": {
+    "id": 396,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/product-pages-for-ai-shopping-photo.jpg",
+    "alt": "Shopper browsing products on a tablet with hiking boots nearby",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
 }

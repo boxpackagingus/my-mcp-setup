@@ -299,5 +299,13 @@
     "height": 840
   },
   "published": "2026-11-06",
-  "updated": "2026-11-06"
+  "updated": "2026-11-06",
+  "photo": {
+    "id": 390,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/chatgpt-search-vs-google-photo.jpg",
+    "alt": "Person comparing a search results layout and a chat layout on two laptops",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
 }

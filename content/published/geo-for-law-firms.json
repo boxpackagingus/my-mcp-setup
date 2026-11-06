@@ -257,5 +257,13 @@
     "height": 840
   },
   "published": "2026-11-06",
-  "updated": "2026-11-06"
+  "updated": "2026-11-06",
+  "photo": {
+    "id": 365,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/geo-for-law-firms-photo.jpg",
+    "alt": "Attorney reviewing a laptop with a client in a law office",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
 }

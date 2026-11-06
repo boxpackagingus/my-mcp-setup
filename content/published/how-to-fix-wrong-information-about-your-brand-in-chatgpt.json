@@ -254,5 +254,13 @@
     "height": 840
   },
   "published": "2026-11-06",
-  "updated": "2026-11-06"
+  "updated": "2026-11-06",
+  "photo": {
+    "id": 389,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/how-to-fix-wrong-information-about-your-brand-in-chatgpt-photo.jpg",
+    "alt": "Business owner correcting a printed company profile with a pen",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
 }

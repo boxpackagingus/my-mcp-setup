@@ -267,5 +267,13 @@
     "height": 840
   },
   "published": "2026-11-06",
-  "updated": "2026-11-06"
+  "updated": "2026-11-06",
+  "photo": {
+    "id": 373,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/geo-for-restaurants-photo.jpg",
+    "alt": "Server bringing pasta to diners in a candlelit neighborhood restaurant",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
 }

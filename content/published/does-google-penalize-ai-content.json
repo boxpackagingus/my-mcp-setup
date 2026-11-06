@@ -237,5 +237,13 @@
     "height": 840
   },
   "published": "2026-11-06",
-  "updated": "2026-11-06"
+  "updated": "2026-11-06",
+  "photo": {
+    "id": 384,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/does-google-penalize-ai-content-photo.jpg",
+    "alt": "Writer editing a printed draft beside a glowing AI assistant shape",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
 }

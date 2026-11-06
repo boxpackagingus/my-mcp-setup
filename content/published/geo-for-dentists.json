@@ -254,5 +254,13 @@
     "height": 840
   },
   "published": "2026-11-06",
-  "updated": "2026-11-06"
+  "updated": "2026-11-06",
+  "photo": {
+    "id": 366,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/geo-for-dentists-photo.jpg",
+    "alt": "Dentist talking with a smiling patient in a modern clinic",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
 }

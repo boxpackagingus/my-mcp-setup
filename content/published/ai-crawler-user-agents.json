@@ -261,5 +261,13 @@
     "height": 840
   },
   "published": "2026-11-06",
-  "updated": "2026-11-06"
+  "updated": "2026-11-06",
+  "photo": {
+    "id": 364,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/ai-crawler-user-agents-photo.jpg",
+    "alt": "Engineer checking small robot figures through a glowing gateway in a server room",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
 }

@@ -282,5 +282,13 @@
     "height": 840
   },
   "published": "2026-11-06",
-  "updated": "2026-11-06"
+  "updated": "2026-11-06",
+  "photo": {
+    "id": 368,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/geo-for-med-spas-photo.jpg",
+    "alt": "Clinician consulting with a client in an elegant med spa room",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
 }

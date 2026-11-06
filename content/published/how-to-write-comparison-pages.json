@@ -238,5 +238,13 @@
     "height": 840
   },
   "published": "2026-11-06",
-  "updated": "2026-11-06"
+  "updated": "2026-11-06",
+  "photo": {
+    "id": 386,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/how-to-write-comparison-pages-photo.jpg",
+    "alt": "Person weighing two products side by side",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
 }

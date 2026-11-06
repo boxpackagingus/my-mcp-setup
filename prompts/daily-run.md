@@ -66,7 +66,7 @@ Rules for every page:
 python -m engine heroes      # renders and uploads a hero image for each draft
 ```
 
-Then try one Kittl photo per page (Kittl tool `kittl-generate-media`, model `cmkwr4rin0s11df0iqwaibffd`, workspace `cmw3ss0u90wf20j8zh8ygbry6`, 16:9, editorial style: "navy and violet tones with golden accents, realistic, no readable text, no logos"). Download from cache.kittl.com, blur any garbled text, upload to WordPress media, and set `photo` in the draft (see `content/build/photos.json` for the shape). If Kittl is out of credits, publish without the photo and say so in the report.
+Then try one Kittl photo per page (Kittl tool `kittl-generate-media`, model `cmkwr4rin0s11df0iqwaibffd`, workspace `cmw3ss0u90wf20j8zh8ygbry6`, 16:9, editorial style: "navy and violet tones with golden accents, realistic, no readable text, no logos"). Download from cache.kittl.com, blur any garbled text, upload to WordPress media, and set `photo` in the draft (see `content/build/photos.json` for the shape). If Kittl is out of credits, use Figma instead: `generate_image` in file `Xz8xqIbMRL3u73rhaSJwXj` (model `gemini-3.1-flash-lite-image`, 1536×864, same style prompt), download `image.url` from www.figma.com, and use the caption "Illustrative image created for Chimera with Figma AI". Canva's generate-image only returns a small preview, so it is not usable for page photos. Check every image for logos or garbled text and blur them before upload.
 
 ## 7. Quality gate, then publish
 

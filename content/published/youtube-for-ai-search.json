@@ -266,5 +266,13 @@
     "height": 840
   },
   "published": "2026-11-06",
-  "updated": "2026-11-06"
+  "updated": "2026-11-06",
+  "photo": {
+    "id": 395,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/youtube-for-ai-search-photo.jpg",
+    "alt": "Presenter recording a video in a small home studio",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
 }

@@ -268,5 +268,13 @@
     "height": 840
   },
   "published": "2026-11-06",
-  "updated": "2026-11-06"
+  "updated": "2026-11-06",
+  "photo": {
+    "id": 363,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/how-ai-search-engines-choose-sources-photo.jpg",
+    "alt": "Researcher selecting documents from stacks of papers in a library",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
 }

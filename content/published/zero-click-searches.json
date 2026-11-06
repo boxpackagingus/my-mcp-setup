@@ -259,5 +259,13 @@
     "height": 840
   },
   "published": "2026-11-06",
-  "updated": "2026-11-06"
+  "updated": "2026-11-06",
+  "photo": {
+    "id": 360,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/zero-click-searches-photo.jpg",
+    "alt": "Person on a sofa reading an answer on a smartphone in the evening",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
 }

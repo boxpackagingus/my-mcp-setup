@@ -242,5 +242,13 @@
     "height": 840
   },
   "published": "2026-11-06",
-  "updated": "2026-11-06"
+  "updated": "2026-11-06",
+  "photo": {
+    "id": 385,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/how-to-update-old-content-for-ai-search-photo.jpg",
+    "alt": "Hands replacing old yellowed pages with fresh ones in a binder",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
 }

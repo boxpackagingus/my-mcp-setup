@@ -60,8 +60,8 @@ None. All passed the quality gate. Bing notified via IndexNow after each batch o
 - Google: 1 page confirmed in search (schema-markup-for-ai-search, 1 impression on Nov 5). 8 visits in 28 days. 1 form lead.
 
 ## Needs a human
-- Kittl is out of credits, so today's 50 pages have hero images and charts but no Kittl photo.
-- Submit https://thechimeraai.com/wp-sitemap.xml in Search Console (Sitemaps) so Google crawls the new pages sooner.
+- Photos: Kittl was out of credits, so all 50 pages got Figma AI photos instead (added and republished the same day).
+- Sitemap submitted in Search Console by the owner on 2026-11-06.
 - Exact index status per page needs Search Console's URL Inspection, which Site Kit does not provide. Until then, a page counts as indexed once it earns an impression.
 
 ## 50-page plan

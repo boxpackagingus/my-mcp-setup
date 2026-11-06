@@ -257,5 +257,13 @@
     "height": 840
   },
   "published": "2026-11-06",
-  "updated": "2026-11-06"
+  "updated": "2026-11-06",
+  "photo": {
+    "id": 387,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/faq-pages-for-ai-search-photo.jpg",
+    "alt": "Support specialist with a headset answering customer questions",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
 }

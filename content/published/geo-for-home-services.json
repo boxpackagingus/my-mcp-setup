@@ -254,5 +254,13 @@
     "height": 840
   },
   "published": "2026-11-06",
-  "updated": "2026-11-06"
+  "updated": "2026-11-06",
+  "photo": {
+    "id": 370,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/geo-for-home-services-photo.jpg",
+    "alt": "HVAC technician checking an outdoor air conditioning unit with a homeowner",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
 }

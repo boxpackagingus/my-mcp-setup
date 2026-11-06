@@ -266,5 +266,13 @@
     "height": 840
   },
   "published": "2026-11-06",
-  "updated": "2026-11-06"
+  "updated": "2026-11-06",
+  "photo": {
+    "id": 372,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/geo-for-financial-advisors-photo.jpg",
+    "alt": "Financial advisor reviewing plans with a couple at a round table",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
 }

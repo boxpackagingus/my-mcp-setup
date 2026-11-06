@@ -266,5 +266,13 @@
     "height": 840
   },
   "published": "2026-11-06",
-  "updated": "2026-11-06"
+  "updated": "2026-11-06",
+  "photo": {
+    "id": 393,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/how-to-find-prompts-people-ask-ai-photo.jpg",
+    "alt": "Woman with a headset taking notes during a customer video call",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
 }

@@ -230,5 +230,13 @@
     "height": 840
   },
   "published": "2026-11-06",
-  "updated": "2026-11-06"
+  "updated": "2026-11-06",
+  "photo": {
+    "id": 367,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/how-long-does-geo-take-photo.jpg",
+    "alt": "Hourglass and plant beside a laptop showing a rising growth line",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
 }

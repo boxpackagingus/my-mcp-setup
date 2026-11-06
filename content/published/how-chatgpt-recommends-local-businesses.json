@@ -271,5 +271,13 @@
     "height": 840
   },
   "published": "2026-11-06",
-  "updated": "2026-11-06"
+  "updated": "2026-11-06",
+  "photo": {
+    "id": 397,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/how-chatgpt-recommends-local-businesses-photo.jpg",
+    "alt": "Small business owner opening a shop on a sunny California street",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
 }

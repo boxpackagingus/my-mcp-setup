@@ -270,5 +270,13 @@
     "height": 840
   },
   "published": "2026-11-06",
-  "updated": "2026-11-06"
+  "updated": "2026-11-06",
+  "photo": {
+    "id": 407,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/geo-content-strategy-photo.jpg",
+    "alt": "Content team planning on a wall calendar covered in sticky notes",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
 }

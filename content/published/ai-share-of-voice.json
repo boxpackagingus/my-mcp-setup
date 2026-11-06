@@ -259,5 +259,13 @@
     "height": 840
   },
   "published": "2026-11-06",
-  "updated": "2026-11-06"
+  "updated": "2026-11-06",
+  "photo": {
+    "id": 388,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/ai-share-of-voice-photo.jpg",
+    "alt": "Magnifying glass on a laptop beside a notebook with a pie chart",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
 }
