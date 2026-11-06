@@ -1,0 +1,272 @@
+{
+  "query": "how do ai search engines choose sources",
+  "slug": "how-ai-search-engines-choose-sources",
+  "eyebrow": "AI search basics",
+  "primary_keyword": "how AI search engines choose sources",
+  "secondary_keywords": [
+    "how AI chooses sources",
+    "AI citations",
+    "how ChatGPT picks sources",
+    "AI Overviews sources"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "How AI Search Engines Choose Sources to Cite",
+    "meta_description": "How AI search engines choose sources: crawling, retrieval, relevance and trust signals in ChatGPT, Perplexity and Google AI, and how to become a cited source."
+  },
+  "h1": "How AI Search Engines Choose Sources (and How to Be One)",
+  "answer": "To understand how AI search engines choose sources, picture three stages: they can only use pages their crawlers can reach and index; they retrieve the pages most relevant to the question and its sub-questions; then they favor passages that answer clearly, with specific facts, from sources that look trustworthy and are corroborated elsewhere.",
+  "key_takeaways": [
+    "A page must be crawlable and indexed before it can be cited.",
+    "Retrieval favors pages that match the question and its follow-ups.",
+    "Clear, self-contained passages are easiest to quote.",
+    "Trust comes from expertise, corroboration and reputation.",
+    "Most AI answers cite several sources, not one."
+  ],
+  "sections": [
+    {
+      "heading": "Stage 1: access",
+      "body_html": "<p>An AI engine can only cite what it can read. Google's AI features use pages in Google's index, so a page must be indexed and eligible to show a snippet. ChatGPT search uses OpenAI's OAI-SearchBot, Perplexity uses PerplexityBot, Claude uses Claude-SearchBot, and Microsoft Copilot is grounded in Bing. If robots.txt, a firewall or a login wall blocks these, the page is out of the running before relevance is even considered.</p><p>Access also means the content is in the HTML. Text that only appears after complex scripts run, or inside images, is harder for crawlers to use.</p>"
+    },
+    {
+      "heading": "Stage 2: retrieval",
+      "body_html": "<p>When a question comes in, the system searches its index for candidate pages. For complex questions, Google says AI Overviews and AI Mode may use query fan-out, running several related searches across subtopics. The result is a pool of candidate pages that match the question or one of its parts. Relevance here works much like search ranking: the page needs to be clearly about the topic, using the words people actually use.</p>"
+    },
+    {
+      "heading": "Stage 3: selection",
+      "body_html": "<p>From the candidates, the system chooses passages to build its answer. Passages that are easy to use tend to share some traits:</p><ul><li>They answer the question directly, early, in a few sentences.</li><li>They make sense on their own, without needing the paragraphs around them.</li><li>They contain specific information: numbers, steps, names, comparisons.</li><li>They come from a source that looks credible on this topic.</li></ul><p>None of the major platforms publish a full formula, so treat these as observed patterns backed by their public guidance rather than guaranteed rules.</p>"
+    },
+    {
+      "heading": "Trust signals that matter",
+      "body_html": "<p>Google's guidance on helpful, reliable content asks whether content shows first-hand expertise, cites sources and is written by people who know the subject. AI systems inherit much of that from the search systems they sit on. Practical signals include named authors with relevant experience, clear business details, accurate structured data, a history of publishing on the topic, and other reputable sites referring to you.</p><p>Corroboration matters too: a claim stated consistently across several trusted sources is safer for an AI to repeat than one found on a single page.</p>"
+    },
+    {
+      "heading": "Why several sources usually win",
+      "body_html": "<p>Pew Research Center found that 88% of Google's AI summaries in its March 2025 data cited three or more sources, and only 1% cited one. AI answers usually blend information. That is good news for smaller brands: you do not need to beat every competitor for the whole answer; you need to be the best source for at least one part of it. Pew also found Wikipedia, YouTube and Reddit were among the most frequently linked sites, so third-party platforms are part of the selection pool.</p>"
+    },
+    {
+      "heading": "How platforms differ",
+      "body_html": "<table><tr><th>Platform</th><th>Where sources come from</th><th>How sources are shown</th></tr><tr><td>Google AI Overviews and AI Mode</td><td>Google's index, with query fan-out</td><td>Linked cards and inline links</td></tr><tr><td>ChatGPT search</td><td>OpenAI's search crawler and partners</td><td>Inline citations and a sources list</td></tr><tr><td>Perplexity</td><td>PerplexityBot and its own index</td><td>Numbered citations</td></tr><tr><td>Microsoft Copilot</td><td>Bing's index</td><td>Linked citations</td></tr><tr><td>Claude with web search</td><td>Claude-SearchBot and web search</td><td>Inline citations</td></tr></table>"
+    },
+    {
+      "heading": "How to become a cited source",
+      "body_html": "<ol><li><strong>Confirm access</strong>: indexed in Google and Bing, AI search crawlers allowed.</li><li><strong>Write answer-first</strong>: a direct answer at the top, follow-ups as headings.</li><li><strong>Make passages self-contained</strong>, so any section can be quoted alone.</li><li><strong>Add specific, sourced facts</strong> that others do not have.</li><li><strong>Show expertise</strong>: authors, credentials, real examples.</li><li><strong>Get corroborated</strong> through mentions, reviews and listings on trusted sites.</li></ol>"
+    },
+    {
+      "heading": "Common reasons a good page is not cited",
+      "body_html": "<ul><li>The AI crawler is blocked by a firewall rule nobody noticed.</li><li>The answer is buried below a long introduction.</li><li>The page is generic, saying what every other page says.</li><li>The brand is described inconsistently across the web, so the AI hedges.</li><li>The page is new and not yet indexed in Bing, which Copilot and others rely on.</li></ul>"
+    },
+    {
+      "heading": "A quick self-check for any page",
+      "body_html": "<p>Before publishing, read the page as if you were an AI system building an answer. Could the first paragraph be quoted on its own and fully answer the question? Does every section heading say what the section answers? Is there at least one specific fact, number or example that a generic page would not have? Is it clear who wrote it and why they are qualified? Would a reader know which business is behind it and where it operates? If the answer to any of these is no, fix that before worrying about anything more advanced.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do AI search engines choose sources?",
+      "a": "They can only use pages their crawlers reach and index. They retrieve pages relevant to the question and its sub-questions, then favor clear, specific, trustworthy passages."
+    },
+    {
+      "q": "Do AI engines prefer big brands?",
+      "a": "Trust signals help, and established brands often have more of them. But AI answers usually combine several sources, so a smaller site with the clearest, most specific answer to one part of a question can still be cited."
+    },
+    {
+      "q": "Does ranking on Google help you get cited by AI?",
+      "a": "Yes, especially for Google's AI features, which draw on its index. Being indexed in Bing also helps for Copilot and other tools that use Bing data."
+    },
+    {
+      "q": "How many sources does an AI answer cite?",
+      "a": "Pew Research Center found 88% of Google AI summaries cited three or more sources, and only 1% cited a single source."
+    },
+    {
+      "q": "Why is my competitor cited instead of me?",
+      "a": "Common causes are a blocked AI crawler, an answer buried deep in your page, generic content, or a competitor with more mentions on trusted sites."
+    },
+    {
+      "q": "Can I pay to be cited in AI answers?",
+      "a": "Not in organic AI answers. Citations come from the content and signals the systems find. Ads are separate and labeled."
+    },
+    {
+      "q": "Does structured data help AI engines choose my page?",
+      "a": "Structured data helps machines understand what a page is about and who is behind it, which supports accurate descriptions. It does not replace a clear, useful answer, and Google says no special markup is required for AI features."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "what query fan-out is",
+      "url": "https://thechimeraai.com/what-is-query-fan-out/"
+    },
+    {
+      "anchor": "robots.txt for AI crawlers",
+      "url": "https://thechimeraai.com/robots-txt-for-ai-crawlers/"
+    },
+    {
+      "anchor": "how to get brand mentions for AI search",
+      "url": "https://thechimeraai.com/how-to-get-brand-mentions-for-ai-search/"
+    },
+    {
+      "anchor": "how to write content for AI search",
+      "url": "https://thechimeraai.com/how-to-write-content-for-ai-search/"
+    },
+    {
+      "anchor": "Chimera's GEO services",
+      "url": "https://thechimeraai.com/#services"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Search Central: AI features and your website",
+      "url": "https://developers.google.com/search/docs/appearance/ai-features"
+    },
+    {
+      "title": "Google Search Central: Creating helpful, reliable, people-first content",
+      "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content"
+    },
+    {
+      "title": "OpenAI: Overview of OpenAI crawlers",
+      "url": "https://platform.openai.com/docs/bots"
+    },
+    {
+      "title": "Perplexity: Perplexity crawlers",
+      "url": "https://docs.perplexity.ai/guides/bots"
+    },
+    {
+      "title": "Anthropic: Does Anthropic crawl data from the web, and how can site owners block the crawler?",
+      "url": "https://support.anthropic.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler"
+    },
+    {
+      "title": "Pew Research Center: Google users are less likely to click on links when an AI summary appears in the results (Jul 22, 2025)",
+      "url": "https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 0,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "Three stages from page to citation",
+      "lead": "Each stage filters out pages; GEO improves your odds at every one.",
+      "steps": [
+        {
+          "title": "Access",
+          "text": "Crawlers reach and index the page."
+        },
+        {
+          "title": "Retrieval",
+          "text": "The page matches the question or a sub-question."
+        },
+        {
+          "title": "Selection",
+          "text": "Clear, specific, trusted passages are quoted."
+        }
+      ]
+    },
+    {
+      "after": 5,
+      "type": "matrix",
+      "eyebrow": "Compare platforms",
+      "title": "How each platform shows its sources",
+      "lead": "Platforms that show clickable sources send measurable visits. The rest shape decisions you see later as branded searches.",
+      "columns": [
+        "chatgpt",
+        "perplexity",
+        "google",
+        "gemini",
+        "claude",
+        "copilot"
+      ],
+      "rows": [
+        {
+          "label": "Links to sources in answers",
+          "cells": [
+            "Yes, when searching",
+            "Yes, numbered",
+            "Yes",
+            "Sometimes",
+            "Yes, with web search",
+            "Yes"
+          ]
+        },
+        {
+          "label": "Searches the live web",
+          "cells": [
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes, when enabled",
+            "Yes"
+          ]
+        },
+        {
+          "label": "Referral shows in analytics",
+          "cells": [
+            "Yes: chatgpt.com",
+            "Yes: perplexity.ai",
+            "Counted as Google",
+            "Yes: gemini.google.com",
+            "Yes: claude.ai",
+            "Yes: copilot.microsoft.com"
+          ]
+        }
+      ]
+    },
+    {
+      "after": 6,
+      "type": "scorecard",
+      "eyebrow": "Scorecard",
+      "title": "Signals that help a passage get selected",
+      "lead": "How strongly each helps (5 = most).",
+      "rows": [
+        {
+          "label": "Direct answer early",
+          "score": 5,
+          "note": "The easiest passage to use."
+        },
+        {
+          "label": "Self-contained sections",
+          "score": 4,
+          "note": "Each can be quoted alone."
+        },
+        {
+          "label": "Specific, sourced facts",
+          "score": 5,
+          "note": "Worth citing over generic text."
+        },
+        {
+          "label": "Corroboration on other sites",
+          "score": 4,
+          "note": "Safer for an AI to repeat."
+        },
+        {
+          "label": "Word count alone",
+          "score": 1,
+          "note": "Length without substance does not help."
+        }
+      ]
+    }
+  ],
+  "hero_query": "How do AI search engines decide which sources to cite?",
+  "short_title": "How AI Search Engines Choose Sources to Cite",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 262,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/how-ai-search-engines-choose-sources-chimera.jpg",
+    "alt": "How AI Search Engines Choose Sources to Cite: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-06",
+  "updated": "2026-11-06"
+}

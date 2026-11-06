@@ -1,0 +1,285 @@
+{
+  "query": "what is llm seo",
+  "slug": "what-is-llm-seo",
+  "eyebrow": "AI search basics",
+  "primary_keyword": "LLM SEO",
+  "secondary_keywords": [
+    "large language model optimization",
+    "AI SEO",
+    "LLM optimization",
+    "generative engine optimization"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "What Is LLM SEO? A Practical Guide for 2026",
+    "meta_description": "What is LLM SEO, how it differs from classic SEO and GEO, how large language models find and choose sources, and the steps that improve visibility."
+  },
+  "h1": "What Is LLM SEO? How to Get Large Language Models to Cite You",
+  "answer": "LLM SEO is the practice of making your brand and content easy for large language model tools, such as ChatGPT, Gemini, Claude and Perplexity, to find, understand and recommend. It combines technical access for AI crawlers, answer-first content, consistent brand facts and mentions on trusted sites. Most people also call it generative engine optimization.",
+  "key_takeaways": [
+    "LLM SEO and GEO describe the same goal: being cited by AI tools.",
+    "LLMs answer from training data and from live web searches.",
+    "You influence live search answers fastest.",
+    "Clear, specific, sourced content is easiest to cite.",
+    "Brand mentions elsewhere shape how models describe you."
+  ],
+  "sections": [
+    {
+      "heading": "LLM SEO in plain terms",
+      "body_html": "<p>A large language model (LLM) is the technology behind assistants like ChatGPT, Gemini, Claude and Microsoft Copilot. When people ask these tools for advice, such as which agency to hire or how to solve a problem, the tools write an answer and often name products, companies and sources. LLM SEO is the work of making sure your brand appears in those answers, described accurately.</p><p>You will also see it called generative engine optimization (GEO), AI SEO or answer engine optimization. The names differ; the work largely overlaps.</p>"
+    },
+    {
+      "heading": "Two ways an LLM knows about you",
+      "body_html": "<p><strong>Training data.</strong> Models learn from large amounts of text gathered before a cut-off date. If your brand was widely and consistently described across the web, the model may know about you without searching. You cannot edit this directly, and changes take a long time to show up.</p><p><strong>Live retrieval.</strong> For current or specific questions, assistants search the web, read a handful of pages and cite them. ChatGPT search, Perplexity, Gemini, Claude with web search and Copilot all do this. This is where LLM SEO has the most immediate effect, because a well-built page can be found and cited soon after it is indexed.</p>"
+    },
+    {
+      "heading": "How LLM SEO differs from classic SEO",
+      "body_html": "<table><tr><th></th><th>Classic SEO</th><th>LLM SEO</th></tr><tr><td>Goal</td><td>Rank and earn a click</td><td>Be named or cited in the answer</td></tr><tr><td>Unit of success</td><td>A position on a results page</td><td>A mention, recommendation or citation</td></tr><tr><td>Content shape</td><td>Pages targeting keywords</td><td>Direct answers to full questions</td></tr><tr><td>Off-site signals</td><td>Backlinks</td><td>Backlinks plus mentions, reviews and discussions</td></tr><tr><td>Measurement</td><td>Rankings, clicks</td><td>AI referrals, answer checks, branded demand</td></tr></table><p>The foundations are shared: an AI tool cannot cite a page it cannot crawl or does not trust.</p>"
+    },
+    {
+      "heading": "Technical access for AI crawlers",
+      "body_html": "<p>Each platform uses named crawlers. OpenAI uses OAI-SearchBot for ChatGPT search results and GPTBot for training; Perplexity uses PerplexityBot; Anthropic uses Claude-SearchBot and ClaudeBot; Google AI features rely on Googlebot; Copilot relies on Bing. If your robots.txt or firewall blocks the search crawlers, those tools cannot read your pages. Check server logs and security settings, not just robots.txt, since some firewalls block AI bots by default.</p>"
+    },
+    {
+      "heading": "Content that LLMs can quote",
+      "body_html": "<ul><li><strong>Answer first.</strong> A 40 to 60 word direct answer at the top of the page.</li><li><strong>Question headings.</strong> Each follow-up question gets its own heading and a short answer.</li><li><strong>Specific facts.</strong> Numbers, prices, timelines and steps, with sources.</li><li><strong>Clear entities.</strong> Say plainly who you are, what you offer and where.</li><li><strong>Lists and tables</strong> for comparisons and processes.</li></ul><p>The GEO research paper by Aggarwal and colleagues reported visibility improvements of up to 40% from methods such as adding citations, quotations and statistics.</p>"
+    },
+    {
+      "heading": "Brand signals beyond your website",
+      "body_html": "<p>Assistants rarely rely on one site. They cross-check, and they read communities, reviews, directories and publications. Consistent business details, genuine reviews, listings on relevant directories and mentions in industry articles all make it more likely that a model describes you accurately and includes you in recommendations. Pew found Wikipedia, YouTube and Reddit were among the most frequently linked sources in Google's AI summaries.</p>"
+    },
+    {
+      "heading": "How to measure LLM SEO",
+      "body_html": "<ol><li><strong>Run a fixed set of buyer questions</strong> in each assistant monthly and record who is named.</li><li><strong>Track AI referrals</strong> in Google Analytics: chatgpt.com, perplexity.ai, gemini.google.com, claude.ai, copilot.microsoft.com.</li><li><strong>Watch branded search</strong> in Search Console.</li><li><strong>Connect it to leads</strong> by landing page and source.</li></ol>"
+    },
+    {
+      "heading": "When LLM SEO is not the priority",
+      "body_html": "<p>If your site is not indexed, has serious technical problems, or has no clear service pages, fix those first. LLM SEO depends on the same foundations as search. It also matters less for businesses whose buyers never research online, such as some purely referral-based trades.</p>"
+    },
+    {
+      "heading": "A simple LLM SEO checklist",
+      "body_html": "<ul><li>AI search crawlers allowed in robots.txt and the firewall.</li><li>Site indexed in both Google and Bing.</li><li>An llms.txt file listing your most important pages.</li><li>Every key page opens with a direct, quotable answer.</li><li>Business name, services and location stated the same way everywhere.</li><li>Organization and LocalBusiness structured data where relevant.</li><li>Genuine reviews and listings on the platforms your buyers use.</li><li>A monthly record of how each assistant answers your top ten buyer questions.</li></ul><p>Work through it in order. The early items are prerequisites for everything after them.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is LLM SEO?",
+      "a": "LLM SEO is optimizing your content and brand presence so large language model tools like ChatGPT, Gemini, Claude and Perplexity find, trust and cite you in their answers."
+    },
+    {
+      "q": "Is LLM SEO the same as GEO?",
+      "a": "Largely, yes. Generative engine optimization (GEO), AI SEO and LLM SEO describe the same goal of being cited in AI-generated answers."
+    },
+    {
+      "q": "Can I get ChatGPT to recommend my business?",
+      "a": "You cannot control it, but you can make it more likely by allowing ChatGPT's search crawler, publishing clear answer-first pages, and earning consistent mentions on trusted sites."
+    },
+    {
+      "q": "How long does LLM SEO take?",
+      "a": "Changes that affect live web search answers can show up within weeks of a page being indexed. Changes in what a model knows from training take much longer."
+    },
+    {
+      "q": "Does LLM SEO replace traditional SEO?",
+      "a": "No. AI tools rely on web indexes and crawlers, so technical SEO, indexing and authority remain the foundation."
+    },
+    {
+      "q": "How do I track LLM SEO results?",
+      "a": "Check a fixed set of buyer questions in each assistant regularly, track AI referral traffic in Google Analytics, and connect it to leads."
+    },
+    {
+      "q": "Do I need an llms.txt file for LLM SEO?",
+      "a": "It is optional. llms.txt is a proposed standard that lists your most important pages in a simple format for AI tools. It is easy to add and does no harm, but crawler access, clear content and brand consistency matter far more."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "what generative engine optimization is",
+      "url": "https://thechimeraai.com/what-is-generative-engine-optimization-and-how-does-it-work/"
+    },
+    {
+      "anchor": "how to rank in ChatGPT",
+      "url": "https://thechimeraai.com/how-to-rank-in-chatgpt/"
+    },
+    {
+      "anchor": "robots.txt for AI crawlers",
+      "url": "https://thechimeraai.com/robots-txt-for-ai-crawlers/"
+    },
+    {
+      "anchor": "AEO vs GEO",
+      "url": "https://thechimeraai.com/answer-engine-optimization-vs-generative-engine-optimization/"
+    },
+    {
+      "anchor": "Chimera's GEO services",
+      "url": "https://thechimeraai.com/#services"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "GEO: Generative Engine Optimization (Aggarwal et al., KDD 2024)",
+      "url": "https://arxiv.org/abs/2311.09735"
+    },
+    {
+      "title": "OpenAI: Overview of OpenAI crawlers",
+      "url": "https://platform.openai.com/docs/bots"
+    },
+    {
+      "title": "Perplexity: Perplexity crawlers",
+      "url": "https://docs.perplexity.ai/guides/bots"
+    },
+    {
+      "title": "Anthropic: Does Anthropic crawl data from the web, and how can site owners block the crawler?",
+      "url": "https://support.anthropic.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler"
+    },
+    {
+      "title": "Google Search Central: AI features and your website",
+      "url": "https://developers.google.com/search/docs/appearance/ai-features"
+    },
+    {
+      "title": "Pew Research Center: Google users are less likely to click on links when an AI summary appears in the results (Jul 22, 2025)",
+      "url": "https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 1,
+      "type": "engines",
+      "eyebrow": "AI platforms",
+      "title": "The LLM tools your buyers use",
+      "lead": "The answer engines that matter most for buyer research, and how each one finds sources.",
+      "items": [
+        {
+          "engine": "chatgpt",
+          "note": "The largest assistant. Searches the web for current questions and links sources in its answers."
+        },
+        {
+          "engine": "google",
+          "note": "AI summaries above Google results, built from pages Google has indexed."
+        },
+        {
+          "engine": "gemini",
+          "note": "Google's assistant app, increasingly used for research and comparisons."
+        },
+        {
+          "engine": "perplexity",
+          "note": "Answer engine built around numbered, clickable citations."
+        },
+        {
+          "engine": "claude",
+          "note": "Anthropic's assistant, used heavily for research and work tasks; can search the web."
+        },
+        {
+          "engine": "copilot",
+          "note": "Microsoft's assistant in Windows, Edge and Office, grounded in Bing results."
+        }
+      ]
+    },
+    {
+      "after": 3,
+      "type": "matrix",
+      "eyebrow": "Crawler access",
+      "title": "Which crawler each AI platform uses",
+      "lead": "Allow these in robots.txt and your firewall, or that platform cannot read your pages for its answers.",
+      "columns": [
+        "chatgpt",
+        "perplexity",
+        "google",
+        "claude",
+        "copilot"
+      ],
+      "rows": [
+        {
+          "label": "Crawler for search answers",
+          "cells": [
+            "OAI-SearchBot",
+            "PerplexityBot",
+            "Googlebot",
+            "Claude-SearchBot",
+            "Bingbot"
+          ]
+        },
+        {
+          "label": "Fetches pages on a user's request",
+          "cells": [
+            "ChatGPT-User",
+            "Perplexity-User",
+            "Googlebot",
+            "Claude-User",
+            "Bingbot"
+          ]
+        },
+        {
+          "label": "Separate training crawler you can block",
+          "cells": [
+            "Yes: GPTBot",
+            "Not used for training",
+            "Yes: Google-Extended",
+            "Yes: ClaudeBot",
+            "No separate bot"
+          ]
+        }
+      ],
+      "source": {
+        "title": "OpenAI, Perplexity, Google and Anthropic crawler documentation",
+        "url": "https://platform.openai.com/docs/bots",
+        "note": "Check each platform's docs for changes"
+      }
+    },
+    {
+      "after": 4,
+      "type": "scorecard",
+      "eyebrow": "Scorecard",
+      "title": "What makes content easy for an LLM to cite",
+      "lead": "How strongly each helps (5 = most).",
+      "rows": [
+        {
+          "label": "Direct answer near the top",
+          "score": 5,
+          "note": "Easy to lift into a response."
+        },
+        {
+          "label": "Specific, sourced facts",
+          "score": 5,
+          "note": "Gives the model something worth citing."
+        },
+        {
+          "label": "Question-based headings",
+          "score": 4,
+          "note": "Matches how people ask assistants."
+        },
+        {
+          "label": "Consistent brand details",
+          "score": 4,
+          "note": "Avoids confused or wrong descriptions."
+        },
+        {
+          "label": "Long intros before the answer",
+          "score": 1,
+          "note": "Buries the part a model needs."
+        }
+      ]
+    }
+  ],
+  "hero_query": "What is LLM SEO and how does it work?",
+  "short_title": "What Is LLM SEO? A Practical Guide for 2026",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 265,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/what-is-llm-seo-chimera.jpg",
+    "alt": "What Is LLM SEO? A Practical Guide for 2026: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-06",
+  "updated": "2026-11-06"
+}

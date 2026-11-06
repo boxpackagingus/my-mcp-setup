@@ -1,0 +1,258 @@
+{
+  "query": "geo for dentists",
+  "slug": "geo-for-dentists",
+  "eyebrow": "Industry guide",
+  "primary_keyword": "GEO for dentists",
+  "secondary_keywords": [
+    "dental practice AI search",
+    "AI SEO for dentists",
+    "dentist ChatGPT",
+    "dental marketing AI"
+  ],
+  "search_intent": "commercial",
+  "seo": {
+    "title": "GEO for Dentists: Get Recommended in AI Search",
+    "meta_description": "GEO for dentists: how patients use ChatGPT and Google AI to choose a dental practice, what content and local signals get cited, and a simple plan to start."
+  },
+  "h1": "GEO for Dentists: How to Get Your Practice Recommended by AI",
+  "answer": "GEO for dentists means making your dental practice easy for AI tools like Google AI Overviews, ChatGPT and Perplexity to find, trust and recommend when patients ask about treatments, costs or a dentist near them. It relies on clear treatment pages, honest cost information, consistent local listings, genuine reviews and visible dentist credentials.",
+  "key_takeaways": [
+    "Patients ask AI about treatments and costs before booking.",
+    "Treatment pages need plain answers, steps and recovery details.",
+    "Consistent local details feed AI answers about nearby dentists.",
+    "Reviews and credentials are key trust signals.",
+    "Measure booked appointments, not just visits."
+  ],
+  "sections": [
+    {
+      "heading": "How patients use AI to choose a dentist",
+      "body_html": "<p>Before booking, patients research: \"how long does a dental implant take\", \"is Invisalign worth it for adults\", \"what does a root canal cost without insurance\", \"best family dentist near Irvine\". Pew Research Center found that question-style and longer searches are the most likely to produce an AI summary in Google, and assistants like ChatGPT and Perplexity answer the same questions. When the answer cites or recommends a practice, that practice gets the first chance at the patient.</p>"
+    },
+    {
+      "heading": "Treatment pages that AI tools cite",
+      "body_html": "<ul><li><strong>Start with a direct answer</strong>: what the treatment is and who it is for, in plain language.</li><li><strong>Explain the steps</strong>: consultation, procedure, number of visits, recovery.</li><li><strong>Give realistic timelines</strong> and what affects them.</li><li><strong>Address comfort and anxiety</strong>: sedation options, what patients feel.</li><li><strong>Answer the follow-ups</strong> in an FAQ: insurance, aftercare, alternatives.</li></ul><p>Have a dentist review each page and name them on it. Health content needs visible expertise.</p>"
+    },
+    {
+      "heading": "Be honest about costs",
+      "body_html": "<p>Cost questions are among the most common patient searches, and they are exactly where many practice websites go silent. You do not need to publish a fixed price list. Explain what drives cost (materials, number of visits, imaging, insurance coverage), give ranges you are comfortable standing behind, and describe financing options. A clear, honest cost section is the kind of specific information AI answers look for, and it pre-qualifies patients before they call.</p>"
+    },
+    {
+      "heading": "Local signals for dental practices",
+      "body_html": "<p>\"Dentist near me\" questions lean heavily on local data. Keep your practice name, address, phone, hours and services identical on your website, Google Business Profile, Bing Places, insurance network listings and health directories. Add structured data using schema.org's <code>Dentist</code> type, which is both a LocalBusiness and a MedicalBusiness, to describe your practice in a machine-readable way. List the neighborhoods and cities you serve on a single clear location page rather than creating thin pages for each.</p>"
+    },
+    {
+      "heading": "Reviews and credentials",
+      "body_html": "<p>Patients and AI systems both look for proof that a practice is trusted. Encourage satisfied patients to leave reviews on the platforms they already use, and respond to reviews professionally without revealing any patient information. Give each dentist a profile with qualifications, professional memberships and areas of focus. Mentions in local media, community sponsorships and professional associations add corroboration.</p>"
+    },
+    {
+      "heading": "Compliance reminders",
+      "body_html": "<p>Dental marketing is subject to health privacy and professional advertising rules. Never share patient details in content or review replies, get written consent before using patient photos or testimonials, and avoid promising results. Check your state dental board's advertising guidance for specifics. AI visibility is never worth a compliance problem.</p>"
+    },
+    {
+      "heading": "Where to start",
+      "body_html": "<ol><li><strong>Ask the AI tools</strong> your patients use who they recommend for your top treatments in your area, and record the answers.</li><li><strong>Fix listings and consistency</strong> across your profile, directories and website.</li><li><strong>Rewrite your five most valuable treatment pages</strong> answer-first, with cost and recovery sections.</li><li><strong>Add dentist profiles and structured data.</strong></li><li><strong>Build reviews steadily</strong>, then re-check AI answers each month.</li></ol>"
+    },
+    {
+      "heading": "How to measure results",
+      "body_html": "<p>Track booked appointments and calls by source and landing page, AI referrals in Google Analytics, and branded searches for your practice name. Keep a simple monthly log of which practices AI tools recommend for your key treatments. A handful of new implant or orthodontic patients each month is a more meaningful signal than raw traffic.</p>"
+    },
+    {
+      "heading": "Content ideas that answer real patient questions",
+      "body_html": "<p>The best dental content comes from the chair. Ask your team which questions patients ask during consultations and on the phone, then answer each one on your site. Good starting topics include: how long each treatment takes from first visit to finish, what to expect on the day, how to care for a new crown or implant, when a dental problem is an emergency, what your practice does for nervous patients, and how insurance and financing work at your practice.</p><p>Each answer should be specific to your practice, reviewed by a dentist, and linked to the matching treatment page. Content like this helps patients, gives AI tools precise passages to cite, and is very hard for competitors to copy because it reflects how you actually work.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is GEO for dentists?",
+      "a": "Generative engine optimization for dentists is making your practice easy for AI tools like Google AI Overviews, ChatGPT and Perplexity to find, trust and recommend when patients research treatments or look for a dentist."
+    },
+    {
+      "q": "Can ChatGPT recommend my dental practice?",
+      "a": "Yes, when patients ask for dentists in an area it can suggest practices. Consistent listings, clear treatment pages, reviews and local mentions make your practice more likely to be included."
+    },
+    {
+      "q": "Should dentists publish prices online?",
+      "a": "You do not need a fixed price list, but explaining what drives cost, giving ranges and describing financing helps patients and gives AI answers specific information to use."
+    },
+    {
+      "q": "What schema should a dental practice use?",
+      "a": "Schema.org's Dentist type, which is both a LocalBusiness and a MedicalBusiness, lets you describe your practice details in a machine-readable way."
+    },
+    {
+      "q": "How long does GEO take for a dental practice?",
+      "a": "Listing and technical fixes can help within weeks. Becoming a regular recommendation for competitive treatments usually takes three to six months of content and review building."
+    },
+    {
+      "q": "Is GEO different from dental SEO?",
+      "a": "It builds on dental SEO. SEO gets your pages indexed and ranked; GEO helps AI tools choose and recommend your practice when they write an answer."
+    },
+    {
+      "q": "Should a dental practice create a page for every nearby city?",
+      "a": "Usually not. Thin pages that only swap the city name add little for patients and can look like spam. A single strong location page that lists the areas you serve, plus helpful treatment pages, is a better foundation. Create a separate page only when you have a real second office."
+    },
+    {
+      "q": "Do patient reviews affect AI recommendations?",
+      "a": "Reviews are one of the signals AI tools and Google use to judge whether a local business is trusted. Steady, genuine reviews on the platforms patients already use, with professional replies, help both patients and AI answers."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "schema markup for AI search",
+      "url": "https://thechimeraai.com/schema-markup-for-ai-search/"
+    },
+    {
+      "anchor": "GEO for law firms",
+      "url": "https://thechimeraai.com/geo-for-law-firms/"
+    },
+    {
+      "anchor": "how to show up in Google AI Overviews",
+      "url": "https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/"
+    },
+    {
+      "anchor": "Chimera's GEO services",
+      "url": "https://thechimeraai.com/#services"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Schema.org: Dentist",
+      "url": "https://schema.org/Dentist"
+    },
+    {
+      "title": "Schema.org: LocalBusiness",
+      "url": "https://schema.org/LocalBusiness"
+    },
+    {
+      "title": "Google Business Profile",
+      "url": "https://www.google.com/business/"
+    },
+    {
+      "title": "Google Search Central: Creating helpful, reliable, people-first content",
+      "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content"
+    },
+    {
+      "title": "Pew Research Center: Google users are less likely to click on links when an AI summary appears in the results (Jul 22, 2025)",
+      "url": "https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 0,
+      "type": "engines",
+      "eyebrow": "AI platforms",
+      "title": "Where patients research dental care",
+      "lead": "The answer engines that matter most for buyer research, and how each one finds sources.",
+      "items": [
+        {
+          "engine": "chatgpt",
+          "note": "The largest assistant. Searches the web for current questions and links sources in its answers."
+        },
+        {
+          "engine": "google",
+          "note": "AI summaries above Google results, built from pages Google has indexed."
+        },
+        {
+          "engine": "gemini",
+          "note": "Google's assistant app, increasingly used for research and comparisons."
+        },
+        {
+          "engine": "perplexity",
+          "note": "Answer engine built around numbered, clickable citations."
+        },
+        {
+          "engine": "claude",
+          "note": "Anthropic's assistant, used heavily for research and work tasks; can search the web."
+        },
+        {
+          "engine": "copilot",
+          "note": "Microsoft's assistant in Windows, Edge and Office, grounded in Bing results."
+        }
+      ]
+    },
+    {
+      "after": 3,
+      "type": "scorecard",
+      "eyebrow": "Scorecard",
+      "title": "What gets a dental practice recommended",
+      "lead": "How strongly each helps (5 = most).",
+      "rows": [
+        {
+          "label": "Consistent local listings",
+          "score": 5,
+          "note": "Feeds near-me answers."
+        },
+        {
+          "label": "Clear treatment and cost pages",
+          "score": 5,
+          "note": "Gives AI specific answers to quote."
+        },
+        {
+          "label": "Genuine patient reviews",
+          "score": 4,
+          "note": "A major trust signal."
+        },
+        {
+          "label": "Dentist profiles and credentials",
+          "score": 4,
+          "note": "Shows expertise on health topics."
+        },
+        {
+          "label": "Thin city-by-city pages",
+          "score": 1,
+          "note": "Adds little and can look like spam."
+        }
+      ]
+    },
+    {
+      "after": 6,
+      "type": "timeline",
+      "eyebrow": "Timeline",
+      "title": "Your first 90 days",
+      "lead": "A simple order of work.",
+      "items": [
+        {
+          "when": "Month 1",
+          "title": "Audit and fix",
+          "text": "Audit AI answers, fix listings and structured data."
+        },
+        {
+          "when": "Month 2",
+          "title": "Treatment pages",
+          "text": "Rewrite top treatment pages with costs and recovery."
+        },
+        {
+          "when": "Month 3",
+          "title": "Trust signals",
+          "text": "Add dentist profiles, build reviews, re-check answers."
+        }
+      ]
+    }
+  ],
+  "hero_query": "Who is the best dentist near me for implants?",
+  "short_title": "GEO for Dentists: Get Recommended in AI Search",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 260,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/geo-for-dentists-chimera.jpg",
+    "alt": "GEO for Dentists: Get Recommended in AI Search: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-06",
+  "updated": "2026-11-06"
+}

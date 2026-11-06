@@ -14,16 +14,31 @@
       "form_leads_28d": 1,
       "source": "Site Kit",
       "engine_leads_28d": 0
+    },
+    {
+      "date": "2026-11-06",
+      "pages_total": 31,
+      "pages_indexed": 0,
+      "clicks_28d": 0,
+      "impressions_28d": 0,
+      "engine_clicks_28d": 0,
+      "sessions_28d": 8.0,
+      "ai_sessions_28d": 0,
+      "ai_by_engine": {},
+      "leads_28d": 1,
+      "form_leads_28d": 1,
+      "source": "Site Kit",
+      "engine_leads_28d": 0
     }
   ],
   "latest": {
-    "date": "2026-11-05",
+    "date": "2026-11-06",
     "pages_total": 31,
     "pages_indexed": 0,
     "clicks_28d": 0,
     "impressions_28d": 0,
     "engine_clicks_28d": 0,
-    "sessions_28d": 0.0,
+    "sessions_28d": 8.0,
     "ai_sessions_28d": 0,
     "ai_by_engine": {},
     "leads_28d": 1,
@@ -33,11 +48,6 @@
   },
   "gsc_daily": [],
   "ga_daily": [
-    {
-      "date": "20261008",
-      "sessions": 0.0,
-      "keyEvents": 0.0
-    },
     {
       "date": "20261009",
       "sessions": 0.0,
@@ -171,6 +181,11 @@
     {
       "date": "20261104",
       "sessions": 0.0,
+      "keyEvents": 0.0
+    },
+    {
+      "date": "20261105",
+      "sessions": 8.0,
       "keyEvents": 0.0
     }
   ]

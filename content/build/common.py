@@ -44,5 +44,11 @@ def save_all(pages):
         n = len(p["sections"])
         for v in p["visuals"]:
             assert 0 <= v["after"] < n, (p["slug"], v["after"], n)
-        (DRAFTS / f"{p['slug']}.json").write_text(json.dumps(p, indent=2, ensure_ascii=False) + "\n")
+        f = DRAFTS / f"{p['slug']}.json"
+        if f.exists():  # keep images already uploaded for this draft
+            old = json.loads(f.read_text())
+            for k in ("hero_image", "photo"):
+                if old.get(k) and not p.get(k):
+                    p[k] = old[k]
+        f.write_text(json.dumps(p, indent=2, ensure_ascii=False) + "\n")
         print("wrote", p["slug"])

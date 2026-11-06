@@ -23,12 +23,15 @@ def published_slugs():
 
 
 def from_search_console(cfg):
-    from . import google_api
-
-    prop = google_api.gsc_property(cfg["site"]["domain"])
     end = date.today() - timedelta(days=3)
     start = end - timedelta(days=28)
-    rows = google_api.gsc_query(prop, start.isoformat(), end.isoformat(), ["query", "page"])
+    if os.environ.get("GSC_SERVICE_ACCOUNT_KEY_JSON"):
+        from . import google_api
+        prop = google_api.gsc_property(cfg["site"]["domain"])
+        rows = google_api.gsc_query(prop, start.isoformat(), end.isoformat(), ["query", "page"])
+    else:
+        from . import sitekit  # Search Console through Site Kit on the WordPress site
+        rows = sitekit.gsc_query(start.isoformat(), end.isoformat(), ["query", "page"])
     best = {}
     for r in rows:
         q = r["query"].strip().lower()

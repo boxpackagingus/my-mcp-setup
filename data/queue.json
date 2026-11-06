@@ -1,13 +1,6 @@
 {
-  "generated": "2026-11-05",
+  "generated": "2026-11-06",
   "candidates": [
-    {
-      "query": "generative engine optimization agency",
-      "source": "autocomplete",
-      "seed": "generative engine optimization",
-      "slug": "generative-engine-optimization-agency",
-      "score": 8.18
-    },
     {
       "query": "best geo seo agency",
       "source": "autocomplete",
@@ -37,13 +30,6 @@
       "score": 8.18
     },
     {
-      "query": "how to choose a geo agency",
-      "source": "autocomplete",
-      "seed": "GEO agency",
-      "slug": "how-to-choose-a-geo-agency",
-      "score": 8.18
-    },
-    {
       "query": "is geo a government agency",
       "source": "autocomplete",
       "seed": "GEO agency",
@@ -69,13 +55,6 @@
       "source": "autocomplete",
       "seed": "GEO agency",
       "slug": "best-geo-agency-in-hyderabad",
-      "score": 8.18
-    },
-    {
-      "query": "best geo agency for b2b saas",
-      "source": "autocomplete",
-      "seed": "GEO agency",
-      "slug": "best-geo-agency-for-b2b-saas",
       "score": 8.18
     },
     {
@@ -181,13 +160,6 @@
       "source": "autocomplete",
       "seed": "GEO SEO",
       "slug": "best-seo-geo-tools",
-      "score": 6.36
-    },
-    {
-      "query": "geo seo best practices",
-      "source": "autocomplete",
-      "seed": "GEO SEO",
-      "slug": "geo-seo-best-practices",
       "score": 6.36
     },
     {
@@ -324,13 +296,6 @@
       "score": 6.36
     },
     {
-      "query": "best practices for llms txt",
-      "source": "autocomplete",
-      "seed": "llms.txt",
-      "slug": "best-practices-for-llms-txt",
-      "score": 6.36
-    },
-    {
       "query": "best practices to create llms.txt",
       "source": "autocomplete",
       "seed": "llms.txt",
@@ -429,13 +394,6 @@
       "score": 5.91
     },
     {
-      "query": "answer engine optimization vs generative engine optimization",
-      "source": "autocomplete",
-      "seed": "generative engine optimization",
-      "slug": "answer-engine-optimization-vs-generative-engine-optimization",
-      "score": 5.91
-    },
-    {
       "query": "what is geo vs seo",
       "source": "autocomplete",
       "seed": "GEO SEO",
@@ -447,13 +405,6 @@
       "source": "autocomplete",
       "seed": "GEO SEO",
       "slug": "local-seo-vs-national-seo",
-      "score": 5.91
-    },
-    {
-      "query": "geo vs seo",
-      "source": "autocomplete",
-      "seed": "GEO SEO",
-      "slug": "geo-vs-seo",
       "score": 5.91
     },
     {
@@ -776,13 +727,6 @@
       "source": "autocomplete",
       "seed": "generative engine optimization",
       "slug": "generative-engine-optimization-how-to-dominate-ai-search",
-      "score": 5.0
-    },
-    {
-      "query": "what is generative engine optimization and how does it work",
-      "source": "autocomplete",
-      "seed": "generative engine optimization",
-      "slug": "what-is-generative-engine-optimization-and-how-does-it-work",
       "score": 5.0
     },
     {
@@ -1399,6 +1343,62 @@
       "source": "autocomplete",
       "seed": "LLM SEO",
       "slug": "how-to-get-an-llm",
+      "score": 5.0
+    },
+    {
+      "query": "how to rank in chatgpt search",
+      "source": "autocomplete",
+      "seed": "rank in ChatGPT",
+      "slug": "how-to-rank-in-chatgpt-search",
+      "score": 5.0
+    },
+    {
+      "query": "how to rank in chatgpt 2026",
+      "source": "autocomplete",
+      "seed": "rank in ChatGPT",
+      "slug": "how-to-rank-in-chatgpt-2026",
+      "score": 5.0
+    },
+    {
+      "query": "how to rank in chatgpt answers",
+      "source": "autocomplete",
+      "seed": "rank in ChatGPT",
+      "slug": "how-to-rank-in-chatgpt-answers",
+      "score": 5.0
+    },
+    {
+      "query": "how to rank in chatgpt results",
+      "source": "autocomplete",
+      "seed": "rank in ChatGPT",
+      "slug": "how-to-rank-in-chatgpt-results",
+      "score": 5.0
+    },
+    {
+      "query": "how to rank in chatgpt egypt",
+      "source": "autocomplete",
+      "seed": "rank in ChatGPT",
+      "slug": "how-to-rank-in-chatgpt-egypt",
+      "score": 5.0
+    },
+    {
+      "query": "how to rank higher in chatgpt search results",
+      "source": "autocomplete",
+      "seed": "rank in ChatGPT",
+      "slug": "how-to-rank-higher-in-chatgpt-search-results",
+      "score": 5.0
+    },
+    {
+      "query": "how to rank higher in chatgpt",
+      "source": "autocomplete",
+      "seed": "rank in ChatGPT",
+      "slug": "how-to-rank-higher-in-chatgpt",
+      "score": 5.0
+    },
+    {
+      "query": "how to rank website in chatgpt",
+      "source": "autocomplete",
+      "seed": "rank in ChatGPT",
+      "slug": "how-to-rank-website-in-chatgpt",
       "score": 5.0
     }
   ]

@@ -1,0 +1,265 @@
+{
+  "query": "ai crawler user agents list",
+  "slug": "ai-crawler-user-agents",
+  "eyebrow": "Technical GEO",
+  "primary_keyword": "AI crawler user agents",
+  "secondary_keywords": [
+    "AI bots robots.txt",
+    "GPTBot",
+    "ClaudeBot",
+    "PerplexityBot",
+    "list of AI crawlers"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "AI Crawler User Agents: The 2026 List for robots.txt",
+    "meta_description": "AI crawler user agents list: GPTBot, OAI-SearchBot, ClaudeBot, PerplexityBot, Google-Extended, Applebot-Extended, Meta and CCBot, and which to allow."
+  },
+  "h1": "AI Crawler User Agents: Which Bots to Allow and Which to Block",
+  "answer": "The main AI crawler user agents are OpenAI's GPTBot, OAI-SearchBot and ChatGPT-User; Anthropic's ClaudeBot, Claude-SearchBot and Claude-User; PerplexityBot and Perplexity-User; Google-Extended; Applebot-Extended; Meta-ExternalAgent; and Common Crawl's CCBot. Allow the search bots if you want to be cited; blocking training bots is a separate choice.",
+  "key_takeaways": [
+    "Most AI companies separate search bots from training bots.",
+    "Blocking a search bot removes you from that platform's answers.",
+    "Blocking a training bot does not remove you from search answers.",
+    "Google-Extended does not affect Google Search or AI Overviews.",
+    "Check firewalls too: robots.txt is only part of access."
+  ],
+  "sections": [
+    {
+      "heading": "Why the user agent matters",
+      "body_html": "<p>A user agent is the name a crawler gives when it requests a page. robots.txt rules are written per user agent, so knowing the exact names lets you decide, platform by platform, whether your content can be used for AI search answers, for model training, or both. Getting a name wrong means your rule does nothing, or blocks something you meant to allow.</p>"
+    },
+    {
+      "heading": "OpenAI",
+      "body_html": "<ul><li><strong>OAI-SearchBot</strong>: finds pages to show and link in ChatGPT search results. Allow it if you want to appear in ChatGPT answers.</li><li><strong>ChatGPT-User</strong>: fetches a page when a ChatGPT user or custom GPT asks for it.</li><li><strong>GPTBot</strong>: collects content that may be used to train OpenAI's models. Blocking it does not remove you from ChatGPT search results, according to OpenAI.</li></ul>"
+    },
+    {
+      "heading": "Anthropic and Perplexity",
+      "body_html": "<p><strong>Anthropic</strong> lists three bots: <strong>ClaudeBot</strong> for training data, <strong>Claude-SearchBot</strong> for improving search results in Claude, and <strong>Claude-User</strong> for fetching pages when a Claude user asks. Anthropic says its bots respect robots.txt.</p><p><strong>Perplexity</strong> uses <strong>PerplexityBot</strong> to surface and link sites in its search results, and says it is not used to crawl content for training foundation models. <strong>Perplexity-User</strong> fetches pages in response to a user's question.</p>"
+    },
+    {
+      "heading": "Google, Apple and Meta",
+      "body_html": "<p><strong>Google-Extended</strong> is a control token, not a separate crawler: it tells Google whether content crawled by Googlebot may be used to train Gemini models and for grounding in some Gemini features. Google says it does not affect inclusion or ranking in Google Search, including AI Overviews.</p><p><strong>Apple</strong> uses Applebot for Siri, Spotlight and Safari features. <strong>Applebot-Extended</strong> lets publishers opt out of their content being used to train Apple's generative foundation models; Apple notes Applebot may still crawl pages for its other features.</p><p><strong>Meta</strong> lists <strong>Meta-ExternalAgent</strong>, which crawls for uses such as training AI models or improving products by indexing content, and <strong>Meta-ExternalFetcher</strong>, which fetches individual links at a user's request.</p>"
+    },
+    {
+      "heading": "Common Crawl",
+      "body_html": "<p><strong>CCBot</strong> is the crawler of Common Crawl, a non-profit that publishes a large open web archive used widely in research and AI training. Common Crawl documents a robots.txt rule to block it and warns that some crawlers falsely identify themselves as CCBot, so it recommends verifying user agents.</p>"
+    },
+    {
+      "heading": "Which bots to allow",
+      "body_html": "<table><tr><th>If you want to</th><th>Allow</th><th>Optional to block</th></tr><tr><td>Appear in ChatGPT search</td><td>OAI-SearchBot, ChatGPT-User</td><td>GPTBot</td></tr><tr><td>Appear in Claude answers</td><td>Claude-SearchBot, Claude-User</td><td>ClaudeBot</td></tr><tr><td>Appear in Perplexity</td><td>PerplexityBot, Perplexity-User</td><td>None needed</td></tr><tr><td>Appear in Google AI Overviews</td><td>Googlebot</td><td>Google-Extended (no effect on Search)</td></tr><tr><td>Appear in Copilot</td><td>Bingbot</td><td>None needed</td></tr><tr><td>Keep content out of Apple model training</td><td>Applebot</td><td>Applebot-Extended</td></tr></table><p>For a business that wants leads from AI search, the usual choice is to allow every search and user-fetch bot. Whether to allow training bots is a policy decision; allowing them may help models learn about your brand over time.</p>"
+    },
+    {
+      "heading": "An example robots.txt",
+      "body_html": "<p>This example allows AI search, blocks two training crawlers and keeps a private folder closed to all bots:</p><p><code>User-agent: GPTBot</code><br><code>Disallow: /</code><br><br><code>User-agent: CCBot</code><br><code>Disallow: /</code><br><br><code>User-agent: *</code><br><code>Disallow: /private/</code><br><br><code>Sitemap: https://example.com/sitemap.xml</code></p><p>Bots not named in their own group follow the <code>*</code> rules, so OAI-SearchBot, Claude-SearchBot and PerplexityBot are allowed here. Each crawler follows the most specific group that matches its name.</p>"
+    },
+    {
+      "heading": "Check more than robots.txt",
+      "body_html": "<ol><li><strong>Firewalls and CDNs</strong> may block AI bots by default; check their bot settings.</li><li><strong>Server logs</strong> show which bots actually reach you and their response codes.</li><li><strong>Verify identities</strong>: several companies publish IP ranges so you can confirm a bot is genuine.</li><li><strong>Review quarterly</strong>: companies add and rename crawlers, so revisit the official documentation.</li></ol>"
+    },
+    {
+      "heading": "How to verify a bot is genuine",
+      "body_html": "<p>Anyone can put \"GPTBot\" or \"ClaudeBot\" in a request header, so a user agent name alone proves nothing. Before you whitelist or block traffic based on it, confirm the request really comes from the company it claims. OpenAI and Perplexity publish the IP ranges their crawlers use, and Common Crawl says CCBot now runs from dedicated IP ranges. For Googlebot and Bingbot, the standard method is a reverse DNS lookup on the requesting IP, followed by a forward lookup to confirm it resolves back.</p><p>Many CDNs and security services can do this automatically and label verified bots. If yours offers a verified-bot category, use it instead of matching names yourself.</p>"
+    },
+    {
+      "heading": "Mistakes we see most often",
+      "body_html": "<ul><li><strong>Blocking every AI bot with one rule</strong>, which also removes the site from ChatGPT, Claude and Perplexity answers.</li><li><strong>Misspelled user agents</strong>, such as \"GPT-Bot\" or \"Claude-Web\", that match nothing.</li><li><strong>Relying on robots.txt while a firewall blocks the bot anyway</strong>, so the allow rule never matters.</li><li><strong>Blocking Google-Extended to stay out of AI Overviews</strong>, which it does not do.</li><li><strong>Never re-checking</strong>: crawler names and purposes change, so a rule written in 2024 may no longer do what you intended.</li></ul><p>A quarterly review of robots.txt, firewall settings and server logs catches nearly all of these.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What are the main AI crawler user agents?",
+      "a": "GPTBot, OAI-SearchBot and ChatGPT-User (OpenAI); ClaudeBot, Claude-SearchBot and Claude-User (Anthropic); PerplexityBot and Perplexity-User; Google-Extended; Applebot-Extended; Meta-ExternalAgent; and CCBot."
+    },
+    {
+      "q": "Should I block GPTBot?",
+      "a": "Blocking GPTBot stops OpenAI using your content for training but, according to OpenAI, does not remove you from ChatGPT search results, which use OAI-SearchBot."
+    },
+    {
+      "q": "Does blocking Google-Extended remove me from AI Overviews?",
+      "a": "No. Google says Google-Extended does not affect inclusion or ranking in Google Search, including AI Overviews."
+    },
+    {
+      "q": "Which AI bots should a business allow?",
+      "a": "If you want leads from AI search, allow the search and user-fetch bots: OAI-SearchBot, ChatGPT-User, Claude-SearchBot, Claude-User, PerplexityBot, Perplexity-User, Googlebot and Bingbot."
+    },
+    {
+      "q": "How do I know which AI bots visit my site?",
+      "a": "Check your server or CDN logs for their user agent names, and verify them against the IP ranges each company publishes."
+    },
+    {
+      "q": "Can fake bots pretend to be AI crawlers?",
+      "a": "Yes. Common Crawl warns that some crawlers falsely identify as CCBot. Verify by IP range where the company publishes one."
+    },
+    {
+      "q": "Do AI crawlers follow robots.txt?",
+      "a": "OpenAI, Anthropic, Perplexity, Google, Apple and Common Crawl all document robots.txt controls for their crawlers. Bots that fake their identity may not, which is why verifying by IP range or reverse DNS matters for anything you want to enforce strictly."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "robots.txt for AI crawlers",
+      "url": "https://thechimeraai.com/robots-txt-for-ai-crawlers/"
+    },
+    {
+      "anchor": "llms.txt best practices",
+      "url": "https://thechimeraai.com/best-practices-for-llms-txt/"
+    },
+    {
+      "anchor": "how to rank in ChatGPT",
+      "url": "https://thechimeraai.com/how-to-rank-in-chatgpt/"
+    },
+    {
+      "anchor": "how to get cited by Claude",
+      "url": "https://thechimeraai.com/how-to-get-cited-by-claude/"
+    },
+    {
+      "anchor": "Chimera's GEO services",
+      "url": "https://thechimeraai.com/#services"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "OpenAI: Overview of OpenAI crawlers",
+      "url": "https://platform.openai.com/docs/bots"
+    },
+    {
+      "title": "Anthropic: Does Anthropic crawl data from the web, and how can site owners block the crawler?",
+      "url": "https://support.anthropic.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler"
+    },
+    {
+      "title": "Perplexity: Perplexity crawlers",
+      "url": "https://docs.perplexity.ai/guides/bots"
+    },
+    {
+      "title": "Google Search Central: Google's common crawlers (including Google-Extended)",
+      "url": "https://developers.google.com/search/docs/crawling-indexing/google-common-crawlers"
+    },
+    {
+      "title": "Apple: About Applebot",
+      "url": "https://support.apple.com/en-us/119829"
+    },
+    {
+      "title": "Meta for Developers: Meta web crawlers",
+      "url": "https://developers.facebook.com/docs/sharing/webmasters/web-crawlers/"
+    },
+    {
+      "title": "Common Crawl: CCBot",
+      "url": "https://commoncrawl.org/ccbot"
+    },
+    {
+      "title": "Google Search Central: Introduction to robots.txt",
+      "url": "https://developers.google.com/search/docs/crawling-indexing/robots/intro"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 1,
+      "type": "matrix",
+      "eyebrow": "Crawler access",
+      "title": "Which crawler each AI platform uses",
+      "lead": "Allow these in robots.txt and your firewall, or that platform cannot read your pages for its answers.",
+      "columns": [
+        "chatgpt",
+        "perplexity",
+        "google",
+        "claude",
+        "copilot"
+      ],
+      "rows": [
+        {
+          "label": "Crawler for search answers",
+          "cells": [
+            "OAI-SearchBot",
+            "PerplexityBot",
+            "Googlebot",
+            "Claude-SearchBot",
+            "Bingbot"
+          ]
+        },
+        {
+          "label": "Fetches pages on a user's request",
+          "cells": [
+            "ChatGPT-User",
+            "Perplexity-User",
+            "Googlebot",
+            "Claude-User",
+            "Bingbot"
+          ]
+        },
+        {
+          "label": "Separate training crawler you can block",
+          "cells": [
+            "Yes: GPTBot",
+            "Not used for training",
+            "Yes: Google-Extended",
+            "Yes: ClaudeBot",
+            "No separate bot"
+          ]
+        }
+      ],
+      "source": {
+        "title": "OpenAI, Perplexity, Google and Anthropic crawler documentation",
+        "url": "https://platform.openai.com/docs/bots",
+        "note": "Check each platform's docs for changes"
+      }
+    },
+    {
+      "after": 5,
+      "type": "scorecard",
+      "eyebrow": "Scorecard",
+      "title": "Search bots vs training bots",
+      "lead": "How blocking each type affects AI search visibility (5 = biggest loss).",
+      "rows": [
+        {
+          "label": "Blocking OAI-SearchBot",
+          "score": 5,
+          "note": "Removes you from ChatGPT search answers."
+        },
+        {
+          "label": "Blocking PerplexityBot",
+          "score": 5,
+          "note": "Removes you from Perplexity answers."
+        },
+        {
+          "label": "Blocking Claude-SearchBot",
+          "score": 4,
+          "note": "Reduces visibility in Claude search answers."
+        },
+        {
+          "label": "Blocking GPTBot",
+          "score": 1,
+          "note": "Training only, per OpenAI."
+        },
+        {
+          "label": "Blocking Google-Extended",
+          "score": 1,
+          "note": "No effect on Google Search or AI Overviews."
+        }
+      ]
+    }
+  ],
+  "hero_query": "Which AI crawler user agents should I allow?",
+  "short_title": "AI Crawler User Agents List",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 258,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/ai-crawler-user-agents-chimera.jpg",
+    "alt": "AI Crawler User Agents: The 2026 List for robots.txt: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-06",
+  "updated": "2026-11-06"
+}

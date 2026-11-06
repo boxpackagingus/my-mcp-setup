@@ -1,5 +1,260 @@
 [
   {
+    "keyword": "AI crawler user agents",
+    "kind": "Main",
+    "page": "ai-crawler-user-agents"
+  },
+  {
+    "keyword": "AI bots robots.txt",
+    "kind": "Supporting",
+    "page": "ai-crawler-user-agents"
+  },
+  {
+    "keyword": "GPTBot",
+    "kind": "Supporting",
+    "page": "ai-crawler-user-agents"
+  },
+  {
+    "keyword": "ClaudeBot",
+    "kind": "Supporting",
+    "page": "ai-crawler-user-agents"
+  },
+  {
+    "keyword": "PerplexityBot",
+    "kind": "Supporting",
+    "page": "ai-crawler-user-agents"
+  },
+  {
+    "keyword": "list of AI crawlers",
+    "kind": "Supporting",
+    "page": "ai-crawler-user-agents"
+  },
+  {
+    "keyword": "AI search statistics",
+    "kind": "Main",
+    "page": "ai-search-statistics"
+  },
+  {
+    "keyword": "AI Overviews statistics",
+    "kind": "Supporting",
+    "page": "ai-search-statistics"
+  },
+  {
+    "keyword": "ChatGPT usage statistics",
+    "kind": "Supporting",
+    "page": "ai-search-statistics"
+  },
+  {
+    "keyword": "zero-click search statistics",
+    "kind": "Supporting",
+    "page": "ai-search-statistics"
+  },
+  {
+    "keyword": "generative AI search data",
+    "kind": "Supporting",
+    "page": "ai-search-statistics"
+  },
+  {
+    "keyword": "GEO for dentists",
+    "kind": "Main",
+    "page": "geo-for-dentists"
+  },
+  {
+    "keyword": "dental practice AI search",
+    "kind": "Supporting",
+    "page": "geo-for-dentists"
+  },
+  {
+    "keyword": "AI SEO for dentists",
+    "kind": "Supporting",
+    "page": "geo-for-dentists"
+  },
+  {
+    "keyword": "dentist ChatGPT",
+    "kind": "Supporting",
+    "page": "geo-for-dentists"
+  },
+  {
+    "keyword": "dental marketing AI",
+    "kind": "Supporting",
+    "page": "geo-for-dentists"
+  },
+  {
+    "keyword": "GEO for law firms",
+    "kind": "Main",
+    "page": "geo-for-law-firms"
+  },
+  {
+    "keyword": "law firm AI search",
+    "kind": "Supporting",
+    "page": "geo-for-law-firms"
+  },
+  {
+    "keyword": "AI SEO for lawyers",
+    "kind": "Supporting",
+    "page": "geo-for-law-firms"
+  },
+  {
+    "keyword": "ChatGPT for law firms",
+    "kind": "Supporting",
+    "page": "geo-for-law-firms"
+  },
+  {
+    "keyword": "legal marketing AI",
+    "kind": "Supporting",
+    "page": "geo-for-law-firms"
+  },
+  {
+    "keyword": "how AI search engines choose sources",
+    "kind": "Main",
+    "page": "how-ai-search-engines-choose-sources"
+  },
+  {
+    "keyword": "how AI chooses sources",
+    "kind": "Supporting",
+    "page": "how-ai-search-engines-choose-sources"
+  },
+  {
+    "keyword": "AI citations",
+    "kind": "Supporting",
+    "page": "how-ai-search-engines-choose-sources"
+  },
+  {
+    "keyword": "how ChatGPT picks sources",
+    "kind": "Supporting",
+    "page": "how-ai-search-engines-choose-sources"
+  },
+  {
+    "keyword": "AI Overviews sources",
+    "kind": "Supporting",
+    "page": "how-ai-search-engines-choose-sources"
+  },
+  {
+    "keyword": "how long does GEO take",
+    "kind": "Main",
+    "page": "how-long-does-geo-take"
+  },
+  {
+    "keyword": "GEO timeline",
+    "kind": "Supporting",
+    "page": "how-long-does-geo-take"
+  },
+  {
+    "keyword": "how long for AI search results",
+    "kind": "Supporting",
+    "page": "how-long-does-geo-take"
+  },
+  {
+    "keyword": "generative engine optimization timeline",
+    "kind": "Supporting",
+    "page": "how-long-does-geo-take"
+  },
+  {
+    "keyword": "GEO results",
+    "kind": "Supporting",
+    "page": "how-long-does-geo-take"
+  },
+  {
+    "keyword": "is SEO dead",
+    "kind": "Main",
+    "page": "is-seo-dead"
+  },
+  {
+    "keyword": "SEO in the age of AI",
+    "kind": "Supporting",
+    "page": "is-seo-dead"
+  },
+  {
+    "keyword": "future of SEO",
+    "kind": "Supporting",
+    "page": "is-seo-dead"
+  },
+  {
+    "keyword": "AI search and SEO",
+    "kind": "Supporting",
+    "page": "is-seo-dead"
+  },
+  {
+    "keyword": "does SEO still work",
+    "kind": "Supporting",
+    "page": "is-seo-dead"
+  },
+  {
+    "keyword": "LLM SEO",
+    "kind": "Main",
+    "page": "what-is-llm-seo"
+  },
+  {
+    "keyword": "large language model optimization",
+    "kind": "Supporting",
+    "page": "what-is-llm-seo"
+  },
+  {
+    "keyword": "AI SEO",
+    "kind": "Supporting",
+    "page": "what-is-llm-seo"
+  },
+  {
+    "keyword": "LLM optimization",
+    "kind": "Supporting",
+    "page": "what-is-llm-seo"
+  },
+  {
+    "keyword": "generative engine optimization",
+    "kind": "Supporting",
+    "page": "what-is-llm-seo"
+  },
+  {
+    "keyword": "query fan-out",
+    "kind": "Main",
+    "page": "what-is-query-fan-out"
+  },
+  {
+    "keyword": "AI Mode query fan-out",
+    "kind": "Supporting",
+    "page": "what-is-query-fan-out"
+  },
+  {
+    "keyword": "Google AI Overviews sources",
+    "kind": "Supporting",
+    "page": "what-is-query-fan-out"
+  },
+  {
+    "keyword": "fan-out search",
+    "kind": "Supporting",
+    "page": "what-is-query-fan-out"
+  },
+  {
+    "keyword": "AI search sub-queries",
+    "kind": "Supporting",
+    "page": "what-is-query-fan-out"
+  },
+  {
+    "keyword": "zero-click searches",
+    "kind": "Main",
+    "page": "zero-click-searches"
+  },
+  {
+    "keyword": "zero-click search",
+    "kind": "Supporting",
+    "page": "zero-click-searches"
+  },
+  {
+    "keyword": "no-click searches",
+    "kind": "Supporting",
+    "page": "zero-click-searches"
+  },
+  {
+    "keyword": "zero-click SEO",
+    "kind": "Supporting",
+    "page": "zero-click-searches"
+  },
+  {
+    "keyword": "AI Overviews clicks",
+    "kind": "Supporting",
+    "page": "zero-click-searches"
+  },
+  {
     "keyword": "AI Overviews vs featured snippets",
     "kind": "Main",
     "page": "ai-overviews-vs-featured-snippets"
@@ -56,11 +311,6 @@
   },
   {
     "keyword": "answer engine optimization",
-    "kind": "Supporting",
-    "page": "answer-engine-optimization-vs-generative-engine-optimization"
-  },
-  {
-    "keyword": "generative engine optimization",
     "kind": "Supporting",
     "page": "answer-engine-optimization-vs-generative-engine-optimization"
   },
@@ -460,11 +710,6 @@
     "page": "how-to-optimize-for-google-ai-mode"
   },
   {
-    "keyword": "query fan-out",
-    "kind": "Supporting",
-    "page": "how-to-optimize-for-google-ai-mode"
-  },
-  {
     "keyword": "conversational search",
     "kind": "Supporting",
     "page": "how-to-optimize-for-google-ai-mode"
@@ -645,11 +890,6 @@
     "page": "perplexity-seo"
   },
   {
-    "keyword": "PerplexityBot",
-    "kind": "Supporting",
-    "page": "perplexity-seo"
-  },
-  {
     "keyword": "Perplexity AI search",
     "kind": "Supporting",
     "page": "perplexity-seo"
@@ -666,11 +906,6 @@
   },
   {
     "keyword": "AI crawlers",
-    "kind": "Supporting",
-    "page": "robots-txt-for-ai-crawlers"
-  },
-  {
-    "keyword": "GPTBot",
     "kind": "Supporting",
     "page": "robots-txt-for-ai-crawlers"
   },

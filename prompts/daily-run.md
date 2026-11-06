@@ -29,7 +29,11 @@ This writes `data/queue.json`, sorted by score. `status` tells you how many page
 
 ## 4. Pick N queries
 
-Take candidates from the top of `data/queue.json`. Skip any query that:
+First use `data/topic_plan.json` (the 50-page plan). Take the first N topics with `"status": "planned"`.
+Skip a planned topic, and take the next one, if a page in `content/published/` already answers the same question.
+When the plan has no planned topics left, take candidates from the top of `data/queue.json` instead.
+
+Skip any query that:
 - has nothing to do with the business in `config/site.json`,
 - is a person's name, a competitor's brand name, or someone else's product,
 - you cannot answer well and honestly, or
@@ -37,7 +41,11 @@ Take candidates from the top of `data/queue.json`. Skip any query that:
 
 ## 5. Write one draft per query
 
-For each query, write `content/drafts/<slug>.json` in the same shape as `content/examples/is-geo-bring-sales.json`.
+Write the day's pages as one build file, `content/build/batchN.py` (copy the pattern of the latest batch file: `page(...)` specs, `visuals_lib` charts, `save_all`). Run it to write `content/drafts/<slug>.json`.
+
+Before using any statistic, download its source page with curl and confirm the exact number, wording and date. Add new sources to `SRC` in the batch file. Use only facts you confirmed.
+
+Each page gets 2–4 visuals (charts, flows, timelines, scorecards, engine logos). Use data charts only with sourced numbers.
 
 Rules for every page:
 - **Answer first.** `answer` is 40–60 words, answers the query directly, and contains the primary keyword.
@@ -52,7 +60,15 @@ Rules for every page:
 - Follow `site.tone`, and never use any phrase in `site.never_say`.
 - Write HTML in `body_html` using only `<p> <h3> <ul> <ol> <li> <strong> <em> <a> <table> <tr> <th> <td> <blockquote> <code>`. No scripts, no inline styles.
 
-## 6. Quality gate, then publish
+## 6. Images
+
+```bash
+python -m engine heroes      # renders and uploads a hero image for each draft
+```
+
+Then try one Kittl photo per page (Kittl tool `kittl-generate-media`, model `cmkwr4rin0s11df0iqwaibffd`, workspace `cmw3ss0u90wf20j8zh8ygbry6`, 16:9, editorial style: "navy and violet tones with golden accents, realistic, no readable text, no logos"). Download from cache.kittl.com, blur any garbled text, upload to WordPress media, and set `photo` in the draft (see `content/build/photos.json` for the shape). If Kittl is out of credits, publish without the photo and say so in the report.
+
+## 7. Quality gate, then publish
 
 ```bash
 python -m engine quality content/drafts/*.json
@@ -66,13 +82,14 @@ python -m engine sitecheck    # checks llms.txt, llms-full.txt, robots.txt, site
 python -m engine dashboard
 ```
 
-## 7. Save and report
+## 8. Save and report
 
 1. Write `data/last-run.md` with:
    - pages published today, with their URLs
    - pages that failed and why
    - the key numbers from `track`
    - anything that needs a human
+   - progress on the 50-page plan (mark published topics in `data/topic_plan.json` with `"status": "published"` and the date)
 2. Commit everything with the message `Daily run YYYY-MM-DD` and push to `main`.
 3. Refresh the dashboard at https://claude.ai/artifact/Dd9pgZazE6LyFGzXSp8seV:
    - Run `python -m engine export`. It writes nine files in `dashboard/export/`: `totals`, `pages`, `keywords`, `daily`, `upcoming`, `site_files`, `page_checks`, `indexing` and `runs`. Each one matches the `datasets/<name>` document with the same name.
