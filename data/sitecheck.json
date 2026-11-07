@@ -1,5 +1,5 @@
 {
-  "checked": "2026-11-06T15:31:22Z",
+  "checked": "2026-11-07T12:42:53Z",
   "files": [
     {
       "file": "robots.txt",
@@ -9,7 +9,7 @@
       "items": 5,
       "items_label": "AI crawlers allowed",
       "note": "Lists the sitemap",
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "file": "Sitemap",
@@ -19,7 +19,7 @@
       "items": 84,
       "items_label": "pages listed",
       "note": "Google reads this to find new pages",
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "file": "llms.txt",
@@ -29,7 +29,7 @@
       "items": 81,
       "items_label": "guides listed",
       "note": "Map of your site for AI assistants",
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "file": "llms-full.txt",
@@ -39,7 +39,7 @@
       "items": 81,
       "items_label": "full guides included",
       "note": "698 KB of plain text for AI assistants",
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     }
   ],
   "pages": [
@@ -53,7 +53,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "ai-visibility-audit",
@@ -65,7 +65,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "answer-engine-optimization-vs-generative-engine-optimization",
@@ -77,7 +77,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "best-practices-for-llms-txt",
@@ -89,7 +89,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "entity-seo-for-ai-search",
@@ -101,7 +101,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "gemini-seo",
@@ -113,7 +113,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "generative-engine-optimization-agency",
@@ -125,7 +125,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "geo-agency-orange-county",
@@ -137,7 +137,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "geo-for-b2b-saas",
@@ -149,7 +149,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "geo-for-ecommerce",
@@ -161,7 +161,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "geo-mistakes-to-avoid",
@@ -173,7 +173,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "geo-seo-best-practices",
@@ -185,7 +185,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "geo-vs-seo",
@@ -197,7 +197,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "how-much-does-geo-cost",
@@ -209,7 +209,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "how-to-check-if-chatgpt-mentions-your-brand",
@@ -221,7 +221,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "how-to-choose-a-geo-agency",
@@ -233,7 +233,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "how-to-get-brand-mentions-for-ai-search",
@@ -245,7 +245,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "how-to-get-cited-by-claude",
@@ -257,7 +257,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "how-to-measure-geo-results",
@@ -269,7 +269,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "how-to-optimize-for-google-ai-mode",
@@ -281,7 +281,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "how-to-rank-in-chatgpt",
@@ -293,7 +293,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "how-to-show-up-in-google-ai-overviews",
@@ -305,7 +305,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "how-to-track-ai-traffic-in-google-analytics",
@@ -317,7 +317,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "how-to-write-content-for-ai-search",
@@ -329,7 +329,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "is-geo-bring-sales",
@@ -341,7 +341,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "local-geo",
@@ -353,7 +353,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "microsoft-copilot-seo",
@@ -365,7 +365,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "perplexity-seo",
@@ -377,7 +377,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "robots-txt-for-ai-crawlers",
@@ -389,7 +389,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "schema-markup-for-ai-search",
@@ -401,7 +401,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "what-is-generative-engine-optimization-and-how-does-it-work",
@@ -413,7 +413,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "ai-crawler-user-agents",
@@ -425,7 +425,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "ai-search-for-b2b-lead-generation",
@@ -437,7 +437,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "ai-search-optimization-checklist",
@@ -449,7 +449,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "ai-search-statistics",
@@ -461,7 +461,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "ai-share-of-voice",
@@ -473,7 +473,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "author-pages-for-eeat",
@@ -485,7 +485,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "chatgpt-search-vs-google",
@@ -497,7 +497,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "digital-pr-for-ai-search",
@@ -509,7 +509,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "does-google-penalize-ai-content",
@@ -521,7 +521,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "eeat-for-ai-search",
@@ -533,7 +533,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "faq-pages-for-ai-search",
@@ -545,7 +545,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "geo-content-strategy",
@@ -557,7 +557,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "geo-for-dentists",
@@ -569,7 +569,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "geo-for-financial-advisors",
@@ -581,7 +581,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "geo-for-healthcare",
@@ -593,7 +593,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "geo-for-home-services",
@@ -605,7 +605,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "geo-for-hotels",
@@ -617,7 +617,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "geo-for-law-firms",
@@ -629,7 +629,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "geo-for-manufacturers",
@@ -641,7 +641,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "geo-for-med-spas",
@@ -653,7 +653,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "geo-for-multi-location-businesses",
@@ -665,7 +665,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "geo-for-real-estate-agents",
@@ -677,7 +677,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "geo-for-restaurants",
@@ -689,7 +689,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "geo-for-startups",
@@ -701,7 +701,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "geo-roi",
@@ -713,7 +713,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "geo-vs-ppc",
@@ -725,7 +725,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "how-ai-search-engines-choose-sources",
@@ -737,7 +737,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "how-chatgpt-recommends-local-businesses",
@@ -749,7 +749,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "how-long-does-geo-take",
@@ -761,7 +761,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "how-long-should-content-be-for-ai-search",
@@ -773,7 +773,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "how-to-find-prompts-people-ask-ai",
@@ -785,7 +785,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "how-to-fix-wrong-information-about-your-brand-in-chatgpt",
@@ -797,7 +797,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "how-to-get-a-google-knowledge-panel",
@@ -809,7 +809,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "how-to-get-on-best-of-lists",
@@ -821,7 +821,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "how-to-optimize-for-meta-ai",
@@ -833,7 +833,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "how-to-track-ai-visibility",
@@ -845,7 +845,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "how-to-update-old-content-for-ai-search",
@@ -857,7 +857,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "how-to-write-comparison-pages",
@@ -869,7 +869,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "internal-linking-for-ai-search",
@@ -881,7 +881,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "is-seo-dead",
@@ -893,7 +893,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "local-business-schema-for-ai-search",
@@ -905,7 +905,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "press-releases-for-ai-search",
@@ -917,7 +917,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "product-pages-for-ai-shopping",
@@ -929,7 +929,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "reddit-for-ai-search",
@@ -941,7 +941,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "topical-authority-for-ai-search",
@@ -953,7 +953,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "what-is-llm-seo",
@@ -965,7 +965,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "what-is-query-fan-out",
@@ -977,7 +977,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "wikipedia-and-wikidata-for-ai-search",
@@ -989,7 +989,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "youtube-for-ai-search",
@@ -1001,7 +1001,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     },
     {
       "slug": "zero-click-searches",
@@ -1013,7 +1013,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-06T15:31:22Z"
+      "checked": "2026-11-07T12:42:53Z"
     }
   ]
 }
