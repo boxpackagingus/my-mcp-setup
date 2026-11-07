@@ -30,6 +30,56 @@
     "page": "ai-crawler-user-agents"
   },
   {
+    "keyword": "AI search for B2B lead generation",
+    "kind": "Main",
+    "page": "ai-search-for-b2b-lead-generation"
+  },
+  {
+    "keyword": "B2B AI search",
+    "kind": "Supporting",
+    "page": "ai-search-for-b2b-lead-generation"
+  },
+  {
+    "keyword": "AI lead generation",
+    "kind": "Supporting",
+    "page": "ai-search-for-b2b-lead-generation"
+  },
+  {
+    "keyword": "B2B GEO",
+    "kind": "Supporting",
+    "page": "ai-search-for-b2b-lead-generation"
+  },
+  {
+    "keyword": "AI search pipeline",
+    "kind": "Supporting",
+    "page": "ai-search-for-b2b-lead-generation"
+  },
+  {
+    "keyword": "AI search optimization checklist",
+    "kind": "Main",
+    "page": "ai-search-optimization-checklist"
+  },
+  {
+    "keyword": "GEO checklist",
+    "kind": "Supporting",
+    "page": "ai-search-optimization-checklist"
+  },
+  {
+    "keyword": "AI SEO checklist",
+    "kind": "Supporting",
+    "page": "ai-search-optimization-checklist"
+  },
+  {
+    "keyword": "generative engine optimization checklist",
+    "kind": "Supporting",
+    "page": "ai-search-optimization-checklist"
+  },
+  {
+    "keyword": "AI visibility checklist",
+    "kind": "Supporting",
+    "page": "ai-search-optimization-checklist"
+  },
+  {
     "keyword": "AI search statistics",
     "kind": "Main",
     "page": "ai-search-statistics"
@@ -55,6 +105,206 @@
     "page": "ai-search-statistics"
   },
   {
+    "keyword": "AI share of voice",
+    "kind": "Main",
+    "page": "ai-share-of-voice"
+  },
+  {
+    "keyword": "AI visibility",
+    "kind": "Supporting",
+    "page": "ai-share-of-voice"
+  },
+  {
+    "keyword": "share of voice in ChatGPT",
+    "kind": "Supporting",
+    "page": "ai-share-of-voice"
+  },
+  {
+    "keyword": "brand mentions in AI answers",
+    "kind": "Supporting",
+    "page": "ai-share-of-voice"
+  },
+  {
+    "keyword": "AI search measurement",
+    "kind": "Supporting",
+    "page": "ai-share-of-voice"
+  },
+  {
+    "keyword": "author pages",
+    "kind": "Main",
+    "page": "author-pages-for-eeat"
+  },
+  {
+    "keyword": "author bio",
+    "kind": "Supporting",
+    "page": "author-pages-for-eeat"
+  },
+  {
+    "keyword": "E-E-A-T author",
+    "kind": "Supporting",
+    "page": "author-pages-for-eeat"
+  },
+  {
+    "keyword": "author schema",
+    "kind": "Supporting",
+    "page": "author-pages-for-eeat"
+  },
+  {
+    "keyword": "expert reviewer",
+    "kind": "Supporting",
+    "page": "author-pages-for-eeat"
+  },
+  {
+    "keyword": "ChatGPT search vs Google",
+    "kind": "Main",
+    "page": "chatgpt-search-vs-google"
+  },
+  {
+    "keyword": "ChatGPT vs Google",
+    "kind": "Supporting",
+    "page": "chatgpt-search-vs-google"
+  },
+  {
+    "keyword": "ChatGPT search SEO",
+    "kind": "Supporting",
+    "page": "chatgpt-search-vs-google"
+  },
+  {
+    "keyword": "AI search vs traditional search",
+    "kind": "Supporting",
+    "page": "chatgpt-search-vs-google"
+  },
+  {
+    "keyword": "ChatGPT search engine",
+    "kind": "Supporting",
+    "page": "chatgpt-search-vs-google"
+  },
+  {
+    "keyword": "digital PR for AI search",
+    "kind": "Main",
+    "page": "digital-pr-for-ai-search"
+  },
+  {
+    "keyword": "PR for GEO",
+    "kind": "Supporting",
+    "page": "digital-pr-for-ai-search"
+  },
+  {
+    "keyword": "press mentions AI",
+    "kind": "Supporting",
+    "page": "digital-pr-for-ai-search"
+  },
+  {
+    "keyword": "earned media AI search",
+    "kind": "Supporting",
+    "page": "digital-pr-for-ai-search"
+  },
+  {
+    "keyword": "journalist outreach",
+    "kind": "Supporting",
+    "page": "digital-pr-for-ai-search"
+  },
+  {
+    "keyword": "does Google penalize AI content",
+    "kind": "Main",
+    "page": "does-google-penalize-ai-content"
+  },
+  {
+    "keyword": "AI generated content SEO",
+    "kind": "Supporting",
+    "page": "does-google-penalize-ai-content"
+  },
+  {
+    "keyword": "Google AI content policy",
+    "kind": "Supporting",
+    "page": "does-google-penalize-ai-content"
+  },
+  {
+    "keyword": "scaled content abuse",
+    "kind": "Supporting",
+    "page": "does-google-penalize-ai-content"
+  },
+  {
+    "keyword": "AI writing and Google",
+    "kind": "Supporting",
+    "page": "does-google-penalize-ai-content"
+  },
+  {
+    "keyword": "E-E-A-T for AI search",
+    "kind": "Main",
+    "page": "eeat-for-ai-search"
+  },
+  {
+    "keyword": "E-E-A-T",
+    "kind": "Supporting",
+    "page": "eeat-for-ai-search"
+  },
+  {
+    "keyword": "experience expertise authoritativeness trust",
+    "kind": "Supporting",
+    "page": "eeat-for-ai-search"
+  },
+  {
+    "keyword": "EEAT AI Overviews",
+    "kind": "Supporting",
+    "page": "eeat-for-ai-search"
+  },
+  {
+    "keyword": "content trust signals",
+    "kind": "Supporting",
+    "page": "eeat-for-ai-search"
+  },
+  {
+    "keyword": "FAQ pages for AI search",
+    "kind": "Main",
+    "page": "faq-pages-for-ai-search"
+  },
+  {
+    "keyword": "FAQ schema",
+    "kind": "Supporting",
+    "page": "faq-pages-for-ai-search"
+  },
+  {
+    "keyword": "FAQ content",
+    "kind": "Supporting",
+    "page": "faq-pages-for-ai-search"
+  },
+  {
+    "keyword": "question and answer content",
+    "kind": "Supporting",
+    "page": "faq-pages-for-ai-search"
+  },
+  {
+    "keyword": "FAQ rich results",
+    "kind": "Supporting",
+    "page": "faq-pages-for-ai-search"
+  },
+  {
+    "keyword": "GEO content strategy",
+    "kind": "Main",
+    "page": "geo-content-strategy"
+  },
+  {
+    "keyword": "AI search content strategy",
+    "kind": "Supporting",
+    "page": "geo-content-strategy"
+  },
+  {
+    "keyword": "GEO content plan",
+    "kind": "Supporting",
+    "page": "geo-content-strategy"
+  },
+  {
+    "keyword": "content for AI Overviews",
+    "kind": "Supporting",
+    "page": "geo-content-strategy"
+  },
+  {
+    "keyword": "generative engine optimization content",
+    "kind": "Supporting",
+    "page": "geo-content-strategy"
+  },
+  {
     "keyword": "GEO for dentists",
     "kind": "Main",
     "page": "geo-for-dentists"
@@ -78,181 +328,6 @@
     "keyword": "dental marketing AI",
     "kind": "Supporting",
     "page": "geo-for-dentists"
-  },
-  {
-    "keyword": "GEO for law firms",
-    "kind": "Main",
-    "page": "geo-for-law-firms"
-  },
-  {
-    "keyword": "law firm AI search",
-    "kind": "Supporting",
-    "page": "geo-for-law-firms"
-  },
-  {
-    "keyword": "AI SEO for lawyers",
-    "kind": "Supporting",
-    "page": "geo-for-law-firms"
-  },
-  {
-    "keyword": "ChatGPT for law firms",
-    "kind": "Supporting",
-    "page": "geo-for-law-firms"
-  },
-  {
-    "keyword": "legal marketing AI",
-    "kind": "Supporting",
-    "page": "geo-for-law-firms"
-  },
-  {
-    "keyword": "how AI search engines choose sources",
-    "kind": "Main",
-    "page": "how-ai-search-engines-choose-sources"
-  },
-  {
-    "keyword": "how AI chooses sources",
-    "kind": "Supporting",
-    "page": "how-ai-search-engines-choose-sources"
-  },
-  {
-    "keyword": "AI citations",
-    "kind": "Supporting",
-    "page": "how-ai-search-engines-choose-sources"
-  },
-  {
-    "keyword": "how ChatGPT picks sources",
-    "kind": "Supporting",
-    "page": "how-ai-search-engines-choose-sources"
-  },
-  {
-    "keyword": "AI Overviews sources",
-    "kind": "Supporting",
-    "page": "how-ai-search-engines-choose-sources"
-  },
-  {
-    "keyword": "how long does GEO take",
-    "kind": "Main",
-    "page": "how-long-does-geo-take"
-  },
-  {
-    "keyword": "GEO timeline",
-    "kind": "Supporting",
-    "page": "how-long-does-geo-take"
-  },
-  {
-    "keyword": "how long for AI search results",
-    "kind": "Supporting",
-    "page": "how-long-does-geo-take"
-  },
-  {
-    "keyword": "generative engine optimization timeline",
-    "kind": "Supporting",
-    "page": "how-long-does-geo-take"
-  },
-  {
-    "keyword": "GEO results",
-    "kind": "Supporting",
-    "page": "how-long-does-geo-take"
-  },
-  {
-    "keyword": "is SEO dead",
-    "kind": "Main",
-    "page": "is-seo-dead"
-  },
-  {
-    "keyword": "SEO in the age of AI",
-    "kind": "Supporting",
-    "page": "is-seo-dead"
-  },
-  {
-    "keyword": "future of SEO",
-    "kind": "Supporting",
-    "page": "is-seo-dead"
-  },
-  {
-    "keyword": "AI search and SEO",
-    "kind": "Supporting",
-    "page": "is-seo-dead"
-  },
-  {
-    "keyword": "does SEO still work",
-    "kind": "Supporting",
-    "page": "is-seo-dead"
-  },
-  {
-    "keyword": "LLM SEO",
-    "kind": "Main",
-    "page": "what-is-llm-seo"
-  },
-  {
-    "keyword": "large language model optimization",
-    "kind": "Supporting",
-    "page": "what-is-llm-seo"
-  },
-  {
-    "keyword": "AI SEO",
-    "kind": "Supporting",
-    "page": "what-is-llm-seo"
-  },
-  {
-    "keyword": "LLM optimization",
-    "kind": "Supporting",
-    "page": "what-is-llm-seo"
-  },
-  {
-    "keyword": "generative engine optimization",
-    "kind": "Supporting",
-    "page": "what-is-llm-seo"
-  },
-  {
-    "keyword": "query fan-out",
-    "kind": "Main",
-    "page": "what-is-query-fan-out"
-  },
-  {
-    "keyword": "AI Mode query fan-out",
-    "kind": "Supporting",
-    "page": "what-is-query-fan-out"
-  },
-  {
-    "keyword": "Google AI Overviews sources",
-    "kind": "Supporting",
-    "page": "what-is-query-fan-out"
-  },
-  {
-    "keyword": "fan-out search",
-    "kind": "Supporting",
-    "page": "what-is-query-fan-out"
-  },
-  {
-    "keyword": "AI search sub-queries",
-    "kind": "Supporting",
-    "page": "what-is-query-fan-out"
-  },
-  {
-    "keyword": "zero-click searches",
-    "kind": "Main",
-    "page": "zero-click-searches"
-  },
-  {
-    "keyword": "zero-click search",
-    "kind": "Supporting",
-    "page": "zero-click-searches"
-  },
-  {
-    "keyword": "no-click searches",
-    "kind": "Supporting",
-    "page": "zero-click-searches"
-  },
-  {
-    "keyword": "zero-click SEO",
-    "kind": "Supporting",
-    "page": "zero-click-searches"
-  },
-  {
-    "keyword": "AI Overviews clicks",
-    "kind": "Supporting",
-    "page": "zero-click-searches"
   },
   {
     "keyword": "GEO for financial advisors",
@@ -353,6 +428,31 @@
     "keyword": "travel AI search",
     "kind": "Supporting",
     "page": "geo-for-hotels"
+  },
+  {
+    "keyword": "GEO for law firms",
+    "kind": "Main",
+    "page": "geo-for-law-firms"
+  },
+  {
+    "keyword": "law firm AI search",
+    "kind": "Supporting",
+    "page": "geo-for-law-firms"
+  },
+  {
+    "keyword": "AI SEO for lawyers",
+    "kind": "Supporting",
+    "page": "geo-for-law-firms"
+  },
+  {
+    "keyword": "ChatGPT for law firms",
+    "kind": "Supporting",
+    "page": "geo-for-law-firms"
+  },
+  {
+    "keyword": "legal marketing AI",
+    "kind": "Supporting",
+    "page": "geo-for-law-firms"
   },
   {
     "keyword": "GEO for manufacturers",
@@ -505,104 +605,229 @@
     "page": "geo-for-startups"
   },
   {
-    "keyword": "digital PR for AI search",
+    "keyword": "GEO ROI",
     "kind": "Main",
-    "page": "digital-pr-for-ai-search"
+    "page": "geo-roi"
   },
   {
-    "keyword": "PR for GEO",
+    "keyword": "GEO return on investment",
     "kind": "Supporting",
-    "page": "digital-pr-for-ai-search"
+    "page": "geo-roi"
   },
   {
-    "keyword": "press mentions AI",
+    "keyword": "AI search ROI",
     "kind": "Supporting",
-    "page": "digital-pr-for-ai-search"
+    "page": "geo-roi"
   },
   {
-    "keyword": "earned media AI search",
+    "keyword": "measuring GEO value",
     "kind": "Supporting",
-    "page": "digital-pr-for-ai-search"
+    "page": "geo-roi"
   },
   {
-    "keyword": "journalist outreach",
+    "keyword": "GEO business case",
     "kind": "Supporting",
-    "page": "digital-pr-for-ai-search"
+    "page": "geo-roi"
   },
   {
-    "keyword": "does Google penalize AI content",
+    "keyword": "GEO vs PPC",
     "kind": "Main",
-    "page": "does-google-penalize-ai-content"
+    "page": "geo-vs-ppc"
   },
   {
-    "keyword": "AI generated content SEO",
+    "keyword": "GEO vs paid search",
     "kind": "Supporting",
-    "page": "does-google-penalize-ai-content"
+    "page": "geo-vs-ppc"
   },
   {
-    "keyword": "Google AI content policy",
+    "keyword": "AI search vs Google Ads",
     "kind": "Supporting",
-    "page": "does-google-penalize-ai-content"
+    "page": "geo-vs-ppc"
   },
   {
-    "keyword": "scaled content abuse",
+    "keyword": "organic vs paid AI visibility",
     "kind": "Supporting",
-    "page": "does-google-penalize-ai-content"
+    "page": "geo-vs-ppc"
   },
   {
-    "keyword": "AI writing and Google",
+    "keyword": "PPC or SEO",
     "kind": "Supporting",
-    "page": "does-google-penalize-ai-content"
+    "page": "geo-vs-ppc"
   },
   {
-    "keyword": "E-E-A-T for AI search",
+    "keyword": "how AI search engines choose sources",
     "kind": "Main",
-    "page": "eeat-for-ai-search"
+    "page": "how-ai-search-engines-choose-sources"
   },
   {
-    "keyword": "E-E-A-T",
+    "keyword": "how AI chooses sources",
     "kind": "Supporting",
-    "page": "eeat-for-ai-search"
+    "page": "how-ai-search-engines-choose-sources"
   },
   {
-    "keyword": "experience expertise authoritativeness trust",
+    "keyword": "AI citations",
     "kind": "Supporting",
-    "page": "eeat-for-ai-search"
+    "page": "how-ai-search-engines-choose-sources"
   },
   {
-    "keyword": "EEAT AI Overviews",
+    "keyword": "how ChatGPT picks sources",
     "kind": "Supporting",
-    "page": "eeat-for-ai-search"
+    "page": "how-ai-search-engines-choose-sources"
   },
   {
-    "keyword": "content trust signals",
+    "keyword": "AI Overviews sources",
     "kind": "Supporting",
-    "page": "eeat-for-ai-search"
+    "page": "how-ai-search-engines-choose-sources"
   },
   {
-    "keyword": "FAQ pages for AI search",
+    "keyword": "how ChatGPT recommends local businesses",
     "kind": "Main",
-    "page": "faq-pages-for-ai-search"
+    "page": "how-chatgpt-recommends-local-businesses"
   },
   {
-    "keyword": "FAQ schema",
+    "keyword": "ChatGPT local recommendations",
     "kind": "Supporting",
-    "page": "faq-pages-for-ai-search"
+    "page": "how-chatgpt-recommends-local-businesses"
   },
   {
-    "keyword": "FAQ content",
+    "keyword": "AI local search",
     "kind": "Supporting",
-    "page": "faq-pages-for-ai-search"
+    "page": "how-chatgpt-recommends-local-businesses"
   },
   {
-    "keyword": "question and answer content",
+    "keyword": "get recommended by ChatGPT",
     "kind": "Supporting",
-    "page": "faq-pages-for-ai-search"
+    "page": "how-chatgpt-recommends-local-businesses"
   },
   {
-    "keyword": "FAQ rich results",
+    "keyword": "local business AI visibility",
     "kind": "Supporting",
-    "page": "faq-pages-for-ai-search"
+    "page": "how-chatgpt-recommends-local-businesses"
+  },
+  {
+    "keyword": "how long does GEO take",
+    "kind": "Main",
+    "page": "how-long-does-geo-take"
+  },
+  {
+    "keyword": "GEO timeline",
+    "kind": "Supporting",
+    "page": "how-long-does-geo-take"
+  },
+  {
+    "keyword": "how long for AI search results",
+    "kind": "Supporting",
+    "page": "how-long-does-geo-take"
+  },
+  {
+    "keyword": "generative engine optimization timeline",
+    "kind": "Supporting",
+    "page": "how-long-does-geo-take"
+  },
+  {
+    "keyword": "GEO results",
+    "kind": "Supporting",
+    "page": "how-long-does-geo-take"
+  },
+  {
+    "keyword": "content length for AI search",
+    "kind": "Main",
+    "page": "how-long-should-content-be-for-ai-search"
+  },
+  {
+    "keyword": "ideal content length",
+    "kind": "Supporting",
+    "page": "how-long-should-content-be-for-ai-search"
+  },
+  {
+    "keyword": "word count SEO",
+    "kind": "Supporting",
+    "page": "how-long-should-content-be-for-ai-search"
+  },
+  {
+    "keyword": "how long should a blog post be",
+    "kind": "Supporting",
+    "page": "how-long-should-content-be-for-ai-search"
+  },
+  {
+    "keyword": "content depth AI search",
+    "kind": "Supporting",
+    "page": "how-long-should-content-be-for-ai-search"
+  },
+  {
+    "keyword": "prompts people ask AI",
+    "kind": "Main",
+    "page": "how-to-find-prompts-people-ask-ai"
+  },
+  {
+    "keyword": "AI prompt research",
+    "kind": "Supporting",
+    "page": "how-to-find-prompts-people-ask-ai"
+  },
+  {
+    "keyword": "ChatGPT keyword research",
+    "kind": "Supporting",
+    "page": "how-to-find-prompts-people-ask-ai"
+  },
+  {
+    "keyword": "AI search keyword research",
+    "kind": "Supporting",
+    "page": "how-to-find-prompts-people-ask-ai"
+  },
+  {
+    "keyword": "conversational search queries",
+    "kind": "Supporting",
+    "page": "how-to-find-prompts-people-ask-ai"
+  },
+  {
+    "keyword": "wrong information about your brand",
+    "kind": "Main",
+    "page": "how-to-fix-wrong-information-about-your-brand-in-chatgpt"
+  },
+  {
+    "keyword": "ChatGPT wrong information",
+    "kind": "Supporting",
+    "page": "how-to-fix-wrong-information-about-your-brand-in-chatgpt"
+  },
+  {
+    "keyword": "AI brand accuracy",
+    "kind": "Supporting",
+    "page": "how-to-fix-wrong-information-about-your-brand-in-chatgpt"
+  },
+  {
+    "keyword": "correct AI answers",
+    "kind": "Supporting",
+    "page": "how-to-fix-wrong-information-about-your-brand-in-chatgpt"
+  },
+  {
+    "keyword": "brand reputation AI",
+    "kind": "Supporting",
+    "page": "how-to-fix-wrong-information-about-your-brand-in-chatgpt"
+  },
+  {
+    "keyword": "Google knowledge panel",
+    "kind": "Main",
+    "page": "how-to-get-a-google-knowledge-panel"
+  },
+  {
+    "keyword": "knowledge panel",
+    "kind": "Supporting",
+    "page": "how-to-get-a-google-knowledge-panel"
+  },
+  {
+    "keyword": "Google Knowledge Graph",
+    "kind": "Supporting",
+    "page": "how-to-get-a-google-knowledge-panel"
+  },
+  {
+    "keyword": "claim knowledge panel",
+    "kind": "Supporting",
+    "page": "how-to-get-a-google-knowledge-panel"
+  },
+  {
+    "keyword": "brand entity",
+    "kind": "Supporting",
+    "page": "how-to-get-a-google-knowledge-panel"
   },
   {
     "keyword": "best of lists",
@@ -628,6 +853,56 @@
     "keyword": "roundup articles",
     "kind": "Supporting",
     "page": "how-to-get-on-best-of-lists"
+  },
+  {
+    "keyword": "Meta AI",
+    "kind": "Main",
+    "page": "how-to-optimize-for-meta-ai"
+  },
+  {
+    "keyword": "Meta AI SEO",
+    "kind": "Supporting",
+    "page": "how-to-optimize-for-meta-ai"
+  },
+  {
+    "keyword": "Facebook AI search",
+    "kind": "Supporting",
+    "page": "how-to-optimize-for-meta-ai"
+  },
+  {
+    "keyword": "Instagram AI",
+    "kind": "Supporting",
+    "page": "how-to-optimize-for-meta-ai"
+  },
+  {
+    "keyword": "WhatsApp AI business",
+    "kind": "Supporting",
+    "page": "how-to-optimize-for-meta-ai"
+  },
+  {
+    "keyword": "track AI visibility",
+    "kind": "Main",
+    "page": "how-to-track-ai-visibility"
+  },
+  {
+    "keyword": "AI visibility tracking",
+    "kind": "Supporting",
+    "page": "how-to-track-ai-visibility"
+  },
+  {
+    "keyword": "measure AI search",
+    "kind": "Supporting",
+    "page": "how-to-track-ai-visibility"
+  },
+  {
+    "keyword": "track ChatGPT mentions",
+    "kind": "Supporting",
+    "page": "how-to-track-ai-visibility"
+  },
+  {
+    "keyword": "AI search analytics",
+    "kind": "Supporting",
+    "page": "how-to-track-ai-visibility"
   },
   {
     "keyword": "update old content for AI search",
@@ -705,474 +980,29 @@
     "page": "internal-linking-for-ai-search"
   },
   {
-    "keyword": "Reddit for AI search",
+    "keyword": "is SEO dead",
     "kind": "Main",
-    "page": "reddit-for-ai-search"
+    "page": "is-seo-dead"
   },
   {
-    "keyword": "Reddit SEO",
+    "keyword": "SEO in the age of AI",
     "kind": "Supporting",
-    "page": "reddit-for-ai-search"
+    "page": "is-seo-dead"
   },
   {
-    "keyword": "Reddit and ChatGPT",
+    "keyword": "future of SEO",
     "kind": "Supporting",
-    "page": "reddit-for-ai-search"
+    "page": "is-seo-dead"
   },
   {
-    "keyword": "Reddit AI Overviews",
+    "keyword": "AI search and SEO",
     "kind": "Supporting",
-    "page": "reddit-for-ai-search"
+    "page": "is-seo-dead"
   },
   {
-    "keyword": "community marketing AI search",
+    "keyword": "does SEO still work",
     "kind": "Supporting",
-    "page": "reddit-for-ai-search"
-  },
-  {
-    "keyword": "topical authority for AI search",
-    "kind": "Main",
-    "page": "topical-authority-for-ai-search"
-  },
-  {
-    "keyword": "topic clusters",
-    "kind": "Supporting",
-    "page": "topical-authority-for-ai-search"
-  },
-  {
-    "keyword": "content hubs",
-    "kind": "Supporting",
-    "page": "topical-authority-for-ai-search"
-  },
-  {
-    "keyword": "topical relevance",
-    "kind": "Supporting",
-    "page": "topical-authority-for-ai-search"
-  },
-  {
-    "keyword": "AI search content strategy",
-    "kind": "Supporting",
-    "page": "topical-authority-for-ai-search"
-  },
-  {
-    "keyword": "AI search optimization checklist",
-    "kind": "Main",
-    "page": "ai-search-optimization-checklist"
-  },
-  {
-    "keyword": "GEO checklist",
-    "kind": "Supporting",
-    "page": "ai-search-optimization-checklist"
-  },
-  {
-    "keyword": "AI SEO checklist",
-    "kind": "Supporting",
-    "page": "ai-search-optimization-checklist"
-  },
-  {
-    "keyword": "generative engine optimization checklist",
-    "kind": "Supporting",
-    "page": "ai-search-optimization-checklist"
-  },
-  {
-    "keyword": "AI visibility checklist",
-    "kind": "Supporting",
-    "page": "ai-search-optimization-checklist"
-  },
-  {
-    "keyword": "AI share of voice",
-    "kind": "Main",
-    "page": "ai-share-of-voice"
-  },
-  {
-    "keyword": "AI visibility",
-    "kind": "Supporting",
-    "page": "ai-share-of-voice"
-  },
-  {
-    "keyword": "share of voice in ChatGPT",
-    "kind": "Supporting",
-    "page": "ai-share-of-voice"
-  },
-  {
-    "keyword": "brand mentions in AI answers",
-    "kind": "Supporting",
-    "page": "ai-share-of-voice"
-  },
-  {
-    "keyword": "AI search measurement",
-    "kind": "Supporting",
-    "page": "ai-share-of-voice"
-  },
-  {
-    "keyword": "ChatGPT search vs Google",
-    "kind": "Main",
-    "page": "chatgpt-search-vs-google"
-  },
-  {
-    "keyword": "ChatGPT vs Google",
-    "kind": "Supporting",
-    "page": "chatgpt-search-vs-google"
-  },
-  {
-    "keyword": "ChatGPT search SEO",
-    "kind": "Supporting",
-    "page": "chatgpt-search-vs-google"
-  },
-  {
-    "keyword": "AI search vs traditional search",
-    "kind": "Supporting",
-    "page": "chatgpt-search-vs-google"
-  },
-  {
-    "keyword": "ChatGPT search engine",
-    "kind": "Supporting",
-    "page": "chatgpt-search-vs-google"
-  },
-  {
-    "keyword": "GEO vs PPC",
-    "kind": "Main",
-    "page": "geo-vs-ppc"
-  },
-  {
-    "keyword": "GEO vs paid search",
-    "kind": "Supporting",
-    "page": "geo-vs-ppc"
-  },
-  {
-    "keyword": "AI search vs Google Ads",
-    "kind": "Supporting",
-    "page": "geo-vs-ppc"
-  },
-  {
-    "keyword": "organic vs paid AI visibility",
-    "kind": "Supporting",
-    "page": "geo-vs-ppc"
-  },
-  {
-    "keyword": "PPC or SEO",
-    "kind": "Supporting",
-    "page": "geo-vs-ppc"
-  },
-  {
-    "keyword": "how ChatGPT recommends local businesses",
-    "kind": "Main",
-    "page": "how-chatgpt-recommends-local-businesses"
-  },
-  {
-    "keyword": "ChatGPT local recommendations",
-    "kind": "Supporting",
-    "page": "how-chatgpt-recommends-local-businesses"
-  },
-  {
-    "keyword": "AI local search",
-    "kind": "Supporting",
-    "page": "how-chatgpt-recommends-local-businesses"
-  },
-  {
-    "keyword": "get recommended by ChatGPT",
-    "kind": "Supporting",
-    "page": "how-chatgpt-recommends-local-businesses"
-  },
-  {
-    "keyword": "local business AI visibility",
-    "kind": "Supporting",
-    "page": "how-chatgpt-recommends-local-businesses"
-  },
-  {
-    "keyword": "prompts people ask AI",
-    "kind": "Main",
-    "page": "how-to-find-prompts-people-ask-ai"
-  },
-  {
-    "keyword": "AI prompt research",
-    "kind": "Supporting",
-    "page": "how-to-find-prompts-people-ask-ai"
-  },
-  {
-    "keyword": "ChatGPT keyword research",
-    "kind": "Supporting",
-    "page": "how-to-find-prompts-people-ask-ai"
-  },
-  {
-    "keyword": "AI search keyword research",
-    "kind": "Supporting",
-    "page": "how-to-find-prompts-people-ask-ai"
-  },
-  {
-    "keyword": "conversational search queries",
-    "kind": "Supporting",
-    "page": "how-to-find-prompts-people-ask-ai"
-  },
-  {
-    "keyword": "wrong information about your brand",
-    "kind": "Main",
-    "page": "how-to-fix-wrong-information-about-your-brand-in-chatgpt"
-  },
-  {
-    "keyword": "ChatGPT wrong information",
-    "kind": "Supporting",
-    "page": "how-to-fix-wrong-information-about-your-brand-in-chatgpt"
-  },
-  {
-    "keyword": "AI brand accuracy",
-    "kind": "Supporting",
-    "page": "how-to-fix-wrong-information-about-your-brand-in-chatgpt"
-  },
-  {
-    "keyword": "correct AI answers",
-    "kind": "Supporting",
-    "page": "how-to-fix-wrong-information-about-your-brand-in-chatgpt"
-  },
-  {
-    "keyword": "brand reputation AI",
-    "kind": "Supporting",
-    "page": "how-to-fix-wrong-information-about-your-brand-in-chatgpt"
-  },
-  {
-    "keyword": "track AI visibility",
-    "kind": "Main",
-    "page": "how-to-track-ai-visibility"
-  },
-  {
-    "keyword": "AI visibility tracking",
-    "kind": "Supporting",
-    "page": "how-to-track-ai-visibility"
-  },
-  {
-    "keyword": "measure AI search",
-    "kind": "Supporting",
-    "page": "how-to-track-ai-visibility"
-  },
-  {
-    "keyword": "track ChatGPT mentions",
-    "kind": "Supporting",
-    "page": "how-to-track-ai-visibility"
-  },
-  {
-    "keyword": "AI search analytics",
-    "kind": "Supporting",
-    "page": "how-to-track-ai-visibility"
-  },
-  {
-    "keyword": "product pages for AI shopping",
-    "kind": "Main",
-    "page": "product-pages-for-ai-shopping"
-  },
-  {
-    "keyword": "AI shopping optimization",
-    "kind": "Supporting",
-    "page": "product-pages-for-ai-shopping"
-  },
-  {
-    "keyword": "ChatGPT shopping",
-    "kind": "Supporting",
-    "page": "product-pages-for-ai-shopping"
-  },
-  {
-    "keyword": "ecommerce product pages AI",
-    "kind": "Supporting",
-    "page": "product-pages-for-ai-shopping"
-  },
-  {
-    "keyword": "Product structured data",
-    "kind": "Supporting",
-    "page": "product-pages-for-ai-shopping"
-  },
-  {
-    "keyword": "YouTube for AI search",
-    "kind": "Main",
-    "page": "youtube-for-ai-search"
-  },
-  {
-    "keyword": "YouTube SEO for AI",
-    "kind": "Supporting",
-    "page": "youtube-for-ai-search"
-  },
-  {
-    "keyword": "video SEO AI Overviews",
-    "kind": "Supporting",
-    "page": "youtube-for-ai-search"
-  },
-  {
-    "keyword": "YouTube and ChatGPT",
-    "kind": "Supporting",
-    "page": "youtube-for-ai-search"
-  },
-  {
-    "keyword": "video content AI search",
-    "kind": "Supporting",
-    "page": "youtube-for-ai-search"
-  },
-  {
-    "keyword": "AI search for B2B lead generation",
-    "kind": "Main",
-    "page": "ai-search-for-b2b-lead-generation"
-  },
-  {
-    "keyword": "B2B AI search",
-    "kind": "Supporting",
-    "page": "ai-search-for-b2b-lead-generation"
-  },
-  {
-    "keyword": "AI lead generation",
-    "kind": "Supporting",
-    "page": "ai-search-for-b2b-lead-generation"
-  },
-  {
-    "keyword": "B2B GEO",
-    "kind": "Supporting",
-    "page": "ai-search-for-b2b-lead-generation"
-  },
-  {
-    "keyword": "AI search pipeline",
-    "kind": "Supporting",
-    "page": "ai-search-for-b2b-lead-generation"
-  },
-  {
-    "keyword": "author pages",
-    "kind": "Main",
-    "page": "author-pages-for-eeat"
-  },
-  {
-    "keyword": "author bio",
-    "kind": "Supporting",
-    "page": "author-pages-for-eeat"
-  },
-  {
-    "keyword": "E-E-A-T author",
-    "kind": "Supporting",
-    "page": "author-pages-for-eeat"
-  },
-  {
-    "keyword": "author schema",
-    "kind": "Supporting",
-    "page": "author-pages-for-eeat"
-  },
-  {
-    "keyword": "expert reviewer",
-    "kind": "Supporting",
-    "page": "author-pages-for-eeat"
-  },
-  {
-    "keyword": "GEO content strategy",
-    "kind": "Main",
-    "page": "geo-content-strategy"
-  },
-  {
-    "keyword": "GEO content plan",
-    "kind": "Supporting",
-    "page": "geo-content-strategy"
-  },
-  {
-    "keyword": "content for AI Overviews",
-    "kind": "Supporting",
-    "page": "geo-content-strategy"
-  },
-  {
-    "keyword": "generative engine optimization content",
-    "kind": "Supporting",
-    "page": "geo-content-strategy"
-  },
-  {
-    "keyword": "GEO ROI",
-    "kind": "Main",
-    "page": "geo-roi"
-  },
-  {
-    "keyword": "GEO return on investment",
-    "kind": "Supporting",
-    "page": "geo-roi"
-  },
-  {
-    "keyword": "AI search ROI",
-    "kind": "Supporting",
-    "page": "geo-roi"
-  },
-  {
-    "keyword": "measuring GEO value",
-    "kind": "Supporting",
-    "page": "geo-roi"
-  },
-  {
-    "keyword": "GEO business case",
-    "kind": "Supporting",
-    "page": "geo-roi"
-  },
-  {
-    "keyword": "content length for AI search",
-    "kind": "Main",
-    "page": "how-long-should-content-be-for-ai-search"
-  },
-  {
-    "keyword": "ideal content length",
-    "kind": "Supporting",
-    "page": "how-long-should-content-be-for-ai-search"
-  },
-  {
-    "keyword": "word count SEO",
-    "kind": "Supporting",
-    "page": "how-long-should-content-be-for-ai-search"
-  },
-  {
-    "keyword": "how long should a blog post be",
-    "kind": "Supporting",
-    "page": "how-long-should-content-be-for-ai-search"
-  },
-  {
-    "keyword": "content depth AI search",
-    "kind": "Supporting",
-    "page": "how-long-should-content-be-for-ai-search"
-  },
-  {
-    "keyword": "Google knowledge panel",
-    "kind": "Main",
-    "page": "how-to-get-a-google-knowledge-panel"
-  },
-  {
-    "keyword": "knowledge panel",
-    "kind": "Supporting",
-    "page": "how-to-get-a-google-knowledge-panel"
-  },
-  {
-    "keyword": "Google Knowledge Graph",
-    "kind": "Supporting",
-    "page": "how-to-get-a-google-knowledge-panel"
-  },
-  {
-    "keyword": "claim knowledge panel",
-    "kind": "Supporting",
-    "page": "how-to-get-a-google-knowledge-panel"
-  },
-  {
-    "keyword": "brand entity",
-    "kind": "Supporting",
-    "page": "how-to-get-a-google-knowledge-panel"
-  },
-  {
-    "keyword": "Meta AI",
-    "kind": "Main",
-    "page": "how-to-optimize-for-meta-ai"
-  },
-  {
-    "keyword": "Meta AI SEO",
-    "kind": "Supporting",
-    "page": "how-to-optimize-for-meta-ai"
-  },
-  {
-    "keyword": "Facebook AI search",
-    "kind": "Supporting",
-    "page": "how-to-optimize-for-meta-ai"
-  },
-  {
-    "keyword": "Instagram AI",
-    "kind": "Supporting",
-    "page": "how-to-optimize-for-meta-ai"
-  },
-  {
-    "keyword": "WhatsApp AI business",
-    "kind": "Supporting",
-    "page": "how-to-optimize-for-meta-ai"
+    "page": "is-seo-dead"
   },
   {
     "keyword": "local business schema",
@@ -1225,6 +1055,126 @@
     "page": "press-releases-for-ai-search"
   },
   {
+    "keyword": "product pages for AI shopping",
+    "kind": "Main",
+    "page": "product-pages-for-ai-shopping"
+  },
+  {
+    "keyword": "AI shopping optimization",
+    "kind": "Supporting",
+    "page": "product-pages-for-ai-shopping"
+  },
+  {
+    "keyword": "ChatGPT shopping",
+    "kind": "Supporting",
+    "page": "product-pages-for-ai-shopping"
+  },
+  {
+    "keyword": "ecommerce product pages AI",
+    "kind": "Supporting",
+    "page": "product-pages-for-ai-shopping"
+  },
+  {
+    "keyword": "Product structured data",
+    "kind": "Supporting",
+    "page": "product-pages-for-ai-shopping"
+  },
+  {
+    "keyword": "Reddit for AI search",
+    "kind": "Main",
+    "page": "reddit-for-ai-search"
+  },
+  {
+    "keyword": "Reddit SEO",
+    "kind": "Supporting",
+    "page": "reddit-for-ai-search"
+  },
+  {
+    "keyword": "Reddit and ChatGPT",
+    "kind": "Supporting",
+    "page": "reddit-for-ai-search"
+  },
+  {
+    "keyword": "Reddit AI Overviews",
+    "kind": "Supporting",
+    "page": "reddit-for-ai-search"
+  },
+  {
+    "keyword": "community marketing AI search",
+    "kind": "Supporting",
+    "page": "reddit-for-ai-search"
+  },
+  {
+    "keyword": "topical authority for AI search",
+    "kind": "Main",
+    "page": "topical-authority-for-ai-search"
+  },
+  {
+    "keyword": "topic clusters",
+    "kind": "Supporting",
+    "page": "topical-authority-for-ai-search"
+  },
+  {
+    "keyword": "content hubs",
+    "kind": "Supporting",
+    "page": "topical-authority-for-ai-search"
+  },
+  {
+    "keyword": "topical relevance",
+    "kind": "Supporting",
+    "page": "topical-authority-for-ai-search"
+  },
+  {
+    "keyword": "LLM SEO",
+    "kind": "Main",
+    "page": "what-is-llm-seo"
+  },
+  {
+    "keyword": "large language model optimization",
+    "kind": "Supporting",
+    "page": "what-is-llm-seo"
+  },
+  {
+    "keyword": "AI SEO",
+    "kind": "Supporting",
+    "page": "what-is-llm-seo"
+  },
+  {
+    "keyword": "LLM optimization",
+    "kind": "Supporting",
+    "page": "what-is-llm-seo"
+  },
+  {
+    "keyword": "generative engine optimization",
+    "kind": "Supporting",
+    "page": "what-is-llm-seo"
+  },
+  {
+    "keyword": "query fan-out",
+    "kind": "Main",
+    "page": "what-is-query-fan-out"
+  },
+  {
+    "keyword": "AI Mode query fan-out",
+    "kind": "Supporting",
+    "page": "what-is-query-fan-out"
+  },
+  {
+    "keyword": "Google AI Overviews sources",
+    "kind": "Supporting",
+    "page": "what-is-query-fan-out"
+  },
+  {
+    "keyword": "fan-out search",
+    "kind": "Supporting",
+    "page": "what-is-query-fan-out"
+  },
+  {
+    "keyword": "AI search sub-queries",
+    "kind": "Supporting",
+    "page": "what-is-query-fan-out"
+  },
+  {
     "keyword": "Wikipedia and Wikidata for AI search",
     "kind": "Main",
     "page": "wikipedia-and-wikidata-for-ai-search"
@@ -1248,6 +1198,56 @@
     "keyword": "Wikipedia conflict of interest",
     "kind": "Supporting",
     "page": "wikipedia-and-wikidata-for-ai-search"
+  },
+  {
+    "keyword": "YouTube for AI search",
+    "kind": "Main",
+    "page": "youtube-for-ai-search"
+  },
+  {
+    "keyword": "YouTube SEO for AI",
+    "kind": "Supporting",
+    "page": "youtube-for-ai-search"
+  },
+  {
+    "keyword": "video SEO AI Overviews",
+    "kind": "Supporting",
+    "page": "youtube-for-ai-search"
+  },
+  {
+    "keyword": "YouTube and ChatGPT",
+    "kind": "Supporting",
+    "page": "youtube-for-ai-search"
+  },
+  {
+    "keyword": "video content AI search",
+    "kind": "Supporting",
+    "page": "youtube-for-ai-search"
+  },
+  {
+    "keyword": "zero-click searches",
+    "kind": "Main",
+    "page": "zero-click-searches"
+  },
+  {
+    "keyword": "zero-click search",
+    "kind": "Supporting",
+    "page": "zero-click-searches"
+  },
+  {
+    "keyword": "no-click searches",
+    "kind": "Supporting",
+    "page": "zero-click-searches"
+  },
+  {
+    "keyword": "zero-click SEO",
+    "kind": "Supporting",
+    "page": "zero-click-searches"
+  },
+  {
+    "keyword": "AI Overviews clicks",
+    "kind": "Supporting",
+    "page": "zero-click-searches"
   },
   {
     "keyword": "AI Overviews vs featured snippets",

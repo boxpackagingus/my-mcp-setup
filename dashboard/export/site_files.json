@@ -7,7 +7,7 @@
     "items": 5,
     "items_label": "AI crawlers allowed",
     "note": "Lists the sitemap",
-    "checked": "2026-11-06T14:49:49Z"
+    "checked": "2026-11-06T15:31:22Z"
   },
   {
     "file": "Sitemap",
@@ -17,7 +17,7 @@
     "items": 84,
     "items_label": "pages listed",
     "note": "Google reads this to find new pages",
-    "checked": "2026-11-06T14:49:49Z"
+    "checked": "2026-11-06T15:31:22Z"
   },
   {
     "file": "llms.txt",
@@ -27,7 +27,7 @@
     "items": 81,
     "items_label": "guides listed",
     "note": "Map of your site for AI assistants",
-    "checked": "2026-11-06T14:49:49Z"
+    "checked": "2026-11-06T15:31:22Z"
   },
   {
     "file": "llms-full.txt",
@@ -37,6 +37,6 @@
     "items": 81,
     "items_label": "full guides included",
     "note": "698 KB of plain text for AI assistants",
-    "checked": "2026-11-06T14:49:49Z"
+    "checked": "2026-11-06T15:31:22Z"
   }
 ]

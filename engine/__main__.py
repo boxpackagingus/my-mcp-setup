@@ -9,6 +9,7 @@
   python -m engine sitecheck          Check llms.txt, robots.txt, sitemap and every page
   python -m engine export             Write the dashboard data files (dashboard/export/)
   python -m engine status             Show today's limit and queue size
+  python -m engine refresh            Track + export, then list dashboard files that changed
 """
 import json
 import sys
@@ -85,6 +86,21 @@ def main(argv):
     if cmd == "export":
         from . import export
         print(json.dumps(export.run(cfg), indent=2))
+        return 0
+    if cmd == "refresh":
+        # Quick dashboard refresh: new Google numbers, rebuilt data files, and which ones need uploading.
+        import hashlib
+        from . import export, track
+        today = track.run(cfg)
+        export.run(cfg)
+        known = config.read_json(config.DATA / "dashboard_assets.json", {})
+        changed = []
+        for f in sorted(export.OUT.glob("*.json")):
+            sha = hashlib.sha256(f.read_bytes()).hexdigest()
+            if known.get(f.stem, {}).get("sha") != sha:
+                changed.append({"name": f.stem, "file": str(f), "sha": sha, "old_blob": known.get(f.stem, {}).get("blob")})
+        print(json.dumps({"indexed": today["pages_indexed"], "pages": today["pages_total"],
+                          "impressions_28d": today["impressions_28d"], "changed": changed}, indent=2))
         return 0
     if cmd == "status":
         from . import publish

@@ -97,3 +97,10 @@ python -m engine dashboard
    - For each upload, `update` the matching `datasets/<name>` document with `source.url` set to the new `/_blob/...` URL, `updated: {at: <now UTC>, by: "Chimera engine"}` and `edit: {via: "claude", at: <now UTC>}`. Use ArtifactData, and pin each write with `if_version` from a fresh read.
    - Then delete the old assets.
    - Don't change `files/index.html` unless the page itself needs to change.
+
+## Quick dashboard refresh (every 3 hours)
+
+1. `git pull`, then `python -m engine refresh`. It runs `track` and `export`, then prints the dashboard files that changed (`changed`), each with its `old_blob`.
+2. For each changed file: upload it as an asset to https://claude.ai/artifact/Dd9pgZazE6LyFGzXSp8seV, then update the matching `datasets/<name>` document (`source.url` = new `/_blob/...`, `updated`, `edit`) in one ArtifactData batch pinned with `if_version` from a fresh list.
+3. Delete each `old_blob` asset, and write the new blob id and sha into `data/dashboard_assets.json`.
+4. If nothing changed, do nothing else. Commit `data/` and push. Do not publish pages in this step.
