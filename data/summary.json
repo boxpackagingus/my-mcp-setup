@@ -48,9 +48,9 @@
     {
       "date": "2026-11-08",
       "pages_total": 81,
-      "pages_indexed": 46,
+      "pages_indexed": 48,
       "clicks_28d": 1,
-      "impressions_28d": 107,
+      "impressions_28d": 119,
       "engine_clicks_28d": 1,
       "sessions_28d": 24.0,
       "ai_sessions_28d": 0,
@@ -64,9 +64,9 @@
   "latest": {
     "date": "2026-11-08",
     "pages_total": 81,
-    "pages_indexed": 46,
+    "pages_indexed": 48,
     "clicks_28d": 1,
-    "impressions_28d": 107,
+    "impressions_28d": 119,
     "engine_clicks_28d": 1,
     "sessions_28d": 24.0,
     "ai_sessions_28d": 0,
@@ -101,9 +101,9 @@
     {
       "date": "2026-11-07",
       "clicks": 0,
-      "impressions": 72,
+      "impressions": 84,
       "ctr": 0,
-      "position": 63.916666666666664
+      "position": 63.54761904761905
     }
   ],
   "ga_daily": [
