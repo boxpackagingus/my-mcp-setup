@@ -48,11 +48,11 @@
     {
       "date": "2026-11-08",
       "pages_total": 81,
-      "pages_indexed": 44,
+      "pages_indexed": 46,
       "clicks_28d": 1,
-      "impressions_28d": 90,
+      "impressions_28d": 107,
       "engine_clicks_28d": 1,
-      "sessions_28d": 23.0,
+      "sessions_28d": 24.0,
       "ai_sessions_28d": 0,
       "ai_by_engine": {},
       "leads_28d": 1,
@@ -64,11 +64,11 @@
   "latest": {
     "date": "2026-11-08",
     "pages_total": 81,
-    "pages_indexed": 44,
+    "pages_indexed": 46,
     "clicks_28d": 1,
-    "impressions_28d": 90,
+    "impressions_28d": 107,
     "engine_clicks_28d": 1,
-    "sessions_28d": 23.0,
+    "sessions_28d": 24.0,
     "ai_sessions_28d": 0,
     "ai_by_engine": {},
     "leads_28d": 1,
@@ -101,9 +101,9 @@
     {
       "date": "2026-11-07",
       "clicks": 0,
-      "impressions": 55,
+      "impressions": 72,
       "ctr": 0,
-      "position": 66.85454545454546
+      "position": 63.916666666666664
     }
   ],
   "ga_daily": [
@@ -244,7 +244,7 @@
     },
     {
       "date": "20261107",
-      "sessions": 2.0,
+      "sessions": 3.0,
       "keyEvents": 0.0
     }
   ]
