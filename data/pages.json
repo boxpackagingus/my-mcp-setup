@@ -14,12 +14,12 @@
     "leads_28d": 0,
     "ai_sources": {},
     "clicks_28d": 0,
-    "impressions_28d": 2,
-    "position_28d": 15.5,
+    "impressions_28d": 3,
+    "position_28d": 42.7,
     "index_verdict": "PASS",
     "index_coverage": "Appearing in Google Search",
     "form_leads_28d": 0,
-    "index_checked": "2026-11-07"
+    "index_checked": "2026-11-08"
   },
   {
     "slug": "ai-visibility-audit",
@@ -41,7 +41,7 @@
     "index_verdict": "PASS",
     "index_coverage": "Appearing in Google Search",
     "form_leads_28d": 0,
-    "index_checked": "2026-11-07"
+    "index_checked": "2026-11-08"
   },
   {
     "slug": "answer-engine-optimization-vs-generative-engine-optimization",
@@ -58,12 +58,12 @@
     "leads_28d": 0,
     "ai_sources": {},
     "clicks_28d": 0,
-    "impressions_28d": 2,
-    "position_28d": 51,
+    "impressions_28d": 7,
+    "position_28d": 55.9,
     "index_verdict": "PASS",
     "index_coverage": "Appearing in Google Search",
     "form_leads_28d": 0,
-    "index_checked": "2026-11-07"
+    "index_checked": "2026-11-08"
   },
   {
     "slug": "best-practices-for-llms-txt",
@@ -127,7 +127,7 @@
     "index_verdict": "PASS",
     "index_coverage": "Appearing in Google Search",
     "form_leads_28d": 0,
-    "index_checked": "2026-11-07"
+    "index_checked": "2026-11-08"
   },
   {
     "slug": "generative-engine-optimization-agency",
@@ -149,7 +149,7 @@
     "index_verdict": "PASS",
     "index_coverage": "Appearing in Google Search",
     "form_leads_28d": 0,
-    "index_checked": "2026-11-07"
+    "index_checked": "2026-11-08"
   },
   {
     "slug": "geo-agency-orange-county",
@@ -171,7 +171,7 @@
     "index_verdict": "PASS",
     "index_coverage": "Appearing in Google Search",
     "form_leads_28d": 0,
-    "index_checked": "2026-11-07"
+    "index_checked": "2026-11-08"
   },
   {
     "slug": "geo-for-b2b-saas",
@@ -193,7 +193,7 @@
     "index_verdict": "PASS",
     "index_coverage": "Appearing in Google Search",
     "form_leads_28d": 0,
-    "index_checked": "2026-11-07"
+    "index_checked": "2026-11-08"
   },
   {
     "slug": "geo-for-ecommerce",
@@ -215,7 +215,7 @@
     "index_verdict": "PASS",
     "index_coverage": "Appearing in Google Search",
     "form_leads_28d": 0,
-    "index_checked": "2026-11-07"
+    "index_checked": "2026-11-08"
   },
   {
     "slug": "geo-mistakes-to-avoid",
@@ -237,7 +237,7 @@
     "index_verdict": "PASS",
     "index_coverage": "Appearing in Google Search",
     "form_leads_28d": 0,
-    "index_checked": "2026-11-07"
+    "index_checked": "2026-11-08"
   },
   {
     "slug": "geo-seo-best-practices",
@@ -259,7 +259,7 @@
     "index_verdict": "PASS",
     "index_coverage": "Appearing in Google Search",
     "form_leads_28d": 0,
-    "index_checked": "2026-11-07"
+    "index_checked": "2026-11-08"
   },
   {
     "slug": "geo-vs-seo",
@@ -276,12 +276,12 @@
     "leads_28d": 0,
     "ai_sources": {},
     "clicks_28d": 0,
-    "impressions_28d": 2,
-    "position_28d": 6,
+    "impressions_28d": 4,
+    "position_28d": 23.8,
     "index_verdict": "PASS",
     "index_coverage": "Appearing in Google Search",
     "form_leads_28d": 0,
-    "index_checked": "2026-11-07"
+    "index_checked": "2026-11-08"
   },
   {
     "slug": "how-much-does-geo-cost",
@@ -303,7 +303,7 @@
     "index_verdict": "PASS",
     "index_coverage": "Appearing in Google Search",
     "form_leads_28d": 0,
-    "index_checked": "2026-11-07"
+    "index_checked": "2026-11-08"
   },
   {
     "slug": "how-to-check-if-chatgpt-mentions-your-brand",
@@ -346,7 +346,7 @@
     "index_verdict": "PASS",
     "index_coverage": "Appearing in Google Search",
     "form_leads_28d": 0,
-    "index_checked": "2026-11-07"
+    "index_checked": "2026-11-08"
   },
   {
     "slug": "how-to-get-brand-mentions-for-ai-search",
@@ -389,7 +389,7 @@
     "index_verdict": "PASS",
     "index_coverage": "Appearing in Google Search",
     "form_leads_28d": 0,
-    "index_checked": "2026-11-07"
+    "index_checked": "2026-11-08"
   },
   {
     "slug": "how-to-measure-geo-results",
@@ -406,12 +406,12 @@
     "leads_28d": 0,
     "ai_sources": {},
     "clicks_28d": 1,
-    "impressions_28d": 4,
-    "position_28d": 52.2,
+    "impressions_28d": 5,
+    "position_28d": 50,
     "index_verdict": "PASS",
     "index_coverage": "Appearing in Google Search",
     "form_leads_28d": 0,
-    "index_checked": "2026-11-07"
+    "index_checked": "2026-11-08"
   },
   {
     "slug": "how-to-optimize-for-google-ai-mode",
@@ -433,7 +433,7 @@
     "index_verdict": "PASS",
     "index_coverage": "Appearing in Google Search",
     "form_leads_28d": 0,
-    "index_checked": "2026-11-07"
+    "index_checked": "2026-11-08"
   },
   {
     "slug": "how-to-rank-in-chatgpt",
@@ -455,7 +455,7 @@
     "index_verdict": "PASS",
     "index_coverage": "Appearing in Google Search",
     "form_leads_28d": 0,
-    "index_checked": "2026-11-07"
+    "index_checked": "2026-11-08"
   },
   {
     "slug": "how-to-show-up-in-google-ai-overviews",
@@ -472,12 +472,12 @@
     "leads_28d": 0,
     "ai_sources": {},
     "clicks_28d": 0,
-    "impressions_28d": 7,
-    "position_28d": 92,
+    "impressions_28d": 11,
+    "position_28d": 93.1,
     "index_verdict": "PASS",
     "index_coverage": "Appearing in Google Search",
     "form_leads_28d": 0,
-    "index_checked": "2026-11-07"
+    "index_checked": "2026-11-08"
   },
   {
     "slug": "how-to-track-ai-traffic-in-google-analytics",
@@ -499,7 +499,7 @@
     "index_verdict": "PASS",
     "index_coverage": "Appearing in Google Search",
     "form_leads_28d": 0,
-    "index_checked": "2026-11-07"
+    "index_checked": "2026-11-08"
   },
   {
     "slug": "how-to-write-content-for-ai-search",
@@ -521,7 +521,7 @@
     "index_verdict": "PASS",
     "index_coverage": "Appearing in Google Search",
     "form_leads_28d": 0,
-    "index_checked": "2026-11-07"
+    "index_checked": "2026-11-08"
   },
   {
     "slug": "is-geo-bring-sales",
@@ -538,12 +538,12 @@
     "leads_28d": 0,
     "ai_sources": {},
     "clicks_28d": 0,
-    "impressions_28d": 2,
-    "position_28d": 9,
+    "impressions_28d": 5,
+    "position_28d": 10.4,
     "index_verdict": "PASS",
     "index_coverage": "Appearing in Google Search",
     "form_leads_28d": 0,
-    "index_checked": "2026-11-07"
+    "index_checked": "2026-11-08"
   },
   {
     "slug": "local-geo",
@@ -560,12 +560,12 @@
     "leads_28d": 0,
     "ai_sources": {},
     "clicks_28d": 0,
-    "impressions_28d": 3,
-    "position_28d": 62.3,
+    "impressions_28d": 4,
+    "position_28d": 71.2,
     "index_verdict": "PASS",
     "index_coverage": "Appearing in Google Search",
     "form_leads_28d": 0,
-    "index_checked": "2026-11-07"
+    "index_checked": "2026-11-08"
   },
   {
     "slug": "microsoft-copilot-seo",
@@ -582,12 +582,12 @@
     "leads_28d": 0,
     "ai_sources": {},
     "clicks_28d": 0,
-    "impressions_28d": 4,
-    "position_28d": 75.8,
+    "impressions_28d": 7,
+    "position_28d": 79.4,
     "index_verdict": "PASS",
     "index_coverage": "Appearing in Google Search",
     "form_leads_28d": 0,
-    "index_checked": "2026-11-07"
+    "index_checked": "2026-11-08"
   },
   {
     "slug": "perplexity-seo",
@@ -604,12 +604,12 @@
     "leads_28d": 0,
     "ai_sources": {},
     "clicks_28d": 0,
-    "impressions_28d": 5,
-    "position_28d": 29.8,
+    "impressions_28d": 7,
+    "position_28d": 38,
     "index_verdict": "PASS",
     "index_coverage": "Appearing in Google Search",
     "form_leads_28d": 0,
-    "index_checked": "2026-11-07"
+    "index_checked": "2026-11-08"
   },
   {
     "slug": "robots-txt-for-ai-crawlers",
@@ -631,7 +631,7 @@
     "index_verdict": "PASS",
     "index_coverage": "Appearing in Google Search",
     "form_leads_28d": 0,
-    "index_checked": "2026-11-07"
+    "index_checked": "2026-11-08"
   },
   {
     "slug": "schema-markup-for-ai-search",
@@ -653,7 +653,7 @@
     "index_verdict": "PASS",
     "index_coverage": "Appearing in Google Search",
     "form_leads_28d": 0,
-    "index_checked": "2026-11-07"
+    "index_checked": "2026-11-08"
   },
   {
     "slug": "what-is-generative-engine-optimization-and-how-does-it-work",
@@ -749,7 +749,7 @@
     "volume": null,
     "words": 1483,
     "indexnow": "Sent 2026-11-06",
-    "sessions_28d": 1.0,
+    "sessions_28d": 0,
     "ai_sessions_28d": 0,
     "leads_28d": 0,
     "ai_sources": {},
@@ -758,7 +758,7 @@
     "position_28d": 11,
     "index_verdict": "PASS",
     "index_coverage": "Appearing in Google Search",
-    "index_checked": "2026-11-07",
+    "index_checked": "2026-11-08",
     "form_leads_28d": 0
   },
   {
@@ -776,11 +776,12 @@
     "leads_28d": 0,
     "ai_sources": {},
     "clicks_28d": 0,
-    "impressions_28d": 0,
-    "position_28d": null,
-    "index_verdict": "NEUTRAL",
-    "index_coverage": "No search impressions yet",
-    "form_leads_28d": 0
+    "impressions_28d": 1,
+    "position_28d": 99,
+    "index_verdict": "PASS",
+    "index_coverage": "Appearing in Google Search",
+    "form_leads_28d": 0,
+    "index_checked": "2026-11-08"
   },
   {
     "slug": "author-pages-for-eeat",
@@ -839,11 +840,12 @@
     "leads_28d": 0,
     "ai_sources": {},
     "clicks_28d": 0,
-    "impressions_28d": 0,
-    "position_28d": null,
-    "index_verdict": "NEUTRAL",
-    "index_coverage": "No search impressions yet",
-    "form_leads_28d": 0
+    "impressions_28d": 1,
+    "position_28d": 35,
+    "index_verdict": "PASS",
+    "index_coverage": "Appearing in Google Search",
+    "form_leads_28d": 0,
+    "index_checked": "2026-11-08"
   },
   {
     "slug": "does-google-penalize-ai-content",
@@ -1049,11 +1051,11 @@
     "leads_28d": 0,
     "ai_sources": {},
     "clicks_28d": 0,
-    "impressions_28d": 1,
-    "position_28d": 99,
+    "impressions_28d": 2,
+    "position_28d": 68.5,
     "index_verdict": "PASS",
     "index_coverage": "Appearing in Google Search",
-    "index_checked": "2026-11-07",
+    "index_checked": "2026-11-08",
     "form_leads_28d": 0
   },
   {
@@ -1134,11 +1136,12 @@
     "leads_28d": 0,
     "ai_sources": {},
     "clicks_28d": 0,
-    "impressions_28d": 0,
-    "position_28d": null,
-    "index_verdict": "NEUTRAL",
-    "index_coverage": "No search impressions yet",
-    "form_leads_28d": 0
+    "impressions_28d": 1,
+    "position_28d": 53,
+    "index_verdict": "PASS",
+    "index_coverage": "Appearing in Google Search",
+    "form_leads_28d": 0,
+    "index_checked": "2026-11-08"
   },
   {
     "slug": "geo-for-restaurants",
@@ -1159,7 +1162,7 @@
     "position_28d": 7,
     "index_verdict": "PASS",
     "index_coverage": "Appearing in Google Search",
-    "index_checked": "2026-11-07",
+    "index_checked": "2026-11-08",
     "form_leads_28d": 0
   },
   {
@@ -1244,7 +1247,7 @@
     "position_28d": 24,
     "index_verdict": "PASS",
     "index_coverage": "Appearing in Google Search",
-    "index_checked": "2026-11-07",
+    "index_checked": "2026-11-08",
     "form_leads_28d": 0
   },
   {
@@ -1329,7 +1332,7 @@
     "position_28d": 30,
     "index_verdict": "PASS",
     "index_coverage": "Appearing in Google Search",
-    "index_checked": "2026-11-07",
+    "index_checked": "2026-11-08",
     "form_leads_28d": 0
   },
   {
@@ -1393,7 +1396,7 @@
     "position_28d": 28,
     "index_verdict": "PASS",
     "index_coverage": "Appearing in Google Search",
-    "index_checked": "2026-11-07",
+    "index_checked": "2026-11-08",
     "form_leads_28d": 0
   },
   {
@@ -1478,7 +1481,7 @@
     "position_28d": 18,
     "index_verdict": "PASS",
     "index_coverage": "Appearing in Google Search",
-    "index_checked": "2026-11-07",
+    "index_checked": "2026-11-08",
     "form_leads_28d": 0
   },
   {
@@ -1500,7 +1503,7 @@
     "position_28d": 20,
     "index_verdict": "PASS",
     "index_coverage": "Appearing in Google Search",
-    "index_checked": "2026-11-07",
+    "index_checked": "2026-11-08",
     "form_leads_28d": 0
   },
   {
@@ -1513,7 +1516,7 @@
     "volume": null,
     "words": 1235,
     "indexnow": "Sent 2026-11-06",
-    "sessions_28d": 1.0,
+    "sessions_28d": 0,
     "ai_sessions_28d": 0,
     "leads_28d": 0,
     "ai_sources": {},
