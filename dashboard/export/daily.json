@@ -1,11 +1,5 @@
 [
   {
-    "day": "2026-10-11",
-    "impressions": 0,
-    "clicks": 0,
-    "visits": 0
-  },
-  {
     "day": "2026-10-12",
     "impressions": 0,
     "clicks": 0,
@@ -164,6 +158,12 @@
   {
     "day": "2026-11-07",
     "impressions": 86,
+    "clicks": 0,
+    "visits": 3
+  },
+  {
+    "day": "2026-11-08",
+    "impressions": 40,
     "clicks": 0,
     "visits": 3
   }
