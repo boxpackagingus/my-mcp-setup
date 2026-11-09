@@ -65,7 +65,7 @@
       "pages_total": 81,
       "pages_indexed": 50,
       "clicks_28d": 1,
-      "impressions_28d": 219,
+      "impressions_28d": 226,
       "engine_clicks_28d": 1,
       "sessions_28d": 27.0,
       "ai_sessions_28d": 0,
@@ -81,7 +81,7 @@
     "pages_total": 81,
     "pages_indexed": 50,
     "clicks_28d": 1,
-    "impressions_28d": 219,
+    "impressions_28d": 226,
     "engine_clicks_28d": 1,
     "sessions_28d": 27.0,
     "ai_sessions_28d": 0,
@@ -123,9 +123,9 @@
     {
       "date": "2026-11-08",
       "clicks": 0,
-      "impressions": 98,
+      "impressions": 105,
       "ctr": 0,
-      "position": 53.255102040816325
+      "position": 53.819047619047616
     }
   ],
   "ga_daily": [
