@@ -106,9 +106,9 @@
     "notify_email": "zaroon@thechimeramarketing.com"
   },
   "publishing": {
-    "pages_per_day": 10,
+    "pages_per_day": 30,
     "ramp": {
-      "target_pages_per_day": 10,
+      "target_pages_per_day": 30,
       "after_days": 14,
       "min_index_rate": 0.5
     },

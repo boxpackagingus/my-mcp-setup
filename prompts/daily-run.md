@@ -107,6 +107,32 @@ in `config/site.json`. In the writing itself, also mention Anaheim and Orange Co
 they fit naturally. Never invent local facts: use only figures checked at a source (for example the 2020 census
 figures on the Anaheim and Orange County Wikipedia articles).
 
+## Daily guides: 30 new pages a day
+
+Every day, research, write and publish **30 new guide pages**, in addition to the 5 blog posts below.
+
+1. **Research.** Run `python -m engine research`, pull Search Console queries through Site Kit (queries with impressions
+   where you rank below position 5 are the fastest wins), and collect Google autocomplete suggestions for local and
+   industry seeds such as "seo for <industry>", "<service> <Orange County city>", "how to <local task>". Prefer searches
+   with buying intent and local relevance to Anaheim and Orange County. Skip anything an existing page or post covers
+   (check `content/published/`).
+2. **Plan 30 topics** in `data/topic_plan_YYYY_MM_DD.json`: a mix of industry pages (use `industry()` in
+   `content/build/local_lib.py`), how-to guides (use the `guide()` pattern in `content/build/batch17.py`) and AI-search
+   topics. City pages only when the city has genuinely new local substance; Google's spam policies treat near-identical
+   city pages as doorway abuse. Do not reuse a topic.
+3. **Write** `content/build/batchN.py` files of 10 pages each. Every fact checked at its source with curl and listed in
+   `sources`. Each page passes the quality gate (1,200+ words, 5+ sections, 5+ FAQs, keyword in title, H1 and answer,
+   similarity at most 0.6) and stays under about 40% overlap with other pages from the same day.
+4. **Images.** `python -m engine heroes` renders a banner for every page. Add a Figma photo where credits allow; Figma's
+   daily AI credits run out after roughly 30 images, so give the 5 blog banner photos priority and add page photos with
+   whatever remains, listing the rest in `data/photos_todo.json` for the next day.
+5. **Publish** with `python -m engine publish --max 35` (30 pages plus 5 posts). Then **push for indexing**: publishing
+   already sends every new URL to IndexNow and updates the sitemap; also add links to the new pages from 5-10 related
+   existing pages and republish those, and run `python -m engine sitecheck` to confirm every page is live, in the
+   sitemap and in llms.txt. Google has no request-indexing API; if `GSC_SERVICE_ACCOUNT_KEY_JSON` is set, the engine
+   also resubmits the sitemap to Search Console.
+6. **Dashboard.** Run the quick dashboard refresh below, then commit with the message `Daily run YYYY-MM-DD`.
+
 ## Daily blog: 5 posts a day at /blog/
 
 Blog posts are WordPress pages under the `/blog/` parent page. A spec with `"kind": "blog"` is published there,
