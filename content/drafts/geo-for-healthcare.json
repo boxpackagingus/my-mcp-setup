@@ -1,0 +1,274 @@
+{
+  "query": "geo for healthcare providers",
+  "slug": "geo-for-healthcare",
+  "eyebrow": "Industry guide",
+  "primary_keyword": "GEO for healthcare providers",
+  "secondary_keywords": [
+    "healthcare marketing AI",
+    "AI SEO for clinics",
+    "medical practice ChatGPT",
+    "patient acquisition AI search"
+  ],
+  "search_intent": "commercial",
+  "seo": {
+    "title": "GEO for Healthcare Providers: Be Cited by AI Search",
+    "meta_description": "GEO for healthcare providers: how patients use AI to research conditions and choose care, the trust signals that matter, compliance limits and a plan."
+  },
+  "h1": "GEO for Healthcare Providers: How Clinics Get Cited by AI Answers",
+  "answer": "GEO for healthcare providers means helping clinics, practices and physicians be found, trusted and cited when patients ask AI tools about symptoms, treatments or where to get care. Health topics face the highest trust bar, so it depends on clinician-reviewed content, named authors with credentials, accurate practice details and careful handling of privacy and claims.",
+  "key_takeaways": [
+    "Patients ask AI health questions before booking care.",
+    "Health content needs clinician review and named experts.",
+    "AI summaries often link to government and established health sources.",
+    "Practice details must be accurate everywhere.",
+    "Privacy and advertising rules limit testimonials and claims."
+  ],
+  "sections": [
+    {
+      "heading": "How patients use AI for health decisions",
+      "body_html": "<p>Patients use AI tools to understand symptoms, prepare for appointments, compare treatment options and find a provider. Pew Research Center found that 6% of the sources linked in Google's AI summaries were government websites, compared with 2% in standard results, a sign that AI answers lean on highly trusted sources for sensitive topics. A clinic's website will not replace those sources, but it can be the trusted local source for how a condition is treated at your practice and what to expect.</p>"
+    },
+    {
+      "heading": "What to publish",
+      "body_html": "<ul><li><strong>Condition and treatment pages</strong> focused on how you diagnose and treat, written in plain language.</li><li><strong>What to expect</strong> before, during and after a visit or procedure.</li><li><strong>Practical information</strong>: insurance accepted, referrals needed, appointment types, telehealth options.</li><li><strong>Provider profiles</strong> with credentials, specialties and languages spoken.</li></ul><p>Avoid writing general medical encyclopedia articles. Established health sources already cover them; your advantage is specifics about your care.</p>"
+    },
+    {
+      "heading": "Clinical review and authorship",
+      "body_html": "<p>Google's guidance on helpful content asks readers to consider who created content and why, and says trust is the most important part of E-E-A-T. For health topics, that means a named clinician reviews each page, their credentials are visible, and the review date is shown. Cite clinical guidelines or reputable sources for medical facts. Update pages when guidance changes.</p>"
+    },
+    {
+      "heading": "Accurate practice information",
+      "body_html": "<p>Wrong details in AI answers cause real problems: patients going to an old address or calling a disconnected number. Keep practice names, addresses, phone numbers, hours, accepted insurance and providers identical across your website, Google Business Profile, Bing Places, insurer directories and health listing sites. Schema.org's <code>MedicalBusiness</code> and <code>Physician</code> types can describe your practice and clinicians in structured data.</p>"
+    },
+    {
+      "heading": "Privacy and claims",
+      "body_html": "<p>Health privacy laws restrict how patient information can be used, including in testimonials and replies to reviews. Never confirm that someone is a patient when replying to a review, get proper written authorization before using any patient story, and avoid claims about outcomes you cannot support. Your compliance team should approve the content process, not just individual pages.</p>"
+    },
+    {
+      "heading": "Local and specialty questions",
+      "body_html": "<p>Many patient questions combine a specialty and a place: \"pediatric dentist that takes Medi-Cal in Anaheim\", \"same-day dermatology appointment Orange County\". Answer the practical parts clearly on your pages: which insurance you take, how quickly new patients can be seen, which locations offer which services. These specifics are what AI answers need to make a useful recommendation.</p>"
+    },
+    {
+      "heading": "A careful rollout",
+      "body_html": "<ol><li><strong>Record how AI tools describe your practice</strong> and correct any wrong details at the source.</li><li><strong>Fix listings and structured data.</strong></li><li><strong>Rebuild your top service pages</strong> with clinician review and what-to-expect sections.</li><li><strong>Add provider profiles.</strong></li><li><strong>Publish answers to the practical questions</strong> your front desk hears every day.</li></ol>"
+    },
+    {
+      "heading": "How to measure results",
+      "body_html": "<p>Track new patient appointment requests by source, AI referrals in analytics, branded searches for the practice and clinicians, and monthly checks of how assistants describe and recommend you. Watch for wrong information as closely as for mentions; correcting errors is part of the job.</p>"
+    },
+    {
+      "heading": "Common mistakes",
+      "body_html": "<p>Healthcare sites often lose AI visibility through outdated provider lists, insurance information that no longer matches, condition pages with no named reviewer, and generic articles copied from other sources. Another frequent issue is multiple listings for the same practice under slightly different names, which splits reviews and confuses AI tools about which details are correct.</p>"
+    },
+    {
+      "heading": "An example of a useful service page",
+      "body_html": "<p>A page about a sleep study, for example, would open with what the test measures and who usually needs one, then cover how to get a referral, whether the study happens in the clinic or at home, how to prepare, what the night involves, how long results take, which insurance plans typically cover it, and what happens next. Each section answers a question patients ask, reviewed and signed by a named clinician. That level of practical detail is what makes a local practice the best source for that part of an AI answer.</p>"
+    },
+    {
+      "heading": "Where to get help",
+      "body_html": "<p>A GEO audit for a practice checks how AI tools describe your clinic, providers, locations and insurance, flags any wrong details, and reviews crawler access, listings and structured data. It then identifies the service pages that would benefit most from clinician-reviewed, what-to-expect content. The output is a prioritized plan your marketing and compliance teams can carry out together, starting with fixes that protect patients from wrong information.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is GEO for healthcare providers?",
+      "a": "It is helping clinics, practices and physicians be found, trusted and cited when patients ask AI tools about conditions, treatments or where to get care."
+    },
+    {
+      "q": "Can a small practice be cited by AI on health topics?",
+      "a": "For general medical facts, AI tools favor established health sources. Practices are more likely to be cited for specifics: how they treat a condition, what to expect, insurance and availability."
+    },
+    {
+      "q": "Who should write healthcare content?",
+      "a": "Content should be written or reviewed by qualified clinicians, with their names, credentials and review dates visible on the page."
+    },
+    {
+      "q": "What schema should a medical practice use?",
+      "a": "Schema.org's MedicalBusiness type, or more specific types such as Physician, can describe your practice, clinicians, hours and location."
+    },
+    {
+      "q": "Can we use patient testimonials?",
+      "a": "Only with proper written authorization and in line with health privacy and advertising rules. Never reveal patient information in review replies."
+    },
+    {
+      "q": "How do I fix wrong information about my practice in AI answers?",
+      "a": "Correct the details on your own site and every listing the AI may be reading, keep them consistent, and recheck the answers over the following weeks."
+    },
+    {
+      "q": "Should every provider have their own page?",
+      "a": "Yes. Individual provider pages with credentials, specialties, languages and locations help patients choose and help AI tools describe your practice accurately."
+    },
+    {
+      "q": "Can AI tools give wrong information about my practice?",
+      "a": "Yes. AI answers can repeat outdated addresses, hours, insurance or provider details from old listings. Keeping every source consistent and checking answers monthly is the best protection."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "schema markup for AI search",
+      "url": "https://thechimeraai.com/schema-markup-for-ai-search/"
+    },
+    {
+      "anchor": "GEO for dentists",
+      "url": "https://thechimeraai.com/geo-for-dentists/"
+    },
+    {
+      "anchor": "how to check if ChatGPT mentions your brand",
+      "url": "https://thechimeraai.com/how-to-check-if-chatgpt-mentions-your-brand/"
+    },
+    {
+      "anchor": "Chimera's GEO services",
+      "url": "https://thechimeraai.com/#services"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Schema.org: MedicalBusiness",
+      "url": "https://schema.org/MedicalBusiness"
+    },
+    {
+      "title": "Schema.org: Physician",
+      "url": "https://schema.org/Physician"
+    },
+    {
+      "title": "Google Search Central: Creating helpful, reliable, people-first content",
+      "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content"
+    },
+    {
+      "title": "Pew Research Center: Google users are less likely to click on links when an AI summary appears in the results (Jul 22, 2025)",
+      "url": "https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/"
+    },
+    {
+      "title": "Google Business Profile",
+      "url": "https://www.google.com/business/"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 0,
+      "type": "engines",
+      "eyebrow": "AI platforms",
+      "title": "Where patients research care",
+      "lead": "The answer engines that matter most for buyer research, and how each one finds sources.",
+      "items": [
+        {
+          "engine": "chatgpt",
+          "note": "The largest assistant. Searches the web for current questions and links sources in its answers."
+        },
+        {
+          "engine": "google",
+          "note": "AI summaries above Google results, built from pages Google has indexed."
+        },
+        {
+          "engine": "gemini",
+          "note": "Google's assistant app, increasingly used for research and comparisons."
+        },
+        {
+          "engine": "perplexity",
+          "note": "Answer engine built around numbered, clickable citations."
+        },
+        {
+          "engine": "claude",
+          "note": "Anthropic's assistant, used heavily for research and work tasks; can search the web."
+        },
+        {
+          "engine": "copilot",
+          "note": "Microsoft's assistant in Windows, Edge and Office, grounded in Bing results."
+        }
+      ]
+    },
+    {
+      "after": 0,
+      "type": "bars",
+      "eyebrow": "Pew Research data",
+      "title": "Government sources are more common in AI summaries",
+      "lead": "Share of linked sources that were .gov websites, Google searches, March 2025.",
+      "unit": "%",
+      "engine": "google",
+      "chart_label": "Sources that were .gov sites",
+      "items": [
+        {
+          "label": "In AI summaries",
+          "value": 6
+        },
+        {
+          "label": "In standard results",
+          "value": 2
+        }
+      ],
+      "source": {
+        "title": "Pew Research Center, March 2025 browsing data from 900 U.S. adults",
+        "url": "https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/"
+      }
+    },
+    {
+      "after": 2,
+      "type": "scorecard",
+      "eyebrow": "Scorecard",
+      "title": "Trust signals for health content",
+      "lead": "How strongly each helps (5 = most).",
+      "rows": [
+        {
+          "label": "Named clinician reviewer",
+          "score": 5,
+          "note": "Shows who stands behind the advice."
+        },
+        {
+          "label": "Review date and updates",
+          "score": 4,
+          "note": "Health guidance changes."
+        },
+        {
+          "label": "Accurate practice details",
+          "score": 5,
+          "note": "Wrong details cause real harm."
+        },
+        {
+          "label": "Specific what-to-expect content",
+          "score": 4,
+          "note": "Useful detail AI answers can use."
+        },
+        {
+          "label": "General encyclopedia articles",
+          "score": 2,
+          "note": "Established sources already cover these."
+        }
+      ]
+    }
+  ],
+  "hero_query": "Which clinic near me treats this condition?",
+  "short_title": "GEO for Healthcare Providers: Be Cited by AI Search",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 279,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/geo-for-healthcare-chimera.jpg",
+    "alt": "GEO for Healthcare Providers: Be Cited by AI Search: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-06",
+  "updated": "2026-11-10",
+  "photo": {
+    "id": 371,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/geo-for-healthcare-photo.jpg",
+    "alt": "Physician explaining results on a tablet to a patient in a clinic",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "query": "ai visibility audit",
+  "slug": "ai-visibility-audit",
+  "eyebrow": "AI visibility audit",
+  "primary_keyword": "AI visibility audit",
+  "secondary_keywords": [
+    "AI search audit",
+    "GEO audit",
+    "ChatGPT visibility audit",
+    "AI visibility report"
+  ],
+  "search_intent": "commercial",
+  "seo": {
+    "title": "AI Visibility Audit: What It Checks and Why You Need One",
+    "meta_description": "What an AI visibility audit checks: how ChatGPT, Gemini, Perplexity and Google AI Overviews describe you, crawl access, page structure and a fix list."
+  },
+  "h1": "AI Visibility Audit: What It Checks and What You Get",
+  "answer": "An AI visibility audit shows how AI engines such as ChatGPT, Gemini, Perplexity, Claude and Google AI Overviews describe your brand today, which competitors they recommend instead, and why. A good audit tests your real buyer questions, checks crawl access, indexing, page structure and brand signals, and ends with a prioritized fix list.",
+  "key_takeaways": [
+    "An AI visibility audit starts with your buyers' real questions, not generic keywords.",
+    "It records who each engine mentions, cites and recommends.",
+    "Technical checks cover crawl access for AI bots, indexing and structure.",
+    "Brand checks look at how consistently the web describes you.",
+    "The output is a prioritized fix list you can act on this month."
+  ],
+  "sections": [
+    {
+      "heading": "What an AI visibility audit is",
+      "body_html": "<p>Traditional SEO audits ask whether your pages can rank. An AI visibility audit asks a different question: <em>when a buyer asks an AI assistant about your category, does it mention you, describe you correctly and link to you?</em></p><p>Because AI answers name only a few brands, the gap between being included and being invisible is large. An audit makes that gap visible, engine by engine, and explains what is causing it.</p>"
+    },
+    {
+      "heading": "The questions an audit tests",
+      "body_html": "<p>The core of the audit is a list of 30–50 questions your buyers actually ask, grouped by stage:</p><ul><li><strong>Problem questions:</strong> \"why is my site not showing up in ChatGPT?\"</li><li><strong>Solution questions:</strong> \"what is generative engine optimization?\"</li><li><strong>Comparison questions:</strong> \"GEO vs SEO\", \"best GEO agency for e-commerce\".</li><li><strong>Decision questions:</strong> \"how much does a GEO audit cost?\", \"GEO agency in Orange County\".</li></ul><p>Each question is run in each engine, and the answers are recorded: who is mentioned, in what order, how they are described, and which pages are cited.</p>"
+    },
+    {
+      "heading": "Technical checks",
+      "body_html": "<ol><li><strong>Crawler access:</strong> robots.txt and firewall rules for OAI-SearchBot, PerplexityBot, Claude-SearchBot, Googlebot, Google-Extended and Bingbot.</li><li><strong>Indexing:</strong> whether key pages are indexed in Google and Bing.</li><li><strong>Rendering:</strong> whether main content is visible in the HTML without heavy scripts.</li><li><strong>Structure:</strong> headings, answer-first openings, tables and FAQs.</li><li><strong>Structured data:</strong> Organization, Service or LocalBusiness, Article and FAQPage, and whether it matches the page.</li><li><strong>Machine-readable files:</strong> sitemap and llms.txt.</li></ol>"
+    },
+    {
+      "heading": "Content and brand checks",
+      "body_html": "<ul><li><strong>Answer coverage:</strong> which buyer questions have a page that answers them directly, and which have none.</li><li><strong>Evidence:</strong> whether claims are backed by data, examples and sources.</li><li><strong>Entity consistency:</strong> whether your name, specialty and location match across your site, profiles and directories.</li><li><strong>Third-party mentions:</strong> where competitors are mentioned and you are not.</li><li><strong>Conversion path:</strong> whether pages AI engines send people to have a clear next step.</li></ul>"
+    },
+    {
+      "heading": "What you should receive",
+      "body_html": "<table><tr><th>Deliverable</th><th>What it tells you</th></tr><tr><td>Visibility baseline</td><td>Mentions and citations per engine for every test question</td></tr><tr><td>Competitor map</td><td>Who gets recommended instead of you, and where</td></tr><tr><td>Technical findings</td><td>Blocked bots, indexing issues, missing schema</td></tr><tr><td>Content gaps</td><td>Questions with no answering page</td></tr><tr><td>Prioritized fix list</td><td>What to change first, ordered by impact and effort</td></tr></table>"
+    },
+    {
+      "heading": "How to use the results",
+      "body_html": "<p>Start with the cheap, high-impact fixes: unblock crawlers, fix indexing and rewrite the opening of your most important pages. Then publish pages for the highest-intent questions where you are missing. Re-run the same question set after 60–90 days. Because the baseline uses the same questions, the before-and-after comparison shows clearly what improved.</p>"
+    },
+    {
+      "heading": "Example findings from a typical audit",
+      "body_html": "<p>Every business is different, but certain findings come up again and again. These are the patterns an audit most often uncovers:</p><ul><li><strong>Security tools blocking AI crawlers.</strong> A bot-protection setting quietly turns away OAI-SearchBot or PerplexityBot, so those engines cannot read the site at all.</li><li><strong>A homepage that never says what the business does</strong> in plain words, leaving AI engines to guess the specialty.</li><li><strong>No page for the most valuable questions.</strong> Buyers ask about cost, comparisons and fit, but the site only has a services list.</li><li><strong>Competitors named on lists and directories</strong> that the business has never been added to.</li><li><strong>Different descriptions across profiles</strong>, so engines are unsure whether the brand is a local shop or a national firm.</li></ul><p>Most of these are fixable within weeks, which is why the audit ends in a prioritized list rather than a long report.</p>"
+    },
+    {
+      "heading": "How an AI visibility audit differs from an SEO audit",
+      "body_html": "<table><tr><th></th><th>SEO audit</th><th>AI visibility audit</th></tr><tr><td>Starting point</td><td>Keywords and rankings</td><td>Buyer questions asked in AI engines</td></tr><tr><td>Main output</td><td>Technical issues and ranking opportunities</td><td>Who AI engines mention and cite, and why not you</td></tr><tr><td>Crawlers checked</td><td>Googlebot and Bingbot</td><td>Search bots plus OAI-SearchBot, PerplexityBot, Claude-SearchBot and Google-Extended</td></tr><tr><td>Brand signals</td><td>Backlinks</td><td>Mentions, descriptions and consistency across the web</td></tr><tr><td>Success measure</td><td>Positions and clicks</td><td>Mentions, citations, AI referral visits and leads</td></tr></table><p>The two work best together: the SEO audit keeps your foundations healthy, and the AI visibility audit shows whether those foundations turn into recommendations.</p>"
+    },
+    {
+      "heading": "Who needs an AI visibility audit",
+      "body_html": "<p>It is most useful if buyers research before contacting you, competitors already appear in AI answers, or you are planning a GEO or content program and want a baseline to measure against. It is less urgent for businesses whose customers buy on impulse or only through marketplaces.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is an AI visibility audit?",
+      "a": "It is a review of how AI engines such as ChatGPT, Gemini, Perplexity, Claude and Google AI Overviews describe and cite your brand for your buyers' real questions, plus the technical, content and brand reasons behind it, ending in a prioritized fix list."
+    },
+    {
+      "q": "What does an AI visibility audit include?",
+      "a": "A baseline of answers for 30 to 50 buyer questions per engine, a competitor map, crawl and indexing checks for AI bots, structured data and content reviews, entity consistency checks, and a list of fixes ordered by impact."
+    },
+    {
+      "q": "How long does an AI visibility audit take?",
+      "a": "A focused audit usually takes one to two weeks, depending on how many questions, engines and pages are reviewed."
+    },
+    {
+      "q": "How often should I repeat the audit?",
+      "a": "Re-test the same question set every one to three months. Using the same questions makes progress easy to see and shows which fixes paid off."
+    },
+    {
+      "q": "Can I do an AI visibility audit myself?",
+      "a": "You can run the basic version: list buyer questions, test them in each engine and check robots.txt. A professional audit adds scale, technical depth and a prioritized plan."
+    },
+    {
+      "q": "Is Chimera's AI visibility audit free?",
+      "a": "Chimera offers a free AI visibility audit. Request it through the form on this page and the team will review how AI engines describe your brand today."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "how to check if ChatGPT mentions your brand",
+      "url": "https://thechimeraai.com/how-to-check-if-chatgpt-mentions-your-brand/"
+    },
+    {
+      "anchor": "how to measure GEO results",
+      "url": "https://thechimeraai.com/how-to-measure-geo-results/"
+    },
+    {
+      "anchor": "generative engine optimization agency",
+      "url": "https://thechimeraai.com/generative-engine-optimization-agency/"
+    },
+    {
+      "anchor": "how Chimera's six-phase GEO build works",
+      "url": "https://thechimeraai.com/#process"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "GEO: Generative Engine Optimization (Aggarwal et al., KDD 2024)",
+      "url": "https://arxiv.org/abs/2311.09735"
+    },
+    {
+      "title": "OpenAI: Overview of OpenAI crawlers",
+      "url": "https://platform.openai.com/docs/bots"
+    },
+    {
+      "title": "Perplexity: Perplexity crawlers",
+      "url": "https://docs.perplexity.ai/guides/bots"
+    },
+    {
+      "title": "Google Search Central: AI features and your website",
+      "url": "https://developers.google.com/search/docs/appearance/ai-features"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 1,
+      "type": "engines",
+      "eyebrow": "AI platforms",
+      "title": "The engines an audit covers",
+      "lead": "The answer engines that matter most for buyer research, and how each one finds sources.",
+      "items": [
+        {
+          "engine": "chatgpt",
+          "note": "The largest assistant. Searches the web for current questions and links sources in its answers."
+        },
+        {
+          "engine": "google",
+          "note": "AI summaries above Google results, built from pages Google has indexed."
+        },
+        {
+          "engine": "gemini",
+          "note": "Google's assistant app, increasingly used for research and comparisons."
+        },
+        {
+          "engine": "perplexity",
+          "note": "Answer engine built around numbered, clickable citations."
+        },
+        {
+          "engine": "claude",
+          "note": "Anthropic's assistant, used heavily for research and work tasks; can search the web."
+        },
+        {
+          "engine": "copilot",
+          "note": "Microsoft's assistant in Windows, Edge and Office, grounded in Bing results."
+        }
+      ]
+    },
+    {
+      "after": 3,
+      "type": "timeline",
+      "eyebrow": "Timeline",
+      "title": "How the audit runs",
+      "lead": "A typical two-week audit.",
+      "items": [
+        {
+          "when": "Day 1–2",
+          "title": "Question set",
+          "text": "Agree on 30–50 buyer questions grouped by stage."
+        },
+        {
+          "when": "Day 3–6",
+          "title": "Engine testing",
+          "text": "Run every question in each engine and record answers."
+        },
+        {
+          "when": "Day 7–9",
+          "title": "Technical + brand",
+          "text": "Crawl, indexing, structure, schema and entity checks."
+        },
+        {
+          "when": "Day 10",
+          "title": "Fix list",
+          "text": "Deliver the baseline, competitor map and prioritized fixes."
+        }
+      ]
+    },
+    {
+      "after": 5,
+      "type": "stats",
+      "eyebrow": "By the numbers",
+      "title": "The audience your audit is about",
+      "lead": "Company-reported audience figures for the biggest AI answer engines. Each is the latest official number we could verify, with its date.",
+      "items": [
+        {
+          "engine": "chatgpt",
+          "value": "800M",
+          "label": "ChatGPT weekly active users",
+          "date": "Oct 2025, OpenAI",
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2025/10/06/sam-altman-says-chatgpt-has-hit-800m-weekly-active-users/"
+        },
+        {
+          "engine": "google",
+          "value": "2B",
+          "label": "AI Overviews monthly users",
+          "date": "Jul 2025, Google",
+          "source": "Dataconomy",
+          "source_url": "https://dataconomy.com/2025/07/24/googles-ai-overviews-now-serve-2-billion-monthly-users/"
+        },
+        {
+          "engine": "gemini",
+          "value": "650M",
+          "label": "Gemini app monthly active users",
+          "date": "Oct 2025, Google",
+          "source": "9to5Google",
+          "source_url": "https://9to5google.com/2025/10/29/gemini-app-650-million-users/"
+        },
+        {
+          "engine": "perplexity",
+          "value": "780M",
+          "label": "Perplexity queries in one month",
+          "date": "May 2025, Perplexity CEO",
+          "source": "MediaPost",
+          "source_url": "https://www.mediapost.com/publications/article/406449/perplexity-ceo-estimates-firm-will-serve-1b-querie.html"
+        }
+      ],
+      "note": "Weekly users, monthly users and monthly queries measure different things, so compare each figure with its own history rather than with the others."
+    },
+    {
+      "after": 2,
+      "type": "line",
+      "eyebrow": "Interactive chart",
+      "title": "ChatGPT's weekly users over time",
+      "lead": "OpenAI's own figures. Hover the points to see each milestone.",
+      "engine": "chatgpt",
+      "chart_label": "ChatGPT weekly active users (millions)",
+      "unit": "M",
+      "items": [
+        {
+          "label": "Nov 2023",
+          "value": 100
+        },
+        {
+          "label": "Mar 2025",
+          "value": 500
+        },
+        {
+          "label": "Aug 2025",
+          "value": 700
+        },
+        {
+          "label": "Oct 2025",
+          "value": 800
+        }
+      ],
+      "source": {
+        "title": "TechCrunch: Sam Altman says ChatGPT has hit 800M weekly active users (Oct 6, 2025)",
+        "url": "https://techcrunch.com/2025/10/06/sam-altman-says-chatgpt-has-hit-800m-weekly-active-users/",
+        "note": "Figures announced by OpenAI"
+      }
+    }
+  ],
+  "hero_query": "How does AI describe my brand today?",
+  "short_title": "AI Visibility Audit: What It Checks and Why You Need One",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 149,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/ai-visibility-audit-chimera.jpg",
+    "alt": "AI Visibility Audit: What It Checks and Why You Need One: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-05",
+  "updated": "2026-11-10",
+  "photo": {
+    "id": 194,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/ai-visibility-audit-photo.jpg",
+    "alt": "Analyst reviewing an audit report with charts and a magnifying glass",
+    "width": 1360,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Kittl AI"
+  }
+}

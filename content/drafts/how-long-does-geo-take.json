@@ -1,0 +1,242 @@
+{
+  "query": "how long does geo take to work",
+  "slug": "how-long-does-geo-take",
+  "eyebrow": "GEO planning",
+  "primary_keyword": "how long does GEO take",
+  "secondary_keywords": [
+    "GEO timeline",
+    "how long for AI search results",
+    "generative engine optimization timeline",
+    "GEO results"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "How Long Does GEO Take to Work? Realistic Timelines",
+    "meta_description": "How long does GEO take to show results? Realistic timelines for AI crawler fixes, content, citations and leads, plus what speeds it up and slows it down."
+  },
+  "h1": "How Long Does GEO Take to Work? A Realistic Timeline",
+  "answer": "How long does GEO take? Technical fixes, such as allowing AI search crawlers, can affect answers within days to weeks, and new answer-first pages can be cited soon after they are indexed. Becoming a regular recommendation for competitive questions usually takes three to six months, and changing what models know from training takes longer.",
+  "key_takeaways": [
+    "Technical access fixes can show effects within weeks.",
+    "New pages can be cited once indexed, often within weeks.",
+    "Regular recommendations for competitive topics take three to six months.",
+    "Training-data knowledge changes on the model's own schedule.",
+    "Competition and existing authority change the timeline most."
+  ],
+  "sections": [
+    {
+      "heading": "Why there is no single answer",
+      "body_html": "<p>GEO results arrive through different routes at different speeds. Live AI search answers, such as ChatGPT search, Perplexity and Google's AI Overviews, use current web indexes, so improvements to pages and access can show up as soon as the pages are re-crawled. What a model knows from its training data only changes when the model is retrained, on a schedule you do not control. Most of what a GEO program can influence quickly is the first route.</p>"
+    },
+    {
+      "heading": "Days to weeks: technical fixes",
+      "body_html": "<p>If AI search crawlers were blocked by robots.txt or a firewall, unblocking them is the fastest win. Once crawlers can read your pages, those pages become eligible for that platform's answers. Submitting your sitemap in Google Search Console and Bing Webmaster Tools, and notifying search engines through IndexNow where supported, helps new and changed pages get discovered sooner. Fixing inconsistent business details on your profile and listings can also change local AI answers within weeks.</p>"
+    },
+    {
+      "heading": "Weeks to two months: new and improved pages",
+      "body_html": "<p>A new answer-first page can be cited as soon as it is indexed and judged relevant. In practice, that often takes a few weeks for a new site and less for an established one. Rewriting existing pages to put the answer first, add sourced facts and cover follow-up questions can lift citations once the pages are re-crawled. Expect early wins on specific, long-tail questions before broad ones.</p>"
+    },
+    {
+      "heading": "Three to six months: becoming a regular recommendation",
+      "body_html": "<p>Being named consistently for competitive questions, such as \"best GEO agency in Orange County\", depends on more than one page. It needs a body of content on the topic, consistent brand information, reviews, and mentions on sites AI engines trust. That reputation builds over months. For most businesses, three to six months is a realistic window to see a clear change in how often and how favorably AI tools mention them, provided the work is steady.</p>"
+    },
+    {
+      "heading": "What speeds GEO up",
+      "body_html": "<ul><li><strong>An already-indexed, healthy site</strong> with some existing authority.</li><li><strong>A clear niche</strong>, where fewer strong sources compete.</li><li><strong>Specific information others lack</strong>: data, pricing, local detail.</li><li><strong>Existing reviews and mentions</strong> across the web.</li><li><strong>Consistent publishing</strong> rather than one burst of activity.</li></ul>"
+    },
+    {
+      "heading": "What slows GEO down",
+      "body_html": "<ul><li>A brand-new domain with no history.</li><li>Blocked crawlers or indexing problems nobody has noticed.</li><li>Highly competitive topics dominated by large publishers.</li><li>Inconsistent brand details that make AI systems hedge.</li><li>Generic content that adds nothing to what is already available.</li></ul>"
+    },
+    {
+      "heading": "What to measure month by month",
+      "body_html": "<table><tr><th>Month</th><th>What to look for</th></tr><tr><td>1</td><td>Crawlers allowed, pages indexed in Google and Bing, baseline AI answer checks recorded</td></tr><tr><td>2</td><td>Search Console impressions on question queries, first AI referrals</td></tr><tr><td>3</td><td>Citations for specific long-tail questions, growing AI referrals</td></tr><tr><td>4–6</td><td>Mentions in broader recommendation answers, branded search growth, leads from AI-sourced visits</td></tr></table>"
+    },
+    {
+      "heading": "Be wary of fast promises",
+      "body_html": "<p>Nobody controls AI answers, so be cautious of anyone promising guaranteed placement in ChatGPT or AI Overviews by a set date. A credible GEO plan explains what will be done, what can be measured, and what is likely in what timeframe, then reports honestly against it.</p>"
+    },
+    {
+      "heading": "An example timeline for a new service business",
+      "body_html": "<p>Consider a typical case: a local service business with a new website, a small amount of content and an incomplete Google Business Profile. In the first two weeks, the priorities are confirming that Googlebot, Bingbot and the AI search crawlers can reach the site, submitting the sitemap to Google and Bing, and making the business name, address and phone number consistent everywhere. None of that produces leads on its own, but it removes the blockers.</p><p>During the first and second months, the business publishes answer-first pages for its main services and the questions customers ask most, each with a clear answer, specific details and an FAQ. The first signs of progress are usually impressions in Search Console for long, question-style queries and the occasional visit from chatgpt.com or perplexity.ai.</p><p>From the third month onward, steady publishing, new reviews and a few mentions on local and industry sites begin to compound. The business starts appearing in AI answers for specific questions about its service and area, and branded searches rise. Being named in broad \"best provider\" answers typically comes last, because it depends most on reputation built outside the website.</p>"
+    },
+    {
+      "heading": "How to keep momentum",
+      "body_html": "<p>The programs that work are steady rather than intense: a few strong pages every week, monthly AI answer checks, and regular review and mention building. Stopping after an initial burst usually means competitors catch up, since AI answers are recalculated every time someone asks.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long does GEO take to work?",
+      "a": "Technical fixes can help within days to weeks, new pages can be cited once indexed, and regular recommendations for competitive questions usually take three to six months."
+    },
+    {
+      "q": "Can GEO show results in a month?",
+      "a": "Sometimes, for specific long-tail questions or after unblocking AI crawlers. Broad, competitive recommendations take longer."
+    },
+    {
+      "q": "Why does GEO take time?",
+      "a": "AI answers rely on indexing, relevance and trust. Trust builds through content, consistency, reviews and mentions across the web, which takes months."
+    },
+    {
+      "q": "Is GEO faster than SEO?",
+      "a": "It can be faster for specific questions because AI answers cite several sources, giving more chances to appear. The foundations of indexing and authority still take time."
+    },
+    {
+      "q": "How do I know GEO is working before leads arrive?",
+      "a": "Watch for indexed pages, Search Console impressions on question queries, AI referrals in Google Analytics and changes in monthly AI answer checks."
+    },
+    {
+      "q": "What if GEO is not working after six months?",
+      "a": "Check crawler access and indexing first, then content specificity and brand consistency, and compare your presence on third-party sites with competitors."
+    },
+    {
+      "q": "Do I need to publish every day to see GEO results?",
+      "a": "No. Consistency matters more than volume. A few genuinely useful, answer-first pages each week, combined with steady review and mention building, usually beats publishing large amounts of thin content quickly."
+    },
+    {
+      "q": "Will results disappear if I stop GEO work?",
+      "a": "Pages that are already indexed and cited keep working for a while, but AI answers are generated fresh for every question. If competitors keep improving and you stop, your share of mentions usually declines over time."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "how much GEO costs",
+      "url": "https://thechimeraai.com/how-much-does-geo-cost/"
+    },
+    {
+      "anchor": "how to measure GEO results",
+      "url": "https://thechimeraai.com/how-to-measure-geo-results/"
+    },
+    {
+      "anchor": "GEO mistakes to avoid",
+      "url": "https://thechimeraai.com/geo-mistakes-to-avoid/"
+    },
+    {
+      "anchor": "how to choose a GEO agency",
+      "url": "https://thechimeraai.com/how-to-choose-a-geo-agency/"
+    },
+    {
+      "anchor": "how Chimera's six-phase GEO build works",
+      "url": "https://thechimeraai.com/#process"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "IndexNow: how it works",
+      "url": "https://www.indexnow.org/"
+    },
+    {
+      "title": "Bing Webmaster Tools",
+      "url": "https://www.bing.com/webmasters"
+    },
+    {
+      "title": "Google Search Central: AI features and your website",
+      "url": "https://developers.google.com/search/docs/appearance/ai-features"
+    },
+    {
+      "title": "Google Search Central: Creating helpful, reliable, people-first content",
+      "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content"
+    },
+    {
+      "title": "OpenAI: Overview of OpenAI crawlers",
+      "url": "https://platform.openai.com/docs/bots"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 0,
+      "type": "timeline",
+      "eyebrow": "Timeline",
+      "title": "A realistic GEO timeline",
+      "lead": "When each kind of result usually appears.",
+      "items": [
+        {
+          "when": "Days–weeks",
+          "title": "Access fixes",
+          "text": "Crawler access and listing fixes take effect."
+        },
+        {
+          "when": "Weeks–2 months",
+          "title": "First citations",
+          "text": "New and improved pages are indexed and cited for specific questions."
+        },
+        {
+          "when": "3–6 months",
+          "title": "Regular recommendations",
+          "text": "Regular mentions in broader recommendation answers."
+        },
+        {
+          "when": "Longer",
+          "title": "Model knowledge",
+          "text": "Training-data knowledge catches up with your reputation."
+        }
+      ]
+    },
+    {
+      "after": 5,
+      "type": "scorecard",
+      "eyebrow": "Scorecard",
+      "title": "What changes the timeline most",
+      "lead": "How much each factor affects speed (5 = most).",
+      "rows": [
+        {
+          "label": "Competition on the topic",
+          "score": 5,
+          "note": "Crowded topics take longer."
+        },
+        {
+          "label": "Existing site authority",
+          "score": 4,
+          "note": "Established sites are trusted sooner."
+        },
+        {
+          "label": "Crawler access and indexing",
+          "score": 5,
+          "note": "Nothing happens until pages can be read."
+        },
+        {
+          "label": "Specificity of content",
+          "score": 4,
+          "note": "Unique facts get cited sooner."
+        },
+        {
+          "label": "Publishing volume alone",
+          "score": 2,
+          "note": "Quantity without quality adds little."
+        }
+      ]
+    }
+  ],
+  "hero_query": "How long does GEO take to show results?",
+  "short_title": "How Long Does GEO Take to Work? Realistic Timelines",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 263,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/how-long-does-geo-take-chimera.jpg",
+    "alt": "How Long Does GEO Take to Work? Realistic Timelines: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-06",
+  "updated": "2026-11-10",
+  "photo": {
+    "id": 367,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/how-long-does-geo-take-photo.jpg",
+    "alt": "Hourglass and plant beside a laptop showing a rising growth line",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
+}

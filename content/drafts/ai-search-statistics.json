@@ -1,0 +1,341 @@
+{
+  "query": "ai search statistics",
+  "slug": "ai-search-statistics",
+  "eyebrow": "Research roundup",
+  "primary_keyword": "AI search statistics",
+  "secondary_keywords": [
+    "AI Overviews statistics",
+    "ChatGPT usage statistics",
+    "zero-click search statistics",
+    "generative AI search data"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "AI Search Statistics 2026: Verified Numbers & Sources",
+    "meta_description": "AI search statistics with a source and date for every number: ChatGPT, Gemini, Perplexity and AI Overviews usage, click behavior and citations."
+  },
+  "h1": "AI Search Statistics: The Verified Numbers, With Sources",
+  "answer": "These AI search statistics are the latest figures we could verify from company announcements and independent research: ChatGPT reached 800 million weekly users in October 2025, Google's AI Overviews passed 2 billion monthly users, and Pew Research found people clicked results half as often when an AI summary appeared. Every number below links to its source.",
+  "key_takeaways": [
+    "ChatGPT grew from 100 million to 800 million weekly users between November 2023 and October 2025.",
+    "AI Overviews reached more than 2 billion monthly users by July 2025.",
+    "In Pew's March 2025 data, 18% of Google searches produced an AI summary.",
+    "Clicks on results fell from 15% to 8% of visits when an AI summary appeared.",
+    "88% of AI summaries cited three or more sources, so there is room for more than one winner."
+  ],
+  "sections": [
+    {
+      "heading": "How we chose these numbers",
+      "body_html": "<p>Plenty of AI search statistics circulate without a source, or with a source that turns out to be a vendor blog quoting another vendor blog. This page only includes figures we could trace to the company that reported them or to a published study, and every figure carries its date. AI usage is changing quickly, so a number from 2024 should be read as a snapshot, not as today's reality.</p><p>We update this page when platforms announce new figures. If you are a journalist or writer, you are welcome to cite it; the original sources are listed at the bottom so you can quote them directly.</p>"
+    },
+    {
+      "heading": "AI assistant usage",
+      "body_html": "<p>The companies behind the major assistants report their audience in different ways, which makes direct comparison tricky:</p><ul><li><strong>ChatGPT:</strong> 100 million weekly active users in November 2023, 500 million in March 2025, 700 million in August 2025 and 800 million in October 2025, according to OpenAI figures reported by TechCrunch.</li><li><strong>Gemini app:</strong> 90 million monthly active users in October 2024, 350 million in March 2025 and more than 650 million in October 2025, according to Google figures reported by 9to5Google.</li><li><strong>Perplexity:</strong> 780 million queries in May 2025, according to its CEO, reported by MediaPost.</li></ul><p>Weekly users, monthly users and monthly queries measure different things. Compare each platform with its own history rather than with the others.</p>"
+    },
+    {
+      "heading": "AI in Google Search",
+      "body_html": "<p>Google's own AI answers reach more people than any standalone assistant because they appear inside the search engine people already use. Google reported 1.5 billion monthly users of AI Overviews in May 2025 and more than 2 billion by July 2025.</p><p>Pew Research Center's analysis of real browsing data from 900 U.S. adults gives a closer look at how often those summaries appear:</p><ul><li>58% of respondents ran at least one Google search in March 2025 that produced an AI summary.</li><li>18% of all Google searches in the study produced an AI summary.</li><li>The median AI summary was 67 words long; the shortest was 7 words and the longest 369.</li></ul>"
+    },
+    {
+      "heading": "Which searches trigger AI answers",
+      "body_html": "<p>Pew found that longer, question-style searches are far more likely to produce an AI summary. Only 8% of one- or two-word searches produced one, compared with 53% of searches of ten words or more. Searches that began with question words such as who, what, when or why produced a summary 60% of the time, and full-sentence searches 36% of the time.</p><p>That pattern matters for content planning. The conversational questions buyers ask before choosing a provider are exactly the searches most likely to be answered by AI, so pages that answer those questions directly are the ones that can be cited.</p>"
+    },
+    {
+      "heading": "Clicks and zero-click behavior",
+      "body_html": "<p>AI answers change what people do after they search. In Pew's data, users who saw an AI summary clicked a traditional result in 8% of visits, compared with 15% for users who did not see one. Clicks on links inside the summary itself happened in just 1% of visits. Users were also more likely to end their browsing session entirely after a page with an AI summary: 26% of the time, compared with 16% for pages with only traditional results.</p><p>Zero-click searching was common before AI Overviews. SparkToro's 2024 study, based on Datos clickstream data, found that just under 60% of U.S. Google searches ended without a click, and that only 360 of every 1,000 U.S. searches sent a click to the open web (374 in the EU).</p>"
+    },
+    {
+      "heading": "Which sources AI answers cite",
+      "body_html": "<p>Pew also looked at the links shown in AI summaries. The vast majority, 88%, cited three or more sources, and only 1% cited a single source. Wikipedia, YouTube and Reddit were the most commonly linked sites, together accounting for 15% of sources in AI summaries and 17% in standard results. Government websites made up 6% of AI summary sources, compared with 2% of standard results, while news sites made up 5% of both.</p><p>For a business, the takeaway is that AI summaries usually draw on several pages, and third-party platforms like Reddit and YouTube are a large part of the mix. Being the best page on your own site is necessary, but being mentioned elsewhere helps too.</p>"
+    },
+    {
+      "heading": "What the research says about optimization",
+      "body_html": "<p>The most cited academic work on generative engine optimization is the GEO paper by Aggarwal and colleagues, presented at KDD 2024. The authors tested ways of rewriting content and reported that the best methods improved visibility in generative engine responses by up to 40% in their experiments. Adding citations, quotations from relevant sources and statistics were among the methods they tested.</p><p>Google, for its part, says there are no additional requirements to appear in AI Overviews or AI Mode, and no special optimizations necessary beyond SEO best practices. In practice both points agree: clear, well-sourced, genuinely useful pages are the ones AI systems can use.</p>"
+    },
+    {
+      "heading": "What these numbers mean for your business",
+      "body_html": "<ul><li><strong>Your buyers are already using AI.</strong> Hundreds of millions of people use assistants every week, and AI summaries appear across Google.</li><li><strong>Fewer clicks, higher stakes.</strong> When fewer people click, being one of the cited sources matters more than ranking tenth.</li><li><strong>Questions are the opportunity.</strong> Long, conversational searches trigger AI answers most often, so answer those questions directly.</li><li><strong>Measure what you can.</strong> Track referrals from AI platforms, branded search growth and leads, not just rankings.</li></ul><p>If you want to see where your brand stands today, a visibility audit checks how the major engines describe you and which competitors they cite instead.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How many people use ChatGPT?",
+      "a": "OpenAI reported 800 million weekly active users in October 2025, up from 100 million in November 2023. That figure is weekly users, not monthly, so it is not directly comparable with monthly numbers from other platforms."
+    },
+    {
+      "q": "How many people use Google AI Overviews?",
+      "a": "Google reported more than 2 billion monthly users of AI Overviews in July 2025, up from 1.5 billion in May 2025."
+    },
+    {
+      "q": "How often do AI Overviews appear in Google?",
+      "a": "In Pew Research Center's March 2025 browsing data, 18% of Google searches produced an AI summary. Longer and question-style searches produced them far more often."
+    },
+    {
+      "q": "Do AI Overviews reduce clicks?",
+      "a": "In Pew's data, users who saw an AI summary clicked a traditional result in 8% of visits, compared with 15% when no summary appeared. Only 1% of visits included a click on a link inside the summary."
+    },
+    {
+      "q": "What sites do AI Overviews cite most?",
+      "a": "Pew found Wikipedia, YouTube and Reddit were the most commonly linked sources, together making up 15% of the sources in AI summaries."
+    },
+    {
+      "q": "Can I cite these AI search statistics?",
+      "a": "Yes. Each figure lists its original source and date at the bottom of the page. We recommend quoting the original source alongside this page."
+    },
+    {
+      "q": "How often is this page updated?",
+      "a": "We review it when a platform announces new usage figures or a major study is published. Each statistic keeps its own date so you can see how current it is."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "how to show up in Google AI Overviews",
+      "url": "https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/"
+    },
+    {
+      "anchor": "how to rank in ChatGPT",
+      "url": "https://thechimeraai.com/how-to-rank-in-chatgpt/"
+    },
+    {
+      "anchor": "what generative engine optimization is",
+      "url": "https://thechimeraai.com/what-is-generative-engine-optimization-and-how-does-it-work/"
+    },
+    {
+      "anchor": "how to measure GEO results",
+      "url": "https://thechimeraai.com/how-to-measure-geo-results/"
+    },
+    {
+      "anchor": "Chimera's GEO services",
+      "url": "https://thechimeraai.com/#services"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "TechCrunch: Sam Altman says ChatGPT has hit 800M weekly active users (Oct 6, 2025)",
+      "url": "https://techcrunch.com/2025/10/06/sam-altman-says-chatgpt-has-hit-800m-weekly-active-users/"
+    },
+    {
+      "title": "9to5Google: Gemini app passes 650 million monthly users (Oct 29, 2025)",
+      "url": "https://9to5google.com/2025/10/29/gemini-app-650-million-users/"
+    },
+    {
+      "title": "MediaPost: Perplexity CEO on 780M queries in May 2025",
+      "url": "https://www.mediapost.com/publications/article/406449/perplexity-ceo-estimates-firm-will-serve-1b-querie.html"
+    },
+    {
+      "title": "Dataconomy: Google's AI Overviews now serve 2 billion monthly users (Jul 24, 2025)",
+      "url": "https://dataconomy.com/2025/07/24/googles-ai-overviews-now-serve-2-billion-monthly-users/"
+    },
+    {
+      "title": "Pew Research Center: Google users are less likely to click on links when an AI summary appears in the results (Jul 22, 2025)",
+      "url": "https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/"
+    },
+    {
+      "title": "SparkToro: 2024 Zero-Click Search Study (Jul 1, 2024, data from Datos)",
+      "url": "https://sparktoro.com/blog/2024-zero-click-search-study-for-every-1000-us-google-searches-only-374-clicks-go-to-the-open-web-in-the-eu-its-360/"
+    },
+    {
+      "title": "GEO: Generative Engine Optimization (Aggarwal et al., KDD 2024)",
+      "url": "https://arxiv.org/abs/2311.09735"
+    },
+    {
+      "title": "Google Search Central: AI features and your website",
+      "url": "https://developers.google.com/search/docs/appearance/ai-features"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 0,
+      "type": "stats",
+      "eyebrow": "By the numbers",
+      "title": "AI search by the numbers",
+      "lead": "Company-reported audience figures for the biggest AI answer engines. Each is the latest official number we could verify, with its date.",
+      "items": [
+        {
+          "engine": "chatgpt",
+          "value": "800M",
+          "label": "ChatGPT weekly active users",
+          "date": "Oct 2025, OpenAI",
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2025/10/06/sam-altman-says-chatgpt-has-hit-800m-weekly-active-users/"
+        },
+        {
+          "engine": "google",
+          "value": "2B",
+          "label": "AI Overviews monthly users",
+          "date": "Jul 2025, Google",
+          "source": "Dataconomy",
+          "source_url": "https://dataconomy.com/2025/07/24/googles-ai-overviews-now-serve-2-billion-monthly-users/"
+        },
+        {
+          "engine": "gemini",
+          "value": "650M",
+          "label": "Gemini app monthly active users",
+          "date": "Oct 2025, Google",
+          "source": "9to5Google",
+          "source_url": "https://9to5google.com/2025/10/29/gemini-app-650-million-users/"
+        },
+        {
+          "engine": "perplexity",
+          "value": "780M",
+          "label": "Perplexity queries in one month",
+          "date": "May 2025, Perplexity CEO",
+          "source": "MediaPost",
+          "source_url": "https://www.mediapost.com/publications/article/406449/perplexity-ceo-estimates-firm-will-serve-1b-querie.html"
+        }
+      ],
+      "note": "Weekly users, monthly users and monthly queries measure different things, so compare each figure with its own history rather than with the others."
+    },
+    {
+      "after": 1,
+      "type": "line",
+      "eyebrow": "Interactive chart",
+      "title": "ChatGPT's weekly users over time",
+      "lead": "OpenAI's own figures. Hover the points to see each milestone.",
+      "engine": "chatgpt",
+      "chart_label": "ChatGPT weekly active users (millions)",
+      "unit": "M",
+      "items": [
+        {
+          "label": "Nov 2023",
+          "value": 100
+        },
+        {
+          "label": "Mar 2025",
+          "value": 500
+        },
+        {
+          "label": "Aug 2025",
+          "value": 700
+        },
+        {
+          "label": "Oct 2025",
+          "value": 800
+        }
+      ],
+      "source": {
+        "title": "TechCrunch: Sam Altman says ChatGPT has hit 800M weekly active users (Oct 6, 2025)",
+        "url": "https://techcrunch.com/2025/10/06/sam-altman-says-chatgpt-has-hit-800m-weekly-active-users/",
+        "note": "Figures announced by OpenAI"
+      }
+    },
+    {
+      "after": 3,
+      "type": "bars",
+      "eyebrow": "Pew Research data",
+      "title": "Which searches trigger an AI summary",
+      "lead": "Share of Google searches that produced an AI summary, by type of search, March 2025.",
+      "unit": "%",
+      "engine": "google",
+      "chart_label": "Searches with an AI summary",
+      "items": [
+        {
+          "label": "Searches starting with who, what, when or why",
+          "value": 60
+        },
+        {
+          "label": "Searches of 10 words or more",
+          "value": 53
+        },
+        {
+          "label": "Full-sentence searches (noun and verb)",
+          "value": 36
+        },
+        {
+          "label": "All searches in the study",
+          "value": 18
+        },
+        {
+          "label": "One- or two-word searches",
+          "value": 8
+        }
+      ],
+      "source": {
+        "title": "Pew Research Center, March 2025 browsing data from 900 U.S. adults",
+        "url": "https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/"
+      }
+    },
+    {
+      "after": 4,
+      "type": "bars",
+      "eyebrow": "Pew Research data",
+      "title": "What people click when an AI summary appears",
+      "lead": "Share of Google search visits that ended in each action, March 2025.",
+      "unit": "%",
+      "engine": "google",
+      "chart_label": "Google Search visits",
+      "items": [
+        {
+          "label": "Clicked a result, no AI summary on the page",
+          "value": 15
+        },
+        {
+          "label": "Clicked a result, AI summary on the page",
+          "value": 8
+        },
+        {
+          "label": "Clicked a link inside the AI summary",
+          "value": 1
+        }
+      ],
+      "source": {
+        "title": "Pew Research Center, March 2025 browsing data from 900 U.S. adults",
+        "url": "https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/"
+      }
+    },
+    {
+      "after": 4,
+      "type": "bars",
+      "eyebrow": "SparkToro data",
+      "title": "Where 1,000 Google searches send their clicks",
+      "lead": "Clicks that reach the open web (sites not owned by Google) per 1,000 searches, 2024 clickstream data.",
+      "chart_label": "Clicks to the open web per 1,000 searches",
+      "engine": "google",
+      "items": [
+        {
+          "label": "United States",
+          "value": 360
+        },
+        {
+          "label": "European Union",
+          "value": 374
+        }
+      ],
+      "source": {
+        "title": "SparkToro 2024 Zero-Click Search Study, data from Datos",
+        "url": "https://sparktoro.com/blog/2024-zero-click-search-study-for-every-1000-us-google-searches-only-374-clicks-go-to-the-open-web-in-the-eu-its-360/"
+      }
+    }
+  ],
+  "hero_query": "What are the latest AI search statistics?",
+  "short_title": "AI Search Statistics 2026",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 721,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/ai-search-statistics-chimera-1.jpg",
+    "alt": "AI Search Statistics 2026: Verified Numbers & Sources: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-06",
+  "updated": "2026-11-10",
+  "photo": {
+    "id": 358,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/ai-search-statistics-photo.jpg",
+    "alt": "Analyst studying charts and graphs on two monitors in an office at dusk",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
+}

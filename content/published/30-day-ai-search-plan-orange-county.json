@@ -1,0 +1,330 @@
+{
+  "query": "ai search plan for small business",
+  "slug": "30-day-ai-search-plan-orange-county",
+  "eyebrow": "Playbook",
+  "primary_keyword": "AI search plan",
+  "secondary_keywords": [
+    "AI search for small business",
+    "Orange County small business marketing",
+    "Anaheim SEO",
+    "GEO plan"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "A 30-Day AI Search Plan for Orange County Businesses",
+    "meta_description": "A practical 30-day AI search plan for small businesses in Anaheim and Orange County: what to check, fix, publish and measure, week by week."
+  },
+  "h1": "A 30-Day AI Search Plan for Orange County Small Businesses",
+  "answer": "A 30-day AI search plan for a small business in Anaheim or Orange County has four steps: week one, check what ChatGPT, Gemini and Google AI Overviews say about you; week two, fix crawl access and facts; week three, publish clear answer pages; week four, measure results and set a monthly routine.",
+  "key_takeaways": [
+    "Start by recording what AI tools say about you today.",
+    "Fix crawling, structured data and inconsistent facts next.",
+    "Publish pages that answer your customers' real questions.",
+    "Measure with Search Console, Analytics and repeat checks.",
+    "Repeat the cycle every month."
+  ],
+  "sections": [
+    {
+      "heading": "Why a plan, and why now",
+      "body_html": "<p>AI answers now sit between many customers and your website. In Pew Research Center's March 2025 data from 900 U.S. adults, 18% of Google searches produced an AI summary, and for searches of ten words or more the figure was 53%. When a summary appeared, people clicked a search result on 8% of visits compared with 15% without one. If AI answers decide which businesses get named, a business needs a plan to be among them.</p>"
+    },
+    {
+      "heading": "The local opportunity",
+      "body_html": "<p>Orange County had 3,186,989 residents in the 2020 census, making it the third most populous county in California and the sixth most populous in the U.S. Anaheim, the largest city in the county, had 346,824. That is a large, competitive market for every kind of service, and most local businesses have not yet done anything specific for AI search. A focused month of work can put you ahead.</p>"
+    },
+    {
+      "heading": "Week 1: find out where you stand",
+      "body_html": "<p>Write down 15 to 20 questions your customers actually ask, for example \"best family dentist in Anaheim\", \"how much does a roof repair cost in Orange County\" or \"who does same-day AC repair near Irvine\". Ask each one in ChatGPT, Gemini, Perplexity and Google, and record which businesses are named, whether you appear and whether the details about you are right. This becomes your baseline.</p>"
+    },
+    {
+      "heading": "Week 1: check your basic signals",
+      "body_html": "<ul><li>Is your Google Business Profile complete, with the right category, hours and photos?</li><li>Are your name, address and phone the same on your website and main directories?</li><li>Does your robots.txt allow the AI crawlers you want, such as OAI-SearchBot and Googlebot?</li><li>Does Search Console show your important pages as indexed?</li></ul>"
+    },
+    {
+      "heading": "Week 2: fix crawl access",
+      "body_html": "<p>AI search tools can only use pages they can reach. Check that robots.txt does not block search and AI crawlers you want to appear in, that important pages are not set to noindex, and that your sitemap lists them. Make sure key content is in the HTML as text, not only in images, and that pages load quickly on a phone. Google notes it can generally only follow links in standard anchor tags with an href, so menus and buttons should use real links.</p>"
+    },
+    {
+      "heading": "Week 2: fix your facts",
+      "body_html": "<p>Wrong or conflicting facts are the most common reason AI tools describe a business badly. Update old directory listings, remove duplicate profiles and make your website the clearest statement of who you are: what you do, where you serve in Orange County, your hours, your prices or price ranges and how to contact you. Add Organization or LocalBusiness structured data that matches the page.</p>"
+    },
+    {
+      "heading": "Week 3: publish answer pages",
+      "body_html": "<p>Take the questions from week one where you were missing. For each, publish or improve a page that answers it directly in the first paragraph, then explains the details: costs, timelines, options and what makes your approach different. Use plain language, specific numbers you can stand behind and a short FAQ with the follow-up questions people ask. One clear page per topic beats several thin ones.</p>"
+    },
+    {
+      "heading": "Week 3: show your experience",
+      "body_html": "<p>Google's guidance on helpful content and E-E-A-T stresses experience, expertise and trust, with trust the most important. Add author or team bios, real project photos, case examples with permission and clear policies. Ask satisfied customers for reviews on Google and respond to them. These signals help both Google and AI tools decide your business is a reliable source.</p>"
+    },
+    {
+      "heading": "Week 4: measure",
+      "body_html": "<table><tr><th>Measure</th><th>Tool</th><th>What to look for</th></tr><tr><td>Indexed pages</td><td>Search Console</td><td>New pages indexed within a few weeks</td></tr><tr><td>Impressions on question queries</td><td>Search Console</td><td>Growth on long, specific queries</td></tr><tr><td>Visits from AI tools</td><td>Google Analytics</td><td>Referrals from chatgpt.com, perplexity.ai, gemini.google.com</td></tr><tr><td>Being named in answers</td><td>Repeat your week-one checks</td><td>More appearances, more accurate details</td></tr><tr><td>Leads and calls</td><td>Your CRM or call tracking</td><td>Enquiries from the pages you improved</td></tr></table>"
+    },
+    {
+      "heading": "Week 4: set a monthly routine",
+      "body_html": "<p>AI search changes quickly. Google alone announced new AI Mode features for travel in August 2026 and more links in AI answers in October 2026. Set a simple monthly routine: rerun your question checks, review Search Console, update one or two important pages and publish one or two new answer pages. Consistency over months matters more than a single burst.</p>"
+    },
+    {
+      "heading": "Common mistakes",
+      "body_html": "<ul><li>Publishing dozens of near-identical pages for every city, which risks Google's scaled content abuse policy.</li><li>Blocking AI crawlers by accident with an overly broad robots.txt rule.</li><li>Leaving old listings with wrong addresses or phone numbers.</li><li>Quoting statistics without sources.</li><li>Expecting results in days; indexing and AI answers take weeks to change.</li></ul>"
+    },
+    {
+      "heading": "How long results take",
+      "body_html": "<p>Some fixes, like correcting your Google Business Profile, can show up quickly. New pages usually take days to weeks to be crawled and indexed, and longer to influence AI answers. Treat the first 30 days as the foundation and expect clearer results over three to six months of steady work.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>In 30 days, a small business in Anaheim or anywhere in Orange County can learn what AI tools say about it, fix the technical and factual basics, publish clear answer pages and set up measurement. After that, a steady monthly routine does the rest.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is an AI search plan?",
+      "a": "A structured set of steps to make your business visible and accurately described in AI answers from ChatGPT, Gemini, Perplexity and Google AI Overviews."
+    },
+    {
+      "q": "How long does an AI search plan take?",
+      "a": "The foundation can be done in about 30 days. Results usually build over three to six months."
+    },
+    {
+      "q": "How do I see what ChatGPT says about my business?",
+      "a": "Ask it the questions your customers ask and record which businesses are named and whether the details about you are correct."
+    },
+    {
+      "q": "Do I need a new website for AI search?",
+      "a": "Usually not. Most businesses need clearer pages, correct facts, crawl access and structured data on the site they have."
+    },
+    {
+      "q": "Which AI crawlers should I allow?",
+      "a": "Allow the search crawlers you want to appear in, such as Googlebot and OpenAI's OAI-SearchBot, and check your robots.txt does not block them by accident."
+    },
+    {
+      "q": "How do I measure AI search results?",
+      "a": "Use Search Console for impressions and indexing, Google Analytics for AI referrals and repeat your question checks each month."
+    },
+    {
+      "q": "Should I create a page for every Orange County city?",
+      "a": "Only where you have something specific to say. Many near-identical city pages risk Google's scaled content abuse policy."
+    },
+    {
+      "q": "Is AI search different from local SEO?",
+      "a": "It builds on it. Accurate listings, reviews and clear pages help both, and AI tools add a need for direct, quotable answers."
+    },
+    {
+      "q": "Do you work with businesses in Anaheim and Orange County?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California, from Anaheim and Santa Ana to Irvine and the coastal cities."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "AI search optimization checklist",
+      "url": "https://thechimeraai.com/ai-search-optimization-checklist/"
+    },
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "how to check if ChatGPT mentions your brand",
+      "url": "https://thechimeraai.com/how-to-check-if-chatgpt-mentions-your-brand/"
+    },
+    {
+      "anchor": "how to track AI traffic in Google Analytics",
+      "url": "https://thechimeraai.com/how-to-track-ai-traffic-in-google-analytics/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Pew Research Center: Google users are less likely to click on links when an AI summary appears in the results (Jul 22, 2025)",
+      "url": "https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/"
+    },
+    {
+      "title": "Google Search Central: AI features and your website",
+      "url": "https://developers.google.com/search/docs/appearance/ai-features"
+    },
+    {
+      "title": "Google Search Central: Creating helpful, reliable, people-first content",
+      "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content"
+    },
+    {
+      "title": "Google Search Central: Link best practices for Google",
+      "url": "https://developers.google.com/search/docs/crawling-indexing/links-crawlable"
+    },
+    {
+      "title": "Google Search Central blog: New ways we're tackling spammy, low-quality content on Search (Mar 2024)",
+      "url": "https://developers.google.com/search/blog/2024/03/core-update-spam-policies"
+    },
+    {
+      "title": "Wikipedia: Orange County, California (2020 census figures)",
+      "url": "https://en.wikipedia.org/wiki/Orange_County,_California"
+    },
+    {
+      "title": "Wikipedia: Anaheim, California (2020 census figures)",
+      "url": "https://en.wikipedia.org/wiki/Anaheim,_California"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 0,
+      "type": "bars",
+      "eyebrow": "Pew Research data",
+      "title": "Which searches trigger an AI summary",
+      "lead": "Share of Google searches that produced an AI summary, by type of search, March 2025.",
+      "unit": "%",
+      "engine": "google",
+      "chart_label": "Searches with an AI summary",
+      "items": [
+        {
+          "label": "Searches starting with who, what, when or why",
+          "value": 60
+        },
+        {
+          "label": "Searches of 10 words or more",
+          "value": 53
+        },
+        {
+          "label": "Full-sentence searches (noun and verb)",
+          "value": 36
+        },
+        {
+          "label": "All searches in the study",
+          "value": 18
+        },
+        {
+          "label": "One- or two-word searches",
+          "value": 8
+        }
+      ],
+      "source": {
+        "title": "Pew Research Center, March 2025 browsing data from 900 U.S. adults",
+        "url": "https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/"
+      }
+    },
+    {
+      "after": 1,
+      "type": "bars",
+      "eyebrow": "Local data",
+      "title": "Anaheim within Orange County",
+      "lead": "Anaheim is the most populous city in Orange County. County total: 3,186,989 people (2020 census).",
+      "unit": "",
+      "items": [
+        {
+          "label": "Anaheim",
+          "value": 346824,
+          "display": "346,824"
+        },
+        {
+          "label": "Orange County total",
+          "value": 3186989,
+          "display": "3,186,989"
+        }
+      ],
+      "source": {
+        "title": "U.S. 2020 census, via Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Anaheim,_California"
+      }
+    },
+    {
+      "after": 2,
+      "type": "timeline",
+      "eyebrow": "Timeline",
+      "title": "Your 30 days at a glance",
+      "lead": "One focus per week.",
+      "items": [
+        {
+          "when": "Week 1",
+          "title": "Check",
+          "text": "Record what AI tools say about you today."
+        },
+        {
+          "when": "Week 2",
+          "title": "Fix",
+          "text": "Crawl access, facts and structured data."
+        },
+        {
+          "when": "Week 3",
+          "title": "Publish",
+          "text": "Clear answer pages and proof of experience."
+        },
+        {
+          "when": "Week 4",
+          "title": "Measure",
+          "text": "Search Console, Analytics and repeat checks."
+        }
+      ]
+    },
+    {
+      "after": 10,
+      "type": "scorecard",
+      "eyebrow": "Scorecard",
+      "title": "Where to spend your first month",
+      "lead": "Impact for most local businesses (5 = most).",
+      "rows": [
+        {
+          "label": "Correct, consistent facts",
+          "score": 5,
+          "note": "Stops wrong AI descriptions."
+        },
+        {
+          "label": "Answer pages for real questions",
+          "score": 5,
+          "note": "Gives AI something to quote."
+        },
+        {
+          "label": "Crawl access",
+          "score": 4,
+          "note": "AI tools must reach your pages."
+        },
+        {
+          "label": "Reviews and replies",
+          "score": 4,
+          "note": "Trust signals for Google and AI."
+        },
+        {
+          "label": "Many near-identical city pages",
+          "score": 1,
+          "note": "Risks spam policies."
+        }
+      ]
+    }
+  ],
+  "hero_query": "Give me a 30-day plan to get my Orange County business into AI answers",
+  "short_title": "A 30-day AI search plan for OC businesses",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "kind": "blog",
+  "category": "Playbooks",
+  "slot": 5,
+  "hero_image": {
+    "id": 699,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/30-day-ai-search-plan-orange-county-chimera-1.jpg",
+    "alt": "A 30-Day AI Search Plan for Orange County Businesses: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "photo": {
+    "id": 708,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/30-day-ai-search-plan-orange-county-photo.jpg",
+    "alt": "Small business owner planning a four-week marketing calendar",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  },
+  "published": "2026-11-10",
+  "updated": "2026-11-10",
+  "parent_id": 709
+}

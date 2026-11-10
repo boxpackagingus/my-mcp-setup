@@ -1,0 +1,327 @@
+{
+  "query": "geo seo best practices",
+  "slug": "geo-seo-best-practices",
+  "eyebrow": "Best practices",
+  "primary_keyword": "GEO SEO best practices",
+  "secondary_keywords": [
+    "generative engine optimization checklist",
+    "AI search best practices",
+    "GEO checklist",
+    "optimize for AI search"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "GEO SEO Best Practices: 15-Point Checklist for 2026",
+    "meta_description": "GEO SEO best practices in one checklist: crawl access, page structure, quotable content, schema, llms.txt, brand authority and how to measure AI citations."
+  },
+  "h1": "GEO SEO Best Practices: A 15-Point Checklist",
+  "answer": "The core GEO SEO best practices are to let search and AI crawlers reach your pages, answer each buyer question directly in the first lines, support claims with specific facts and sources, structure pages with question headings, tables and FAQs, add accurate schema and llms.txt, keep your brand described consistently across the web, and measure citations and AI-referred leads.",
+  "key_takeaways": [
+    "Access first: a page AI crawlers cannot reach cannot be cited.",
+    "Write for passages: each section should answer one question on its own.",
+    "Specific, sourced facts beat general claims and keyword repetition.",
+    "Brand consistency across the web helps engines name you with confidence.",
+    "Measure citations, AI referrals and leads, not just rankings."
+  ],
+  "sections": [
+    {
+      "heading": "Access and indexing (1–4)",
+      "body_html": "<ol><li><strong>Allow the crawlers you want to be cited by.</strong> Check robots.txt for Googlebot and Bingbot, OpenAI's OAI-SearchBot, PerplexityBot and others. Also check firewall, CDN and security-plugin rules, which often block bots silently.</li><li><strong>Get every important page indexed.</strong> Use URL Inspection in Google Search Console and Bing Webmaster Tools. A page that is not indexed by search engines is rarely used by AI engines that depend on them.</li><li><strong>Keep content in the HTML.</strong> Text that only appears after heavy JavaScript, inside images, or behind tabs and logins is harder for crawlers to read.</li><li><strong>Announce new pages fast.</strong> Keep an accurate XML sitemap, link new pages from existing ones, and use IndexNow to notify participating engines such as Bing as soon as a page is published.</li></ol>"
+    },
+    {
+      "heading": "Page structure (5–8)",
+      "body_html": "<ol start=\"5\"><li><strong>Answer first.</strong> Open with a 40–60 word answer to the exact question, using the buyer's words.</li><li><strong>Use question headings.</strong> Phrase H2s and H3s as the follow-up questions people ask, so each section can be matched to a query.</li><li><strong>Make sections self-contained.</strong> Each section should make sense if quoted alone. Avoid \"as mentioned above\".</li><li><strong>Use tables, steps and lists</strong> for comparisons, processes and criteria. They are easier to summarize accurately.</li></ol>"
+    },
+    {
+      "heading": "Content quality (9–11)",
+      "body_html": "<ol start=\"9\"><li><strong>Add specific, sourced facts.</strong> In the original GEO research, adding citations, quotations and statistics improved visibility in generated answers by up to 40% in tests, while keyword stuffing did not. Replace vague claims with numbers, named methods and references.</li><li><strong>Show first-hand experience.</strong> Real examples, processes you use, results you have seen and honest trade-offs. Say who the advice is not for.</li><li><strong>Write for people, not for volume.</strong> Google's spam policies target scaled content that adds little value. Fewer, genuinely useful pages beat many thin ones in both search and AI answers.</li></ol>"
+    },
+    {
+      "heading": "Structured data and machine-readable files (12–13)",
+      "body_html": "<ol start=\"12\"><li><strong>Add accurate schema.</strong> Organization and LocalBusiness or Service on core pages; Article and FAQPage on guides; BreadcrumbList site-wide. Make sure markup matches what is visible on the page.</li><li><strong>Publish llms.txt.</strong> A short Markdown file at your root that summarizes your business and lists your most useful pages, ideally with clean text copies. It is a young proposal, so treat it as low-cost groundwork rather than a ranking factor.</li></ol>"
+    },
+    {
+      "heading": "Authority and measurement (14–15)",
+      "body_html": "<ol start=\"14\"><li><strong>Build consistent brand signals.</strong> Describe what you do the same way on your site, profiles, directories and partner pages. Earn mentions in publications, reviews and community discussions your buyers read. AI engines recommend brands they can confidently describe.</li><li><strong>Measure what matters.</strong> Test a fixed list of buyer questions in ChatGPT, Perplexity, Gemini and Google AI Overviews every month, recording mentions and citations. Group visits from AI referrers into one analytics channel. Tie leads to landing pages and sources.</li></ol>"
+    },
+    {
+      "heading": "The checklist at a glance",
+      "body_html": "<table><tr><th>#</th><th>Practice</th><th>Quick test</th></tr><tr><td>1</td><td>Allow search and AI crawlers</td><td>robots.txt and firewall allow OAI-SearchBot, PerplexityBot, Googlebot, Bingbot</td></tr><tr><td>2</td><td>Index key pages</td><td>URL Inspection shows \"URL is on Google\"</td></tr><tr><td>3</td><td>Content in HTML</td><td>Main text visible with JavaScript disabled</td></tr><tr><td>4</td><td>Fast discovery</td><td>Sitemap current; IndexNow enabled</td></tr><tr><td>5</td><td>Answer first</td><td>Answer appears in the first two sentences</td></tr><tr><td>6</td><td>Question headings</td><td>Headings match real follow-up questions</td></tr><tr><td>7</td><td>Self-contained sections</td><td>Each section reads well alone</td></tr><tr><td>8</td><td>Tables and lists</td><td>Comparisons and steps are structured</td></tr><tr><td>9</td><td>Sourced facts</td><td>Every statistic links to a source</td></tr><tr><td>10</td><td>Experience</td><td>Real examples and trade-offs included</td></tr><tr><td>11</td><td>Quality over volume</td><td>No near-duplicate or thin pages</td></tr><tr><td>12</td><td>Accurate schema</td><td>Rich Results Test passes; markup matches the page</td></tr><tr><td>13</td><td>llms.txt</td><td>/llms.txt loads and lists key pages</td></tr><tr><td>14</td><td>Brand consistency</td><td>Same description across site and profiles</td></tr><tr><td>15</td><td>Measurement</td><td>AI channel in analytics; monthly question test</td></tr></table>"
+    },
+    {
+      "heading": "How to prioritize if you have limited time",
+      "body_html": "<p>Start where the effort is smallest and the impact is largest:</p><ol><li><strong>Today:</strong> check robots.txt and security settings for blocked AI crawlers (practice 1).</li><li><strong>This week:</strong> rewrite the opening of your top five pages so they answer directly (practice 5), and add FAQs (practice 6).</li><li><strong>This month:</strong> add schema and llms.txt (12–13), set up AI referral tracking (15), and publish pages for the highest-intent questions you are missing.</li><li><strong>This quarter:</strong> build brand mentions and reviews (14) and keep improving pages based on what gets cited.</li></ol><p>Re-run your question test after each round. GEO is a loop: measure, improve the pages that matter, and measure again.</p>"
+    },
+    {
+      "heading": "Applying the checklist to a service business",
+      "body_html": "<p>Here is how the checklist plays out for a typical service company, such as a marketing agency, law firm or home-services business:</p><ul><li><strong>Homepage:</strong> the first paragraph says exactly what you do, for whom and where, in one or two sentences. Organization schema repeats the same facts.</li><li><strong>Service pages:</strong> each opens with a direct answer to \"what is this service and who is it for\", then explains process, timelines, how pricing works and what results to expect, with FAQs at the end.</li><li><strong>Comparison pages:</strong> honest \"X vs Y\" pages for the choices buyers weigh, including when the other option is better.</li><li><strong>Guides:</strong> one page per high-intent question, each linked from the relevant service page.</li><li><strong>Proof:</strong> case studies with numbers, named clients where permitted, and reviews on the platforms your buyers check.</li><li><strong>Next step:</strong> a short form or booking link on every page, so visitors sent by an AI answer can act immediately.</li></ul><p>Most service sites already have some of this. The gaps are usually the direct answers, the comparison pages and consistent proof.</p>"
+    },
+    {
+      "heading": "Common mistakes",
+      "body_html": "<ul><li>Blocking AI crawlers through a security tool and never noticing.</li><li>Rewriting pages for AI but breaking what already ranked in search.</li><li>Publishing large volumes of thin pages instead of fewer, better ones.</li><li>Adding schema that does not match the visible content.</li><li>Judging progress from a single AI answer instead of trends across many questions.</li><li>Sending AI-referred visitors to pages with no clear next step.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What are GEO SEO best practices?",
+      "a": "Let search and AI crawlers reach your pages, answer each question directly at the top, back claims with specific sourced facts, structure pages with question headings, tables and FAQs, add accurate schema and llms.txt, keep your brand consistent across the web, and measure citations and AI-referred leads."
+    },
+    {
+      "q": "What is the most important GEO best practice?",
+      "a": "Access. If AI crawlers such as OAI-SearchBot or PerplexityBot are blocked, or your pages are not indexed, nothing else matters. After that, opening each page with a direct answer usually has the biggest effect."
+    },
+    {
+      "q": "Do GEO best practices hurt traditional SEO?",
+      "a": "No, when done properly. Direct answers, clear structure, sourced facts and schema support search rankings too. The risk is rewriting pages carelessly and losing content that already ranked, so change key pages with care and monitor Search Console."
+    },
+    {
+      "q": "How many pages should I publish for GEO?",
+      "a": "Publish as many genuinely useful pages as you can keep high quality. One strong page per important buyer question beats many thin or overlapping pages, which can hurt both search and AI visibility."
+    },
+    {
+      "q": "How do I check if GEO best practices are working?",
+      "a": "Test the same buyer questions in each AI engine monthly and track mentions and citations, watch AI referral sessions in analytics, check indexed pages and impressions in Search Console, and compare leads by source."
+    },
+    {
+      "q": "Is llms.txt required for GEO?",
+      "a": "No. It is a helpful, low-cost addition, but crawl access, strong pages and brand authority matter far more. Add it once the basics are in place."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "llms.txt best practices",
+      "url": "https://thechimeraai.com/best-practices-for-llms-txt/"
+    },
+    {
+      "anchor": "how to show up in Google AI Overviews",
+      "url": "https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/"
+    },
+    {
+      "anchor": "how to choose a GEO agency",
+      "url": "https://thechimeraai.com/how-to-choose-a-geo-agency/"
+    },
+    {
+      "anchor": "how Chimera's six-phase GEO build works",
+      "url": "https://thechimeraai.com/#process"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "GEO: Generative Engine Optimization (Aggarwal et al., KDD 2024)",
+      "url": "https://arxiv.org/abs/2311.09735"
+    },
+    {
+      "title": "Google Search Central: Spam policies",
+      "url": "https://developers.google.com/search/docs/essentials/spam-policies"
+    },
+    {
+      "title": "Google Search Central: Introduction to structured data",
+      "url": "https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data"
+    },
+    {
+      "title": "IndexNow: how it works",
+      "url": "https://www.indexnow.org/"
+    },
+    {
+      "title": "The llms.txt proposal",
+      "url": "https://llmstxt.org"
+    },
+    {
+      "title": "OpenAI: Overview of OpenAI crawlers",
+      "url": "https://platform.openai.com/docs/bots"
+    }
+  ],
+  "published": "2026-11-05",
+  "updated": "2026-11-10",
+  "short_title": "GEO SEO Best Practices: 15-Point Checklist",
+  "hero_query": "What are the best practices for GEO SEO?",
+  "visuals": [
+    {
+      "after": 0,
+      "type": "matrix",
+      "eyebrow": "Crawler access",
+      "title": "Which crawler each AI platform uses",
+      "lead": "Allow these in robots.txt and your firewall, or that platform cannot read your pages for its answers.",
+      "columns": [
+        "chatgpt",
+        "perplexity",
+        "google",
+        "claude",
+        "copilot"
+      ],
+      "rows": [
+        {
+          "label": "Crawler for search answers",
+          "cells": [
+            "OAI-SearchBot",
+            "PerplexityBot",
+            "Googlebot",
+            "Claude-SearchBot",
+            "Bingbot"
+          ]
+        },
+        {
+          "label": "Fetches pages on a user's request",
+          "cells": [
+            "ChatGPT-User",
+            "Perplexity-User",
+            "Googlebot",
+            "Claude-User",
+            "Bingbot"
+          ]
+        },
+        {
+          "label": "Separate training crawler you can block",
+          "cells": [
+            "Yes: GPTBot",
+            "Not used for training",
+            "Yes: Google-Extended",
+            "Yes: ClaudeBot",
+            "No separate bot"
+          ]
+        }
+      ],
+      "source": {
+        "title": "OpenAI, Perplexity, Google and Anthropic crawler documentation",
+        "url": "https://platform.openai.com/docs/bots",
+        "note": "Check each platform's docs for changes"
+      }
+    },
+    {
+      "after": 5,
+      "type": "scorecard",
+      "eyebrow": "Scorecard",
+      "title": "Effort vs impact of each practice",
+      "lead": "Our view of where to start if time is short (5 = highest impact for the effort).",
+      "rows": [
+        {
+          "label": "Unblock AI crawlers",
+          "score": 5,
+          "note": "Minutes of work; nothing else matters if bots are blocked."
+        },
+        {
+          "label": "Answer-first openings",
+          "score": 5,
+          "note": "A rewrite of the first lines on your top pages."
+        },
+        {
+          "label": "FAQs and schema",
+          "score": 4,
+          "note": "Moderate effort, broad benefit."
+        },
+        {
+          "label": "Brand mentions off-site",
+          "score": 4,
+          "note": "Slow, but compounds over months."
+        },
+        {
+          "label": "llms.txt",
+          "score": 2,
+          "note": "Cheap groundwork; impact still unproven."
+        }
+      ]
+    },
+    {
+      "after": 7,
+      "type": "stats",
+      "eyebrow": "By the numbers",
+      "title": "Why it pays to get this right",
+      "lead": "Company-reported audience figures for the biggest AI answer engines. Each is the latest official number we could verify, with its date.",
+      "items": [
+        {
+          "engine": "chatgpt",
+          "value": "800M",
+          "label": "ChatGPT weekly active users",
+          "date": "Oct 2025, OpenAI",
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2025/10/06/sam-altman-says-chatgpt-has-hit-800m-weekly-active-users/"
+        },
+        {
+          "engine": "google",
+          "value": "2B",
+          "label": "AI Overviews monthly users",
+          "date": "Jul 2025, Google",
+          "source": "Dataconomy",
+          "source_url": "https://dataconomy.com/2025/07/24/googles-ai-overviews-now-serve-2-billion-monthly-users/"
+        },
+        {
+          "engine": "gemini",
+          "value": "650M",
+          "label": "Gemini app monthly active users",
+          "date": "Oct 2025, Google",
+          "source": "9to5Google",
+          "source_url": "https://9to5google.com/2025/10/29/gemini-app-650-million-users/"
+        },
+        {
+          "engine": "perplexity",
+          "value": "780M",
+          "label": "Perplexity queries in one month",
+          "date": "May 2025, Perplexity CEO",
+          "source": "MediaPost",
+          "source_url": "https://www.mediapost.com/publications/article/406449/perplexity-ceo-estimates-firm-will-serve-1b-querie.html"
+        }
+      ],
+      "note": "Weekly users, monthly users and monthly queries measure different things, so compare each figure with its own history rather than with the others."
+    },
+    {
+      "after": 2,
+      "type": "line",
+      "eyebrow": "Interactive chart",
+      "title": "ChatGPT's weekly users over time",
+      "lead": "OpenAI's own figures. Hover the points to see each milestone.",
+      "engine": "chatgpt",
+      "chart_label": "ChatGPT weekly active users (millions)",
+      "unit": "M",
+      "items": [
+        {
+          "label": "Nov 2023",
+          "value": 100
+        },
+        {
+          "label": "Mar 2025",
+          "value": 500
+        },
+        {
+          "label": "Aug 2025",
+          "value": 700
+        },
+        {
+          "label": "Oct 2025",
+          "value": 800
+        }
+      ],
+      "source": {
+        "title": "TechCrunch: Sam Altman says ChatGPT has hit 800M weekly active users (Oct 6, 2025)",
+        "url": "https://techcrunch.com/2025/10/06/sam-altman-says-chatgpt-has-hit-800m-weekly-active-users/",
+        "note": "Figures announced by OpenAI"
+      }
+    }
+  ],
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 129,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/geo-seo-best-practices-chimera.jpg",
+    "alt": "GEO SEO Best Practices: 15-Point Checklist for 2026: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "photo": {
+    "id": 213,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/geo-seo-best-practices-photo.jpg",
+    "alt": "Checklist on a clipboard being ticked off next to a laptop",
+    "width": 1344,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Kittl AI"
+  }
+}

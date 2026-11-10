@@ -1,0 +1,258 @@
+{
+  "query": "how to optimize for meta ai",
+  "slug": "how-to-optimize-for-meta-ai",
+  "eyebrow": "Platforms",
+  "primary_keyword": "Meta AI",
+  "secondary_keywords": [
+    "Meta AI SEO",
+    "Facebook AI search",
+    "Instagram AI",
+    "WhatsApp AI business"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "How to Optimize for Meta AI: A Practical Guide",
+    "meta_description": "How to optimize for Meta AI: how Meta's crawlers work, the role of your website and social presence, and practical steps to be described accurately."
+  },
+  "h1": "How to Optimize for Meta AI Across Facebook, Instagram and WhatsApp",
+  "answer": "To optimize for Meta AI, the assistant built into Facebook, Instagram, WhatsApp and Messenger, focus on what you can control: decide how Meta's documented crawlers may access your site, keep your business pages and profiles on Meta platforms complete and consistent, publish clear answer-first content on your website, and keep business details identical everywhere.",
+  "key_takeaways": [
+    "Meta AI is built into apps many customers already use.",
+    "Meta documents its crawlers, including Meta-ExternalAgent and Meta-ExternalFetcher.",
+    "Complete, consistent Facebook and Instagram business profiles matter.",
+    "Your website's clarity still underpins accurate answers.",
+    "Consistency across platforms prevents wrong descriptions."
+  ],
+  "sections": [
+    {
+      "heading": "What Meta AI is",
+      "body_html": "<p>Meta AI is Meta's assistant, available inside Facebook, Instagram, WhatsApp and Messenger, and as a standalone experience. Because it lives inside apps people use daily, many customers ask it questions without ever opening a separate AI tool: recommendations, comparisons, planning and quick facts.</p>"
+    },
+    {
+      "heading": "How Meta's crawlers work",
+      "body_html": "<p>Meta's developer documentation lists its web crawlers. It describes Meta-ExternalAgent as crawling the web for use cases such as training AI models or improving products by indexing content directly, and Meta-ExternalFetcher as fetching individual links at a user's request. Like other crawlers, these can be managed in robots.txt. Decide deliberately whether to allow them, knowing that blocking crawlers limits what that company's systems can read from your site.</p>"
+    },
+    {
+      "heading": "Your Meta business presence",
+      "body_html": "<ul><li><strong>Facebook Page</strong> with complete About details, category, hours, address, phone and website.</li><li><strong>Instagram business profile</strong> with a clear bio, category and contact options.</li><li><strong>WhatsApp Business profile</strong> where you use it, with description and hours.</li><li><strong>Consistent naming</strong> across all three and your website.</li></ul><p>These profiles are part of the information Meta's products have about your business, so keep them accurate.</p>"
+    },
+    {
+      "heading": "Content on Meta platforms",
+      "body_html": "<p>Posts that clearly explain what you do, show real work and answer common customer questions make your presence more informative. Pin a post that summarizes your services and how to contact you. Use plain language in captions, not just hashtags. Respond to comments and messages promptly; customer interactions are part of how people judge a business on these platforms.</p>"
+    },
+    {
+      "heading": "Your website still matters",
+      "body_html": "<p>Assistants that search the web, including tools that read pages on a user's request, need clear content to work with. An answer-first homepage and service pages, accurate business details in text, an FAQ and Organization or LocalBusiness structured data help any AI tool describe you correctly. Link your website from every Meta profile and link your profiles from your website.</p>"
+    },
+    {
+      "heading": "Keep details consistent",
+      "body_html": "<p>Inconsistent details are the most common reason any AI describes a business wrongly. Make sure your name, address, phone, hours and description match across your website, Facebook, Instagram, WhatsApp, Google Business Profile and directories. Update all of them together when anything changes.</p>"
+    },
+    {
+      "heading": "Reviews and recommendations",
+      "body_html": "<p>Facebook recommendations and reviews on other platforms are signals customers see. Encourage satisfied customers to leave genuine recommendations and respond professionally to feedback. Never buy or fake reviews; platforms prohibit it and it destroys trust.</p>"
+    },
+    {
+      "heading": "Testing what Meta AI says",
+      "body_html": "<ol><li>Ask Meta AI the questions your customers would ask, including your category and location.</li><li>Ask it directly about your business by name.</li><li>Record whether you are mentioned and whether details are correct.</li><li>Fix inconsistencies at their sources.</li><li>Recheck monthly.</li></ol>"
+    },
+    {
+      "heading": "What is uncertain",
+      "body_html": "<p>Meta publishes less detail than some companies about how its assistant chooses sources for recommendations, and its products change frequently. Treat any claimed \"Meta AI ranking factors\" with caution. The safest approach is the one that works for every assistant: accurate, consistent, helpful information about your business, wherever it appears.</p>"
+    },
+    {
+      "heading": "Who should prioritize Meta AI",
+      "body_html": "<p>Businesses whose customers are highly active on Facebook, Instagram or WhatsApp, such as restaurants, salons, local retailers, events and consumer brands, have the most reason to pay attention. For B2B companies, it is usually a lower priority than ChatGPT, Google and LinkedIn presence.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Make a deliberate choice about Meta's crawlers, complete and align your Facebook, Instagram and WhatsApp profiles with your website, publish clear content, and check what Meta AI says about you each month.</p>"
+    },
+    {
+      "heading": "An example for a local business",
+      "body_html": "<p>A Costa Mesa café makes sure its Facebook Page, Instagram profile and WhatsApp Business profile all list the same name, address, hours and website, and the same one-line description: \"Neighborhood café serving specialty coffee, all-day breakfast and vegan pastries, with patio seating and free Wi-Fi.\" It pins an Instagram post with its menu highlights and hours, answers messages within a day, publishes a text menu and FAQ on its website, and checks monthly what Meta AI says when asked for cafés with vegan options nearby. None of this is complicated; it is simply consistent.</p>"
+    },
+    {
+      "heading": "Messaging and customer service",
+      "body_html": "<p>Many customers contact businesses through Messenger and WhatsApp. Quick, helpful replies, accurate automated answers to common questions and clear information about hours and booking improve the customer experience and the impression people share about you. Keep any automated replies consistent with your website and profiles.</p>"
+    },
+    {
+      "heading": "Privacy and ads",
+      "body_html": "<p>Meta's assistant and its advertising are separate products. Paid promotion on Meta platforms can reach customers, but it does not change what an organic assistant answer says. Keep advertising claims consistent with your profiles and website so customers do not encounter conflicting information.</p>"
+    },
+    {
+      "heading": "Checklist",
+      "body_html": "<ul><li>Decide your robots.txt policy for Meta-ExternalAgent and Meta-ExternalFetcher.</li><li>Complete your Facebook Page, Instagram profile and WhatsApp Business profile.</li><li>Use the same name, description, hours and contact details everywhere.</li><li>Publish a clear, answer-first website with an FAQ.</li><li>Check Meta AI's answers about your business monthly.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is Meta AI?",
+      "a": "Meta's AI assistant, available inside Facebook, Instagram, WhatsApp and Messenger, and as a standalone experience."
+    },
+    {
+      "q": "Which crawlers does Meta use?",
+      "a": "Meta's documentation lists crawlers including Meta-ExternalAgent, which crawls for uses such as training AI models or improving products, and Meta-ExternalFetcher, which fetches links at a user's request."
+    },
+    {
+      "q": "Should I block Meta's crawlers?",
+      "a": "It is a business decision. Blocking limits what Meta's systems can read from your site; allowing them makes your content available to Meta's products."
+    },
+    {
+      "q": "Do Facebook and Instagram profiles affect Meta AI?",
+      "a": "Your business profiles are part of the information on Meta's platforms, so complete, accurate and consistent profiles are a sensible foundation."
+    },
+    {
+      "q": "How do I check what Meta AI says about my business?",
+      "a": "Ask it your customers' questions and about your business by name, record the answers and fix inconsistencies at their sources."
+    },
+    {
+      "q": "Is there a Meta AI ranking algorithm I can optimize for?",
+      "a": "Meta publishes limited detail on how its assistant chooses recommendations, so focus on accurate, consistent and helpful information everywhere."
+    },
+    {
+      "q": "Which businesses should focus on Meta AI?",
+      "a": "Those whose customers are very active on Facebook, Instagram or WhatsApp, such as restaurants, salons, retailers and consumer brands."
+    },
+    {
+      "q": "Does my website matter for Meta AI?",
+      "a": "Yes. Clear website content and consistent details support accurate descriptions in any AI tool that reads the web."
+    },
+    {
+      "q": "Does posting more often help with Meta AI?",
+      "a": "Consistency helps your audience, but accuracy and completeness of your business information matter more than posting frequency."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "AI crawler user agents",
+      "url": "https://thechimeraai.com/ai-crawler-user-agents/"
+    },
+    {
+      "anchor": "robots.txt for AI crawlers",
+      "url": "https://thechimeraai.com/robots-txt-for-ai-crawlers/"
+    },
+    {
+      "anchor": "GEO for restaurants",
+      "url": "https://thechimeraai.com/geo-for-restaurants/"
+    },
+    {
+      "anchor": "how to fix wrong information about your brand in ChatGPT",
+      "url": "https://thechimeraai.com/how-to-fix-wrong-information-about-your-brand-in-chatgpt/"
+    },
+    {
+      "anchor": "Chimera's GEO services",
+      "url": "https://thechimeraai.com/#services"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Meta for Developers: Meta web crawlers",
+      "url": "https://developers.facebook.com/docs/sharing/webmasters/web-crawlers/"
+    },
+    {
+      "title": "Google Search Central: Introduction to robots.txt",
+      "url": "https://developers.google.com/search/docs/crawling-indexing/robots/intro"
+    },
+    {
+      "title": "Google Search Central: Creating helpful, reliable, people-first content",
+      "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content"
+    },
+    {
+      "title": "Google Search Central: Organization structured data",
+      "url": "https://developers.google.com/search/docs/appearance/structured-data/organization"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 1,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "How Meta's crawlers fit together",
+      "lead": "Two documented crawler roles.",
+      "steps": [
+        {
+          "title": "Meta-ExternalAgent",
+          "text": "Crawls the web for uses such as training AI models or improving products."
+        },
+        {
+          "title": "Meta-ExternalFetcher",
+          "text": "Fetches individual links at a user's request."
+        },
+        {
+          "title": "robots.txt",
+          "text": "Lets you decide what each may access."
+        },
+        {
+          "title": "Your profiles",
+          "text": "Facebook, Instagram and WhatsApp details on Meta's own platforms."
+        }
+      ]
+    },
+    {
+      "after": 5,
+      "type": "scorecard",
+      "eyebrow": "Scorecard",
+      "title": "What helps Meta AI describe you correctly",
+      "lead": "How much each helps (5 = most).",
+      "rows": [
+        {
+          "label": "Consistent details across platforms",
+          "score": 5,
+          "note": "Prevents wrong descriptions."
+        },
+        {
+          "label": "Complete Facebook and Instagram profiles",
+          "score": 4,
+          "note": "Information on Meta's platforms."
+        },
+        {
+          "label": "Clear answer-first website",
+          "score": 4,
+          "note": "Supports any AI that reads the web."
+        },
+        {
+          "label": "Deliberate crawler decision",
+          "score": 3,
+          "note": "Controls what Meta's systems can read."
+        },
+        {
+          "label": "Fake recommendations",
+          "score": 1,
+          "note": "Prohibited and harmful."
+        }
+      ]
+    }
+  ],
+  "hero_query": "How do I get my business mentioned by Meta AI?",
+  "short_title": "How to Optimize for Meta AI: A Practical Guide",
+  "hero_engines": [
+    "chatgpt",
+    "google",
+    "gemini",
+    "perplexity",
+    "claude",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 344,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/how-to-optimize-for-meta-ai-chimera.jpg",
+    "alt": "How to Optimize for Meta AI: A Practical Guide: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-06",
+  "updated": "2026-11-10",
+  "photo": {
+    "id": 404,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/how-to-optimize-for-meta-ai-photo.jpg",
+    "alt": "Young person messaging on a smartphone in a sunny cafe",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "query": "geo for hotels",
+  "slug": "geo-for-hotels",
+  "eyebrow": "Industry guide",
+  "primary_keyword": "GEO for hotels",
+  "secondary_keywords": [
+    "hotel marketing AI",
+    "AI SEO for hotels",
+    "hotel ChatGPT recommendations",
+    "travel AI search"
+  ],
+  "search_intent": "commercial",
+  "seo": {
+    "title": "GEO for Hotels: Get Recommended by AI Trip Planners",
+    "meta_description": "GEO for hotels: how travelers plan trips with ChatGPT and Google AI, the property details AI needs, reviews and local content, and how to win direct bookings."
+  },
+  "h1": "GEO for Hotels: How to Get Recommended When Travelers Plan With AI",
+  "answer": "GEO for hotels means making your property easy for AI tools like Google AI Mode, ChatGPT and Gemini to recommend when travelers plan trips and ask where to stay. It depends on detailed, text-based descriptions of rooms, amenities and location, accurate listings, recent reviews, honest guidance on who the property suits, and local content that helps guests plan.",
+  "key_takeaways": [
+    "Travelers ask AI for stays that match very specific needs.",
+    "Amenities, policies and location details must be stated in text.",
+    "Say honestly who the property is and is not ideal for.",
+    "Recent reviews and accurate listings shape recommendations.",
+    "Local guides answer the trip-planning follow-ups."
+  ],
+  "sections": [
+    {
+      "heading": "How travelers plan with AI",
+      "body_html": "<p>Trip planning is one of the most natural uses for AI assistants. Travelers ask for complete answers: \"quiet boutique hotel near Laguna Beach with ocean views and free parking\", \"family hotel near Disneyland with a pool and kitchenette\", \"pet-friendly hotel in Newport Beach walkable to restaurants\". The AI combines listings, reviews and hotel websites to suggest a shortlist, often with reasons for each choice.</p><p>Properties whose details are clear and specific are easier to match to these requests.</p>"
+    },
+    {
+      "heading": "Spell out the details",
+      "body_html": "<ul><li><strong>Room types</strong> with size, bed configuration, views and maximum occupancy.</li><li><strong>Amenities</strong>: pool hours, parking cost, breakfast, Wi-Fi, gym, EV charging.</li><li><strong>Policies</strong>: pets, check-in and check-out times, cancellation, resort fees.</li><li><strong>Accessibility</strong> features, described precisely.</li><li><strong>Location</strong>: walking times and distances to key attractions and transport.</li></ul><p>Many hotel sites show these only in photos or booking widgets. State them in text so crawlers and AI tools can read them. Schema.org's <code>Hotel</code> type can describe amenities, check-in times and pet policies in structured data.</p>"
+    },
+    {
+      "heading": "Say who the property suits",
+      "body_html": "<p>AI recommendations often explain fit: \"good for couples\", \"best for families\", \"ideal for business travelers\". Help that matching by describing honestly who your property is best for and who might prefer somewhere else. A beachfront resort that admits it is not the quietest choice in peak season earns more trust than one that claims to suit everyone.</p>"
+    },
+    {
+      "heading": "Reviews and listing accuracy",
+      "body_html": "<p>Travelers and AI tools both weigh recent reviews heavily. Respond to reviews on major travel platforms and your Google Business Profile, fix recurring issues, and keep property details identical across your website, listings and booking channels. Outdated amenity information, such as a pool listed as open during renovation, leads to bad reviews and wrong AI answers.</p>"
+    },
+    {
+      "heading": "Local guides that help guests plan",
+      "body_html": "<p>Trip-planning questions continue after the hotel choice: where to eat nearby, how to get to the airport, what to do on a rainy day, the best time to visit. Publish practical, first-hand local guides from your team's knowledge. They answer follow-up questions AI tools look for, and position your property as the local expert, which supports both recommendations and direct bookings.</p>"
+    },
+    {
+      "heading": "Winning direct bookings",
+      "body_html": "<p>AI answers may link to booking platforms or to your site. Make direct booking attractive and easy: clear rates, the benefits of booking direct, a fast mobile booking flow and visible contact options. When an AI answer names your hotel, many travelers will search the name; your website should be the best place to land.</p>"
+    },
+    {
+      "heading": "Where to start",
+      "body_html": "<ol><li><strong>Ask the main assistants</strong> for stays like yours in your area and record which properties appear and why.</li><li><strong>Add a complete amenities and policies section</strong> in text.</li><li><strong>Rewrite room pages</strong> with full details.</li><li><strong>Publish three local guides.</strong></li><li><strong>Review listing accuracy</strong> on every channel.</li></ol>"
+    },
+    {
+      "heading": "How to measure results",
+      "body_html": "<p>Track direct bookings and booking-engine sessions by source, AI referrals in analytics, branded searches for the property and monthly checks of AI recommendations for your key traveler types. Direct booking share is the number that shows GEO is paying off.</p>"
+    },
+    {
+      "heading": "Common mistakes hotels make",
+      "body_html": "<p>Hotel websites frequently rely on image galleries and booking widgets for information that should be in text, leave amenity details out of date after renovations, list fees only at checkout, and describe every property as perfect for everyone. Inconsistent pet policies or parking costs between the website and booking channels are another common source of wrong AI answers and unhappy guests.</p>"
+    },
+    {
+      "heading": "An example of a strong amenities section",
+      "body_html": "<p>Instead of a list of icons, write: \"Heated outdoor pool open 7am to 10pm year-round. Self-parking $25 per night, EV chargers available. Dogs up to 40 pounds welcome for a $75 stay fee. Breakfast served 6:30 to 10:30am, included with direct bookings. Check-in 4pm, check-out 11am, late check-out on request.\" Each sentence answers a question travelers ask AI tools, and none of it requires reading an image.</p>"
+    },
+    {
+      "heading": "Seasonality and events",
+      "body_html": "<p>Publish pages for the seasons and events that drive demand in your area, such as conferences, festivals or holiday periods, with practical guidance on booking windows, transport and nearby options. Travelers ask these questions months in advance.</p>"
+    },
+    {
+      "heading": "Where to get help",
+      "body_html": "<p>A GEO audit for a property asks AI tools for stays like yours, for the traveler types you want, and records which hotels appear and the reasons given. It checks whether your amenities, policies and room details are readable in text, whether listings match across channels, and how your direct booking path compares. You get a short list of fixes ranked by likely impact on recommendations and direct bookings.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is GEO for hotels?",
+      "a": "It is making your property easy for AI tools like Google AI Mode, ChatGPT and Gemini to recommend when travelers plan trips and ask where to stay."
+    },
+    {
+      "q": "What hotel details do AI tools need?",
+      "a": "Room types, amenities, policies, accessibility and location details stated in text, plus accurate listings and recent reviews."
+    },
+    {
+      "q": "What schema should a hotel use?",
+      "a": "Schema.org's Hotel type can describe amenities, check-in and check-out times, pet policies and location."
+    },
+    {
+      "q": "Can GEO increase direct bookings?",
+      "a": "It can. When AI tools name your property, many travelers search for it next; a clear, attractive direct booking path captures more of them."
+    },
+    {
+      "q": "Should hotels say who the property is not for?",
+      "a": "Honest guidance on fit helps AI tools match the right travelers and builds trust, reducing disappointed guests."
+    },
+    {
+      "q": "Do local guides help hotels in AI search?",
+      "a": "Yes. Practical local guides answer the trip-planning follow-up questions travelers ask and show local expertise."
+    },
+    {
+      "q": "Do AI tools prefer booking platforms over hotel websites?",
+      "a": "AI answers may link to either. A hotel website with complete, accurate details and a clear direct booking offer gives travelers a strong reason to book with you."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "schema markup for AI search",
+      "url": "https://thechimeraai.com/schema-markup-for-ai-search/"
+    },
+    {
+      "anchor": "GEO for restaurants",
+      "url": "https://thechimeraai.com/geo-for-restaurants/"
+    },
+    {
+      "anchor": "Google AI Mode guide",
+      "url": "https://thechimeraai.com/how-to-optimize-for-google-ai-mode/"
+    },
+    {
+      "anchor": "Chimera's GEO services",
+      "url": "https://thechimeraai.com/#services"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Schema.org: Hotel",
+      "url": "https://schema.org/Hotel"
+    },
+    {
+      "title": "Google Search Central: Local business structured data",
+      "url": "https://developers.google.com/search/docs/appearance/structured-data/local-business"
+    },
+    {
+      "title": "Google Business Profile",
+      "url": "https://www.google.com/business/"
+    },
+    {
+      "title": "Google Search Central: Creating helpful, reliable, people-first content",
+      "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 0,
+      "type": "engines",
+      "eyebrow": "AI platforms",
+      "title": "Where travelers plan trips",
+      "lead": "The answer engines that matter most for buyer research, and how each one finds sources.",
+      "items": [
+        {
+          "engine": "chatgpt",
+          "note": "The largest assistant. Searches the web for current questions and links sources in its answers."
+        },
+        {
+          "engine": "google",
+          "note": "AI summaries above Google results, built from pages Google has indexed."
+        },
+        {
+          "engine": "gemini",
+          "note": "Google's assistant app, increasingly used for research and comparisons."
+        },
+        {
+          "engine": "perplexity",
+          "note": "Answer engine built around numbered, clickable citations."
+        },
+        {
+          "engine": "claude",
+          "note": "Anthropic's assistant, used heavily for research and work tasks; can search the web."
+        },
+        {
+          "engine": "copilot",
+          "note": "Microsoft's assistant in Windows, Edge and Office, grounded in Bing results."
+        }
+      ]
+    },
+    {
+      "after": 2,
+      "type": "scorecard",
+      "eyebrow": "Scorecard",
+      "title": "What gets a hotel recommended",
+      "lead": "How strongly each helps (5 = most).",
+      "rows": [
+        {
+          "label": "Amenities and policies in text",
+          "score": 5,
+          "note": "Lets AI match specific requests."
+        },
+        {
+          "label": "Honest fit guidance",
+          "score": 4,
+          "note": "Matches the right travelers."
+        },
+        {
+          "label": "Recent reviews",
+          "score": 5,
+          "note": "Heavily weighted by travelers and AI."
+        },
+        {
+          "label": "Accurate listings everywhere",
+          "score": 5,
+          "note": "Prevents wrong answers."
+        },
+        {
+          "label": "Details only in photos",
+          "score": 1,
+          "note": "Hard for AI to read."
+        }
+      ]
+    },
+    {
+      "after": 5,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "From trip question to direct booking",
+      "lead": "Where a hotel can win the traveler.",
+      "steps": [
+        {
+          "title": "Plan",
+          "text": "A traveler describes the stay they want."
+        },
+        {
+          "title": "Shortlist",
+          "text": "The AI suggests properties with reasons."
+        },
+        {
+          "title": "Research",
+          "text": "The traveler searches the hotel's name."
+        },
+        {
+          "title": "Book direct",
+          "text": "A clear site and offer capture the booking."
+        }
+      ]
+    }
+  ],
+  "hero_query": "Where should we stay near Laguna Beach?",
+  "short_title": "GEO for Hotels: Get Recommended by AI Trip Planners",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 281,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/geo-for-hotels-chimera.jpg",
+    "alt": "GEO for Hotels: Get Recommended by AI Trip Planners: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-06",
+  "updated": "2026-11-10",
+  "photo": {
+    "id": 376,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/geo-for-hotels-photo.jpg",
+    "alt": "Boutique hotel room with an ocean-view balcony at sunset",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
+}

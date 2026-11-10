@@ -1,0 +1,293 @@
+{
+  "query": "best practices for llms txt",
+  "slug": "best-practices-for-llms-txt",
+  "eyebrow": "llms.txt guide",
+  "primary_keyword": "llms.txt best practices",
+  "secondary_keywords": [
+    "how to create llms.txt",
+    "llms.txt example",
+    "llms.txt vs robots.txt",
+    "llms-full.txt"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "llms.txt Best Practices: How to Create One That Helps",
+    "meta_description": "llms.txt best practices: what the file is, the exact format, what to include, how it differs from robots.txt and sitemaps, and mistakes to avoid."
+  },
+  "h1": "llms.txt Best Practices: How to Create a File AI Tools Can Use",
+  "answer": "The main llms.txt best practices are to place a Markdown file at your site root, start with your brand name and a one-line summary, then list your most useful pages in clear sections with short descriptions. Link to clean, readable versions of those pages, keep it current, and treat it as a helpful map for AI tools, not a ranking switch.",
+  "key_takeaways": [
+    "llms.txt is a proposed Markdown file at /llms.txt that guides AI tools to your best content.",
+    "The format is simple: an H1 name, a short summary, then sections of links with descriptions.",
+    "It complements robots.txt and your sitemap; it does not replace either.",
+    "Support from AI companies is still uneven, so treat it as low-cost groundwork.",
+    "Keep it short, accurate and updated whenever important pages change."
+  ],
+  "sections": [
+    {
+      "heading": "What llms.txt is",
+      "body_html": "<p><code>llms.txt</code> is a proposal, published in 2024 by Jeremy Howard of Answer.AI, for a standard file that helps large language models use a website. It lives at the root of your domain, for example <code>https://example.com/llms.txt</code>, and is written in Markdown so both people and models can read it easily.</p><p>The idea is simple. Websites are full of navigation, scripts, pop-ups and layout that make them hard for an AI tool to read within a limited context window. A short, curated file pointing to your most useful content, ideally in clean text, saves the tool from guessing.</p>"
+    },
+    {
+      "heading": "The llms.txt format",
+      "body_html": "<p>The proposal defines a small, predictable structure:</p><ol><li><strong>An H1 with the name</strong> of the site or project. This is the only required part.</li><li><strong>A blockquote</strong> with a short summary of what the site is and who it is for.</li><li><strong>Optional paragraphs</strong> with any other context a model should know.</li><li><strong>H2 sections</strong> containing lists of links, each in the form <code>- [Title](URL): short description</code>.</li><li><strong>An optional section named \"Optional\"</strong> for links a tool can skip when it needs to save space.</li></ol><p>A minimal example for a service business:</p><blockquote><code># Chimera<br>&gt; Generative Engine Optimization agency in Orange County, CA.<br><br>## Services<br>- [AI Visibility Audit](https://example.com/audit.md): what the audit covers and how to book it<br><br>## Guides<br>- [GEO vs SEO](https://example.com/geo-vs-seo.md): the differences and how they work together</code></blockquote>"
+    },
+    {
+      "heading": "llms.txt best practices for content",
+      "body_html": "<ul><li><strong>Lead with a precise summary.</strong> One or two sentences that say exactly what you do, for whom and where. This is often the first thing a tool reads about you.</li><li><strong>Curate, do not dump.</strong> List the pages that best explain your business and answer buyers' questions. A file with every URL on the site is a sitemap, not a guide.</li><li><strong>Describe every link.</strong> A short description after each link helps a model decide which page to read.</li><li><strong>Group logically.</strong> Typical sections: Services, Pricing, Guides, Case studies, About, Contact.</li><li><strong>Link to clean versions.</strong> The proposal suggests offering Markdown copies of pages, for example by adding <code>.md</code> to the URL, so tools get text without layout.</li><li><strong>Use the Optional section</strong> for secondary material such as older posts or deep documentation.</li><li><strong>Keep facts consistent</strong> with your homepage, schema and profiles. Contradictions reduce trust.</li></ul>"
+    },
+    {
+      "heading": "llms.txt vs robots.txt vs sitemap.xml",
+      "body_html": "<table><tr><th>File</th><th>Purpose</th><th>Audience</th></tr><tr><td><code>robots.txt</code></td><td>Tells crawlers what they may and may not fetch</td><td>Search and AI crawlers</td></tr><tr><td><code>sitemap.xml</code></td><td>Lists every URL you want indexed, with update dates</td><td>Search engines</td></tr><tr><td><code>llms.txt</code></td><td>Curated, described map of your most useful content</td><td>AI tools and language models</td></tr><tr><td><code>llms-full.txt</code></td><td>A common extension: the full text of key pages in one file</td><td>AI tools that want everything at once</td></tr></table><p>They work together. <code>robots.txt</code> must allow the crawlers you want; the sitemap makes sure pages are discovered and indexed; <code>llms.txt</code> points AI tools to the best of them. A page blocked in robots.txt gains nothing from being listed in llms.txt.</p>"
+    },
+    {
+      "heading": "How much does llms.txt help today?",
+      "body_html": "<p>Be realistic. llms.txt is a community proposal, not an official web standard, and AI companies have not all said they use it. Some developer tools and documentation platforms read it, and adoption is growing, but there is no public evidence that it alone moves your visibility in ChatGPT, Gemini or Google AI Overviews.</p><p>Google, for example, says there are no special requirements for its AI features beyond normal Search eligibility. So think of llms.txt as cheap groundwork: quick to create, harmless when accurate, and potentially useful as more tools adopt it. The work that clearly moves AI visibility is still crawl access, strong pages and brand authority.</p>"
+    },
+    {
+      "heading": "Step-by-step: create your llms.txt",
+      "body_html": "<ol><li><strong>List your 10–30 most important pages:</strong> core services, pricing, key guides, case studies and contact.</li><li><strong>Write a one-sentence description</strong> for each, focused on what question it answers.</li><li><strong>Write the header:</strong> an H1 with your brand name and a blockquote summary.</li><li><strong>Group the links</strong> into H2 sections and add an Optional section for extras.</li><li><strong>Publish it at the root</strong> as <code>/llms.txt</code>, served as plain text.</li><li><strong>Offer clean copies</strong> of key pages as Markdown where your platform allows it.</li><li><strong>Check robots.txt</strong> so the pages you list are not blocked.</li><li><strong>Automate updates</strong> so new pages are added when they go live. On WordPress, a small plugin can generate the file from your pages.</li></ol>"
+    },
+    {
+      "heading": "Mistakes to avoid",
+      "body_html": "<ul><li><strong>Listing blocked or broken pages.</strong> Every link should return a working page.</li><li><strong>Marketing fluff in the summary.</strong> Plain, specific language is more useful than slogans.</li><li><strong>Letting it go stale.</strong> Out-of-date prices, services or locations mislead AI tools and customers.</li><li><strong>Stuffing keywords.</strong> It does not help and makes the file less readable.</li><li><strong>Expecting it to fix weak content.</strong> llms.txt points to your pages; it cannot make them better answers.</li><li><strong>Putting private information in it.</strong> The file is public, like robots.txt.</li></ul>"
+    },
+    {
+      "heading": "Checklist",
+      "body_html": "<table><tr><th>Check</th><th>Done when</th></tr><tr><td>Location</td><td>File loads at /llms.txt as plain text</td></tr><tr><td>Header</td><td>H1 brand name and a precise one-line summary</td></tr><tr><td>Links</td><td>10–30 curated pages, each with a description</td></tr><tr><td>Clean copies</td><td>Key pages available as Markdown, where possible</td></tr><tr><td>Access</td><td>Listed pages allowed in robots.txt and indexed</td></tr><tr><td>Freshness</td><td>Updated automatically or reviewed monthly</td></tr></table>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is llms.txt?",
+      "a": "It is a proposed Markdown file placed at a website's root, such as example.com/llms.txt, that gives AI tools a short summary of the site and a curated list of its most useful pages. It was proposed in 2024 by Jeremy Howard of Answer.AI."
+    },
+    {
+      "q": "What are the most important llms.txt best practices?",
+      "a": "Use the standard format with an H1 name and a short summary, list a curated set of important pages with a description for each, link to clean text versions where possible, keep it consistent with the rest of your site, and update it when pages change."
+    },
+    {
+      "q": "Is llms.txt the same as robots.txt?",
+      "a": "No. Robots.txt tells crawlers what they may fetch. Llms.txt is a guide that points AI tools to your best content. You need robots.txt to allow access for llms.txt to be useful."
+    },
+    {
+      "q": "Does Google use llms.txt for AI Overviews?",
+      "a": "Google has not said it uses llms.txt, and its guidance states there are no special requirements for AI features beyond normal Search eligibility. Treat llms.txt as low-cost groundwork, not a ranking factor."
+    },
+    {
+      "q": "What is llms-full.txt?",
+      "a": "A common extension of the proposal: a single file containing the full text of your key pages, so an AI tool can read everything at once without visiting each URL."
+    },
+    {
+      "q": "How often should I update llms.txt?",
+      "a": "Whenever important pages are added, removed or changed. The easiest approach is to generate it automatically from your site, so it stays current without manual edits."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "Perplexity SEO guide",
+      "url": "https://thechimeraai.com/perplexity-seo/"
+    },
+    {
+      "anchor": "GEO SEO best practices",
+      "url": "https://thechimeraai.com/geo-seo-best-practices/"
+    },
+    {
+      "anchor": "how to rank in ChatGPT",
+      "url": "https://thechimeraai.com/how-to-rank-in-chatgpt/"
+    },
+    {
+      "anchor": "how Chimera's six-phase GEO build works",
+      "url": "https://thechimeraai.com/#process"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "The llms.txt proposal",
+      "url": "https://llmstxt.org"
+    },
+    {
+      "title": "Google Search Central: Introduction to robots.txt",
+      "url": "https://developers.google.com/search/docs/crawling-indexing/robots/intro"
+    },
+    {
+      "title": "Google Search Central: AI features and your website",
+      "url": "https://developers.google.com/search/docs/appearance/ai-features"
+    },
+    {
+      "title": "OpenAI: Overview of OpenAI crawlers",
+      "url": "https://platform.openai.com/docs/bots"
+    }
+  ],
+  "published": "2026-11-05",
+  "updated": "2026-11-10",
+  "short_title": "llms.txt Best Practices: Create One That Helps",
+  "hero_query": "How do I create a good llms.txt file?",
+  "visuals": [
+    {
+      "after": 1,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "How llms.txt fits with your other files",
+      "lead": "Three files, three jobs.",
+      "steps": [
+        {
+          "title": "robots.txt",
+          "text": "Decides which crawlers may fetch which pages."
+        },
+        {
+          "title": "sitemap.xml",
+          "text": "Lists every URL you want indexed."
+        },
+        {
+          "title": "llms.txt",
+          "text": "A short, described map of your best pages for AI tools."
+        },
+        {
+          "title": "llms-full.txt",
+          "text": "Full text of key pages in one file."
+        }
+      ]
+    },
+    {
+      "after": 3,
+      "type": "matrix",
+      "eyebrow": "Crawler access",
+      "title": "Which crawler each AI platform uses",
+      "lead": "Allow these in robots.txt and your firewall, or that platform cannot read your pages for its answers.",
+      "columns": [
+        "chatgpt",
+        "perplexity",
+        "google",
+        "claude",
+        "copilot"
+      ],
+      "rows": [
+        {
+          "label": "Crawler for search answers",
+          "cells": [
+            "OAI-SearchBot",
+            "PerplexityBot",
+            "Googlebot",
+            "Claude-SearchBot",
+            "Bingbot"
+          ]
+        },
+        {
+          "label": "Fetches pages on a user's request",
+          "cells": [
+            "ChatGPT-User",
+            "Perplexity-User",
+            "Googlebot",
+            "Claude-User",
+            "Bingbot"
+          ]
+        },
+        {
+          "label": "Separate training crawler you can block",
+          "cells": [
+            "Yes: GPTBot",
+            "Not used for training",
+            "Yes: Google-Extended",
+            "Yes: ClaudeBot",
+            "No separate bot"
+          ]
+        }
+      ],
+      "source": {
+        "title": "OpenAI, Perplexity, Google and Anthropic crawler documentation",
+        "url": "https://platform.openai.com/docs/bots",
+        "note": "Check each platform's docs for changes"
+      }
+    },
+    {
+      "after": 2,
+      "type": "line",
+      "eyebrow": "Interactive chart",
+      "title": "ChatGPT's weekly users over time",
+      "lead": "OpenAI's own figures. Hover the points to see each milestone.",
+      "engine": "chatgpt",
+      "chart_label": "ChatGPT weekly active users (millions)",
+      "unit": "M",
+      "items": [
+        {
+          "label": "Nov 2023",
+          "value": 100
+        },
+        {
+          "label": "Mar 2025",
+          "value": 500
+        },
+        {
+          "label": "Aug 2025",
+          "value": 700
+        },
+        {
+          "label": "Oct 2025",
+          "value": 800
+        }
+      ],
+      "source": {
+        "title": "TechCrunch: Sam Altman says ChatGPT has hit 800M weekly active users (Oct 6, 2025)",
+        "url": "https://techcrunch.com/2025/10/06/sam-altman-says-chatgpt-has-hit-800m-weekly-active-users/",
+        "note": "Figures announced by OpenAI"
+      }
+    },
+    {
+      "after": 5,
+      "type": "line",
+      "eyebrow": "Interactive chart",
+      "title": "Gemini app monthly users over time",
+      "lead": "Google's assistant grew more than sevenfold in a year. Hover the points for each figure.",
+      "engine": "gemini",
+      "chart_label": "Gemini app monthly active users (millions)",
+      "unit": "M",
+      "items": [
+        {
+          "label": "Oct 2024",
+          "value": 90
+        },
+        {
+          "label": "Mar 2025",
+          "value": 350
+        },
+        {
+          "label": "Oct 2025",
+          "value": 650
+        }
+      ],
+      "source": {
+        "title": "9to5Google: Gemini app passes 650 million monthly users (Oct 29, 2025)",
+        "url": "https://9to5google.com/2025/10/29/gemini-app-650-million-users/",
+        "note": "Oct 2024 and Mar 2025 from court documents; Oct 2025 from Alphabet's Q3 earnings call"
+      }
+    }
+  ],
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 127,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/best-practices-for-llms-txt-chimera.jpg",
+    "alt": "llms.txt Best Practices: How to Create One That Helps: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "photo": {
+    "id": 210,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/best-practices-for-llms-txt-photo.jpg",
+    "alt": "Developer editing a plain text file in a code editor",
+    "width": 1344,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Kittl AI"
+  }
+}

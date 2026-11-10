@@ -1,0 +1,283 @@
+{
+  "query": "geo for manufacturers",
+  "slug": "geo-for-manufacturers",
+  "eyebrow": "Industry guide",
+  "primary_keyword": "GEO for manufacturers",
+  "secondary_keywords": [
+    "manufacturing marketing AI",
+    "AI SEO for manufacturers",
+    "B2B industrial AI search",
+    "supplier discovery AI"
+  ],
+  "search_intent": "commercial",
+  "seo": {
+    "title": "GEO for Manufacturers: Get Cited in B2B AI Research",
+    "meta_description": "GEO for manufacturers: how engineers and buyers research suppliers with AI, technical content AI can cite, product data, trust signals and a plan."
+  },
+  "h1": "GEO for Manufacturers: How to Get Cited When Buyers Research Suppliers With AI",
+  "answer": "GEO for manufacturers means making your capabilities, products and expertise easy for AI tools to find and cite when engineers and procurement teams research materials, processes and suppliers. It relies on detailed capability pages, specifications in text, application guides, certifications, clear industries served and consistent company data.",
+  "key_takeaways": [
+    "Engineers use AI to research processes, materials and suppliers.",
+    "Specifications in PDFs alone are hard for AI to use.",
+    "Capability pages should state tolerances, materials and volumes.",
+    "Certifications and industries served build trust.",
+    "Application guides answer the technical questions buyers ask first."
+  ],
+  "sections": [
+    {
+      "heading": "How industrial buyers research with AI",
+      "body_html": "<p>B2B research often starts with technical questions: \"what tolerances can CNC machining hold for aluminum\", \"injection molding vs urethane casting for low volumes\", \"which coatings resist salt spray\", \"contract manufacturers for medical device components in California\". Engineers and buyers use AI tools to understand options and build a shortlist before they ever request a quote. Manufacturers whose sites explain their capabilities clearly can be part of that shortlist.</p>"
+    },
+    {
+      "heading": "Capability pages that answer questions",
+      "body_html": "<ul><li><strong>Processes</strong> you run, with the equipment behind them.</li><li><strong>Materials</strong> you work with.</li><li><strong>Tolerances, sizes and finishes</strong> you can reliably achieve.</li><li><strong>Volumes</strong>: prototype, low-volume, high-volume.</li><li><strong>Lead times</strong> as typical ranges.</li><li><strong>Secondary operations</strong> and assembly.</li></ul><p>Specific numbers are exactly what technical buyers and AI answers look for. Vague claims such as \"precision manufacturing\" give nothing to cite.</p>"
+    },
+    {
+      "heading": "Get specifications out of PDFs",
+      "body_html": "<p>Many manufacturers keep data sheets and specifications only in PDFs or images. Publish key specifications as text and tables on web pages, and keep the PDF as a download. For products, Google's product structured data documentation and schema.org's <code>Product</code> type support properties such as name, description, brand and identifiers, which help machines understand your catalog.</p>"
+    },
+    {
+      "heading": "Application and comparison guides",
+      "body_html": "<p>Write guides that help engineers decide: choosing between processes, selecting materials for a given environment, design guidelines that reduce cost, common failure causes and how to prevent them. Balanced guides that explain trade-offs, including when another process is the better choice, establish expertise and are likely sources for AI answers to technical questions.</p>"
+    },
+    {
+      "heading": "Trust signals for B2B",
+      "body_html": "<p>Industrial buyers need assurance before they qualify a supplier. Show certifications, quality systems, inspection equipment, industries served, years in business and facility details. Case studies with real numbers, shared with client permission, show capability in practice. Keep company details consistent across your site, industrial directories, LinkedIn and trade association listings, and add Organization structured data.</p>"
+    },
+    {
+      "heading": "Make RFQs easy",
+      "body_html": "<p>When AI tools send a buyer to your site, the next step should be obvious. Explain what information you need for a quote, which file formats you accept and how quickly you respond. A clear request-for-quote process converts more of the qualified traffic GEO brings.</p>"
+    },
+    {
+      "heading": "Where to start",
+      "body_html": "<ol><li><strong>Ask AI tools</strong> about your core processes and suppliers in your region, and record who appears.</li><li><strong>Rebuild your top capability pages</strong> with specific numbers.</li><li><strong>Convert key PDF specifications</strong> into web pages.</li><li><strong>Publish two application guides</strong> for your most common customer questions.</li><li><strong>Update directory profiles</strong> and certifications.</li></ol>"
+    },
+    {
+      "heading": "How to measure results",
+      "body_html": "<p>Track RFQs and their source, AI referrals in analytics, branded searches and monthly checks of AI answers for your processes and region. In manufacturing, a single new account can be worth a great deal, so track pipeline value rather than visits.</p>"
+    },
+    {
+      "heading": "Common mistakes manufacturers make",
+      "body_html": "<p>Industrial websites often list processes as single words without detail, keep every specification in PDFs, describe industries served only with logos, and leave the equipment list years out of date. Many also have no content addressing engineers' early questions, so the site only helps buyers who already know the company. Each gap reduces the chance of being cited during research.</p>"
+    },
+    {
+      "heading": "An example capability page outline",
+      "body_html": "<p>A page for five-axis CNC machining might open with one sentence on what you machine and for which industries. Then: machines and work envelope sizes, materials, achievable tolerances and surface finishes, typical prototype and production lead times, quantity ranges, inspection methods and certifications, secondary operations, a short design-for-manufacturing checklist, photos of real parts with captions, and a clear quote request section listing accepted file formats.</p>"
+    },
+    {
+      "heading": "Trade publications and directories",
+      "body_html": "<p>Industrial directories, trade association member lists and trade publications are part of the web AI tools read. Keep those profiles complete and consistent, and contribute technical articles where your engineers have genuine expertise.</p>"
+    },
+    {
+      "heading": "Distributors and partner listings",
+      "body_html": "<p>If distributors or partners list your products or capabilities, give them accurate descriptions and specifications to use. Consistent information across partner sites reinforces what AI tools learn from your own website.</p>"
+    },
+    {
+      "heading": "Where to get help",
+      "body_html": "<p>A GEO audit for a manufacturer asks AI tools the technical and supplier questions your buyers ask, records which companies are named, and reviews your capability pages, specification formats, directory profiles and crawler access. The result is a ranked list of pages to rebuild and specifications to move out of PDFs, so your engineering knowledge is visible when buyers research.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is GEO for manufacturers?",
+      "a": "It is making your capabilities, products and expertise easy for AI tools to find and cite when engineers and buyers research processes, materials and suppliers."
+    },
+    {
+      "q": "Do AI tools read manufacturers' PDF data sheets?",
+      "a": "They can sometimes, but key specifications published as text and tables on web pages are easier to find and quote reliably."
+    },
+    {
+      "q": "What should a manufacturing capability page include?",
+      "a": "Processes, equipment, materials, tolerances, sizes, finishes, volumes, lead times and secondary operations, with specific numbers."
+    },
+    {
+      "q": "What schema helps manufacturers?",
+      "a": "Organization structured data for the company, and Product structured data for catalog items, following Google's documentation."
+    },
+    {
+      "q": "Can GEO help B2B lead generation for manufacturers?",
+      "a": "Yes. Being cited during technical research puts you on buyers' shortlists before they request quotes."
+    },
+    {
+      "q": "How long does GEO take for a manufacturer?",
+      "a": "Technical and content changes can be cited within weeks of indexing. Becoming a regular supplier recommendation usually takes several months."
+    },
+    {
+      "q": "Should manufacturers publish pricing?",
+      "a": "Exact pricing rarely fits custom work, but explaining what drives cost, minimum order quantities and typical lead times helps buyers qualify themselves."
+    },
+    {
+      "q": "Do certifications help a manufacturer appear in AI answers?",
+      "a": "They are trust signals that buyers look for. Stating certifications and quality systems clearly in text helps both buyers and AI tools understand which work you are qualified for."
+    },
+    {
+      "q": "What content should engineers on our team write?",
+      "a": "Practical application guides, design tips and explanations of trade-offs between processes or materials. First-hand engineering knowledge is hard to copy and useful to cite."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "GEO for B2B SaaS",
+      "url": "https://thechimeraai.com/geo-for-b2b-saas/"
+    },
+    {
+      "anchor": "schema markup for AI search",
+      "url": "https://thechimeraai.com/schema-markup-for-ai-search/"
+    },
+    {
+      "anchor": "how to write content for AI search",
+      "url": "https://thechimeraai.com/how-to-write-content-for-ai-search/"
+    },
+    {
+      "anchor": "how long GEO takes",
+      "url": "https://thechimeraai.com/how-long-does-geo-take/"
+    },
+    {
+      "anchor": "Chimera's GEO services",
+      "url": "https://thechimeraai.com/#services"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Search Central: Product structured data",
+      "url": "https://developers.google.com/search/docs/appearance/structured-data/product"
+    },
+    {
+      "title": "Schema.org: Product",
+      "url": "https://schema.org/Product"
+    },
+    {
+      "title": "Google Search Central: Organization structured data",
+      "url": "https://developers.google.com/search/docs/appearance/structured-data/organization"
+    },
+    {
+      "title": "Google Search Central: Creating helpful, reliable, people-first content",
+      "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 0,
+      "type": "engines",
+      "eyebrow": "AI platforms",
+      "title": "Where engineers and buyers research",
+      "lead": "The answer engines that matter most for buyer research, and how each one finds sources.",
+      "items": [
+        {
+          "engine": "chatgpt",
+          "note": "The largest assistant. Searches the web for current questions and links sources in its answers."
+        },
+        {
+          "engine": "google",
+          "note": "AI summaries above Google results, built from pages Google has indexed."
+        },
+        {
+          "engine": "gemini",
+          "note": "Google's assistant app, increasingly used for research and comparisons."
+        },
+        {
+          "engine": "perplexity",
+          "note": "Answer engine built around numbered, clickable citations."
+        },
+        {
+          "engine": "claude",
+          "note": "Anthropic's assistant, used heavily for research and work tasks; can search the web."
+        },
+        {
+          "engine": "copilot",
+          "note": "Microsoft's assistant in Windows, Edge and Office, grounded in Bing results."
+        }
+      ]
+    },
+    {
+      "after": 1,
+      "type": "scorecard",
+      "eyebrow": "Scorecard",
+      "title": "What makes a manufacturer citable",
+      "lead": "How strongly each helps (5 = most).",
+      "rows": [
+        {
+          "label": "Specific tolerances and materials",
+          "score": 5,
+          "note": "The details technical buyers ask for."
+        },
+        {
+          "label": "Specs as web text, not only PDFs",
+          "score": 5,
+          "note": "Easier for AI to read."
+        },
+        {
+          "label": "Balanced application guides",
+          "score": 4,
+          "note": "Shows expertise and trade-offs."
+        },
+        {
+          "label": "Certifications and industries served",
+          "score": 4,
+          "note": "Qualifies you as a supplier."
+        },
+        {
+          "label": "Vague claims of precision",
+          "score": 1,
+          "note": "Nothing to cite."
+        }
+      ]
+    },
+    {
+      "after": 5,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "From technical question to RFQ",
+      "lead": "How AI research becomes a quote request.",
+      "steps": [
+        {
+          "title": "Question",
+          "text": "An engineer asks about a process or material."
+        },
+        {
+          "title": "Guide cited",
+          "text": "Your application guide answers part of it."
+        },
+        {
+          "title": "Shortlist",
+          "text": "The AI names suppliers with the capability."
+        },
+        {
+          "title": "RFQ",
+          "text": "The buyer sends files through a clear quote process."
+        }
+      ]
+    }
+  ],
+  "hero_query": "Which manufacturers can machine this part in California?",
+  "short_title": "GEO for Manufacturers: Get Cited in B2B AI Research",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 282,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/geo-for-manufacturers-chimera.jpg",
+    "alt": "GEO for Manufacturers: Get Cited in B2B AI Research: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-06",
+  "updated": "2026-11-10",
+  "photo": {
+    "id": 377,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/geo-for-manufacturers-photo.jpg",
+    "alt": "Engineer inspecting a machined metal part beside a CNC machine",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
+}

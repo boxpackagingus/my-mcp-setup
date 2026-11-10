@@ -1,0 +1,296 @@
+{
+  "query": "how to track ai traffic in google analytics",
+  "slug": "how-to-track-ai-traffic-in-google-analytics",
+  "eyebrow": "Measurement",
+  "primary_keyword": "track AI traffic in Google Analytics",
+  "secondary_keywords": [
+    "GA4 AI traffic",
+    "ChatGPT referral traffic",
+    "AI search channel",
+    "custom channel group"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "How to Track AI Traffic in Google Analytics 4 (Step by Step)",
+    "meta_description": "Track AI traffic in Google Analytics 4: build an AI search channel for ChatGPT, Perplexity, Gemini, Copilot and Claude, then measure leads by engine and page."
+  },
+  "h1": "How to Track AI Traffic in Google Analytics 4",
+  "answer": "To track AI traffic in Google Analytics 4, create a custom channel group with an \"AI search\" channel that matches referral sources such as chatgpt.com, perplexity.ai, gemini.google.com, copilot.microsoft.com and claude.ai, place it above Referral, then report sessions, engagement and key events like form submissions by AI engine and landing page.",
+  "key_takeaways": [
+    "AI assistants send visits with recognizable referrers such as chatgpt.com.",
+    "GA4 lumps them into Referral unless you create your own channel.",
+    "A custom channel group with one regex rule fixes that in minutes.",
+    "Mark your form submission as a key event to see AI-sourced leads.",
+    "Some AI influence never clicks, so watch branded search too."
+  ],
+  "sections": [
+    {
+      "heading": "Why AI traffic hides in your reports",
+      "body_html": "<p>Out of the box, Google Analytics 4 sorts traffic into default channels such as Organic Search, Direct and Referral. Visits from ChatGPT, Perplexity, Gemini, Copilot and Claude usually arrive with a referrer from those platforms, so GA4 files them under Referral, mixed in with every partner site, directory and blog that links to you.</p><p>That makes the most interesting new channel invisible. You cannot see whether AI visits are growing, which engine sends the most, or whether those visitors become leads. A custom channel fixes it without changing how your site is tracked.</p>"
+    },
+    {
+      "heading": "The referrers to look for",
+      "body_html": "<p>These are the sources AI assistants most commonly pass when someone clicks a link in an answer:</p><table><tr><th>Platform</th><th>Typical source</th></tr><tr><td>ChatGPT</td><td><code>chatgpt.com</code>, sometimes <code>chat.openai.com</code></td></tr><tr><td>Perplexity</td><td><code>perplexity.ai</code></td></tr><tr><td>Gemini</td><td><code>gemini.google.com</code></td></tr><tr><td>Microsoft Copilot</td><td><code>copilot.microsoft.com</code></td></tr><tr><td>Claude</td><td><code>claude.ai</code></td></tr><tr><td>DeepSeek, Meta AI</td><td><code>chat.deepseek.com</code>, <code>meta.ai</code></td></tr></table><p>ChatGPT also often adds <code>utm_source=chatgpt.com</code> to the links it shows, which makes it easy to spot. Google AI Overviews are different: clicks from them count as ordinary Google organic traffic.</p>"
+    },
+    {
+      "heading": "Step-by-step: create an AI search channel",
+      "body_html": "<ol><li><strong>Open Admin</strong> in GA4 and go to <strong>Data display → Channel groups</strong>.</li><li><strong>Create a new channel group</strong>, starting from a copy of the default group so your other channels stay the same.</li><li><strong>Add a channel</strong> named <em>AI search</em>.</li><li><strong>Set the condition</strong> to Source matches regex: <code>chatgpt\\.com|chat\\.openai\\.com|perplexity\\.ai|gemini\\.google\\.com|copilot\\.microsoft\\.com|claude\\.ai|chat\\.deepseek\\.com|meta\\.ai</code></li><li><strong>Move AI search above Referral</strong> in the list. GA4 applies the first matching rule, so order matters.</li><li><strong>Save</strong>, then choose this channel group in your acquisition reports.</li></ol><p>Custom channel groups also apply to historical data, so you can look back at AI visits from before you set this up.</p>"
+    },
+    {
+      "heading": "Track leads, not just visits",
+      "body_html": "<p>Visits are only half the story. In GA4, mark the event your form fires on a successful submission, often <code>generate_lead</code>, as a <strong>key event</strong>. Then a standard acquisition report shows key events by channel, and your new AI search channel shows how many leads AI engines produce.</p><p>For extra detail, pass the source into hidden fields on your form. The Chimera Engine plugin, for example, fills hidden fields with the visitor's first landing page, referrer and AI engine, so each lead email says exactly where the visitor came from.</p>"
+    },
+    {
+      "heading": "Reports worth building",
+      "body_html": "<ul><li><strong>AI sessions by engine:</strong> session source within the AI search channel, month over month.</li><li><strong>Landing pages for AI visits:</strong> which pages AI engines send people to, which tells you what they cite.</li><li><strong>Engagement:</strong> engaged sessions and average engagement time for AI visits compared with organic search.</li><li><strong>Key events by engine:</strong> leads from each platform, and the lead rate per session.</li><li><strong>Branded search trend:</strong> in Search Console, queries that contain your brand name, a signal of AI influence that never clicked.</li></ul>"
+    },
+    {
+      "heading": "What GA4 cannot see",
+      "body_html": "<p>Some AI influence never shows up as an AI referral. A buyer may read your name in an answer and type your URL later, or search your brand on Google. Some apps also strip referrers, so a click can arrive as Direct. Treat your AI search channel as a floor, not the full picture.</p><p>Combine three signals for a fair view: AI referral sessions and leads, branded search growth, and a monthly test of whether AI engines mention you for your buyers' questions.</p>"
+    },
+    {
+      "heading": "Common setup mistakes",
+      "body_html": "<ul><li><strong>Leaving AI search below Referral</strong>, so the rule never matches.</li><li><strong>Matching only chatgpt.com</strong> and missing Perplexity, Gemini, Copilot and Claude.</li><li><strong>Editing the default channel group</strong> instead of a copy, which changes history everyone relies on.</li><li><strong>No key event</strong> for form submissions, so you see visits but never leads.</li><li><strong>Expecting AI Overviews in the channel.</strong> Those clicks are Google organic and are counted there.</li></ul>"
+    },
+    {
+      "heading": "Turning the data into decisions",
+      "body_html": "<p>Once the AI search channel is running, review it monthly with three questions. <strong>Which pages earn AI visits?</strong> Those are the pages engines cite, so strengthen them and link them to your offer. <strong>Which engines convert?</strong> If Perplexity visitors request audits at twice the rate of ChatGPT visitors, that tells you where to focus new pages. <strong>What is missing?</strong> If an important service page gets no AI visits at all, test the matching questions in each engine and rebuild the page around a direct answer.</p><p>Small, regular adjustments based on this data compound quickly.</p>"
+    },
+    {
+      "heading": "How Chimera uses this data",
+      "body_html": "<p>In GEO programs, the AI search channel is the clearest proof of progress. When a new or rebuilt page starts receiving visits from perplexity.ai or chatgpt.com, it means an engine is citing it. When those visits turn into audit requests, the program is paying for itself. Pair the channel with your Search Console data and a monthly question test, and you have a measurement system you can trust.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I track ChatGPT traffic in Google Analytics 4?",
+      "a": "Create a custom channel group in GA4 with an AI search channel that matches the source chatgpt.com, along with other AI referrers, and place it above Referral. ChatGPT links often include utm_source=chatgpt.com, which also makes them easy to find."
+    },
+    {
+      "q": "What regex should I use for AI referrers?",
+      "a": "A practical starting point is: chatgpt\\.com|chat\\.openai\\.com|perplexity\\.ai|gemini\\.google\\.com|copilot\\.microsoft\\.com|claude\\.ai. Add new platforms as your referral reports show them."
+    },
+    {
+      "q": "Does GA4 show traffic from Google AI Overviews separately?",
+      "a": "No. Clicks from AI Overviews are counted as Google organic search traffic, not as a separate referrer, so they appear in Organic Search."
+    },
+    {
+      "q": "Will a custom channel group change my historical data?",
+      "a": "Custom channel groups can be applied to past data in reports, so you can see AI visits from before you created the group without changing the default channels."
+    },
+    {
+      "q": "How do I see leads from AI search?",
+      "a": "Mark your form submission event as a key event in GA4. Your acquisition reports will then show key events by channel, including your AI search channel."
+    },
+    {
+      "q": "Why is my AI traffic lower than expected?",
+      "a": "Some apps strip referrers, and many people act on AI answers later through branded search or direct visits. Treat the AI channel as a minimum and watch branded search growth too."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "how to check if ChatGPT mentions your brand",
+      "url": "https://thechimeraai.com/how-to-check-if-chatgpt-mentions-your-brand/"
+    },
+    {
+      "anchor": "how to measure GEO results",
+      "url": "https://thechimeraai.com/how-to-measure-geo-results/"
+    },
+    {
+      "anchor": "does GEO bring sales",
+      "url": "https://thechimeraai.com/is-geo-bring-sales/"
+    },
+    {
+      "anchor": "GEO results for real brands",
+      "url": "https://thechimeraai.com/#results"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Analytics Help Center",
+      "url": "https://support.google.com/analytics"
+    },
+    {
+      "title": "TechCrunch: Sam Altman says ChatGPT has hit 800M weekly active users (Oct 6, 2025)",
+      "url": "https://techcrunch.com/2025/10/06/sam-altman-says-chatgpt-has-hit-800m-weekly-active-users/"
+    },
+    {
+      "title": "GEO: Generative Engine Optimization (Aggarwal et al., KDD 2024)",
+      "url": "https://arxiv.org/abs/2311.09735"
+    },
+    {
+      "title": "Google Search Central: AI features and your website",
+      "url": "https://developers.google.com/search/docs/appearance/ai-features"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 0,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "How an AI visit reaches your reports",
+      "lead": "From an answer to a lead you can see.",
+      "steps": [
+        {
+          "title": "Cited",
+          "text": "An AI engine links your page in its answer."
+        },
+        {
+          "title": "Click",
+          "text": "The visitor arrives with a referrer such as chatgpt.com."
+        },
+        {
+          "title": "Channel",
+          "text": "Your AI search channel rule sorts the session."
+        },
+        {
+          "title": "Lead",
+          "text": "A form key event ties the visit to revenue."
+        }
+      ]
+    },
+    {
+      "after": 1,
+      "type": "matrix",
+      "eyebrow": "Compare platforms",
+      "title": "How each platform shows its sources",
+      "lead": "Platforms that show clickable sources send measurable visits. The rest shape decisions you see later as branded searches.",
+      "columns": [
+        "chatgpt",
+        "perplexity",
+        "google",
+        "gemini",
+        "claude",
+        "copilot"
+      ],
+      "rows": [
+        {
+          "label": "Links to sources in answers",
+          "cells": [
+            "Yes, when searching",
+            "Yes, numbered",
+            "Yes",
+            "Sometimes",
+            "Yes, with web search",
+            "Yes"
+          ]
+        },
+        {
+          "label": "Searches the live web",
+          "cells": [
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes, when enabled",
+            "Yes"
+          ]
+        },
+        {
+          "label": "Referral shows in analytics",
+          "cells": [
+            "Yes: chatgpt.com",
+            "Yes: perplexity.ai",
+            "Counted as Google",
+            "Yes: gemini.google.com",
+            "Yes: claude.ai",
+            "Yes: copilot.microsoft.com"
+          ]
+        }
+      ]
+    },
+    {
+      "after": 5,
+      "type": "bars",
+      "eyebrow": "Chart",
+      "title": "ChatGPT's weekly users, as reported by OpenAI",
+      "lead": "Weekly active users grew eightfold in under two years. That is the audience now asking ChatGPT which provider to choose.",
+      "engine": "chatgpt",
+      "chart_label": "ChatGPT weekly active users (millions)",
+      "unit": "M",
+      "items": [
+        {
+          "label": "Nov 2023",
+          "value": 100
+        },
+        {
+          "label": "Mar 2025",
+          "value": 500
+        },
+        {
+          "label": "Aug 2025",
+          "value": 700
+        },
+        {
+          "label": "Oct 2025",
+          "value": 800
+        }
+      ],
+      "source": {
+        "title": "TechCrunch: Sam Altman says ChatGPT has hit 800M weekly active users (Oct 6, 2025)",
+        "url": "https://techcrunch.com/2025/10/06/sam-altman-says-chatgpt-has-hit-800m-weekly-active-users/",
+        "note": "Figures announced by OpenAI"
+      }
+    },
+    {
+      "after": 2,
+      "type": "line",
+      "eyebrow": "Interactive chart",
+      "title": "Gemini app monthly users over time",
+      "lead": "Google's assistant grew more than sevenfold in a year. Hover the points for each figure.",
+      "engine": "gemini",
+      "chart_label": "Gemini app monthly active users (millions)",
+      "unit": "M",
+      "items": [
+        {
+          "label": "Oct 2024",
+          "value": 90
+        },
+        {
+          "label": "Mar 2025",
+          "value": 350
+        },
+        {
+          "label": "Oct 2025",
+          "value": 650
+        }
+      ],
+      "source": {
+        "title": "9to5Google: Gemini app passes 650 million monthly users (Oct 29, 2025)",
+        "url": "https://9to5google.com/2025/10/29/gemini-app-650-million-users/",
+        "note": "Oct 2024 and Mar 2025 from court documents; Oct 2025 from Alphabet's Q3 earnings call"
+      }
+    }
+  ],
+  "hero_query": "How much traffic does AI search send me?",
+  "short_title": "How to Track AI Traffic in Google Analytics 4 (Step by Step)",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "copilot",
+    "claude",
+    "google"
+  ],
+  "hero_image": {
+    "id": 162,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/how-to-track-ai-traffic-in-google-analytics-chimera.jpg",
+    "alt": "How to Track AI Traffic in Google Analytics 4 (Step by Step): illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-05",
+  "updated": "2026-11-10",
+  "photo": {
+    "id": 207,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/how-to-track-ai-traffic-in-google-analytics-photo.jpg",
+    "alt": "Analyst studying website traffic dashboards on two monitors",
+    "width": 1360,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Kittl AI"
+  }
+}

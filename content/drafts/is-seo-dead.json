@@ -1,0 +1,266 @@
+{
+  "query": "is seo dead",
+  "slug": "is-seo-dead",
+  "eyebrow": "Search strategy",
+  "primary_keyword": "is SEO dead",
+  "secondary_keywords": [
+    "SEO in the age of AI",
+    "future of SEO",
+    "AI search and SEO",
+    "does SEO still work"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Is SEO Dead? What AI Search Really Changes in 2026",
+    "meta_description": "Is SEO dead because of ChatGPT and AI Overviews? What the data shows about clicks, what still works, and how SEO and GEO fit together now."
+  },
+  "h1": "Is SEO Dead? What AI Search Changes and What It Doesn't",
+  "answer": "No, SEO is not dead, but it has changed. AI answers now cut clicks on many searches, yet Google's AI Overviews and AI Mode are built from pages Google has indexed and ranked, and ChatGPT and Perplexity search the web for sources. Is SEO dead? The foundations matter more than ever; what changed is the goal: being cited, not just ranked.",
+  "key_takeaways": [
+    "AI answers are built on top of search indexes, so SEO remains the foundation.",
+    "Clicks are falling for many informational searches.",
+    "The new goal is to be a cited source, not just a blue link.",
+    "Technical SEO, helpful content and authority still decide eligibility.",
+    "Measure leads and branded demand, not rankings alone."
+  ],
+  "sections": [
+    {
+      "heading": "Why people are asking whether SEO is dead",
+      "body_html": "<p>The question is everywhere because search behavior visibly changed. ChatGPT reported 800 million weekly users in October 2025, and Google says AI Overviews reach more than 2 billion people a month. Pew Research Center found that when an AI summary appeared, people clicked a traditional result in 8% of visits, compared with 15% without one. If fewer people click, the reasoning goes, optimizing to be clicked must be pointless.</p><p>The data supports part of that worry. It does not support the conclusion.</p>"
+    },
+    {
+      "heading": "What AI search is built on",
+      "body_html": "<p>AI answers do not come from nowhere. Google states that AI Overviews and AI Mode surface links from its index, and that the best practices for SEO remain relevant: there are no additional requirements to appear in them. ChatGPT search and Perplexity use their own crawlers to find and read pages, and Microsoft Copilot is grounded in Bing's results.</p><p>That means the work that gets a page crawled, indexed and judged trustworthy is the same work that makes it eligible to be cited in an AI answer. A page that search engines cannot find, or do not trust, will not be quoted by the AI built on top of them.</p>"
+    },
+    {
+      "heading": "What has actually changed",
+      "body_html": "<ul><li><strong>Fewer clicks on simple questions.</strong> Definitions and quick facts are now answered directly.</li><li><strong>Longer, conversational searches.</strong> Pew found 53% of searches of ten words or more produced an AI summary, compared with 8% of one- or two-word searches.</li><li><strong>Several winners per answer.</strong> 88% of AI summaries in Pew's data cited three or more sources.</li><li><strong>Influence without a visit.</strong> A buyer can learn your name from an AI answer and search for you later, so the effect shows up as branded searches and direct visits.</li></ul>"
+    },
+    {
+      "heading": "What still works",
+      "body_html": "<p>The fundamentals are, if anything, more important: fast, crawlable pages; clear structure; content that answers real questions from genuine expertise; accurate structured data; and a reputation built by other sites mentioning you. Google's guidance on helpful, people-first content is still the best summary of what it wants to show, in classic results and AI features alike.</p><p>What works less well is thin content written to capture a keyword without adding anything. AI answers absorb that kind of page easily, and there is little reason to cite it.</p>"
+    },
+    {
+      "heading": "What stopped working",
+      "body_html": "<p>Some old habits are now close to worthless: pages that repeat a keyword without answering anything, near-duplicate location pages, and articles that only restate what every other result says. Automated content produced mainly to manipulate rankings was already against Google's spam policies; AI answers make it even less useful because the summary already covers the generic points.</p><p>Chasing position one for a single head term also matters less when the answer appears above the results.</p>"
+    },
+    {
+      "heading": "SEO and GEO: how they fit together",
+      "body_html": "<p>Generative engine optimization (GEO) is the practice of making your content easy for AI engines to find, trust and cite. It is not a replacement for SEO; it builds on it. SEO gets you into the index and earns authority. GEO shapes your pages and your presence across the web so that AI systems choose you when they write an answer: direct answers near the top, question-based headings, specific sourced facts, consistent brand information and mentions on the sites AI engines read.</p>"
+    },
+    {
+      "heading": "How to adapt your strategy",
+      "body_html": "<ol><li><strong>Audit how AI engines describe you</strong> for the questions buyers ask.</li><li><strong>Fix the technical basics</strong>, including crawler access for AI search bots.</li><li><strong>Rewrite key pages answer-first</strong>, with follow-up questions covered.</li><li><strong>Publish facts others will cite</strong>: data, pricing ranges, comparisons.</li><li><strong>Earn mentions</strong> on review sites, communities and the press.</li><li><strong>Track AI referrals, branded search and leads</strong> rather than rankings alone.</li></ol>"
+    },
+    {
+      "heading": "Who should worry most",
+      "body_html": "<p>Sites that depend on answering simple questions, such as definition or quick-fact publishers, are most exposed, because those are exactly the searches AI answers well. Businesses whose buyers need to compare, trust and contact a provider are in a better position: AI can shortlist you, but the customer still needs to visit, call or book. For them, the shift is mostly about being on the shortlist.</p>"
+    },
+    {
+      "heading": "A quick test for your own site",
+      "body_html": "<p>Open Search Console and compare the last three months with the same period a year earlier for your question-style queries. If impressions held steady while clicks fell, AI answers are likely absorbing clicks you used to get, and those pages need to become sources worth citing.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is SEO dead in 2026?",
+      "a": "No. AI answers in Google, ChatGPT and Perplexity are built on web indexes, so pages still need to be crawlable, indexed and trusted. What changed is that being cited in the answer now matters as much as ranking."
+    },
+    {
+      "q": "Will AI replace SEO?",
+      "a": "AI changes how results are shown, not the need to be found. SEO is evolving into a broader practice that includes generative engine optimization, so AI systems can find, trust and cite your pages."
+    },
+    {
+      "q": "Does SEO still bring traffic?",
+      "a": "Yes, though clicks have fallen for many simple informational searches. Searches with commercial intent and complex questions still send visits, and AI answers can drive branded searches later."
+    },
+    {
+      "q": "What is the difference between SEO and GEO?",
+      "a": "SEO helps your pages get crawled, indexed and ranked. GEO builds on that so AI engines choose your content when they write answers. Most businesses need both."
+    },
+    {
+      "q": "Should I stop investing in SEO?",
+      "a": "No. Shift investment from keyword-stuffed volume toward technical health, genuinely useful answer-first content, and mentions on trusted sites, which serve both classic search and AI answers."
+    },
+    {
+      "q": "How do I know if AI search is affecting my traffic?",
+      "a": "Compare Search Console impressions and clicks for question-style queries over time, track referrals from AI platforms in Google Analytics, and watch branded search and lead volume."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "GEO vs SEO",
+      "url": "https://thechimeraai.com/geo-vs-seo/"
+    },
+    {
+      "anchor": "how to show up in Google AI Overviews",
+      "url": "https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/"
+    },
+    {
+      "anchor": "AI search statistics",
+      "url": "https://thechimeraai.com/ai-search-statistics/"
+    },
+    {
+      "anchor": "how to measure GEO results",
+      "url": "https://thechimeraai.com/how-to-measure-geo-results/"
+    },
+    {
+      "anchor": "Chimera's GEO services",
+      "url": "https://thechimeraai.com/#services"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Search Central: AI features and your website",
+      "url": "https://developers.google.com/search/docs/appearance/ai-features"
+    },
+    {
+      "title": "Google Search Central: Creating helpful, reliable, people-first content",
+      "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content"
+    },
+    {
+      "title": "Google Search Central: Spam policies",
+      "url": "https://developers.google.com/search/docs/essentials/spam-policies"
+    },
+    {
+      "title": "Pew Research Center: Google users are less likely to click on links when an AI summary appears in the results (Jul 22, 2025)",
+      "url": "https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/"
+    },
+    {
+      "title": "TechCrunch: Sam Altman says ChatGPT has hit 800M weekly active users (Oct 6, 2025)",
+      "url": "https://techcrunch.com/2025/10/06/sam-altman-says-chatgpt-has-hit-800m-weekly-active-users/"
+    },
+    {
+      "title": "Dataconomy: Google's AI Overviews now serve 2 billion monthly users (Jul 24, 2025)",
+      "url": "https://dataconomy.com/2025/07/24/googles-ai-overviews-now-serve-2-billion-monthly-users/"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 0,
+      "type": "bars",
+      "eyebrow": "Pew Research data",
+      "title": "What people click when an AI summary appears",
+      "lead": "Share of Google search visits that ended in each action, March 2025.",
+      "unit": "%",
+      "engine": "google",
+      "chart_label": "Google Search visits",
+      "items": [
+        {
+          "label": "Clicked a result, no AI summary on the page",
+          "value": 15
+        },
+        {
+          "label": "Clicked a result, AI summary on the page",
+          "value": 8
+        },
+        {
+          "label": "Clicked a link inside the AI summary",
+          "value": 1
+        }
+      ],
+      "source": {
+        "title": "Pew Research Center, March 2025 browsing data from 900 U.S. adults",
+        "url": "https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/"
+      }
+    },
+    {
+      "after": 1,
+      "type": "engines",
+      "eyebrow": "AI platforms",
+      "title": "The AI engines built on search",
+      "lead": "The answer engines that matter most for buyer research, and how each one finds sources.",
+      "items": [
+        {
+          "engine": "chatgpt",
+          "note": "The largest assistant. Searches the web for current questions and links sources in its answers."
+        },
+        {
+          "engine": "google",
+          "note": "AI summaries above Google results, built from pages Google has indexed."
+        },
+        {
+          "engine": "gemini",
+          "note": "Google's assistant app, increasingly used for research and comparisons."
+        },
+        {
+          "engine": "perplexity",
+          "note": "Answer engine built around numbered, clickable citations."
+        },
+        {
+          "engine": "claude",
+          "note": "Anthropic's assistant, used heavily for research and work tasks; can search the web."
+        },
+        {
+          "engine": "copilot",
+          "note": "Microsoft's assistant in Windows, Edge and Office, grounded in Bing results."
+        }
+      ]
+    },
+    {
+      "after": 3,
+      "type": "scorecard",
+      "eyebrow": "Scorecard",
+      "title": "What still works in SEO",
+      "lead": "How much each tactic helps today (5 = most).",
+      "rows": [
+        {
+          "label": "Crawlable, fast, indexed pages",
+          "score": 5,
+          "note": "Required for both classic results and AI answers."
+        },
+        {
+          "label": "Answer-first, expert content",
+          "score": 5,
+          "note": "What AI engines quote."
+        },
+        {
+          "label": "Mentions on trusted sites",
+          "score": 4,
+          "note": "AI answers draw on many sources."
+        },
+        {
+          "label": "Structured data",
+          "score": 3,
+          "note": "Helps machines understand pages."
+        },
+        {
+          "label": "Keyword repetition",
+          "score": 1,
+          "note": "Adds nothing to an AI answer."
+        }
+      ]
+    }
+  ],
+  "hero_query": "Is SEO dead now that AI answers everything?",
+  "short_title": "Is SEO Dead? What AI Search Really Changes in 2026",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 264,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/is-seo-dead-chimera.jpg",
+    "alt": "Is SEO Dead? What AI Search Really Changes in 2026: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-06",
+  "updated": "2026-11-10",
+  "photo": {
+    "id": 359,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/is-seo-dead-photo.jpg",
+    "alt": "Marketing team discussing a screen where a search bar turns into an AI chat",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
+}

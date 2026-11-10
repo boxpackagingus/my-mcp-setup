@@ -1,0 +1,292 @@
+{
+  "query": "how much does geo cost",
+  "slug": "how-much-does-geo-cost",
+  "eyebrow": "Pricing guide",
+  "primary_keyword": "GEO cost",
+  "secondary_keywords": [
+    "GEO pricing",
+    "generative engine optimization cost",
+    "GEO agency pricing",
+    "AI SEO cost"
+  ],
+  "search_intent": "commercial",
+  "seo": {
+    "title": "How Much Does GEO Cost? Pricing Models and What Drives Price",
+    "meta_description": "How much does GEO cost? See the common pricing models, what drives the price of generative engine optimization, what to expect at each budget and red flags."
+  },
+  "h1": "How Much Does GEO Cost? A Guide to Pricing Generative Engine Optimization",
+  "answer": "GEO cost depends mostly on scope: how many buyer questions and AI engines you target, how much content needs creating or rebuilding, the technical state of your site, and how much brand-authority work is included. Most engagements are priced as a one-off audit, a fixed project, or a monthly retainer, and the right choice depends on your goals and in-house capacity.",
+  "key_takeaways": [
+    "GEO is usually priced as an audit, a project or a monthly retainer.",
+    "Scope, not the label, drives price: questions, engines, pages and authority work.",
+    "Technical debt on your site can raise the starting cost.",
+    "A retainer suits ongoing publishing and measurement; a project suits a fixed rebuild.",
+    "Compare proposals by deliverables and measurement, not just the monthly number."
+  ],
+  "sections": [
+    {
+      "heading": "The three common pricing models",
+      "body_html": "<table><tr><th>Model</th><th>What you get</th><th>Best for</th></tr><tr><td>AI visibility audit</td><td>A baseline of AI answers, technical and content findings, and a prioritized fix list</td><td>Knowing where you stand before committing</td></tr><tr><td>Fixed project</td><td>A defined rebuild: technical fixes, schema, llms.txt and a set number of pages</td><td>A clear, one-time scope with your own team taking over after</td></tr><tr><td>Monthly retainer</td><td>Ongoing pages, authority building, testing and reporting</td><td>Competitive categories where results compound over months</td></tr></table><p>Many businesses start with an audit, then choose a project or retainer once they see the gaps.</p>"
+    },
+    {
+      "heading": "What drives the price of GEO",
+      "body_html": "<ol><li><strong>Number of buyer questions and engines.</strong> Tracking 30 questions in three engines is a different job from 200 questions in six.</li><li><strong>Content volume.</strong> Rebuilding five key pages costs less than publishing dozens of new ones, especially when each must be genuinely useful and sourced.</li><li><strong>Technical state.</strong> Blocked crawlers, indexing problems, slow pages or a fragile CMS add work at the start.</li><li><strong>Authority work.</strong> Earning mentions, reviews and directory listings takes ongoing effort and relationships.</li><li><strong>Competition.</strong> Crowded categories, where rivals are already cited everywhere, need more sustained effort.</li><li><strong>Reporting depth.</strong> Monthly question tests, analytics setup and lead attribution take time to do properly.</li></ol>"
+    },
+    {
+      "heading": "What to expect at different budget levels",
+      "body_html": "<ul><li><strong>Entry level:</strong> an audit plus a short fix sprint covering crawler access, schema, llms.txt and rewriting the openings of your most important pages. Good for small businesses testing GEO.</li><li><strong>Growth level:</strong> everything above, plus a steady flow of new answer pages each month and basic authority building, with monthly reporting.</li><li><strong>Competitive level:</strong> broad question coverage across all major engines, content at scale with strict quality control, active digital PR for mentions, and detailed lead attribution.</li></ul><p>Ask any provider to map their price to one of these levels and to the specific deliverables behind it.</p>"
+    },
+    {
+      "heading": "What should always be included",
+      "body_html": "<ul><li>A baseline test of your buyer questions in each AI engine you care about.</li><li>Crawl access checks for OAI-SearchBot, PerplexityBot, Claude-SearchBot, Googlebot and Bingbot.</li><li>Indexing and structured-data review.</li><li>A clear list of pages to rebuild or create, with reasons.</li><li>Measurement: AI referral tracking, lead attribution and a repeat of the baseline test.</li></ul><p>If a proposal leaves these out, the low price is probably low because the work is missing.</p>"
+    },
+    {
+      "heading": "Red flags in GEO pricing",
+      "body_html": "<ul><li><strong>Placement promises:</strong> \"We'll get you into ChatGPT for $X\" ignores that nobody controls AI answers.</li><li><strong>Price per page with no quality bar:</strong> cheap, thin pages at volume can hurt both search and AI visibility.</li><li><strong>No baseline:</strong> without a before-and-after test, you cannot tell whether you got value.</li><li><strong>Long lock-ins before any results:</strong> a first term of around three months is enough to judge an agency.</li></ul>"
+    },
+    {
+      "heading": "How to compare two proposals",
+      "body_html": "<p>Put both on the same table: what each delivers in month one, which pages they will change, which engines they will track, how they measure leads, and who does the work. Then compare price. A higher monthly figure with clear deliverables and verifiable reporting often costs less overall than a cheap package that needs replacing after six months.</p>"
+    },
+    {
+      "heading": "Doing some of it in-house",
+      "body_html": "<p>You can lower cost by keeping some work internal. Many teams handle subject-matter input, approvals and publishing themselves, and bring in a GEO partner for the audit, technical fixes, content structure, authority building and measurement. The audit makes this split easy, because it lists each fix and how hard it is.</p>"
+    },
+    {
+      "heading": "Questions to ask before you sign",
+      "body_html": "<ol><li><strong>What exactly happens in month one?</strong> You should hear a concrete list: audit, crawler fixes, schema, tracking, first page rebuilds.</li><li><strong>Which pages will you change or create, and why those?</strong> A good answer ties each page to a buyer question.</li><li><strong>How will we measure progress?</strong> Expect mentions and citations per engine, AI referral sessions and leads, not just rankings.</li><li><strong>Who does the work?</strong> Named people, and how often you will speak with them.</li><li><strong>What do you need from us?</strong> Access, approvals and subject-matter input should be a short, clear list.</li><li><strong>What happens if results lag?</strong> A provider confident in its process will explain how it adjusts, rather than promising outcomes nobody controls.</li></ol><p>The answers tell you more about value than the price itself.</p>"
+    },
+    {
+      "heading": "How to judge return on GEO spend",
+      "body_html": "<p>Tie the program to leads and revenue rather than rankings. Track AI-referred sessions and form submissions by engine, watch branded search growth, and keep a monthly record of mentions and citations. Over a quarter, compare the cost of the program with the value of the leads it produced, and with what the same leads would cost through ads.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much does GEO cost?",
+      "a": "It depends on scope: the number of buyer questions and AI engines, how much content is created or rebuilt, your site's technical state, and how much authority work is included. Most providers price it as an audit, a fixed project or a monthly retainer."
+    },
+    {
+      "q": "Is GEO more expensive than SEO?",
+      "a": "Not necessarily. GEO builds on SEO foundations and many tasks overlap. The extra cost usually comes from testing AI answers across engines, deeper content structuring and brand-authority work."
+    },
+    {
+      "q": "Should I start with a GEO audit?",
+      "a": "Usually, yes. An audit shows how AI engines describe you today and which fixes matter most, so any project or retainer you buy afterwards is aimed at real gaps."
+    },
+    {
+      "q": "What is a fair first contract length?",
+      "a": "About three months is a sensible first term. It allows time to fix, publish and re-test, and is short enough to judge whether the work is delivering."
+    },
+    {
+      "q": "Can I do GEO cheaply myself?",
+      "a": "You can do the basics in-house: unblock AI crawlers, answer questions directly, add FAQs and schema, and keep your brand consistent. Outside help is most valuable for scale, technical depth and measurement."
+    },
+    {
+      "q": "Does Chimera offer a free audit?",
+      "a": "Yes. Chimera offers a free AI visibility audit. Request it through the form on this page."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "AI visibility audit",
+      "url": "https://thechimeraai.com/ai-visibility-audit/"
+    },
+    {
+      "anchor": "how to choose a GEO agency",
+      "url": "https://thechimeraai.com/how-to-choose-a-geo-agency/"
+    },
+    {
+      "anchor": "generative engine optimization agency",
+      "url": "https://thechimeraai.com/generative-engine-optimization-agency/"
+    },
+    {
+      "anchor": "Chimera's GEO services",
+      "url": "https://thechimeraai.com/#services"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "GEO: Generative Engine Optimization (Aggarwal et al., KDD 2024)",
+      "url": "https://arxiv.org/abs/2311.09735"
+    },
+    {
+      "title": "Google Search Central: Spam policies",
+      "url": "https://developers.google.com/search/docs/essentials/spam-policies"
+    },
+    {
+      "title": "Google Search Central: Creating helpful, reliable, people-first content",
+      "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content"
+    },
+    {
+      "title": "Google Search Central: AI features and your website",
+      "url": "https://developers.google.com/search/docs/appearance/ai-features"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 1,
+      "type": "scorecard",
+      "eyebrow": "Scorecard",
+      "title": "What moves the price most",
+      "lead": "How strongly each factor usually affects GEO cost (5 = biggest effect).",
+      "rows": [
+        {
+          "label": "Content volume and quality bar",
+          "score": 5,
+          "note": "New, sourced, genuinely useful pages are the largest cost."
+        },
+        {
+          "label": "Competition in your category",
+          "score": 4,
+          "note": "Crowded categories need sustained effort."
+        },
+        {
+          "label": "Authority and mention building",
+          "score": 4,
+          "note": "Ongoing outreach and relationships."
+        },
+        {
+          "label": "Technical state of the site",
+          "score": 3,
+          "note": "Mostly a one-off cost at the start."
+        },
+        {
+          "label": "Number of engines tracked",
+          "score": 2,
+          "note": "Testing more engines adds reporting time."
+        }
+      ]
+    },
+    {
+      "after": 3,
+      "type": "timeline",
+      "eyebrow": "Timeline",
+      "title": "What a typical engagement looks like",
+      "lead": "How spend turns into results over the first quarter.",
+      "items": [
+        {
+          "when": "Month 1",
+          "title": "Audit and fixes",
+          "text": "Baseline, crawler access, indexing, schema and llms.txt."
+        },
+        {
+          "when": "Month 2",
+          "title": "Pages",
+          "text": "Rebuild key pages and publish answers to top questions."
+        },
+        {
+          "when": "Month 3",
+          "title": "Authority and review",
+          "text": "Start earning mentions; re-run the baseline and report."
+        }
+      ]
+    },
+    {
+      "after": 7,
+      "type": "stats",
+      "eyebrow": "By the numbers",
+      "title": "The audience you are paying to reach",
+      "lead": "Company-reported audience figures for the biggest AI answer engines. Each is the latest official number we could verify, with its date.",
+      "items": [
+        {
+          "engine": "chatgpt",
+          "value": "800M",
+          "label": "ChatGPT weekly active users",
+          "date": "Oct 2025, OpenAI",
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2025/10/06/sam-altman-says-chatgpt-has-hit-800m-weekly-active-users/"
+        },
+        {
+          "engine": "google",
+          "value": "2B",
+          "label": "AI Overviews monthly users",
+          "date": "Jul 2025, Google",
+          "source": "Dataconomy",
+          "source_url": "https://dataconomy.com/2025/07/24/googles-ai-overviews-now-serve-2-billion-monthly-users/"
+        },
+        {
+          "engine": "gemini",
+          "value": "650M",
+          "label": "Gemini app monthly active users",
+          "date": "Oct 2025, Google",
+          "source": "9to5Google",
+          "source_url": "https://9to5google.com/2025/10/29/gemini-app-650-million-users/"
+        },
+        {
+          "engine": "perplexity",
+          "value": "780M",
+          "label": "Perplexity queries in one month",
+          "date": "May 2025, Perplexity CEO",
+          "source": "MediaPost",
+          "source_url": "https://www.mediapost.com/publications/article/406449/perplexity-ceo-estimates-firm-will-serve-1b-querie.html"
+        }
+      ],
+      "note": "Weekly users, monthly users and monthly queries measure different things, so compare each figure with its own history rather than with the others."
+    },
+    {
+      "after": 2,
+      "type": "line",
+      "eyebrow": "Interactive chart",
+      "title": "ChatGPT's weekly users over time",
+      "lead": "OpenAI's own figures. Hover the points to see each milestone.",
+      "engine": "chatgpt",
+      "chart_label": "ChatGPT weekly active users (millions)",
+      "unit": "M",
+      "items": [
+        {
+          "label": "Nov 2023",
+          "value": 100
+        },
+        {
+          "label": "Mar 2025",
+          "value": 500
+        },
+        {
+          "label": "Aug 2025",
+          "value": 700
+        },
+        {
+          "label": "Oct 2025",
+          "value": 800
+        }
+      ],
+      "source": {
+        "title": "TechCrunch: Sam Altman says ChatGPT has hit 800M weekly active users (Oct 6, 2025)",
+        "url": "https://techcrunch.com/2025/10/06/sam-altman-says-chatgpt-has-hit-800m-weekly-active-users/",
+        "note": "Figures announced by OpenAI"
+      }
+    }
+  ],
+  "hero_query": "How much should I budget for GEO?",
+  "short_title": "How Much Does GEO Cost? Pricing Models and What Drives Price",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 156,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/how-much-does-geo-cost-chimera.jpg",
+    "alt": "How Much Does GEO Cost? Pricing Models and What Drives Price: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-05",
+  "updated": "2026-11-10",
+  "photo": {
+    "id": 195,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/how-much-does-geo-cost-photo.jpg",
+    "alt": "Two business owners reviewing a marketing budget proposal",
+    "width": 1360,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Kittl AI"
+  }
+}

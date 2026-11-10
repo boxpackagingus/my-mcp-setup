@@ -1,0 +1,270 @@
+{
+  "query": "topical authority for ai search",
+  "slug": "topical-authority-for-ai-search",
+  "eyebrow": "Content strategy",
+  "primary_keyword": "topical authority for AI search",
+  "secondary_keywords": [
+    "topic clusters",
+    "content hubs",
+    "topical relevance",
+    "AI search content strategy"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Topical Authority for AI Search: Build It Step by Step",
+    "meta_description": "Topical authority for AI search: how covering a topic in depth helps AI tools trust and cite you, how to map a topic, build clusters and avoid thin pages."
+  },
+  "h1": "Topical Authority for AI Search: How to Own a Topic AI Trusts",
+  "answer": "Topical authority for AI search means covering a subject so thoroughly and reliably that search engines and AI tools treat your site as a dependable source on it. You build it by mapping the questions in your topic, answering each one well, linking related pages together, keeping them updated and earning recognition from other sites in the same field.",
+  "key_takeaways": [
+    "Depth on one topic beats thin coverage of many.",
+    "Map the real questions people ask in your topic.",
+    "Organize pages into clusters linked to a hub.",
+    "Each page must answer its question fully, not just exist.",
+    "Recognition from other sites in the field reinforces authority."
+  ],
+  "sections": [
+    {
+      "heading": "What topical authority means",
+      "body_html": "<p>Topical authority is not an official metric. It is a useful way to describe what happens when a site consistently publishes the best answers on a subject: search engines see many relevant, well-linked pages, other sites in the field reference them, and readers return. When an AI tool needs a reliable source for a question in that area, a site with this kind of depth is a natural choice.</p>"
+    },
+    {
+      "heading": "Why it matters more with AI",
+      "body_html": "<p>Google says AI Overviews and AI Mode may use query fan-out, running related searches across subtopics to build one answer. A site that covers the main question and its subtopics has more chances to be cited for different parts of the same answer. A site with one isolated page has one chance at most.</p>"
+    },
+    {
+      "heading": "Map the topic",
+      "body_html": "<ol><li><strong>List the core questions</strong> buyers ask about your subject: what, why, how, cost, comparisons, mistakes.</li><li><strong>Add subtopics</strong> from autocomplete, People Also Ask, Search Console and sales calls.</li><li><strong>Group them</strong> into clusters around a few main themes.</li><li><strong>Decide which questions need their own page</strong> and which belong as sections or FAQs on another page.</li><li><strong>Mark what you already cover</strong> and where gaps are.</li></ol>"
+    },
+    {
+      "heading": "Build hubs and clusters",
+      "body_html": "<p>For each theme, create a hub page that introduces the topic, answers the main question and links to every detailed page in the cluster. Each detailed page answers one significant question fully and links back to the hub and to closely related pages. This structure helps readers explore, helps crawlers discover pages, and shows how your coverage fits together. Google notes that it generally can only crawl links that are HTML anchor elements with an href, so use real links, not script-only navigation.</p>"
+    },
+    {
+      "heading": "Depth beats volume",
+      "body_html": "<p>Publishing many short pages that each say little does not build authority. Google's spam policies describe scaled content abuse as creating many pages primarily to manipulate rankings that offer little value. A smaller number of thorough, accurate pages with first-hand detail is better for readers and for AI citations. Ask of every page: does this answer its question better than what already exists?</p>"
+    },
+    {
+      "heading": "Stay focused",
+      "body_html": "<p>Authority builds where you concentrate. A GEO agency that publishes on GEO, AI search and related marketing topics builds a coherent body of work. The same agency publishing on unrelated subjects dilutes it. Choose the topics you can genuinely speak to with expertise and stay within them.</p>"
+    },
+    {
+      "heading": "Keep it current",
+      "body_html": "<p>Authority fades when content goes stale. Review your most important pages on a schedule, update facts and dates, add new questions as they emerge, and merge or remove pages that no longer serve a purpose. A visible updated date and accurate information tell readers and AI systems the coverage is maintained.</p>"
+    },
+    {
+      "heading": "Earn recognition in the field",
+      "body_html": "<p>Other sites referencing your work is part of authority. Original research, useful tools, expert commentary in industry publications and helpful participation in professional communities all lead other people in your field to cite you. Those mentions corroborate what your own site claims.</p>"
+    },
+    {
+      "heading": "How to tell it is working",
+      "body_html": "<p>Signs of growing authority include more queries in your topic showing impressions in Search Console, new pages being indexed and showing impressions faster, citations in AI answers across several subtopics, and other sites in your field linking to or mentioning your content without being asked.</p>"
+    },
+    {
+      "heading": "Where to start",
+      "body_html": "<p>Pick one theme where you have the deepest expertise and the most valuable buyers. Map its questions, build the hub, publish the five to ten most important detailed pages, link them properly and promote the best of them. Then expand to the next theme.</p>"
+    },
+    {
+      "heading": "An example topic map",
+      "body_html": "<p>For a GEO agency, a theme such as \"AI search for local businesses\" might include a hub page and detailed pages on: how AI tools recommend local businesses, Google Business Profile for AI answers, local business structured data, reviews and AI recommendations, location pages, and industry guides for the trades and practices the agency serves. Each detailed page answers one question thoroughly and links to the others where relevant. Together they show depth that a single general article cannot.</p>"
+    },
+    {
+      "heading": "Measuring coverage gaps",
+      "body_html": "<p>Every quarter, compare your topic map with the questions people now ask. Look at new Search Console queries, People Also Ask results and recent sales questions. Add new questions to the map, decide where each belongs, and schedule the most valuable gaps for the next content cycle.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Topical authority comes from depth, structure and recognition: answering every important question in one subject well, linking those answers together and earning mentions from others in the field. Concentrate on one theme at a time, keep it current, and expand only when the first theme is genuinely complete.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is topical authority?",
+      "a": "It describes a site that covers a subject so thoroughly and reliably that search engines, AI tools and readers treat it as a dependable source on that subject."
+    },
+    {
+      "q": "Is topical authority a Google ranking factor?",
+      "a": "It is not an official metric, but it describes outcomes Google's systems reward: relevant, helpful, well-linked content and recognition from other sites."
+    },
+    {
+      "q": "Why does topical authority matter for AI search?",
+      "a": "AI features may run related searches across subtopics. Covering the main question and its subtopics gives you more chances to be cited in one answer."
+    },
+    {
+      "q": "How many pages do I need for topical authority?",
+      "a": "There is no fixed number. Cover every significant question in your topic well; depth and quality matter more than count."
+    },
+    {
+      "q": "What is a topic cluster?",
+      "a": "A group of pages on one theme: a hub page that introduces the topic and links to detailed pages, which link back to the hub and to each other."
+    },
+    {
+      "q": "Can I build authority on many topics at once?",
+      "a": "It is harder. Authority builds where you concentrate, so focus on the topics you know best first."
+    },
+    {
+      "q": "How do I know if my topical authority is growing?",
+      "a": "More impressions across topic queries, faster indexing of new pages, AI citations across subtopics and unprompted mentions from other sites."
+    },
+    {
+      "q": "Does publishing frequency affect topical authority?",
+      "a": "Consistency helps, but quality matters more. Steadily adding thorough pages on your topic beats publishing many thin pages in bursts."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "what query fan-out is",
+      "url": "https://thechimeraai.com/what-is-query-fan-out/"
+    },
+    {
+      "anchor": "internal linking for AI search",
+      "url": "https://thechimeraai.com/internal-linking-for-ai-search/"
+    },
+    {
+      "anchor": "how to write content for AI search",
+      "url": "https://thechimeraai.com/how-to-write-content-for-ai-search/"
+    },
+    {
+      "anchor": "all GEO guides and answers",
+      "url": "https://thechimeraai.com/insights/"
+    },
+    {
+      "anchor": "Chimera's GEO services",
+      "url": "https://thechimeraai.com/#services"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Search Central: AI features and your website",
+      "url": "https://developers.google.com/search/docs/appearance/ai-features"
+    },
+    {
+      "title": "Google Search Central: Link best practices for Google",
+      "url": "https://developers.google.com/search/docs/crawling-indexing/links-crawlable"
+    },
+    {
+      "title": "Google Search Central: Spam policies",
+      "url": "https://developers.google.com/search/docs/essentials/spam-policies"
+    },
+    {
+      "title": "Google Search Central: Creating helpful, reliable, people-first content",
+      "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 0,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "How a topic cluster works",
+      "lead": "Hub and detail pages support each other.",
+      "steps": [
+        {
+          "title": "Map",
+          "text": "List every real question in the topic."
+        },
+        {
+          "title": "Hub",
+          "text": "One page introduces the topic and links to all detail pages."
+        },
+        {
+          "title": "Detail pages",
+          "text": "Each answers one question fully and links back."
+        },
+        {
+          "title": "Recognition",
+          "text": "Other sites cite the best pages."
+        }
+      ]
+    },
+    {
+      "after": 4,
+      "type": "scorecard",
+      "eyebrow": "Scorecard",
+      "title": "What builds topical authority",
+      "lead": "How much each helps (5 = most).",
+      "rows": [
+        {
+          "label": "Thorough answers to every key question",
+          "score": 5,
+          "note": "The core of authority."
+        },
+        {
+          "label": "Clear hub-and-cluster linking",
+          "score": 4,
+          "note": "Shows how coverage fits."
+        },
+        {
+          "label": "Regular updates",
+          "score": 4,
+          "note": "Keeps the coverage trustworthy."
+        },
+        {
+          "label": "Mentions from others in the field",
+          "score": 4,
+          "note": "Corroborates your expertise."
+        },
+        {
+          "label": "Many thin pages",
+          "score": 1,
+          "note": "Risks spam policies."
+        }
+      ]
+    },
+    {
+      "after": 9,
+      "type": "timeline",
+      "eyebrow": "Timeline",
+      "title": "A first-theme plan",
+      "lead": "Build one theme before the next.",
+      "items": [
+        {
+          "when": "Weeks 1–2",
+          "title": "Map",
+          "text": "List and group the questions in your best theme."
+        },
+        {
+          "when": "Weeks 3–8",
+          "title": "Publish",
+          "text": "Hub plus five to ten detailed pages."
+        },
+        {
+          "when": "Months 3–6",
+          "title": "Promote and expand",
+          "text": "Earn mentions, update, then start the next theme."
+        }
+      ]
+    }
+  ],
+  "hero_query": "How do I build topical authority for AI search?",
+  "short_title": "Topical Authority for AI Search: Build It Step by Step",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 307,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/topical-authority-for-ai-search-chimera.jpg",
+    "alt": "Topical Authority for AI Search: Build It Step by Step: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-06",
+  "updated": "2026-11-10",
+  "photo": {
+    "id": 382,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/topical-authority-for-ai-search-photo.jpg",
+    "alt": "Strategist arranging index cards into connected topic clusters",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "query": "how to write comparison pages for ai search",
+  "slug": "how-to-write-comparison-pages",
+  "eyebrow": "Content strategy",
+  "primary_keyword": "comparison pages",
+  "secondary_keywords": [
+    "versus pages",
+    "alternatives pages",
+    "product comparison content",
+    "comparison content AI search"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "How to Write Comparison Pages That AI Search Cites",
+    "meta_description": "How to write comparison pages AI tools cite: structure, fair criteria, tables, who each option suits, alternatives pages, and mistakes that kill trust."
+  },
+  "h1": "How to Write Comparison Pages That AI Search Trusts and Cites",
+  "answer": "Good comparison pages help buyers choose between options, such as two products, two approaches or your service versus an alternative. To be cited by AI tools, they should answer the comparison in the first paragraph, use clear criteria and a table, explain who each option suits, be fair about where competitors are stronger, and back claims with current, checkable facts.",
+  "key_takeaways": [
+    "Buyers often ask AI tools to compare options.",
+    "Answer the comparison directly in the opening.",
+    "Use clear criteria and a comparison table.",
+    "Say who each option suits, including when it is not you.",
+    "Keep facts current and checkable."
+  ],
+  "sections": [
+    {
+      "heading": "Why comparison pages matter for AI",
+      "body_html": "<p>Comparison questions are some of the most common buyer questions: \"GEO vs SEO\", \"agency vs in-house\", \"Tool A vs Tool B for small teams\". AI tools answer them by finding pages that compare the options clearly. A well-built comparison page can be cited directly, and because it addresses a decision, the readers it brings are close to choosing.</p>"
+    },
+    {
+      "heading": "Types of comparison pages",
+      "body_html": "<ul><li><strong>Approach comparisons</strong>: GEO vs SEO, hiring vs outsourcing.</li><li><strong>Option comparisons</strong>: two products, plans or services.</li><li><strong>You vs a competitor</strong>: how your offering differs from a named alternative.</li><li><strong>Alternatives pages</strong>: options for people considering a specific product.</li></ul><p>Each serves a different stage of research, and each needs fairness to be credible.</p>"
+    },
+    {
+      "heading": "Open with the answer",
+      "body_html": "<p>Start with a 40 to 60 word summary that answers the comparison: the core difference and who should choose which. For example: \"Agencies offer broader experience and faster setup, while in-house teams offer deeper product knowledge and lower long-term cost; agencies suit companies starting GEO, in-house suits companies with steady volume.\" That paragraph can be lifted into an AI answer as it stands.</p>"
+    },
+    {
+      "heading": "Choose fair criteria",
+      "body_html": "<p>Pick the criteria buyers actually use: cost, time to results, features, support, ease of use, fit for company size. Explain each briefly. Avoid choosing only the criteria where you win. A buyer, a journalist or an AI system reading the page should be able to see that the comparison is balanced.</p>"
+    },
+    {
+      "heading": "Use a table",
+      "body_html": "<table><tr><th>Criteria</th><th>Option A</th><th>Option B</th></tr><tr><td>Typical cost</td><td>State the range</td><td>State the range</td></tr><tr><td>Time to results</td><td>Typical timeline</td><td>Typical timeline</td></tr><tr><td>Best for</td><td>Who it suits</td><td>Who it suits</td></tr><tr><td>Main limitation</td><td>Be honest</td><td>Be honest</td></tr></table><p>Tables make differences easy to scan and easy for AI tools to summarize. Follow the table with explanations for anything that needs nuance.</p>"
+    },
+    {
+      "heading": "Say who each option suits",
+      "body_html": "<p>The most useful part of a comparison is the recommendation: who should choose A, who should choose B, and who should consider something else entirely. Saying when a competitor or a different approach is the better choice is the strongest trust signal you can give. It also brings you buyers who are a good fit and filters out those who are not.</p>"
+    },
+    {
+      "heading": "Facts, sources and dates",
+      "body_html": "<p>Competitor features and prices change. Check facts against the competitor's own published information, link to it where helpful, and show when the comparison was last updated. Do not make claims about competitors you cannot support. Inaccurate comparisons damage credibility with buyers and can create legal risk.</p>"
+    },
+    {
+      "heading": "Writing an alternatives page",
+      "body_html": "<p>People searching for alternatives to a product often already know what they want to change: price, complexity, a missing feature. Open by acknowledging what the original product does well, explain the common reasons people look elsewhere, then compare a few genuine alternatives, including yours, against those reasons. Present your option fairly alongside the others.</p>"
+    },
+    {
+      "heading": "Mistakes that kill trust",
+      "body_html": "<ul><li>Declaring yourself the winner on every criterion.</li><li>Outdated competitor pricing or features.</li><li>Vague claims such as \"better support\" with no evidence.</li><li>Hiding the comparison table below long marketing copy.</li><li>Comparing against a competitor's old or weakest plan.</li></ul>"
+    },
+    {
+      "heading": "How to keep comparisons current",
+      "body_html": "<p>Review comparison pages every quarter and whenever a major competitor changes pricing or features. Keep a short changelog in your notes so you know what was checked and when. A current, fair comparison keeps earning citations long after a one-sided page has been ignored.</p>"
+    },
+    {
+      "heading": "An example comparison opening and table row",
+      "body_html": "<p>For \"GEO agency vs freelancer\", a strong opening might say: \"An agency gives you a team, a tested process and broader tools, usually at a higher monthly cost; a freelancer is cheaper and more flexible but depends on one person's time and skills. Agencies suit businesses that need several services at once; freelancers suit focused projects with a clear scope.\" A table row for cost would then state typical ranges for each, with a note on what drives the difference, rather than calling one simply \"expensive\".</p>"
+    },
+    {
+      "heading": "Comparing approaches rather than products",
+      "body_html": "<p>Some of the most useful comparisons are not about brands at all: doing it yourself versus hiring help, one approach versus another, a monthly plan versus a one-off project. These pages answer early research questions, carry less risk of disputes with competitors, and position you as a neutral expert. They are also natural places to link to your service pages for readers who decide they want help.</p>"
+    },
+    {
+      "heading": "Structured data and comparison pages",
+      "body_html": "<p>There is no special structured data for comparisons. Use normal Article or WebPage markup where relevant, make the table real HTML rather than an image, and keep headings descriptive. Clear structure in the page itself is what helps AI tools summarize the comparison.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>A comparison page earns citations by being the fairest, clearest and most current answer to a buyer's choice. Lead with the answer, compare on the criteria that matter, show it in a table, say plainly who each option suits and keep the facts up to date. Honesty about trade-offs is what makes the page worth quoting.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why do comparison pages matter for AI search?",
+      "a": "Buyers often ask AI tools to compare options, and the tools look for pages that compare them clearly. A fair, well-structured comparison can be cited directly."
+    },
+    {
+      "q": "How should a comparison page start?",
+      "a": "With a 40 to 60 word summary of the core difference and who should choose which option."
+    },
+    {
+      "q": "Should I mention competitors by name?",
+      "a": "You can compare against named competitors if your claims are accurate, current and fair. Check facts against their own published information."
+    },
+    {
+      "q": "Is it okay to say a competitor is better for some people?",
+      "a": "Yes. Saying who each option suits, including when it is not you, is the strongest trust signal a comparison can give."
+    },
+    {
+      "q": "Do comparison tables help AI tools?",
+      "a": "Tables make differences easy to scan and summarize, for both readers and AI tools. Follow them with explanations where needed."
+    },
+    {
+      "q": "What is an alternatives page?",
+      "a": "A page for people considering a specific product, explaining why they might look elsewhere and fairly comparing genuine alternatives."
+    },
+    {
+      "q": "How often should comparisons be updated?",
+      "a": "At least quarterly, and whenever a major competitor changes pricing or features."
+    },
+    {
+      "q": "How long should a comparison page be?",
+      "a": "Long enough to cover the criteria buyers care about, with a summary, a table, explanations and a recommendation. Most useful comparisons run well beyond a few hundred words."
+    },
+    {
+      "q": "Should comparison pages include pricing?",
+      "a": "Yes, where it is public and current. Price is one of the main criteria buyers compare, so ranges with the date checked are very useful."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "GEO vs SEO",
+      "url": "https://thechimeraai.com/geo-vs-seo/"
+    },
+    {
+      "anchor": "AEO vs GEO",
+      "url": "https://thechimeraai.com/answer-engine-optimization-vs-generative-engine-optimization/"
+    },
+    {
+      "anchor": "how to get on best-of lists",
+      "url": "https://thechimeraai.com/how-to-get-on-best-of-lists/"
+    },
+    {
+      "anchor": "how to write content for AI search",
+      "url": "https://thechimeraai.com/how-to-write-content-for-ai-search/"
+    },
+    {
+      "anchor": "Chimera's GEO services",
+      "url": "https://thechimeraai.com/#services"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Search Central: Creating helpful, reliable, people-first content",
+      "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content"
+    },
+    {
+      "title": "Google Search Central: AI features and your website",
+      "url": "https://developers.google.com/search/docs/appearance/ai-features"
+    },
+    {
+      "title": "Pew Research Center: Google users are less likely to click on links when an AI summary appears in the results (Jul 22, 2025)",
+      "url": "https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 0,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "The anatomy of a citable comparison",
+      "lead": "From summary to recommendation.",
+      "steps": [
+        {
+          "title": "Summary",
+          "text": "A direct answer to the comparison."
+        },
+        {
+          "title": "Criteria",
+          "text": "The factors buyers really use."
+        },
+        {
+          "title": "Table",
+          "text": "Side-by-side facts, current and checkable."
+        },
+        {
+          "title": "Recommendation",
+          "text": "Who should choose which, honestly."
+        }
+      ]
+    },
+    {
+      "after": 5,
+      "type": "scorecard",
+      "eyebrow": "Scorecard",
+      "title": "What makes a comparison trustworthy",
+      "lead": "How much each helps (5 = most).",
+      "rows": [
+        {
+          "label": "Saying who each option suits",
+          "score": 5,
+          "note": "The most useful part for buyers."
+        },
+        {
+          "label": "Current, sourced facts",
+          "score": 5,
+          "note": "Avoids errors and disputes."
+        },
+        {
+          "label": "Clear comparison table",
+          "score": 4,
+          "note": "Easy to scan and summarize."
+        },
+        {
+          "label": "Balanced criteria",
+          "score": 4,
+          "note": "Shows fairness."
+        },
+        {
+          "label": "Winning every category",
+          "score": 1,
+          "note": "Readers stop trusting it."
+        }
+      ]
+    }
+  ],
+  "hero_query": "Which is better for my business, option A or option B?",
+  "short_title": "How to Write Comparison Pages",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 304,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/how-to-write-comparison-pages-chimera.jpg",
+    "alt": "How to Write Comparison Pages That AI Search Cites: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-06",
+  "updated": "2026-11-10",
+  "photo": {
+    "id": 386,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/how-to-write-comparison-pages-photo.jpg",
+    "alt": "Person weighing two products side by side",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
+}

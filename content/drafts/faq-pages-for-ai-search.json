@@ -1,0 +1,269 @@
+{
+  "query": "faq pages for ai search",
+  "slug": "faq-pages-for-ai-search",
+  "eyebrow": "Content strategy",
+  "primary_keyword": "FAQ pages for AI search",
+  "secondary_keywords": [
+    "FAQ schema",
+    "FAQ content",
+    "question and answer content",
+    "FAQ rich results"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "FAQ Pages for AI Search: How to Write Them Well",
+    "meta_description": "FAQ pages for AI search: why question-and-answer content is easy for AI to use, how to choose questions, write answers, use FAQ schema today and avoid mistakes."
+  },
+  "h1": "FAQ Pages for AI Search: Write Answers AI Tools Can Use",
+  "answer": "FAQ pages for AI search work because they pair real questions with short, direct answers, the format AI tools reuse most easily. Choose questions buyers actually ask, answer each in two to four sentences, keep answers specific and current, and link to deeper pages. FAQ structured data can still describe the content, though Google now shows FAQ rich results mainly for authoritative government and health sites.",
+  "key_takeaways": [
+    "Question-and-answer pairs match how people ask AI tools.",
+    "Use real questions from customers, Search Console and sales.",
+    "Answer in two to four specific sentences.",
+    "Link each answer to a deeper page where one exists.",
+    "FAQ rich results are now limited, but the content still helps."
+  ],
+  "sections": [
+    {
+      "heading": "Why FAQs suit AI search",
+      "body_html": "<p>People ask AI tools full questions. A page that pairs those questions with direct answers gives the AI ready-made, self-contained passages. Pew Research Center found that searches starting with question words such as who, what, when or why produced an AI summary 60% of the time in its March 2025 data, so question-based content is aimed squarely at the searches most likely to be answered by AI.</p>"
+    },
+    {
+      "heading": "Standalone FAQ page or FAQs on every page?",
+      "body_html": "<p>Both have a place. FAQ sections on service and guide pages answer the follow-up questions about that topic in context, which is usually the most useful. A standalone FAQ page works for general questions about your business: how to get started, policies, payment, locations. Avoid a single giant FAQ page that tries to cover everything; topic-specific FAQs are easier to keep relevant.</p>"
+    },
+    {
+      "heading": "Choosing the questions",
+      "body_html": "<ol><li><strong>Sales and support</strong>: the questions your team answers every week.</li><li><strong>Search Console</strong>: question-style queries that already show impressions.</li><li><strong>People Also Ask and autocomplete</strong> for your topic.</li><li><strong>Reviews and community discussions</strong>: concerns and objections in customers' own words.</li></ol><p>Write the question the way a customer would say it, not in internal jargon.</p>"
+    },
+    {
+      "heading": "Writing the answers",
+      "body_html": "<ul><li><strong>Answer in the first sentence.</strong> Yes, no, a number or a clear statement.</li><li><strong>Keep it to two to four sentences</strong>, with the most important detail first.</li><li><strong>Be specific</strong>: prices, timeframes, conditions, names.</li><li><strong>Make each answer self-contained</strong>, so it makes sense if quoted alone.</li><li><strong>Link to a deeper page</strong> when the topic needs more explanation.</li></ul>"
+    },
+    {
+      "heading": "FAQ structured data today",
+      "body_html": "<p>In August 2023 Google announced that FAQ rich results would only be shown for well-known, authoritative government and health websites, and would no longer be shown regularly for other sites. FAQPage structured data still describes the content in a machine-readable way and does no harm when it matches what is visible on the page, but most businesses should not expect expandable FAQ results in Google. The content itself is what matters for AI answers.</p>"
+    },
+    {
+      "heading": "Examples of weak and strong answers",
+      "body_html": "<p><strong>Weak:</strong> \"Pricing depends on many factors. Contact us to learn more.\"</p><p><strong>Strong:</strong> \"Most GEO audits cost between a few hundred and a few thousand dollars, depending on the number of pages and AI platforms reviewed. A focused audit for a small business usually takes one to two weeks. Book a call to get a fixed quote.\"</p><p>The strong answer is specific, useful and quotable, while still leading to contact.</p>"
+    },
+    {
+      "heading": "Common mistakes",
+      "body_html": "<ul><li>Questions nobody asks, written to fit keywords.</li><li>Answers that dodge the question or say \"contact us\".</li><li>Dozens of near-identical questions.</li><li>Outdated answers about prices or policies.</li><li>FAQ content hidden in a way crawlers cannot read, or schema that does not match the visible text.</li></ul>"
+    },
+    {
+      "heading": "Keep FAQs current",
+      "body_html": "<p>Assign an owner for each FAQ section and review it when prices, policies or services change. Add new questions as they appear in sales calls and Search Console. Outdated FAQ answers are particularly harmful because they are exactly the passages AI tools are likely to repeat.</p>"
+    },
+    {
+      "heading": "Measuring FAQ impact",
+      "body_html": "<p>Track impressions for question-style queries on pages with FAQs, the share of support or sales questions answered on the site, and whether AI tools quote your answers when asked those questions. Fewer repetitive pre-sales questions is also a useful sign.</p>"
+    },
+    {
+      "heading": "Where to start",
+      "body_html": "<p>Pick your three most important service pages. Collect ten real questions for each from sales and support, keep the best five to eight, write specific answers and add them to the pages. Then expand to other pages and a general FAQ.</p>"
+    },
+    {
+      "heading": "An example FAQ section for a service page",
+      "body_html": "<p>For a local GEO audit service, a useful FAQ might include: How long does the audit take? What do you need from us? Which AI platforms do you check? Will you fix the issues or just report them? How is this different from a regular SEO audit? Can we do the fixes ourselves? Each answer would be two to four sentences with specific details, and the last would link to booking. Every question comes from real prospect conversations, not from a keyword tool.</p>"
+    },
+    {
+      "heading": "FAQ formatting tips",
+      "body_html": "<p>Use the question as a visible heading or clearly marked question, followed immediately by the answer. Keep the text in the page's HTML rather than loading it only after a click through scripts that crawlers might not run. If you use expandable accordions for design, make sure the answer text is still present in the page source. Keep FAQ structured data, where used, identical to the visible questions and answers.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do FAQ pages help with AI search?",
+      "a": "Yes. Question-and-answer pairs match how people ask AI tools and give the AI short, self-contained passages it can use."
+    },
+    {
+      "q": "Should I still use FAQ schema?",
+      "a": "It still describes the content and does no harm when it matches the visible text, but Google now shows FAQ rich results mainly for authoritative government and health sites."
+    },
+    {
+      "q": "How long should an FAQ answer be?",
+      "a": "Two to four sentences is a good target, with the direct answer in the first sentence."
+    },
+    {
+      "q": "Where do I find questions for my FAQ?",
+      "a": "Sales and support conversations, Search Console queries, People Also Ask, autocomplete, reviews and community discussions."
+    },
+    {
+      "q": "Should every page have an FAQ section?",
+      "a": "Pages that answer significant questions usually benefit from a few related FAQs. Keep them specific to the page's topic."
+    },
+    {
+      "q": "Can FAQs hurt my site?",
+      "a": "Only if they are low quality: invented questions, evasive answers, near-duplicates or outdated information."
+    },
+    {
+      "q": "How many questions should an FAQ section have?",
+      "a": "Five to eight real, distinct questions is a good range for most pages."
+    },
+    {
+      "q": "Should FAQ answers include links?",
+      "a": "Yes, when a topic needs more explanation than a short answer can give. Link to the page that covers it in depth with descriptive anchor text."
+    },
+    {
+      "q": "Can I reuse the same FAQ on several pages?",
+      "a": "Avoid copying identical FAQ blocks across many pages. Tailor questions to each page's topic so every section adds something specific."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "how to write content for AI search",
+      "url": "https://thechimeraai.com/how-to-write-content-for-ai-search/"
+    },
+    {
+      "anchor": "schema markup for AI search",
+      "url": "https://thechimeraai.com/schema-markup-for-ai-search/"
+    },
+    {
+      "anchor": "how to update old content for AI search",
+      "url": "https://thechimeraai.com/how-to-update-old-content-for-ai-search/"
+    },
+    {
+      "anchor": "what query fan-out is",
+      "url": "https://thechimeraai.com/what-is-query-fan-out/"
+    },
+    {
+      "anchor": "Chimera's GEO services",
+      "url": "https://thechimeraai.com/#services"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Search Central: FAQ (FAQPage) structured data",
+      "url": "https://developers.google.com/search/docs/appearance/structured-data/faqpage"
+    },
+    {
+      "title": "Google Search Central blog: Changes to HowTo and FAQ rich results (Aug 2023)",
+      "url": "https://developers.google.com/search/blog/2023/08/howto-faq-changes"
+    },
+    {
+      "title": "Pew Research Center: Google users are less likely to click on links when an AI summary appears in the results (Jul 22, 2025)",
+      "url": "https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/"
+    },
+    {
+      "title": "Google Search Central: Creating helpful, reliable, people-first content",
+      "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 0,
+      "type": "bars",
+      "eyebrow": "Pew Research data",
+      "title": "Question searches trigger AI answers",
+      "lead": "Share of Google searches that produced an AI summary, March 2025.",
+      "unit": "%",
+      "engine": "google",
+      "chart_label": "Searches with an AI summary",
+      "items": [
+        {
+          "label": "Searches starting with who, what, when or why",
+          "value": 60
+        },
+        {
+          "label": "All searches in the study",
+          "value": 18
+        }
+      ],
+      "source": {
+        "title": "Pew Research Center, March 2025 browsing data from 900 U.S. adults",
+        "url": "https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/"
+      }
+    },
+    {
+      "after": 3,
+      "type": "scorecard",
+      "eyebrow": "Scorecard",
+      "title": "What makes an FAQ answer useful",
+      "lead": "How much each helps (5 = most).",
+      "rows": [
+        {
+          "label": "Direct answer in the first sentence",
+          "score": 5,
+          "note": "Easy to quote."
+        },
+        {
+          "label": "Specific details",
+          "score": 5,
+          "note": "Prices, timeframes, conditions."
+        },
+        {
+          "label": "Self-contained wording",
+          "score": 4,
+          "note": "Makes sense out of context."
+        },
+        {
+          "label": "Link to a deeper page",
+          "score": 3,
+          "note": "Helps readers go further."
+        },
+        {
+          "label": "\"Contact us to learn more\"",
+          "score": 1,
+          "note": "Answers nothing."
+        }
+      ]
+    },
+    {
+      "after": 4,
+      "type": "timeline",
+      "eyebrow": "Timeline",
+      "title": "FAQ rich results: what changed",
+      "lead": "Why most sites no longer see expandable FAQs.",
+      "items": [
+        {
+          "when": "Before Aug 2023",
+          "title": "Widely shown",
+          "text": "Many sites could show FAQ rich results."
+        },
+        {
+          "when": "Aug 2023",
+          "title": "Google change",
+          "text": "Limited to well-known, authoritative government and health sites."
+        },
+        {
+          "when": "Now",
+          "title": "Content still counts",
+          "text": "Clear Q&A helps readers and AI answers, rich result or not."
+        }
+      ]
+    }
+  ],
+  "hero_query": "Do FAQ pages help you show up in AI answers?",
+  "short_title": "FAQ Pages for AI Search: How to Write Them Well",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 301,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/faq-pages-for-ai-search-chimera.jpg",
+    "alt": "FAQ Pages for AI Search: How to Write Them Well: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-06",
+  "updated": "2026-11-10",
+  "photo": {
+    "id": 387,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/faq-pages-for-ai-search-photo.jpg",
+    "alt": "Support specialist with a headset answering customer questions",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
+}

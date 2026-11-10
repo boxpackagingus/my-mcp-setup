@@ -1,0 +1,278 @@
+{
+  "query": "how to calculate geo roi",
+  "slug": "geo-roi",
+  "eyebrow": "GEO planning",
+  "primary_keyword": "GEO ROI",
+  "secondary_keywords": [
+    "GEO return on investment",
+    "AI search ROI",
+    "measuring GEO value",
+    "GEO business case"
+  ],
+  "search_intent": "commercial",
+  "seo": {
+    "title": "How to Calculate GEO ROI: A Simple, Honest Method",
+    "meta_description": "How to calculate GEO ROI: what to count as cost and return, attributing AI-influenced leads, a worked example, timelines and mistakes that distort results."
+  },
+  "h1": "How to Calculate GEO ROI Without Fooling Yourself",
+  "answer": "To calculate GEO ROI, compare the revenue from leads influenced by AI search with the total cost of the GEO program over the same period: (revenue minus cost) divided by cost. Count leads from AI referrals, self-reported AI sources and the measurable lift in branded and organic leads, and give the program enough time to compound before judging it.",
+  "key_takeaways": [
+    "GEO ROI = (attributable revenue − program cost) ÷ program cost.",
+    "Count AI referrals, self-reported AI leads and branded lift.",
+    "Include all costs: fees, staff time, tools and content.",
+    "Use realistic timeframes; GEO compounds over months.",
+    "Be conservative; overstated ROI erodes trust."
+  ],
+  "sections": [
+    {
+      "heading": "The basic formula",
+      "body_html": "<p>Return on investment compares what you gained with what you spent: ROI = (attributable revenue − cost) ÷ cost. If a program costs $12,000 over six months and produces $36,000 in attributable gross profit, ROI is 200%. The hard parts are deciding what counts as attributable and choosing the right period.</p>"
+    },
+    {
+      "heading": "What to count as cost",
+      "body_html": "<ul><li>Agency or consultant fees.</li><li>Internal staff time spent on content, reviews and fixes.</li><li>Tools and subscriptions for tracking.</li><li>Content production: writing, design, video.</li><li>Any PR or outreach costs.</li></ul><p>Leaving out internal time makes ROI look better than it is.</p>"
+    },
+    {
+      "heading": "What to count as return",
+      "body_html": "<ol><li><strong>Leads from AI referrals</strong>: visits from chatgpt.com, perplexity.ai and similar sources that converted.</li><li><strong>Self-reported AI leads</strong>: customers who say an AI assistant recommended you.</li><li><strong>Branded and organic lift</strong>: the increase in branded and organic leads above the pre-program baseline, where GEO was the main change.</li></ol><p>Use revenue or, better, gross profit from closed deals, not lead counts alone.</p>"
+    },
+    {
+      "heading": "Why attribution is tricky",
+      "body_html": "<p>Many AI influences do not produce a click. Pew Research Center found that when a Google AI summary appeared, users clicked a link inside the summary in just 1% of visits. A buyer may hear your name in an AI answer, then search for you or come back directly days later. That is why self-reported source and branded lift matter, and why AI referral traffic alone understates the impact.</p>"
+    },
+    {
+      "heading": "A worked example",
+      "body_html": "<p>An agency client invests $2,000 a month in GEO for six months, plus about $500 a month of internal time: $15,000 in total. Over the period, 6 leads arrive directly from AI referrals and 5 more say an assistant recommended the business. Branded leads rise from a baseline of 10 to 14 a month in the last three months, an extra 12 leads attributed mainly to GEO, though some may have other causes. Of the 23 leads, 7 become customers worth an average of $4,000 in gross profit: $28,000. ROI is ($28,000 − $15,000) ÷ $15,000 ≈ 87%. Using only direct AI referrals would show far less, which is why the method needs to be stated clearly.</p>"
+    },
+    {
+      "heading": "Choose the right period",
+      "body_html": "<p>GEO compounds: pages keep being cited, reputation builds and costs often fall after the initial build. Judging ROI after one or two months usually understates it. Measure at six and twelve months, and consider lifetime value for customers who buy repeatedly.</p>"
+    },
+    {
+      "heading": "Set a baseline first",
+      "body_html": "<p>Before starting, record current numbers: leads by source, branded search volume, AI referral traffic and how often AI tools mention you. Without a baseline, any later improvement is guesswork.</p>"
+    },
+    {
+      "heading": "Mistakes that distort ROI",
+      "body_html": "<ul><li>Counting all organic leads as GEO, including those that existed before.</li><li>Ignoring internal costs.</li><li>Using lead counts instead of revenue or profit.</li><li>Measuring too early.</li><li>Changing several marketing channels at once and crediting GEO for everything.</li></ul>"
+    },
+    {
+      "heading": "Leading indicators before revenue",
+      "body_html": "<p>Revenue lags. While waiting, track leading indicators: AI share of voice for your key questions, AI referral sessions, Search Console impressions for question queries and branded search. These show whether the program is moving in the right direction before deals close.</p>"
+    },
+    {
+      "heading": "Reporting ROI honestly",
+      "body_html": "<p>State the method, show the range from conservative (direct AI referrals only) to fuller (including self-reported and branded lift), and explain assumptions. A credible, conservative ROI figure builds more confidence with decision-makers than an impressive number that falls apart under questions.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Count every cost, count only the returns you can reasonably attribute, use profit rather than leads, give the program time, and present a conservative range with the method shown.</p>"
+    },
+    {
+      "heading": "Calculating cost per lead alongside ROI",
+      "body_html": "<p>ROI depends on closed revenue, which can take months in long sales cycles. Cost per attributable lead is an earlier comparison: total GEO cost divided by attributable leads in the period. In the worked example above, $15,000 divided by 23 leads is about $650 per lead. Compare that with cost per lead from paid search or other channels to see whether GEO is efficient while you wait for revenue data.</p>"
+    },
+    {
+      "heading": "When GEO ROI is likely to be strong",
+      "body_html": "<p>GEO tends to pay off best for businesses with high customer value, buyers who research before choosing, expensive paid search clicks, and expertise worth showing. It is weaker for very low-value, impulse purchases, or for businesses whose customers never research online. Knowing which group you belong to helps set realistic expectations before you start.</p>"
+    },
+    {
+      "heading": "Presenting ROI to decision-makers",
+      "body_html": "<p>Show three numbers: conservative ROI using only direct AI referrals, expected ROI including self-reported AI leads, and full ROI including branded lift, each with its method. Add the leading indicators trend and the next quarter's plan. Decision-makers trust a clear range with honest assumptions far more than a single headline number.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I calculate GEO ROI?",
+      "a": "Subtract the program's total cost from the revenue or gross profit you can attribute to it, then divide by the cost."
+    },
+    {
+      "q": "What counts as a GEO lead?",
+      "a": "Leads from AI referrals, leads who say an AI assistant recommended you, and the measurable lift in branded and organic leads above your baseline."
+    },
+    {
+      "q": "Why is GEO ROI hard to measure?",
+      "a": "Many AI influences do not produce a click, so buyers may arrive later through branded or direct visits."
+    },
+    {
+      "q": "How long before GEO ROI is clear?",
+      "a": "Measure at six and twelve months. Early months often understate ROI because results compound."
+    },
+    {
+      "q": "Should I use revenue or profit?",
+      "a": "Gross profit is more accurate, because it reflects what the business actually gains."
+    },
+    {
+      "q": "What is a good GEO ROI?",
+      "a": "It depends on your margins and alternatives. Compare it with the ROI of other channels such as paid search."
+    },
+    {
+      "q": "How do I set a baseline for GEO?",
+      "a": "Record leads by source, branded search, AI referrals and AI mentions before the program starts."
+    },
+    {
+      "q": "What are leading indicators of GEO ROI?",
+      "a": "AI share of voice, AI referral sessions, question-query impressions and branded search volume."
+    },
+    {
+      "q": "Can GEO ROI be negative?",
+      "a": "Yes, especially in the first months or if the program targets questions buyers do not ask. That is why baselines, leading indicators and regular reviews matter."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "how much GEO costs",
+      "url": "https://thechimeraai.com/how-much-does-geo-cost/"
+    },
+    {
+      "anchor": "GEO vs PPC",
+      "url": "https://thechimeraai.com/geo-vs-ppc/"
+    },
+    {
+      "anchor": "how to measure GEO results",
+      "url": "https://thechimeraai.com/how-to-measure-geo-results/"
+    },
+    {
+      "anchor": "is GEO worth it for sales",
+      "url": "https://thechimeraai.com/is-geo-bring-sales/"
+    },
+    {
+      "anchor": "Chimera's GEO services",
+      "url": "https://thechimeraai.com/#services"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Pew Research Center: Google users are less likely to click on links when an AI summary appears in the results (Jul 22, 2025)",
+      "url": "https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/"
+    },
+    {
+      "title": "Google Analytics Help Center",
+      "url": "https://support.google.com/analytics"
+    },
+    {
+      "title": "Google Search Central: AI features and your website",
+      "url": "https://developers.google.com/search/docs/appearance/ai-features"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 0,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "The GEO ROI calculation",
+      "lead": "Four steps, stated openly.",
+      "steps": [
+        {
+          "title": "Baseline",
+          "text": "Record leads, branded search and AI mentions first."
+        },
+        {
+          "title": "Cost",
+          "text": "Fees, staff time, tools and content."
+        },
+        {
+          "title": "Return",
+          "text": "AI referrals, self-reported AI leads, branded lift."
+        },
+        {
+          "title": "ROI",
+          "text": "(Return − cost) ÷ cost, as a conservative range."
+        }
+      ]
+    },
+    {
+      "after": 3,
+      "type": "bars",
+      "eyebrow": "Pew Research data",
+      "title": "What people click when an AI summary appears",
+      "lead": "Share of Google search visits that ended in each action, March 2025.",
+      "unit": "%",
+      "engine": "google",
+      "chart_label": "Google Search visits",
+      "items": [
+        {
+          "label": "Clicked a result, no AI summary on the page",
+          "value": 15
+        },
+        {
+          "label": "Clicked a result, AI summary on the page",
+          "value": 8
+        },
+        {
+          "label": "Clicked a link inside the AI summary",
+          "value": 1
+        }
+      ],
+      "source": {
+        "title": "Pew Research Center, March 2025 browsing data from 900 U.S. adults",
+        "url": "https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/"
+      }
+    },
+    {
+      "after": 7,
+      "type": "scorecard",
+      "eyebrow": "Scorecard",
+      "title": "What makes ROI figures credible",
+      "lead": "How much each practice helps (5 = most).",
+      "rows": [
+        {
+          "label": "Pre-program baseline",
+          "score": 5,
+          "note": "Makes improvement measurable."
+        },
+        {
+          "label": "All costs included",
+          "score": 5,
+          "note": "Avoids flattering numbers."
+        },
+        {
+          "label": "Profit, not lead counts",
+          "score": 4,
+          "note": "Reflects real value."
+        },
+        {
+          "label": "Conservative range shown",
+          "score": 4,
+          "note": "Builds trust."
+        },
+        {
+          "label": "Crediting all organic leads",
+          "score": 1,
+          "note": "Overstates impact."
+        }
+      ]
+    }
+  ],
+  "hero_query": "How do I know if GEO is worth the money?",
+  "short_title": "How to Calculate GEO ROI: A Simple, Honest Method",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 341,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/geo-roi-chimera.jpg",
+    "alt": "How to Calculate GEO ROI: A Simple, Honest Method: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-06",
+  "updated": "2026-11-10",
+  "photo": {
+    "id": 406,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/geo-roi-photo.jpg",
+    "alt": "Calculator and growing stacks of coins beside a small plant",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
+}
