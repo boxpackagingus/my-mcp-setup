@@ -70,8 +70,14 @@ add_action('rest_api_init', function () {
             return current_user_can('edit_pages');
         },
         'callback'            => function () {
+            // Elementor keeps its own copies of rendered templates and CSS; clear them first.
+            $elementor = false;
+            if (class_exists('\\Elementor\\Plugin') && isset(\Elementor\Plugin::$instance->files_manager)) {
+                \Elementor\Plugin::$instance->files_manager->clear_cache();
+                $elementor = true;
+            }
             do_action('litespeed_purge_all');
-            return ['purged' => true, 'litespeed_active' => defined('LSCWP_V')];
+            return ['purged' => true, 'litespeed_active' => defined('LSCWP_V'), 'elementor_cleared' => $elementor];
         },
     ]);
 });
