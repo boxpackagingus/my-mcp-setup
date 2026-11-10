@@ -93,6 +93,11 @@ def _wrap_tables(body):
     return body.replace("<table>", '<div class="cpb-tablewrap"><table>').replace("</table>", "</table></div>")
 
 
+def _shown(v):
+    """Blog posts leave out scorecards and local-data charts (guides still show them)."""
+    return v.get("type") != "scorecard" and (v.get("eyebrow") or "").lower() != "local data"
+
+
 def render(spec, cfg):
     from . import page, visuals
 
@@ -129,12 +134,7 @@ def render(spec, cfg):
                     + "".join(f"<li>{_e(t)}</li>" for t in spec["key_takeaways"]) + "</ul></div>")
     for i, s in enumerate(spec["sections"]):
         body.append(f'<h2 id="{page._anchor(s["heading"])}">{_e(s["heading"])}</h2>{_wrap_tables(s["body_html"])}')
-        photo = spec.get("photo")
-        if photo and i == 0:
-            body.append(f'<figure class="cpb-figure"><img src="{_e(photo["url"])}" alt="{_e(photo["alt"])}" '
-                        f'width="{int(photo.get("width", 1376))}" height="{int(photo.get("height", 768))}" loading="lazy" decoding="async">'
-                        f'<figcaption>{_e(photo.get("caption", ""))}</figcaption></figure>')
-        for v in [v for v in spec.get("visuals", []) if v.get("after") == i]:
+        for v in [v for v in spec.get("visuals", []) if v.get("after") == i and _shown(v)]:
             body.append(f'<div class="cp">{visuals.render(v, "light")}</div>')
 
     body.append(f'<h2 id="local">Local help in {_e(town)} and {_e(region)}</h2>'
@@ -145,10 +145,6 @@ def render(spec, cfg):
     body.append("".join(f'<details class="cpb-faq"><summary>{_e(f["q"])}</summary><div><p>{_e(f["a"])}</p></div></details>'
                         for f in spec["faqs"]))
 
-    if spec.get("sources"):
-        body.append('<div class="cpb-sources"><p>Sources</p><ul>' + "".join(
-            f'<li><a href="{_e(s["url"])}" rel="nofollow noopener" target="_blank">{_e(s["title"])}</a></li>'
-            for s in spec["sources"]) + f'</ul><p style="font-weight:400">Last updated: {_e(_date(spec.get("updated") or pub))}</p></div>')
     body.append("</article>")
     out.append('<div class="cpb-wrap">' + "".join(body) + "</div>")
 

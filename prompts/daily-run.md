@@ -122,10 +122,11 @@ date, topic and summary, newest first). Build files live in `content/build/blog_
    a topic already covered by a guide or a post: check `content/published/`.
 2. **Write each post** with the same quality rules as guides: 1,200+ words (write 12+ sections and 8+ FAQs), a
    25-80 word answer that contains the keyword and Anaheim or Orange County, at least one table in the body, and
-   2-3 visuals (bars or line chart with real numbers, stats tiles, flow, timeline or scorecard). Every number is
-   checked at its source with curl and listed in `sources`. Keep SEO titles at 30-60 characters and meta
+   2-3 visuals (bars or line chart with real numbers, stats tiles, flow or timeline). Blog posts do not show
+   scorecards, "Local data" charts or a Sources list (the template hides them), so don't add them. Every number
+   is still checked at its source with curl and recorded in `sources` in the spec, even though it is not shown. Keep SEO titles at 30-60 characters and meta
    descriptions at 120-160.
-3. **Images (two Figma photos per post).**
+3. **Images (one Figma banner photo per post).**
    - **Banner photo**: Figma `generate_image` (file `Xz8xqIbMRL3u73rhaSJwXj`, model `gemini-3.1-flash-lite-image`,
      1600x760) with the subject on the right third and calm, dark empty space on the left half for the headline,
      no text or logos. Check it, blur any logo, and save it as `content/build/banner_photos/<slug>.jpg`.
@@ -133,9 +134,7 @@ date, topic and summary, newest first). Build files live in `content/build/blog_
      subtitle, CHIMERA mark, "Anaheim, Orange County, CA"), taken from the SEO title split at the colon, or from
      `"banner": {"headline": ..., "sub": ...}` in the spec. It becomes the featured image, the /blog/ card image
      and the Related Articles image.
-   - **In-post photo**: a second Figma photo (1536x864, no logos or readable text), uploaded and set as `photo`
-     on the draft with caption "Illustrative image created for Chimera with Figma AI". Record it in
-     `content/build/photos.json`.
+   - **No in-post photo.** Blog posts show only the banner image; do not set `photo` on blog drafts.
    - Blog posts use the editorial layout in `engine/blogpage.py` (dark title band, banner, reading column, grey
      FAQ accordions, previous post, Related Articles, form band); `/blog/` uses the card grid in `engine/blog.py`.
 4. **Quality gate and publish.** `python -m engine quality content/drafts/*.json`, fix any failures, then
