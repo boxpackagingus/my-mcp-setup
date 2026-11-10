@@ -92,11 +92,51 @@ python -m engine dashboard
    - progress on the 50-page plan (mark published topics in `data/topic_plan.json` with `"status": "published"` and the date)
 2. Commit everything with the message `Daily run YYYY-MM-DD` and push to `main`.
 3. Refresh the dashboard at https://claude.ai/artifact/Dd9pgZazE6LyFGzXSp8seV:
-   - Run `python -m engine export`. It writes nine files in `dashboard/export/`: `totals`, `pages`, `keywords`, `daily`, `upcoming`, `site_files`, `page_checks`, `indexing` and `runs`. Each one matches the `datasets/<name>` document with the same name.
+   - Run `python -m engine export`. It writes ten files in `dashboard/export/`: `totals`, `pages`, `blogs`, `keywords`, `daily`, `upcoming`, `site_files`, `page_checks`, `indexing` and `runs`. Each one matches the `datasets/<name>` document with the same name.
    - Upload each file as an asset to that artifact, one call per file (Artifact tool, `asset: true`).
    - For each upload, `update` the matching `datasets/<name>` document with `source.url` set to the new `/_blob/...` URL, `updated: {at: <now UTC>, by: "Chimera engine"}` and `edit: {via: "claude", at: <now UTC>}`. Use ArtifactData, and pin each write with `if_version` from a fresh read.
    - Then delete the old assets.
    - Don't change `files/index.html` unless the page itself needs to change.
+
+## Location lock (every page and every blog post)
+
+Chimera is in **Anaheim, California**, serving **Orange County, California**. Every page and post must name both.
+The template already adds them (hero eyebrow, a "Local help in Anaheim and Orange County, California" section,
+Organization address and areaServed in the schema, and the Markdown copy), from `site.location` and `site.region`
+in `config/site.json`. In the writing itself, also mention Anaheim and Orange County in the short answer and where
+they fit naturally. Never invent local facts: use only figures checked at a source (for example the 2020 census
+figures on the Anaheim and Orange County Wikipedia articles).
+
+## Daily blog: 5 posts a day at /blog/
+
+Blog posts are WordPress pages under the `/blog/` parent page. A spec with `"kind": "blog"` is published there,
+gets the Blog breadcrumb and BlogPosting schema, and triggers a rebuild of the `/blog/` index (cards with banner,
+date, topic and summary, newest first). Build files live in `content/build/blog_YYYY_MM_DD.py`; copy the
+`blog(slot, category, ...)` helper and pattern from `content/build/blog_2026_11_10.py`.
+
+1. **Pick the 5 best titles of the day.** Sources, in this order: the latest posts on the Google Search blog RSS
+   (`https://blog.google/products-and-platforms/products/search/rss/`) and Google Search Central, new AI search
+   news you can verify at the source, high-impression questions in Search Console that no page answers yet,
+   and seasonal or local angles for Anaheim and Orange County (tourism, hotels, restaurants, retail, home services,
+   healthcare, legal). Each title must give an Anaheim or Orange County business a reason to read. Do not repeat
+   a topic already covered by a guide or a post: check `content/published/`.
+2. **Write each post** with the same quality rules as guides: 1,200+ words (write 12+ sections and 8+ FAQs), a
+   25-80 word answer that contains the keyword and Anaheim or Orange County, at least one table in the body, and
+   2-3 visuals (bars or line chart with real numbers, stats tiles, flow, timeline or scorecard). Every number is
+   checked at its source with curl and listed in `sources`. Keep SEO titles at 30-60 characters and meta
+   descriptions at 120-160.
+3. **Images.** `python -m engine heroes` renders the banner (it becomes the featured image and the card image on
+   /blog/). Then make one photo per post with Figma `generate_image` (file `Xz8xqIbMRL3u73rhaSJwXj`,
+   model `gemini-3.1-flash-lite-image`, 1536x864, no logos or readable text), check it, upload it and set
+   `photo` on the draft, caption "Illustrative image created for Chimera with Figma AI". Record it in
+   `content/build/photos.json`.
+4. **Quality gate and publish.** `python -m engine quality content/drafts/*.json`, fix any failures, then
+   `python -m engine publish --max 5`. Publishing purges the cache, rebuilds `/blog/`, and sends the new posts,
+   `/blog/` and the homepage to IndexNow. Google has no request-indexing API: new posts reach Google through the
+   sitemap, which updates automatically.
+5. **Verify** each post and `/blog/` load, show Anaheim, and appear in `wp-sitemap-posts-page-1.xml`.
+6. **Dashboard.** Run the quick dashboard refresh below; the Blog section reads the `blogs` and `totals` datasets.
+7. Add the 5 posts to `data/last-run.md` and commit with the message `Daily blog YYYY-MM-DD`.
 
 ## Quick dashboard refresh (every 3 hours)
 

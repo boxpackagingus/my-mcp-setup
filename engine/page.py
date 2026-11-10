@@ -72,6 +72,33 @@ def _tone(i):
     return "paper" if i % 2 else "light"
 
 
+def is_blog(spec):
+    return spec.get("kind") == "blog"
+
+
+def page_url(spec, cfg):
+    base = cfg["site"]["base_url"].rstrip("/")
+    if is_blog(spec):
+        return f'{base}/{cfg["publishing"].get("blog_page_slug", "blog")}/{spec["slug"]}/'
+    return f'{base}/{spec["slug"]}/'
+
+
+def place(cfg):
+    """The locked location, used on every page."""
+    s = cfg["site"]
+    return f'{s.get("location", "Anaheim, California")}', f'{s.get("region", "Orange County, California")}'
+
+
+def local_paragraph(spec, cfg):
+    city, region = place(cfg)
+    brand = cfg["site"]["brand"]
+    topic = spec.get("primary_keyword") or spec["h1"]
+    return (f"{brand} is a generative engine optimization agency based in {city}, serving businesses across "
+            f"{region}. If you want help with {topic} for a business in {city} or anywhere in {region}, "
+            f"our team can review how ChatGPT, Google AI Overviews, Gemini and Perplexity describe you today "
+            f"and show you what to fix first.")
+
+
 def render_html(spec, cfg):
     """Page body for WordPress. No <script> or <style>: the plugin supplies the design and the form."""
     from . import design, visuals
@@ -82,9 +109,13 @@ def render_html(spec, cfg):
     parts = ['<div class="cp">']
 
     # Breadcrumb: links every page back to the homepage and the guides hub.
+    blog = is_blog(spec)
+    city, region = place(cfg)
+    mid = (f'<a href="{base}/{cfg["publishing"].get("blog_page_slug", "blog")}/">Blog</a>' if blog
+           else f'<a href="{base}/{hub}/">GEO Insights</a>')
     parts.append(
         f'<nav class="cp-crumbs" aria-label="Breadcrumb"><a href="{base}/">Home</a><span aria-hidden="true">/</span>'
-        f'<a href="{base}/{hub}/">GEO Insights</a><span aria-hidden="true">/</span>'
+        f'{mid}<span aria-hidden="true">/</span>'
         f'<span aria-current="page">{_e(spec.get("eyebrow") or spec["h1"])}</span></nav>'
     )
 
@@ -100,14 +131,17 @@ def render_html(spec, cfg):
     updated = f"{d.strftime('%b')} {d.day}, {d.year}"
     parts.append(
         '<section class="cp-hero"><div class="cp-hero-grid"><div>'
-        f'<p class="cp-eyebrow">{_e(spec.get("eyebrow") or "GEO guide")}</p>'
+        f'<p class="cp-eyebrow">{_e(spec.get("eyebrow") or "GEO guide")} · {_e(city.split(",")[0])}, {_e(region)}</p>'
         f'<p class="cp-answer"><strong>Short answer:</strong> {_e(spec["answer"])}</p>'
         '<div class="cp-actions"><a class="cp-btn cp-btn--primary" href="#get-started">Get your free AI visibility audit</a>'
         '<a class="cp-btn cp-btn--ghost" href="#faq">Read the FAQs</a></div></div>'
         '<dl class="cp-glance">'
         f'<div><dt>Reading time</dt><dd>{minutes} min</dd></div>'
-        f'<div><dt>Sections</dt><dd>{len(spec["sections"])}</dd></div>'
-        f'<div><dt>FAQs answered</dt><dd>{len(spec["faqs"])}</dd></div>'
+        + (f'<div><dt>Published</dt><dd>{_e(updated)}</dd></div>'
+           f'<div><dt>Written by</dt><dd>{_e(site["brand"])} team</dd></div>' if blog else
+           f'<div><dt>Sections</dt><dd>{len(spec["sections"])}</dd></div>'
+           f'<div><dt>FAQs answered</dt><dd>{len(spec["faqs"])}</dd></div>')
+        + f'<div><dt>Location</dt><dd>{_e(city.split(",")[0])}, CA</dd></div>'
         f'<div><dt>Updated</dt><dd>{_e(updated)}</dd></div>'
         f'</dl></div>{trust}</section>'
     )
@@ -165,6 +199,14 @@ def render_html(spec, cfg):
         f'<div class="cp-faq-list">{faq}</div></section>'
     )
 
+    parts.append(
+        f'<section class="cp-sec cp-tone--light cp-local" id="local"><div class="cp-sec-head"><div>'
+        f'<p class="cp-eyebrow">{_e(city)} · {_e(region)}</p>'
+        f'<h2>Local help in {_e(city.split(",")[0])} and {_e(region)}</h2></div>'
+        f'<p class="cp-sec-lead">{_e(local_paragraph(spec, cfg))} '
+        f'<a href="#get-started-bottom">Book a free AI visibility audit</a>.</p></div></section>'
+    )
+
     if spec.get("internal_links"):
         cards = []
         for l in spec["internal_links"]:
@@ -181,7 +223,7 @@ def render_html(spec, cfg):
         f'<li><a class="cp-explore-card" href="{base}{url}"><strong>{_e(title)}</strong><span>{_e(text)}</span>'
         f'<span class="cp-arrow" aria-hidden="true">→</span></a></li>' for title, text, url in EXPLORE)
     parts.append(
-        f'<section class="cp-explore"><div class="cp-sec-head"><div><p class="cp-eyebrow">{_e(site["brand"])} · {_e(site.get("location", ""))}</p>'
+        f'<section class="cp-explore"><div class="cp-sec-head"><div><p class="cp-eyebrow">{_e(site["brand"])} · {_e(city)} · {_e(region)}</p>'
         f'<h2>Get recommended by AI, not just ranked</h2></div>'
         f'<p class="cp-sec-lead">{_e(site["one_liner"])} <a href="{base}/">Visit the {_e(site["brand"])} homepage</a>.</p></div>'
         f'<ul class="cp-exploregrid">{explore}</ul></section>'
@@ -204,12 +246,18 @@ def render_html(spec, cfg):
 
 def render_schema(spec, cfg):
     site = cfg["site"]
-    url = f'{site["base_url"]}/{spec["slug"]}/'
+    url = page_url(spec, cfg)
     today = spec.get("updated") or date.today().isoformat()
-    org = {"@type": "Organization", "name": site["brand"], "url": site["base_url"]}
+    city, region = place(cfg)
+    addr = site.get("address", {})
+    org = {"@type": "Organization", "name": site["brand"], "url": site["base_url"],
+           "address": {"@type": "PostalAddress", "addressLocality": addr.get("locality", "Anaheim"),
+                       "addressRegion": addr.get("region", "CA"), "addressCountry": addr.get("country", "US")},
+           "areaServed": [{"@type": "City", "name": city}, {"@type": "AdministrativeArea", "name": region}]}
     graph = [
         {
-            "@type": "Article",
+            "@type": "BlogPosting" if is_blog(spec) else "Article",
+            "spatialCoverage": {"@type": "Place", "name": f"{city}, {region}"},
             "@id": f"{url}#article",
             "headline": spec["h1"][:110],
             "description": spec["seo"]["meta_description"],
@@ -233,8 +281,10 @@ def render_schema(spec, cfg):
             "@type": "BreadcrumbList",
             "itemListElement": [
                 {"@type": "ListItem", "position": 1, "name": "Home", "item": site["base_url"] + "/"},
-                {"@type": "ListItem", "position": 2, "name": "GEO Insights",
-                 "item": f'{site["base_url"]}/{cfg["publishing"].get("hub_page_slug", "insights")}/'},
+                ({"@type": "ListItem", "position": 2, "name": "Blog",
+                  "item": f'{site["base_url"]}/{cfg["publishing"].get("blog_page_slug", "blog")}/'} if is_blog(spec) else
+                 {"@type": "ListItem", "position": 2, "name": "GEO Insights",
+                  "item": f'{site["base_url"]}/{cfg["publishing"].get("hub_page_slug", "insights")}/'}),
                 {"@type": "ListItem", "position": 3, "name": spec["h1"], "item": url},
             ],
         },
@@ -260,7 +310,7 @@ def html_to_markdown(fragment):
 
 def render_markdown(spec, cfg):
     site = cfg["site"]
-    url = f'{site["base_url"]}/{spec["slug"]}/'
+    url = page_url(spec, cfg)
     out = [f"# {spec['h1']}", "", f"> {spec['answer']}", "", f"Source: {url}", ""]
     if spec.get("key_takeaways"):
         out += ["## Key takeaways", ""] + [f"- {t}" for t in spec["key_takeaways"]] + [""]
@@ -281,6 +331,8 @@ def render_markdown(spec, cfg):
     out += ["## Frequently asked questions", ""]
     for f in spec["faqs"]:
         out += [f"### {f['q']}", "", f["a"], ""]
+    city, region = place(cfg)
+    out += [f"## Local help in {city.split(',')[0]} and {region}", "", local_paragraph(spec, cfg), ""]
     out += [f"---", f"{site['brand']} — {cfg['lead']['offer']}: {site['base_url']}/"]
     return "\n".join(out)
 

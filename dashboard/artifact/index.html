@@ -56,7 +56,7 @@
   <header class="cg-head">
     <h1>Chimera Growth Dashboard</h1>
     <p class="cg-lede">So far the engine has built <b data-draw="lede-pages" data-source="totals" data-field="pages_live" data-row="0">—</b> pages on thechimeraai.com, targeting <b data-draw="lede-keywords" data-source="totals" data-field="keywords_used" data-row="0">—</b> keywords.</p>
-    <p class="cg-muted">Updated <span data-draw="updated" data-source="totals" data-field="updated" data-row="0">—</span> · the engine refreshes this page every morning.</p>
+    <p class="cg-muted">Updated <span data-draw="updated" data-source="totals" data-field="updated" data-row="0">—</span> · refreshed every 3 hours · location locked to <span data-draw="location" data-source="totals" data-field="location" data-row="0">—</span></p>
   </header>
 
   <div class="cg-notice" data-google-notice hidden>
@@ -65,6 +65,7 @@
 
   <nav class="cg-nav" aria-label="Jump to section">
     <button type="button" data-go="built">Overview</button>
+    <button type="button" data-go="blog">Blog</button>
     <button type="button" data-go="live">New pages live</button>
     <button type="button" data-go="indexed">Indexed pages</button>
     <button type="button" data-go="files">Site files</button>
@@ -139,6 +140,55 @@
         <p class="cg-value dash-skeleton" data-draw="tile" data-source="totals" data-field="leads" data-row="0">—</p>
         <p class="cg-help">Audit requests sent through your forms</p>
       </div>
+    </div>
+  </section>
+
+  <section class="cg-section" id="blog">
+    <header>
+      <h2>Blog</h2>
+      <p class="cg-muted">Daily posts at thechimeraai.com/blog/, each with a banner, photo, charts, tables and sources, pushed for indexing the day they go live</p>
+    </header>
+    <div class="cg-tiles">
+      <div class="cg-tile">
+        <p class="cg-label">Blog posts live</p>
+        <p class="cg-value dash-skeleton" data-draw="tile" data-source="totals" data-field="blogs_live" data-row="0">—</p>
+        <p class="cg-help">All posts under /blog/</p>
+      </div>
+      <div class="cg-tile">
+        <p class="cg-label">Published today</p>
+        <p class="cg-value"><span data-draw="tile" data-source="totals" data-field="blogs_today" data-row="0">—</span> <small>of <span data-draw="tile" data-source="totals" data-field="blogs_per_day" data-row="0">—</span></small></p>
+        <p class="cg-help">Daily target</p>
+      </div>
+      <div class="cg-tile">
+        <p class="cg-label">Posts in Google</p>
+        <p class="cg-value dash-skeleton" data-draw="tile" data-source="totals" data-field="blogs_indexed" data-row="0">—</p>
+        <p class="cg-help">Posts showing up in Google search results</p>
+      </div>
+      <div class="cg-tile">
+        <p class="cg-label">Guides live</p>
+        <p class="cg-value dash-skeleton" data-draw="tile" data-source="totals" data-field="guides_live" data-row="0">—</p>
+        <p class="cg-help">Landing pages, not counting blog posts</p>
+      </div>
+    </div>
+    <div class="cg-card">
+      <div class="cg-table-wrap">
+        <table data-source="blogs" data-row-key="slug">
+          <thead>
+            <tr>
+              <th data-field="title">Post</th>
+              <th data-field="category" class="cg-hide-narrow">Topic</th>
+              <th data-field="published">Published</th>
+              <th data-field="indexed">In Google?</th>
+              <th data-field="indexnow" class="cg-hide-narrow">Bing (IndexNow)</th>
+              <th data-field="impressions" class="cg-num">Impressions</th>
+              <th data-field="clicks" class="cg-num">Clicks</th>
+              <th data-field="visits" class="cg-num cg-hide-narrow">Visits</th>
+            </tr>
+          </thead>
+          <tbody data-draw="blogs-body"></tbody>
+        </table>
+      </div>
+      <p class="cg-muted">Google has no "request indexing" API, so each new post goes into the sitemap and IndexNow (Bing, which feeds ChatGPT search and Copilot) the moment it's live, and Google picks it up from there.</p>
     </div>
   </section>
 
@@ -341,6 +391,10 @@
     el.textContent = num(t.data[0][el.dataset.field]);
   };
   ['tile', 'lede-pages', 'lede-keywords'].forEach((name) => dash.draw(name, drawNumber));
+  dash.draw('location', (el) => {
+    const t = dash.data('totals');
+    el.textContent = t.status === 'ok' && t.data[0] && t.data[0].location ? t.data[0].location : '—';
+  });
   dash.draw('updated', (el) => {
     const t = dash.data('totals');
     el.textContent = t.status === 'ok' && t.data[0] ? day(t.data[0].updated) : '—';
@@ -517,6 +571,30 @@
       cell(tr, num(r.clicks), 'cg-num');
       cell(tr, num(r.visits), 'cg-num cg-hide-narrow');
       cell(tr, num(r.leads), 'cg-num');
+      tb.append(tr);
+    });
+  });
+
+  dash.draw('blogs-body', (tb) => {
+    const d = dash.data('blogs');
+    tb.replaceChildren();
+    if (d.status === 'error') return failRow(tb, 8);
+    if (d.status !== 'ok') return;
+    if (!d.data.length) return emptyRow(tb, 8, 'No blog posts yet.');
+    d.data.forEach((r) => {
+      const tr = document.createElement('tr'); tr.dataset.key = r.slug;
+      const td = document.createElement('td');
+      const a = document.createElement('a'); a.href = r.url; a.target = '_blank'; a.rel = 'noopener'; a.textContent = r.title;
+      td.append(a); tr.append(td);
+      cell(tr, r.category || '—', 'cg-hide-narrow');
+      cell(tr, day(r.published));
+      const st = document.createElement('td'); const pill = document.createElement('span');
+      pill.className = 'cg-pill'; pill.dataset.state = STATE[r.indexed] || 'none'; pill.textContent = r.indexed; st.append(pill); tr.append(st);
+      const bn = document.createElement('td'); bn.className = 'cg-hide-narrow'; const bp = document.createElement('span');
+      bp.className = 'cg-pill'; bp.dataset.state = /^Sent/.test(r.indexnow) ? 'ok' : 'none'; bp.textContent = r.indexnow; bn.append(bp); tr.append(bn);
+      cell(tr, num(r.impressions), 'cg-num');
+      cell(tr, num(r.clicks), 'cg-num');
+      cell(tr, num(r.visits), 'cg-num cg-hide-narrow');
       tb.append(tr);
     });
   });

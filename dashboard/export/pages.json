@@ -1,6 +1,82 @@
 [
   {
+    "slug": "30-day-ai-search-plan-orange-county",
+    "kind": "Blog",
+    "title": "A 30-Day AI Search Plan for Orange County Small Businesses",
+    "url": "https://thechimeraai.com/blog/30-day-ai-search-plan-orange-county/",
+    "keyword": "AI search plan",
+    "published": "2026-11-10",
+    "words": 1379,
+    "indexed": "Not yet",
+    "impressions": 0,
+    "clicks": 0,
+    "visits": 0,
+    "ai_visits": 0,
+    "leads": 0
+  },
+  {
+    "slug": "google-ai-mode-hotel-booking-anaheim",
+    "kind": "Blog",
+    "title": "Google AI Mode Hotel Booking: What It Means for Anaheim Hotels",
+    "url": "https://thechimeraai.com/blog/google-ai-mode-hotel-booking-anaheim/",
+    "keyword": "AI Mode hotel booking",
+    "published": "2026-11-10",
+    "words": 1536,
+    "indexed": "Not yet",
+    "impressions": 0,
+    "clicks": 0,
+    "visits": 0,
+    "ai_visits": 0,
+    "leads": 0
+  },
+  {
+    "slug": "google-ai-mode-inline-links-update",
+    "kind": "Blog",
+    "title": "Google's New AI Mode Inline Links: What Orange County Businesses Should Know",
+    "url": "https://thechimeraai.com/blog/google-ai-mode-inline-links-update/",
+    "keyword": "AI Mode inline links",
+    "published": "2026-11-10",
+    "words": 1383,
+    "indexed": "Not yet",
+    "impressions": 0,
+    "clicks": 0,
+    "visits": 0,
+    "ai_visits": 0,
+    "leads": 0
+  },
+  {
+    "slug": "google-universal-cart-orange-county-retailers",
+    "kind": "Blog",
+    "title": "Google Universal Cart: What Orange County Retailers Need to Know",
+    "url": "https://thechimeraai.com/blog/google-universal-cart-orange-county-retailers/",
+    "keyword": "Google Universal Cart",
+    "published": "2026-11-10",
+    "words": 1214,
+    "indexed": "Not yet",
+    "impressions": 0,
+    "clicks": 0,
+    "visits": 0,
+    "ai_visits": 0,
+    "leads": 0
+  },
+  {
+    "slug": "holiday-travel-search-trends-anaheim-2026",
+    "kind": "Blog",
+    "title": "2026 Holiday Travel Search Trends: What Anaheim Businesses Can Learn",
+    "url": "https://thechimeraai.com/blog/holiday-travel-search-trends-anaheim-2026/",
+    "keyword": "holiday travel search trends",
+    "published": "2026-11-10",
+    "words": 1244,
+    "indexed": "Not yet",
+    "impressions": 0,
+    "clicks": 0,
+    "visits": 0,
+    "ai_visits": 0,
+    "leads": 0
+  },
+  {
     "slug": "ai-crawler-user-agents",
+    "kind": "Guide",
     "title": "AI Crawler User Agents: Which Bots to Allow and Which to Block",
     "url": "https://thechimeraai.com/ai-crawler-user-agents/",
     "keyword": "AI crawler user agents",
@@ -15,6 +91,7 @@
   },
   {
     "slug": "ai-search-for-b2b-lead-generation",
+    "kind": "Guide",
     "title": "AI Search for B2B Lead Generation: How to Get Shortlisted Before the First Call",
     "url": "https://thechimeraai.com/ai-search-for-b2b-lead-generation/",
     "keyword": "AI search for B2B lead generation",
@@ -29,6 +106,7 @@
   },
   {
     "slug": "ai-search-optimization-checklist",
+    "kind": "Guide",
     "title": "AI Search Optimization Checklist: Everything to Check, in Order",
     "url": "https://thechimeraai.com/ai-search-optimization-checklist/",
     "keyword": "AI search optimization checklist",
@@ -43,6 +121,7 @@
   },
   {
     "slug": "ai-search-statistics",
+    "kind": "Guide",
     "title": "AI Search Statistics: The Verified Numbers, With Sources",
     "url": "https://thechimeraai.com/ai-search-statistics/",
     "keyword": "AI search statistics",
@@ -57,6 +136,7 @@
   },
   {
     "slug": "ai-share-of-voice",
+    "kind": "Guide",
     "title": "AI Share of Voice: How to Measure Your Brand's Presence in AI Answers",
     "url": "https://thechimeraai.com/ai-share-of-voice/",
     "keyword": "AI share of voice",
@@ -71,6 +151,7 @@
   },
   {
     "slug": "author-pages-for-eeat",
+    "kind": "Guide",
     "title": "Author Pages for E-E-A-T: How to Show Who Stands Behind Your Content",
     "url": "https://thechimeraai.com/author-pages-for-eeat/",
     "keyword": "author pages",
@@ -85,6 +166,7 @@
   },
   {
     "slug": "chatgpt-search-vs-google",
+    "kind": "Guide",
     "title": "ChatGPT Search vs Google: How They Differ and How to Show Up in Both",
     "url": "https://thechimeraai.com/chatgpt-search-vs-google/",
     "keyword": "ChatGPT search vs Google",
@@ -99,6 +181,7 @@
   },
   {
     "slug": "digital-pr-for-ai-search",
+    "kind": "Guide",
     "title": "Digital PR for AI Search: How Press Coverage Shapes AI Answers",
     "url": "https://thechimeraai.com/digital-pr-for-ai-search/",
     "keyword": "digital PR for AI search",
@@ -113,6 +196,7 @@
   },
   {
     "slug": "does-google-penalize-ai-content",
+    "kind": "Guide",
     "title": "Does Google Penalize AI Content? The Answer From Google's Own Guidance",
     "url": "https://thechimeraai.com/does-google-penalize-ai-content/",
     "keyword": "does Google penalize AI content",
@@ -127,6 +211,7 @@
   },
   {
     "slug": "eeat-for-ai-search",
+    "kind": "Guide",
     "title": "E-E-A-T for AI Search: How to Show the Trust AI Systems Look For",
     "url": "https://thechimeraai.com/eeat-for-ai-search/",
     "keyword": "E-E-A-T for AI search",
@@ -141,6 +226,7 @@
   },
   {
     "slug": "faq-pages-for-ai-search",
+    "kind": "Guide",
     "title": "FAQ Pages for AI Search: Write Answers AI Tools Can Use",
     "url": "https://thechimeraai.com/faq-pages-for-ai-search/",
     "keyword": "FAQ pages for AI search",
@@ -155,6 +241,7 @@
   },
   {
     "slug": "geo-content-strategy",
+    "kind": "Guide",
     "title": "GEO Content Strategy: How to Plan Content That AI Search Cites",
     "url": "https://thechimeraai.com/geo-content-strategy/",
     "keyword": "GEO content strategy",
@@ -169,6 +256,7 @@
   },
   {
     "slug": "geo-for-dentists",
+    "kind": "Guide",
     "title": "GEO for Dentists: How to Get Your Practice Recommended by AI",
     "url": "https://thechimeraai.com/geo-for-dentists/",
     "keyword": "GEO for dentists",
@@ -183,6 +271,7 @@
   },
   {
     "slug": "geo-for-financial-advisors",
+    "kind": "Guide",
     "title": "GEO for Financial Advisors: How to Be the Advisor AI Recommends",
     "url": "https://thechimeraai.com/geo-for-financial-advisors/",
     "keyword": "GEO for financial advisors",
@@ -197,6 +286,7 @@
   },
   {
     "slug": "geo-for-healthcare",
+    "kind": "Guide",
     "title": "GEO for Healthcare Providers: How Clinics Get Cited by AI Answers",
     "url": "https://thechimeraai.com/geo-for-healthcare/",
     "keyword": "GEO for healthcare providers",
@@ -211,6 +301,7 @@
   },
   {
     "slug": "geo-for-home-services",
+    "kind": "Guide",
     "title": "GEO for Home Service Businesses: Get Recommended When Homeowners Ask AI",
     "url": "https://thechimeraai.com/geo-for-home-services/",
     "keyword": "GEO for home service businesses",
@@ -225,6 +316,7 @@
   },
   {
     "slug": "geo-for-hotels",
+    "kind": "Guide",
     "title": "GEO for Hotels: How to Get Recommended When Travelers Plan With AI",
     "url": "https://thechimeraai.com/geo-for-hotels/",
     "keyword": "GEO for hotels",
@@ -239,6 +331,7 @@
   },
   {
     "slug": "geo-for-law-firms",
+    "kind": "Guide",
     "title": "GEO for Law Firms: How to Get Your Firm Recommended by AI",
     "url": "https://thechimeraai.com/geo-for-law-firms/",
     "keyword": "GEO for law firms",
@@ -253,6 +346,7 @@
   },
   {
     "slug": "geo-for-manufacturers",
+    "kind": "Guide",
     "title": "GEO for Manufacturers: How to Get Cited When Buyers Research Suppliers With AI",
     "url": "https://thechimeraai.com/geo-for-manufacturers/",
     "keyword": "GEO for manufacturers",
@@ -267,6 +361,7 @@
   },
   {
     "slug": "geo-for-med-spas",
+    "kind": "Guide",
     "title": "GEO for Med Spas: How to Get Your Clinic Recommended by AI",
     "url": "https://thechimeraai.com/geo-for-med-spas/",
     "keyword": "GEO for med spas",
@@ -281,6 +376,7 @@
   },
   {
     "slug": "geo-for-multi-location-businesses",
+    "kind": "Guide",
     "title": "GEO for Multi-Location Businesses: How Every Location Gets Recommended",
     "url": "https://thechimeraai.com/geo-for-multi-location-businesses/",
     "keyword": "GEO for multi-location businesses",
@@ -295,6 +391,7 @@
   },
   {
     "slug": "geo-for-real-estate-agents",
+    "kind": "Guide",
     "title": "GEO for Real Estate Agents: How to Get Recommended by AI",
     "url": "https://thechimeraai.com/geo-for-real-estate-agents/",
     "keyword": "GEO for real estate agents",
@@ -309,6 +406,7 @@
   },
   {
     "slug": "geo-for-restaurants",
+    "kind": "Guide",
     "title": "GEO for Restaurants: How to Get Recommended When Diners Ask AI",
     "url": "https://thechimeraai.com/geo-for-restaurants/",
     "keyword": "GEO for restaurants",
@@ -323,6 +421,7 @@
   },
   {
     "slug": "geo-for-startups",
+    "kind": "Guide",
     "title": "GEO for Startups: How to Get AI to Know and Recommend You",
     "url": "https://thechimeraai.com/geo-for-startups/",
     "keyword": "GEO for startups",
@@ -337,6 +436,7 @@
   },
   {
     "slug": "geo-roi",
+    "kind": "Guide",
     "title": "How to Calculate GEO ROI Without Fooling Yourself",
     "url": "https://thechimeraai.com/geo-roi/",
     "keyword": "GEO ROI",
@@ -351,6 +451,7 @@
   },
   {
     "slug": "geo-vs-ppc",
+    "kind": "Guide",
     "title": "GEO vs PPC: How to Choose Between AI Visibility and Paid Ads",
     "url": "https://thechimeraai.com/geo-vs-ppc/",
     "keyword": "GEO vs PPC",
@@ -365,6 +466,7 @@
   },
   {
     "slug": "how-ai-search-engines-choose-sources",
+    "kind": "Guide",
     "title": "How AI Search Engines Choose Sources (and How to Be One)",
     "url": "https://thechimeraai.com/how-ai-search-engines-choose-sources/",
     "keyword": "how AI search engines choose sources",
@@ -379,6 +481,7 @@
   },
   {
     "slug": "how-chatgpt-recommends-local-businesses",
+    "kind": "Guide",
     "title": "How ChatGPT Recommends Local Businesses, and How to Get Recommended",
     "url": "https://thechimeraai.com/how-chatgpt-recommends-local-businesses/",
     "keyword": "how ChatGPT recommends local businesses",
@@ -393,6 +496,7 @@
   },
   {
     "slug": "how-long-does-geo-take",
+    "kind": "Guide",
     "title": "How Long Does GEO Take to Work? A Realistic Timeline",
     "url": "https://thechimeraai.com/how-long-does-geo-take/",
     "keyword": "how long does GEO take",
@@ -407,6 +511,7 @@
   },
   {
     "slug": "how-long-should-content-be-for-ai-search",
+    "kind": "Guide",
     "title": "How Long Should Content Be? Content Length for AI Search, Explained",
     "url": "https://thechimeraai.com/how-long-should-content-be-for-ai-search/",
     "keyword": "content length for AI search",
@@ -421,6 +526,7 @@
   },
   {
     "slug": "how-to-find-prompts-people-ask-ai",
+    "kind": "Guide",
     "title": "How to Find the Prompts People Ask AI Tools About Your Category",
     "url": "https://thechimeraai.com/how-to-find-prompts-people-ask-ai/",
     "keyword": "prompts people ask AI",
@@ -435,6 +541,7 @@
   },
   {
     "slug": "how-to-fix-wrong-information-about-your-brand-in-chatgpt",
+    "kind": "Guide",
     "title": "How to Fix Wrong Information About Your Brand in ChatGPT and AI Answers",
     "url": "https://thechimeraai.com/how-to-fix-wrong-information-about-your-brand-in-chatgpt/",
     "keyword": "wrong information about your brand",
@@ -449,6 +556,7 @@
   },
   {
     "slug": "how-to-get-a-google-knowledge-panel",
+    "kind": "Guide",
     "title": "How to Get a Google Knowledge Panel (and Why It Helps in AI Search)",
     "url": "https://thechimeraai.com/how-to-get-a-google-knowledge-panel/",
     "keyword": "Google knowledge panel",
@@ -463,6 +571,7 @@
   },
   {
     "slug": "how-to-get-on-best-of-lists",
+    "kind": "Guide",
     "title": "How to Get on the Best-Of Lists That AI Answers Draw From",
     "url": "https://thechimeraai.com/how-to-get-on-best-of-lists/",
     "keyword": "best of lists",
@@ -477,6 +586,7 @@
   },
   {
     "slug": "how-to-optimize-for-meta-ai",
+    "kind": "Guide",
     "title": "How to Optimize for Meta AI Across Facebook, Instagram and WhatsApp",
     "url": "https://thechimeraai.com/how-to-optimize-for-meta-ai/",
     "keyword": "Meta AI",
@@ -491,6 +601,7 @@
   },
   {
     "slug": "how-to-track-ai-visibility",
+    "kind": "Guide",
     "title": "How to Track AI Visibility: Mentions, Traffic and Leads in One Report",
     "url": "https://thechimeraai.com/how-to-track-ai-visibility/",
     "keyword": "track AI visibility",
@@ -505,6 +616,7 @@
   },
   {
     "slug": "how-to-update-old-content-for-ai-search",
+    "kind": "Guide",
     "title": "How to Update Old Content for AI Search: A Step-by-Step Checklist",
     "url": "https://thechimeraai.com/how-to-update-old-content-for-ai-search/",
     "keyword": "update old content for AI search",
@@ -519,6 +631,7 @@
   },
   {
     "slug": "how-to-write-comparison-pages",
+    "kind": "Guide",
     "title": "How to Write Comparison Pages That AI Search Trusts and Cites",
     "url": "https://thechimeraai.com/how-to-write-comparison-pages/",
     "keyword": "comparison pages",
@@ -533,6 +646,7 @@
   },
   {
     "slug": "internal-linking-for-ai-search",
+    "kind": "Guide",
     "title": "Internal Linking for AI Search: Help Crawlers and AI Understand Your Site",
     "url": "https://thechimeraai.com/internal-linking-for-ai-search/",
     "keyword": "internal linking for AI search",
@@ -547,6 +661,7 @@
   },
   {
     "slug": "is-seo-dead",
+    "kind": "Guide",
     "title": "Is SEO Dead? What AI Search Changes and What It Doesn't",
     "url": "https://thechimeraai.com/is-seo-dead/",
     "keyword": "is SEO dead",
@@ -561,6 +676,7 @@
   },
   {
     "slug": "local-business-schema-for-ai-search",
+    "kind": "Guide",
     "title": "Local Business Schema for AI Search: How to Mark Up Your Business",
     "url": "https://thechimeraai.com/local-business-schema-for-ai-search/",
     "keyword": "local business schema",
@@ -575,6 +691,7 @@
   },
   {
     "slug": "press-releases-for-ai-search",
+    "kind": "Guide",
     "title": "Do Press Releases Help AI Search? When They Work and When They Don't",
     "url": "https://thechimeraai.com/press-releases-for-ai-search/",
     "keyword": "press releases AI search",
@@ -589,6 +706,7 @@
   },
   {
     "slug": "product-pages-for-ai-shopping",
+    "kind": "Guide",
     "title": "Product Pages for AI Shopping: How to Get Recommended by AI Assistants",
     "url": "https://thechimeraai.com/product-pages-for-ai-shopping/",
     "keyword": "product pages for AI shopping",
@@ -603,6 +721,7 @@
   },
   {
     "slug": "reddit-for-ai-search",
+    "kind": "Guide",
     "title": "Reddit for AI Search: How Discussions Shape What AI Says About You",
     "url": "https://thechimeraai.com/reddit-for-ai-search/",
     "keyword": "Reddit for AI search",
@@ -617,6 +736,7 @@
   },
   {
     "slug": "topical-authority-for-ai-search",
+    "kind": "Guide",
     "title": "Topical Authority for AI Search: How to Own a Topic AI Trusts",
     "url": "https://thechimeraai.com/topical-authority-for-ai-search/",
     "keyword": "topical authority for AI search",
@@ -631,6 +751,7 @@
   },
   {
     "slug": "what-is-llm-seo",
+    "kind": "Guide",
     "title": "What Is LLM SEO? How to Get Large Language Models to Cite You",
     "url": "https://thechimeraai.com/what-is-llm-seo/",
     "keyword": "LLM SEO",
@@ -645,6 +766,7 @@
   },
   {
     "slug": "what-is-query-fan-out",
+    "kind": "Guide",
     "title": "What Is Query Fan-Out? How Google's AI Searches Behind the Scenes",
     "url": "https://thechimeraai.com/what-is-query-fan-out/",
     "keyword": "query fan-out",
@@ -659,6 +781,7 @@
   },
   {
     "slug": "wikipedia-and-wikidata-for-ai-search",
+    "kind": "Guide",
     "title": "Wikipedia and Wikidata for AI Search: What Businesses Can and Cannot Do",
     "url": "https://thechimeraai.com/wikipedia-and-wikidata-for-ai-search/",
     "keyword": "Wikipedia and Wikidata for AI search",
@@ -673,6 +796,7 @@
   },
   {
     "slug": "youtube-for-ai-search",
+    "kind": "Guide",
     "title": "YouTube for AI Search: How to Make Videos AI Answers Can Use",
     "url": "https://thechimeraai.com/youtube-for-ai-search/",
     "keyword": "YouTube for AI search",
@@ -687,6 +811,7 @@
   },
   {
     "slug": "zero-click-searches",
+    "kind": "Guide",
     "title": "Zero-Click Searches: What They Are and How to Win Anyway",
     "url": "https://thechimeraai.com/zero-click-searches/",
     "keyword": "zero-click searches",
@@ -701,6 +826,7 @@
   },
   {
     "slug": "ai-overviews-vs-featured-snippets",
+    "kind": "Guide",
     "title": "AI Overviews vs Featured Snippets: What Changed and What to Do",
     "url": "https://thechimeraai.com/ai-overviews-vs-featured-snippets/",
     "keyword": "AI Overviews vs featured snippets",
@@ -715,6 +841,7 @@
   },
   {
     "slug": "ai-visibility-audit",
+    "kind": "Guide",
     "title": "AI Visibility Audit: What It Checks and What You Get",
     "url": "https://thechimeraai.com/ai-visibility-audit/",
     "keyword": "AI visibility audit",
@@ -729,6 +856,7 @@
   },
   {
     "slug": "answer-engine-optimization-vs-generative-engine-optimization",
+    "kind": "Guide",
     "title": "AEO vs GEO: Answer Engine Optimization vs Generative Engine Optimization",
     "url": "https://thechimeraai.com/answer-engine-optimization-vs-generative-engine-optimization/",
     "keyword": "AEO vs GEO",
@@ -743,6 +871,7 @@
   },
   {
     "slug": "best-practices-for-llms-txt",
+    "kind": "Guide",
     "title": "llms.txt Best Practices: How to Create a File AI Tools Can Use",
     "url": "https://thechimeraai.com/best-practices-for-llms-txt/",
     "keyword": "llms.txt best practices",
@@ -757,6 +886,7 @@
   },
   {
     "slug": "entity-seo-for-ai-search",
+    "kind": "Guide",
     "title": "Entity SEO for AI Search: Making Your Brand Unmistakable",
     "url": "https://thechimeraai.com/entity-seo-for-ai-search/",
     "keyword": "entity SEO for AI search",
@@ -771,6 +901,7 @@
   },
   {
     "slug": "gemini-seo",
+    "kind": "Guide",
     "title": "Gemini SEO: How to Get Your Brand Into Gemini's Answers",
     "url": "https://thechimeraai.com/gemini-seo/",
     "keyword": "Gemini SEO",
@@ -785,6 +916,7 @@
   },
   {
     "slug": "generative-engine-optimization-agency",
+    "kind": "Guide",
     "title": "Generative Engine Optimization Agency: What It Does and When You Need One",
     "url": "https://thechimeraai.com/generative-engine-optimization-agency/",
     "keyword": "generative engine optimization agency",
@@ -799,6 +931,7 @@
   },
   {
     "slug": "geo-agency-orange-county",
+    "kind": "Guide",
     "title": "GEO Agency in Orange County, California",
     "url": "https://thechimeraai.com/geo-agency-orange-county/",
     "keyword": "GEO agency in Orange County",
@@ -813,6 +946,7 @@
   },
   {
     "slug": "geo-for-b2b-saas",
+    "kind": "Guide",
     "title": "GEO for B2B SaaS: How Software Companies Get Shortlisted by AI",
     "url": "https://thechimeraai.com/geo-for-b2b-saas/",
     "keyword": "GEO for B2B SaaS",
@@ -827,6 +961,7 @@
   },
   {
     "slug": "geo-for-ecommerce",
+    "kind": "Guide",
     "title": "GEO for E-commerce: How to Get Your Products Recommended by AI",
     "url": "https://thechimeraai.com/geo-for-ecommerce/",
     "keyword": "GEO for e-commerce",
@@ -841,6 +976,7 @@
   },
   {
     "slug": "geo-mistakes-to-avoid",
+    "kind": "Guide",
     "title": "12 GEO Mistakes to Avoid, and What to Do Instead",
     "url": "https://thechimeraai.com/geo-mistakes-to-avoid/",
     "keyword": "GEO mistakes",
@@ -855,6 +991,7 @@
   },
   {
     "slug": "geo-seo-best-practices",
+    "kind": "Guide",
     "title": "GEO SEO Best Practices: A 15-Point Checklist",
     "url": "https://thechimeraai.com/geo-seo-best-practices/",
     "keyword": "GEO SEO best practices",
@@ -869,6 +1006,7 @@
   },
   {
     "slug": "geo-vs-seo",
+    "kind": "Guide",
     "title": "GEO vs SEO: What's the Difference, and Do You Need Both?",
     "url": "https://thechimeraai.com/geo-vs-seo/",
     "keyword": "GEO vs SEO",
@@ -883,6 +1021,7 @@
   },
   {
     "slug": "how-much-does-geo-cost",
+    "kind": "Guide",
     "title": "How Much Does GEO Cost? A Guide to Pricing Generative Engine Optimization",
     "url": "https://thechimeraai.com/how-much-does-geo-cost/",
     "keyword": "GEO cost",
@@ -897,6 +1036,7 @@
   },
   {
     "slug": "how-to-check-if-chatgpt-mentions-your-brand",
+    "kind": "Guide",
     "title": "How to Check if ChatGPT Mentions Your Brand (and Track It Monthly)",
     "url": "https://thechimeraai.com/how-to-check-if-chatgpt-mentions-your-brand/",
     "keyword": "check if ChatGPT mentions your brand",
@@ -911,6 +1051,7 @@
   },
   {
     "slug": "how-to-choose-a-geo-agency",
+    "kind": "Guide",
     "title": "How to Choose a GEO Agency: A 10-Point Checklist",
     "url": "https://thechimeraai.com/how-to-choose-a-geo-agency/",
     "keyword": "choose a GEO agency",
@@ -925,6 +1066,7 @@
   },
   {
     "slug": "how-to-get-brand-mentions-for-ai-search",
+    "kind": "Guide",
     "title": "How to Earn Brand Mentions for AI Search",
     "url": "https://thechimeraai.com/how-to-get-brand-mentions-for-ai-search/",
     "keyword": "brand mentions for AI search",
@@ -939,6 +1081,7 @@
   },
   {
     "slug": "how-to-get-cited-by-claude",
+    "kind": "Guide",
     "title": "How to Get Your Brand Cited by Claude",
     "url": "https://thechimeraai.com/how-to-get-cited-by-claude/",
     "keyword": "cited by Claude",
@@ -953,6 +1096,7 @@
   },
   {
     "slug": "how-to-measure-geo-results",
+    "kind": "Guide",
     "title": "How to Measure GEO Results: KPIs and a Monthly Report",
     "url": "https://thechimeraai.com/how-to-measure-geo-results/",
     "keyword": "measure GEO results",
@@ -967,6 +1111,7 @@
   },
   {
     "slug": "how-to-optimize-for-google-ai-mode",
+    "kind": "Guide",
     "title": "How to Optimize for Google AI Mode",
     "url": "https://thechimeraai.com/how-to-optimize-for-google-ai-mode/",
     "keyword": "Google AI Mode",
@@ -981,6 +1126,7 @@
   },
   {
     "slug": "how-to-rank-in-chatgpt",
+    "kind": "Guide",
     "title": "How to Rank in ChatGPT: 9 Steps to Get Your Brand Recommended",
     "url": "https://thechimeraai.com/how-to-rank-in-chatgpt/",
     "keyword": "rank in ChatGPT",
@@ -995,6 +1141,7 @@
   },
   {
     "slug": "how-to-show-up-in-google-ai-overviews",
+    "kind": "Guide",
     "title": "How to Show Up in Google AI Overviews",
     "url": "https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/",
     "keyword": "Google AI Overviews",
@@ -1009,6 +1156,7 @@
   },
   {
     "slug": "how-to-track-ai-traffic-in-google-analytics",
+    "kind": "Guide",
     "title": "How to Track AI Traffic in Google Analytics 4",
     "url": "https://thechimeraai.com/how-to-track-ai-traffic-in-google-analytics/",
     "keyword": "track AI traffic in Google Analytics",
@@ -1023,6 +1171,7 @@
   },
   {
     "slug": "how-to-write-content-for-ai-search",
+    "kind": "Guide",
     "title": "How to Write Content for AI Search (That Still Works for People)",
     "url": "https://thechimeraai.com/how-to-write-content-for-ai-search/",
     "keyword": "write content for AI search",
@@ -1037,6 +1186,7 @@
   },
   {
     "slug": "is-geo-bring-sales",
+    "kind": "Guide",
     "title": "Does GEO Bring Sales? How AI Search Turns Into Revenue",
     "url": "https://thechimeraai.com/is-geo-bring-sales/",
     "keyword": "GEO sales",
@@ -1051,6 +1201,7 @@
   },
   {
     "slug": "local-geo",
+    "kind": "Guide",
     "title": "Local GEO: How Local Businesses Get Recommended by AI Assistants",
     "url": "https://thechimeraai.com/local-geo/",
     "keyword": "local GEO",
@@ -1065,6 +1216,7 @@
   },
   {
     "slug": "microsoft-copilot-seo",
+    "kind": "Guide",
     "title": "Copilot SEO: How to Get Your Site Cited by Microsoft Copilot",
     "url": "https://thechimeraai.com/microsoft-copilot-seo/",
     "keyword": "Copilot SEO",
@@ -1079,6 +1231,7 @@
   },
   {
     "slug": "perplexity-seo",
+    "kind": "Guide",
     "title": "Perplexity SEO: How to Get Your Site Cited by Perplexity",
     "url": "https://thechimeraai.com/perplexity-seo/",
     "keyword": "Perplexity SEO",
@@ -1093,6 +1246,7 @@
   },
   {
     "slug": "robots-txt-for-ai-crawlers",
+    "kind": "Guide",
     "title": "Robots.txt for AI Crawlers: Allow Search, Control Training",
     "url": "https://thechimeraai.com/robots-txt-for-ai-crawlers/",
     "keyword": "robots.txt for AI crawlers",
@@ -1107,6 +1261,7 @@
   },
   {
     "slug": "schema-markup-for-ai-search",
+    "kind": "Guide",
     "title": "Schema Markup for AI Search: A Practical Guide",
     "url": "https://thechimeraai.com/schema-markup-for-ai-search/",
     "keyword": "schema markup for AI search",
@@ -1121,6 +1276,7 @@
   },
   {
     "slug": "what-is-generative-engine-optimization-and-how-does-it-work",
+    "kind": "Guide",
     "title": "What Is Generative Engine Optimization, and How Does It Work?",
     "url": "https://thechimeraai.com/what-is-generative-engine-optimization-and-how-does-it-work/",
     "keyword": "generative engine optimization",

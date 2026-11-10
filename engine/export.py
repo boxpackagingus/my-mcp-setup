@@ -26,6 +26,7 @@ def run(cfg):
         spec = _spec(p["slug"])
         page_rows.append({
             "slug": p["slug"],
+            "kind": "Blog" if spec.get("kind") == "blog" else "Guide",
             "title": spec.get("h1") or p["query"],
             "url": p["url"],
             "keyword": p["primary_keyword"],
@@ -48,8 +49,24 @@ def run(cfg):
                 seen.add(key)
                 keyword_rows.append({"keyword": kw, "kind": kind, "page": p["slug"]})
 
+    from datetime import date as _date
+    today = _date.today().isoformat()
+    blog_rows = [{
+        "slug": r["slug"], "title": r["title"], "url": r["url"], "published": r["published"],
+        "category": _spec(r["slug"]).get("category", ""), "banner": (_spec(r["slug"]).get("hero_image") or {}).get("url"),
+        "words": r["words"], "indexed": r["indexed"], "impressions": r["impressions"], "clicks": r["clicks"],
+        "visits": r["visits"], "leads": r["leads"],
+        "indexnow": next((p.get("indexnow") for p in pages if p["slug"] == r["slug"]), None) or "Not sent",
+    } for r in page_rows if r["kind"] == "Blog"]
+
     totals = [{
         "pages_live": len(pages),
+        "guides_live": sum(r["kind"] == "Guide" for r in page_rows),
+        "blogs_live": len(blog_rows),
+        "blogs_today": sum(b["published"] == today for b in blog_rows),
+        "blogs_per_day": cfg["publishing"].get("blogs_per_day", 5),
+        "blogs_indexed": sum(b["indexed"] == "Indexed" for b in blog_rows),
+        "location": f'{cfg["site"].get("location", "")} · {cfg["site"].get("region", "")}',
         "keywords_used": len(keyword_rows),
         "queries_found": len(queue),
         "impressions": latest.get("impressions_28d") if google else None,
@@ -104,7 +121,7 @@ def run(cfg):
 
     runs = [dict(r) for r in reversed(config.read_json(config.DATA / "runs.json", []))][:60]
 
-    files = {"totals": totals, "pages": page_rows, "keywords": keyword_rows,
+    files = {"totals": totals, "pages": page_rows, "blogs": blog_rows, "keywords": keyword_rows,
              "daily": daily, "upcoming": upcoming, "site_files": site_files,
              "page_checks": page_checks, "indexing": indexing, "runs": runs}
     for name, rows in files.items():

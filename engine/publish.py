@@ -59,7 +59,7 @@ def run(cfg, dry_run=False, max_pages=None):
         html = page.render_html(spec, cfg)
         md = page.render_markdown(spec, cfg)
         schema = page.render_schema(spec, cfg)
-        url = f'{cfg["site"]["base_url"]}/{spec["slug"]}/'
+        url = page.page_url(spec, cfg)
 
         if dry_run:
             out = config.ROOT / "content" / "preview"
@@ -71,10 +71,14 @@ def run(cfg, dry_run=False, max_pages=None):
             remaining -= 1
             continue
 
+        if page.is_blog(spec):
+            spec["parent_id"] = _blog_page_id(wp, cfg)
         result, action = wp.upsert_page(spec, html, md, schema, status=cfg["publishing"]["status"])
         url = result.get("link", url)
+        old = next((p for p in pages if p["slug"] == spec["slug"]), {})
         pages = [p for p in pages if p["slug"] != spec["slug"]]
-        pages.append({
+        pages.append({**{k: v for k, v in old.items() if k.startswith(("index_", "indexnow"))},
+            "kind": spec.get("kind", "guide"), "title": spec["h1"],
             "slug": spec["slug"], "query": spec["query"], "url": url, "wp_id": result["id"],
             "published": spec["published"], "primary_keyword": spec["primary_keyword"],
             "volume": spec.get("volume"), "words": stats["words"],
@@ -86,9 +90,14 @@ def run(cfg, dry_run=False, max_pages=None):
 
     if not dry_run:
         if report["published"]:
+            if any(page.is_blog(config.read_json(config.PUBLISHED / f'{p["slug"]}.json', {})) for p in report["published"]):
+                from . import blog
+                report["blog_index"] = blog.build_index(cfg, wp)
             _purge_cache()
             _ping_sitemap(cfg)
             urls = [p["url"] for p in report["published"]]
+            if report.get("blog_index"):
+                urls += [report["blog_index"], cfg["site"]["base_url"].rstrip("/") + "/"]
             sent = indexnow.submit(cfg, urls)
             for p in pages:
                 if p["url"] in urls:
@@ -121,6 +130,12 @@ def log_run(report, note=""):
 def _wp():
     from .wp import WordPress
     return WordPress()
+
+
+def _blog_page_id(wp, cfg):
+    """The /blog/ parent page; created on first use."""
+    from . import blog
+    return blog.ensure_page(wp, cfg)
 
 
 def _purge_cache():

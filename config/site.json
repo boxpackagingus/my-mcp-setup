@@ -4,7 +4,7 @@
     "domain": "thechimeraai.com",
     "base_url": "https://thechimeraai.com",
     "brand": "Chimera",
-    "one_liner": "Chimera is a Generative Engine Optimization (GEO) agency in Orange County, California that gets brands cited by name in ChatGPT, Gemini, Perplexity, Claude and Google AI Overviews.",
+    "one_liner": "Chimera is a Generative Engine Optimization (GEO) agency in Anaheim, Orange County, California that gets brands cited by name in ChatGPT, Gemini, Perplexity, Claude and Google AI Overviews.",
     "services": [
       "AI Visibility Audit",
       "GEO Content Structuring",
@@ -24,7 +24,7 @@
       "guaranteed #1",
       "instant results"
     ],
-    "location": "Orange County, CA",
+    "location": "Anaheim, California",
     "proof_clients": [
       "Royal Tent USA",
       "Darry Ring",
@@ -80,7 +80,13 @@
         "anchor": "book an AI visibility audit",
         "url": "https://thechimeraai.com/#audit"
       }
-    ]
+    ],
+    "region": "Orange County, California",
+    "address": {
+      "locality": "Anaheim",
+      "region": "CA",
+      "country": "US"
+    }
   },
   "lead": {
     "offer": "Free AI Visibility Audit",
@@ -109,7 +115,9 @@
     "status": "publish",
     "hub_page_slug": "insights",
     "show_in_menu": false,
-    "seo_plugin": "auto"
+    "seo_plugin": "auto",
+    "blog_page_slug": "blog",
+    "blogs_per_day": 5
   },
   "quality": {
     "min_words": 1200,

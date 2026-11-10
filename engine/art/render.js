@@ -44,7 +44,7 @@ function page(job, iconsDir) {
   .tile .mono{width:34px;height:34px;border-radius:10px;display:grid;place-items:center;font-weight:800;font-size:15px;color:#fff;background:linear-gradient(135deg,#2563eb,#7c3aed)}
   </style></head><body><div class="glow"></div><div class="grid"></div>
   <div class="left"><div class="brand">CHIMERA</div><div class="eyebrow">${esc(job.eyebrow)}</div><h1>${esc(job.title)}</h1></div>
-  <div class="site"><b>thechimeraai.com</b> · Generative Engine Optimization · Orange County, CA</div>
+  <div class="site"><b>thechimeraai.com</b> · Generative Engine Optimization · Anaheim, Orange County, CA</div>
   <div class="chat"><div class="q">${esc(job.query)}</div><div class="lines"><i></i><i></i><i></i></div><div class="tiles">${tiles}</div></div>
   </body></html>`;
 }

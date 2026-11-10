@@ -77,6 +77,7 @@ class WordPress:
             "excerpt": seo["meta_description"],
             "status": status,
             "meta": meta,
+            **({"parent": spec["parent_id"]} if spec.get("parent_id") else {}),
         }
         existing = self.find_page(spec["slug"])
         if existing:
