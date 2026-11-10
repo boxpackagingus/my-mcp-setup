@@ -1,0 +1,335 @@
+{
+  "query": "perplexity seo",
+  "slug": "perplexity-seo",
+  "eyebrow": "Perplexity visibility",
+  "primary_keyword": "Perplexity SEO",
+  "secondary_keywords": [
+    "get cited by Perplexity",
+    "PerplexityBot",
+    "Perplexity AI search",
+    "answer engine visibility"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Perplexity SEO: How to Get Cited by Perplexity AI",
+    "meta_description": "Perplexity SEO explained: how Perplexity picks and numbers its sources, how to let PerplexityBot crawl you, and how to write pages it cites again and again."
+  },
+  "h1": "Perplexity SEO: How to Get Your Site Cited by Perplexity",
+  "answer": "Perplexity SEO is the work of getting your pages chosen as numbered sources in Perplexity's answers. Start by allowing PerplexityBot to crawl your site. Then publish fresh, specific pages that answer one question clearly, with facts and sources, so Perplexity's search can find them and its answer can quote them.",
+  "key_takeaways": [
+    "Perplexity searches the web for almost every answer and shows its sources as numbered citations.",
+    "PerplexityBot must be allowed in robots.txt for your pages to be surfaced in Perplexity search.",
+    "Clear, specific, recently updated pages are cited most often.",
+    "Each citation is a visible, clickable link, which makes Perplexity traffic easy to measure.",
+    "The same work also helps ChatGPT, Google AI Overviews and Copilot."
+  ],
+  "sections": [
+    {
+      "heading": "How Perplexity builds an answer",
+      "body_html": "<p>Perplexity is built around citations. For most questions it runs a web search, reads the best-matching pages and writes an answer with numbered references that link to each source. Users can open the sources panel to see every page used.</p><p>That design makes Perplexity unusually transparent. You can see exactly who is cited for a question, which means you can study the winners and do better, and you can measure the visits Perplexity sends you.</p>"
+    },
+    {
+      "heading": "Step 1: Let PerplexityBot crawl your site",
+      "body_html": "<p>Perplexity documents two user agents. <strong>PerplexityBot</strong> is designed to surface and link websites in Perplexity's search results, and Perplexity says it is not used to crawl content for training AI models. <strong>Perplexity-User</strong> fetches pages when a user's question needs them.</p><p>To be cited, allow PerplexityBot in robots.txt and make sure your firewall, CDN or security plugin does not block it. A simple rule looks like this:</p><blockquote><code>User-agent: PerplexityBot<br>Allow: /</code></blockquote><p>Then check that your important pages are in your sitemap and load quickly with their main content in the HTML.</p>"
+    },
+    {
+      "heading": "Step 2: Write pages Perplexity wants to cite",
+      "body_html": "<h3>One question, answered early</h3><p>Perplexity tends to cite pages that address the exact question rather than broad overviews. Give each important question its own page or section, and answer it in the first lines.</p><h3>Specific facts with sources</h3><p>Research on generative engines found that adding statistics, quotations and citations made sources more visible in AI-written answers. Name numbers, dates, methods and examples, and link to where they come from.</p><h3>Freshness</h3><p>Perplexity is often used for current questions. Keep key pages updated, show a clear \"last updated\" date, and refresh facts when they change.</p><h3>Clean structure</h3><p>Use headings that match follow-up questions, short paragraphs, lists and comparison tables. Each section should stand on its own if quoted.</p>"
+    },
+    {
+      "heading": "Step 3: Build signals beyond your own site",
+      "body_html": "<p>Perplexity's search draws on the wider web, so where else your brand appears matters. Useful places to earn mentions include industry publications, directories, review platforms, community discussions such as Reddit, partner pages and podcasts with show notes. Consistent descriptions of what you do help Perplexity connect your brand to the right topics when it summarizes options.</p><p>Original data is especially powerful. A short survey, benchmark or price index that others reference gives Perplexity a unique fact that only your page can supply.</p>"
+    },
+    {
+      "heading": "Study who Perplexity cites today",
+      "body_html": "<p>Because sources are visible, Perplexity SEO can start with research:</p><ol><li>List 20 questions your buyers ask.</li><li>Ask each in Perplexity and record the cited domains.</li><li>Open the top sources and note what they do well: length, structure, freshness, data, author details.</li><li>Find questions where weak or outdated pages are cited. Those are your easiest wins.</li><li>Publish or improve a page for each, then re-test after it is crawled.</li></ol><p>Repeat monthly. Patterns usually appear quickly, such as Perplexity favoring certain publications or formats in your field.</p><p>Keep a simple spreadsheet with one row per question and columns for the date, the cited domains, whether you were cited, and the position of your citation. After two or three months it shows clearly which pages earn citations and which topics still need work.</p>"
+    },
+    {
+      "heading": "Formats that get cited most on Perplexity",
+      "body_html": "<p>Some page formats are cited again and again because they match the way people use Perplexity:</p><ul><li><strong>Comparison pages</strong> such as \"X vs Y\", with a table of differences and a clear recommendation for each type of buyer.</li><li><strong>How-to guides</strong> with numbered steps, prerequisites and common mistakes.</li><li><strong>Definitions</strong> that explain a term in the first sentence and then give examples.</li><li><strong>Buying guides</strong> listing selection criteria, price factors and questions to ask.</li><li><strong>Original data</strong> such as surveys, benchmarks or price trackers that no other page can supply.</li></ul><p>Pick the format that best matches each buyer question, rather than forcing every topic into a blog post.</p>"
+    },
+    {
+      "heading": "How Perplexity SEO differs from Google SEO",
+      "body_html": "<p>Google ranks a list of pages and lets the searcher choose. Perplexity reads several pages and writes one answer, so it rewards different strengths:</p><table><tr><th></th><th>Google SEO</th><th>Perplexity SEO</th></tr><tr><td>Win condition</td><td>A high position in the results</td><td>Being one of the numbered sources</td></tr><tr><td>Best content</td><td>Comprehensive pages that satisfy a keyword</td><td>Clear passages that answer one question precisely</td></tr><tr><td>Freshness</td><td>Matters for some topics</td><td>Matters for many, since users ask current questions</td></tr><tr><td>Measurement</td><td>Rankings and clicks</td><td>Citations per question and perplexity.ai referrals</td></tr></table><p>The foundations still overlap: a crawlable, fast, trustworthy site with helpful content does well in both.</p>"
+    },
+    {
+      "heading": "Measure Perplexity traffic",
+      "body_html": "<p>Perplexity citations are clickable links, so visits usually arrive with <code>perplexity.ai</code> as the referrer. In Google Analytics, include it in an \"AI search\" channel with chatgpt.com, gemini.google.com, copilot.microsoft.com and claude.ai. Track which landing pages it sends visitors to and whether they submit your forms.</p><p>Visitors from Perplexity are often in research mode and have already read a summary, so a clear next step, such as an audit offer or a short form, matters on every page they land on.</p>"
+    },
+    {
+      "heading": "Perplexity SEO checklist",
+      "body_html": "<table><tr><th>Area</th><th>Check</th></tr><tr><td>Access</td><td>PerplexityBot allowed in robots.txt and not blocked by firewall or CDN</td></tr><tr><td>Discovery</td><td>Page in sitemap, linked internally, submitted through IndexNow where supported</td></tr><tr><td>Answer</td><td>Direct answer to one question in the opening lines</td></tr><tr><td>Evidence</td><td>Specific facts, data and linked sources</td></tr><tr><td>Freshness</td><td>Visible last-updated date; facts reviewed regularly</td></tr><tr><td>Structure</td><td>Question headings, lists, tables, FAQs</td></tr><tr><td>Reputation</td><td>Brand mentioned consistently on trusted third-party sites</td></tr><tr><td>Measurement</td><td>perplexity.ai referrals and leads tracked by page</td></tr></table>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is Perplexity SEO?",
+      "a": "It is the practice of getting your pages cited as sources in Perplexity's answers. It combines letting PerplexityBot crawl your site, writing specific and up-to-date pages that answer one question clearly, and earning mentions on sites Perplexity's search trusts."
+    },
+    {
+      "q": "How do I allow PerplexityBot?",
+      "a": "Add a rule to robots.txt such as 'User-agent: PerplexityBot' followed by 'Allow: /', and check that your firewall, CDN or security plugin does not block it. Perplexity says PerplexityBot is used to surface sites in search results, not to train models."
+    },
+    {
+      "q": "Why does Perplexity cite my competitors and not me?",
+      "a": "Their pages usually answer the exact question more directly, include more specific facts or are more recently updated. Open the cited sources, compare them with your page and close the gaps."
+    },
+    {
+      "q": "How fast can Perplexity cite a new page?",
+      "a": "Because Perplexity searches the web for most answers, a well-structured page can be cited soon after it is discovered and crawled. Sitemaps, internal links and IndexNow help it get found faster."
+    },
+    {
+      "q": "Does Perplexity SEO help with ChatGPT and Google too?",
+      "a": "Yes. Crawl access, direct answers, sourced facts, clean structure and brand mentions help every engine that builds answers from the web, including ChatGPT search, Google AI Overviews and Copilot."
+    },
+    {
+      "q": "Can I measure traffic from Perplexity?",
+      "a": "Yes. Visits from Perplexity citations usually show perplexity.ai as the referrer in Google Analytics. Track them as part of an AI search channel and compare their lead rate with other sources."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "how to rank in ChatGPT",
+      "url": "https://thechimeraai.com/how-to-rank-in-chatgpt/"
+    },
+    {
+      "anchor": "llms.txt best practices",
+      "url": "https://thechimeraai.com/best-practices-for-llms-txt/"
+    },
+    {
+      "anchor": "what generative engine optimization is",
+      "url": "https://thechimeraai.com/what-is-generative-engine-optimization-and-how-does-it-work/"
+    },
+    {
+      "anchor": "GEO results for real brands",
+      "url": "https://thechimeraai.com/#results"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Perplexity: Perplexity crawlers",
+      "url": "https://docs.perplexity.ai/guides/bots"
+    },
+    {
+      "title": "GEO: Generative Engine Optimization (Aggarwal et al., KDD 2024)",
+      "url": "https://arxiv.org/abs/2311.09735"
+    },
+    {
+      "title": "Google Search Central: Introduction to robots.txt",
+      "url": "https://developers.google.com/search/docs/crawling-indexing/robots/intro"
+    },
+    {
+      "title": "IndexNow: how it works",
+      "url": "https://www.indexnow.org/"
+    }
+  ],
+  "published": "2026-11-05",
+  "updated": "2026-11-10",
+  "short_title": "Perplexity SEO: How to Get Cited by Perplexity",
+  "hero_query": "How do I get cited by Perplexity?",
+  "hero_engines": [
+    "perplexity",
+    "chatgpt",
+    "google",
+    "gemini",
+    "claude",
+    "copilot"
+  ],
+  "visuals": [
+    {
+      "after": 0,
+      "type": "stats",
+      "eyebrow": "By the numbers",
+      "title": "Perplexity's scale, and its peers",
+      "lead": "Company-reported audience figures for the biggest AI answer engines. Each is the latest official number we could verify, with its date.",
+      "items": [
+        {
+          "engine": "chatgpt",
+          "value": "800M",
+          "label": "ChatGPT weekly active users",
+          "date": "Oct 2025, OpenAI",
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2025/10/06/sam-altman-says-chatgpt-has-hit-800m-weekly-active-users/"
+        },
+        {
+          "engine": "google",
+          "value": "2B",
+          "label": "AI Overviews monthly users",
+          "date": "Jul 2025, Google",
+          "source": "Dataconomy",
+          "source_url": "https://dataconomy.com/2025/07/24/googles-ai-overviews-now-serve-2-billion-monthly-users/"
+        },
+        {
+          "engine": "gemini",
+          "value": "650M",
+          "label": "Gemini app monthly active users",
+          "date": "Oct 2025, Google",
+          "source": "9to5Google",
+          "source_url": "https://9to5google.com/2025/10/29/gemini-app-650-million-users/"
+        },
+        {
+          "engine": "perplexity",
+          "value": "780M",
+          "label": "Perplexity queries in one month",
+          "date": "May 2025, Perplexity CEO",
+          "source": "MediaPost",
+          "source_url": "https://www.mediapost.com/publications/article/406449/perplexity-ceo-estimates-firm-will-serve-1b-querie.html"
+        }
+      ],
+      "note": "Weekly users, monthly users and monthly queries measure different things, so compare each figure with its own history rather than with the others."
+    },
+    {
+      "after": 1,
+      "type": "matrix",
+      "eyebrow": "Crawler access",
+      "title": "Which crawler each AI platform uses",
+      "lead": "Allow these in robots.txt and your firewall, or that platform cannot read your pages for its answers.",
+      "columns": [
+        "chatgpt",
+        "perplexity",
+        "google",
+        "claude",
+        "copilot"
+      ],
+      "rows": [
+        {
+          "label": "Crawler for search answers",
+          "cells": [
+            "OAI-SearchBot",
+            "PerplexityBot",
+            "Googlebot",
+            "Claude-SearchBot",
+            "Bingbot"
+          ]
+        },
+        {
+          "label": "Fetches pages on a user's request",
+          "cells": [
+            "ChatGPT-User",
+            "Perplexity-User",
+            "Googlebot",
+            "Claude-User",
+            "Bingbot"
+          ]
+        },
+        {
+          "label": "Separate training crawler you can block",
+          "cells": [
+            "Yes: GPTBot",
+            "Not used for training",
+            "Yes: Google-Extended",
+            "Yes: ClaudeBot",
+            "No separate bot"
+          ]
+        }
+      ],
+      "source": {
+        "title": "OpenAI, Perplexity, Google and Anthropic crawler documentation",
+        "url": "https://platform.openai.com/docs/bots",
+        "note": "Check each platform's docs for changes"
+      }
+    },
+    {
+      "after": 5,
+      "type": "matrix",
+      "eyebrow": "Compare platforms",
+      "title": "How each platform shows its sources",
+      "lead": "Platforms that show clickable sources send measurable visits. The rest shape decisions you see later as branded searches.",
+      "columns": [
+        "chatgpt",
+        "perplexity",
+        "google",
+        "gemini",
+        "claude",
+        "copilot"
+      ],
+      "rows": [
+        {
+          "label": "Links to sources in answers",
+          "cells": [
+            "Yes, when searching",
+            "Yes, numbered",
+            "Yes",
+            "Sometimes",
+            "Yes, with web search",
+            "Yes"
+          ]
+        },
+        {
+          "label": "Searches the live web",
+          "cells": [
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes, when enabled",
+            "Yes"
+          ]
+        },
+        {
+          "label": "Referral shows in analytics",
+          "cells": [
+            "Yes: chatgpt.com",
+            "Yes: perplexity.ai",
+            "Counted as Google",
+            "Yes: gemini.google.com",
+            "Yes: claude.ai",
+            "Yes: copilot.microsoft.com"
+          ]
+        }
+      ]
+    },
+    {
+      "after": 2,
+      "type": "line",
+      "eyebrow": "Interactive chart",
+      "title": "ChatGPT's weekly users over time",
+      "lead": "OpenAI's own figures. Hover the points to see each milestone.",
+      "engine": "chatgpt",
+      "chart_label": "ChatGPT weekly active users (millions)",
+      "unit": "M",
+      "items": [
+        {
+          "label": "Nov 2023",
+          "value": 100
+        },
+        {
+          "label": "Mar 2025",
+          "value": 500
+        },
+        {
+          "label": "Aug 2025",
+          "value": 700
+        },
+        {
+          "label": "Oct 2025",
+          "value": 800
+        }
+      ],
+      "source": {
+        "title": "TechCrunch: Sam Altman says ChatGPT has hit 800M weekly active users (Oct 6, 2025)",
+        "url": "https://techcrunch.com/2025/10/06/sam-altman-says-chatgpt-has-hit-800m-weekly-active-users/",
+        "note": "Figures announced by OpenAI"
+      }
+    }
+  ],
+  "hero_image": {
+    "id": 785,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/perplexity-seo-chimera-1.jpg",
+    "alt": "Perplexity SEO: How to Get Cited by Perplexity AI: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "photo": {
+    "id": 202,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/perplexity-seo-photo.jpg",
+    "alt": "Researcher reading an AI answer with source citations on a wide monitor",
+    "width": 1360,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Kittl AI"
+  }
+}

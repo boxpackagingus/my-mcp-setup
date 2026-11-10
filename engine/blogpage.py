@@ -46,7 +46,9 @@ body:has(.cpb){overflow-x:clip}
 .cpb-figure img{width:100%;height:auto;display:block;border-radius:14px}
 .cpb-figure figcaption{font-size:13px;color:#7a7c85;margin-top:8px}
 .cpb .cp-vis{margin:30px 0;padding:clamp(22px,3vw,34px)!important;border-radius:18px;background:#f6f4f3!important;color:var(--b-ink)}
-.cpb .cp-vis h2{font-size:24px;margin:0 0 6px}
+.cpb .cp-vis h3.cp-vis-title{font-size:24px;margin:0 0 6px;color:var(--b-ink);font-weight:700}
+.cpb-faq summary h3{margin:0;font-size:16px;font-weight:500;color:var(--b-ink);line-height:1.4}
+.cpb h3.cp-h4{font-size:1rem;margin:0 0 .35em}
 .cpb-faqhead{margin-top:52px}
 .cpb-faqsub{margin:0 0 26px}
 .cpb-faqsub span{color:#d9a400}
@@ -70,8 +72,8 @@ body:has(.cpb){overflow-x:clip}
 .cpb-relgrid{list-style:none;margin:0;padding:0;display:grid;gap:26px;grid-template-columns:repeat(auto-fill,minmax(260px,1fr))}
 .cpb-relgrid a{display:block;text-decoration:none;color:var(--b-ink)}
 .cpb-relgrid img{width:100%;aspect-ratio:2.1/1;object-fit:cover;display:block}
-.cpb-relgrid strong{display:block;margin-top:18px;font-size:19px;line-height:1.4;font-weight:500}
-.cpb-relgrid a:hover strong{color:#d9a400}
+.cpb-relgrid h3{display:block;margin-top:18px;font-size:19px;line-height:1.4;font-weight:500}
+.cpb-relgrid a:hover h3{color:#d9a400}
 .cpb-cta{background:radial-gradient(80% 120% at 100% 100%,rgba(230,90,40,.85),transparent 60%),radial-gradient(70% 120% at 0% 100%,rgba(202,39,44,.9),transparent 60%),var(--b-night);padding:clamp(56px,7vw,90px) 20px}
 .cpb-cta h2{color:#fff;text-align:center;font-size:clamp(28px,3.4vw,40px);line-height:1.2;margin:0 auto 34px;max-width:560px;font-weight:700}
 .cpb-cta .cpb-local{color:#e9e9ee;text-align:center;max-width:760px;margin:-14px auto 30px;font-size:15.5px}
@@ -142,7 +144,7 @@ def render(spec, cfg):
 
     body.append('<h2 class="cpb-faqhead" id="faq">Frequently Asked Questions</h2>'
                 '<p class="cpb-faqsub">Have questions about AI search? We have <span>answers!</span></p>')
-    body.append("".join(f'<details class="cpb-faq"><summary>{_e(f["q"])}</summary><div><p>{_e(f["a"])}</p></div></details>'
+    body.append("".join(f'<details class="cpb-faq"><summary><h3>{_e(f["q"])}</h3></summary><div><p>{_e(f["a"])}</p></div></details>'
                         for f in spec["faqs"]))
 
     body.append("</article>")
@@ -167,7 +169,7 @@ def render(spec, cfg):
             rel.append(s)
     cards = "".join(
         f'<li><a href="{_e(page.page_url(s, cfg))}"><img src="{_e(s["hero_image"]["url"])}" alt="{_e(s["hero_image"].get("alt", s["h1"]))}" '
-        f'loading="lazy" width="1200" height="571"><strong>{_e(s["h1"])}</strong></a></li>' for s in rel[:3])
+        f'loading="lazy" width="1200" height="571"><h3>{_e(s["h1"])}</h3></a></li>' for s in rel[:3])
     if cards:
         out.append(f'<section class="cpb-related"><h2>Related Articles</h2><ul class="cpb-relgrid">{cards}</ul></section>')
 

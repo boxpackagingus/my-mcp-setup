@@ -32,7 +32,7 @@ def _items(inner):
 def _feature_grid(inner):
     cards = []
     for title, text in _items(inner):
-        head = f"<h4>{title}</h4>" if title else ""
+        head = f'<h3 class="cp-h4">{title}</h3>' if title else ""
         body = f"<p>{text}</p>" if text else ""
         cards.append(f'<li class="cp-fcard">{head}{body}</li>')
     return f'<ul class="cp-fgrid">{"".join(cards)}</ul>'
@@ -44,7 +44,7 @@ def _steps(inner, attrs):
     cards = []
     for i, (title, text) in enumerate(_items(inner)):
         n = first + i
-        head = f"<h4>{title}</h4>" if title else ""
+        head = f'<h3 class="cp-h4">{title}</h3>' if title else ""
         body = f"<p>{text}</p>" if text else ""
         cards.append(f'<li class="cp-step"><span class="cp-step-n">{n:02d}</span><div>{head}{body}</div></li>')
     return f'<ol class="cp-stepgrid">{"".join(cards)}</ol>'

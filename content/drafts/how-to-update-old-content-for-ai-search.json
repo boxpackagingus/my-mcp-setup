@@ -1,0 +1,254 @@
+{
+  "query": "how to update old content for ai search",
+  "slug": "how-to-update-old-content-for-ai-search",
+  "eyebrow": "Content strategy",
+  "primary_keyword": "update old content for AI search",
+  "secondary_keywords": [
+    "content refresh",
+    "update old blog posts",
+    "content audit AI search",
+    "refresh content for AI Overviews"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "How to Update Old Content for AI Search (Checklist)",
+    "meta_description": "How to update old content for AI search: which pages to refresh first, rewriting answer-first, adding sourced facts and FAQs, and what to remove or merge."
+  },
+  "h1": "How to Update Old Content for AI Search: A Step-by-Step Checklist",
+  "answer": "To update old content for AI search, start with pages that already get impressions or matter to sales. Rewrite each so it opens with a direct answer, turn sections into question headings, replace outdated or unsourced facts with current, cited ones, add an FAQ, improve internal links and show the updated date. Merge or remove pages that overlap or no longer help anyone.",
+  "key_takeaways": [
+    "Prioritize pages with impressions or sales value.",
+    "Put a direct answer in the first paragraph.",
+    "Replace outdated facts with current, sourced ones.",
+    "Use question headings and add an FAQ.",
+    "Merge overlapping pages and redirect the old URLs."
+  ],
+  "sections": [
+    {
+      "heading": "Why refresh instead of only publishing new pages",
+      "body_html": "<p>Older pages often have something new pages lack: history, links and existing impressions. Many were written for an earlier style of search, with long introductions, keyword-focused headings and the answer buried halfway down. Updating them for AI search can deliver results faster than starting from scratch, because search engines already know the pages exist.</p>"
+    },
+    {
+      "heading": "Choose what to update first",
+      "body_html": "<ol><li><strong>Pages with impressions but few clicks</strong> in Search Console, especially for question-style queries.</li><li><strong>Pages that support sales</strong>: services, pricing, comparisons.</li><li><strong>Pages with outdated facts</strong> that could mislead readers or AI answers.</li><li><strong>Pages covering topics AI tools ask about</strong> in your category.</li></ol><p>Leave pages that perform well and are still accurate alone, or make only light improvements.</p>"
+    },
+    {
+      "heading": "Step 1: rewrite the opening",
+      "body_html": "<p>Read the main question the page answers, then write a 40 to 60 word answer and make it the first paragraph. Include the main term naturally. Pew Research Center found the median Google AI summary in its study was 67 words long, so a concise, complete answer is a natural length to be used. Move background and context below the answer.</p>"
+    },
+    {
+      "heading": "Step 2: restructure around questions",
+      "body_html": "<p>Turn vague headings such as \"Overview\" or \"Our approach\" into the questions readers actually ask: \"How much does it cost?\", \"How long does it take?\", \"Who is it for?\". Under each heading, answer in the first two or three sentences, then add detail. Use lists for steps and tables for comparisons.</p>"
+    },
+    {
+      "heading": "Step 3: update facts and sources",
+      "body_html": "<p>Check every number, date, price and claim. Replace outdated statistics with current ones from the original source and cite it. Remove claims you cannot verify. Add specific details from your own experience. Accurate, dated, sourced facts are what make a page trustworthy enough to cite.</p>"
+    },
+    {
+      "heading": "Step 4: add an FAQ and links",
+      "body_html": "<p>Add five to eight follow-up questions with short answers, drawn from Search Console queries, People Also Ask and sales conversations. Then review internal links: link to newer related pages, make sure the page's hub links to it, and use descriptive anchor text. Fix any broken links.</p>"
+    },
+    {
+      "heading": "Step 5: technical checks",
+      "body_html": "<ul><li>Title and meta description reflect the updated content.</li><li>Structured data matches what is visible on the page.</li><li>The page is indexable, with no accidental noindex.</li><li>The updated date is shown honestly, only when the content really changed.</li><li>The page loads quickly and reads well on mobile.</li></ul>"
+    },
+    {
+      "heading": "Merge, redirect or remove",
+      "body_html": "<p>Old sites often have several thin pages on the same topic. Combine them into one strong page, keep the best URL, and redirect the others to it with permanent redirects. Remove pages that have no useful purpose and no traffic, redirecting them where a relevant replacement exists. Fewer, better pages are easier for readers and AI tools to trust.</p>"
+    },
+    {
+      "heading": "After you publish the update",
+      "body_html": "<p>Resubmit your sitemap or notify search engines through IndexNow where supported, so the changes are discovered sooner. Note the update date, then compare impressions, clicks and AI citations for the page over the following four to eight weeks.</p>"
+    },
+    {
+      "heading": "How often to refresh",
+      "body_html": "<p>Review your most important pages at least once or twice a year, and immediately when prices, services or key facts change. Fast-moving topics, such as AI platforms, need more frequent checks. A simple spreadsheet with each page, its owner and the last review date keeps the work manageable.</p>"
+    },
+    {
+      "heading": "A before-and-after example",
+      "body_html": "<p><strong>Before:</strong> a 2022 post titled \"Everything You Need to Know About Local SEO\" opens with three paragraphs about how the internet has changed, has headings such as \"The Basics\" and \"Going Further\", cites a statistic with no source, and ends with a generic call to action.</p><p><strong>After:</strong> the title becomes \"Local SEO for Service Businesses: What Matters in 2026\". It opens with a 50-word answer listing the four things that matter most, uses headings such as \"How do I get into the map results?\" and \"Do reviews still matter?\", replaces the old statistic with a current, sourced one, adds a short FAQ, links to the related service page and newer guides, and shows the review date. Same URL, very different usefulness.</p>"
+    },
+    {
+      "heading": "A simple tracking sheet",
+      "body_html": "<p>Keep a spreadsheet with one row per important page: URL, main question, owner, last review date, next review date, impressions before and after the update, and notes on what changed. It turns content maintenance from an occasional cleanup into a routine, and it shows which kinds of updates actually move results for your site.</p>"
+    },
+    {
+      "heading": "Do not forget images and media",
+      "body_html": "<p>Old screenshots, charts with outdated numbers and images without descriptive alt text undermine an otherwise updated page. Replace outdated visuals, add alt text that describes what an image shows, and make sure any data in a chart is also stated in the text.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Updating old content is often the fastest GEO win available. Start with pages that already earn impressions, put the answer first, correct and source every fact, add the questions buyers ask, link it properly and merge what overlaps. Then measure, learn which changes worked, and repeat on the next page.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I update old content for AI search?",
+      "a": "Open with a direct answer, use question headings, replace outdated facts with current sourced ones, add an FAQ, improve internal links and show the updated date."
+    },
+    {
+      "q": "Which pages should I update first?",
+      "a": "Pages with impressions but few clicks, pages that support sales, and pages with outdated facts that could mislead readers."
+    },
+    {
+      "q": "Should I change the URL when updating a page?",
+      "a": "Usually not. Keep the existing URL to preserve its history; if you merge pages, redirect the old URLs to the one you keep."
+    },
+    {
+      "q": "Does changing the date help rankings?",
+      "a": "Only show a new date when the content genuinely changed. Updating the date without real changes does not help readers or search."
+    },
+    {
+      "q": "Should I delete old blog posts?",
+      "a": "Remove posts with no useful purpose and no traffic, redirecting them where a relevant page exists. Improve or merge the rest."
+    },
+    {
+      "q": "How long until an updated page shows results?",
+      "a": "Once re-crawled, changes can affect impressions and citations within weeks. Notify search engines to speed up discovery."
+    },
+    {
+      "q": "How often should content be refreshed?",
+      "a": "Review key pages at least once or twice a year, and immediately when important facts change."
+    },
+    {
+      "q": "Should I rewrite old content with AI tools?",
+      "a": "AI can help draft a restructure, but an expert should check every fact, add first-hand detail and approve the final version."
+    },
+    {
+      "q": "Will updating content hurt pages that already rank?",
+      "a": "Careful updates that keep the URL, improve accuracy and answer the question better rarely hurt. Change one important page at a time and watch the results."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "how to write content for AI search",
+      "url": "https://thechimeraai.com/how-to-write-content-for-ai-search/"
+    },
+    {
+      "anchor": "internal linking for AI search",
+      "url": "https://thechimeraai.com/internal-linking-for-ai-search/"
+    },
+    {
+      "anchor": "FAQ pages for AI search",
+      "url": "https://thechimeraai.com/faq-pages-for-ai-search/"
+    },
+    {
+      "anchor": "how to measure GEO results",
+      "url": "https://thechimeraai.com/how-to-measure-geo-results/"
+    },
+    {
+      "anchor": "Chimera's GEO services",
+      "url": "https://thechimeraai.com/#services"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Pew Research Center: Google users are less likely to click on links when an AI summary appears in the results (Jul 22, 2025)",
+      "url": "https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/"
+    },
+    {
+      "title": "Google Search Central: Creating helpful, reliable, people-first content",
+      "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content"
+    },
+    {
+      "title": "IndexNow: how it works",
+      "url": "https://www.indexnow.org/"
+    },
+    {
+      "title": "Google Search Central: Link best practices for Google",
+      "url": "https://developers.google.com/search/docs/crawling-indexing/links-crawlable"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 0,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "The refresh process",
+      "lead": "Five steps for every page you update.",
+      "steps": [
+        {
+          "title": "Choose",
+          "text": "Pick pages with impressions or sales value."
+        },
+        {
+          "title": "Answer first",
+          "text": "Rewrite the opening as a direct answer."
+        },
+        {
+          "title": "Restructure",
+          "text": "Question headings, current sourced facts, FAQ."
+        },
+        {
+          "title": "Republish",
+          "text": "Check technical basics and notify search engines."
+        }
+      ]
+    },
+    {
+      "after": 6,
+      "type": "scorecard",
+      "eyebrow": "Scorecard",
+      "title": "Which updates help most",
+      "lead": "How much each change helps (5 = most).",
+      "rows": [
+        {
+          "label": "Direct answer in the first paragraph",
+          "score": 5,
+          "note": "Easiest passage to cite."
+        },
+        {
+          "label": "Current, sourced facts",
+          "score": 5,
+          "note": "Builds trust."
+        },
+        {
+          "label": "Question headings",
+          "score": 4,
+          "note": "Matches how people ask."
+        },
+        {
+          "label": "Merging overlapping pages",
+          "score": 4,
+          "note": "One strong page beats several weak ones."
+        },
+        {
+          "label": "Changing only the date",
+          "score": 1,
+          "note": "No real improvement."
+        }
+      ]
+    }
+  ],
+  "hero_query": "How do I update old blog posts for AI search?",
+  "short_title": "Update Old Content for AI Search",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 776,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/how-to-update-old-content-for-ai-search-chimera-1.jpg",
+    "alt": "How to Update Old Content for AI Search (Checklist): illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-06",
+  "updated": "2026-11-10",
+  "photo": {
+    "id": 385,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/how-to-update-old-content-for-ai-search-photo.jpg",
+    "alt": "Hands replacing old yellowed pages with fresh ones in a binder",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
+}

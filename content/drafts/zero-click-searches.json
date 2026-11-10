@@ -1,0 +1,271 @@
+{
+  "query": "what are zero-click searches",
+  "slug": "zero-click-searches",
+  "eyebrow": "Search behavior",
+  "primary_keyword": "zero-click searches",
+  "secondary_keywords": [
+    "zero-click search",
+    "no-click searches",
+    "zero-click SEO",
+    "AI Overviews clicks"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Zero-Click Searches: What They Are and How to Adapt",
+    "meta_description": "What are zero-click searches, how common are they, how AI Overviews changed them, and how to win visibility and leads when fewer people click."
+  },
+  "h1": "Zero-Click Searches: What They Are and How to Win Anyway",
+  "answer": "Zero-click searches are searches that end without the person clicking any result, because the answer appears on the results page or they search again. SparkToro's 2024 data found just under 60% of U.S. Google searches ended this way. AI Overviews make zero-click searches more common, so visibility in the answer itself now matters.",
+  "key_takeaways": [
+    "A zero-click search ends without a click on any result.",
+    "Just under 60% of U.S. Google searches were zero-click in SparkToro's 2024 data.",
+    "AI summaries roughly halved result clicks in Pew's 2025 study.",
+    "Being named or cited in the answer still builds demand.",
+    "Track branded searches and leads, not only clicks."
+  ],
+  "sections": [
+    {
+      "heading": "What a zero-click search is",
+      "body_html": "<p>A zero-click search is one where the searcher does not click through to any website. SparkToro defines it as a search that ends without a click on any of the results presented, whether the person was satisfied, frustrated, or changed their query and searched again.</p><p>Common causes include answer boxes, featured snippets, knowledge panels, maps, calculators, and now AI Overviews and AI Mode, which write a full answer at the top of the page.</p>"
+    },
+    {
+      "heading": "How common zero-click searches are",
+      "body_html": "<p>SparkToro's 2024 study, built on clickstream data from Datos, found that just under 60% of U.S. Google searches on mobile and desktop ended without a click. Only 360 of every 1,000 U.S. searches resulted in a click to the open web, meaning sites not owned by Google; in the EU the figure was 374. SparkToro notes it is likely undercounting, because the data excludes voice searches through assistants.</p><p>Those figures were collected as AI Overviews were rolling out, so they describe the starting point rather than the effect of AI answers.</p>"
+    },
+    {
+      "heading": "How AI Overviews changed the picture",
+      "body_html": "<p>Pew Research Center's March 2025 browsing data from 900 U.S. adults measured the effect directly. When an AI summary appeared, users clicked a traditional result in 8% of visits; without one, 15%. Only 1% of visits included a click on a link inside the AI summary. People were also more likely to stop browsing entirely after a page with an AI summary: 26% of the time versus 16%.</p><p>AI summaries appeared most often on long, question-style searches, which are exactly the research questions buyers ask before choosing a provider.</p>"
+    },
+    {
+      "heading": "Why zero-click searches still matter for business",
+      "body_html": "<p>A search without a click is not a search without influence. If an AI answer names your company as a good option, the person may not click the link, but they now know your name. Many will search for you directly later, visit your site from a bookmark, or ask an assistant about you by name. That effect shows up as branded search growth, direct traffic and leads, not as a click from the original query.</p><p>The opposite is also true: if the answer names three competitors and not you, you lose the buyer before they ever see a results page.</p>"
+    },
+    {
+      "heading": "How to win visibility without the click",
+      "body_html": "<ul><li><strong>Answer the question in the first paragraph</strong>, in 40 to 60 words, so it can be quoted.</li><li><strong>Put your brand inside the answer</strong>, naturally: who you are and what you do, stated plainly.</li><li><strong>Publish facts worth citing</strong>, such as price ranges, timelines and comparisons, with sources.</li><li><strong>Keep business details consistent</strong> across your site, Google Business Profile and directories.</li><li><strong>Earn mentions</strong> on the review sites, communities and publications AI engines read.</li></ul>"
+    },
+    {
+      "heading": "Which searches still earn clicks",
+      "body_html": "<p>Zero-click behavior is concentrated in simple questions with short answers. Searches that need a decision, a comparison or an action still send visits: booking a consultation, comparing providers, checking prices, reading case studies. Build pages that serve those needs fully, with clear next steps, and give the AI answer a reason to send people to you for the detail it cannot summarize.</p>"
+    },
+    {
+      "heading": "How to measure performance in a zero-click world",
+      "body_html": "<ol><li><strong>Impressions</strong> in Search Console for the questions you target, a sign you are being shown.</li><li><strong>Branded search volume</strong>, which rises when AI answers mention you.</li><li><strong>AI referrals</strong> in Google Analytics from chatgpt.com, perplexity.ai and similar sources.</li><li><strong>Leads and conversions</strong> by landing page.</li><li><strong>Regular checks of AI answers</strong> for your key questions, recording who is named.</li></ol>"
+    },
+    {
+      "heading": "Who should not over-react",
+      "body_html": "<p>If most of your business comes from referrals, local map results or a small set of high-intent searches, zero-click trends may matter less than they appear. Check your own Search Console data before rebuilding your strategy around a headline statistic. The aim is to adapt the pages that answer research questions, not to abandon what already brings leads.</p>"
+    },
+    {
+      "heading": "Examples of zero-click results",
+      "body_html": "<p>Familiar examples include the weather box, sports scores, currency conversions, definitions, local map packs with phone numbers, and featured snippets that answer a quick question. AI Overviews extend the pattern to complex questions that used to require reading several pages, such as comparisons and how-to explanations.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a zero-click search?",
+      "a": "A search that ends without the person clicking any result, because the answer is on the results page, or because they refine their search or give up."
+    },
+    {
+      "q": "What percentage of Google searches are zero-click?",
+      "a": "SparkToro's 2024 study found just under 60% of U.S. Google searches ended without a click, based on Datos clickstream data."
+    },
+    {
+      "q": "Do AI Overviews increase zero-click searches?",
+      "a": "Pew Research Center found users clicked a traditional result in 8% of visits when an AI summary appeared, compared with 15% when it did not."
+    },
+    {
+      "q": "Are zero-click searches bad for SEO?",
+      "a": "They reduce clicks on simple questions, but being shown and cited still builds awareness and branded demand. The goal shifts from clicks alone to visibility inside the answer."
+    },
+    {
+      "q": "How do I optimize for zero-click searches?",
+      "a": "Answer questions directly near the top of the page, include your brand and specific facts, keep business details consistent, and earn mentions on trusted sites."
+    },
+    {
+      "q": "How do I measure results if people do not click?",
+      "a": "Track impressions, branded search volume, AI referrals and leads, and regularly check which brands AI answers name for your key questions."
+    },
+    {
+      "q": "Are zero-click searches new?",
+      "a": "No. Answer boxes, knowledge panels and featured snippets created zero-click searches long before AI Overviews. AI answers extend the pattern from simple facts to complex questions that used to need several clicks."
+    },
+    {
+      "q": "Should I block AI Overviews from using my content?",
+      "a": "You can limit snippets with nosnippet controls, but that also limits how your pages appear in regular results. For most businesses, being cited in the answer is more valuable than being excluded from it."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "AI search statistics",
+      "url": "https://thechimeraai.com/ai-search-statistics/"
+    },
+    {
+      "anchor": "AI Overviews vs featured snippets",
+      "url": "https://thechimeraai.com/ai-overviews-vs-featured-snippets/"
+    },
+    {
+      "anchor": "how to track AI traffic in Google Analytics",
+      "url": "https://thechimeraai.com/how-to-track-ai-traffic-in-google-analytics/"
+    },
+    {
+      "anchor": "is SEO dead",
+      "url": "https://thechimeraai.com/is-seo-dead/"
+    },
+    {
+      "anchor": "Chimera's GEO services",
+      "url": "https://thechimeraai.com/#services"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "SparkToro: 2024 Zero-Click Search Study (Jul 1, 2024, data from Datos)",
+      "url": "https://sparktoro.com/blog/2024-zero-click-search-study-for-every-1000-us-google-searches-only-374-clicks-go-to-the-open-web-in-the-eu-its-360/"
+    },
+    {
+      "title": "Pew Research Center: Google users are less likely to click on links when an AI summary appears in the results (Jul 22, 2025)",
+      "url": "https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/"
+    },
+    {
+      "title": "Google Search Central: AI features and your website",
+      "url": "https://developers.google.com/search/docs/appearance/ai-features"
+    },
+    {
+      "title": "Google Search Central: Creating helpful, reliable, people-first content",
+      "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 1,
+      "type": "bars",
+      "eyebrow": "SparkToro data",
+      "title": "Where 1,000 Google searches send their clicks",
+      "lead": "Clicks that reach the open web (sites not owned by Google) per 1,000 searches, 2024 clickstream data.",
+      "chart_label": "Clicks to the open web per 1,000 searches",
+      "engine": "google",
+      "items": [
+        {
+          "label": "United States",
+          "value": 360
+        },
+        {
+          "label": "European Union",
+          "value": 374
+        }
+      ],
+      "source": {
+        "title": "SparkToro 2024 Zero-Click Search Study, data from Datos",
+        "url": "https://sparktoro.com/blog/2024-zero-click-search-study-for-every-1000-us-google-searches-only-374-clicks-go-to-the-open-web-in-the-eu-its-360/"
+      }
+    },
+    {
+      "after": 2,
+      "type": "bars",
+      "eyebrow": "Pew Research data",
+      "title": "What people click when an AI summary appears",
+      "lead": "Share of Google search visits that ended in each action, March 2025.",
+      "unit": "%",
+      "engine": "google",
+      "chart_label": "Google Search visits",
+      "items": [
+        {
+          "label": "Clicked a result, no AI summary on the page",
+          "value": 15
+        },
+        {
+          "label": "Clicked a result, AI summary on the page",
+          "value": 8
+        },
+        {
+          "label": "Clicked a link inside the AI summary",
+          "value": 1
+        }
+      ],
+      "source": {
+        "title": "Pew Research Center, March 2025 browsing data from 900 U.S. adults",
+        "url": "https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/"
+      }
+    },
+    {
+      "after": 2,
+      "type": "bars",
+      "eyebrow": "Pew Research data",
+      "title": "Searches that ended the browsing session",
+      "lead": "Share of Google search pages after which the user stopped browsing entirely, March 2025.",
+      "unit": "%",
+      "engine": "google",
+      "chart_label": "Session ended after the search",
+      "items": [
+        {
+          "label": "Pages with an AI summary",
+          "value": 26
+        },
+        {
+          "label": "Pages with only traditional results",
+          "value": 16
+        }
+      ],
+      "source": {
+        "title": "Pew Research Center, March 2025 browsing data from 900 U.S. adults",
+        "url": "https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/"
+      }
+    },
+    {
+      "after": 4,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "How a zero-click search can still win you a lead",
+      "lead": "Influence often arrives later, through a different door.",
+      "steps": [
+        {
+          "title": "Question",
+          "text": "A buyer asks Google or an assistant a research question."
+        },
+        {
+          "title": "Answer",
+          "text": "The AI answer names your company among a few options."
+        },
+        {
+          "title": "Later search",
+          "text": "The buyer searches your brand name or asks about you directly."
+        },
+        {
+          "title": "Visit and lead",
+          "text": "They arrive ready to compare and contact you."
+        }
+      ]
+    }
+  ],
+  "hero_query": "What are zero-click searches?",
+  "short_title": "Zero-Click Searches: What They Are and How to Adapt",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 797,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/zero-click-searches-chimera-1.jpg",
+    "alt": "Zero-Click Searches: What They Are and How to Adapt: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-06",
+  "updated": "2026-11-10",
+  "photo": {
+    "id": 360,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/zero-click-searches-photo.jpg",
+    "alt": "Person on a sofa reading an answer on a smartphone in the evening",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
+}

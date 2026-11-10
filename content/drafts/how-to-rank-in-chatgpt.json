@@ -1,0 +1,293 @@
+{
+  "query": "how to rank in chatgpt",
+  "slug": "how-to-rank-in-chatgpt",
+  "eyebrow": "ChatGPT visibility",
+  "primary_keyword": "rank in ChatGPT",
+  "secondary_keywords": [
+    "ChatGPT SEO",
+    "get recommended by ChatGPT",
+    "ChatGPT search",
+    "OAI-SearchBot"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "How to Rank in ChatGPT: 9 Steps to Get Recommended",
+    "meta_description": "How to rank in ChatGPT answers: let OAI-SearchBot crawl you, answer questions directly, earn brand mentions, and track ChatGPT referrals and leads."
+  },
+  "h1": "How to Rank in ChatGPT: 9 Steps to Get Your Brand Recommended",
+  "answer": "To rank in ChatGPT, make sure OpenAI's OAI-SearchBot can crawl your site, publish pages that answer buyers' exact questions in the first lines, back claims with specific facts and sources, and earn consistent brand mentions on sites ChatGPT trusts. Then track ChatGPT referrals and leads to see which pages it actually recommends.",
+  "key_takeaways": [
+    "ChatGPT has no ranked list; it names a few brands and cites sources when it searches the web.",
+    "OAI-SearchBot must be allowed to crawl your pages for them to appear in ChatGPT search results.",
+    "Pages that answer the exact question early, with specifics, are the easiest to cite.",
+    "Mentions of your brand on other trusted sites strongly shape what ChatGPT says about you.",
+    "Visits from chatgpt.com show up in analytics, so you can measure what works."
+  ],
+  "sections": [
+    {
+      "heading": "What it means to rank in ChatGPT",
+      "body_html": "<p>ChatGPT does not show ten blue links. When it answers a question that needs current information, it can search the web, read sources and write a response, often with links to the pages it used. For questions it answers from training alone, it draws on what it learned about brands and topics.</p><p>So \"ranking\" in ChatGPT really means three things:</p><ul><li><strong>Being mentioned</strong> by name when someone asks for options or recommendations.</li><li><strong>Being described correctly:</strong> your specialty, location and strengths.</li><li><strong>Being cited</strong> with a link when ChatGPT searches the web.</li></ul><p>You influence all three with the same steps.</p>"
+    },
+    {
+      "heading": "Step 1–3: Let ChatGPT find and read your site",
+      "body_html": "<h3>1. Allow OAI-SearchBot</h3><p>OpenAI documents several crawlers. OAI-SearchBot is used to surface websites in ChatGPT's search features; GPTBot is used for training; ChatGPT-User fetches pages when a user asks. If your robots.txt or firewall blocks OAI-SearchBot, your pages cannot appear in ChatGPT search results. You can allow search while still blocking training if you prefer.</p><h3>2. Make sure pages are indexable and fast</h3><p>Pages that load slowly, depend entirely on JavaScript, or sit behind logins are hard for any crawler to read. Keep key content in the HTML, use clean URLs, and include every important page in your sitemap.</p><h3>3. Tell crawlers about new pages quickly</h3><p>Submit your sitemap in search tools and use IndexNow, which notifies participating search engines such as Bing the moment a page is published or updated.</p>"
+    },
+    {
+      "heading": "Step 4–6: Write pages ChatGPT wants to quote",
+      "body_html": "<h3>4. Answer the exact question first</h3><p>Start each page with a 40–60 word answer that uses the words buyers use. If someone asks \"what does a GEO agency cost\", your page should say it plainly in the first lines, then explain.</p><h3>5. Be specific and cite sources</h3><p>Research on generative engines found that adding citations, quotations and statistics made sources noticeably more visible in AI answers, while keyword stuffing did not help. Replace general claims with numbers, named methods, examples and references.</p><h3>6. Structure for passages</h3><p>Use question-style headings, short paragraphs, comparison tables and FAQs. Each section should make sense if quoted on its own, because that is how it will be used.</p>"
+    },
+    {
+      "heading": "Step 7–8: Build the reputation ChatGPT relies on",
+      "body_html": "<h3>7. Earn mentions on trusted sites</h3><p>When ChatGPT recommends providers, it leans on what the wider web says: reviews, \"best of\" lists, directories, industry publications, Reddit and community discussions, and partner pages. A brand that appears consistently in those places is far easier to recommend than one that only describes itself.</p><p>Practical ways to earn mentions: contribute expert quotes to industry articles, get listed in the directories your buyers use, collect detailed reviews, publish original data others want to reference, and keep partner and supplier pages up to date.</p><h3>8. Describe your brand the same way everywhere</h3><p>Use one clear description of what you do, who you serve and where, on your homepage, About page, social profiles, directory listings and Organization schema. Inconsistency makes an AI engine less confident about what you are best at.</p>"
+    },
+    {
+      "heading": "Step 9: Measure what ChatGPT sends you",
+      "body_html": "<p>Visitors who click links in ChatGPT usually arrive with <code>chatgpt.com</code> as the referrer, and ChatGPT often adds <code>utm_source=chatgpt.com</code> to links. In Google Analytics, group these visits into an \"AI search\" channel alongside perplexity.ai, gemini.google.com, copilot.microsoft.com and claude.ai.</p><p>Then track:</p><ul><li>Which landing pages ChatGPT sends visitors to.</li><li>How those visitors convert compared with search visitors.</li><li>A fixed list of 20–50 buyer questions you test in ChatGPT each month, recording whether you are mentioned and cited.</li></ul><p>People who read a recommendation and later search your brand name show up as branded search instead, so watch branded search growth too.</p>"
+    },
+    {
+      "heading": "What a page ChatGPT recommends looks like",
+      "body_html": "<p>When ChatGPT recommends a provider, the pages it cites tend to share the same building blocks. Use this as a template for your most important service or comparison pages:</p><ul><li><strong>A one-line description</strong> of who you are, what you do and who you serve, in the first paragraph.</li><li><strong>A direct answer</strong> to the question the page targets, in plain language.</li><li><strong>Specifics:</strong> service areas, price ranges or how pricing works, timelines, and what is included.</li><li><strong>Proof:</strong> named clients where you have permission, case results with numbers, reviews and certifications.</li><li><strong>Comparisons:</strong> how your approach differs from alternatives, including when you are not the right fit.</li><li><strong>FAQs</strong> that mirror real follow-up questions.</li><li><strong>A clear next step,</strong> such as a short form, so the visitor ChatGPT sends you can act right away.</li></ul><p>Pages built this way serve people and AI engines equally well, which is exactly the point.</p>"
+    },
+    {
+      "heading": "Mistakes that keep brands out of ChatGPT answers",
+      "body_html": "<ul><li><strong>Blocking AI crawlers by accident</strong> through a security plugin or CDN setting.</li><li><strong>Hiding the answer</strong> under long introductions, sliders or tabs that need clicks.</li><li><strong>Thin, repetitive pages</strong> produced in bulk. They rarely get cited and can hurt search visibility.</li><li><strong>No proof:</strong> claims without examples, data or reviews give ChatGPT little reason to trust you.</li><li><strong>Inconsistent business details</strong> across the web.</li><li><strong>Checking once and giving up.</strong> AI answers vary between sessions; track trends over many questions.</li></ul>"
+    },
+    {
+      "heading": "A 30-day plan to rank in ChatGPT",
+      "body_html": "<table><tr><th>Week</th><th>Focus</th><th>Output</th></tr><tr><td>1</td><td>Baseline and access</td><td>List of 30 buyer questions tested in ChatGPT; robots.txt and firewall allow OAI-SearchBot</td></tr><tr><td>2</td><td>Fix key pages</td><td>Homepage and top service pages open with direct answers, FAQs and schema</td></tr><tr><td>3</td><td>New answer pages</td><td>Pages for the five highest-intent questions you are not mentioned for</td></tr><tr><td>4</td><td>Reputation and tracking</td><td>Directory and review profiles updated; AI search channel live in analytics</td></tr></table><p>Repeat the question test at the end of the month and keep going on whatever moved.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I rank in ChatGPT?",
+      "a": "Allow OpenAI's OAI-SearchBot to crawl your site, publish pages that answer buyers' exact questions in the first lines with specific, sourced facts, keep your brand description consistent, and earn mentions on trusted sites. Then track ChatGPT referrals to see what works."
+    },
+    {
+      "q": "Can I pay to rank in ChatGPT?",
+      "a": "ChatGPT's organic answers are not something you can buy a position in. You improve your chances by being the clearest, best-supported source and the most consistently described brand for the questions your buyers ask."
+    },
+    {
+      "q": "What is OAI-SearchBot?",
+      "a": "It is OpenAI's crawler for ChatGPT's search features. Allowing it in robots.txt lets your pages be shown and linked in ChatGPT search results. It is separate from GPTBot, which OpenAI uses for training."
+    },
+    {
+      "q": "How long does it take to appear in ChatGPT answers?",
+      "a": "When ChatGPT searches the web, a well-structured page can be cited soon after it is crawled. Mentions that rely on what the model learned in training change more slowly, often over months as your brand appears on more trusted sites."
+    },
+    {
+      "q": "How can I see if ChatGPT sends me traffic?",
+      "a": "Look for visits with chatgpt.com as the source or referrer in Google Analytics, often tagged utm_source=chatgpt.com. Group them with other AI referrers into one channel and compare their conversion rate with search traffic."
+    },
+    {
+      "q": "Does ChatGPT use Google rankings?",
+      "a": "Not directly. ChatGPT search uses its own crawler and third-party search providers. In practice, pages that are well structured, trustworthy and widely referenced tend to do well in both."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "what generative engine optimization is",
+      "url": "https://thechimeraai.com/what-is-generative-engine-optimization-and-how-does-it-work/"
+    },
+    {
+      "anchor": "Perplexity SEO guide",
+      "url": "https://thechimeraai.com/perplexity-seo/"
+    },
+    {
+      "anchor": "how to show up in Google AI Overviews",
+      "url": "https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/"
+    },
+    {
+      "anchor": "Chimera's GEO services",
+      "url": "https://thechimeraai.com/#services"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "OpenAI: Overview of OpenAI crawlers",
+      "url": "https://platform.openai.com/docs/bots"
+    },
+    {
+      "title": "GEO: Generative Engine Optimization (Aggarwal et al., KDD 2024)",
+      "url": "https://arxiv.org/abs/2311.09735"
+    },
+    {
+      "title": "IndexNow: how it works",
+      "url": "https://www.indexnow.org/"
+    },
+    {
+      "title": "Google Search Central: Introduction to robots.txt",
+      "url": "https://developers.google.com/search/docs/crawling-indexing/robots/intro"
+    }
+  ],
+  "published": "2026-11-05",
+  "updated": "2026-11-10",
+  "short_title": "How to Rank in ChatGPT: 9 Steps to Get Recommended",
+  "hero_query": "How do I get my brand recommended by ChatGPT?",
+  "hero_engines": [
+    "chatgpt",
+    "google",
+    "perplexity",
+    "gemini",
+    "claude",
+    "copilot"
+  ],
+  "visuals": [
+    {
+      "after": 0,
+      "type": "bars",
+      "eyebrow": "Chart",
+      "title": "ChatGPT's weekly users, as reported by OpenAI",
+      "lead": "Weekly active users grew eightfold in under two years. That is the audience now asking ChatGPT which provider to choose.",
+      "engine": "chatgpt",
+      "chart_label": "ChatGPT weekly active users (millions)",
+      "unit": "M",
+      "items": [
+        {
+          "label": "Nov 2023",
+          "value": 100
+        },
+        {
+          "label": "Mar 2025",
+          "value": 500
+        },
+        {
+          "label": "Aug 2025",
+          "value": 700
+        },
+        {
+          "label": "Oct 2025",
+          "value": 800
+        }
+      ],
+      "source": {
+        "title": "TechCrunch: Sam Altman says ChatGPT has hit 800M weekly active users (Oct 6, 2025)",
+        "url": "https://techcrunch.com/2025/10/06/sam-altman-says-chatgpt-has-hit-800m-weekly-active-users/",
+        "note": "Figures announced by OpenAI"
+      }
+    },
+    {
+      "after": 1,
+      "type": "matrix",
+      "eyebrow": "Crawler access",
+      "title": "Which crawler each AI platform uses",
+      "lead": "Allow these in robots.txt and your firewall, or that platform cannot read your pages for its answers.",
+      "columns": [
+        "chatgpt",
+        "perplexity",
+        "google",
+        "claude",
+        "copilot"
+      ],
+      "rows": [
+        {
+          "label": "Crawler for search answers",
+          "cells": [
+            "OAI-SearchBot",
+            "PerplexityBot",
+            "Googlebot",
+            "Claude-SearchBot",
+            "Bingbot"
+          ]
+        },
+        {
+          "label": "Fetches pages on a user's request",
+          "cells": [
+            "ChatGPT-User",
+            "Perplexity-User",
+            "Googlebot",
+            "Claude-User",
+            "Bingbot"
+          ]
+        },
+        {
+          "label": "Separate training crawler you can block",
+          "cells": [
+            "Yes: GPTBot",
+            "Not used for training",
+            "Yes: Google-Extended",
+            "Yes: ClaudeBot",
+            "No separate bot"
+          ]
+        }
+      ],
+      "source": {
+        "title": "OpenAI, Perplexity, Google and Anthropic crawler documentation",
+        "url": "https://platform.openai.com/docs/bots",
+        "note": "Check each platform's docs for changes"
+      }
+    },
+    {
+      "after": 3,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "From question to recommendation in ChatGPT",
+      "lead": "What happens between a buyer's prompt and your brand being named.",
+      "steps": [
+        {
+          "title": "Prompt",
+          "text": "A buyer asks ChatGPT for options or advice."
+        },
+        {
+          "title": "Search",
+          "text": "OAI-SearchBot's index and search partners supply candidate pages."
+        },
+        {
+          "title": "Weigh",
+          "text": "ChatGPT favors clear answers, specifics and brands mentioned across the web."
+        },
+        {
+          "title": "Recommend",
+          "text": "It names a few brands and links the pages it used."
+        }
+      ]
+    },
+    {
+      "after": 2,
+      "type": "line",
+      "eyebrow": "Interactive chart",
+      "title": "Gemini app monthly users over time",
+      "lead": "Google's assistant grew more than sevenfold in a year. Hover the points for each figure.",
+      "engine": "gemini",
+      "chart_label": "Gemini app monthly active users (millions)",
+      "unit": "M",
+      "items": [
+        {
+          "label": "Oct 2024",
+          "value": 90
+        },
+        {
+          "label": "Mar 2025",
+          "value": 350
+        },
+        {
+          "label": "Oct 2025",
+          "value": 650
+        }
+      ],
+      "source": {
+        "title": "9to5Google: Gemini app passes 650 million monthly users (Oct 29, 2025)",
+        "url": "https://9to5google.com/2025/10/29/gemini-app-650-million-users/",
+        "note": "Oct 2024 and Mar 2025 from court documents; Oct 2025 from Alphabet's Q3 earnings call"
+      }
+    }
+  ],
+  "hero_image": {
+    "id": 772,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/how-to-rank-in-chatgpt-chimera-1.jpg",
+    "alt": "How to Rank in ChatGPT: 9 Steps to Get Recommended: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "photo": {
+    "id": 222,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/how-to-rank-in-chatgpt-photo-1.jpg",
+    "alt": "Person typing a question into an AI chat assistant on a laptop at night",
+    "width": 1360,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Kittl AI"
+  }
+}

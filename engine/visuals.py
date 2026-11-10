@@ -43,7 +43,7 @@ def logo(engine, size="md"):
 def _head(v, default_eyebrow):
     lead = f'<p class="cp-sec-lead">{_e(v["lead"])}</p>' if v.get("lead") else ""
     return (f'<div class="cp-sec-head"><div><p class="cp-eyebrow">{_e(v.get("eyebrow", default_eyebrow))}</p>'
-            f'<h2>{_e(v["title"])}</h2></div>{lead}</div>')
+            f'<h3 class="cp-vis-title">{_e(v["title"])}</h3></div>{lead}</div>')
 
 
 def _source(v):

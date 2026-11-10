@@ -1,0 +1,278 @@
+{
+  "query": "how to find the prompts people ask ai",
+  "slug": "how-to-find-prompts-people-ask-ai",
+  "eyebrow": "Research",
+  "primary_keyword": "prompts people ask AI",
+  "secondary_keywords": [
+    "AI prompt research",
+    "ChatGPT keyword research",
+    "AI search keyword research",
+    "conversational search queries"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "How to Find the Prompts People Ask AI About You",
+    "meta_description": "How to find the prompts people ask AI: use Search Console, autocomplete, sales calls, communities and AI suggestions to build a prompt list."
+  },
+  "h1": "How to Find the Prompts People Ask AI Tools About Your Category",
+  "answer": "To find the prompts people ask AI about your category, combine sources that capture real language: long, question-style queries in Search Console, Google autocomplete and People Also Ask, questions from sales and support, discussions in online communities, and the follow-up questions AI tools suggest. AI companies do not publish prompt data, so these signals are the best available proxy.",
+  "key_takeaways": [
+    "AI platforms do not publish prompt volume data.",
+    "Long question queries in Search Console are a strong proxy.",
+    "Sales and support conversations reveal real wording.",
+    "Communities show how buyers describe problems.",
+    "Group prompts by stage: problem, solution, comparison, provider."
+  ],
+  "sections": [
+    {
+      "heading": "Why prompts are different from keywords",
+      "body_html": "<p>Keywords are short: \"GEO agency\". Prompts are long and conversational: \"I run a small dental practice in Irvine, how do I get ChatGPT to recommend us when people ask for a dentist?\". Pew Research Center found that searches of ten words or more produced a Google AI summary 53% of the time, compared with 8% of one- or two-word searches. The longer, more detailed questions are where AI answers appear most, so your research needs to capture that language.</p>"
+    },
+    {
+      "heading": "The data problem",
+      "body_html": "<p>Unlike Google, which offers keyword data through its tools, AI assistants do not publish what people ask them or how often. Any tool claiming exact prompt volumes is estimating. The good news is that the same people ask similar questions across Google, assistants, communities and your sales team, so you can build a reliable picture from the sources you can see.</p>"
+    },
+    {
+      "heading": "Source 1: Search Console",
+      "body_html": "<p>Filter your Search Console queries for long ones, or for those starting with how, what, why, which, best, should or can. These are real searches people made that led to your pages appearing. They often mirror what the same people ask assistants. Pay special attention to queries with impressions but few clicks; they may be answered by AI features already.</p>"
+    },
+    {
+      "heading": "Source 2: autocomplete and People Also Ask",
+      "body_html": "<p>Type the start of a question about your topic into Google and note the suggestions. Do the same with question words: \"how to\", \"is it worth\", \"best way to\", \"what does\". Expand People Also Ask boxes; each click reveals more questions. These reflect common real searches and the follow-up questions Google associates with them.</p>"
+    },
+    {
+      "heading": "Source 3: sales and support",
+      "body_html": "<p>Your team hears the exact questions buyers ask before they buy. Collect them for two weeks: in calls, emails, chat logs and form submissions. Write them down word for word. These are often the most valuable prompts because they come from people close to a decision.</p>"
+    },
+    {
+      "heading": "Source 4: communities and reviews",
+      "body_html": "<p>Search Reddit, industry forums, Facebook groups and Q&A sites for your category. Note how people describe their problems, the options they mention and the objections they raise. Reviews of your business and competitors reveal what buyers care about in their own words.</p>"
+    },
+    {
+      "heading": "Source 5: the AI tools themselves",
+      "body_html": "<p>Ask an assistant a broad question about your category and note the follow-up questions it suggests or the subtopics it covers. Ask it what questions someone researching your service would typically ask. This is not data about real users, but it shows how the AI structures the topic, which is useful for deciding what to cover.</p>"
+    },
+    {
+      "heading": "Organize the prompts",
+      "body_html": "<table><tr><th>Stage</th><th>Example prompt</th></tr><tr><td>Problem</td><td>Why isn't my business showing up in ChatGPT?</td></tr><tr><td>Solution</td><td>How do I get my website cited by AI search engines?</td></tr><tr><td>Comparison</td><td>Is GEO different from SEO, and do I need both?</td></tr><tr><td>Provider</td><td>Who are the best GEO agencies in Orange County?</td></tr><tr><td>Brand</td><td>Is [brand] a good GEO agency?</td></tr></table><p>Prioritize provider and comparison prompts for lead generation, and problem and solution prompts for building authority.</p>"
+    },
+    {
+      "heading": "Turn prompts into a plan",
+      "body_html": "<ol><li><strong>Group similar prompts</strong> into one question each.</li><li><strong>Match each question</strong> to an existing page or a new one.</li><li><strong>Write answer-first content</strong> using the buyers' own words in headings.</li><li><strong>Add the best prompts to your monthly AI answer checks.</strong></li></ol>"
+    },
+    {
+      "heading": "Keep the list fresh",
+      "body_html": "<p>Prompts change as markets change. Add new questions monthly from sales and Search Console, retire ones nobody asks any more, and review the full list quarterly. A living prompt list is the backbone of both your content plan and your AI visibility tracking.</p>"
+    },
+    {
+      "heading": "An example prompt list for one service",
+      "body_html": "<p>For a GEO audit service, the research might produce prompts such as: \"why doesn't my business show up in ChatGPT\", \"how do I check if AI tools mention my company\", \"what does an AI visibility audit include\", \"how much does a GEO audit cost\", \"is a GEO audit worth it for a small business\", \"GEO audit vs SEO audit\", \"best GEO agencies in Orange County\", and \"what should I ask a GEO agency before hiring\". Grouped by stage, they map directly onto a set of pages and FAQs, and the provider-stage prompts become part of the monthly answer checks.</p>"
+    },
+    {
+      "heading": "Using the buyers' own words",
+      "body_html": "<p>The language customers use is often different from industry jargon. People may say \"show up in ChatGPT\" rather than \"generative engine optimization\", or \"get more calls from Google\" rather than \"local SEO\". Use their phrases in headings and opening answers, and explain the industry terms on the page. Matching real wording makes content easier for both readers and AI tools to connect to the question.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>There is no prompt database to buy. Build your own from Search Console, Google's suggestions, your sales team and community discussions, organize it by buying stage, and keep it updated.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I see what people ask ChatGPT?",
+      "a": "No. AI companies do not publish prompt data. Search Console, autocomplete, sales conversations and communities are the best proxies."
+    },
+    {
+      "q": "Are AI prompt volume tools accurate?",
+      "a": "They are estimates. Use them as directional input alongside real data from your own Search Console and customers."
+    },
+    {
+      "q": "How are prompts different from keywords?",
+      "a": "Prompts are longer and conversational, often including context like location, industry and constraints. Keywords are short phrases."
+    },
+    {
+      "q": "Where do I find the best prompts?",
+      "a": "Sales and support conversations are often the most valuable, because they come from buyers close to a decision."
+    },
+    {
+      "q": "How many prompts should I track?",
+      "a": "Group them into twenty to fifty core questions for tracking, and use the full list to guide content."
+    },
+    {
+      "q": "How do I use Search Console to find prompts?",
+      "a": "Filter for long queries or those starting with question words, especially ones with impressions but few clicks."
+    },
+    {
+      "q": "Should I ask AI tools what people ask?",
+      "a": "It can show how the AI structures a topic and which follow-ups it suggests, but it is not data about real users."
+    },
+    {
+      "q": "How often should I update my prompt list?",
+      "a": "Add new prompts monthly and review the whole list quarterly."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "AI share of voice",
+      "url": "https://thechimeraai.com/ai-share-of-voice/"
+    },
+    {
+      "anchor": "what query fan-out is",
+      "url": "https://thechimeraai.com/what-is-query-fan-out/"
+    },
+    {
+      "anchor": "how to write content for AI search",
+      "url": "https://thechimeraai.com/how-to-write-content-for-ai-search/"
+    },
+    {
+      "anchor": "how to check if ChatGPT mentions your brand",
+      "url": "https://thechimeraai.com/how-to-check-if-chatgpt-mentions-your-brand/"
+    },
+    {
+      "anchor": "Chimera's GEO services",
+      "url": "https://thechimeraai.com/#services"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Pew Research Center: Google users are less likely to click on links when an AI summary appears in the results (Jul 22, 2025)",
+      "url": "https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/"
+    },
+    {
+      "title": "Google Search Central: AI features and your website",
+      "url": "https://developers.google.com/search/docs/appearance/ai-features"
+    },
+    {
+      "title": "Google Search Central: Creating helpful, reliable, people-first content",
+      "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 0,
+      "type": "bars",
+      "eyebrow": "Pew Research data",
+      "title": "Which searches trigger an AI summary",
+      "lead": "Share of Google searches that produced an AI summary, by type of search, March 2025.",
+      "unit": "%",
+      "engine": "google",
+      "chart_label": "Searches with an AI summary",
+      "items": [
+        {
+          "label": "Searches starting with who, what, when or why",
+          "value": 60
+        },
+        {
+          "label": "Searches of 10 words or more",
+          "value": 53
+        },
+        {
+          "label": "Full-sentence searches (noun and verb)",
+          "value": 36
+        },
+        {
+          "label": "All searches in the study",
+          "value": 18
+        },
+        {
+          "label": "One- or two-word searches",
+          "value": 8
+        }
+      ],
+      "source": {
+        "title": "Pew Research Center, March 2025 browsing data from 900 U.S. adults",
+        "url": "https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/"
+      }
+    },
+    {
+      "after": 2,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "Where real prompts come from",
+      "lead": "Combine several sources for a reliable picture.",
+      "steps": [
+        {
+          "title": "Search Console",
+          "text": "Long, question-style queries."
+        },
+        {
+          "title": "Google suggestions",
+          "text": "Autocomplete and People Also Ask."
+        },
+        {
+          "title": "Your team",
+          "text": "Exact questions from sales and support."
+        },
+        {
+          "title": "Communities",
+          "text": "How buyers describe problems in their own words."
+        }
+      ]
+    },
+    {
+      "after": 7,
+      "type": "scorecard",
+      "eyebrow": "Scorecard",
+      "title": "How useful each prompt source is",
+      "lead": "Value for planning content (5 = most).",
+      "rows": [
+        {
+          "label": "Sales and support questions",
+          "score": 5,
+          "note": "Closest to a buying decision."
+        },
+        {
+          "label": "Search Console long queries",
+          "score": 5,
+          "note": "Real searches for your site."
+        },
+        {
+          "label": "Autocomplete and People Also Ask",
+          "score": 4,
+          "note": "Common real questions."
+        },
+        {
+          "label": "Community discussions",
+          "score": 4,
+          "note": "Real language and objections."
+        },
+        {
+          "label": "Estimated prompt volumes",
+          "score": 2,
+          "note": "Directional only."
+        }
+      ]
+    }
+  ],
+  "hero_query": "What do people ask AI about my industry?",
+  "short_title": "Find the Prompts People Ask AI",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 763,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/how-to-find-prompts-people-ask-ai-chimera-1.jpg",
+    "alt": "How to Find the Prompts People Ask AI About You: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-06",
+  "updated": "2026-11-10",
+  "photo": {
+    "id": 393,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/how-to-find-prompts-people-ask-ai-photo.jpg",
+    "alt": "Woman with a headset taking notes during a customer video call",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
+}

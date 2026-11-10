@@ -1,0 +1,278 @@
+{
+  "query": "how to optimize youtube for ai search",
+  "slug": "youtube-for-ai-search",
+  "eyebrow": "Off-site GEO",
+  "primary_keyword": "YouTube for AI search",
+  "secondary_keywords": [
+    "YouTube SEO for AI",
+    "video SEO AI Overviews",
+    "YouTube and ChatGPT",
+    "video content AI search"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "YouTube for AI Search: Get Your Videos Cited",
+    "meta_description": "YouTube for AI search: why videos appear in Google's AI answers, how titles, descriptions, chapters and transcripts help, and which videos to make first."
+  },
+  "h1": "YouTube for AI Search: How to Make Videos AI Answers Can Use",
+  "answer": "YouTube for AI search matters because video is part of the sources AI answers draw on: Pew Research Center found YouTube, with Wikipedia and Reddit, among the most commonly linked sources in Google's AI summaries. To be useful to AI, a video needs a clear question-based title, a description that summarizes the answer, chapters, accurate captions and a link to a related page on your site.",
+  "key_takeaways": [
+    "YouTube is among the most linked sources in Google search and AI summaries.",
+    "AI systems read titles, descriptions, captions and chapters.",
+    "Answer the question early in the video and the description.",
+    "Accurate captions make spoken content readable.",
+    "Pair each video with a page on your own site."
+  ],
+  "sections": [
+    {
+      "heading": "Why video matters for AI search",
+      "body_html": "<p>Pew Research Center's March 2025 study found that Wikipedia, YouTube and Reddit were the most commonly linked sources in Google's results and AI summaries, together accounting for 15% of sources in AI summaries. YouTube links were somewhat more common in standard results than in AI summaries, but video is clearly part of the source pool. For how-to, demonstration and comparison questions, a clear video can be the most useful answer available.</p>"
+    },
+    {
+      "heading": "What AI systems can read",
+      "body_html": "<p>AI tools mostly work with text. For a video, that means the title, description, chapters, captions or transcript, the channel name and any page that embeds or discusses it. The clearer and more accurate that text is, the easier it is for an AI to understand what the video covers and when to cite it.</p>"
+    },
+    {
+      "heading": "Titles and descriptions",
+      "body_html": "<ul><li><strong>Title the video as the question it answers</strong>: \"How to check if ChatGPT mentions your business\".</li><li><strong>Open the description with a two or three sentence answer.</strong></li><li><strong>List the key points</strong> covered, in plain language.</li><li><strong>Link to the related page</strong> on your website for more detail.</li><li><strong>Avoid clickbait</strong> that does not match the content.</li></ul>"
+    },
+    {
+      "heading": "Chapters and captions",
+      "body_html": "<p>Chapters with descriptive titles break a video into answerable parts, much like headings on a page. Accurate captions turn spoken words into text. Automatic captions are a start, but review and correct them, especially for names, numbers and technical terms. A clean transcript is what lets AI tools understand the detail of what you said.</p>"
+    },
+    {
+      "heading": "Answer early",
+      "body_html": "<p>Viewers and AI summaries both benefit when the answer comes first. State the answer within the first thirty seconds, then explain and demonstrate. Long introductions, channel promotion before the content and vague openings make videos less useful as sources.</p>"
+    },
+    {
+      "heading": "Which videos to make first",
+      "body_html": "<ol><li><strong>Answers to your most common customer questions.</strong></li><li><strong>Demonstrations</strong> of processes, products or results.</li><li><strong>Comparisons</strong> buyers ask about.</li><li><strong>Short explainers</strong> of terms in your field.</li><li><strong>Walkthroughs</strong> of how working with you happens.</li></ol><p>Start with questions where seeing something helps: a process, a before-and-after, a screen walkthrough.</p>"
+    },
+    {
+      "heading": "Connect videos to your website",
+      "body_html": "<p>Embed each video on the page that covers the same topic, with a written summary or transcript on the page. This gives readers a choice of format, gives search engines and AI tools text to read alongside the video, and keeps visitors on your site. Link from the video description back to that page.</p>"
+    },
+    {
+      "heading": "Channel basics",
+      "body_html": "<p>Use a channel name that matches your brand, a clear About section with your website and location, consistent branding, and playlists organized by topic. These help connect your videos to your business in the eyes of viewers and AI systems.</p>"
+    },
+    {
+      "heading": "Common mistakes",
+      "body_html": "<ul><li>Titles that do not say what the video answers.</li><li>Empty or keyword-stuffed descriptions.</li><li>Uncorrected automatic captions with wrong names and numbers.</li><li>Long intros before the useful content.</li><li>Videos that never link back to your website.</li></ul>"
+    },
+    {
+      "heading": "How to measure",
+      "body_html": "<p>Track views and watch time in YouTube Studio, traffic from YouTube to your site in analytics, whether your videos appear in Google results and AI answers for your target questions, and leads that mention seeing your videos. Over time, a library of clear answer videos supports both YouTube discovery and AI citations.</p>"
+    },
+    {
+      "heading": "An example video plan",
+      "body_html": "<p>A local marketing agency might start with six short videos: how to check whether ChatGPT mentions your business, what an AI visibility audit looks like, how to fix your Google Business Profile details, GEO vs SEO in two minutes, how to read AI referral traffic in Google Analytics, and a walkthrough of a page rewritten answer-first. Each has a question-based title, a description that opens with the answer, chapters, corrected captions, and a link to the matching guide on the website, where the video is embedded with a summary.</p>"
+    },
+    {
+      "heading": "Short-form video",
+      "body_html": "<p>Short vertical videos can introduce your expertise and drive people to longer content, but they usually carry less text for AI tools to work with. Use them to answer one quick question each, with a clear title and description, and link to the full answer elsewhere.</p>"
+    },
+    {
+      "heading": "Accessibility benefits",
+      "body_html": "<p>Accurate captions and transcripts do more than help AI. They make videos usable for people who are deaf or hard of hearing, people watching without sound, and people who prefer reading. Good accessibility and good AI readability come from the same work.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>AI tools understand videos through the text around them. Title each video as a question, answer it early, add chapters and accurate captions, write a useful description and embed it on a related page of your site.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does YouTube help with AI search?",
+      "a": "Yes. Pew Research Center found YouTube among the most commonly linked sources in Google's results and AI summaries, so videos are part of the sources AI answers draw on."
+    },
+    {
+      "q": "What parts of a video can AI read?",
+      "a": "Mainly text: the title, description, chapters, captions or transcript, the channel information and any page that embeds the video."
+    },
+    {
+      "q": "Should I edit YouTube's automatic captions?",
+      "a": "Yes. Correct names, numbers and technical terms so the transcript accurately reflects what you said."
+    },
+    {
+      "q": "What should a YouTube description include?",
+      "a": "A two or three sentence answer, the key points covered and a link to a related page on your website."
+    },
+    {
+      "q": "Which videos should a business make first?",
+      "a": "Answers to common customer questions, demonstrations, comparisons and walkthroughs, especially where seeing something helps."
+    },
+    {
+      "q": "Should I embed videos on my website?",
+      "a": "Yes, on the page covering the same topic, with a written summary or transcript."
+    },
+    {
+      "q": "How long should videos be for AI search?",
+      "a": "Long enough to answer the question well. State the answer early, then explain; length matters less than clarity."
+    },
+    {
+      "q": "Do chapters help with AI search?",
+      "a": "Chapters with descriptive titles break a video into answerable parts, making it easier to understand what each section covers."
+    },
+    {
+      "q": "Do YouTube comments affect AI search?",
+      "a": "Comments are a small signal at most. Focus on the title, description, chapters and captions, which describe what the video actually covers."
+    },
+    {
+      "q": "Should I upload transcripts manually?",
+      "a": "If your automatic captions have many errors, uploading a corrected transcript or caption file is worth it, especially for technical or brand terms."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "Reddit for AI search",
+      "url": "https://thechimeraai.com/reddit-for-ai-search/"
+    },
+    {
+      "anchor": "how to write content for AI search",
+      "url": "https://thechimeraai.com/how-to-write-content-for-ai-search/"
+    },
+    {
+      "anchor": "how AI search engines choose sources",
+      "url": "https://thechimeraai.com/how-ai-search-engines-choose-sources/"
+    },
+    {
+      "anchor": "how to check if ChatGPT mentions your brand",
+      "url": "https://thechimeraai.com/how-to-check-if-chatgpt-mentions-your-brand/"
+    },
+    {
+      "anchor": "Chimera's GEO services",
+      "url": "https://thechimeraai.com/#services"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Pew Research Center: Google users are less likely to click on links when an AI summary appears in the results (Jul 22, 2025)",
+      "url": "https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/"
+    },
+    {
+      "title": "Google Search Central: AI features and your website",
+      "url": "https://developers.google.com/search/docs/appearance/ai-features"
+    },
+    {
+      "title": "Google Search Central: Creating helpful, reliable, people-first content",
+      "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 0,
+      "type": "bars",
+      "eyebrow": "Pew Research data",
+      "title": "Wikipedia, YouTube and Reddit in Google's answers",
+      "lead": "Combined share of linked sources that came from Wikipedia, YouTube and Reddit, March 2025.",
+      "unit": "%",
+      "engine": "google",
+      "chart_label": "Share of all linked sources",
+      "items": [
+        {
+          "label": "In standard search results",
+          "value": 17
+        },
+        {
+          "label": "In AI summaries",
+          "value": 15
+        }
+      ],
+      "source": {
+        "title": "Pew Research Center, March 2025 browsing data from 900 U.S. adults",
+        "url": "https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/"
+      }
+    },
+    {
+      "after": 3,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "Making a video AI can use",
+      "lead": "Text around the video is what AI reads.",
+      "steps": [
+        {
+          "title": "Title",
+          "text": "The question the video answers."
+        },
+        {
+          "title": "Description",
+          "text": "A short answer and key points."
+        },
+        {
+          "title": "Chapters and captions",
+          "text": "Answerable parts and accurate text."
+        },
+        {
+          "title": "Website",
+          "text": "Embed with a summary and link back."
+        }
+      ]
+    },
+    {
+      "after": 8,
+      "type": "scorecard",
+      "eyebrow": "Scorecard",
+      "title": "What helps videos get cited",
+      "lead": "How much each helps (5 = most).",
+      "rows": [
+        {
+          "label": "Question-based title",
+          "score": 5,
+          "note": "Says exactly what it answers."
+        },
+        {
+          "label": "Accurate captions",
+          "score": 5,
+          "note": "Makes spoken detail readable."
+        },
+        {
+          "label": "Answer in the first 30 seconds",
+          "score": 4,
+          "note": "Useful to viewers and summaries."
+        },
+        {
+          "label": "Embedded on a related page",
+          "score": 4,
+          "note": "Adds context and text."
+        },
+        {
+          "label": "Clickbait titles",
+          "score": 1,
+          "note": "Mismatch with the content."
+        }
+      ]
+    }
+  ],
+  "hero_query": "Can my YouTube videos show up in AI answers?",
+  "short_title": "YouTube for AI Search: Get Your Videos Cited",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 796,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/youtube-for-ai-search-chimera-1.jpg",
+    "alt": "YouTube for AI Search: Get Your Videos Cited: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-06",
+  "updated": "2026-11-10",
+  "photo": {
+    "id": 395,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/youtube-for-ai-search-photo.jpg",
+    "alt": "Presenter recording a video in a small home studio",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
+}

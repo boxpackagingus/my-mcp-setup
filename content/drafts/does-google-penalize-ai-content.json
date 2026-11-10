@@ -1,0 +1,249 @@
+{
+  "query": "does google penalize ai content",
+  "slug": "does-google-penalize-ai-content",
+  "eyebrow": "Content policy",
+  "primary_keyword": "does Google penalize AI content",
+  "secondary_keywords": [
+    "AI generated content SEO",
+    "Google AI content policy",
+    "scaled content abuse",
+    "AI writing and Google"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Does Google Penalize AI Content? What Google Says",
+    "meta_description": "Does Google penalize AI content? What Google's guidance actually says, when AI-generated content breaks spam policies, and how to use AI responsibly."
+  },
+  "h1": "Does Google Penalize AI Content? The Answer From Google's Own Guidance",
+  "answer": "Does Google penalize AI content? Not for being AI-generated. Google says appropriate use of AI or automation is not against its guidelines and that it rewards high-quality content however it is produced. What breaks its rules is using AI, or any method, to generate content primarily to manipulate search rankings, which its spam policies call scaled content abuse.",
+  "key_takeaways": [
+    "Google does not penalize content just because AI helped create it.",
+    "It rewards helpful, original content however it is produced.",
+    "Scaled content made mainly to manipulate rankings breaks spam policies.",
+    "Human review, expertise and accuracy still matter.",
+    "The same rules apply to AI answers built on Google Search."
+  ],
+  "sections": [
+    {
+      "heading": "What Google says",
+      "body_html": "<p>In its February 2023 guidance on AI-generated content, Google answered the question directly: appropriate use of AI or automation is not against its guidelines. It explained that this means not using it to generate content primarily to manipulate search rankings, which is against its spam policies. The same post said Google's ranking systems aim to reward original, high-quality content that demonstrates experience, expertise, authoritativeness and trustworthiness, however it is produced.</p>"
+    },
+    {
+      "heading": "What breaks the rules",
+      "body_html": "<p>In March 2024 Google announced new spam policies, including scaled content abuse. Google's spam policies describe it as generating many pages for the primary purpose of manipulating search rankings and not helping users, typically large amounts of unoriginal content that provides little to no value. The policy applies whether the content is produced by AI, by people or by a combination. The method is not the problem; the purpose and the value are.</p>"
+    },
+    {
+      "heading": "Examples of risky use",
+      "body_html": "<ul><li>Generating hundreds of pages from a keyword list with no review or added expertise.</li><li>Rewriting other sites' articles with AI to avoid looking copied.</li><li>Creating near-identical location or product pages that differ only by a word.</li><li>Publishing AI text containing invented facts, statistics or quotes.</li></ul><p>Each of these produces content that exists mainly to capture searches, not to help anyone.</p>"
+    },
+    {
+      "heading": "Examples of responsible use",
+      "body_html": "<ul><li>Using AI to draft an outline or first version that an expert then rewrites and checks.</li><li>Summarizing your own data or research, then verifying every figure.</li><li>Speeding up repetitive formatting, such as tables or FAQs, from facts you supply.</li><li>Translating or adapting your own content with human review.</li></ul><p>In each case, a knowledgeable person stays responsible for accuracy and usefulness.</p>"
+    },
+    {
+      "heading": "The real risks of AI content",
+      "body_html": "<p>The bigger practical danger is not a penalty but mediocrity and errors. Generic AI text tends to say what every other page says, which gives search engines and AI answers no reason to choose it. Worse, language models can produce confident but false statements. A fabricated statistic that a reader or journalist catches damages trust far more than a slow publishing schedule.</p>"
+    },
+    {
+      "heading": "Who, how and why",
+      "body_html": "<p>Google's helpful content guidance suggests asking who created the content, how it was created and why. Where readers would reasonably expect to know how content was produced, being clear about the use of automation can help. The most important question is why: content created primarily to help people is aligned with Google's guidance; content created primarily to attract search traffic is not.</p>"
+    },
+    {
+      "heading": "A responsible workflow",
+      "body_html": "<ol><li><strong>Start from real expertise</strong>: notes, data, experience or interviews.</li><li><strong>Use AI to help draft or structure</strong>, not to invent.</li><li><strong>Fact-check every claim</strong> against its original source.</li><li><strong>Add first-hand detail</strong> only you can provide.</li><li><strong>Have a qualified person review and sign off.</strong></li><li><strong>Publish at a pace you can maintain quality.</strong></li></ol>"
+    },
+    {
+      "heading": "What this means for AI search visibility",
+      "body_html": "<p>Google's AI Overviews and AI Mode are built on its search systems, so content that Google's systems judge unhelpful is unlikely to be cited there either. Other AI tools also prefer specific, reliable sources. Responsible use of AI can help you publish good content faster; irresponsible use simply adds more generic pages that AI answers already cover.</p>"
+    },
+    {
+      "heading": "How to check existing content",
+      "body_html": "<p>Review pages that were produced quickly: are facts sourced and correct, does each page add something new, would an expert sign it? Improve pages that are close, merge pages that overlap, and remove pages that serve no reader. Quality across the whole site matters, not just individual pages.</p>"
+    },
+    {
+      "heading": "The bottom line",
+      "body_html": "<p>Google cares about what content does, not what tool wrote it. Use AI to help experts work faster, keep a human accountable for accuracy, and never publish at scale just to capture searches.</p>"
+    },
+    {
+      "heading": "Signs a site has crossed the line",
+      "body_html": "<p>Patterns that suggest content exists mainly to capture searches include: many pages published in a short time with similar structure and little original detail; pages targeting every minor keyword variation; content on topics unrelated to the site's expertise; and articles that nobody at the company could explain or stand behind. If these describe your site, the fix is to consolidate, improve and remove, not to publish more.</p>"
+    },
+    {
+      "heading": "What to tell your team",
+      "body_html": "<p>A simple policy works for most businesses: AI tools may help draft, outline, summarize and format, but a named person with subject expertise is responsible for every published page; every fact is checked against its source; first-hand insight is added; and nothing is published only because a keyword exists. This keeps the speed benefits of AI while protecting quality and reputation.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Google judges content by its value, not its author. AI-assisted pages that are accurate, original and reviewed by people with real expertise are within Google's guidelines; mass-produced pages made to capture searches are not. Keep a human accountable for every page and publish only what you would be proud to put your name on.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does Google penalize AI-generated content?",
+      "a": "Not for being AI-generated. Google says appropriate use of AI or automation is not against its guidelines. Content created primarily to manipulate rankings breaks its spam policies regardless of how it is made."
+    },
+    {
+      "q": "What is scaled content abuse?",
+      "a": "Google's spam policy against generating many pages primarily to manipulate search rankings, typically unoriginal content that provides little or no value, whether made by AI, people or both."
+    },
+    {
+      "q": "Can AI content rank on Google?",
+      "a": "Yes, if it is helpful, original and reliable. Google says it rewards high-quality content however it is produced."
+    },
+    {
+      "q": "Should I disclose that I used AI?",
+      "a": "Google suggests being clear about how content was produced where readers would reasonably expect to know. What matters most is that the content is accurate and helpful."
+    },
+    {
+      "q": "Does AI content get cited in AI Overviews?",
+      "a": "It can if it is helpful and reliable. Generic content that adds nothing new has little reason to be cited."
+    },
+    {
+      "q": "What is the biggest risk of using AI for content?",
+      "a": "Errors and sameness. AI can produce confident false statements and generic text, so expert review and fact-checking are essential."
+    },
+    {
+      "q": "How many AI-assisted pages can I publish?",
+      "a": "There is no set limit. Publish only as many as you can make genuinely useful, accurate and reviewed."
+    },
+    {
+      "q": "Can Google tell if content was written by AI?",
+      "a": "Google's guidance focuses on whether content is helpful and original, not on detecting the tool used. Low-value content at scale is the problem, whoever or whatever wrote it."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "E-E-A-T for AI search",
+      "url": "https://thechimeraai.com/eeat-for-ai-search/"
+    },
+    {
+      "anchor": "is SEO dead",
+      "url": "https://thechimeraai.com/is-seo-dead/"
+    },
+    {
+      "anchor": "how to write content for AI search",
+      "url": "https://thechimeraai.com/how-to-write-content-for-ai-search/"
+    },
+    {
+      "anchor": "GEO mistakes to avoid",
+      "url": "https://thechimeraai.com/geo-mistakes-to-avoid/"
+    },
+    {
+      "anchor": "Chimera's GEO services",
+      "url": "https://thechimeraai.com/#services"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Search Central blog: Google Search's guidance about AI-generated content (Feb 2023)",
+      "url": "https://developers.google.com/search/blog/2023/02/google-search-and-ai-content"
+    },
+    {
+      "title": "Google Search Central: Spam policies",
+      "url": "https://developers.google.com/search/docs/essentials/spam-policies"
+    },
+    {
+      "title": "Google Search Central blog: New ways we're tackling spammy, low-quality content on Search (Mar 2024)",
+      "url": "https://developers.google.com/search/blog/2024/03/core-update-spam-policies"
+    },
+    {
+      "title": "Google Search Central: Creating helpful, reliable, people-first content",
+      "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content"
+    },
+    {
+      "title": "Google Search Central: AI features and your website",
+      "url": "https://developers.google.com/search/docs/appearance/ai-features"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 0,
+      "type": "timeline",
+      "eyebrow": "Timeline",
+      "title": "What Google has said about AI content",
+      "lead": "The key guidance, in order.",
+      "items": [
+        {
+          "when": "Feb 2023",
+          "title": "AI content guidance",
+          "text": "Appropriate use of AI or automation is not against Google's guidelines."
+        },
+        {
+          "when": "Mar 2024",
+          "title": "New spam policies",
+          "text": "Scaled content abuse, site reputation abuse and expired domain abuse announced."
+        },
+        {
+          "when": "Today",
+          "title": "AI features",
+          "text": "Google says SEO best practices apply to AI Overviews and AI Mode."
+        }
+      ]
+    },
+    {
+      "after": 3,
+      "type": "scorecard",
+      "eyebrow": "Scorecard",
+      "title": "Responsible vs risky AI use",
+      "lead": "How safe and useful each practice is (5 = best).",
+      "rows": [
+        {
+          "label": "Expert drafts with AI help, then fact-checks",
+          "score": 5,
+          "note": "Faster without losing quality."
+        },
+        {
+          "label": "Summarizing your own verified data",
+          "score": 4,
+          "note": "Adds original value."
+        },
+        {
+          "label": "Formatting facts you supply",
+          "score": 4,
+          "note": "Low risk."
+        },
+        {
+          "label": "Rewriting other sites' articles",
+          "score": 1,
+          "note": "Unoriginal and risky."
+        },
+        {
+          "label": "Mass pages from a keyword list",
+          "score": 1,
+          "note": "Scaled content abuse."
+        }
+      ]
+    }
+  ],
+  "hero_query": "Does Google penalize content written with AI?",
+  "short_title": "Does Google Penalize AI Content? What Google Says",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 729,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/does-google-penalize-ai-content-chimera-1.jpg",
+    "alt": "Does Google Penalize AI Content? What Google Says: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-06",
+  "updated": "2026-11-10",
+  "photo": {
+    "id": 384,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/does-google-penalize-ai-content-photo.jpg",
+    "alt": "Writer editing a printed draft beside a glowing AI assistant shape",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
+}

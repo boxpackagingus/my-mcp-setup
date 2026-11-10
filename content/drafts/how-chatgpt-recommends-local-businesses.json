@@ -1,0 +1,283 @@
+{
+  "query": "how does chatgpt recommend local businesses",
+  "slug": "how-chatgpt-recommends-local-businesses",
+  "eyebrow": "Local GEO",
+  "primary_keyword": "how ChatGPT recommends local businesses",
+  "secondary_keywords": [
+    "ChatGPT local recommendations",
+    "AI local search",
+    "get recommended by ChatGPT",
+    "local business AI visibility"
+  ],
+  "search_intent": "commercial",
+  "seo": {
+    "title": "How ChatGPT Recommends Local Businesses (and How to Be One)",
+    "meta_description": "How ChatGPT recommends local businesses: the sources it searches, signals that matter like listings and reviews, and steps to get your business suggested."
+  },
+  "h1": "How ChatGPT Recommends Local Businesses, and How to Get Recommended",
+  "answer": "When someone asks for a local business, ChatGPT usually searches the web and builds its answer from business websites, listings, maps data, reviews and local articles it finds. To understand how ChatGPT recommends local businesses, think of it as looking for clear, consistent and well-reviewed options that match the request, so accurate listings, a clear website and genuine reviews matter most.",
+  "key_takeaways": [
+    "ChatGPT searches the web for most local recommendation questions.",
+    "It draws on websites, listings, reviews and local articles.",
+    "Consistent name, address and phone details are essential.",
+    "Clear services and service areas help it match requests.",
+    "Genuine reviews and local mentions build confidence."
+  ],
+  "sections": [
+    {
+      "heading": "What happens when someone asks",
+      "body_html": "<p>A request like \"recommend a good family dentist in Irvine that takes evening appointments\" needs current, local information. ChatGPT typically searches the web for it, reads a selection of results, and writes an answer naming a few businesses with short reasons. The businesses it names are the ones it can find, understand and feel confident describing. It does not have a private list; it works from what is published online.</p>"
+    },
+    {
+      "heading": "Where the information comes from",
+      "body_html": "<ul><li><strong>Business websites</strong>: services, location, hours, about pages.</li><li><strong>Listings and maps data</strong>: business profiles and directories.</li><li><strong>Reviews</strong> on the platforms people use.</li><li><strong>Local articles and guides</strong>: \"best of\" lists, news, community sites.</li><li><strong>Discussions</strong> in local communities.</li></ul><p>OpenAI documents that ChatGPT search uses its OAI-SearchBot crawler to surface websites, so allowing it in robots.txt and your firewall is the first requirement for your own site to be read.</p>"
+    },
+    {
+      "heading": "Signals that matter",
+      "body_html": "<table><tr><th>Signal</th><th>Why it helps</th></tr><tr><td>Consistent name, address, phone</td><td>Confidence that the details are right</td></tr><tr><td>Clear services and service area</td><td>Matching the request to your business</td></tr><tr><td>Hours and availability</td><td>Answering \"open now\" or \"evening appointments\"</td></tr><tr><td>Reviews</td><td>Evidence of quality and what you are known for</td></tr><tr><td>Local mentions</td><td>Corroboration from independent sources</td></tr><tr><td>Specific details</td><td>Reasons to recommend you for a particular need</td></tr></table>"
+    },
+    {
+      "heading": "Make your website easy to understand",
+      "body_html": "<p>State on your homepage and service pages exactly what you do, where, and for whom. Include your full address, service areas, hours and contact details in text. Explain specialties and options that people ask for: evening hours, languages spoken, insurance accepted, emergency service, parking. Add LocalBusiness structured data, or a more specific type, that matches the page.</p>"
+    },
+    {
+      "heading": "Get listings right",
+      "body_html": "<p>Make your Google Business Profile, Bing Places, Apple Business Connect and industry directories complete and identical to your website. Inconsistent details, such as an old address on one directory, are a common reason AI answers describe a business wrongly or leave it out. Choose accurate categories and keep holiday hours updated.</p>"
+    },
+    {
+      "heading": "Reviews that say something",
+      "body_html": "<p>Ask every satisfied customer for a review on the platforms your customers use, and reply to each one. Reviews that mention specific services, staff and situations give AI tools concrete reasons to recommend you for those needs. Never buy reviews or post fake ones.</p>"
+    },
+    {
+      "heading": "Earn local mentions",
+      "body_html": "<p>Local news, community sites, chamber of commerce listings, sponsorships, local \"best of\" guides and partnerships with other local businesses all create independent mentions. These help AI tools confirm that you are a real, established local business.</p>"
+    },
+    {
+      "heading": "Check what ChatGPT says now",
+      "body_html": "<ol><li>Ask ChatGPT several versions of the question your customers would ask, including your city and specific needs.</li><li>Note which businesses are named and the reasons given.</li><li>Look at the sources cited.</li><li>Compare their listings, reviews and websites with yours.</li><li>Fix the gaps, then recheck monthly.</li></ol>"
+    },
+    {
+      "heading": "What you cannot control",
+      "body_html": "<p>You cannot pay for a place in ChatGPT's organic answers or guarantee being recommended. Answers vary between runs and users. What you can control is how clearly and consistently your business is described across the web, and how good your reputation is. Those are the inputs ChatGPT works from.</p>"
+    },
+    {
+      "heading": "A quick-start list",
+      "body_html": "<ul><li>Allow OAI-SearchBot in robots.txt and your firewall.</li><li>Make name, address, phone and hours identical everywhere.</li><li>Add a clear service-area and services section to your site.</li><li>Ask for reviews after every job.</li><li>Get listed in two or three local directories and guides.</li><li>Recheck ChatGPT's answers next month.</li></ul>"
+    },
+    {
+      "heading": "An example of a strong local profile",
+      "body_html": "<p>A plumbing company that gets recommended often has: a website that says \"licensed plumbers serving Anaheim, Fullerton and Orange, with 24-hour emergency service\" in its first lines; a services page listing water heaters, drain clearing and repiping with short explanations; identical address and phone details on its Google Business Profile, Bing Places and three local directories; over a hundred recent reviews that mention specific jobs and technicians; and a mention in a local news story about a community project. Nothing about it is unusual. It is simply clear, consistent and well reviewed, which gives an AI assistant enough confidence to name it.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>ChatGPT recommends local businesses it can find, understand and trust. Let its crawler in, describe your business clearly and identically everywhere, earn real reviews and local mentions, and check the answers regularly.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How does ChatGPT find local businesses?",
+      "a": "For most local questions it searches the web and reads business websites, listings, reviews and local articles, then names businesses that match the request."
+    },
+    {
+      "q": "Can I pay to be recommended by ChatGPT?",
+      "a": "No. Organic recommendations come from what ChatGPT finds and trusts online, not from payment."
+    },
+    {
+      "q": "Why is my competitor recommended instead of me?",
+      "a": "They may have more consistent listings, clearer service details, more reviews or more local mentions. Compare those areas and fix the gaps."
+    },
+    {
+      "q": "Does ChatGPT use Google reviews?",
+      "a": "ChatGPT draws on information it can find on the web, which can include reviews and listings from various platforms. Genuine reviews on the platforms your customers use help."
+    },
+    {
+      "q": "Do I need to allow ChatGPT's crawler?",
+      "a": "Yes. OpenAI uses OAI-SearchBot to surface websites in ChatGPT search, so blocking it prevents your site from being read."
+    },
+    {
+      "q": "How often do ChatGPT's recommendations change?",
+      "a": "Answers can vary between runs. Check monthly with the same questions and look at trends."
+    },
+    {
+      "q": "Does structured data help ChatGPT understand my business?",
+      "a": "LocalBusiness structured data that matches your page helps machines read your details reliably, alongside clear text on the page."
+    },
+    {
+      "q": "How long does it take to start being recommended?",
+      "a": "Listing and website fixes can show up within weeks; building reviews and local mentions takes longer."
+    },
+    {
+      "q": "Does ChatGPT use my Google Business Profile?",
+      "a": "It draws on information it can find on the web. Keeping your profile complete and identical to your website helps whichever sources it reads."
+    },
+    {
+      "q": "Should I mention neighborhoods on my website?",
+      "a": "Yes, where you genuinely serve them. A clear service-area section helps ChatGPT match your business to requests that name a city or neighborhood."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "how to rank in ChatGPT",
+      "url": "https://thechimeraai.com/how-to-rank-in-chatgpt/"
+    },
+    {
+      "anchor": "how to check if ChatGPT mentions your brand",
+      "url": "https://thechimeraai.com/how-to-check-if-chatgpt-mentions-your-brand/"
+    },
+    {
+      "anchor": "GEO for home service businesses",
+      "url": "https://thechimeraai.com/geo-for-home-services/"
+    },
+    {
+      "anchor": "Chimera's GEO services",
+      "url": "https://thechimeraai.com/#services"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "OpenAI: Overview of OpenAI crawlers",
+      "url": "https://platform.openai.com/docs/bots"
+    },
+    {
+      "title": "Google Search Central: Local business structured data",
+      "url": "https://developers.google.com/search/docs/appearance/structured-data/local-business"
+    },
+    {
+      "title": "Schema.org: LocalBusiness",
+      "url": "https://schema.org/LocalBusiness"
+    },
+    {
+      "title": "Google Business Profile",
+      "url": "https://www.google.com/business/"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 0,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "How a local recommendation is built",
+      "lead": "What happens behind a local question.",
+      "steps": [
+        {
+          "title": "Request",
+          "text": "A user asks for a local business with specific needs."
+        },
+        {
+          "title": "Search",
+          "text": "ChatGPT searches websites, listings and reviews."
+        },
+        {
+          "title": "Match",
+          "text": "It looks for businesses that fit and are described consistently."
+        },
+        {
+          "title": "Answer",
+          "text": "A few businesses are named with reasons."
+        }
+      ]
+    },
+    {
+      "after": 3,
+      "type": "scorecard",
+      "eyebrow": "Scorecard",
+      "title": "What gets a local business recommended",
+      "lead": "How much each helps (5 = most).",
+      "rows": [
+        {
+          "label": "Consistent listings everywhere",
+          "score": 5,
+          "note": "Confidence in your details."
+        },
+        {
+          "label": "Clear services and areas",
+          "score": 5,
+          "note": "Matches specific requests."
+        },
+        {
+          "label": "Genuine, specific reviews",
+          "score": 5,
+          "note": "Reasons to recommend you."
+        },
+        {
+          "label": "Local mentions",
+          "score": 4,
+          "note": "Independent corroboration."
+        },
+        {
+          "label": "Blocking OAI-SearchBot",
+          "score": 1,
+          "note": "Your site cannot be read."
+        }
+      ]
+    },
+    {
+      "after": 7,
+      "type": "engines",
+      "eyebrow": "AI platforms",
+      "title": "Other assistants that recommend local businesses",
+      "lead": "The answer engines that matter most for buyer research, and how each one finds sources.",
+      "items": [
+        {
+          "engine": "chatgpt",
+          "note": "The largest assistant. Searches the web for current questions and links sources in its answers."
+        },
+        {
+          "engine": "google",
+          "note": "AI summaries above Google results, built from pages Google has indexed."
+        },
+        {
+          "engine": "gemini",
+          "note": "Google's assistant app, increasingly used for research and comparisons."
+        },
+        {
+          "engine": "perplexity",
+          "note": "Answer engine built around numbered, clickable citations."
+        },
+        {
+          "engine": "claude",
+          "note": "Anthropic's assistant, used heavily for research and work tasks; can search the web."
+        },
+        {
+          "engine": "copilot",
+          "note": "Microsoft's assistant in Windows, Edge and Office, grounded in Bing results."
+        }
+      ]
+    }
+  ],
+  "hero_query": "Can you recommend a good local business near me?",
+  "short_title": "How ChatGPT Recommends Local Businesses",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 757,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/how-chatgpt-recommends-local-businesses-chimera-1.jpg",
+    "alt": "How ChatGPT Recommends Local Businesses (and How to Be One): illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-06",
+  "updated": "2026-11-10",
+  "photo": {
+    "id": 397,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/how-chatgpt-recommends-local-businesses-photo.jpg",
+    "alt": "Small business owner opening a shop on a sunny California street",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
+}

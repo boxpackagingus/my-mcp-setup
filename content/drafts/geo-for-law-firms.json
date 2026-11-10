@@ -1,0 +1,269 @@
+{
+  "query": "geo for law firms",
+  "slug": "geo-for-law-firms",
+  "eyebrow": "Industry guide",
+  "primary_keyword": "GEO for law firms",
+  "secondary_keywords": [
+    "law firm AI search",
+    "AI SEO for lawyers",
+    "ChatGPT for law firms",
+    "legal marketing AI"
+  ],
+  "search_intent": "commercial",
+  "seo": {
+    "title": "GEO for Law Firms: Get Recommended by AI Search",
+    "meta_description": "GEO for law firms: how people use ChatGPT and Google AI to find lawyers, what content gets cited, local signals, ethics limits, and a 90-day plan."
+  },
+  "h1": "GEO for Law Firms: How to Get Your Firm Recommended by AI",
+  "answer": "GEO for law firms means making your firm easy for AI tools like ChatGPT, Google AI Overviews and Perplexity to find, trust and recommend when people ask legal questions or look for a lawyer. It combines clear practice-area pages, answer-first legal guides, consistent local details, genuine reviews and attorney credentials, all within your bar's advertising rules.",
+  "key_takeaways": [
+    "People ask AI tools legal questions before contacting a lawyer.",
+    "Practice-area pages need direct, plain-language answers.",
+    "Consistent name, address and phone details matter for local answers.",
+    "Attorney credentials and real experience build trust.",
+    "Stay within your state bar's advertising rules on every page."
+  ],
+  "sections": [
+    {
+      "heading": "How people use AI to find a lawyer",
+      "body_html": "<p>A person facing a legal problem often starts with questions: \"what happens after a DUI arrest in California\", \"do I need a lawyer for a landlord dispute\", \"how much does a divorce lawyer cost in Orange County\". These long, question-style searches are exactly the kind Pew Research Center found most likely to produce an AI summary in Google: 60% of searches beginning with who, what, when or why did. Assistants like ChatGPT and Perplexity answer the same questions and, when asked, suggest firms.</p><p>If your firm's pages answer those questions clearly, you can be the source the AI quotes, and the firm it suggests.</p>"
+    },
+    {
+      "heading": "Practice-area pages AI can cite",
+      "body_html": "<ul><li><strong>Open with a plain-language answer</strong> to the question the page addresses, in 40 to 60 words.</li><li><strong>Explain the process</strong> step by step: what happens first, typical timelines, what the client needs to do.</li><li><strong>Cover costs honestly</strong>: fee structures you use, such as contingency, flat fee or hourly, and what affects them.</li><li><strong>Name the jurisdiction</strong>: state and county specifics matter for legal answers.</li><li><strong>Add an FAQ</strong> with the follow-up questions clients really ask.</li></ul><p>Write for the client, not other lawyers. Clear explanations are what AI tools lift into answers.</p>"
+    },
+    {
+      "heading": "Legal guides that earn citations",
+      "body_html": "<p>Beyond service pages, publish guides on the questions people research before they call: deadlines, rights, what to bring to a consultation, common mistakes. Keep them accurate to your jurisdiction, date them, and name the attorney who reviewed them. Link each guide to the matching practice-area page so the AI and the reader can see who handles that kind of case.</p><p>Avoid generic national content copied from elsewhere. It adds nothing an AI cannot already summarize.</p>"
+    },
+    {
+      "heading": "Local signals for law firms",
+      "body_html": "<p>Many legal searches are local, and AI answers about local services draw on business listings and directories as well as websites. Keep your firm name, address, phone number and hours identical on your website, Google Business Profile, Bing Places, state bar listing and legal directories. Mark up your site with structured data using the schema.org <code>LegalService</code> type, which is a kind of LocalBusiness, so machines can read your details reliably. Note that schema.org marks the older <code>Attorney</code> type as deprecated in favor of LegalService.</p>"
+    },
+    {
+      "heading": "Trust: credentials and reviews",
+      "body_html": "<p>Legal topics affect people's lives and finances, so AI systems and Google look closely for trust signals. Give every attorney a profile page with bar admissions, education, years of practice and the kinds of matters they handle. Collect genuine client reviews on platforms where clients already look, and respond professionally. Mentions in local news, bar association publications and community organizations also corroborate your reputation.</p>"
+    },
+    {
+      "heading": "Ethics: what you must not do",
+      "body_html": "<p>Lawyer advertising rules apply to everything you publish, including content written to appear in AI answers. Most state rules, including California's, prohibit false or misleading communications about a lawyer's services. In practice: do not promise outcomes, do not imply guaranteed results, be careful with case results and testimonials, and include any disclaimers your state requires. Check your own state bar's current rules before publishing; this page is not legal advice about them.</p>"
+    },
+    {
+      "heading": "A 90-day plan",
+      "body_html": "<ol><li><strong>Weeks 1 to 2:</strong> check how ChatGPT, Gemini, Perplexity and Google AI describe your firm and who they recommend for your main practice areas.</li><li><strong>Weeks 3 to 4:</strong> fix technical access, listings and consistency of firm details.</li><li><strong>Weeks 5 to 8:</strong> rewrite your top practice-area pages answer-first, and add attorney profiles.</li><li><strong>Weeks 9 to 12:</strong> publish four to six jurisdiction-specific guides and build review and directory presence.</li><li><strong>Ongoing:</strong> re-check AI answers monthly and track consultation requests by source.</li></ol>"
+    },
+    {
+      "heading": "How to measure results",
+      "body_html": "<p>Track consultation requests and calls by landing page and source, AI referrals in Google Analytics, and branded searches for the firm and attorney names. Keep a monthly record of which firms AI tools name for your key questions. For law firms, one well-matched case can be worth more than hundreds of visits, so focus on qualified inquiries rather than traffic.</p>"
+    },
+    {
+      "heading": "Common mistakes law firms make",
+      "body_html": "<p>The most frequent problems are thin practice-area pages that list services without explaining anything, national content with no state-specific detail, inconsistent firm names across directories after a partner change, and attorney bios that omit admissions and experience. Each one makes it harder for an AI tool to describe the firm accurately or recommend it with confidence.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is GEO for law firms?",
+      "a": "Generative engine optimization for law firms is making your firm easy for AI tools like ChatGPT, Google AI Overviews and Perplexity to find, trust and recommend when people ask legal questions or look for a lawyer."
+    },
+    {
+      "q": "Can ChatGPT recommend my law firm?",
+      "a": "Yes, when asked for lawyers it can suggest firms, especially with web search on. Clear practice-area pages, consistent listings, reviews and mentions on trusted sites make your firm more likely to be included."
+    },
+    {
+      "q": "What schema should a law firm use?",
+      "a": "Schema.org's LegalService type, a kind of LocalBusiness, describes a law firm's name, address, phone and services. The older Attorney type is marked deprecated on schema.org."
+    },
+    {
+      "q": "Do lawyer advertising rules apply to AI-focused content?",
+      "a": "Yes. Any content you publish about your services is subject to your state bar's rules, which generally prohibit false or misleading statements and promises of results."
+    },
+    {
+      "q": "How long does GEO take for a law firm?",
+      "a": "Technical and listing fixes can affect AI answers within weeks. Building enough content and reputation to be recommended regularly usually takes three to six months."
+    },
+    {
+      "q": "Is GEO different from legal SEO?",
+      "a": "It builds on legal SEO. SEO gets pages indexed and ranked; GEO shapes pages and your wider presence so AI tools choose your firm when they write answers."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "schema markup for AI search",
+      "url": "https://thechimeraai.com/schema-markup-for-ai-search/"
+    },
+    {
+      "anchor": "how to choose a GEO agency",
+      "url": "https://thechimeraai.com/how-to-choose-a-geo-agency/"
+    },
+    {
+      "anchor": "how to check if ChatGPT mentions your brand",
+      "url": "https://thechimeraai.com/how-to-check-if-chatgpt-mentions-your-brand/"
+    },
+    {
+      "anchor": "Chimera's GEO services",
+      "url": "https://thechimeraai.com/#services"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Schema.org: LegalService",
+      "url": "https://schema.org/LegalService"
+    },
+    {
+      "title": "Schema.org: LocalBusiness",
+      "url": "https://schema.org/LocalBusiness"
+    },
+    {
+      "title": "Google Business Profile",
+      "url": "https://www.google.com/business/"
+    },
+    {
+      "title": "Google Search Central: Creating helpful, reliable, people-first content",
+      "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content"
+    },
+    {
+      "title": "Pew Research Center: Google users are less likely to click on links when an AI summary appears in the results (Jul 22, 2025)",
+      "url": "https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/"
+    },
+    {
+      "title": "Google Search Central: AI features and your website",
+      "url": "https://developers.google.com/search/docs/appearance/ai-features"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 0,
+      "type": "engines",
+      "eyebrow": "AI platforms",
+      "title": "Where clients ask legal questions",
+      "lead": "The answer engines that matter most for buyer research, and how each one finds sources.",
+      "items": [
+        {
+          "engine": "chatgpt",
+          "note": "The largest assistant. Searches the web for current questions and links sources in its answers."
+        },
+        {
+          "engine": "google",
+          "note": "AI summaries above Google results, built from pages Google has indexed."
+        },
+        {
+          "engine": "gemini",
+          "note": "Google's assistant app, increasingly used for research and comparisons."
+        },
+        {
+          "engine": "perplexity",
+          "note": "Answer engine built around numbered, clickable citations."
+        },
+        {
+          "engine": "claude",
+          "note": "Anthropic's assistant, used heavily for research and work tasks; can search the web."
+        },
+        {
+          "engine": "copilot",
+          "note": "Microsoft's assistant in Windows, Edge and Office, grounded in Bing results."
+        }
+      ]
+    },
+    {
+      "after": 0,
+      "type": "bars",
+      "eyebrow": "Pew Research data",
+      "title": "Which searches trigger an AI summary",
+      "lead": "Share of Google searches that produced an AI summary, by type of search, March 2025.",
+      "unit": "%",
+      "engine": "google",
+      "chart_label": "Searches with an AI summary",
+      "items": [
+        {
+          "label": "Searches starting with who, what, when or why",
+          "value": 60
+        },
+        {
+          "label": "Searches of 10 words or more",
+          "value": 53
+        },
+        {
+          "label": "Full-sentence searches (noun and verb)",
+          "value": 36
+        },
+        {
+          "label": "All searches in the study",
+          "value": 18
+        },
+        {
+          "label": "One- or two-word searches",
+          "value": 8
+        }
+      ],
+      "source": {
+        "title": "Pew Research Center, March 2025 browsing data from 900 U.S. adults",
+        "url": "https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/"
+      }
+    },
+    {
+      "after": 6,
+      "type": "timeline",
+      "eyebrow": "Timeline",
+      "title": "A 90-day GEO plan for a law firm",
+      "lead": "What happens, in order.",
+      "items": [
+        {
+          "when": "Weeks 1–2",
+          "title": "Audit",
+          "text": "Audit AI answers for your practice areas and firm name."
+        },
+        {
+          "when": "Weeks 3–4",
+          "title": "Fix the basics",
+          "text": "Fix crawler access, listings and firm details."
+        },
+        {
+          "when": "Weeks 5–8",
+          "title": "Rewrite pages",
+          "text": "Rewrite practice-area pages answer-first; add attorney profiles."
+        },
+        {
+          "when": "Weeks 9–12",
+          "title": "Build authority",
+          "text": "Publish local legal guides; grow reviews and directory presence."
+        }
+      ]
+    }
+  ],
+  "hero_query": "Which law firm should I call for my case?",
+  "short_title": "GEO for Law Firms: Get Recommended by AI Search",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 744,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/geo-for-law-firms-chimera-1.jpg",
+    "alt": "GEO for Law Firms: Get Recommended by AI Search: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-06",
+  "updated": "2026-11-10",
+  "photo": {
+    "id": 365,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/geo-for-law-firms-photo.jpg",
+    "alt": "Attorney reviewing a laptop with a client in a law office",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
+}

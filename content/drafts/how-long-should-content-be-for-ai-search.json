@@ -1,0 +1,274 @@
+{
+  "query": "how long should content be for ai search",
+  "slug": "how-long-should-content-be-for-ai-search",
+  "eyebrow": "Content strategy",
+  "primary_keyword": "content length for AI search",
+  "secondary_keywords": [
+    "ideal content length",
+    "word count SEO",
+    "how long should a blog post be",
+    "content depth AI search"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Content Length for AI Search: How Long Is Right?",
+    "meta_description": "How long should content be for AI search? Why length is not a ranking factor, what AI answers actually quote, and how to decide the right length per page."
+  },
+  "h1": "How Long Should Content Be? Content Length for AI Search, Explained",
+  "answer": "There is no ideal content length for AI search. Google's guidance says it does not favor a particular length. What matters is that a page answers its question fully: a direct 40 to 60 word answer at the top, then enough depth to cover the follow-up questions. Pew Research found the median Google AI summary was 67 words long.",
+  "key_takeaways": [
+    "Length itself is not what earns citations.",
+    "AI answers quote short, self-contained passages.",
+    "Put a 40 to 60 word answer at the top.",
+    "Then cover the follow-up questions in depth.",
+    "Cut padding; add specifics."
+  ],
+  "sections": [
+    {
+      "heading": "The short answer",
+      "body_html": "<p>Write as much as the question needs and no more. A simple question may need a few hundred words; a complex buying decision may need several thousand. Google's helpful content guidance cautions against writing to a particular word count because you have heard Google prefers it, and notes that it does not have a preferred word count. AI answers reflect the same idea: they quote what is useful, not what is long.</p>"
+    },
+    {
+      "heading": "What AI answers actually use",
+      "body_html": "<p>Pew Research Center found that the median Google AI summary in its March 2025 study was 67 words long, with the shortest at 7 words and the longest at 369. AI answers are built from short passages, often a sentence or a paragraph from each of several sources. That is why the most important part of any page is a short, complete, quotable answer near the top.</p>"
+    },
+    {
+      "heading": "Why depth still matters",
+      "body_html": "<p>Short does not mean thin. Google says AI Overviews and AI Mode may use query fan-out, searching related subtopics to build a response. A page that answers only the headline question has one chance to be used; a page that also answers the natural follow-up questions has several. Depth means covering more of what the reader needs, not repeating the same point at greater length.</p>"
+    },
+    {
+      "heading": "A structure that works at any length",
+      "body_html": "<ol><li><strong>Direct answer</strong>: 40 to 60 words.</li><li><strong>Key takeaways</strong> as a short list.</li><li><strong>Follow-up questions</strong> as headings, each answered in the first two or three sentences.</li><li><strong>Specific details</strong>: steps, numbers, examples, comparisons.</li><li><strong>FAQ</strong> for smaller questions.</li></ol><p>This structure works for a 600-word page and a 3,000-word guide alike.</p>"
+    },
+    {
+      "heading": "How to decide the right length",
+      "body_html": "<ul><li><strong>List the questions</strong> a reader will have about the topic.</li><li><strong>Check what already exists</strong>: what do the best current answers cover, and what do they miss?</li><li><strong>Answer each question properly</strong>, then stop.</li><li><strong>Remove anything</strong> that does not help a reader decide or act.</li></ul><p>The length that results from this process is the right length.</p>"
+    },
+    {
+      "heading": "Signs a page is too long",
+      "body_html": "<ul><li>The answer appears after several paragraphs of background.</li><li>Sections repeat the same point in different words.</li><li>Generic content that applies to any business or topic.</li><li>Filler added to reach a target word count.</li></ul>"
+    },
+    {
+      "heading": "Signs a page is too short",
+      "body_html": "<ul><li>It answers the headline question but not the obvious next question.</li><li>It lacks specifics such as prices, timeframes or steps.</li><li>Readers still need to search elsewhere to make a decision.</li><li>It gives no evidence for its claims.</li></ul>"
+    },
+    {
+      "heading": "Typical ranges by page type",
+      "body_html": "<table><tr><th>Page type</th><th>What it needs</th></tr><tr><td>Definition or quick answer</td><td>A clear answer, an example and related questions</td></tr><tr><td>Service page</td><td>What, who, how, cost, process, proof, FAQ</td></tr><tr><td>How-to guide</td><td>Every step, common problems, tools, time required</td></tr><tr><td>Comparison</td><td>Criteria, table, who each option suits</td></tr><tr><td>Buying guide or research roundup</td><td>Full coverage of the decision, with data and sources</td></tr></table><p>Use the need, not a number, to decide.</p>"
+    },
+    {
+      "heading": "Why quality gates still use word counts",
+      "body_html": "<p>Many content teams, including ours, set a minimum length for certain page types as a quality check: a guide under a few hundred words usually has not covered its follow-up questions. A minimum is a safety net against thin pages, not a target. If a page reaches the minimum with padding, it has failed the check in spirit.</p>"
+    },
+    {
+      "heading": "Editing for AI readability",
+      "body_html": "<p>After drafting, read only the first paragraph and each heading with its first sentence. If those alone answer the main question and its follow-ups, the page is well structured for AI. Then trim repetition and replace vague statements with specifics.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Lead with a short, complete answer; follow with genuine depth on the questions readers ask next; cut everything else. AI tools quote the short part and use the deep part, so a good page needs both.</p>"
+    },
+    {
+      "heading": "An example: the same topic at two lengths",
+      "body_html": "<p>Consider \"how much does a GEO audit cost\". A short version might be 400 words: a direct answer with a price range, three factors that drive cost and a booking link. A fuller version might be 1,500 words: the same answer, plus what is included at each price level, how audits differ for local and national businesses, how long they take, what you need to provide, how to compare quotes and an FAQ. Both open with the same quotable answer. The fuller version gives an AI tool more sub-questions to cite it for, and gives a buyer more reasons to trust the business. Neither needs padding.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is there an ideal word count for AI search?",
+      "a": "No. Google says it has no preferred word count. Write enough to answer the question and its follow-ups fully."
+    },
+    {
+      "q": "How long are Google's AI summaries?",
+      "a": "Pew Research Center found the median AI summary in its March 2025 data was 67 words long, ranging from 7 to 369 words."
+    },
+    {
+      "q": "Do longer articles get cited more by AI?",
+      "a": "Not because of length. Pages that cover more of the follow-up questions have more chances to be used, but padding does not help."
+    },
+    {
+      "q": "How long should the opening answer be?",
+      "a": "About 40 to 60 words: long enough to be complete, short enough to be quoted."
+    },
+    {
+      "q": "Should I make old short articles longer?",
+      "a": "Only if they miss important follow-up questions or specifics. Adding filler does not help."
+    },
+    {
+      "q": "How long should a service page be?",
+      "a": "Long enough to explain what you do, who it is for, how it works, cost, proof and common questions."
+    },
+    {
+      "q": "Does Google penalize short content?",
+      "a": "Not for being short. It favors helpful content. Thin pages that fail to answer questions are the problem, not brevity itself."
+    },
+    {
+      "q": "How do I know when a page is long enough?",
+      "a": "When it answers the main question and the natural follow-ups so that a reader does not need to search elsewhere."
+    },
+    {
+      "q": "Does content length affect how AI summarizes my page?",
+      "a": "AI tools usually quote a short passage, so the opening answer matters most. Longer pages give them more sub-questions to draw on, if each section is genuinely useful."
+    },
+    {
+      "q": "Should every page have the same length?",
+      "a": "No. Match the length to the question: quick answers can be short, decisions and how-to topics need more depth."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "how to write content for AI search",
+      "url": "https://thechimeraai.com/how-to-write-content-for-ai-search/"
+    },
+    {
+      "anchor": "what query fan-out is",
+      "url": "https://thechimeraai.com/what-is-query-fan-out/"
+    },
+    {
+      "anchor": "how to update old content for AI search",
+      "url": "https://thechimeraai.com/how-to-update-old-content-for-ai-search/"
+    },
+    {
+      "anchor": "FAQ pages for AI search",
+      "url": "https://thechimeraai.com/faq-pages-for-ai-search/"
+    },
+    {
+      "anchor": "Chimera's GEO services",
+      "url": "https://thechimeraai.com/#services"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Search Central: Creating helpful, reliable, people-first content",
+      "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content"
+    },
+    {
+      "title": "Pew Research Center: Google users are less likely to click on links when an AI summary appears in the results (Jul 22, 2025)",
+      "url": "https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/"
+    },
+    {
+      "title": "Google Search Central: AI features and your website",
+      "url": "https://developers.google.com/search/docs/appearance/ai-features"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 1,
+      "type": "bars",
+      "eyebrow": "Pew Research data",
+      "title": "How long Google's AI summaries are",
+      "lead": "Length of Google AI summaries in Pew's March 2025 data, in words.",
+      "unit": " words",
+      "engine": "google",
+      "chart_label": "AI summary length",
+      "items": [
+        {
+          "label": "Longest summary found",
+          "value": 369
+        },
+        {
+          "label": "Median summary",
+          "value": 67
+        },
+        {
+          "label": "Shortest summary found",
+          "value": 7
+        }
+      ],
+      "source": {
+        "title": "Pew Research Center, March 2025 browsing data from 900 U.S. adults",
+        "url": "https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/"
+      }
+    },
+    {
+      "after": 3,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "A structure that works at any length",
+      "lead": "Short where it is quoted, deep where it is used.",
+      "steps": [
+        {
+          "title": "Answer",
+          "text": "40 to 60 words at the top."
+        },
+        {
+          "title": "Takeaways",
+          "text": "A short list of key points."
+        },
+        {
+          "title": "Follow-ups",
+          "text": "Question headings with direct answers."
+        },
+        {
+          "title": "FAQ",
+          "text": "Smaller questions, briefly answered."
+        }
+      ]
+    },
+    {
+      "after": 7,
+      "type": "scorecard",
+      "eyebrow": "Scorecard",
+      "title": "What matters more than length",
+      "lead": "How much each helps (5 = most).",
+      "rows": [
+        {
+          "label": "A complete answer near the top",
+          "score": 5,
+          "note": "The passage AI quotes."
+        },
+        {
+          "label": "Coverage of follow-up questions",
+          "score": 5,
+          "note": "More chances to be used."
+        },
+        {
+          "label": "Specific details",
+          "score": 4,
+          "note": "Makes the page worth citing."
+        },
+        {
+          "label": "Clear structure",
+          "score": 4,
+          "note": "Easy to navigate and summarize."
+        },
+        {
+          "label": "Hitting a word count",
+          "score": 1,
+          "note": "Not a goal in itself."
+        }
+      ]
+    }
+  ],
+  "hero_query": "How long should my content be to get cited by AI?",
+  "short_title": "Content Length for AI Search",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 759,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/how-long-should-content-be-for-ai-search-chimera-1.jpg",
+    "alt": "Content Length for AI Search: How Long Is Right?: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-06",
+  "updated": "2026-11-10",
+  "photo": {
+    "id": 402,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/how-long-should-content-be-for-ai-search-photo.jpg",
+    "alt": "Editor trimming a long paper manuscript with scissors",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
+}

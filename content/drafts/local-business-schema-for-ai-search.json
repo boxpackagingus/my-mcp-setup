@@ -1,0 +1,262 @@
+{
+  "query": "local business schema for ai search",
+  "slug": "local-business-schema-for-ai-search",
+  "eyebrow": "Technical GEO",
+  "primary_keyword": "local business schema",
+  "secondary_keywords": [
+    "LocalBusiness schema",
+    "local SEO structured data",
+    "JSON-LD local business",
+    "schema for local AI search"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Local Business Schema for AI Search: Setup Guide",
+    "meta_description": "Local business schema for AI search: which LocalBusiness type to use, required and useful properties, multiple locations, testing, and common mistakes."
+  },
+  "h1": "Local Business Schema for AI Search: How to Mark Up Your Business",
+  "answer": "Local business schema is structured data that describes your business, such as name, address, phone, hours, location and services, in a format machines can read. Use the most specific schema.org LocalBusiness type that fits, follow Google's local business structured data documentation, keep every value identical to your visible page and listings, and add one block per real location.",
+  "key_takeaways": [
+    "LocalBusiness schema describes your business details for machines.",
+    "Use the most specific type that honestly fits.",
+    "Every value must match the visible page and your listings.",
+    "Each real location needs its own markup on its own page.",
+    "Test the markup and keep it updated."
+  ],
+  "sections": [
+    {
+      "heading": "What local business schema does",
+      "body_html": "<p>Structured data is code, usually JSON-LD, that describes the content of a page in a standard vocabulary. For local businesses, schema.org's <code>LocalBusiness</code> type and its many subtypes let you state your name, address, phone, opening hours, geographic coordinates, price range and more in a way machines can read without guessing. Google's documentation explains how it uses local business structured data and which properties it supports.</p>"
+    },
+    {
+      "heading": "Why it matters for AI search",
+      "body_html": "<p>Local AI answers depend on accurate details: an assistant recommending a business that is closed, or giving the wrong phone number, fails its user. Clean structured data that matches your page and listings is one more consistent source of those details. It does not replace a Google Business Profile or clear text on your page, but it supports both.</p>"
+    },
+    {
+      "heading": "Choose the right type",
+      "body_html": "<p>schema.org has many LocalBusiness subtypes, such as <code>Dentist</code>, <code>LegalService</code>, <code>HVACBusiness</code>, <code>RoofingContractor</code>, <code>Restaurant</code>, <code>Hotel</code>, <code>RealEstateAgent</code>, <code>FinancialService</code> and <code>HealthAndBeautyBusiness</code>. Use the most specific one that honestly describes your business. If none fits, <code>LocalBusiness</code> itself is fine. Some older types are marked deprecated on schema.org, such as Attorney in favor of LegalService, so check the type page before using it.</p>"
+    },
+    {
+      "heading": "Properties to include",
+      "body_html": "<ul><li><strong>name</strong>: your business name exactly as on signage and listings.</li><li><strong>address</strong>: a full PostalAddress.</li><li><strong>telephone.</strong></li><li><strong>url</strong> of the location page.</li><li><strong>openingHoursSpecification</strong>, including special hours where relevant.</li><li><strong>geo</strong>: latitude and longitude.</li><li><strong>image</strong> and <strong>logo.</strong></li><li><strong>priceRange</strong>, where appropriate.</li><li><strong>areaServed</strong> for service-area businesses.</li><li><strong>sameAs</strong>: links to your official profiles.</li></ul><p>Check Google's documentation for which properties are required and recommended for the features you want.</p>"
+    },
+    {
+      "heading": "Match the visible page",
+      "body_html": "<p>Google's structured data guidelines require that markup describe content visible to users. If your page shows hours of 8am to 6pm, the markup must say the same. Mismatches between markup, page and listings create the very inconsistency you are trying to avoid. Update all three together whenever details change.</p>"
+    },
+    {
+      "heading": "Multiple locations",
+      "body_html": "<p>Give each real location its own page with its own LocalBusiness markup describing that location: its own address, phone, hours and coordinates. Do not put a single block listing every location on the homepage as if it were one business. Organization markup on the homepage can describe the parent brand and link to the locations.</p>"
+    },
+    {
+      "heading": "Service-area businesses",
+      "body_html": "<p>If you serve customers at their locations and do not want your address shown, describe the areas you serve with areaServed and keep the markup consistent with how your Google Business Profile is configured. Do not list cities where you do not genuinely provide service.</p>"
+    },
+    {
+      "heading": "How to add it",
+      "body_html": "<ol><li>Use your site platform's SEO or schema plugin, or add JSON-LD in the page head.</li><li>Generate the markup from your master business details.</li><li>Test it with Google's Rich Results Test and the Schema Markup Validator.</li><li>Fix errors and warnings that matter for your use.</li><li>Recheck after site updates, which sometimes remove or duplicate markup.</li></ol>"
+    },
+    {
+      "heading": "Common mistakes",
+      "body_html": "<ul><li>Hours or phone numbers in markup that differ from the page.</li><li>Multiple conflicting LocalBusiness blocks from different plugins.</li><li>Using a deprecated or wrong type.</li><li>Marking up reviews you did not collect on that page.</li><li>Forgetting to update markup when moving locations.</li></ul>"
+    },
+    {
+      "heading": "What schema will not do",
+      "body_html": "<p>Structured data is not a shortcut to recommendations. Google's AI features documentation says there are no special optimizations necessary beyond SEO best practices. Schema helps machines read details accurately; reviews, clear content, listings and reputation are what make a business worth recommending.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Use the most specific honest LocalBusiness type, fill in the core properties, match every value to your page and listings, give each location its own markup, test it and keep it current.</p>"
+    },
+    {
+      "heading": "An example JSON-LD outline",
+      "body_html": "<p>For a dental practice, the markup would describe a single <code>Dentist</code> with: the practice name exactly as on its sign; a PostalAddress with street, city, state, postal code and country; the main phone number; the URL of the location page; opening hours for each day; latitude and longitude; the logo and a photo of the practice; a price range; and sameAs links to its Google Business Profile, Facebook and Instagram pages. Every one of those values also appears on the visible page and matches the listings.</p>"
+    },
+    {
+      "heading": "Schema plugins and conflicts",
+      "body_html": "<p>Many websites run several plugins that each output structured data: an SEO plugin, a theme and a reviews widget. This can create two or three different LocalBusiness blocks with conflicting details. Check the page source or a testing tool after any plugin change, keep one authoritative block per page and disable duplicate output in the others.</p>"
+    },
+    {
+      "heading": "Keeping schema current",
+      "body_html": "<p>Tie structured data updates to the same process you use for listings: when hours, phone numbers or addresses change, update the master record, the visible page, the markup and the listings on the same day. Then retest the page.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is local business schema?",
+      "a": "Structured data, usually JSON-LD, that describes a business's name, address, phone, hours, location and other details using schema.org's LocalBusiness vocabulary."
+    },
+    {
+      "q": "Does local business schema help AI search?",
+      "a": "It gives machines a consistent, readable source of your business details, which supports accurate local answers. It does not replace listings, content or reviews."
+    },
+    {
+      "q": "Which LocalBusiness type should I use?",
+      "a": "The most specific schema.org subtype that honestly describes your business, or LocalBusiness if none fits."
+    },
+    {
+      "q": "Do I need schema for each location?",
+      "a": "Yes. Each real location should have its own page with its own LocalBusiness markup."
+    },
+    {
+      "q": "Can schema hurt my site?",
+      "a": "Incorrect or misleading markup can cause problems. Keep it accurate and matched to visible content."
+    },
+    {
+      "q": "How do I test my local business schema?",
+      "a": "Use Google's Rich Results Test and the Schema Markup Validator, then fix any errors."
+    },
+    {
+      "q": "Should service-area businesses use local schema?",
+      "a": "Yes, with areaServed to describe the areas you genuinely serve, consistent with your Google Business Profile."
+    },
+    {
+      "q": "Is Attorney still a valid schema type?",
+      "a": "Schema.org marks the Attorney type as deprecated in favor of LegalService."
+    },
+    {
+      "q": "Should I mark up reviews in my local business schema?",
+      "a": "Only follow Google's review snippet rules: mark up reviews that are collected and displayed on that page, and never self-serving reviews of your own business where they are not allowed."
+    },
+    {
+      "q": "Where should local business schema go?",
+      "a": "On the page that describes the location, usually the homepage for a single location or each location's own page for multiple locations."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "schema markup for AI search",
+      "url": "https://thechimeraai.com/schema-markup-for-ai-search/"
+    },
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "GEO for multi-location businesses",
+      "url": "https://thechimeraai.com/geo-for-multi-location-businesses/"
+    },
+    {
+      "anchor": "how ChatGPT recommends local businesses",
+      "url": "https://thechimeraai.com/how-chatgpt-recommends-local-businesses/"
+    },
+    {
+      "anchor": "Chimera's GEO services",
+      "url": "https://thechimeraai.com/#services"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Search Central: Local business structured data",
+      "url": "https://developers.google.com/search/docs/appearance/structured-data/local-business"
+    },
+    {
+      "title": "Schema.org: LocalBusiness",
+      "url": "https://schema.org/LocalBusiness"
+    },
+    {
+      "title": "Google Search Central: Introduction to structured data",
+      "url": "https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data"
+    },
+    {
+      "title": "Schema.org: LegalService",
+      "url": "https://schema.org/LegalService"
+    },
+    {
+      "title": "Google Search Central: AI features and your website",
+      "url": "https://developers.google.com/search/docs/appearance/ai-features"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 0,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "How schema supports local AI answers",
+      "lead": "One more consistent source of your details.",
+      "steps": [
+        {
+          "title": "Master record",
+          "text": "Your official business details."
+        },
+        {
+          "title": "Page and schema",
+          "text": "Visible text and matching markup."
+        },
+        {
+          "title": "Listings",
+          "text": "Profiles and directories with the same details."
+        },
+        {
+          "title": "AI answer",
+          "text": "Consistent details give confidence."
+        }
+      ]
+    },
+    {
+      "after": 4,
+      "type": "scorecard",
+      "eyebrow": "Scorecard",
+      "title": "What makes local schema effective",
+      "lead": "How much each helps (5 = most).",
+      "rows": [
+        {
+          "label": "Values match page and listings",
+          "score": 5,
+          "note": "Consistency is the point."
+        },
+        {
+          "label": "Most specific honest type",
+          "score": 4,
+          "note": "Clear categorization."
+        },
+        {
+          "label": "Separate markup per location",
+          "score": 5,
+          "note": "Each branch described correctly."
+        },
+        {
+          "label": "Regular testing",
+          "score": 4,
+          "note": "Catches plugin conflicts."
+        },
+        {
+          "label": "Conflicting duplicate blocks",
+          "score": 1,
+          "note": "Creates confusion."
+        }
+      ]
+    }
+  ],
+  "hero_query": "What schema should my local business use?",
+  "short_title": "Local Business Schema for AI Search: Setup Guide",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 782,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/local-business-schema-for-ai-search-chimera-1.jpg",
+    "alt": "Local Business Schema for AI Search: Setup Guide: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-06",
+  "updated": "2026-11-10",
+  "photo": {
+    "id": 403,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/local-business-schema-for-ai-search-photo.jpg",
+    "alt": "Smartphone on a cafe table showing a map with a glowing location pin",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
+}

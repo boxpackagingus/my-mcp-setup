@@ -23,7 +23,7 @@ body:has(.cpbi){overflow-x:clip}
 .cpbi-card:hover{transform:translateY(-3px);box-shadow:0 16px 36px rgba(0,0,0,.08)}
 .cpbi-card img{width:100%;aspect-ratio:2.13/1;object-fit:cover;display:block}
 .cpbi-body{display:flex;flex-direction:column;gap:14px;padding:26px 20px 26px;flex:1}
-.cpbi-body strong{color:var(--b-ink);font-size:20px;line-height:1.4;font-weight:500}
+.cpbi-body h2.cpbi-title{margin:0;color:var(--b-ink);font-size:20px;line-height:1.4;font-weight:500}
 .cpbi-body span.cpbi-ex{font-size:14px;color:#2a2b30;line-height:1.55}
 .cpbi-body span.cpbi-more{margin-top:auto;padding-top:14px;color:var(--b-gold);font-weight:700;font-size:13px;letter-spacing:.03em;text-transform:uppercase}
 .cpbi-pager{display:flex;justify-content:center;gap:22px;margin:44px 0 0;font-size:17px}
@@ -108,8 +108,8 @@ def render(cfg):
         cards.append(
             f'<li><a class="cpbi-card" href="{_e(page.page_url(s, cfg))}">'
             + (f'<img src="{_e(img)}" alt="{_e((s.get("hero_image") or {}).get("alt", s["h1"]))}" loading="{"eager" if i < 3 else "lazy"}" width="1600" height="760">' if img else "")
-            + f'<span class="cpbi-body"><strong>{_e(s["h1"])}</strong><span class="cpbi-ex">{_e(_excerpt(s))}</span>'
-            f'<span class="cpbi-more">Read more »</span></span></a></li>'
+            + f'<div class="cpbi-body"><h2 class="cpbi-title">{_e(s["h1"])}</h2><span class="cpbi-ex">{_e(_excerpt(s))}</span>'
+            f'<span class="cpbi-more">Read more »</span></div></a></li>'
         )
     btn = cfg["lead"].get("fallback_button") or {"text": "Book your AI visibility audit", "url": base + "/"}
     html = (

@@ -99,6 +99,11 @@ def local_paragraph(spec, cfg):
             f"and show you what to fix first.")
 
 
+HEADING_STYLE = ("<style>.cp h3.cp-h4{font-size:1rem;line-height:1.35;margin:0 0 .35em}"
+                 ".cp h3.cp-vis-title{font-size:clamp(1.6rem,2.8vw,2.35rem);line-height:1.15;letter-spacing:-.02em;"
+                 "margin:0;font-weight:600;text-wrap:balance}</style>")
+
+
 def render_html(spec, cfg):
     """Page body for WordPress. No <script> or <style>: the plugin supplies the design and the form."""
     from . import design, visuals
@@ -110,7 +115,7 @@ def render_html(spec, cfg):
     site = cfg["site"]
     base = site["base_url"].rstrip("/")
     hub = cfg["publishing"].get("hub_page_slug", "insights")
-    parts = ['<div class="cp">']
+    parts = [HEADING_STYLE, '<div class="cp">']
 
     # Breadcrumb: links every page back to the homepage and the guides hub.
     blog = is_blog(spec)

@@ -1,0 +1,280 @@
+{
+  "query": "schema markup for ai search",
+  "slug": "schema-markup-for-ai-search",
+  "eyebrow": "Structured data",
+  "primary_keyword": "schema markup for AI search",
+  "secondary_keywords": [
+    "structured data for AI",
+    "JSON-LD",
+    "Organization schema",
+    "FAQ schema"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Schema Markup for AI Search: Which Types Matter and Why",
+    "meta_description": "Schema markup for AI search: which structured data types help AI engines understand your business, how to implement JSON-LD, and the mistakes to avoid."
+  },
+  "h1": "Schema Markup for AI Search: A Practical Guide",
+  "answer": "Schema markup for AI search is structured data, usually JSON-LD, that tells search and AI engines exactly what a page is about: your organization, services, products, articles, FAQs and authors. It does not guarantee citations, but accurate Organization, LocalBusiness or Service, Product, Article, FAQPage and BreadcrumbList markup that matches the visible page makes your content easier to understand and attribute.",
+  "key_takeaways": [
+    "Structured data describes your page in a machine-readable way.",
+    "Google recommends JSON-LD and requires markup to match visible content.",
+    "Organization schema with sameAs links helps engines identify your brand.",
+    "FAQ rich results are now limited, but FAQPage still describes Q&A content.",
+    "Schema supports good content; it cannot replace it."
+  ],
+  "sections": [
+    {
+      "heading": "What schema markup does",
+      "body_html": "<p>Schema markup is a vocabulary from Schema.org that labels the things on your page: this is an organization, this is its logo, this is a product with this price, this is an article written by this person, these are questions and answers. Search engines read it to understand pages and to show rich results.</p><p>For AI search, the value is clarity. Engines that build answers from web pages benefit from knowing who you are, what you offer and how a page is organized. Google states that its AI features have no special schema requirements, but structured data remains part of the normal SEO best practices those features build on.</p><p>Think of schema as labels on a well-organized shelf. The products are still what people come for, but the labels help everyone find, compare and describe them quickly. For a business, the most valuable labels say who you are, what you offer, where, and who wrote the content.</p>"
+    },
+    {
+      "heading": "The schema types that matter most",
+      "body_html": "<table><tr><th>Type</th><th>Where</th><th>Why it helps</th></tr><tr><td>Organization</td><td>Homepage or sitewide</td><td>Name, logo, URL, contact and sameAs links identify your brand</td></tr><tr><td>LocalBusiness</td><td>Location pages</td><td>Address, hours, coordinates and service area</td></tr><tr><td>Service</td><td>Service pages</td><td>What you offer, to whom and where</td></tr><tr><td>Product</td><td>Product pages</td><td>Price, availability, brand and genuine reviews</td></tr><tr><td>Article</td><td>Guides and posts</td><td>Headline, author, dates and publisher</td></tr><tr><td>FAQPage</td><td>Pages with Q&amp;A</td><td>Marks questions and answers clearly</td></tr><tr><td>BreadcrumbList</td><td>Sitewide</td><td>Shows where a page sits in your site</td></tr></table>"
+    },
+    {
+      "heading": "Organization schema and your brand as an entity",
+      "body_html": "<p>AI engines recommend brands, so helping them identify yours is valuable. Organization schema should include your exact legal or trading name, logo, website, contact details and a <code>sameAs</code> list of your official profiles: LinkedIn, social accounts, directory listings and any knowledge-base entries. These links tie together the scattered mentions of your brand across the web into one entity.</p>"
+    },
+    {
+      "heading": "What changed with FAQ rich results",
+      "body_html": "<p>In August 2023 Google limited FAQ rich results to well-known, authoritative government and health websites, and it phased out HowTo rich results. Many sites stopped adding FAQPage markup as a result.</p><p>For GEO, FAQ content still matters a great deal, because AI engines love clear questions and answers. FAQPage markup describes that content accurately even when Google no longer shows a rich result for it. Keep it if your page genuinely has a Q&amp;A section, and never mark up questions that are not visible on the page.</p>"
+    },
+    {
+      "heading": "How to implement schema correctly",
+      "body_html": "<ol><li><strong>Use JSON-LD</strong>, Google's recommended format, in the page head or body.</li><li><strong>Match the visible page.</strong> Every fact in the markup must appear on the page.</li><li><strong>Be specific.</strong> Use the most precise type that fits, such as a LocalBusiness subtype.</li><li><strong>Fill required and recommended properties</strong> listed in Google's documentation for each feature.</li><li><strong>Validate</strong> with Google's Rich Results Test and the Schema Markup Validator.</li><li><strong>Keep it current</strong>, especially prices, hours and availability.</li></ol>"
+    },
+    {
+      "heading": "Schema on WordPress",
+      "body_html": "<p>SEO plugins such as Yoast and Rank Math generate Organization, Article and breadcrumb markup automatically. For landing pages, a plugin or template can add page-specific schema. The Chimera Engine, for example, outputs Article, FAQPage and BreadcrumbList JSON-LD for each guide it publishes, built from the same content readers see.</p>"
+    },
+    {
+      "heading": "Mistakes that hurt more than help",
+      "body_html": "<ul><li><strong>Marking up content that is not on the page</strong>, such as hidden FAQs or fake reviews. Google treats this as spam.</li><li><strong>Self-serving review markup</strong> on your own business pages, which Google does not support for rich results.</li><li><strong>Outdated prices or hours</strong> that contradict the page.</li><li><strong>Duplicate, conflicting markup</strong> from several plugins at once.</li><li><strong>Expecting schema to fix weak content.</strong> It describes a page; it cannot make it the best answer.</li></ul>"
+    },
+    {
+      "heading": "An example Organization schema",
+      "body_html": "<p>Here is the shape of a solid Organization block for a service business. Replace the values with your own, and make sure each one matches your visible site:</p><blockquote><code>{\"@context\": \"https://schema.org\", \"@type\": \"Organization\", \"name\": \"Chimera\", \"url\": \"https://thechimeraai.com/\", \"logo\": \"https://thechimeraai.com/logo.png\", \"description\": \"Generative Engine Optimization agency in Orange County, California.\", \"areaServed\": \"US\", \"sameAs\": [\"https://www.linkedin.com/company/your-company\", \"https://www.instagram.com/your-company\"]}</code></blockquote><p>The description should match the one-line description you use everywhere else, and the sameAs list should include only profiles you control.</p>"
+    },
+    {
+      "heading": "How to audit your existing schema",
+      "body_html": "<ol><li><strong>Test your homepage, a service page, a product page and a guide</strong> in Google's Rich Results Test.</li><li><strong>List the types found</strong> on each and compare them with the table above.</li><li><strong>Look for duplicates</strong>, such as two Organization blocks from different plugins.</li><li><strong>Check facts against the page</strong>: names, prices, hours, ratings and authors.</li><li><strong>Fix the template, not single pages</strong>, so every page of that type benefits.</li></ol><p>Most sites can complete this audit in an afternoon and fix the issues within a week.</p>"
+    },
+    {
+      "heading": "Where schema fits in a GEO plan",
+      "body_html": "<p>Schema is groundwork. Do it once properly, keep it accurate, and spend most of your effort on what engines actually quote: direct answers, specific facts, comparisons and a strong reputation. In an AI visibility audit, schema checks are quick wins that remove ambiguity before the bigger content and authority work begins.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does schema markup help with AI search?",
+      "a": "It helps engines understand who you are and what a page contains, which supports being understood and attributed. It does not guarantee citations; strong content and reputation matter more."
+    },
+    {
+      "q": "Which schema types are most important for GEO?",
+      "a": "Organization with sameAs links, LocalBusiness or Service for what you offer, Product for e-commerce, Article for guides, FAQPage for genuine Q&A sections and BreadcrumbList sitewide."
+    },
+    {
+      "q": "Is FAQ schema still worth adding?",
+      "a": "Google limited FAQ rich results in 2023, but FAQPage markup still describes visible Q&A content accurately. Keep it where your page genuinely has FAQs."
+    },
+    {
+      "q": "What format should schema use?",
+      "a": "Google recommends JSON-LD. Place it in the page and make sure every fact matches what is visible."
+    },
+    {
+      "q": "Can schema hurt my site?",
+      "a": "Misleading markup can. Marking up hidden content, fake reviews or wrong prices can be treated as spam and may cause manual actions."
+    },
+    {
+      "q": "Do AI Overviews require schema?",
+      "a": "No. Google says there are no special technical requirements for AI Overviews beyond normal Search eligibility, though structured data remains part of general best practice."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "GEO SEO best practices",
+      "url": "https://thechimeraai.com/geo-seo-best-practices/"
+    },
+    {
+      "anchor": "entity SEO for AI search",
+      "url": "https://thechimeraai.com/entity-seo-for-ai-search/"
+    },
+    {
+      "anchor": "GEO for e-commerce",
+      "url": "https://thechimeraai.com/geo-for-ecommerce/"
+    },
+    {
+      "anchor": "Chimera's GEO services",
+      "url": "https://thechimeraai.com/#services"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Search Central: Introduction to structured data",
+      "url": "https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data"
+    },
+    {
+      "title": "Google Search Central blog: Changes to HowTo and FAQ rich results (Aug 2023)",
+      "url": "https://developers.google.com/search/blog/2023/08/howto-faq-changes"
+    },
+    {
+      "title": "Schema.org: Organization",
+      "url": "https://schema.org/Organization"
+    },
+    {
+      "title": "Google Search Central: AI features and your website",
+      "url": "https://developers.google.com/search/docs/appearance/ai-features"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 1,
+      "type": "scorecard",
+      "eyebrow": "Scorecard",
+      "title": "How much each schema type helps GEO",
+      "lead": "Our view of the value of each type for AI visibility (5 = most useful).",
+      "rows": [
+        {
+          "label": "Organization with sameAs",
+          "score": 5,
+          "note": "Ties your brand's mentions into one entity."
+        },
+        {
+          "label": "Service / LocalBusiness",
+          "score": 4,
+          "note": "States what you offer and where."
+        },
+        {
+          "label": "Product with offers",
+          "score": 5,
+          "note": "Essential for e-commerce recommendations."
+        },
+        {
+          "label": "Article with author",
+          "score": 3,
+          "note": "Supports trust and freshness signals."
+        },
+        {
+          "label": "FAQPage",
+          "score": 3,
+          "note": "Describes Q&A clearly; rich results now limited."
+        }
+      ]
+    },
+    {
+      "after": 4,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "From markup to understanding",
+      "lead": "What happens to your structured data.",
+      "steps": [
+        {
+          "title": "Mark up",
+          "text": "Add JSON-LD that matches the visible page."
+        },
+        {
+          "title": "Validate",
+          "text": "Test with Google's Rich Results Test."
+        },
+        {
+          "title": "Crawl",
+          "text": "Search and AI crawlers read the markup with the page."
+        },
+        {
+          "title": "Understand",
+          "text": "Engines connect facts to your brand and pages."
+        }
+      ]
+    },
+    {
+      "after": 2,
+      "type": "line",
+      "eyebrow": "Interactive chart",
+      "title": "Google AI Overviews monthly users",
+      "lead": "Google says AI Overviews grew from 1.5 billion to 2 billion monthly users within months.",
+      "engine": "google",
+      "chart_label": "AI Overviews monthly users (billions)",
+      "unit": "B",
+      "items": [
+        {
+          "label": "May 2025",
+          "value": 1.5
+        },
+        {
+          "label": "Jul 2025",
+          "value": 2
+        }
+      ],
+      "source": {
+        "title": "Dataconomy: Google's AI Overviews now serve 2 billion monthly users (Jul 24, 2025)",
+        "url": "https://dataconomy.com/2025/07/24/googles-ai-overviews-now-serve-2-billion-monthly-users/",
+        "note": "Figures reported by Google"
+      }
+    },
+    {
+      "after": 5,
+      "type": "line",
+      "eyebrow": "Interactive chart",
+      "title": "ChatGPT's weekly users over time",
+      "lead": "OpenAI's own figures. Hover the points to see each milestone.",
+      "engine": "chatgpt",
+      "chart_label": "ChatGPT weekly active users (millions)",
+      "unit": "M",
+      "items": [
+        {
+          "label": "Nov 2023",
+          "value": 100
+        },
+        {
+          "label": "Mar 2025",
+          "value": 500
+        },
+        {
+          "label": "Aug 2025",
+          "value": 700
+        },
+        {
+          "label": "Oct 2025",
+          "value": 800
+        }
+      ],
+      "source": {
+        "title": "TechCrunch: Sam Altman says ChatGPT has hit 800M weekly active users (Oct 6, 2025)",
+        "url": "https://techcrunch.com/2025/10/06/sam-altman-says-chatgpt-has-hit-800m-weekly-active-users/",
+        "note": "Figures announced by OpenAI"
+      }
+    }
+  ],
+  "hero_query": "Does schema markup help me show up in AI answers?",
+  "short_title": "Schema Markup for AI Search: Which Types Matter and Why",
+  "hero_engines": [
+    "google",
+    "chatgpt",
+    "gemini",
+    "perplexity",
+    "copilot",
+    "claude"
+  ],
+  "hero_image": {
+    "id": 790,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/schema-markup-for-ai-search-chimera-1.jpg",
+    "alt": "Schema Markup for AI Search: Which Types Matter and Why: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-05",
+  "updated": "2026-11-10",
+  "photo": {
+    "id": 219,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/schema-markup-for-ai-search-photo.jpg",
+    "alt": "Person placing a labeled box on organized library shelves, representing structured data",
+    "width": 1344,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Kittl AI"
+  }
+}

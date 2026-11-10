@@ -1,0 +1,262 @@
+{
+  "query": "what is query fan-out",
+  "slug": "what-is-query-fan-out",
+  "eyebrow": "Google AI Mode",
+  "primary_keyword": "query fan-out",
+  "secondary_keywords": [
+    "AI Mode query fan-out",
+    "Google AI Overviews sources",
+    "fan-out search",
+    "AI search sub-queries"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "What Is Query Fan-Out? How AI Search Finds Sources",
+    "meta_description": "What is query fan-out, how Google AI Mode and AI Overviews use it to search subtopics, and how to structure pages so more of your content gets cited."
+  },
+  "h1": "What Is Query Fan-Out? How Google's AI Searches Behind the Scenes",
+  "answer": "Query fan-out is a technique where an AI search system splits one question into several related searches across subtopics and data sources, then combines the results into a single answer. Google says AI Overviews and AI Mode may use query fan-out, which means pages answering the follow-up questions behind a query get more chances to be cited.",
+  "key_takeaways": [
+    "Query fan-out turns one question into many related searches.",
+    "Google confirms AI Overviews and AI Mode may use it.",
+    "It surfaces a wider range of supporting pages than one search would.",
+    "Pages that cover follow-up questions gain more chances to be cited.",
+    "No special markup is needed; clear structure helps."
+  ],
+  "sections": [
+    {
+      "heading": "Query fan-out explained",
+      "body_html": "<p>When someone asks a complex question, such as \"what should I look for when hiring a GEO agency in Orange County\", a single search is not enough to answer it well. With query fan-out, the AI system issues several related searches at once: what GEO agencies do, typical pricing, how to judge results, what questions to ask, local options. It then reads the best results from each and writes one combined answer with links.</p><p>Google describes it in its documentation as issuing multiple related searches across subtopics and data sources to develop a response.</p>"
+    },
+    {
+      "heading": "Where Google uses it",
+      "body_html": "<p>Google states that both AI Overviews and AI Mode may use a query fan-out technique. It adds that while responses are being generated, its models identify more supporting web pages, allowing Google to display a wider and more diverse set of helpful links than classic search might for the same question.</p><p>Other assistants work in a similar spirit. When ChatGPT or Perplexity search the web for a detailed question, they often run more than one search and combine sources, although each company describes its process differently.</p>"
+    },
+    {
+      "heading": "Why it matters for your content",
+      "body_html": "<p>Query fan-out changes which pages can win. In classic search, one page competes for one query. With fan-out, the AI is also looking for the best answer to each sub-question. A page that thoroughly answers \"how much does a GEO audit cost\" could be cited inside an answer to a broader question about hiring an agency, even if it would never rank for the broad query itself.</p><p>It also means that a thin page answering only the headline question has fewer chances to be used than a page that covers the natural follow-ups.</p>"
+    },
+    {
+      "heading": "How to find the sub-questions",
+      "body_html": "<ul><li><strong>Google's People Also Ask</strong> and related searches for your main topic.</li><li><strong>Autocomplete suggestions</strong> that start with how, what, why, cost and best.</li><li><strong>Sales and support questions</strong> your team hears every week.</li><li><strong>Search Console queries</strong> with impressions but few clicks.</li><li><strong>The follow-up questions assistants suggest</strong> after answering your main query.</li></ul>"
+    },
+    {
+      "heading": "How to structure pages for fan-out",
+      "body_html": "<ol><li><strong>Lead with a direct answer</strong> to the main question.</li><li><strong>Give each sub-question its own heading</strong>, phrased the way people ask it.</li><li><strong>Answer each in the first two or three sentences</strong> below the heading, then add detail.</li><li><strong>Use tables</strong> for comparisons and options, which can be lifted into answers.</li><li><strong>Link related pages together</strong> so the whole topic is easy to explore.</li><li><strong>Close with an FAQ</strong> for smaller questions.</li></ol>"
+    },
+    {
+      "heading": "One deep page or several focused pages?",
+      "body_html": "<p>Both work, and most sites need both. A focused page for each significant sub-question (cost, timeline, how to choose) gives the AI a strong, specific source for that part of the answer. A hub page that summarizes the topic and links to each focused page helps both search engines and readers understand how the pieces fit. Avoid splitting a topic so finely that each page has little to say.</p>"
+    },
+    {
+      "heading": "What not to do",
+      "body_html": "<p>Do not stuff pages with every related keyword or generate dozens of near-identical pages for minor variations. Google's spam policies cover scaled content created mainly to manipulate rankings, and fan-out rewards pages that genuinely answer a sub-question, not pages that mention it. There is also no special markup for fan-out: Google says no additional requirements are needed for AI features beyond normal SEO best practices.</p>"
+    },
+    {
+      "heading": "How to tell if it is working",
+      "body_html": "<p>Look in Search Console for impressions on long, question-style queries you did not target directly; these often reflect pages being used for sub-questions. Check AI Mode and AI Overviews for your main topics and note which of your pages are linked. Over time, a well-structured topic cluster should be cited for more parts of the answer.</p>"
+    },
+    {
+      "heading": "An example of fan-out in action",
+      "body_html": "<p>Take the question \"is it worth hiring a GEO agency for a small ecommerce brand?\" A fan-out system might search for what GEO agencies do, typical GEO costs, GEO results for ecommerce, how to measure GEO, and alternatives to hiring an agency. The final answer then cites a different page for each part. A brand with clear pages on cost, ecommerce results and measurement has three chances to appear, even though none of those pages targets the original question word for word.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is query fan-out?",
+      "a": "A technique where an AI search system breaks one question into several related searches across subtopics and data sources, then combines the results into a single answer."
+    },
+    {
+      "q": "Does Google use query fan-out?",
+      "a": "Yes. Google's documentation says AI Overviews and AI Mode may use a query fan-out technique to develop responses and surface a wider set of supporting pages."
+    },
+    {
+      "q": "How does query fan-out affect SEO?",
+      "a": "Pages can be cited for a sub-question inside a broader answer, so content that covers the natural follow-up questions gains more chances to appear."
+    },
+    {
+      "q": "Do I need special markup for query fan-out?",
+      "a": "No. Google says there are no additional requirements for AI features beyond SEO best practices. Clear headings, direct answers and good internal links help."
+    },
+    {
+      "q": "How do I find the sub-questions to cover?",
+      "a": "Use People Also Ask, autocomplete, Search Console queries, and the questions your sales and support teams hear most often."
+    },
+    {
+      "q": "Should I create a separate page for every sub-question?",
+      "a": "Only for sub-questions substantial enough to deserve a full answer. Group smaller ones on a main page with their own headings and an FAQ."
+    },
+    {
+      "q": "Does query fan-out only apply to Google?",
+      "a": "Google is the company that has described it most directly for AI Overviews and AI Mode. Other assistants also run multiple searches for complex questions, so covering follow-up questions well helps across platforms."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "Google AI Mode guide",
+      "url": "https://thechimeraai.com/how-to-optimize-for-google-ai-mode/"
+    },
+    {
+      "anchor": "how to show up in Google AI Overviews",
+      "url": "https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/"
+    },
+    {
+      "anchor": "how to write content for AI search",
+      "url": "https://thechimeraai.com/how-to-write-content-for-ai-search/"
+    },
+    {
+      "anchor": "how AI search engines choose sources",
+      "url": "https://thechimeraai.com/how-ai-search-engines-choose-sources/"
+    },
+    {
+      "anchor": "Chimera's GEO services",
+      "url": "https://thechimeraai.com/#services"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Search Central: AI features and your website",
+      "url": "https://developers.google.com/search/docs/appearance/ai-features"
+    },
+    {
+      "title": "Google Search Central: Spam policies",
+      "url": "https://developers.google.com/search/docs/essentials/spam-policies"
+    },
+    {
+      "title": "Google Search Central: Creating helpful, reliable, people-first content",
+      "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content"
+    },
+    {
+      "title": "Pew Research Center: Google users are less likely to click on links when an AI summary appears in the results (Jul 22, 2025)",
+      "url": "https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 0,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "How query fan-out works",
+      "lead": "One question becomes several searches, then one answer.",
+      "steps": [
+        {
+          "title": "Question",
+          "text": "A user asks a complex, multi-part question."
+        },
+        {
+          "title": "Fan-out",
+          "text": "The AI issues related searches across subtopics."
+        },
+        {
+          "title": "Gather",
+          "text": "It reads the strongest page for each sub-question."
+        },
+        {
+          "title": "Answer",
+          "text": "It writes one response and links the supporting pages."
+        }
+      ]
+    },
+    {
+      "after": 2,
+      "type": "bars",
+      "eyebrow": "Pew Research data",
+      "title": "Which searches trigger an AI summary",
+      "lead": "Share of Google searches that produced an AI summary, by type of search, March 2025.",
+      "unit": "%",
+      "engine": "google",
+      "chart_label": "Searches with an AI summary",
+      "items": [
+        {
+          "label": "Searches starting with who, what, when or why",
+          "value": 60
+        },
+        {
+          "label": "Searches of 10 words or more",
+          "value": 53
+        },
+        {
+          "label": "Full-sentence searches (noun and verb)",
+          "value": 36
+        },
+        {
+          "label": "All searches in the study",
+          "value": 18
+        },
+        {
+          "label": "One- or two-word searches",
+          "value": 8
+        }
+      ],
+      "source": {
+        "title": "Pew Research Center, March 2025 browsing data from 900 U.S. adults",
+        "url": "https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/"
+      }
+    },
+    {
+      "after": 4,
+      "type": "scorecard",
+      "eyebrow": "Scorecard",
+      "title": "What helps a page get used in fan-out",
+      "lead": "How strongly each helps (5 = most).",
+      "rows": [
+        {
+          "label": "Sub-questions as headings",
+          "score": 5,
+          "note": "Each heading can match one fan-out search."
+        },
+        {
+          "label": "Answer in the first sentences",
+          "score": 5,
+          "note": "Easy to lift into the response."
+        },
+        {
+          "label": "Comparison tables",
+          "score": 4,
+          "note": "Useful for option and cost questions."
+        },
+        {
+          "label": "Internal links across the topic",
+          "score": 4,
+          "note": "Shows the full topic coverage."
+        },
+        {
+          "label": "Repeating related keywords",
+          "score": 1,
+          "note": "Mentions are not answers."
+        }
+      ]
+    }
+  ],
+  "hero_query": "What is query fan-out in Google AI Mode?",
+  "short_title": "What Is Query Fan-Out? How AI Search Finds Sources",
+  "hero_engines": [
+    "google",
+    "gemini",
+    "chatgpt",
+    "perplexity",
+    "claude",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 794,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/what-is-query-fan-out-chimera-1.jpg",
+    "alt": "What Is Query Fan-Out? How AI Search Finds Sources: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-06",
+  "updated": "2026-11-10",
+  "photo": {
+    "id": 362,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/what-is-query-fan-out-photo.jpg",
+    "alt": "A beam of light branching out to many floating paper cards",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
+}

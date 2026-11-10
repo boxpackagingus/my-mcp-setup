@@ -1,0 +1,274 @@
+{
+  "query": "geo for startups",
+  "slug": "geo-for-startups",
+  "eyebrow": "Growth guide",
+  "primary_keyword": "GEO for startups",
+  "secondary_keywords": [
+    "startup marketing AI",
+    "AI SEO for startups",
+    "get ChatGPT to recommend my startup",
+    "early-stage GEO"
+  ],
+  "search_intent": "commercial",
+  "seo": {
+    "title": "GEO for Startups: Get Cited by AI From Day One",
+    "meta_description": "GEO for startups: why AI search matters early, how to define your category for AI, the first pages to publish, earning mentions and a lean 90-day plan."
+  },
+  "h1": "GEO for Startups: How to Get AI to Know and Recommend You",
+  "answer": "GEO for startups means building your company's presence so AI tools like ChatGPT, Perplexity and Google AI can accurately describe what you do and recommend you for the right problems. For a young company it starts with a crisp category definition, a small set of answer-first pages, comparison content, and mentions on the communities and publications your buyers read.",
+  "key_takeaways": [
+    "AI tools may know little or nothing about a new company.",
+    "State your category and use case in plain, consistent words.",
+    "Live web search lets new companies be cited quickly.",
+    "Comparison and alternatives pages match buyer questions.",
+    "Mentions in communities and press fill the knowledge gap."
+  ],
+  "sections": [
+    {
+      "heading": "Why GEO matters early",
+      "body_html": "<p>Buyers increasingly ask assistants for tool and vendor suggestions: \"best tools for automating invoice approvals\", \"alternatives to a well-known product for small teams\". An established competitor appears because the model already knows it. A startup usually does not, because it launched after the model's training data was gathered or was rarely mentioned. The good news is that many assistants now search the live web for these questions, so a startup with clear, well-structured pages can be found and cited without waiting for the next model.</p>"
+    },
+    {
+      "heading": "Define your category for machines",
+      "body_html": "<p>AI systems need a simple way to place you. Write one plain sentence that says what you are, who it is for and what problem it solves, and use it consistently on your homepage, About page, social profiles, directory listings and press materials. Avoid invented category names that nobody searches for. If you must create a category, explain it in terms of an existing one.</p>"
+    },
+    {
+      "heading": "The first pages to publish",
+      "body_html": "<ol><li><strong>Homepage</strong> that states the category and use case in the first lines.</li><li><strong>Use-case pages</strong> for the two or three jobs buyers hire you for.</li><li><strong>Pricing page</strong> in plain text, even if it is \"from\" pricing.</li><li><strong>Comparison pages</strong> that honestly explain how you differ from the main alternatives.</li><li><strong>An FAQ</strong> answering the questions from sales calls.</li></ol><p>Five strong pages beat fifty thin ones for a new domain.</p>"
+    },
+    {
+      "heading": "Honest comparison content",
+      "body_html": "<p>\"X vs Y\" and \"alternatives to X\" are among the most common questions buyers ask AI tools. Write comparison pages that are fair: where the competitor is stronger, who should choose them, and where you fit better. Balanced comparisons are more credible to readers and more likely to be used by AI systems than pages that claim to win on everything.</p>"
+    },
+    {
+      "heading": "Fill the knowledge gap with mentions",
+      "body_html": "<p>Because AI tools cross-check, being described consistently on other sites matters a lot for a new company. Practical sources include launch platforms, relevant software directories, founder interviews and podcasts, guest articles in your niche, answers in communities where your buyers ask questions, and customer reviews on review platforms. Pew Research Center found Reddit and YouTube among the most frequently linked sources in Google's AI summaries, so genuine participation there can help, as long as it is helpful rather than promotional.</p>"
+    },
+    {
+      "heading": "Technical basics",
+      "body_html": "<p>Make sure AI search crawlers such as OAI-SearchBot, PerplexityBot and Claude-SearchBot are not blocked by robots.txt or your hosting firewall. Submit your sitemap in Google Search Console and Bing Webmaster Tools, add Organization structured data with your logo and official profiles, and keep important content in the page's HTML rather than only in scripts.</p>"
+    },
+    {
+      "heading": "A lean 90-day plan",
+      "body_html": "<p>In the first month, fix technical access, write the category sentence and publish the core pages. In the second, publish two honest comparison pages and a pricing explanation, and set up directory and review profiles. In the third, focus on earned mentions: podcasts, guest posts, community answers and customer reviews. Re-check what assistants say about you and your category every month.</p>"
+    },
+    {
+      "heading": "How to measure progress",
+      "body_html": "<p>Track whether assistants can describe your company correctly, whether you appear in answers for your category and comparisons, AI referral traffic in analytics, branded search growth and demo or trial sign-ups by source. For a startup, the first sign of success is often simply being described accurately.</p>"
+    },
+    {
+      "heading": "Common mistakes startups make",
+      "body_html": "<p>Startups often describe themselves differently on every channel as positioning evolves, use clever taglines instead of plain descriptions, hide pricing, and block crawlers by accident with staging settings left in place after launch. Another mistake is publishing many generic blog posts instead of a few pages that answer the questions buyers actually ask. Fix the description and the access first; they cost nothing and unlock everything else.</p>"
+    },
+    {
+      "heading": "Where to get help",
+      "body_html": "<p>A GEO audit for a startup checks whether AI tools can describe your company and category correctly, which competitors they name instead, and whether crawlers can reach your pages. It then recommends the first pages, comparisons and mention sources to focus on, sized for a small team with limited time.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is GEO for startups?",
+      "a": "It is building your company's presence so AI tools like ChatGPT, Perplexity and Google AI can accurately describe what you do and recommend you for the right problems."
+    },
+    {
+      "q": "Why doesn't ChatGPT know about my startup?",
+      "a": "Your company may have launched after the model's training data was collected, or been mentioned rarely. Assistants that search the live web can still find you if your pages are clear and accessible."
+    },
+    {
+      "q": "What pages should a startup publish first?",
+      "a": "A clear homepage, use-case pages, a pricing page, honest comparison pages and an FAQ based on real sales questions."
+    },
+    {
+      "q": "Do comparison pages help with AI search?",
+      "a": "Yes. Buyers often ask AI tools to compare options. Fair, specific comparison pages are useful sources for those answers."
+    },
+    {
+      "q": "How can a new company get mentioned on other sites?",
+      "a": "Launch platforms, software directories, podcasts, guest articles, helpful community answers and customer reviews are practical starting points."
+    },
+    {
+      "q": "How long before AI tools recommend a startup?",
+      "a": "Live search answers can cite new pages within weeks of indexing. Regular recommendations in a competitive category usually take several months of content and mentions."
+    },
+    {
+      "q": "Should a startup add an llms.txt file?",
+      "a": "It is optional and quick to add. Clear pages, crawler access and consistent descriptions matter far more, but llms.txt can help AI tools find your key pages."
+    },
+    {
+      "q": "Can a startup outrank established competitors in AI answers?",
+      "a": "For specific use cases and comparison questions, yes. AI answers often cite several sources, so a clear, specific page can earn a place next to larger brands."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "GEO for B2B SaaS",
+      "url": "https://thechimeraai.com/geo-for-b2b-saas/"
+    },
+    {
+      "anchor": "how to get brand mentions for AI search",
+      "url": "https://thechimeraai.com/how-to-get-brand-mentions-for-ai-search/"
+    },
+    {
+      "anchor": "what LLM SEO is",
+      "url": "https://thechimeraai.com/what-is-llm-seo/"
+    },
+    {
+      "anchor": "how long GEO takes",
+      "url": "https://thechimeraai.com/how-long-does-geo-take/"
+    },
+    {
+      "anchor": "Chimera's GEO services",
+      "url": "https://thechimeraai.com/#services"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "OpenAI: Overview of OpenAI crawlers",
+      "url": "https://platform.openai.com/docs/bots"
+    },
+    {
+      "title": "Perplexity: Perplexity crawlers",
+      "url": "https://docs.perplexity.ai/guides/bots"
+    },
+    {
+      "title": "Anthropic: Does Anthropic crawl data from the web, and how can site owners block the crawler?",
+      "url": "https://support.anthropic.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler"
+    },
+    {
+      "title": "Pew Research Center: Google users are less likely to click on links when an AI summary appears in the results (Jul 22, 2025)",
+      "url": "https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/"
+    },
+    {
+      "title": "Google Search Central: Organization structured data",
+      "url": "https://developers.google.com/search/docs/appearance/structured-data/organization"
+    },
+    {
+      "title": "Bing Webmaster Tools",
+      "url": "https://www.bing.com/webmasters"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 0,
+      "type": "engines",
+      "eyebrow": "AI platforms",
+      "title": "Where buyers discover new tools",
+      "lead": "The answer engines that matter most for buyer research, and how each one finds sources.",
+      "items": [
+        {
+          "engine": "chatgpt",
+          "note": "The largest assistant. Searches the web for current questions and links sources in its answers."
+        },
+        {
+          "engine": "google",
+          "note": "AI summaries above Google results, built from pages Google has indexed."
+        },
+        {
+          "engine": "gemini",
+          "note": "Google's assistant app, increasingly used for research and comparisons."
+        },
+        {
+          "engine": "perplexity",
+          "note": "Answer engine built around numbered, clickable citations."
+        },
+        {
+          "engine": "claude",
+          "note": "Anthropic's assistant, used heavily for research and work tasks; can search the web."
+        },
+        {
+          "engine": "copilot",
+          "note": "Microsoft's assistant in Windows, Edge and Office, grounded in Bing results."
+        }
+      ]
+    },
+    {
+      "after": 1,
+      "type": "timeline",
+      "eyebrow": "Timeline",
+      "title": "Two ways AI learns about a company",
+      "lead": "Live search is fast; training data is slow.",
+      "items": [
+        {
+          "when": "Weeks",
+          "title": "Live search",
+          "text": "Assistants search the web and cite clear, indexed pages."
+        },
+        {
+          "when": "Months",
+          "title": "Corroboration",
+          "text": "Mentions on other sites make descriptions confident."
+        },
+        {
+          "when": "Model updates",
+          "title": "Training data",
+          "text": "New models absorb what the web says about you."
+        }
+      ]
+    },
+    {
+      "after": 3,
+      "type": "scorecard",
+      "eyebrow": "Scorecard",
+      "title": "Where a startup should spend GEO effort",
+      "lead": "How much each helps early on (5 = most).",
+      "rows": [
+        {
+          "label": "Clear category sentence everywhere",
+          "score": 5,
+          "note": "Lets AI place you correctly."
+        },
+        {
+          "label": "Honest comparison pages",
+          "score": 5,
+          "note": "Matches common buyer questions."
+        },
+        {
+          "label": "Earned mentions and reviews",
+          "score": 4,
+          "note": "Fills the knowledge gap."
+        },
+        {
+          "label": "Technical crawler access",
+          "score": 4,
+          "note": "A quick, essential fix."
+        },
+        {
+          "label": "Publishing dozens of thin posts",
+          "score": 1,
+          "note": "Little value on a new domain."
+        }
+      ]
+    }
+  ],
+  "hero_query": "What are the best new tools for this problem?",
+  "short_title": "GEO for Startups: Get Cited by AI From Day One",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 750,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/geo-for-startups-chimera-1.jpg",
+    "alt": "GEO for Startups: Get Cited by AI From Day One: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-06",
+  "updated": "2026-11-10",
+  "photo": {
+    "id": 374,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/geo-for-startups-photo.jpg",
+    "alt": "Startup team brainstorming around a laptop in a loft workspace",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
+}
