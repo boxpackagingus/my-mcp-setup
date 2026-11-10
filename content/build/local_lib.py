@@ -31,7 +31,7 @@ for t in ["Plumber", "HVACBusiness", "RoofingContractor", "Electrician", "Genera
           "Locksmith", "MovingCompany", "AutoRepair", "AutoDealer", "InsuranceAgency", "AccountingService",
           "VeterinaryCare", "HealthClub", "BeautySalon", "ChildCare", "TravelAgency", "Physiotherapy",
           "MedicalBusiness", "Attorney", "RealEstateAgent", "FinancialService", "ProfessionalService",
-          "LodgingBusiness", "Dentist", "DaySpa", "LocalBusiness", "HomeAndConstructionBusiness"]:
+          "LodgingBusiness", "Dentist", "DaySpa", "LocalBusiness", "HomeAndConstructionBusiness", "AutoBodyShop", "AutoWash", "AutomotiveBusiness", "EducationalOrganization", "SportsActivityLocation", "Optician", "MedicalClinic", "Store", "NGO", "School", "Physician", "Restaurant", "Hotel", "Dentist", "RealEstateAgent", "Attorney", "TravelAgency"]:
     SRC["s_" + t.lower()] = {"title": f"Schema.org: {t}", "url": f"https://schema.org/{t}"}
 
 SVC, AUD, PROC = CORE["services"], CORE["audit"], CORE["process"]
