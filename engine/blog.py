@@ -8,20 +8,31 @@ from . import config, page
 _e = _html.escape
 
 STYLE = """<style>
-.cp-bloggrid{list-style:none;margin:0;padding:0;display:grid;gap:24px;grid-template-columns:repeat(auto-fill,minmax(280px,1fr))}
-.cp-bloggrid li{margin:0}
-.cp-blogcard{display:flex;flex-direction:column;height:100%;border-radius:18px;overflow:hidden;text-decoration:none;
- background:var(--cp-card,#fff);border:1px solid var(--cp-line,rgba(15,23,42,.1));color:inherit;transition:transform .2s,box-shadow .2s}
-.cp-blogcard,.cp-blogcard *{text-decoration:none!important}
-.cp-blogmore{font-weight:600;margin-top:4px;color:var(--cp-accent,#b8860b)}
-.cp-blogcard:hover{transform:translateY(-3px);box-shadow:0 18px 40px rgba(15,23,42,.12)}
-.cp-blogcard img{width:100%;aspect-ratio:16/9;object-fit:cover;display:block}
-.cp-blogcard-body{padding:18px 20px 22px;display:flex;flex-direction:column;gap:8px}
-.cp-blogcard strong{font-size:1.12rem;line-height:1.3}
-.cp-blogcard .cp-guide-desc{opacity:.8;font-size:.95rem}
-.cp-blogfeature{grid-column:1/-1}
-@media(min-width:900px){.cp-blogfeature .cp-blogcard{flex-direction:row}.cp-blogfeature img{width:58%;aspect-ratio:auto}
- .cp-blogfeature .cp-blogcard-body{justify-content:center;padding:32px}.cp-blogfeature strong{font-size:1.6rem}}
+body:has(.cpbi) .entry-title,body:has(.cpbi) .page-header{display:none}
+body:has(.cpbi){overflow-x:clip}
+.cpbi{--b-night:#0D0D12;--b-red:#CA272C;--b-gold:#FFC727;--b-ink:#16171c;font-size:16px;line-height:1.6;color:#3d3f48}
+.cpbi *{box-sizing:border-box}
+.cpbi-bleed{width:100vw;margin-left:calc(50% - 50vw)}
+.cpbi-band{background:radial-gradient(70% 140% at 0% 100%,rgba(202,39,44,.85),transparent 55%),var(--b-night);color:#fff;text-align:center;padding:clamp(60px,8vw,100px) 20px clamp(70px,9vw,110px)}
+.cpbi-band h1{color:#fff!important;font-size:clamp(40px,5vw,58px);font-weight:700;margin:0 0 18px}
+.cpbi-band p{margin:0 auto;max-width:720px;font-size:17px;opacity:.9}
+.cpbi-list{background:#f3f3f3;padding:clamp(56px,7vw,100px) 20px}
+.cpbi-grid{list-style:none;margin:0 auto;padding:0;max-width:1200px;display:grid;gap:26px;grid-template-columns:repeat(auto-fill,minmax(300px,1fr))}
+.cpbi-grid li{margin:0}
+.cpbi-card{display:flex;flex-direction:column;height:100%;background:#fff;border-radius:22px;overflow:hidden;text-decoration:none!important;color:inherit;transition:transform .2s,box-shadow .2s}
+.cpbi-card:hover{transform:translateY(-3px);box-shadow:0 16px 36px rgba(0,0,0,.08)}
+.cpbi-card img{width:100%;aspect-ratio:2.13/1;object-fit:cover;display:block}
+.cpbi-body{display:flex;flex-direction:column;gap:14px;padding:26px 20px 26px;flex:1}
+.cpbi-body strong{color:var(--b-ink);font-size:20px;line-height:1.4;font-weight:500}
+.cpbi-body span.cpbi-ex{font-size:14px;color:#2a2b30;line-height:1.55}
+.cpbi-body span.cpbi-more{margin-top:auto;padding-top:14px;color:var(--b-gold);font-weight:700;font-size:13px;letter-spacing:.03em;text-transform:uppercase}
+.cpbi-pager{display:flex;justify-content:center;gap:22px;margin:44px 0 0;font-size:17px}
+.cpbi-pager button{background:none;border:0;font:inherit;color:var(--b-ink);cursor:pointer;padding:2px 4px}
+.cpbi-pager button[aria-current=true]{color:var(--b-gold);font-weight:700}
+.cpbi-pager button:disabled{opacity:.35;cursor:default}
+.cpbi-cta{background:radial-gradient(80% 120% at 100% 100%,rgba(230,90,40,.85),transparent 60%),radial-gradient(70% 120% at 0% 100%,rgba(202,39,44,.9),transparent 60%),var(--b-night);padding:clamp(56px,7vw,90px) 20px}
+.cpbi-cta h2{color:#fff;text-align:center;font-size:clamp(28px,3.4vw,40px);line-height:1.2;margin:0 auto 34px;max-width:560px;font-weight:700}
+.cpbi-card2{background:#fff;border-radius:36px;max-width:1195px;margin:0 auto;padding:clamp(28px,4vw,50px)}
 </style>"""
 
 
@@ -73,6 +84,20 @@ def ensure_page(wp, cfg):
     return wp._req("POST", "/pages", json=body)["id"]
 
 
+def _excerpt(spec, words=24):
+    w = ("Short answer: " + spec["answer"]).split()
+    return " ".join(w[:words]) + ("…" if len(w) > words else "")
+
+
+PAGER = """<script>(function(){var g=document.querySelector('.cpbi-grid'),n=document.querySelector('.cpbi-pager');if(!g||!n)return;
+var items=[].slice.call(g.children),per=12,pages=Math.ceil(items.length/per),cur=1;if(pages<2){n.remove();return;}
+function show(p){cur=p;items.forEach(function(li,i){li.hidden=Math.floor(i/per)!==p-1;});draw();
+if(p>1||window.scrollY>400)g.scrollIntoView({behavior:'smooth',block:'start'});}
+function btn(t,p,dis,curr){var b=document.createElement('button');b.type='button';b.textContent=t;b.disabled=!!dis;if(curr)b.setAttribute('aria-current','true');b.onclick=function(){show(p);};return b;}
+function draw(){n.innerHTML='';n.append(btn('« Prev',cur-1,cur===1));for(var i=1;i<=pages;i++)n.append(btn(String(i),i,false,i===cur));n.append(btn('Next »',cur+1,cur===pages));}
+items.forEach(function(li,i){li.hidden=i>=per;});draw();})();</script>"""
+
+
 def render(cfg):
     base = cfg["site"]["base_url"].rstrip("/")
     city, region = page.place(cfg)
@@ -80,26 +105,23 @@ def render(cfg):
     cards = []
     for i, s in enumerate(items):
         img = (s.get("hero_image") or {}).get("url", "")
-        when = date.fromisoformat(s["published"]).strftime("%B %-d, %Y") if s.get("published") else ""
         cards.append(
-            f'<li class="{"cp-blogfeature" if i == 0 else ""}"><a class="cp-blogcard" href="{_e(page.page_url(s, cfg))}">'
-            + (f'<img src="{_e(img)}" alt="{_e((s.get("hero_image") or {}).get("alt", s["h1"]))}" loading="{"eager" if i == 0 else "lazy"}" width="1200" height="675">' if img else "")
-            + f'<span class="cp-blogcard-body"><span class="cp-eyebrow">{_e(when)} · {_e(s.get("category", "AI search"))}</span>'
-            f'<strong>{_e(s["h1"])}</strong><span class="cp-guide-desc">{_e(s["seo"]["meta_description"])}</span>'
-            f'<span class="cp-blogmore" aria-hidden="true">Read the post →</span></span></a></li>'
+            f'<li><a class="cpbi-card" href="{_e(page.page_url(s, cfg))}">'
+            + (f'<img src="{_e(img)}" alt="{_e((s.get("hero_image") or {}).get("alt", s["h1"]))}" loading="{"eager" if i < 3 else "lazy"}" width="1600" height="760">' if img else "")
+            + f'<span class="cpbi-body"><strong>{_e(s["h1"])}</strong><span class="cpbi-ex">{_e(_excerpt(s))}</span>'
+            f'<span class="cpbi-more">Read more »</span></span></a></li>'
         )
+    btn = cfg["lead"].get("fallback_button") or {"text": "Book your AI visibility audit", "url": base + "/"}
     html = (
-        STYLE + '<div class="cp">'
-        f'<nav class="cp-crumbs" aria-label="Breadcrumb"><a href="{base}/">Home</a><span aria-hidden="true">/</span>'
-        '<span aria-current="page">Blog</span></nav>'
-        f'<section class="cp-hub-hero cp-hero"><p class="cp-eyebrow">Chimera AI Blog · {_e(city)} · {_e(region)} · {len(items)} posts</p>'
-        '<h1>AI search news and playbooks for Anaheim and Orange County businesses</h1>'
-        f'<p>New posts every day on how ChatGPT, Google AI Overviews, Gemini and Perplexity find, describe and recommend '
-        f'businesses, written by the Chimera AI team in {_e(city)} for companies across {_e(region)}.</p>'
-        f'<div class="cp-actions"><a class="cp-btn cp-btn--primary" href="{base}/#audit">Get your free AI visibility audit</a>'
-        f'<a class="cp-btn cp-btn--ghost" href="{base}/{cfg["publishing"].get("hub_page_slug", "insights")}/">Browse the GEO guides</a></div></section>'
-        f'<section class="cp-sec"><ul class="cp-bloggrid">{"".join(cards) or "<li>New posts are on the way.</li>"}</ul></section>'
-        '</div>'
+        STYLE + '<div class="cpbi">'
+        '<header class="cpbi-band cpbi-bleed"><h1>Blog</h1>'
+        f'<p>Thoughts, ideas and practical playbooks on AI search, from the Chimera team in {_e(city)}, for businesses across {_e(region)}.</p></header>'
+        f'<section class="cpbi-list cpbi-bleed"><ul class="cpbi-grid">{"".join(cards) or "<li>New posts are on the way.</li>"}</ul>'
+        '<nav class="cpbi-pager" aria-label="Blog pages"></nav></section>'
+        '<section class="cpbi-cta cpbi-bleed" id="get-started"><h2>To Get Started, Simply Fill Out The Form Below!</h2>'
+        f'<div class="cpbi-card2"><div class="chimera-lead" data-chimera-form="full"><p>'
+        f'<a class="cp-btn cp-btn--primary" href="{_e(btn["url"])}">{_e(btn["text"])}</a></p></div></div></section>'
+        '</div>' + PAGER
     )
     md = [f"# {TITLE}", "", DESC, ""]
     md += [f"- [{s['h1']}]({page.page_url(s, cfg)}) ({s.get('published', '')}): {s['seo']['meta_description']}" for s in items]

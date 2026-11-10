@@ -266,11 +266,11 @@
   "category": "Google AI Mode",
   "slot": 1,
   "hero_image": {
-    "id": 700,
-    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/google-ai-mode-hotel-booking-anaheim-chimera-1.jpg",
-    "alt": "AI Mode Hotel Booking: What Anaheim Hotels Should Do: illustration with the AI platforms covered in this guide",
+    "id": 880,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/google-ai-mode-hotel-booking-anaheim-banner.jpg",
+    "alt": "Google AI Mode Hotel Booking: What It Means for Anaheim Hotels: banner photo",
     "width": 1600,
-    "height": 840
+    "height": 760
   },
   "photo": {
     "id": 704,

@@ -103,6 +103,10 @@ def render_html(spec, cfg):
     """Page body for WordPress. No <script> or <style>: the plugin supplies the design and the form."""
     from . import design, visuals
 
+    if is_blog(spec):
+        from . import blogpage
+        return blogpage.render(spec, cfg)
+
     site = cfg["site"]
     base = site["base_url"].rstrip("/")
     hub = cfg["publishing"].get("hub_page_slug", "insights")

@@ -310,11 +310,11 @@
   "category": "Playbooks",
   "slot": 5,
   "hero_image": {
-    "id": 699,
-    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/30-day-ai-search-plan-orange-county-chimera-1.jpg",
-    "alt": "A 30-Day AI Search Plan for Orange County Businesses: illustration with the AI platforms covered in this guide",
+    "id": 879,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/30-day-ai-search-plan-orange-county-banner.jpg",
+    "alt": "A 30-Day AI Search Plan for Orange County Small Businesses: banner photo",
     "width": 1600,
-    "height": 840
+    "height": 760
   },
   "photo": {
     "id": 708,
@@ -326,5 +326,9 @@
   },
   "published": "2026-11-10",
   "updated": "2026-11-10",
-  "parent_id": 709
+  "parent_id": 709,
+  "banner": {
+    "headline": "A 30-Day AI Search Plan:",
+    "sub": "For Orange County Small Businesses"
+  }
 }
