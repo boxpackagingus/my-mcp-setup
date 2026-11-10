@@ -445,31 +445,6 @@
     "page": "seo-company-anaheim"
   },
   {
-    "keyword": "SEO company Orange County",
-    "kind": "Main",
-    "page": "seo-company-orange-county"
-  },
-  {
-    "keyword": "Orange County SEO agency",
-    "kind": "Supporting",
-    "page": "seo-company-orange-county"
-  },
-  {
-    "keyword": "SEO services Orange County",
-    "kind": "Supporting",
-    "page": "seo-company-orange-county"
-  },
-  {
-    "keyword": "SEO company Orange County CA",
-    "kind": "Supporting",
-    "page": "seo-company-orange-county"
-  },
-  {
-    "keyword": "AI SEO Orange County",
-    "kind": "Supporting",
-    "page": "seo-company-orange-county"
-  },
-  {
     "keyword": "Costa Mesa SEO",
     "kind": "Main",
     "page": "seo-costa-mesa"
@@ -518,31 +493,6 @@
     "keyword": "accountant marketing Orange County",
     "kind": "Supporting",
     "page": "seo-for-accountants"
-  },
-  {
-    "keyword": "SEO for auto repair shops",
-    "kind": "Main",
-    "page": "seo-for-auto-repair-shops"
-  },
-  {
-    "keyword": "auto repair SEO",
-    "kind": "Supporting",
-    "page": "seo-for-auto-repair-shops"
-  },
-  {
-    "keyword": "mechanic SEO",
-    "kind": "Supporting",
-    "page": "seo-for-auto-repair-shops"
-  },
-  {
-    "keyword": "local SEO for auto repair shops",
-    "kind": "Supporting",
-    "page": "seo-for-auto-repair-shops"
-  },
-  {
-    "keyword": "auto shop marketing Orange County",
-    "kind": "Supporting",
-    "page": "seo-for-auto-repair-shops"
   },
   {
     "keyword": "SEO for car dealerships",
@@ -595,81 +545,6 @@
     "page": "seo-for-chiropractors"
   },
   {
-    "keyword": "SEO for cleaning companies",
-    "kind": "Main",
-    "page": "seo-for-cleaning-companies"
-  },
-  {
-    "keyword": "cleaning company SEO",
-    "kind": "Supporting",
-    "page": "seo-for-cleaning-companies"
-  },
-  {
-    "keyword": "house cleaning SEO",
-    "kind": "Supporting",
-    "page": "seo-for-cleaning-companies"
-  },
-  {
-    "keyword": "local SEO for cleaning services",
-    "kind": "Supporting",
-    "page": "seo-for-cleaning-companies"
-  },
-  {
-    "keyword": "cleaning business marketing Orange County",
-    "kind": "Supporting",
-    "page": "seo-for-cleaning-companies"
-  },
-  {
-    "keyword": "SEO for contractors",
-    "kind": "Main",
-    "page": "seo-for-contractors"
-  },
-  {
-    "keyword": "contractor SEO",
-    "kind": "Supporting",
-    "page": "seo-for-contractors"
-  },
-  {
-    "keyword": "SEO for general contractors",
-    "kind": "Supporting",
-    "page": "seo-for-contractors"
-  },
-  {
-    "keyword": "local SEO for contractors",
-    "kind": "Supporting",
-    "page": "seo-for-contractors"
-  },
-  {
-    "keyword": "remodeler marketing Orange County",
-    "kind": "Supporting",
-    "page": "seo-for-contractors"
-  },
-  {
-    "keyword": "SEO for daycare centers",
-    "kind": "Main",
-    "page": "seo-for-daycare-centers"
-  },
-  {
-    "keyword": "daycare SEO",
-    "kind": "Supporting",
-    "page": "seo-for-daycare-centers"
-  },
-  {
-    "keyword": "preschool marketing",
-    "kind": "Supporting",
-    "page": "seo-for-daycare-centers"
-  },
-  {
-    "keyword": "childcare SEO",
-    "kind": "Supporting",
-    "page": "seo-for-daycare-centers"
-  },
-  {
-    "keyword": "daycare marketing Orange County",
-    "kind": "Supporting",
-    "page": "seo-for-daycare-centers"
-  },
-  {
     "keyword": "SEO for electricians",
     "kind": "Main",
     "page": "seo-for-electricians"
@@ -693,31 +568,6 @@
     "keyword": "electrician marketing Orange County",
     "kind": "Supporting",
     "page": "seo-for-electricians"
-  },
-  {
-    "keyword": "SEO for gyms",
-    "kind": "Main",
-    "page": "seo-for-gyms"
-  },
-  {
-    "keyword": "gym SEO",
-    "kind": "Supporting",
-    "page": "seo-for-gyms"
-  },
-  {
-    "keyword": "fitness studio SEO",
-    "kind": "Supporting",
-    "page": "seo-for-gyms"
-  },
-  {
-    "keyword": "gym marketing",
-    "kind": "Supporting",
-    "page": "seo-for-gyms"
-  },
-  {
-    "keyword": "fitness marketing Orange County",
-    "kind": "Supporting",
-    "page": "seo-for-gyms"
   },
   {
     "keyword": "SEO for home builders",
@@ -1195,31 +1045,6 @@
     "page": "seo-for-solar-companies"
   },
   {
-    "keyword": "SEO for veterinarians",
-    "kind": "Main",
-    "page": "seo-for-veterinarians"
-  },
-  {
-    "keyword": "veterinary SEO",
-    "kind": "Supporting",
-    "page": "seo-for-veterinarians"
-  },
-  {
-    "keyword": "vet clinic marketing",
-    "kind": "Supporting",
-    "page": "seo-for-veterinarians"
-  },
-  {
-    "keyword": "local SEO for veterinarians",
-    "kind": "Supporting",
-    "page": "seo-for-veterinarians"
-  },
-  {
-    "keyword": "vet marketing Orange County",
-    "kind": "Supporting",
-    "page": "seo-for-veterinarians"
-  },
-  {
     "keyword": "Fullerton SEO",
     "kind": "Main",
     "page": "seo-fullerton"
@@ -1368,6 +1193,1041 @@
     "keyword": "local SEO without a storefront",
     "kind": "Supporting",
     "page": "service-area-business-seo"
+  },
+  {
+    "keyword": "Gemini task automation",
+    "kind": "Main",
+    "page": "gemini-task-automation-bookings-anaheim"
+  },
+  {
+    "keyword": "Gemini Intelligence",
+    "kind": "Supporting",
+    "page": "gemini-task-automation-bookings-anaheim"
+  },
+  {
+    "keyword": "AI agents booking",
+    "kind": "Supporting",
+    "page": "gemini-task-automation-bookings-anaheim"
+  },
+  {
+    "keyword": "Android AI reservations",
+    "kind": "Supporting",
+    "page": "gemini-task-automation-bookings-anaheim"
+  },
+  {
+    "keyword": "Gemini local business",
+    "kind": "Supporting",
+    "page": "gemini-task-automation-bookings-anaheim"
+  },
+  {
+    "keyword": "eat and here domains",
+    "kind": "Main",
+    "page": "google-eat-here-domains-orange-county"
+  },
+  {
+    "keyword": ".eat domain",
+    "kind": "Supporting",
+    "page": "google-eat-here-domains-orange-county"
+  },
+  {
+    "keyword": ".here domain",
+    "kind": "Supporting",
+    "page": "google-eat-here-domains-orange-county"
+  },
+  {
+    "keyword": "new Google domains SEO",
+    "kind": "Supporting",
+    "page": "google-eat-here-domains-orange-county"
+  },
+  {
+    "keyword": "Google Registry new TLDs",
+    "kind": "Supporting",
+    "page": "google-eat-here-domains-orange-county"
+  },
+  {
+    "keyword": "Google Holiday 100",
+    "kind": "Main",
+    "page": "google-holiday-100-orange-county-retailers"
+  },
+  {
+    "keyword": "Holiday 100 2026",
+    "kind": "Supporting",
+    "page": "google-holiday-100-orange-county-retailers"
+  },
+  {
+    "keyword": "holiday shopping trends",
+    "kind": "Supporting",
+    "page": "google-holiday-100-orange-county-retailers"
+  },
+  {
+    "keyword": "Google shopping trends",
+    "kind": "Supporting",
+    "page": "google-holiday-100-orange-county-retailers"
+  },
+  {
+    "keyword": "Orange County retail marketing",
+    "kind": "Supporting",
+    "page": "google-holiday-100-orange-county-retailers"
+  },
+  {
+    "keyword": "Google October 2026 AI updates",
+    "kind": "Main",
+    "page": "google-october-2026-ai-updates-local-business"
+  },
+  {
+    "keyword": "Gemini 4 Argon",
+    "kind": "Supporting",
+    "page": "google-october-2026-ai-updates-local-business"
+  },
+  {
+    "keyword": "Google AI updates",
+    "kind": "Supporting",
+    "page": "google-october-2026-ai-updates-local-business"
+  },
+  {
+    "keyword": "SynthID",
+    "kind": "Supporting",
+    "page": "google-october-2026-ai-updates-local-business"
+  },
+  {
+    "keyword": "AI news for small business",
+    "kind": "Supporting",
+    "page": "google-october-2026-ai-updates-local-business"
+  },
+  {
+    "keyword": "Google Search profiles",
+    "kind": "Main",
+    "page": "google-search-profiles-local-brands"
+  },
+  {
+    "keyword": "Search profiles eligibility",
+    "kind": "Supporting",
+    "page": "google-search-profiles-local-brands"
+  },
+  {
+    "keyword": "Google creator profiles",
+    "kind": "Supporting",
+    "page": "google-search-profiles-local-brands"
+  },
+  {
+    "keyword": "publisher profiles Google",
+    "kind": "Supporting",
+    "page": "google-search-profiles-local-brands"
+  },
+  {
+    "keyword": "Search profile AI Mode",
+    "kind": "Supporting",
+    "page": "google-search-profiles-local-brands"
+  },
+  {
+    "keyword": "SEO for auto body shops",
+    "kind": "Main",
+    "page": "seo-for-auto-body-shops"
+  },
+  {
+    "keyword": "auto body SEO",
+    "kind": "Supporting",
+    "page": "seo-for-auto-body-shops"
+  },
+  {
+    "keyword": "collision repair marketing",
+    "kind": "Supporting",
+    "page": "seo-for-auto-body-shops"
+  },
+  {
+    "keyword": "local SEO for auto body shops",
+    "kind": "Supporting",
+    "page": "seo-for-auto-body-shops"
+  },
+  {
+    "keyword": "body shop marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-auto-body-shops"
+  },
+  {
+    "keyword": "SEO for auto detailing",
+    "kind": "Main",
+    "page": "seo-for-auto-detailing"
+  },
+  {
+    "keyword": "detailing SEO",
+    "kind": "Supporting",
+    "page": "seo-for-auto-detailing"
+  },
+  {
+    "keyword": "car detailing marketing",
+    "kind": "Supporting",
+    "page": "seo-for-auto-detailing"
+  },
+  {
+    "keyword": "local SEO for auto detailing",
+    "kind": "Supporting",
+    "page": "seo-for-auto-detailing"
+  },
+  {
+    "keyword": "detailing marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-auto-detailing"
+  },
+  {
+    "keyword": "SEO for bathroom remodelers",
+    "kind": "Main",
+    "page": "seo-for-bathroom-remodelers"
+  },
+  {
+    "keyword": "bathroom remodeling SEO",
+    "kind": "Supporting",
+    "page": "seo-for-bathroom-remodelers"
+  },
+  {
+    "keyword": "remodeler marketing",
+    "kind": "Supporting",
+    "page": "seo-for-bathroom-remodelers"
+  },
+  {
+    "keyword": "local SEO for remodelers",
+    "kind": "Supporting",
+    "page": "seo-for-bathroom-remodelers"
+  },
+  {
+    "keyword": "remodeling marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-bathroom-remodelers"
+  },
+  {
+    "keyword": "SEO for carpet cleaning",
+    "kind": "Main",
+    "page": "seo-for-carpet-cleaning"
+  },
+  {
+    "keyword": "carpet cleaning SEO",
+    "kind": "Supporting",
+    "page": "seo-for-carpet-cleaning"
+  },
+  {
+    "keyword": "carpet cleaner marketing",
+    "kind": "Supporting",
+    "page": "seo-for-carpet-cleaning"
+  },
+  {
+    "keyword": "local SEO for carpet cleaning",
+    "kind": "Supporting",
+    "page": "seo-for-carpet-cleaning"
+  },
+  {
+    "keyword": "carpet cleaning marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-carpet-cleaning"
+  },
+  {
+    "keyword": "SEO for concrete contractors",
+    "kind": "Main",
+    "page": "seo-for-concrete-contractors"
+  },
+  {
+    "keyword": "concrete contractor SEO",
+    "kind": "Supporting",
+    "page": "seo-for-concrete-contractors"
+  },
+  {
+    "keyword": "concrete company marketing",
+    "kind": "Supporting",
+    "page": "seo-for-concrete-contractors"
+  },
+  {
+    "keyword": "local SEO for concrete contractors",
+    "kind": "Supporting",
+    "page": "seo-for-concrete-contractors"
+  },
+  {
+    "keyword": "concrete marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-concrete-contractors"
+  },
+  {
+    "keyword": "SEO for dentists",
+    "kind": "Main",
+    "page": "seo-for-dentists-orange-county"
+  },
+  {
+    "keyword": "dental SEO",
+    "kind": "Supporting",
+    "page": "seo-for-dentists-orange-county"
+  },
+  {
+    "keyword": "dentist marketing",
+    "kind": "Supporting",
+    "page": "seo-for-dentists-orange-county"
+  },
+  {
+    "keyword": "local SEO for dentists",
+    "kind": "Supporting",
+    "page": "seo-for-dentists-orange-county"
+  },
+  {
+    "keyword": "dental marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-dentists-orange-county"
+  },
+  {
+    "keyword": "SEO for dermatologists",
+    "kind": "Main",
+    "page": "seo-for-dermatologists"
+  },
+  {
+    "keyword": "dermatology SEO",
+    "kind": "Supporting",
+    "page": "seo-for-dermatologists"
+  },
+  {
+    "keyword": "dermatologist marketing",
+    "kind": "Supporting",
+    "page": "seo-for-dermatologists"
+  },
+  {
+    "keyword": "local SEO for dermatologists",
+    "kind": "Supporting",
+    "page": "seo-for-dermatologists"
+  },
+  {
+    "keyword": "dermatology marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-dermatologists"
+  },
+  {
+    "keyword": "SEO for doctors",
+    "kind": "Main",
+    "page": "seo-for-doctors"
+  },
+  {
+    "keyword": "medical practice SEO",
+    "kind": "Supporting",
+    "page": "seo-for-doctors"
+  },
+  {
+    "keyword": "physician marketing",
+    "kind": "Supporting",
+    "page": "seo-for-doctors"
+  },
+  {
+    "keyword": "healthcare SEO",
+    "kind": "Supporting",
+    "page": "seo-for-doctors"
+  },
+  {
+    "keyword": "medical marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-doctors"
+  },
+  {
+    "keyword": "SEO for dog groomers",
+    "kind": "Main",
+    "page": "seo-for-dog-groomers"
+  },
+  {
+    "keyword": "dog grooming SEO",
+    "kind": "Supporting",
+    "page": "seo-for-dog-groomers"
+  },
+  {
+    "keyword": "pet groomer marketing",
+    "kind": "Supporting",
+    "page": "seo-for-dog-groomers"
+  },
+  {
+    "keyword": "local SEO for dog groomers",
+    "kind": "Supporting",
+    "page": "seo-for-dog-groomers"
+  },
+  {
+    "keyword": "grooming marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-dog-groomers"
+  },
+  {
+    "keyword": "SEO for dog trainers",
+    "kind": "Main",
+    "page": "seo-for-dog-trainers"
+  },
+  {
+    "keyword": "dog trainer SEO",
+    "kind": "Supporting",
+    "page": "seo-for-dog-trainers"
+  },
+  {
+    "keyword": "dog training marketing",
+    "kind": "Supporting",
+    "page": "seo-for-dog-trainers"
+  },
+  {
+    "keyword": "local SEO for dog trainers",
+    "kind": "Supporting",
+    "page": "seo-for-dog-trainers"
+  },
+  {
+    "keyword": "dog training marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-dog-trainers"
+  },
+  {
+    "keyword": "SEO for flooring companies",
+    "kind": "Main",
+    "page": "seo-for-flooring-companies"
+  },
+  {
+    "keyword": "flooring SEO",
+    "kind": "Supporting",
+    "page": "seo-for-flooring-companies"
+  },
+  {
+    "keyword": "flooring contractor marketing",
+    "kind": "Supporting",
+    "page": "seo-for-flooring-companies"
+  },
+  {
+    "keyword": "local SEO for flooring companies",
+    "kind": "Supporting",
+    "page": "seo-for-flooring-companies"
+  },
+  {
+    "keyword": "flooring marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-flooring-companies"
+  },
+  {
+    "keyword": "SEO for garage door companies",
+    "kind": "Main",
+    "page": "seo-for-garage-door-companies"
+  },
+  {
+    "keyword": "garage door SEO",
+    "kind": "Supporting",
+    "page": "seo-for-garage-door-companies"
+  },
+  {
+    "keyword": "local SEO for garage door companies",
+    "kind": "Supporting",
+    "page": "seo-for-garage-door-companies"
+  },
+  {
+    "keyword": "garage door marketing",
+    "kind": "Supporting",
+    "page": "seo-for-garage-door-companies"
+  },
+  {
+    "keyword": "garage door repair marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-garage-door-companies"
+  },
+  {
+    "keyword": "SEO for handyman services",
+    "kind": "Main",
+    "page": "seo-for-handyman-services"
+  },
+  {
+    "keyword": "handyman SEO",
+    "kind": "Supporting",
+    "page": "seo-for-handyman-services"
+  },
+  {
+    "keyword": "handyman marketing",
+    "kind": "Supporting",
+    "page": "seo-for-handyman-services"
+  },
+  {
+    "keyword": "local SEO for handyman",
+    "kind": "Supporting",
+    "page": "seo-for-handyman-services"
+  },
+  {
+    "keyword": "handyman marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-handyman-services"
+  },
+  {
+    "keyword": "SEO for hotels",
+    "kind": "Main",
+    "page": "seo-for-hotels-orange-county"
+  },
+  {
+    "keyword": "hotel SEO",
+    "kind": "Supporting",
+    "page": "seo-for-hotels-orange-county"
+  },
+  {
+    "keyword": "hotel marketing",
+    "kind": "Supporting",
+    "page": "seo-for-hotels-orange-county"
+  },
+  {
+    "keyword": "direct booking SEO",
+    "kind": "Supporting",
+    "page": "seo-for-hotels-orange-county"
+  },
+  {
+    "keyword": "hotel marketing Anaheim",
+    "kind": "Supporting",
+    "page": "seo-for-hotels-orange-county"
+  },
+  {
+    "keyword": "SEO for junk removal",
+    "kind": "Main",
+    "page": "seo-for-junk-removal"
+  },
+  {
+    "keyword": "junk removal SEO",
+    "kind": "Supporting",
+    "page": "seo-for-junk-removal"
+  },
+  {
+    "keyword": "junk hauling marketing",
+    "kind": "Supporting",
+    "page": "seo-for-junk-removal"
+  },
+  {
+    "keyword": "local SEO for junk removal",
+    "kind": "Supporting",
+    "page": "seo-for-junk-removal"
+  },
+  {
+    "keyword": "junk removal marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-junk-removal"
+  },
+  {
+    "keyword": "SEO for law firms",
+    "kind": "Main",
+    "page": "seo-for-law-firms-orange-county"
+  },
+  {
+    "keyword": "attorney SEO",
+    "kind": "Supporting",
+    "page": "seo-for-law-firms-orange-county"
+  },
+  {
+    "keyword": "legal marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-law-firms-orange-county"
+  },
+  {
+    "keyword": "SEO for martial arts schools",
+    "kind": "Main",
+    "page": "seo-for-martial-arts-schools"
+  },
+  {
+    "keyword": "martial arts SEO",
+    "kind": "Supporting",
+    "page": "seo-for-martial-arts-schools"
+  },
+  {
+    "keyword": "karate school marketing",
+    "kind": "Supporting",
+    "page": "seo-for-martial-arts-schools"
+  },
+  {
+    "keyword": "BJJ gym marketing",
+    "kind": "Supporting",
+    "page": "seo-for-martial-arts-schools"
+  },
+  {
+    "keyword": "martial arts marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-martial-arts-schools"
+  },
+  {
+    "keyword": "SEO for nonprofits",
+    "kind": "Main",
+    "page": "seo-for-nonprofits"
+  },
+  {
+    "keyword": "nonprofit SEO",
+    "kind": "Supporting",
+    "page": "seo-for-nonprofits"
+  },
+  {
+    "keyword": "charity marketing",
+    "kind": "Supporting",
+    "page": "seo-for-nonprofits"
+  },
+  {
+    "keyword": "nonprofit marketing",
+    "kind": "Supporting",
+    "page": "seo-for-nonprofits"
+  },
+  {
+    "keyword": "nonprofit marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-nonprofits"
+  },
+  {
+    "keyword": "SEO for optometrists",
+    "kind": "Main",
+    "page": "seo-for-optometrists"
+  },
+  {
+    "keyword": "optometrist SEO",
+    "kind": "Supporting",
+    "page": "seo-for-optometrists"
+  },
+  {
+    "keyword": "eye doctor marketing",
+    "kind": "Supporting",
+    "page": "seo-for-optometrists"
+  },
+  {
+    "keyword": "local SEO for optometrists",
+    "kind": "Supporting",
+    "page": "seo-for-optometrists"
+  },
+  {
+    "keyword": "optometry marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-optometrists"
+  },
+  {
+    "keyword": "SEO for orthodontists",
+    "kind": "Main",
+    "page": "seo-for-orthodontists"
+  },
+  {
+    "keyword": "orthodontist SEO",
+    "kind": "Supporting",
+    "page": "seo-for-orthodontists"
+  },
+  {
+    "keyword": "orthodontic marketing",
+    "kind": "Supporting",
+    "page": "seo-for-orthodontists"
+  },
+  {
+    "keyword": "local SEO for orthodontists",
+    "kind": "Supporting",
+    "page": "seo-for-orthodontists"
+  },
+  {
+    "keyword": "orthodontist marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-orthodontists"
+  },
+  {
+    "keyword": "SEO for photographers",
+    "kind": "Main",
+    "page": "seo-for-photographers"
+  },
+  {
+    "keyword": "photographer SEO",
+    "kind": "Supporting",
+    "page": "seo-for-photographers"
+  },
+  {
+    "keyword": "wedding photographer SEO",
+    "kind": "Supporting",
+    "page": "seo-for-photographers"
+  },
+  {
+    "keyword": "photography marketing",
+    "kind": "Supporting",
+    "page": "seo-for-photographers"
+  },
+  {
+    "keyword": "photographer marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-photographers"
+  },
+  {
+    "keyword": "SEO for private schools",
+    "kind": "Main",
+    "page": "seo-for-private-schools"
+  },
+  {
+    "keyword": "school SEO",
+    "kind": "Supporting",
+    "page": "seo-for-private-schools"
+  },
+  {
+    "keyword": "private school marketing",
+    "kind": "Supporting",
+    "page": "seo-for-private-schools"
+  },
+  {
+    "keyword": "education marketing",
+    "kind": "Supporting",
+    "page": "seo-for-private-schools"
+  },
+  {
+    "keyword": "school marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-private-schools"
+  },
+  {
+    "keyword": "SEO for real estate agents",
+    "kind": "Main",
+    "page": "seo-for-real-estate-agents-orange-county"
+  },
+  {
+    "keyword": "real estate SEO",
+    "kind": "Supporting",
+    "page": "seo-for-real-estate-agents-orange-county"
+  },
+  {
+    "keyword": "realtor SEO",
+    "kind": "Supporting",
+    "page": "seo-for-real-estate-agents-orange-county"
+  },
+  {
+    "keyword": "real estate marketing",
+    "kind": "Supporting",
+    "page": "seo-for-real-estate-agents-orange-county"
+  },
+  {
+    "keyword": "realtor marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-real-estate-agents-orange-county"
+  },
+  {
+    "keyword": "SEO for restaurants",
+    "kind": "Main",
+    "page": "seo-for-restaurants-orange-county"
+  },
+  {
+    "keyword": "restaurant SEO",
+    "kind": "Supporting",
+    "page": "seo-for-restaurants-orange-county"
+  },
+  {
+    "keyword": "restaurant marketing",
+    "kind": "Supporting",
+    "page": "seo-for-restaurants-orange-county"
+  },
+  {
+    "keyword": "local SEO for restaurants",
+    "kind": "Supporting",
+    "page": "seo-for-restaurants-orange-county"
+  },
+  {
+    "keyword": "restaurant marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-restaurants-orange-county"
+  },
+  {
+    "keyword": "SEO for senior living",
+    "kind": "Main",
+    "page": "seo-for-senior-living"
+  },
+  {
+    "keyword": "assisted living SEO",
+    "kind": "Supporting",
+    "page": "seo-for-senior-living"
+  },
+  {
+    "keyword": "senior living marketing",
+    "kind": "Supporting",
+    "page": "seo-for-senior-living"
+  },
+  {
+    "keyword": "memory care marketing",
+    "kind": "Supporting",
+    "page": "seo-for-senior-living"
+  },
+  {
+    "keyword": "senior living marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-senior-living"
+  },
+  {
+    "keyword": "SEO for Shopify stores",
+    "kind": "Main",
+    "page": "seo-for-shopify-stores"
+  },
+  {
+    "keyword": "Shopify SEO",
+    "kind": "Supporting",
+    "page": "seo-for-shopify-stores"
+  },
+  {
+    "keyword": "ecommerce SEO",
+    "kind": "Supporting",
+    "page": "seo-for-shopify-stores"
+  },
+  {
+    "keyword": "Shopify marketing",
+    "kind": "Supporting",
+    "page": "seo-for-shopify-stores"
+  },
+  {
+    "keyword": "AI shopping optimization",
+    "kind": "Supporting",
+    "page": "seo-for-shopify-stores"
+  },
+  {
+    "keyword": "SEO for therapists",
+    "kind": "Main",
+    "page": "seo-for-therapists"
+  },
+  {
+    "keyword": "therapist SEO",
+    "kind": "Supporting",
+    "page": "seo-for-therapists"
+  },
+  {
+    "keyword": "counselor marketing",
+    "kind": "Supporting",
+    "page": "seo-for-therapists"
+  },
+  {
+    "keyword": "SEO for counselors",
+    "kind": "Supporting",
+    "page": "seo-for-therapists"
+  },
+  {
+    "keyword": "therapy marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-therapists"
+  },
+  {
+    "keyword": "SEO for travel agencies",
+    "kind": "Main",
+    "page": "seo-for-travel-agencies"
+  },
+  {
+    "keyword": "travel agent marketing",
+    "kind": "Supporting",
+    "page": "seo-for-travel-agencies"
+  },
+  {
+    "keyword": "local SEO for travel agencies",
+    "kind": "Supporting",
+    "page": "seo-for-travel-agencies"
+  },
+  {
+    "keyword": "travel marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-travel-agencies"
+  },
+  {
+    "keyword": "SEO for tree service companies",
+    "kind": "Main",
+    "page": "seo-for-tree-service-companies"
+  },
+  {
+    "keyword": "tree service SEO",
+    "kind": "Supporting",
+    "page": "seo-for-tree-service-companies"
+  },
+  {
+    "keyword": "arborist marketing",
+    "kind": "Supporting",
+    "page": "seo-for-tree-service-companies"
+  },
+  {
+    "keyword": "local SEO for tree service",
+    "kind": "Supporting",
+    "page": "seo-for-tree-service-companies"
+  },
+  {
+    "keyword": "tree service marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-tree-service-companies"
+  },
+  {
+    "keyword": "SEO for window cleaning",
+    "kind": "Main",
+    "page": "seo-for-window-cleaning"
+  },
+  {
+    "keyword": "window cleaning SEO",
+    "kind": "Supporting",
+    "page": "seo-for-window-cleaning"
+  },
+  {
+    "keyword": "window cleaner marketing",
+    "kind": "Supporting",
+    "page": "seo-for-window-cleaning"
+  },
+  {
+    "keyword": "local SEO for window cleaning",
+    "kind": "Supporting",
+    "page": "seo-for-window-cleaning"
+  },
+  {
+    "keyword": "window cleaning marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-window-cleaning"
+  },
+  {
+    "keyword": "SEO company Orange County",
+    "kind": "Main",
+    "page": "seo-company-orange-county"
+  },
+  {
+    "keyword": "Orange County SEO agency",
+    "kind": "Supporting",
+    "page": "seo-company-orange-county"
+  },
+  {
+    "keyword": "SEO services Orange County",
+    "kind": "Supporting",
+    "page": "seo-company-orange-county"
+  },
+  {
+    "keyword": "SEO company Orange County CA",
+    "kind": "Supporting",
+    "page": "seo-company-orange-county"
+  },
+  {
+    "keyword": "AI SEO Orange County",
+    "kind": "Supporting",
+    "page": "seo-company-orange-county"
+  },
+  {
+    "keyword": "SEO for auto repair shops",
+    "kind": "Main",
+    "page": "seo-for-auto-repair-shops"
+  },
+  {
+    "keyword": "auto repair SEO",
+    "kind": "Supporting",
+    "page": "seo-for-auto-repair-shops"
+  },
+  {
+    "keyword": "mechanic SEO",
+    "kind": "Supporting",
+    "page": "seo-for-auto-repair-shops"
+  },
+  {
+    "keyword": "local SEO for auto repair shops",
+    "kind": "Supporting",
+    "page": "seo-for-auto-repair-shops"
+  },
+  {
+    "keyword": "auto shop marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-auto-repair-shops"
+  },
+  {
+    "keyword": "SEO for cleaning companies",
+    "kind": "Main",
+    "page": "seo-for-cleaning-companies"
+  },
+  {
+    "keyword": "cleaning company SEO",
+    "kind": "Supporting",
+    "page": "seo-for-cleaning-companies"
+  },
+  {
+    "keyword": "house cleaning SEO",
+    "kind": "Supporting",
+    "page": "seo-for-cleaning-companies"
+  },
+  {
+    "keyword": "local SEO for cleaning services",
+    "kind": "Supporting",
+    "page": "seo-for-cleaning-companies"
+  },
+  {
+    "keyword": "cleaning business marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-cleaning-companies"
+  },
+  {
+    "keyword": "SEO for contractors",
+    "kind": "Main",
+    "page": "seo-for-contractors"
+  },
+  {
+    "keyword": "contractor SEO",
+    "kind": "Supporting",
+    "page": "seo-for-contractors"
+  },
+  {
+    "keyword": "SEO for general contractors",
+    "kind": "Supporting",
+    "page": "seo-for-contractors"
+  },
+  {
+    "keyword": "local SEO for contractors",
+    "kind": "Supporting",
+    "page": "seo-for-contractors"
+  },
+  {
+    "keyword": "remodeler marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-contractors"
+  },
+  {
+    "keyword": "SEO for daycare centers",
+    "kind": "Main",
+    "page": "seo-for-daycare-centers"
+  },
+  {
+    "keyword": "daycare SEO",
+    "kind": "Supporting",
+    "page": "seo-for-daycare-centers"
+  },
+  {
+    "keyword": "preschool marketing",
+    "kind": "Supporting",
+    "page": "seo-for-daycare-centers"
+  },
+  {
+    "keyword": "childcare SEO",
+    "kind": "Supporting",
+    "page": "seo-for-daycare-centers"
+  },
+  {
+    "keyword": "daycare marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-daycare-centers"
+  },
+  {
+    "keyword": "SEO for gyms",
+    "kind": "Main",
+    "page": "seo-for-gyms"
+  },
+  {
+    "keyword": "gym SEO",
+    "kind": "Supporting",
+    "page": "seo-for-gyms"
+  },
+  {
+    "keyword": "fitness studio SEO",
+    "kind": "Supporting",
+    "page": "seo-for-gyms"
+  },
+  {
+    "keyword": "gym marketing",
+    "kind": "Supporting",
+    "page": "seo-for-gyms"
+  },
+  {
+    "keyword": "fitness marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-gyms"
+  },
+  {
+    "keyword": "SEO for veterinarians",
+    "kind": "Main",
+    "page": "seo-for-veterinarians"
+  },
+  {
+    "keyword": "veterinary SEO",
+    "kind": "Supporting",
+    "page": "seo-for-veterinarians"
+  },
+  {
+    "keyword": "vet clinic marketing",
+    "kind": "Supporting",
+    "page": "seo-for-veterinarians"
+  },
+  {
+    "keyword": "local SEO for veterinarians",
+    "kind": "Supporting",
+    "page": "seo-for-veterinarians"
+  },
+  {
+    "keyword": "vet marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-veterinarians"
   },
   {
     "keyword": "AI crawler user agents",
@@ -1675,31 +2535,6 @@
     "page": "geo-content-strategy"
   },
   {
-    "keyword": "GEO for dentists",
-    "kind": "Main",
-    "page": "geo-for-dentists"
-  },
-  {
-    "keyword": "dental practice AI search",
-    "kind": "Supporting",
-    "page": "geo-for-dentists"
-  },
-  {
-    "keyword": "AI SEO for dentists",
-    "kind": "Supporting",
-    "page": "geo-for-dentists"
-  },
-  {
-    "keyword": "dentist ChatGPT",
-    "kind": "Supporting",
-    "page": "geo-for-dentists"
-  },
-  {
-    "keyword": "dental marketing AI",
-    "kind": "Supporting",
-    "page": "geo-for-dentists"
-  },
-  {
     "keyword": "GEO for manufacturers",
     "kind": "Main",
     "page": "geo-for-manufacturers"
@@ -1723,31 +2558,6 @@
     "keyword": "supplier discovery AI",
     "kind": "Supporting",
     "page": "geo-for-manufacturers"
-  },
-  {
-    "keyword": "GEO for restaurants",
-    "kind": "Main",
-    "page": "geo-for-restaurants"
-  },
-  {
-    "keyword": "restaurant marketing AI",
-    "kind": "Supporting",
-    "page": "geo-for-restaurants"
-  },
-  {
-    "keyword": "AI SEO for restaurants",
-    "kind": "Supporting",
-    "page": "geo-for-restaurants"
-  },
-  {
-    "keyword": "restaurant ChatGPT recommendations",
-    "kind": "Supporting",
-    "page": "geo-for-restaurants"
-  },
-  {
-    "keyword": "Google AI Mode restaurants",
-    "kind": "Supporting",
-    "page": "geo-for-restaurants"
   },
   {
     "keyword": "GEO for startups",
@@ -2180,11 +2990,6 @@
     "page": "product-pages-for-ai-shopping"
   },
   {
-    "keyword": "AI shopping optimization",
-    "kind": "Supporting",
-    "page": "product-pages-for-ai-shopping"
-  },
-  {
     "keyword": "ChatGPT shopping",
     "kind": "Supporting",
     "page": "product-pages-for-ai-shopping"
@@ -2395,6 +3200,131 @@
     "page": "geo-for-financial-advisors"
   },
   {
+    "keyword": "GEO for med spas",
+    "kind": "Main",
+    "page": "geo-for-med-spas"
+  },
+  {
+    "keyword": "med spa marketing AI",
+    "kind": "Supporting",
+    "page": "geo-for-med-spas"
+  },
+  {
+    "keyword": "AI SEO for med spas",
+    "kind": "Supporting",
+    "page": "geo-for-med-spas"
+  },
+  {
+    "keyword": "aesthetic clinic ChatGPT",
+    "kind": "Supporting",
+    "page": "geo-for-med-spas"
+  },
+  {
+    "keyword": "med spa local SEO",
+    "kind": "Supporting",
+    "page": "geo-for-med-spas"
+  },
+  {
+    "keyword": "GEO for multi-location businesses",
+    "kind": "Main",
+    "page": "geo-for-multi-location-businesses"
+  },
+  {
+    "keyword": "multi-location SEO AI",
+    "kind": "Supporting",
+    "page": "geo-for-multi-location-businesses"
+  },
+  {
+    "keyword": "franchise GEO",
+    "kind": "Supporting",
+    "page": "geo-for-multi-location-businesses"
+  },
+  {
+    "keyword": "location pages AI search",
+    "kind": "Supporting",
+    "page": "geo-for-multi-location-businesses"
+  },
+  {
+    "keyword": "enterprise local SEO",
+    "kind": "Supporting",
+    "page": "geo-for-multi-location-businesses"
+  },
+  {
+    "keyword": "how ChatGPT recommends local businesses",
+    "kind": "Main",
+    "page": "how-chatgpt-recommends-local-businesses"
+  },
+  {
+    "keyword": "ChatGPT local recommendations",
+    "kind": "Supporting",
+    "page": "how-chatgpt-recommends-local-businesses"
+  },
+  {
+    "keyword": "AI local search",
+    "kind": "Supporting",
+    "page": "how-chatgpt-recommends-local-businesses"
+  },
+  {
+    "keyword": "get recommended by ChatGPT",
+    "kind": "Supporting",
+    "page": "how-chatgpt-recommends-local-businesses"
+  },
+  {
+    "keyword": "local business AI visibility",
+    "kind": "Supporting",
+    "page": "how-chatgpt-recommends-local-businesses"
+  },
+  {
+    "keyword": "local business schema",
+    "kind": "Main",
+    "page": "local-business-schema-for-ai-search"
+  },
+  {
+    "keyword": "LocalBusiness schema",
+    "kind": "Supporting",
+    "page": "local-business-schema-for-ai-search"
+  },
+  {
+    "keyword": "local SEO structured data",
+    "kind": "Supporting",
+    "page": "local-business-schema-for-ai-search"
+  },
+  {
+    "keyword": "JSON-LD local business",
+    "kind": "Supporting",
+    "page": "local-business-schema-for-ai-search"
+  },
+  {
+    "keyword": "schema for local AI search",
+    "kind": "Supporting",
+    "page": "local-business-schema-for-ai-search"
+  },
+  {
+    "keyword": "GEO for dentists",
+    "kind": "Main",
+    "page": "geo-for-dentists"
+  },
+  {
+    "keyword": "dental practice AI search",
+    "kind": "Supporting",
+    "page": "geo-for-dentists"
+  },
+  {
+    "keyword": "AI SEO for dentists",
+    "kind": "Supporting",
+    "page": "geo-for-dentists"
+  },
+  {
+    "keyword": "dentist ChatGPT",
+    "kind": "Supporting",
+    "page": "geo-for-dentists"
+  },
+  {
+    "keyword": "dental marketing AI",
+    "kind": "Supporting",
+    "page": "geo-for-dentists"
+  },
+  {
     "keyword": "GEO for healthcare providers",
     "kind": "Main",
     "page": "geo-for-healthcare"
@@ -2495,56 +3425,6 @@
     "page": "geo-for-law-firms"
   },
   {
-    "keyword": "GEO for med spas",
-    "kind": "Main",
-    "page": "geo-for-med-spas"
-  },
-  {
-    "keyword": "med spa marketing AI",
-    "kind": "Supporting",
-    "page": "geo-for-med-spas"
-  },
-  {
-    "keyword": "AI SEO for med spas",
-    "kind": "Supporting",
-    "page": "geo-for-med-spas"
-  },
-  {
-    "keyword": "aesthetic clinic ChatGPT",
-    "kind": "Supporting",
-    "page": "geo-for-med-spas"
-  },
-  {
-    "keyword": "med spa local SEO",
-    "kind": "Supporting",
-    "page": "geo-for-med-spas"
-  },
-  {
-    "keyword": "GEO for multi-location businesses",
-    "kind": "Main",
-    "page": "geo-for-multi-location-businesses"
-  },
-  {
-    "keyword": "multi-location SEO AI",
-    "kind": "Supporting",
-    "page": "geo-for-multi-location-businesses"
-  },
-  {
-    "keyword": "franchise GEO",
-    "kind": "Supporting",
-    "page": "geo-for-multi-location-businesses"
-  },
-  {
-    "keyword": "location pages AI search",
-    "kind": "Supporting",
-    "page": "geo-for-multi-location-businesses"
-  },
-  {
-    "keyword": "enterprise local SEO",
-    "kind": "Supporting",
-    "page": "geo-for-multi-location-businesses"
-  },
-  {
     "keyword": "GEO for real estate agents",
     "kind": "Main",
     "page": "geo-for-real-estate-agents"
@@ -2570,54 +3450,29 @@
     "page": "geo-for-real-estate-agents"
   },
   {
-    "keyword": "how ChatGPT recommends local businesses",
+    "keyword": "GEO for restaurants",
     "kind": "Main",
-    "page": "how-chatgpt-recommends-local-businesses"
+    "page": "geo-for-restaurants"
   },
   {
-    "keyword": "ChatGPT local recommendations",
+    "keyword": "restaurant marketing AI",
     "kind": "Supporting",
-    "page": "how-chatgpt-recommends-local-businesses"
+    "page": "geo-for-restaurants"
   },
   {
-    "keyword": "AI local search",
+    "keyword": "AI SEO for restaurants",
     "kind": "Supporting",
-    "page": "how-chatgpt-recommends-local-businesses"
+    "page": "geo-for-restaurants"
   },
   {
-    "keyword": "get recommended by ChatGPT",
+    "keyword": "restaurant ChatGPT recommendations",
     "kind": "Supporting",
-    "page": "how-chatgpt-recommends-local-businesses"
+    "page": "geo-for-restaurants"
   },
   {
-    "keyword": "local business AI visibility",
+    "keyword": "Google AI Mode restaurants",
     "kind": "Supporting",
-    "page": "how-chatgpt-recommends-local-businesses"
-  },
-  {
-    "keyword": "local business schema",
-    "kind": "Main",
-    "page": "local-business-schema-for-ai-search"
-  },
-  {
-    "keyword": "LocalBusiness schema",
-    "kind": "Supporting",
-    "page": "local-business-schema-for-ai-search"
-  },
-  {
-    "keyword": "local SEO structured data",
-    "kind": "Supporting",
-    "page": "local-business-schema-for-ai-search"
-  },
-  {
-    "keyword": "JSON-LD local business",
-    "kind": "Supporting",
-    "page": "local-business-schema-for-ai-search"
-  },
-  {
-    "keyword": "schema for local AI search",
-    "kind": "Supporting",
-    "page": "local-business-schema-for-ai-search"
+    "page": "geo-for-restaurants"
   },
   {
     "keyword": "AI Overviews vs featured snippets",
@@ -2803,26 +3658,6 @@
     "keyword": "software comparison pages",
     "kind": "Supporting",
     "page": "geo-for-b2b-saas"
-  },
-  {
-    "keyword": "GEO for e-commerce",
-    "kind": "Main",
-    "page": "geo-for-ecommerce"
-  },
-  {
-    "keyword": "AI product recommendations",
-    "kind": "Supporting",
-    "page": "geo-for-ecommerce"
-  },
-  {
-    "keyword": "ecommerce AI search",
-    "kind": "Supporting",
-    "page": "geo-for-ecommerce"
-  },
-  {
-    "keyword": "Product schema",
-    "kind": "Supporting",
-    "page": "geo-for-ecommerce"
   },
   {
     "keyword": "GEO mistakes",
@@ -3268,5 +4103,25 @@
     "keyword": "local SEO AI",
     "kind": "Supporting",
     "page": "local-geo"
+  },
+  {
+    "keyword": "GEO for e-commerce",
+    "kind": "Main",
+    "page": "geo-for-ecommerce"
+  },
+  {
+    "keyword": "AI product recommendations",
+    "kind": "Supporting",
+    "page": "geo-for-ecommerce"
+  },
+  {
+    "keyword": "ecommerce AI search",
+    "kind": "Supporting",
+    "page": "geo-for-ecommerce"
+  },
+  {
+    "keyword": "Product schema",
+    "kind": "Supporting",
+    "page": "geo-for-ecommerce"
   }
 ]
