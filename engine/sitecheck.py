@@ -114,7 +114,7 @@ def run(cfg):
     pages = []
     for p in config.read_json(config.DATA / "pages.json", []):
         code, html, _ = _get(p["url"])
-        md_code, md, _ = _get(f'{base}/{p["slug"]}.md')
+        md_code, md, _ = _get(p["url"].rstrip("/") + ".md")  # blog posts live under /blog/
         path = _norm(p["url"])
         pages.append({
             "slug": p["slug"], "url": p["url"], "published": p.get("published"),

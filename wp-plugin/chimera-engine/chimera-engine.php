@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Chimera Engine
  * Description: Support for engine-built landing pages: llms.txt, Markdown copies, robots.txt rules, schema, hub listing, IndexNow, page design, lead form, AI-traffic and lead tracking.
- * Version: 1.7.1
+ * Version: 1.7.2
  * Requires at least: 6.0
  * Requires PHP: 7.4
  * Author: The Chimera AI
@@ -12,7 +12,7 @@ if (!defined('ABSPATH')) {
     exit;
 }
 
-const CHIMERA_ENGINE_VERSION = '1.7.1';
+const CHIMERA_ENGINE_VERSION = '1.7.2';
 
 /* -------------------------------------------------------------
  * 1. Page fields the engine writes through the REST API
@@ -131,7 +131,7 @@ add_action('wp_head', function () {
         echo '<meta name="description" content="' . esc_attr($desc) . "\">\n";
     }
 
-    $slug = get_post_field('post_name', $id);
+    $slug = get_page_uri($id);
     echo '<link rel="alternate" type="text/markdown" href="' . esc_url(home_url("/$slug.md")) . "\">\n";
 
     // Social previews (Open Graph / X) from the page's hero image, unless an SEO plugin already does it.
@@ -169,7 +169,7 @@ add_action('parse_request', function () {
     if ($path === 'llms.txt' || $path === 'llms-full.txt') {
         chimera_send_text(chimera_llms_txt($path === 'llms-full.txt'));
     }
-    if (preg_match('#^([a-z0-9-]+)\.md$#', $path, $m)) {
+    if (preg_match('#^([a-z0-9-]+(?:/[a-z0-9-]+)*)\.md$#', $path, $m)) {
         $page = get_page_by_path($m[1], OBJECT, 'page');
         if ($page && $page->post_status === 'publish' && chimera_is_engine_page($page->ID)) {
             $md = get_post_meta($page->ID, '_chimera_markdown', true);
@@ -220,7 +220,7 @@ function chimera_llms_txt($full = false)
     if ($pages) {
         $out .= "## Guides and answers\n\n";
         foreach ($pages as $p) {
-            $slug = $p->post_name;
+            $slug = get_page_uri($p);
             $line = '- [' . get_the_title($p) . '](' . home_url("/$slug.md") . ')';
             $d    = get_post_meta($p->ID, '_chimera_meta_description', true);
             $out .= $d ? "$line: $d\n" : "$line\n";
