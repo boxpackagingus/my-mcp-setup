@@ -1,0 +1,313 @@
+{
+  "query": "local seo keywords",
+  "slug": "local-seo-keywords",
+  "eyebrow": "Local SEO",
+  "primary_keyword": "local SEO keywords",
+  "secondary_keywords": [
+    "local keywords",
+    "local keyword research",
+    "find local SEO keywords",
+    "local search terms"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Local SEO Keywords: How to Find and Use Them (2026)",
+    "meta_description": "How to find local SEO keywords for your business: service and city terms, near me searches, questions, Search Console data and AI prompts."
+  },
+  "h1": "Local SEO Keywords: How to Find the Searches That Bring Customers",
+  "answer": "Local SEO keywords combine a service with a place or intent, such as water heater repair Anaheim or emergency plumber near me, plus the questions customers ask. Find them in Google's autocomplete, your Search Console data, your customers' own words and AI prompts, then build one clear page around each main service.",
+  "key_takeaways": [
+    "Local keywords pair a service with a place or intent.",
+    "Your Search Console data is the best source.",
+    "Customer questions are keywords too.",
+    "One page per service, not per keyword.",
+    "Do not stuff city names."
+  ],
+  "sections": [
+    {
+      "heading": "What local SEO keywords are",
+      "body_html": "<p>A local keyword is a search with local intent: a service plus a city, neighborhood or near me, or a question people ask before choosing a local business. Examples include roof repair Huntington Beach, CPA near me and how much does a plumber charge.</p>"
+    },
+    {
+      "heading": "Types of local keywords",
+      "body_html": "<table><tr><th>Type</th><th>Example</th></tr><tr><td>Service + city</td><td>AC repair Anaheim</td></tr><tr><td>Near me</td><td>locksmith near me</td></tr><tr><td>Urgent</td><td>24 hour plumber</td></tr><tr><td>Question</td><td>how long does a roof last</td></tr><tr><td>Comparison</td><td>heat pump vs AC</td></tr><tr><td>Brand</td><td>your business name reviews</td></tr></table>"
+    },
+    {
+      "heading": "Source 1: Search Console",
+      "body_html": "<p>Search Console shows the searches you already appear for, with impressions and position. Queries where you appear but rank low are often the fastest wins: improve the page that should rank for them.</p>"
+    },
+    {
+      "heading": "Source 2: Google autocomplete",
+      "body_html": "<p>Type your service and city into Google and note the suggestions. Autocomplete reflects real searches, and it often reveals questions and modifiers you would not think of.</p>"
+    },
+    {
+      "heading": "Source 3: your customers",
+      "body_html": "<p>Ask your front desk, dispatchers and salespeople what customers ask. Their exact words are often better keywords than tools suggest.</p>"
+    },
+    {
+      "heading": "Source 4: AI prompts",
+      "body_html": "<p>People ask AI assistants longer questions, such as which roofer in Orange County is best for tile roofs. Collect these prompts and make sure a page answers each one.</p>"
+    },
+    {
+      "heading": "Map keywords to pages",
+      "body_html": "<p>Group keywords by service and intent, then assign each group to one page. A water heater repair page can target water heater repair Anaheim, tankless water heater repair and water heater leaking. Do not create a page per keyword.</p>"
+    },
+    {
+      "heading": "Use keywords naturally",
+      "body_html": "<p>Put the main term in the title, heading and first paragraph, then write naturally. Google's guidelines say your business name should not include keywords, and stuffing city names into pages makes them worse for readers.</p>"
+    },
+    {
+      "heading": "Near me searches",
+      "body_html": "<p>You cannot add near me to a page in any useful way. Near me results come from your Business Profile, location and relevance, so focus on the profile and clear service pages.</p>"
+    },
+    {
+      "heading": "Volume is not everything",
+      "body_html": "<p>Many local searches have low recorded volume but high value. One extra emergency call a week can be worth more than thousands of informational visits.</p>"
+    },
+    {
+      "heading": "Common mistakes",
+      "body_html": "<ul><li>A page for every city.</li><li>Keyword-stuffed headings.</li><li>Ignoring Search Console.</li><li>Targeting national terms you cannot win.</li><li>Ignoring questions.</li></ul>"
+    },
+    {
+      "heading": "Track keyword progress",
+      "body_html": "<p>Track impressions and clicks per page in Search Console, calls per service and whether AI assistants name you for your main questions.</p>"
+    },
+    {
+      "heading": "Details businesses often overlook",
+      "body_html": "<ul><li>Customer wording that differs from industry jargon, such as AC repair versus HVAC service.</li><li>Neighborhood names customers use, such as Anaheim Hills.</li><li>Problem searches, such as water heater leaking, not only service names.</li><li>Searches for your own brand plus reviews or prices.</li><li>Questions that come up in sales calls but never appear on the site.</li></ul>"
+    },
+    {
+      "heading": "How keywords connect to AI search",
+      "body_html": "<p>AI assistants respond to full questions rather than short keywords. A page built around a clear service and the questions customers ask about it serves both: it matches short searches in Google and gives AI assistants direct answers to quote.</p>"
+    },
+    {
+      "heading": "Glossary",
+      "body_html": "<ul><li><strong>Search intent:</strong> what the person searching wants to do.</li><li><strong>Modifier:</strong> extra words such as near me, best or cost.</li><li><strong>Impressions:</strong> how often your page appeared in results.</li><li><strong>Position:</strong> your average rank in results.</li><li><strong>Keyword map:</strong> a plan assigning keyword groups to pages.</li></ul>"
+    },
+    {
+      "heading": "Questions that make better pages",
+      "body_html": "<p>Some of the most valuable local keywords are questions asked just before someone buys: how long does it take, how much does it usually cost, do you need a permit, what happens on the first visit. Answering these clearly on your service pages helps you match long searches in Google, gives AI assistants something specific to quote and reassures customers enough to call.</p>"
+    },
+    {
+      "heading": "A note on neighborhoods",
+      "body_html": "<p>In larger cities, people often search by neighborhood rather than city. In Anaheim, for example, searches may mention Anaheim Hills. Use neighborhood names where you genuinely work there, and show projects or reviews from those areas.</p>"
+    },
+    {
+      "heading": "A worked example: a Costa Mesa accountant",
+      "body_html": "<p>A Costa Mesa accounting firm checks Search Console and finds it appears for small business tax Costa Mesa at position 18 and bookkeeping services Orange County at position 25. Autocomplete suggests bookkeeping for small business and CPA for self-employed. Its front desk says clients ask whether the firm handles quarterly estimates. The firm builds one page on small business tax, one on bookkeeping and an FAQ that answers the quarterly estimates question.</p>"
+    },
+    {
+      "heading": "A simple keyword map",
+      "body_html": "<table><tr><th>Page</th><th>Main term</th><th>Related terms and questions</th></tr><tr><td>Water heater repair</td><td>water heater repair Anaheim</td><td>tankless repair, water heater leaking, cost to repair</td></tr><tr><td>Drain cleaning</td><td>drain cleaning Orange County</td><td>hydro jetting, main line clog, slow drain</td></tr><tr><td>Emergency plumbing</td><td>emergency plumber near me</td><td>24 hour plumber, burst pipe, after-hours</td></tr></table>"
+    },
+    {
+      "heading": "Keywords in other languages",
+      "body_html": "<p>If many customers search in Spanish, Vietnamese or another language, research keywords in that language with native speakers and build accurate, human-reviewed pages for them. Do not machine-translate pages and publish them unchecked.</p>"
+    },
+    {
+      "heading": "Seasonal keywords",
+      "body_html": "<p>Some local searches rise and fall with seasons, such as AC repair before summer or roof leak repair with the first rains. Publish and refresh pages a few weeks before demand rises.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Find local keywords in Search Console, autocomplete, your customers and AI prompts, group them by service and answer them with one clear page each.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What are local SEO keywords?",
+      "a": "Searches that pair a service with a place or local intent, plus local questions."
+    },
+    {
+      "q": "How do I find local keywords for free?",
+      "a": "Use Search Console, Google autocomplete and your customers' own questions."
+    },
+    {
+      "q": "Should I add city names to every page?",
+      "a": "Use them naturally where relevant; stuffing hurts readability."
+    },
+    {
+      "q": "Do near me keywords need to be on my page?",
+      "a": "No. Near me results depend on your profile, location and relevance."
+    },
+    {
+      "q": "How many keywords per page?",
+      "a": "One main topic per page, with related terms and questions."
+    },
+    {
+      "q": "Do low-volume keywords matter?",
+      "a": "Yes. Local searches with low volume can still bring valuable customers."
+    },
+    {
+      "q": "Do AI prompts count as keywords?",
+      "a": "Treat them as questions your pages should answer."
+    },
+    {
+      "q": "Are paid keyword tools necessary?",
+      "a": "They help with volume estimates, but Search Console, autocomplete and customer questions are enough to start."
+    },
+    {
+      "q": "Should I target neighboring cities?",
+      "a": "Only if you genuinely serve them; mention them naturally and show work there."
+    },
+    {
+      "q": "Do you help businesses in Anaheim and Orange County with this?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "local SEO in Orange County",
+      "url": "https://thechimeraai.com/local-seo-orange-county/"
+    },
+    {
+      "anchor": "local SEO checklist",
+      "url": "https://thechimeraai.com/local-seo-checklist/"
+    },
+    {
+      "anchor": "near me searches",
+      "url": "https://thechimeraai.com/near-me-searches/"
+    },
+    {
+      "anchor": "local landing pages",
+      "url": "https://thechimeraai.com/local-landing-pages/"
+    },
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Business Profile Help: Tips to improve your local ranking on Google",
+      "url": "https://support.google.com/business/answer/7091?hl=en"
+    },
+    {
+      "title": "Google Business Profile Help: Guidelines for representing your business on Google",
+      "url": "https://support.google.com/business/answer/3038177?hl=en"
+    },
+    {
+      "title": "Google Search Central: SEO Starter Guide",
+      "url": "https://developers.google.com/search/docs/fundamentals/seo-starter-guide"
+    },
+    {
+      "title": "Google Search Central: Spam policies",
+      "url": "https://developers.google.com/search/docs/essentials/spam-policies"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 1,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "From search to page",
+      "lead": "How to turn searches into pages.",
+      "steps": [
+        {
+          "title": "Collect",
+          "text": "Search Console, autocomplete, customers, AI prompts."
+        },
+        {
+          "title": "Group",
+          "text": "By service and intent."
+        },
+        {
+          "title": "Assign",
+          "text": "One page per group."
+        },
+        {
+          "title": "Track",
+          "text": "Impressions, clicks, calls."
+        }
+      ]
+    },
+    {
+      "after": 5,
+      "type": "bars",
+      "eyebrow": "Pew Research data",
+      "title": "Which searches trigger an AI summary",
+      "lead": "Share of Google searches that produced an AI summary, by type of search, March 2025.",
+      "unit": "%",
+      "engine": "google",
+      "chart_label": "Searches with an AI summary",
+      "items": [
+        {
+          "label": "Searches starting with who, what, when or why",
+          "value": 60
+        },
+        {
+          "label": "Searches of 10 words or more",
+          "value": 53
+        },
+        {
+          "label": "Full-sentence searches (noun and verb)",
+          "value": 36
+        },
+        {
+          "label": "All searches in the study",
+          "value": 18
+        },
+        {
+          "label": "One- or two-word searches",
+          "value": 8
+        }
+      ],
+      "source": {
+        "title": "Pew Research Center, March 2025 browsing data from 900 U.S. adults",
+        "url": "https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/"
+      }
+    },
+    {
+      "after": 10,
+      "type": "scorecard",
+      "eyebrow": "Scorecard",
+      "title": "Keyword sources compared",
+      "lead": "Usefulness (5 = most).",
+      "rows": [
+        {
+          "label": "Search Console",
+          "score": 5,
+          "note": "Your real searches."
+        },
+        {
+          "label": "Customer questions",
+          "score": 5,
+          "note": "Their words."
+        },
+        {
+          "label": "Autocomplete",
+          "score": 4,
+          "note": "Real suggestions."
+        },
+        {
+          "label": "AI prompts",
+          "score": 4,
+          "note": "Longer questions."
+        },
+        {
+          "label": "Keyword-stuffed pages",
+          "score": 1,
+          "note": "Hurts."
+        }
+      ]
+    }
+  ],
+  "hero_query": "How do I find local SEO keywords for my business?",
+  "short_title": "Local SEO keywords",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ]
+}

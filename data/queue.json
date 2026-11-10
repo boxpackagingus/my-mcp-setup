@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-06",
+  "generated": "2026-11-10",
   "candidates": [
     {
       "query": "best geo seo agency",
@@ -69,13 +69,6 @@
       "source": "autocomplete",
       "seed": "AI SEO",
       "slug": "best-ai-seo-agency",
-      "score": 8.18
-    },
-    {
-      "query": "chatgpt seo agency",
-      "source": "autocomplete",
-      "seed": "ChatGPT SEO",
-      "slug": "chatgpt-seo-agency",
       "score": 8.18
     },
     {
@@ -387,10 +380,10 @@
       "score": 6.36
     },
     {
-      "query": "generative engine optimization vs seo",
+      "query": "seo vs generative engine optimization",
       "source": "autocomplete",
       "seed": "generative engine optimization",
-      "slug": "generative-engine-optimization-vs-seo",
+      "slug": "seo-vs-generative-engine-optimization",
       "score": 5.91
     },
     {
@@ -737,6 +730,13 @@
       "score": 5.0
     },
     {
+      "query": "how generative engine optimization geo works",
+      "source": "autocomplete",
+      "seed": "generative engine optimization",
+      "slug": "how-generative-engine-optimization-geo-works",
+      "score": 5.0
+    },
+    {
       "query": "how to do geo (generative engine optimization",
       "source": "autocomplete",
       "seed": "generative engine optimization",
@@ -895,13 +895,6 @@
       "source": "autocomplete",
       "seed": "AI search visibility",
       "slug": "how-to-measure-ai-search-visibility",
-      "score": 5.0
-    },
-    {
-      "query": "how to track ai search visibility",
-      "source": "autocomplete",
-      "seed": "AI search visibility",
-      "slug": "how-to-track-ai-search-visibility",
       "score": 5.0
     },
     {
@@ -1399,6 +1392,13 @@
       "source": "autocomplete",
       "seed": "rank in ChatGPT",
       "slug": "how-to-rank-website-in-chatgpt",
+      "score": 5.0
+    },
+    {
+      "query": "where does chatgpt rank in ai",
+      "source": "autocomplete",
+      "seed": "rank in ChatGPT",
+      "slug": "where-does-chatgpt-rank-in-ai",
       "score": 5.0
     }
   ]
