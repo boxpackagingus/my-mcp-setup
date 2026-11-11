@@ -2,14 +2,14 @@
   "summary": {
     "date": "2026-11-11",
     "pages_total": 171,
-    "pages_indexed": 52,
+    "pages_indexed": 53,
     "clicks_28d": 1,
-    "impressions_28d": 315,
+    "impressions_28d": 325,
     "engine_clicks_28d": 1,
-    "sessions_28d": 32.0,
+    "sessions_28d": 39.0,
     "ai_sessions_28d": 0,
     "ai_by_engine": {},
-    "leads_28d": 1,
+    "leads_28d": 1.0,
     "form_leads_28d": 1,
     "source": "Site Kit",
     "engine_leads_28d": 0
@@ -201,8 +201,8 @@
       "leads_28d": 0,
       "ai_sources": {},
       "clicks_28d": 0,
-      "impressions_28d": 34,
-      "position_28d": 54.3,
+      "impressions_28d": 35,
+      "position_28d": 55.4,
       "form_leads_28d": 0
     },
     {
@@ -559,8 +559,8 @@
     },
     {
       "indexnow": "Sent 2026-11-10",
-      "index_verdict": "NEUTRAL",
-      "index_coverage": "No search impressions yet",
+      "index_verdict": "PASS",
+      "index_coverage": "Appearing in Google Search",
       "kind": "guide",
       "title": "How to Calculate GEO ROI Without Fooling Yourself",
       "slug": "geo-roi",
@@ -576,9 +576,10 @@
       "leads_28d": 0,
       "ai_sources": {},
       "clicks_28d": 0,
-      "impressions_28d": 0,
-      "position_28d": null,
-      "form_leads_28d": 0
+      "impressions_28d": 2,
+      "position_28d": 37.5,
+      "form_leads_28d": 0,
+      "index_checked": "2026-11-11"
     },
     {
       "indexnow": "Sent 2026-11-10",
@@ -838,8 +839,8 @@
       "leads_28d": 0,
       "ai_sources": {},
       "clicks_28d": 0,
-      "impressions_28d": 7,
-      "position_28d": 52.6,
+      "impressions_28d": 8,
+      "position_28d": 51.4,
       "form_leads_28d": 0
     },
     {
@@ -1077,8 +1078,8 @@
       "leads_28d": 0,
       "ai_sources": {},
       "clicks_28d": 0,
-      "impressions_28d": 15,
-      "position_28d": 59.3,
+      "impressions_28d": 19,
+      "position_28d": 59.4,
       "form_leads_28d": 0
     },
     {
@@ -1242,8 +1243,8 @@
       "leads_28d": 0,
       "ai_sources": {},
       "clicks_28d": 0,
-      "impressions_28d": 23,
-      "position_28d": 84.5,
+      "impressions_28d": 24,
+      "position_28d": 85,
       "form_leads_28d": 0
     },
     {
@@ -3489,8 +3490,8 @@
       "leads_28d": 0,
       "ai_sources": {},
       "clicks_28d": 0,
-      "impressions_28d": 11,
-      "position_28d": 71.9,
+      "impressions_28d": 12,
+      "position_28d": 73.3,
       "form_leads_28d": 0
     },
     {
