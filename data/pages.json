@@ -185,8 +185,8 @@
     "leads_28d": 0,
     "ai_sources": {},
     "clicks_28d": 0,
-    "impressions_28d": 38,
-    "position_28d": 58.4,
+    "impressions_28d": 40,
+    "position_28d": 58.7,
     "form_leads_28d": 0
   },
   {
@@ -799,8 +799,8 @@
     "leads_28d": 0,
     "ai_sources": {},
     "clicks_28d": 0,
-    "impressions_28d": 9,
-    "position_28d": 54.7,
+    "impressions_28d": 10,
+    "position_28d": 55,
     "form_leads_28d": 0
   },
   {
@@ -823,8 +823,8 @@
     "leads_28d": 0,
     "ai_sources": {},
     "clicks_28d": 0,
-    "impressions_28d": 8,
-    "position_28d": 51.4,
+    "impressions_28d": 9,
+    "position_28d": 45.8,
     "form_leads_28d": 0
   },
   {
@@ -1062,8 +1062,8 @@
     "leads_28d": 0,
     "ai_sources": {},
     "clicks_28d": 0,
-    "impressions_28d": 20,
-    "position_28d": 59.2,
+    "impressions_28d": 23,
+    "position_28d": 59.1,
     "form_leads_28d": 0
   },
   {
@@ -3665,8 +3665,8 @@
   },
   {
     "indexnow": "Sent 2026-11-11",
-    "index_verdict": "NEUTRAL",
-    "index_coverage": "No search impressions yet",
+    "index_verdict": "PASS",
+    "index_coverage": "Appearing in Google Search",
     "kind": "blog",
     "title": "A 30-Day AI Search Plan for Orange County Small Businesses",
     "slug": "30-day-ai-search-plan-orange-county",
@@ -3682,9 +3682,10 @@
     "leads_28d": 0,
     "ai_sources": {},
     "clicks_28d": 0,
-    "impressions_28d": 0,
-    "position_28d": null,
-    "form_leads_28d": 0
+    "impressions_28d": 1,
+    "position_28d": 24,
+    "form_leads_28d": 0,
+    "index_checked": "2026-11-11"
   },
   {
     "indexnow": "Sent 2026-11-11",
