@@ -333,5 +333,13 @@
     "height": 840
   },
   "published": "2026-11-10",
-  "updated": "2026-11-10"
+  "updated": "2026-11-11",
+  "photo": {
+    "id": 1239,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/geo-for-travel-websites-photo.jpg",
+    "alt": "Couple planning a trip on a tablet on a hotel balcony with palm trees",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
 }

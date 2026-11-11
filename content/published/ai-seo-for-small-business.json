@@ -317,5 +317,13 @@
     "height": 840
   },
   "published": "2026-11-10",
-  "updated": "2026-11-10"
+  "updated": "2026-11-11",
+  "photo": {
+    "id": 1238,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/ai-seo-for-small-business-photo.jpg",
+    "alt": "Small business owner checking a laptop at the counter of a sunny shop",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
 }

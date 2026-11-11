@@ -109,6 +109,13 @@ figures on the Anaheim and Orange County Wikipedia articles).
 
 ## Daily guides: 30 new pages a day
 
+> **Image credits (checked 2026-11-11):** Figma's AI image credits are a monthly allowance and are used up until
+> **2026-12-01**. Until then, do not call Figma `generate_image`. Blog posts without a banner photo automatically get
+> the rendered Chimera banner from `python -m engine heroes`, and guide pages keep their rendered banners. From
+> 2026-12-01, resume: blog banner photos first, then pages in `data/photos_todo.json`, at about 25 images per day
+> until the month's allowance runs out.
+
+
 Every day, research, write and publish **30 new guide pages**, in addition to the 5 blog posts below.
 
 1. **Research.** Run `python -m engine research`, pull Search Console queries through Site Kit (queries with impressions

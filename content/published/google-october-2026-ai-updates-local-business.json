@@ -253,13 +253,13 @@
   "category": "AI news",
   "slot": 5,
   "hero_image": {
-    "id": 1161,
-    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/google-october-2026-ai-updates-local-business-chimera.jpg",
-    "alt": "Google October 2026 AI Updates for Local Business: illustration with the AI platforms covered in this guide",
+    "id": 1224,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/google-october-2026-ai-updates-local-business-banner.jpg",
+    "alt": "Google October 2026 AI Updates: What Local Businesses Need to Know: banner photo",
     "width": 1600,
-    "height": 840
+    "height": 760
   },
   "published": "2026-11-10",
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "parent_id": 709
 }

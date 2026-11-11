@@ -307,5 +307,13 @@
     "height": 840
   },
   "published": "2026-11-10",
-  "updated": "2026-11-10"
+  "updated": "2026-11-11",
+  "photo": {
+    "id": 1240,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/google-business-profile-optimization-orange-county-photo.jpg",
+    "alt": "Cafe owner photographing her storefront for an online business listing",
+    "width": 1376,
+    "height": 768,
+    "caption": "Illustrative image created for Chimera with Figma AI"
+  }
 }

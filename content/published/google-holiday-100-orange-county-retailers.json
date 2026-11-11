@@ -260,13 +260,13 @@
   "category": "Shopping trends",
   "slot": 3,
   "hero_image": {
-    "id": 1160,
-    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/google-holiday-100-orange-county-retailers-chimera.jpg",
-    "alt": "Google Holiday 100: Lessons for Orange County Shops: illustration with the AI platforms covered in this guide",
+    "id": 1223,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/google-holiday-100-orange-county-retailers-banner.jpg",
+    "alt": "Google Holiday 100: What Orange County Retailers Should Do Before the Holidays: banner photo",
     "width": 1600,
-    "height": 840
+    "height": 760
   },
   "published": "2026-11-10",
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "parent_id": 709
 }
