@@ -25,56 +25,6 @@
     "page": "core-web-vitals-for-local-businesses"
   },
   {
-    "keyword": "Gemini 4 Carbon",
-    "kind": "Main",
-    "page": "gemini-4-carbon-ai-mode-local-business"
-  },
-  {
-    "keyword": "Gemini 4 Carbon AI Mode",
-    "kind": "Supporting",
-    "page": "gemini-4-carbon-ai-mode-local-business"
-  },
-  {
-    "keyword": "Gemini Carbon vs Argon",
-    "kind": "Supporting",
-    "page": "gemini-4-carbon-ai-mode-local-business"
-  },
-  {
-    "keyword": "Google newest AI model",
-    "kind": "Supporting",
-    "page": "gemini-4-carbon-ai-mode-local-business"
-  },
-  {
-    "keyword": "Gemini 4 Carbon pricing",
-    "kind": "Supporting",
-    "page": "gemini-4-carbon-ai-mode-local-business"
-  },
-  {
-    "keyword": "AI training control in robots.txt",
-    "kind": "Main",
-    "page": "google-ai-training-control-robots-txt"
-  },
-  {
-    "keyword": "Google-Extended",
-    "kind": "Supporting",
-    "page": "google-ai-training-control-robots-txt"
-  },
-  {
-    "keyword": "AIPREF robots.txt",
-    "kind": "Supporting",
-    "page": "google-ai-training-control-robots-txt"
-  },
-  {
-    "keyword": "block AI training robots.txt",
-    "kind": "Supporting",
-    "page": "google-ai-training-control-robots-txt"
-  },
-  {
-    "keyword": "opt out of AI training",
-    "kind": "Supporting",
-    "page": "google-ai-training-control-robots-txt"
-  },
-  {
     "keyword": "Google Business Profile categories",
     "kind": "Main",
     "page": "google-business-profile-categories"
@@ -275,31 +225,6 @@
     "page": "google-local-services-ads-vs-seo"
   },
   {
-    "keyword": "SEO learning paths",
-    "kind": "Main",
-    "page": "google-seo-learning-paths-small-business"
-  },
-  {
-    "keyword": "Search Central YouTube playlists",
-    "kind": "Supporting",
-    "page": "google-seo-learning-paths-small-business"
-  },
-  {
-    "keyword": "learn SEO from Google",
-    "kind": "Supporting",
-    "page": "google-seo-learning-paths-small-business"
-  },
-  {
-    "keyword": "free SEO course Google",
-    "kind": "Supporting",
-    "page": "google-seo-learning-paths-small-business"
-  },
-  {
-    "keyword": "technical SEO fundamentals",
-    "kind": "Supporting",
-    "page": "google-seo-learning-paths-small-business"
-  },
-  {
     "keyword": "remove fake Google reviews",
     "kind": "Main",
     "page": "how-to-remove-fake-google-reviews"
@@ -323,56 +248,6 @@
     "keyword": "Google review removal",
     "kind": "Supporting",
     "page": "how-to-remove-fake-google-reviews"
-  },
-  {
-    "keyword": "generative AI performance report",
-    "kind": "Main",
-    "page": "search-console-generative-ai-performance-report"
-  },
-  {
-    "keyword": "AI Overviews report Search Console",
-    "kind": "Supporting",
-    "page": "search-console-generative-ai-performance-report"
-  },
-  {
-    "keyword": "AI Mode Search Console",
-    "kind": "Supporting",
-    "page": "search-console-generative-ai-performance-report"
-  },
-  {
-    "keyword": "generative AI performance Search Console",
-    "kind": "Supporting",
-    "page": "search-console-generative-ai-performance-report"
-  },
-  {
-    "keyword": "track AI Overviews impressions",
-    "kind": "Supporting",
-    "page": "search-console-generative-ai-performance-report"
-  },
-  {
-    "keyword": "multimodal search in Search Console",
-    "kind": "Main",
-    "page": "search-console-multimodal-search-report"
-  },
-  {
-    "keyword": "Google Lens Search Console",
-    "kind": "Supporting",
-    "page": "search-console-multimodal-search-report"
-  },
-  {
-    "keyword": "Circle to Search traffic",
-    "kind": "Supporting",
-    "page": "search-console-multimodal-search-report"
-  },
-  {
-    "keyword": "image search performance report",
-    "kind": "Supporting",
-    "page": "search-console-multimodal-search-report"
-  },
-  {
-    "keyword": "visual search SEO",
-    "kind": "Supporting",
-    "page": "search-console-multimodal-search-report"
   },
   {
     "keyword": "SEO for architects",
@@ -898,6 +773,131 @@
     "keyword": "ChatGPT business profile",
     "kind": "Supporting",
     "page": "businesses-in-chatgpt-claim-your-business"
+  },
+  {
+    "keyword": "Gemini 4 Carbon",
+    "kind": "Main",
+    "page": "gemini-4-carbon-ai-mode-local-business"
+  },
+  {
+    "keyword": "Gemini 4 Carbon AI Mode",
+    "kind": "Supporting",
+    "page": "gemini-4-carbon-ai-mode-local-business"
+  },
+  {
+    "keyword": "Gemini Carbon vs Argon",
+    "kind": "Supporting",
+    "page": "gemini-4-carbon-ai-mode-local-business"
+  },
+  {
+    "keyword": "Google newest AI model",
+    "kind": "Supporting",
+    "page": "gemini-4-carbon-ai-mode-local-business"
+  },
+  {
+    "keyword": "Gemini 4 Carbon pricing",
+    "kind": "Supporting",
+    "page": "gemini-4-carbon-ai-mode-local-business"
+  },
+  {
+    "keyword": "AI training control in robots.txt",
+    "kind": "Main",
+    "page": "google-ai-training-control-robots-txt"
+  },
+  {
+    "keyword": "Google-Extended",
+    "kind": "Supporting",
+    "page": "google-ai-training-control-robots-txt"
+  },
+  {
+    "keyword": "AIPREF robots.txt",
+    "kind": "Supporting",
+    "page": "google-ai-training-control-robots-txt"
+  },
+  {
+    "keyword": "block AI training robots.txt",
+    "kind": "Supporting",
+    "page": "google-ai-training-control-robots-txt"
+  },
+  {
+    "keyword": "opt out of AI training",
+    "kind": "Supporting",
+    "page": "google-ai-training-control-robots-txt"
+  },
+  {
+    "keyword": "SEO learning paths",
+    "kind": "Main",
+    "page": "google-seo-learning-paths-small-business"
+  },
+  {
+    "keyword": "Search Central YouTube playlists",
+    "kind": "Supporting",
+    "page": "google-seo-learning-paths-small-business"
+  },
+  {
+    "keyword": "learn SEO from Google",
+    "kind": "Supporting",
+    "page": "google-seo-learning-paths-small-business"
+  },
+  {
+    "keyword": "free SEO course Google",
+    "kind": "Supporting",
+    "page": "google-seo-learning-paths-small-business"
+  },
+  {
+    "keyword": "technical SEO fundamentals",
+    "kind": "Supporting",
+    "page": "google-seo-learning-paths-small-business"
+  },
+  {
+    "keyword": "generative AI performance report",
+    "kind": "Main",
+    "page": "search-console-generative-ai-performance-report"
+  },
+  {
+    "keyword": "AI Overviews report Search Console",
+    "kind": "Supporting",
+    "page": "search-console-generative-ai-performance-report"
+  },
+  {
+    "keyword": "AI Mode Search Console",
+    "kind": "Supporting",
+    "page": "search-console-generative-ai-performance-report"
+  },
+  {
+    "keyword": "generative AI performance Search Console",
+    "kind": "Supporting",
+    "page": "search-console-generative-ai-performance-report"
+  },
+  {
+    "keyword": "track AI Overviews impressions",
+    "kind": "Supporting",
+    "page": "search-console-generative-ai-performance-report"
+  },
+  {
+    "keyword": "multimodal search in Search Console",
+    "kind": "Main",
+    "page": "search-console-multimodal-search-report"
+  },
+  {
+    "keyword": "Google Lens Search Console",
+    "kind": "Supporting",
+    "page": "search-console-multimodal-search-report"
+  },
+  {
+    "keyword": "Circle to Search traffic",
+    "kind": "Supporting",
+    "page": "search-console-multimodal-search-report"
+  },
+  {
+    "keyword": "image search performance report",
+    "kind": "Supporting",
+    "page": "search-console-multimodal-search-report"
+  },
+  {
+    "keyword": "visual search SEO",
+    "kind": "Supporting",
+    "page": "search-console-multimodal-search-report"
   },
   {
     "keyword": "is SEO worth it for small business",
