@@ -182,8 +182,7 @@ def render_html(spec, cfg):
         if photo and i == 0:
             parts.append(
                 f'<figure class="cp-photo"><img src="{_e(photo["url"])}" alt="{_e(photo["alt"])}" '
-                f'width="{int(photo.get("width", 1360))}" height="{int(photo.get("height", 768))}" loading="lazy" decoding="async">'
-                f'<figcaption>{_e(photo.get("caption", ""))}</figcaption></figure>'
+                f'width="{int(photo.get("width", 1360))}" height="{int(photo.get("height", 768))}" loading="lazy" decoding="async"></figure>'
             )
         prev = _tone(i)
         for v in [v for v in spec.get("visuals", []) if v.get("after") == i]:
