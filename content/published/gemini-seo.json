@@ -34,11 +34,11 @@
     },
     {
       "heading": "Gemini SEO checklist",
-      "body_html": "<ol><li><strong>Get indexed in Google.</strong> Use URL Inspection in Search Console and fix anything blocking indexing.</li><li><strong>Answer first.</strong> Put a direct answer to the question at the top of each page.</li><li><strong>Cover follow-ups.</strong> Gemini users ask follow-up questions; give each its own heading.</li><li><strong>Add structured data</strong> that matches your visible content: Organization, LocalBusiness or Service, Article and FAQPage.</li><li><strong>Complete your Google Business Profile</strong> with accurate categories, services, hours and reviews if you serve local customers.</li><li><strong>Use the same brand description everywhere</strong>, so Gemini can summarize you accurately.</li></ol>"
+      "body_html": "<ol><li><strong>Get indexed in Google.</strong> Use URL Inspection in Search Console and fix anything blocking indexing.</li><li><strong>Answer first.</strong> Put a direct answer to the question at the top of each page.</li><li><strong>Cover follow-ups.</strong> Gemini users ask follow-up questions; give each its own heading.</li><li><strong>Add <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a></strong> that matches your visible content: Organization, LocalBusiness or Service, Article and FAQPage.</li><li><strong>Complete your <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a></strong> with accurate categories, services, hours and reviews if you serve local customers.</li><li><strong>Use the same brand description everywhere</strong>, so Gemini can summarize you accurately.</li></ol>"
     },
     {
       "heading": "Google-Extended: what it does and doesn't do",
-      "body_html": "<p>Google offers a robots.txt token called <code>Google-Extended</code>. It lets you control whether your content is used to improve Gemini models and for grounding in Gemini apps. Google says it does not affect a site's inclusion or ranking in Google Search.</p><p>That is a business decision. Blocking it keeps your content out of those uses; allowing it gives Gemini more access to your pages. Brands that want to be recommended in Gemini usually allow it. Either way, make the choice on purpose rather than through a default security setting.</p>"
+      "body_html": "<p>Google offers a <a href=\"https://thechimeraai.com/robots-txt-for-ai-crawlers/\">robots.txt</a> token called <code>Google-Extended</code>. It lets you control whether your content is used to improve Gemini models and for grounding in Gemini apps. Google says it does not affect a site's inclusion or ranking in Google Search.</p><p>That is a business decision. Blocking it keeps your content out of those uses; allowing it gives Gemini more access to your pages. Brands that want to be recommended in Gemini usually allow it. Either way, make the choice on purpose rather than through a default security setting.</p>"
     },
     {
       "heading": "Content that Gemini users reward",
@@ -50,7 +50,7 @@
     },
     {
       "heading": "Gemini SEO for local businesses",
-      "body_html": "<p>For businesses that serve a specific area, Gemini answers to questions like \"best accountant near me\" or \"wedding tent rental in Orange County\" lean on local information Google already holds. Make that information complete and consistent:</p><ul><li><strong>Google Business Profile:</strong> correct primary category, services, service area, hours, photos and a steady flow of detailed reviews.</li><li><strong>Location pages:</strong> one page per city or area you genuinely serve, with specifics rather than swapped place names.</li><li><strong>NAP consistency:</strong> the same name, address and phone number on your site, profiles and directories.</li><li><strong>LocalBusiness schema</strong> that matches your profile.</li></ul><p>These are the same steps that help local search rankings, which is exactly why they help Gemini.</p>"
+      "body_html": "<p>For businesses that serve a specific area, Gemini answers to questions like \"best accountant near me\" or \"wedding tent rental in Orange County\" lean on local information Google already holds. Make that information complete and consistent:</p><ul><li><strong>Google Business Profile:</strong> correct <a href=\"https://thechimeraai.com/google-business-profile-categories/\">primary category</a>, services, <a href=\"https://thechimeraai.com/google-business-profile-service-area/\">service area</a>, hours, photos and a steady flow of detailed reviews.</li><li><strong>Location pages:</strong> one page per city or area you genuinely serve, with specifics rather than swapped place names.</li><li><strong>NAP consistency:</strong> the same name, address and phone number on your site, profiles and directories.</li><li><strong>LocalBusiness schema</strong> that matches your profile.</li></ul><p>These are the same steps that help local search rankings, which is exactly why they help Gemini.</p>"
     },
     {
       "heading": "A 30-day Gemini plan",
@@ -107,6 +107,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Google's October 2026 AI updates",
+      "url": "https://thechimeraai.com/blog/google-october-2026-ai-updates-local-business/"
+    },
+    {
+      "anchor": "How to Get Cited by Claude: A Practical Guide for Brands",
+      "url": "https://thechimeraai.com/how-to-get-cited-by-claude/"
+    },
+    {
+      "anchor": "How to Check if ChatGPT Mentions Your Brand",
+      "url": "https://thechimeraai.com/how-to-check-if-chatgpt-mentions-your-brand/"
+    },
+    {
+      "anchor": "How to Rank in ChatGPT: 9 Steps to Get Recommended",
+      "url": "https://thechimeraai.com/how-to-rank-in-chatgpt/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

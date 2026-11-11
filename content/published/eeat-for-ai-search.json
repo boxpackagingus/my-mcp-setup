@@ -30,7 +30,7 @@
     },
     {
       "heading": "Why it matters for AI answers",
-      "body_html": "<p>Google's AI Overviews and AI Mode are built on Google's search systems, and Google says the best practices for SEO remain relevant to them. Other assistants also prefer reliable sources when they can. When an AI has to choose which passage to repeat, a page from an identifiable, qualified source with accurate, sourced claims is a safer choice than an anonymous page with unsupported claims.</p>"
+      "body_html": "<p>Google's <a href=\"https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/\">AI Overviews</a> and <a href=\"https://thechimeraai.com/how-to-optimize-for-google-ai-mode/\">AI Mode</a> are built on Google's search systems, and Google says the best practices for SEO remain relevant to them. Other assistants also prefer reliable sources when they can. When an AI has to choose which passage to repeat, a page from an identifiable, qualified source with accurate, sourced claims is a safer choice than an anonymous page with unsupported claims.</p>"
     },
     {
       "heading": "Show experience",
@@ -46,7 +46,7 @@
     },
     {
       "heading": "Earn trust above all",
-      "body_html": "<ul><li><strong>Accuracy:</strong> check facts, cite sources, update or remove outdated claims.</li><li><strong>Transparency:</strong> clear business name, address, contact details and ownership.</li><li><strong>Honesty:</strong> say who your advice is not for and disclose relationships or sponsorships.</li><li><strong>Security:</strong> HTTPS, clear privacy policy, safe forms.</li><li><strong>Customer trust:</strong> genuine reviews and a visible way to get support.</li></ul>"
+      "body_html": "<ul><li><strong>Accuracy:</strong> check facts, cite sources, update or remove outdated claims.</li><li><strong>Transparency:</strong> clear business name, address, contact details and ownership.</li><li><strong>Honesty:</strong> say who your advice is not for and disclose relationships or sponsorships.</li><li><strong>Security:</strong> HTTPS, clear privacy policy, safe forms.</li><li><strong>Customer trust:</strong> <a href=\"https://thechimeraai.com/how-to-get-more-google-reviews/\">genuine reviews</a> and a visible way to get support.</li></ul>"
     },
     {
       "heading": "Who, how and why",
@@ -54,11 +54,11 @@
     },
     {
       "heading": "Structured data and consistency",
-      "body_html": "<p>Organization structured data with your logo and official profiles, and Article structured data with author information, help machines connect your content to your brand and authors. Keep author names, titles and company details consistent across your site, social profiles and publications so AI systems can link them reliably.</p>"
+      "body_html": "<p>Organization <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a> with your logo and official profiles, and Article structured data with author information, help machines connect your content to your brand and authors. Keep author names, titles and company details consistent across your site, social profiles and publications so AI systems can link them reliably.</p>"
     },
     {
       "heading": "A quick E-E-A-T audit",
-      "body_html": "<ol><li>Does every key page show who wrote or reviewed it?</li><li>Do author pages explain relevant experience and credentials?</li><li>Are claims supported by sources or first-hand evidence?</li><li>Is it easy to find who runs the business and how to contact them?</li><li>Are pages updated when facts change?</li><li>Do independent sites mention and recommend you?</li></ol>"
+      "body_html": "<ol><li>Does every key page show who wrote or reviewed it?</li><li>Do <a href=\"https://thechimeraai.com/author-pages-for-eeat/\">author pages</a> explain relevant experience and credentials?</li><li>Are claims supported by sources or first-hand evidence?</li><li>Is it easy to find who runs the business and how to contact them?</li><li>Are pages updated when facts change?</li><li>Do independent sites mention and recommend you?</li></ol>"
     },
     {
       "heading": "What E-E-A-T is not",
@@ -127,6 +127,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Search Console's generative AI performance report",
+      "url": "https://thechimeraai.com/blog/search-console-generative-ai-performance-report/"
+    },
+    {
+      "anchor": "GEO Content Strategy: Plan Content AI Search Cites",
+      "url": "https://thechimeraai.com/geo-content-strategy/"
+    },
+    {
+      "anchor": "Update Old Content for AI Search",
+      "url": "https://thechimeraai.com/how-to-update-old-content-for-ai-search/"
+    },
+    {
+      "anchor": "YouTube for AI Search: Get Your Videos Cited",
+      "url": "https://thechimeraai.com/youtube-for-ai-search/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

@@ -26,7 +26,7 @@
   "sections": [
     {
       "heading": "What a knowledge panel is",
-      "body_html": "<p>A knowledge panel is the information box that appears in Google Search for people, places, organizations and things that are in Google's Knowledge Graph. Google's help explains that panels are meant to give a quick snapshot of a topic based on Google's understanding of available content on the web, and that they are automatically generated from various sources. For businesses, a panel typically shows the name, logo, description, website, social profiles and key facts.</p><p>Note that this is different from a Google Business Profile, which local businesses create and manage directly for Maps and local results.</p>"
+      "body_html": "<p>A knowledge panel is the information box that appears in Google Search for people, places, organizations and things that are in Google's Knowledge Graph. Google's help explains that panels are meant to give a quick snapshot of a topic based on Google's understanding of available content on the web, and that they are automatically generated from various sources. For businesses, a panel typically shows the name, logo, description, website, social profiles and key facts.</p><p>Note that this is different from a <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a>, which local businesses create and manage directly for Maps and local results.</p>"
     },
     {
       "heading": "Why it matters for AI search",
@@ -38,7 +38,7 @@
     },
     {
       "heading": "Step 2: add Organization structured data",
-      "body_html": "<p>Google's Organization structured data documentation explains that markup can help Google understand your organization's administrative details and disambiguate it in search results, and that some properties can influence visual elements such as which logo appears in results and in your knowledge panel. Add Organization markup to your homepage with your official name, URL, logo, contact details and a sameAs list of your official profiles.</p>"
+      "body_html": "<p>Google's Organization <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a> documentation explains that markup can help Google understand your organization's administrative details and disambiguate it in search results, and that some properties can influence visual elements such as which logo appears in results and in your knowledge panel. Add Organization markup to your homepage with your official name, URL, logo, contact details and a sameAs list of your official profiles.</p>"
     },
     {
       "heading": "Step 3: build official profiles",
@@ -50,7 +50,7 @@
     },
     {
       "heading": "Step 5: consider Wikidata carefully",
-      "body_html": "<p>Wikidata is a free, collaborative knowledge base of structured data that many systems draw on. Some businesses meet its criteria and have entries. If you edit there, follow its rules, add only verifiable facts with references, and avoid promotional content. Do not create entries that do not meet the project's standards; they are likely to be removed.</p>"
+      "body_html": "<p><a href=\"https://thechimeraai.com/wikipedia-and-wikidata-for-ai-search/\">Wikidata</a> is a free, collaborative knowledge base of structured data that many systems draw on. Some businesses meet its criteria and have entries. If you edit there, follow its rules, add only verifiable facts with references, and avoid promotional content. Do not create entries that do not meet the project's standards; they are likely to be removed.</p>"
     },
     {
       "heading": "Claiming your knowledge panel",
@@ -139,6 +139,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Google's free SEO learning paths",
+      "url": "https://thechimeraai.com/blog/google-seo-learning-paths-small-business/"
+    },
+    {
+      "anchor": "AI Share of Voice: What It Is and How to Measure It",
+      "url": "https://thechimeraai.com/ai-share-of-voice/"
+    },
+    {
+      "anchor": "Brand Mentions for AI Search: How to Earn Them",
+      "url": "https://thechimeraai.com/how-to-get-brand-mentions-for-ai-search/"
+    },
+    {
+      "anchor": "What Is Generative Engine Optimization (GEO)?",
+      "url": "https://thechimeraai.com/what-is-generative-engine-optimization-and-how-does-it-work/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

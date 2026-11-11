@@ -46,7 +46,7 @@
     },
     {
       "heading": "Consistent profiles everywhere",
-      "body_html": "<p>Keep firm name, advisors, locations, services and contact details the same on your website, Google Business Profile, regulatory listings, professional association directories and LinkedIn. Schema.org's <code>FinancialService</code> type, a kind of LocalBusiness, can describe your firm in structured data. Consistency helps AI systems describe you accurately.</p>"
+      "body_html": "<p>Keep firm name, advisors, locations, services and contact details the same on your website, <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a>, regulatory listings, professional association directories and LinkedIn. Schema.org's <code>FinancialService</code> type, a kind of LocalBusiness, can describe your firm in <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a>. Consistency helps AI systems describe you accurately.</p>"
     },
     {
       "heading": "Where to start",
@@ -66,7 +66,7 @@
     },
     {
       "heading": "Where to get help",
-      "body_html": "<p>A GEO audit for an advisory firm starts by asking ChatGPT, Gemini, Perplexity and Google AI the questions your ideal clients ask, then records which firms are named and how yours is described. It checks crawler access, listing and regulatory profile consistency, and whether your services and fees pages answer those questions directly. You get a prioritized list of fixes your team and compliance reviewers can work through, starting with the changes most likely to affect how AI tools describe you.</p>"
+      "body_html": "<p>A GEO audit for an advisory firm starts by asking <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a>, <a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a>, <a href=\"https://thechimeraai.com/perplexity-seo/\">Perplexity</a> and Google AI the questions your ideal clients ask, then records which firms are named and how yours is described. It checks crawler access, listing and regulatory profile consistency, and whether your services and fees pages answer those questions directly. You get a prioritized list of fixes your team and compliance reviewers can work through, starting with the changes most likely to affect how AI tools describe you.</p>"
     }
   ],
   "faqs": [
@@ -135,6 +135,26 @@
     {
       "anchor": "SEO for mortgage brokers",
       "url": "https://thechimeraai.com/seo-for-mortgage-brokers/"
+    },
+    {
+      "anchor": "AI Search for B2B Lead Generation: A Practical Plan",
+      "url": "https://thechimeraai.com/ai-search-for-b2b-lead-generation/"
+    },
+    {
+      "anchor": "GEO for Real Estate Agents: Win AI Search Answers",
+      "url": "https://thechimeraai.com/geo-for-real-estate-agents/"
+    },
+    {
+      "anchor": "GEO for Manufacturers: Get Cited in B2B AI Research",
+      "url": "https://thechimeraai.com/geo-for-manufacturers/"
+    },
+    {
+      "anchor": "GEO for Startups: Get Cited by AI From Day One",
+      "url": "https://thechimeraai.com/geo-for-startups/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

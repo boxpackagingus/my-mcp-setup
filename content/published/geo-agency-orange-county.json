@@ -30,15 +30,15 @@
     },
     {
       "heading": "What Chimera does",
-      "body_html": "<p>Chimera's work covers six services, delivered as one build:</p><ul><li><strong>AI Visibility Audit:</strong> how every major AI engine and Google describes your brand, with a prioritized error sheet.</li><li><strong>GEO Content Structuring:</strong> pages rebuilt at passage level with question headings, comparison tables and quotable answers.</li><li><strong>Machine-Readable Structuring:</strong> Organization, Product, Article, LocalBusiness and Service schema, plus llms.txt.</li><li><strong>Entity and Authority Building:</strong> brand mentions and consistent descriptions across the open web.</li><li><strong>AI Citation Optimization:</strong> reverse-engineering buyer queries and engineering pages to be cited for them.</li><li><strong>On-site SEO in parallel:</strong> so search rankings stay healthy while AI visibility grows.</li></ul>"
+      "body_html": "<p><a href=\"https://thechimeraai.com/\">Chimera</a>'s work covers six services, delivered as one build:</p><ul><li><strong>AI Visibility Audit:</strong> how every major AI engine and Google describes your brand, with a prioritized error sheet.</li><li><strong>GEO Content Structuring:</strong> pages rebuilt at passage level with question headings, comparison tables and quotable answers.</li><li><strong>Machine-Readable Structuring:</strong> Organization, Product, Article, LocalBusiness and Service schema, plus <a href=\"https://thechimeraai.com/best-practices-for-llms-txt/\">llms.txt</a>.</li><li><strong>Entity and Authority Building:</strong> brand mentions and consistent descriptions across the open web.</li><li><strong>AI Citation Optimization:</strong> reverse-engineering buyer queries and engineering pages to be cited for them.</li><li><strong>On-site SEO in parallel:</strong> so search rankings stay healthy while AI visibility grows.</li></ul>"
     },
     {
       "heading": "How an engagement works",
-      "body_html": "<ol><li><strong>Diagnose:</strong> map where ChatGPT, Gemini, Perplexity, Claude and Google AI Overviews mention you, and where they don't.</li><li><strong>Fix:</strong> clear technical blockers such as crawl access, indexing and broken signals.</li><li><strong>Structure:</strong> add schema, llms.txt and clean page structure.</li><li><strong>Content:</strong> rebuild key pages with direct answers, comparisons and quotable facts, and publish pages for missing questions.</li><li><strong>Authority:</strong> earn brand mentions and entity signals across the web.</li><li><strong>AI Signal:</strong> track citations engine by engine and double down on what gets you recommended.</li></ol>"
+      "body_html": "<ol><li><strong>Diagnose:</strong> map where ChatGPT, Gemini, <a href=\"https://thechimeraai.com/perplexity-seo/\">Perplexity</a>, Claude and Google <a href=\"https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/\">AI Overviews</a> mention you, and where they don't.</li><li><strong>Fix:</strong> clear technical blockers such as crawl access, indexing and broken signals.</li><li><strong>Structure:</strong> add schema, llms.txt and clean page structure.</li><li><strong>Content:</strong> rebuild key pages with direct answers, comparisons and quotable facts, and publish pages for missing questions.</li><li><strong>Authority:</strong> earn brand mentions and entity signals across the web.</li><li><strong>AI Signal:</strong> track citations engine by engine and double down on what gets you recommended.</li></ol>"
     },
     {
       "heading": "Local GEO for Orange County",
-      "body_html": "<p>For businesses serving local customers, GEO and local search work together:</p><ul><li><strong>Google Business Profile</strong> complete and accurate, with the right category, services and service area.</li><li><strong>Detailed reviews</strong> that mention services and Orange County locations.</li><li><strong>Location and service pages</strong> with real local specifics: venues, neighborhoods, regulations and projects.</li><li><strong>Consistent name, address and phone</strong> across every listing.</li><li><strong>Local mentions</strong> from associations, directories, news and partners.</li></ul>"
+      "body_html": "<p>For businesses serving local customers, GEO and local search work together:</p><ul><li><strong><a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a></strong> complete and accurate, with the right category, services and <a href=\"https://thechimeraai.com/google-business-profile-service-area/\">service area</a>.</li><li><strong>Detailed reviews</strong> that mention services and Orange County locations.</li><li><strong>Location and service pages</strong> with real local specifics: venues, neighborhoods, regulations and projects.</li><li><strong>Consistent name, address and phone</strong> across every listing.</li><li><strong>Local mentions</strong> from associations, directories, news and partners.</li></ul>"
     },
     {
       "heading": "Who we work with",
@@ -123,6 +123,26 @@
     {
       "anchor": "Newport Beach SEO",
       "url": "https://thechimeraai.com/seo-newport-beach/"
+    },
+    {
+      "anchor": "A 30-day AI search plan for OC businesses",
+      "url": "https://thechimeraai.com/blog/30-day-ai-search-plan-orange-county/"
+    },
+    {
+      "anchor": "How to Choose a GEO Agency: 10-Point Checklist",
+      "url": "https://thechimeraai.com/how-to-choose-a-geo-agency/"
+    },
+    {
+      "anchor": "Local Business Schema for AI Search: Setup Guide",
+      "url": "https://thechimeraai.com/local-business-schema-for-ai-search/"
+    },
+    {
+      "anchor": "Remove fake Google reviews",
+      "url": "https://thechimeraai.com/how-to-remove-fake-google-reviews/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

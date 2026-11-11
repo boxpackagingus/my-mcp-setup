@@ -30,7 +30,7 @@
     },
     {
       "heading": "How Google ranks local results",
-      "body_html": "<p>Google's Business Profile help says local results are mainly based on relevance, distance and popularity. It explains prominence as how well-known a business is, drawing on how many websites link to it and how many reviews it has, and says more reviews and positive ratings can help. It also says there is no way to request or pay for a better local ranking.</p><p>Relevance is about how well your profile and site match the search. Distance is fixed by where you are and where the searcher is. Popularity is where most of the work goes: reviews, links and mentions.</p>"
+      "body_html": "<p>Google's Business Profile help says local results are mainly based on relevance, distance and popularity. It explains prominence as how well-known a business is, drawing on how many websites link to it and how many reviews it has, and says <a href=\"https://thechimeraai.com/how-to-get-more-google-reviews/\">more reviews</a> and positive ratings can help. It also says there is no way to request or pay for a better local ranking.</p><p>Relevance is about how well your profile and site match the search. Distance is fixed by where you are and where the searcher is. Popularity is where most of the work goes: reviews, links and mentions.</p>"
     },
     {
       "heading": "Orange County is many local markets",
@@ -38,7 +38,7 @@
     },
     {
       "heading": "Step 1: complete your Business Profile",
-      "body_html": "<p>Choose the most accurate primary category, add secondary categories only for real services, list every service, set accurate hours, add real photos and keep your name exactly as it appears on your signage. Google's guidelines say your name should reflect your real-world business name, without added keywords.</p>"
+      "body_html": "<p>Choose the most accurate <a href=\"https://thechimeraai.com/google-business-profile-categories/\">primary category</a>, add secondary categories only for real services, list every service, set accurate hours, add real photos and keep your name exactly as it appears on your signage. Google's guidelines say your name should reflect your real-world business name, without added keywords.</p>"
     },
     {
       "heading": "Step 2: fix your listings",
@@ -50,7 +50,7 @@
     },
     {
       "heading": "Step 4: earn reviews",
-      "body_html": "<p>Google's review tips suggest asking customers to leave reviews through a Google link or QR code, replying to reviews and valuing all reviews, noting that a mix of positive and negative feedback often feels more trustworthy. Offering incentives for reviews is strictly prohibited.</p>"
+      "body_html": "<p>Google's review tips suggest asking customers to leave reviews through a Google link or QR code, <a href=\"https://thechimeraai.com/how-to-respond-to-google-reviews/\">replying to reviews</a> and valuing all reviews, noting that a mix of positive and negative feedback often feels more trustworthy. Offering incentives for reviews is strictly prohibited.</p>"
     },
     {
       "heading": "Step 5: build local prominence",
@@ -58,11 +58,11 @@
     },
     {
       "heading": "Step 6: add structured data",
-      "body_html": "<p>Add LocalBusiness structured data, or a more specific type, with your real name, address, phone, hours and area served. Google's local business documentation explains how this markup can help it show your details.</p>"
+      "body_html": "<p>Add LocalBusiness <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a>, or a more specific type, with your real name, address, phone, hours and area served. Google's local business documentation explains how this markup can help it show your details.</p>"
     },
     {
       "heading": "Local SEO and AI search",
-      "body_html": "<p>AI assistants such as ChatGPT, Gemini and Google's AI features increasingly answer local questions directly. They favor businesses they can describe confidently: consistent listings, clear services and reviews that mention real experiences. Good local SEO is the foundation for being recommended.</p>"
+      "body_html": "<p>AI assistants such as <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a>, Gemini and Google's AI features increasingly answer local questions directly. They favor businesses they can describe confidently: consistent listings, clear services and reviews that mention real experiences. Good local SEO is the foundation for being recommended.</p>"
     },
     {
       "heading": "Common mistakes",
@@ -163,6 +163,26 @@
     {
       "anchor": "Google Business Profile verification",
       "url": "https://thechimeraai.com/google-business-profile-verification/"
+    },
+    {
+      "anchor": "A 30-day AI search plan for OC businesses",
+      "url": "https://thechimeraai.com/blog/30-day-ai-search-plan-orange-county/"
+    },
+    {
+      "anchor": "SEO company in Anaheim",
+      "url": "https://thechimeraai.com/seo-company-anaheim/"
+    },
+    {
+      "anchor": "Santa Ana SEO",
+      "url": "https://thechimeraai.com/seo-santa-ana/"
+    },
+    {
+      "anchor": "Irvine SEO",
+      "url": "https://thechimeraai.com/seo-irvine/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

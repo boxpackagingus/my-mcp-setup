@@ -26,7 +26,7 @@
   "sections": [
     {
       "heading": "Why comparison pages matter for AI",
-      "body_html": "<p>Comparison questions are some of the most common buyer questions: \"GEO vs SEO\", \"agency vs in-house\", \"Tool A vs Tool B for small teams\". AI tools answer them by finding pages that compare the options clearly. A well-built comparison page can be cited directly, and because it addresses a decision, the readers it brings are close to choosing.</p>"
+      "body_html": "<p>Comparison questions are some of the most common buyer questions: \"<a href=\"https://thechimeraai.com/what-is-generative-engine-optimization-and-how-does-it-work/\">GEO</a> vs SEO\", \"agency vs in-house\", \"Tool A vs Tool B for small teams\". AI tools answer them by finding pages that compare the options clearly. A well-built comparison page can be cited directly, and because it addresses a decision, the readers it brings are close to choosing.</p>"
     },
     {
       "heading": "Types of comparison pages",
@@ -74,7 +74,7 @@
     },
     {
       "heading": "Structured data and comparison pages",
-      "body_html": "<p>There is no special structured data for comparisons. Use normal Article or WebPage markup where relevant, make the table real HTML rather than an image, and keep headings descriptive. Clear structure in the page itself is what helps AI tools summarize the comparison.</p>"
+      "body_html": "<p>There is no special <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a> for comparisons. Use normal Article or WebPage markup where relevant, make the table real HTML rather than an image, and keep headings descriptive. Clear structure in the page itself is what helps AI tools summarize the comparison.</p>"
     },
     {
       "heading": "The short version",
@@ -143,6 +143,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Google's free SEO learning paths",
+      "url": "https://thechimeraai.com/blog/google-seo-learning-paths-small-business/"
+    },
+    {
+      "anchor": "FAQ Pages for AI Search: How to Write Them Well",
+      "url": "https://thechimeraai.com/faq-pages-for-ai-search/"
+    },
+    {
+      "anchor": "GEO Content Strategy: Plan Content AI Search Cites",
+      "url": "https://thechimeraai.com/geo-content-strategy/"
+    },
+    {
+      "anchor": "Topical Authority for AI Search: Build It Step by Step",
+      "url": "https://thechimeraai.com/topical-authority-for-ai-search/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

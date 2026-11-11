@@ -26,7 +26,7 @@
   "sections": [
     {
       "heading": "How people use AI to find a lawyer",
-      "body_html": "<p>A person facing a legal problem often starts with questions: \"what happens after a DUI arrest in California\", \"do I need a lawyer for a landlord dispute\", \"how much does a divorce lawyer cost in Orange County\". These long, question-style searches are exactly the kind Pew Research Center found most likely to produce an AI summary in Google: 60% of searches beginning with who, what, when or why did. Assistants like ChatGPT and Perplexity answer the same questions and, when asked, suggest firms.</p><p>If your firm's pages answer those questions clearly, you can be the source the AI quotes, and the firm it suggests.</p>"
+      "body_html": "<p>A person facing a legal problem often starts with questions: \"what happens after a DUI arrest in California\", \"do I need a lawyer for a landlord dispute\", \"how much does a divorce lawyer cost in Orange County\". These long, question-style searches are exactly the kind Pew Research Center found most likely to produce an AI summary in Google: 60% of searches beginning with who, what, when or why did. Assistants like <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a> and <a href=\"https://thechimeraai.com/perplexity-seo/\">Perplexity</a> answer the same questions and, when asked, suggest firms.</p><p>If your firm's pages answer those questions clearly, you can be the source the AI quotes, and the firm it suggests.</p>"
     },
     {
       "heading": "Practice-area pages AI can cite",
@@ -38,7 +38,7 @@
     },
     {
       "heading": "Local signals for law firms",
-      "body_html": "<p>Many legal searches are local, and AI answers about local services draw on business listings and directories as well as websites. Keep your firm name, address, phone number and hours identical on your website, Google Business Profile, Bing Places, state bar listing and legal directories. Mark up your site with structured data using the schema.org <code>LegalService</code> type, which is a kind of LocalBusiness, so machines can read your details reliably. Note that schema.org marks the older <code>Attorney</code> type as deprecated in favor of LegalService.</p>"
+      "body_html": "<p>Many legal searches are local, and AI answers about local services draw on business listings and directories as well as websites. Keep your firm name, address, phone number and hours identical on your website, <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a>, Bing Places, state bar listing and legal directories. Mark up your site with <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a> using the schema.org <code>LegalService</code> type, which is a kind of LocalBusiness, so machines can read your details reliably. Note that schema.org marks the older <code>Attorney</code> type as deprecated in favor of LegalService.</p>"
     },
     {
       "heading": "Trust: credentials and reviews",
@@ -50,7 +50,7 @@
     },
     {
       "heading": "A 90-day plan",
-      "body_html": "<ol><li><strong>Weeks 1 to 2:</strong> check how ChatGPT, Gemini, Perplexity and Google AI describe your firm and who they recommend for your main practice areas.</li><li><strong>Weeks 3 to 4:</strong> fix technical access, listings and consistency of firm details.</li><li><strong>Weeks 5 to 8:</strong> rewrite your top practice-area pages answer-first, and add attorney profiles.</li><li><strong>Weeks 9 to 12:</strong> publish four to six jurisdiction-specific guides and build review and directory presence.</li><li><strong>Ongoing:</strong> re-check AI answers monthly and track consultation requests by source.</li></ol>"
+      "body_html": "<ol><li><strong>Weeks 1 to 2:</strong> check how ChatGPT, <a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a>, Perplexity and Google AI describe your firm and who they recommend for your main practice areas.</li><li><strong>Weeks 3 to 4:</strong> fix technical access, listings and consistency of firm details.</li><li><strong>Weeks 5 to 8:</strong> rewrite your top practice-area pages answer-first, and add attorney profiles.</li><li><strong>Weeks 9 to 12:</strong> publish four to six jurisdiction-specific guides and build review and directory presence.</li><li><strong>Ongoing:</strong> re-check AI answers monthly and track consultation requests by source.</li></ol>"
     },
     {
       "heading": "How to measure results",
@@ -127,6 +127,26 @@
     {
       "anchor": "SEO for immigration lawyers",
       "url": "https://thechimeraai.com/seo-for-immigration-lawyers/"
+    },
+    {
+      "anchor": "SEO for criminal defense lawyers",
+      "url": "https://thechimeraai.com/seo-for-criminal-defense-lawyers/"
+    },
+    {
+      "anchor": "GEO for Dentists: Get Recommended in AI Search",
+      "url": "https://thechimeraai.com/geo-for-dentists/"
+    },
+    {
+      "anchor": "AI SEO for small business",
+      "url": "https://thechimeraai.com/ai-seo-for-small-business/"
+    },
+    {
+      "anchor": "GEO for Med Spas: Get Recommended by AI Search",
+      "url": "https://thechimeraai.com/geo-for-med-spas/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

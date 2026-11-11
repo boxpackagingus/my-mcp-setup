@@ -30,11 +30,11 @@
     },
     {
       "heading": "The questions an audit tests",
-      "body_html": "<p>The core of the audit is a list of 30–50 questions your buyers actually ask, grouped by stage:</p><ul><li><strong>Problem questions:</strong> \"why is my site not showing up in ChatGPT?\"</li><li><strong>Solution questions:</strong> \"what is generative engine optimization?\"</li><li><strong>Comparison questions:</strong> \"GEO vs SEO\", \"best GEO agency for e-commerce\".</li><li><strong>Decision questions:</strong> \"how much does a GEO audit cost?\", \"GEO agency in Orange County\".</li></ul><p>Each question is run in each engine, and the answers are recorded: who is mentioned, in what order, how they are described, and which pages are cited.</p>"
+      "body_html": "<p>The core of the audit is a list of 30–50 questions your buyers actually ask, grouped by stage:</p><ul><li><strong>Problem questions:</strong> \"why is my site not showing up in <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a>?\"</li><li><strong>Solution questions:</strong> \"what is generative engine optimization?\"</li><li><strong>Comparison questions:</strong> \"GEO vs SEO\", \"best GEO agency for e-commerce\".</li><li><strong>Decision questions:</strong> \"how much does a GEO audit cost?\", \"GEO agency in Orange County\".</li></ul><p>Each question is run in each engine, and the answers are recorded: who is mentioned, in what order, how they are described, and which pages are cited.</p>"
     },
     {
       "heading": "Technical checks",
-      "body_html": "<ol><li><strong>Crawler access:</strong> robots.txt and firewall rules for OAI-SearchBot, PerplexityBot, Claude-SearchBot, Googlebot, Google-Extended and Bingbot.</li><li><strong>Indexing:</strong> whether key pages are indexed in Google and Bing.</li><li><strong>Rendering:</strong> whether main content is visible in the HTML without heavy scripts.</li><li><strong>Structure:</strong> headings, answer-first openings, tables and FAQs.</li><li><strong>Structured data:</strong> Organization, Service or LocalBusiness, Article and FAQPage, and whether it matches the page.</li><li><strong>Machine-readable files:</strong> sitemap and llms.txt.</li></ol>"
+      "body_html": "<ol><li><strong>Crawler access:</strong> <a href=\"https://thechimeraai.com/robots-txt-for-ai-crawlers/\">robots.txt</a> and firewall rules for OAI-SearchBot, PerplexityBot, Claude-SearchBot, Googlebot, Google-Extended and Bingbot.</li><li><strong>Indexing:</strong> whether key pages are indexed in Google and Bing.</li><li><strong>Rendering:</strong> whether main content is visible in the HTML without heavy scripts.</li><li><strong>Structure:</strong> headings, answer-first openings, tables and FAQs.</li><li><strong><a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">Structured data</a>:</strong> Organization, Service or LocalBusiness, Article and FAQPage, and whether it matches the page.</li><li><strong>Machine-readable files:</strong> sitemap and <a href=\"https://thechimeraai.com/best-practices-for-llms-txt/\">llms.txt</a>.</li></ol>"
     },
     {
       "heading": "Content and brand checks",
@@ -50,7 +50,7 @@
     },
     {
       "heading": "Example findings from a typical audit",
-      "body_html": "<p>Every business is different, but certain findings come up again and again. These are the patterns an audit most often uncovers:</p><ul><li><strong>Security tools blocking AI crawlers.</strong> A bot-protection setting quietly turns away OAI-SearchBot or PerplexityBot, so those engines cannot read the site at all.</li><li><strong>A homepage that never says what the business does</strong> in plain words, leaving AI engines to guess the specialty.</li><li><strong>No page for the most valuable questions.</strong> Buyers ask about cost, comparisons and fit, but the site only has a services list.</li><li><strong>Competitors named on lists and directories</strong> that the business has never been added to.</li><li><strong>Different descriptions across profiles</strong>, so engines are unsure whether the brand is a local shop or a national firm.</li></ul><p>Most of these are fixable within weeks, which is why the audit ends in a prioritized list rather than a long report.</p>"
+      "body_html": "<p>Every business is different, but certain findings come up again and again. These are the patterns an audit most often uncovers:</p><ul><li><strong>Security tools blocking <a href=\"https://thechimeraai.com/ai-crawler-user-agents/\">AI crawlers</a>.</strong> A bot-protection setting quietly turns away OAI-SearchBot or PerplexityBot, so those engines cannot read the site at all.</li><li><strong>A homepage that never says what the business does</strong> in plain words, leaving AI engines to guess the specialty.</li><li><strong>No page for the most valuable questions.</strong> Buyers ask about cost, comparisons and fit, but the site only has a services list.</li><li><strong>Competitors named on lists and directories</strong> that the business has never been added to.</li><li><strong>Different descriptions across profiles</strong>, so engines are unsure whether the brand is a local shop or a national firm.</li></ul><p>Most of these are fixable within weeks, which is why the audit ends in a prioritized list rather than a long report.</p>"
     },
     {
       "heading": "How an AI visibility audit differs from an SEO audit",
@@ -107,6 +107,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Search Console's generative AI performance report",
+      "url": "https://thechimeraai.com/blog/search-console-generative-ai-performance-report/"
+    },
+    {
+      "anchor": "AI SEO for small business",
+      "url": "https://thechimeraai.com/ai-seo-for-small-business/"
+    },
+    {
+      "anchor": "How to Track AI Visibility: A Practical System",
+      "url": "https://thechimeraai.com/how-to-track-ai-visibility/"
+    },
+    {
+      "anchor": "Does GEO Bring Sales? How AI Search Turns Into Revenue",
+      "url": "https://thechimeraai.com/is-geo-bring-sales/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

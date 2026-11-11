@@ -30,7 +30,7 @@
     },
     {
       "heading": "Step 1: Let Anthropic's crawlers in",
-      "body_html": "<p>Anthropic documents three user agents, each with a different job:</p><ul><li><strong>Claude-SearchBot:</strong> crawls pages to improve the quality of Claude's search results.</li><li><strong>Claude-User:</strong> fetches a page when a person asks Claude to read it.</li><li><strong>ClaudeBot:</strong> collects public web content that may be used for model training.</li></ul><p>To be cited, allow Claude-SearchBot and Claude-User in robots.txt, and check that your CDN or security plugin does not block them. You can block ClaudeBot separately if you prefer not to contribute to training; that does not stop search citations.</p>"
+      "body_html": "<p>Anthropic documents three user agents, each with a different job:</p><ul><li><strong>Claude-SearchBot:</strong> crawls pages to improve the quality of Claude's search results.</li><li><strong>Claude-User:</strong> fetches a page when a person asks Claude to read it.</li><li><strong>ClaudeBot:</strong> collects public web content that may be used for model training.</li></ul><p>To be cited, allow Claude-SearchBot and Claude-User in <a href=\"https://thechimeraai.com/robots-txt-for-ai-crawlers/\">robots.txt</a>, and check that your CDN or security plugin does not block them. You can block ClaudeBot separately if you prefer not to contribute to training; that does not stop search citations.</p>"
     },
     {
       "heading": "Step 2: Write pages Claude trusts",
@@ -42,7 +42,7 @@
     },
     {
       "heading": "Step 4: Measure Claude's impact",
-      "body_html": "<p>Visits from Claude's citations usually arrive with <code>claude.ai</code> as the referrer. Group them with chatgpt.com, perplexity.ai, gemini.google.com and copilot.microsoft.com in an AI search channel in Google Analytics, and track which pages they land on and whether they submit your form.</p><p>Then keep a monthly test: ask Claude, with web search on, the same 20 buyer questions and record whether you are named and linked. Because answers vary between sessions, look at the trend across questions rather than any single answer.</p>"
+      "body_html": "<p>Visits from Claude's citations usually arrive with <code>claude.ai</code> as the referrer. Group them with <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">chatgpt</a>.com, <a href=\"https://thechimeraai.com/perplexity-seo/\">perplexity</a>.ai, <a href=\"https://thechimeraai.com/gemini-seo/\">gemini</a>.google.com and <a href=\"https://thechimeraai.com/microsoft-copilot-seo/\">copilot</a>.microsoft.com in an AI search channel in Google Analytics, and track which pages they land on and whether they submit your form.</p><p>Then keep a monthly test: ask Claude, with web search on, the same 20 buyer questions and record whether you are named and linked. Because answers vary between sessions, look at the trend across questions rather than any single answer.</p>"
     },
     {
       "heading": "What Claude users want from a page",
@@ -103,6 +103,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Google Search profiles for local brands",
+      "url": "https://thechimeraai.com/blog/google-search-profiles-local-brands/"
+    },
+    {
+      "anchor": "How to Check if ChatGPT Mentions Your Brand",
+      "url": "https://thechimeraai.com/how-to-check-if-chatgpt-mentions-your-brand/"
+    },
+    {
+      "anchor": "How to Show Up in Google AI Overviews",
+      "url": "https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/"
+    },
+    {
+      "anchor": "How ChatGPT Recommends Local Businesses",
+      "url": "https://thechimeraai.com/how-chatgpt-recommends-local-businesses/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

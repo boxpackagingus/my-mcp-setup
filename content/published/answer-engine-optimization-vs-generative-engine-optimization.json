@@ -26,15 +26,15 @@
   "sections": [
     {
       "heading": "What answer engine optimization means",
-      "body_html": "<p>Answer engine optimization (AEO) is the practice of structuring content so a search engine or assistant can lift it as the single, direct answer to a question. The term became popular as Google added featured snippets and People Also Ask boxes, and as voice assistants started reading answers aloud.</p><p>Classic AEO tactics include answering a question in one clear paragraph, using the question as a heading, adding numbered steps or tables Google can show as a snippet, and marking up content with FAQ or HowTo structured data where appropriate.</p>"
+      "body_html": "<p>Answer engine optimization (AEO) is the practice of structuring content so a search engine or assistant can lift it as the single, direct answer to a question. The term became popular as Google added featured snippets and People Also Ask boxes, and as voice assistants started reading answers aloud.</p><p>Classic AEO tactics include answering a question in one clear paragraph, using the question as a heading, adding numbered steps or tables Google can show as a snippet, and marking up content with FAQ or HowTo <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a> where appropriate.</p>"
     },
     {
       "heading": "What generative engine optimization means",
-      "body_html": "<p>Generative engine optimization (GEO) targets AI systems that write an answer rather than quote one. ChatGPT, Perplexity, Gemini, Claude, Copilot and Google's AI Overviews read multiple sources, combine them and present a new response, usually naming brands and linking to a few pages.</p><p>The term comes from a 2023 research paper that measured how content changes affect a source's visibility in generated answers. Its best methods, such as adding citations, quotations and statistics, improved visibility by up to 40% in the authors' tests.</p>"
+      "body_html": "<p>Generative engine optimization (GEO) targets AI systems that write an answer rather than quote one. ChatGPT, <a href=\"https://thechimeraai.com/perplexity-seo/\">Perplexity</a>, Gemini, Claude, Copilot and Google's <a href=\"https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/\">AI Overviews</a> read multiple sources, combine them and present a new response, usually naming brands and linking to a few pages.</p><p>The term comes from a 2023 research paper that measured how content changes affect a source's visibility in generated answers. Its best methods, such as adding citations, quotations and statistics, improved visibility by up to 40% in the authors' tests.</p>"
     },
     {
       "heading": "AEO vs GEO side by side",
-      "body_html": "<table><tr><th></th><th>AEO</th><th>GEO</th></tr><tr><td>Target surface</td><td>Featured snippets, People Also Ask, voice answers</td><td>AI-written answers in ChatGPT, Perplexity, Gemini, Claude, Copilot, AI Overviews</td></tr><tr><td>What wins</td><td>One page quoted as the answer</td><td>Several sources summarized; brands named in the answer</td></tr><tr><td>Unit of optimization</td><td>A concise answer block</td><td>Passages across many pages, plus the brand as an entity</td></tr><tr><td>Key tactics</td><td>Question headings, short answers, lists, tables, FAQ markup</td><td>All AEO tactics, plus sourced facts, brand mentions off-site and AI crawler access</td></tr><tr><td>Measurement</td><td>Snippet ownership, impressions and clicks</td><td>Mentions and citations per engine, AI referral visits, leads</td></tr></table>"
+      "body_html": "<table><tr><th></th><th>AEO</th><th>GEO</th></tr><tr><td>Target surface</td><td>Featured snippets, People Also Ask, voice answers</td><td>AI-written answers in ChatGPT, Perplexity, Gemini, Claude, Copilot, AI Overviews</td></tr><tr><td>What wins</td><td>One page quoted as the answer</td><td>Several sources summarized; brands named in the answer</td></tr><tr><td>Unit of optimization</td><td>A concise answer block</td><td>Passages across many pages, plus the brand as an entity</td></tr><tr><td>Key tactics</td><td>Question headings, short answers, lists, tables, FAQ markup</td><td>All AEO tactics, plus sourced facts, brand mentions off-site and <a href=\"https://thechimeraai.com/ai-crawler-user-agents/\">AI crawler</a> access</td></tr><tr><td>Measurement</td><td>Snippet ownership, impressions and clicks</td><td>Mentions and citations per engine, AI referral visits, leads</td></tr></table>"
     },
     {
       "heading": "Where AEO and GEO overlap",
@@ -42,7 +42,7 @@
     },
     {
       "heading": "What GEO adds beyond AEO",
-      "body_html": "<h3>Brand mentions, not just page answers</h3><p>Generative engines often answer \"which provider should I choose?\" by naming companies. Whether you are named depends on what the wider web says about you: reviews, directories, industry articles, community discussions and partner pages. AEO rarely looked beyond your own page.</p><h3>Access for AI crawlers</h3><p>AI assistants use their own crawlers alongside search indexes. OpenAI documents OAI-SearchBot for ChatGPT search and Perplexity documents PerplexityBot. If they are blocked, those products cannot cite you, no matter how good your answer is.</p><h3>Evidence density</h3><p>Because generative engines combine sources, they favor pages that add something specific: a statistic, a quote, a real example, a clear trade-off. A page that only restates the common answer has less reason to be chosen.</p><h3>Machine-readable maps</h3><p>Files such as <code>llms.txt</code> give AI tools a clean list of your most useful pages. It is a young proposal and support varies, but it costs little to add.</p>"
+      "body_html": "<h3>Brand mentions, not just page answers</h3><p>Generative engines often answer \"which provider should I choose?\" by naming companies. Whether you are named depends on what the wider web says about you: reviews, directories, industry articles, community discussions and partner pages. AEO rarely looked beyond your own page.</p><h3>Access for AI crawlers</h3><p>AI assistants use their own crawlers alongside search indexes. OpenAI documents OAI-SearchBot for ChatGPT search and Perplexity documents PerplexityBot. If they are blocked, those products cannot cite you, no matter how good your answer is.</p><h3>Evidence density</h3><p>Because generative engines combine sources, they favor pages that add something specific: a statistic, a quote, a real example, a clear trade-off. A page that only restates the common answer has less reason to be chosen.</p><h3>Machine-readable maps</h3><p>Files such as <code><a href=\"https://thechimeraai.com/best-practices-for-llms-txt/\">llms.txt</a></code> give AI tools a clean list of your most useful pages. It is a young proposal and support varies, but it costs little to add.</p>"
     },
     {
       "heading": "Which should you prioritize?",
@@ -103,6 +103,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Search Console's generative AI performance report",
+      "url": "https://thechimeraai.com/blog/search-console-generative-ai-performance-report/"
+    },
+    {
+      "anchor": "How Much Does GEO Cost? Pricing Models and What Drives Price",
+      "url": "https://thechimeraai.com/how-much-does-geo-cost/"
+    },
+    {
+      "anchor": "GEO SEO Best Practices: 15-Point Checklist",
+      "url": "https://thechimeraai.com/geo-seo-best-practices/"
+    },
+    {
+      "anchor": "AI Search Optimization Checklist: 40 Steps for 2026",
+      "url": "https://thechimeraai.com/ai-search-optimization-checklist/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

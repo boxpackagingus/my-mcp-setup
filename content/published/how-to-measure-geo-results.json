@@ -26,7 +26,7 @@
   "sections": [
     {
       "heading": "Why GEO needs different metrics",
-      "body_html": "<p>Classic SEO measures positions, impressions and clicks for keywords. GEO's goal is different: being named and cited inside AI answers. A brand can rank on page one and still be missing from every ChatGPT recommendation, or be named by Perplexity for a question it barely ranks for in Google. You need metrics that look at the answers themselves, then connect them to business results.</p><p>The good news is that most of the data is already within reach. A spreadsheet for the monthly question test, a custom channel in Google Analytics 4 and your existing Search Console account cover almost everything a small or mid-sized business needs. The discipline is in running the same test the same way every month, and in tying every number back to leads.</p>"
+      "body_html": "<p>Classic SEO measures positions, impressions and clicks for keywords. GEO's goal is different: being named and cited inside AI answers. A brand can rank on page one and still be missing from every <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a> recommendation, or be named by <a href=\"https://thechimeraai.com/perplexity-seo/\">Perplexity</a> for a question it barely ranks for in Google. You need metrics that look at the answers themselves, then connect them to business results.</p><p>The good news is that most of the data is already within reach. A spreadsheet for the monthly question test, a custom channel in Google Analytics 4 and your existing Search Console account cover almost everything a small or mid-sized business needs. The discipline is in running the same test the same way every month, and in tying every number back to leads.</p>"
     },
     {
       "heading": "The core GEO KPIs",
@@ -34,7 +34,7 @@
     },
     {
       "heading": "Setting up the monthly question test",
-      "body_html": "<ol><li><strong>Choose 30–50 buyer questions</strong> across the problem, solution, comparison and decision stages.</li><li><strong>Pick the engines</strong> your buyers use: usually ChatGPT, Google AI Overviews, Gemini, Perplexity, Claude and Copilot.</li><li><strong>Run tests in clean sessions</strong> without personalization, at the same time each month.</li><li><strong>Record</strong> mentioned, cited, position, description and competitors for each question and engine.</li><li><strong>Keep the set fixed</strong>, adding new questions in a separate group so trends stay comparable.</li></ol>"
+      "body_html": "<ol><li><strong>Choose 30–50 buyer questions</strong> across the problem, solution, comparison and decision stages.</li><li><strong>Pick the engines</strong> your buyers use: usually ChatGPT, Google <a href=\"https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/\">AI Overviews</a>, <a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a>, Perplexity, Claude and <a href=\"https://thechimeraai.com/microsoft-copilot-seo/\">Copilot</a>.</li><li><strong>Run tests in clean sessions</strong> without personalization, at the same time each month.</li><li><strong>Record</strong> mentioned, cited, position, description and competitors for each question and engine.</li><li><strong>Keep the set fixed</strong>, adding new questions in a separate group so trends stay comparable.</li></ol>"
     },
     {
       "heading": "Connecting visibility to revenue",
@@ -62,7 +62,7 @@
     },
     {
       "heading": "Tools that help",
-      "body_html": "<p>A spreadsheet is enough to start the question test. Google Analytics 4 and Search Console cover traffic, leads and search health, and Bing Webmaster Tools adds the Bing view that underpins Copilot. Dedicated AI visibility trackers can automate the question test at larger scale. The Chimera Engine dashboard combines published pages, site health, indexing and traffic in one place, refreshed every morning.</p>"
+      "body_html": "<p>A spreadsheet is enough to start the question test. Google Analytics 4 and Search Console cover traffic, leads and search health, and Bing Webmaster Tools adds the Bing view that underpins Copilot. Dedicated AI visibility trackers can automate the question test at larger scale. The <a href=\"https://thechimeraai.com/\">Chimera</a> Engine dashboard combines published pages, site health, indexing and traffic in one place, refreshed every morning.</p>"
     }
   ],
   "faqs": [
@@ -115,6 +115,26 @@
     {
       "anchor": "Search Console's generative AI performance report",
       "url": "https://thechimeraai.com/blog/search-console-generative-ai-performance-report/"
+    },
+    {
+      "anchor": "How to Track AI Visibility: A Practical System",
+      "url": "https://thechimeraai.com/how-to-track-ai-visibility/"
+    },
+    {
+      "anchor": "AI Share of Voice: What It Is and How to Measure It",
+      "url": "https://thechimeraai.com/ai-share-of-voice/"
+    },
+    {
+      "anchor": "GEO vs PPC: Which Should Your Business Invest In?",
+      "url": "https://thechimeraai.com/geo-vs-ppc/"
+    },
+    {
+      "anchor": "AI Search Optimization Checklist: 40 Steps for 2026",
+      "url": "https://thechimeraai.com/ai-search-optimization-checklist/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

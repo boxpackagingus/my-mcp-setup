@@ -26,7 +26,7 @@
   "sections": [
     {
       "heading": "What local SEO keywords are",
-      "body_html": "<p>A local keyword is a search with local intent: a service plus a city, neighborhood or near me, or a question people ask before choosing a local business. Examples include roof repair Huntington Beach, CPA near me and how much does a plumber charge.</p>"
+      "body_html": "<p>A local keyword is a search with local intent: a service plus a city, neighborhood or <a href=\"https://thechimeraai.com/near-me-searches/\">near me</a>, or a question people ask before choosing a local business. Examples include roof repair <a href=\"https://thechimeraai.com/seo-huntington-beach/\">Huntington Beach</a>, CPA near me and how much does a plumber charge.</p>"
     },
     {
       "heading": "Types of local keywords",
@@ -34,7 +34,7 @@
     },
     {
       "heading": "Source 1: Search Console",
-      "body_html": "<p>Search Console shows the searches you already appear for, with impressions and position. Queries where you appear but rank low are often the fastest wins: improve the page that should rank for them.</p>"
+      "body_html": "<p><a href=\"https://thechimeraai.com/blog/search-console-generative-ai-performance-report/\">Search Console</a> shows the searches you already appear for, with impressions and position. Queries where you appear but rank low are often the fastest wins: improve the page that should rank for them.</p>"
     },
     {
       "heading": "Source 2: Google autocomplete",
@@ -94,7 +94,7 @@
     },
     {
       "heading": "A worked example: a Costa Mesa accountant",
-      "body_html": "<p>A Costa Mesa accounting firm checks Search Console and finds it appears for small business tax Costa Mesa at position 18 and bookkeeping services Orange County at position 25. Autocomplete suggests bookkeeping for small business and CPA for self-employed. Its front desk says clients ask whether the firm handles quarterly estimates. The firm builds one page on small business tax, one on bookkeeping and an FAQ that answers the quarterly estimates question.</p>"
+      "body_html": "<p>A <a href=\"https://thechimeraai.com/seo-costa-mesa/\">Costa Mesa</a> accounting firm checks Search Console and finds it appears for small business tax Costa Mesa at position 18 and bookkeeping services Orange County at position 25. Autocomplete suggests bookkeeping for small business and CPA for self-employed. Its front desk says clients ask whether the firm handles quarterly estimates. The firm builds one page on small business tax, one on bookkeeping and an FAQ that answers the quarterly estimates question.</p>"
     },
     {
       "heading": "A simple keyword map",
@@ -183,6 +183,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "A 30-day AI search plan for OC businesses",
+      "url": "https://thechimeraai.com/blog/30-day-ai-search-plan-orange-county/"
+    },
+    {
+      "anchor": "Google Business Profile suspended",
+      "url": "https://thechimeraai.com/google-business-profile-suspended/"
+    },
+    {
+      "anchor": "How to get more Google reviews",
+      "url": "https://thechimeraai.com/how-to-get-more-google-reviews/"
+    },
+    {
+      "anchor": "Remove fake Google reviews",
+      "url": "https://thechimeraai.com/how-to-remove-fake-google-reviews/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [
@@ -318,5 +338,5 @@
     "height": 840
   },
   "published": "2026-11-10",
-  "updated": "2026-11-10"
+  "updated": "2026-11-11"
 }

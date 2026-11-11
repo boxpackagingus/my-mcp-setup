@@ -34,7 +34,7 @@
     },
     {
       "heading": "Write descriptive anchor text",
-      "body_html": "<p>Anchor text is the clickable text of a link. Google recommends that it be descriptive and make sense out of context. \"Click here\" and \"read more\" tell nobody anything. \"How much GEO costs\" or \"our robots.txt guide for AI crawlers\" tells both readers and crawlers what to expect. Use natural phrases, vary them, and avoid stuffing keywords into every anchor.</p>"
+      "body_html": "<p>Anchor text is the clickable text of a link. Google recommends that it be descriptive and make sense out of context. \"Click here\" and \"read more\" tell nobody anything. \"How much <a href=\"https://thechimeraai.com/what-is-generative-engine-optimization-and-how-does-it-work/\">GEO</a> costs\" or \"our <a href=\"https://thechimeraai.com/robots-txt-for-ai-crawlers/\">robots.txt</a> guide for <a href=\"https://thechimeraai.com/ai-crawler-user-agents/\">AI crawlers</a>\" tells both readers and crawlers what to expect. Use natural phrases, vary them, and avoid stuffing keywords into every anchor.</p>"
     },
     {
       "heading": "Structure: hubs, clusters and the homepage",
@@ -62,11 +62,11 @@
     },
     {
       "heading": "How to check the effect",
-      "body_html": "<p>In Search Console, new pages that are well linked tend to be discovered and indexed sooner. Track how quickly new pages show impressions, whether orphan pages begin to appear after you link them, and whether AI tools cite more of your cluster pages for related questions.</p>"
+      "body_html": "<p>In <a href=\"https://thechimeraai.com/blog/search-console-generative-ai-performance-report/\">Search Console</a>, new pages that are well linked tend to be discovered and indexed sooner. Track how quickly new pages show impressions, whether orphan pages begin to appear after you link them, and whether AI tools cite more of your cluster pages for related questions.</p>"
     },
     {
       "heading": "An example link plan for one cluster",
-      "body_html": "<p>Imagine a cluster on AI crawler access. The hub page explains AI crawlers in general and links to four detailed pages: a list of crawler user agents, a robots.txt guide, an llms.txt guide and a firewall troubleshooting guide. Each detailed page links back to the hub near the top or in its introduction, links to the other cluster pages where they are mentioned, and links to the related service page in its conclusion. The homepage links to the hub. Every page is reachable within two clicks of the homepage, and every link explains where it leads.</p>"
+      "body_html": "<p>Imagine a cluster on AI crawler access. The hub page explains AI crawlers in general and links to four detailed pages: a list of crawler user agents, a robots.txt guide, an <a href=\"https://thechimeraai.com/best-practices-for-llms-txt/\">llms.txt</a> guide and a firewall troubleshooting guide. Each detailed page links back to the hub near the top or in its introduction, links to the other cluster pages where they are mentioned, and links to the related service page in its conclusion. The homepage links to the hub. Every page is reachable within two clicks of the homepage, and every link explains where it leads.</p>"
     },
     {
       "heading": "Links between services and guides",
@@ -131,6 +131,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Google's free SEO learning paths",
+      "url": "https://thechimeraai.com/blog/google-seo-learning-paths-small-business/"
+    },
+    {
+      "anchor": "Do Press Releases Help AI Search? An Honest Answer",
+      "url": "https://thechimeraai.com/press-releases-for-ai-search/"
+    },
+    {
+      "anchor": "GEO for Multi-Location Businesses: Win Every Market",
+      "url": "https://thechimeraai.com/geo-for-multi-location-businesses/"
+    },
+    {
+      "anchor": "Reddit for AI Search: How It Shapes AI Answers",
+      "url": "https://thechimeraai.com/reddit-for-ai-search/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

@@ -34,7 +34,7 @@
     },
     {
       "heading": "How Google ranks nonprofits in local results",
-      "body_html": "<p>Google is unusually direct about local rankings. Its Business Profile help says local results are mainly based on relevance, distance and popularity. It describes prominence as how well-known a business is, based partly on how many websites link to it and how many reviews it has, and says more reviews and positive ratings can help. The same page adds that there is no way to request or pay for a better local ranking.</p><p>Relevance comes from clear programs and services; prominence grows with community links, press coverage and partnerships.</p>"
+      "body_html": "<p>Google is unusually direct about local rankings. Its Business Profile help says local results are mainly based on relevance, distance and popularity. It describes prominence as how well-known a business is, based partly on how many websites link to it and how many reviews it has, and says <a href=\"https://thechimeraai.com/how-to-get-more-google-reviews/\">more reviews</a> and positive ratings can help. The same page adds that there is no way to request or pay for a better local ranking.</p><p>Relevance comes from clear programs and services; prominence grows with community links, press coverage and partnerships.</p>"
     },
     {
       "heading": "How AI assistants choose a nonprofit",
@@ -46,7 +46,7 @@
     },
     {
       "heading": "Set up your Google Business Profile properly",
-      "body_html": "<p>Use the most specific nonprofit or service category, keep hours and locations accurate and post photos of programs and events.</p><p>Google's guidelines say service-area businesses, which serve customers at their locations, should have one profile for the central office or location with a designated service area. A rented mailing address you do not operate from, a virtual office, is not eligible, and P.O. boxes are not acceptable. Your business name should be your real-world name as used on your storefront, website and stationery, without extra keywords.</p>"
+      "body_html": "<p>Use the most specific nonprofit or service category, keep hours and locations accurate and post photos of programs and events.</p><p>Google's guidelines say <a href=\"https://thechimeraai.com/service-area-business-seo/\">service-area businesses</a>, which serve customers at their locations, should have one profile for the central office or location with a designated <a href=\"https://thechimeraai.com/google-business-profile-service-area/\">service area</a>. A rented mailing address you do not operate from, a virtual office, is not eligible, and P.O. boxes are not acceptable. Your business name should be your real-world name as used on your storefront, website and stationery, without extra keywords.</p>"
     },
     {
       "heading": "Build one page per service",
@@ -58,7 +58,7 @@
     },
     {
       "heading": "Earn reviews that mention the details",
-      "body_html": "<p>Reviews that mention the job, the neighborhood and the outcome help both Google and AI assistants describe you. Topics worth asking customers to mention:</p><ul><li>Volunteer experience</li><li>Program impact</li><li>Staff</li><li>Events</li><li>Communication</li></ul><p>Google's Maps content policy prohibits fake engagement: reviews must reflect a genuine experience, and businesses may not offer incentives, such as payment, discounts or free services, in exchange for a review or for removing a negative one. Ask every real customer, make it easy with a direct link, and reply to reviews.</p>"
+      "body_html": "<p>Reviews that mention the job, the neighborhood and the outcome help both Google and AI assistants describe you. Topics worth asking customers to mention:</p><ul><li>Volunteer experience</li><li>Program impact</li><li>Staff</li><li>Events</li><li>Communication</li></ul><p>Google's Maps content policy prohibits <a href=\"https://thechimeraai.com/how-to-remove-fake-google-reviews/\">fake engagement</a>: reviews must reflect a genuine experience, and businesses may not offer incentives, such as payment, discounts or free services, in exchange for a review or for removing a negative one. Ask every real customer, make it easy with a direct link, and <a href=\"https://thechimeraai.com/how-to-respond-to-google-reviews/\">reply to reviews</a>.</p>"
     },
     {
       "heading": "Show trust signals on every page",
@@ -86,7 +86,7 @@
     },
     {
       "heading": "The short version",
-      "body_html": "<p>Nonprofits win with clear program, volunteer and donate pages, honest impact reporting and accurate listings. Chimera, based in Anaheim, helps nonprofits across Orange County do this work.</p>"
+      "body_html": "<p>Nonprofits win with clear program, volunteer and donate pages, honest impact reporting and accurate listings. <a href=\"https://thechimeraai.com/\">Chimera</a>, based in Anaheim, helps nonprofits across Orange County do this work.</p>"
     }
   ],
   "faqs": [
@@ -143,6 +143,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "SEO for mortgage brokers",
+      "url": "https://thechimeraai.com/seo-for-mortgage-brokers/"
+    },
+    {
+      "anchor": "GEO for Financial Advisors: Be Recommended by AI",
+      "url": "https://thechimeraai.com/geo-for-financial-advisors/"
+    },
+    {
+      "anchor": "GEO for Real Estate Agents: Win AI Search Answers",
+      "url": "https://thechimeraai.com/geo-for-real-estate-agents/"
+    },
+    {
+      "anchor": "GEO for Startups: Get Cited by AI From Day One",
+      "url": "https://thechimeraai.com/geo-for-startups/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [
@@ -313,5 +333,5 @@
     "height": 840
   },
   "published": "2026-11-10",
-  "updated": "2026-11-10"
+  "updated": "2026-11-11"
 }

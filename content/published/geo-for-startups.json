@@ -34,7 +34,7 @@
     },
     {
       "heading": "The first pages to publish",
-      "body_html": "<ol><li><strong>Homepage</strong> that states the category and use case in the first lines.</li><li><strong>Use-case pages</strong> for the two or three jobs buyers hire you for.</li><li><strong>Pricing page</strong> in plain text, even if it is \"from\" pricing.</li><li><strong>Comparison pages</strong> that honestly explain how you differ from the main alternatives.</li><li><strong>An FAQ</strong> answering the questions from sales calls.</li></ol><p>Five strong pages beat fifty thin ones for a new domain.</p>"
+      "body_html": "<ol><li><strong>Homepage</strong> that states the category and use case in the first lines.</li><li><strong>Use-case pages</strong> for the two or three jobs buyers hire you for.</li><li><strong>Pricing page</strong> in plain text, even if it is \"from\" pricing.</li><li><strong><a href=\"https://thechimeraai.com/how-to-write-comparison-pages/\">Comparison pages</a></strong> that honestly explain how you differ from the main alternatives.</li><li><strong>An FAQ</strong> answering the questions from sales calls.</li></ol><p>Five strong pages beat fifty thin ones for a new domain.</p>"
     },
     {
       "heading": "Honest comparison content",
@@ -42,11 +42,11 @@
     },
     {
       "heading": "Fill the knowledge gap with mentions",
-      "body_html": "<p>Because AI tools cross-check, being described consistently on other sites matters a lot for a new company. Practical sources include launch platforms, relevant software directories, founder interviews and podcasts, guest articles in your niche, answers in communities where your buyers ask questions, and customer reviews on review platforms. Pew Research Center found Reddit and YouTube among the most frequently linked sources in Google's AI summaries, so genuine participation there can help, as long as it is helpful rather than promotional.</p>"
+      "body_html": "<p>Because AI tools cross-check, being described consistently on other sites matters a lot for a new company. Practical sources include launch platforms, relevant software directories, founder interviews and podcasts, guest articles in your niche, answers in communities where your buyers ask questions, and customer reviews on review platforms. Pew Research Center found <a href=\"https://thechimeraai.com/reddit-for-ai-search/\">Reddit</a> and <a href=\"https://thechimeraai.com/youtube-for-ai-search/\">YouTube</a> among the most frequently linked sources in Google's AI summaries, so genuine participation there can help, as long as it is helpful rather than promotional.</p>"
     },
     {
       "heading": "Technical basics",
-      "body_html": "<p>Make sure AI search crawlers such as OAI-SearchBot, PerplexityBot and Claude-SearchBot are not blocked by robots.txt or your hosting firewall. Submit your sitemap in Google Search Console and Bing Webmaster Tools, add Organization structured data with your logo and official profiles, and keep important content in the page's HTML rather than only in scripts.</p>"
+      "body_html": "<p>Make sure AI search crawlers such as OAI-SearchBot, PerplexityBot and Claude-SearchBot are not blocked by <a href=\"https://thechimeraai.com/robots-txt-for-ai-crawlers/\">robots.txt</a> or your hosting firewall. Submit your sitemap in Google Search Console and Bing Webmaster Tools, add Organization <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a> with your logo and official profiles, and keep important content in the page's HTML rather than only in scripts.</p>"
     },
     {
       "heading": "A lean 90-day plan",
@@ -123,6 +123,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "GEO for Real Estate Agents: Win AI Search Answers",
+      "url": "https://thechimeraai.com/geo-for-real-estate-agents/"
+    },
+    {
+      "anchor": "AI Search for B2B Lead Generation: A Practical Plan",
+      "url": "https://thechimeraai.com/ai-search-for-b2b-lead-generation/"
+    },
+    {
+      "anchor": "GEO for Financial Advisors: Be Recommended by AI",
+      "url": "https://thechimeraai.com/geo-for-financial-advisors/"
+    },
+    {
+      "anchor": "GEO for Manufacturers: Get Cited in B2B AI Research",
+      "url": "https://thechimeraai.com/geo-for-manufacturers/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

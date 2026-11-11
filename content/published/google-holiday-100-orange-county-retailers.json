@@ -46,7 +46,7 @@
     },
     {
       "heading": "Step 3: keep Google's product data accurate",
-      "body_html": "<p>Google's shopping features, including Universal Cart, which launched in the U.S. in October 2026, rely on accurate price and availability data. Check your Merchant Center feed and product structured data, and update stock levels frequently during the holidays.</p>"
+      "body_html": "<p>Google's shopping features, including Universal Cart, which launched in the U.S. in October 2026, rely on accurate price and availability data. Check your Merchant Center feed and product <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a>, and update stock levels frequently during the holidays.</p>"
     },
     {
       "heading": "Step 4: tell people you have it locally",
@@ -58,7 +58,7 @@
     },
     {
       "heading": "Holiday hours",
-      "body_html": "<p>Update holiday hours on your Business Profile, website and listings well before the season. Wrong hours lose customers at exactly the wrong time.</p>"
+      "body_html": "<p>Update <a href=\"https://thechimeraai.com/google-business-profile-holiday-hours/\">holiday hours</a> on your Business Profile, website and listings well before the season. Wrong hours lose customers at exactly the wrong time.</p>"
     },
     {
       "heading": "Reviews in the busy season",
@@ -70,7 +70,7 @@
     },
     {
       "heading": "A worked example: a Costa Mesa boutique",
-      "body_html": "<p>A Costa Mesa boutique notices utility jackets and kitten heels on Google's list and already stocks both. It rewrites the two product pages with sizes, materials and styling notes, checks that its Merchant Center feed shows the right price and stock, adds a line about same-day pickup and posts photos of the items on its Business Profile. Shoppers searching for those trends now have a reason to choose a local store.</p>"
+      "body_html": "<p>A <a href=\"https://thechimeraai.com/seo-costa-mesa/\">Costa Mesa</a> boutique notices utility jackets and kitten heels on Google's list and already stocks both. It rewrites the two product pages with sizes, materials and styling notes, checks that its Merchant Center feed shows the right price and stock, adds a line about same-day pickup and posts photos of the items on its Business Profile. Shoppers searching for those trends now have a reason to choose a local store.</p>"
     },
     {
       "heading": "Writing product descriptions that work",
@@ -90,7 +90,7 @@
     },
     {
       "heading": "Using trends year round",
-      "body_html": "<p>The Holiday 100 is one snapshot, but the habit it teaches is useful all year: watch what people search for, compare it with what you stock and update pages before demand peaks. Google Trends and your own Search Console data show the same signals for your products and your area.</p>"
+      "body_html": "<p>The Holiday 100 is one snapshot, but the habit it teaches is useful all year: watch what people search for, compare it with what you stock and update pages before demand peaks. Google Trends and your own <a href=\"https://thechimeraai.com/blog/search-console-generative-ai-performance-report/\">Search Console</a> data show the same signals for your products and your area.</p>"
     },
     {
       "heading": "Inventory and AI shopping",
@@ -171,6 +171,18 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "GEO for E-commerce: Get Your Products Recommended by AI",
+      "url": "https://thechimeraai.com/geo-for-ecommerce/"
+    },
+    {
+      "anchor": "Product Pages for AI Shopping",
+      "url": "https://thechimeraai.com/product-pages-for-ai-shopping/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

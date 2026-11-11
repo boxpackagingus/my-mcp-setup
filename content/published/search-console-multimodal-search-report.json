@@ -26,7 +26,7 @@
   "sections": [
     {
       "heading": "What Google announced",
-      "body_html": "<p>On September 24, 2026, Google introduced Search Console reporting for web multimodal search, in the performance report for Search results and in the report for generative AI features. Google says the update gives site owners insight into how content is surfaced when people search using images, such as with a smartphone camera.</p>"
+      "body_html": "<p>On September 24, 2026, Google introduced <a href=\"https://thechimeraai.com/blog/search-console-generative-ai-performance-report/\">Search Console</a> reporting for web multimodal search, in the performance report for Search results and in the report for generative AI features. Google says the update gives site owners insight into how content is surfaced when people search using images, such as with a smartphone camera.</p>"
     },
     {
       "heading": "Which searches count",
@@ -58,7 +58,7 @@
     },
     {
       "heading": "A worked example",
-      "body_html": "<p>Imagine a furniture store in Costa Mesa. After filtering for multimodal search, it sees that several product pages get visits from image searches, mostly on mobile. It adds clear photos from more angles, names and dimensions near each image, and in-store availability. It then watches whether those pages bring more visits and store inquiries.</p>"
+      "body_html": "<p>Imagine a furniture store in <a href=\"https://thechimeraai.com/seo-costa-mesa/\">Costa Mesa</a>. After filtering for multimodal search, it sees that several product pages get visits from image searches, mostly on mobile. It adds clear photos from more angles, names and dimensions near each image, and in-store availability. It then watches whether those pages bring more visits and store inquiries.</p>"
     },
     {
       "heading": "Multimodal search and AI features",
@@ -151,6 +151,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Find the Prompts People Ask AI",
+      "url": "https://thechimeraai.com/how-to-find-prompts-people-ask-ai/"
+    },
+    {
+      "anchor": "AI Visibility Audit: What It Checks and Why You Need One",
+      "url": "https://thechimeraai.com/ai-visibility-audit/"
+    },
+    {
+      "anchor": "Generative Engine Optimization Agency: What They Do",
+      "url": "https://thechimeraai.com/generative-engine-optimization-agency/"
+    },
+    {
+      "anchor": "How to Measure GEO Results: The KPIs That Matter",
+      "url": "https://thechimeraai.com/how-to-measure-geo-results/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

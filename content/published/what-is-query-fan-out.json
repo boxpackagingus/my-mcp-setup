@@ -30,7 +30,7 @@
     },
     {
       "heading": "Where Google uses it",
-      "body_html": "<p>Google states that both AI Overviews and AI Mode may use a query fan-out technique. It adds that while responses are being generated, its models identify more supporting web pages, allowing Google to display a wider and more diverse set of helpful links than classic search might for the same question.</p><p>Other assistants work in a similar spirit. When ChatGPT or Perplexity search the web for a detailed question, they often run more than one search and combine sources, although each company describes its process differently.</p>"
+      "body_html": "<p>Google states that both <a href=\"https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/\">AI Overviews</a> and <a href=\"https://thechimeraai.com/how-to-optimize-for-google-ai-mode/\">AI Mode</a> may use a query fan-out technique. It adds that while responses are being generated, its models identify more supporting web pages, allowing Google to display a wider and more diverse set of helpful links than classic search might for the same question.</p><p>Other assistants work in a similar spirit. When <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a> or <a href=\"https://thechimeraai.com/perplexity-seo/\">Perplexity</a> search the web for a detailed question, they often run more than one search and combine sources, although each company describes its process differently.</p>"
     },
     {
       "heading": "Why it matters for your content",
@@ -38,7 +38,7 @@
     },
     {
       "heading": "How to find the sub-questions",
-      "body_html": "<ul><li><strong>Google's People Also Ask</strong> and related searches for your main topic.</li><li><strong>Autocomplete suggestions</strong> that start with how, what, why, cost and best.</li><li><strong>Sales and support questions</strong> your team hears every week.</li><li><strong>Search Console queries</strong> with impressions but few clicks.</li><li><strong>The follow-up questions assistants suggest</strong> after answering your main query.</li></ul>"
+      "body_html": "<ul><li><strong>Google's People Also Ask</strong> and related searches for your main topic.</li><li><strong>Autocomplete suggestions</strong> that start with how, what, why, cost and best.</li><li><strong>Sales and support questions</strong> your team hears every week.</li><li><strong><a href=\"https://thechimeraai.com/blog/search-console-generative-ai-performance-report/\">Search Console</a> queries</strong> with impressions but few clicks.</li><li><strong>The follow-up questions assistants suggest</strong> after answering your main query.</li></ul>"
     },
     {
       "heading": "How to structure pages for fan-out",
@@ -115,6 +115,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Google's new AI Mode links",
+      "url": "https://thechimeraai.com/blog/google-ai-mode-inline-links-update/"
+    },
+    {
+      "anchor": "AI Overviews vs Featured Snippets: What's the Difference?",
+      "url": "https://thechimeraai.com/ai-overviews-vs-featured-snippets/"
+    },
+    {
+      "anchor": "Google Search profiles for local brands",
+      "url": "https://thechimeraai.com/blog/google-search-profiles-local-brands/"
+    },
+    {
+      "anchor": "Gemini 4 Carbon arrives in AI Mode",
+      "url": "https://thechimeraai.com/blog/gemini-4-carbon-ai-mode-local-business/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

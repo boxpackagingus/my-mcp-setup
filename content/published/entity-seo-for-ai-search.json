@@ -26,7 +26,7 @@
   "sections": [
     {
       "heading": "What an entity is",
-      "body_html": "<p>In search, an entity is a distinct thing that can be identified and described: a person, place, organization, product or concept. Search engines and AI models represent knowledge as entities and the relationships between them, for example \"Chimera\" is an organization, a Generative Engine Optimization agency, based in Orange County, California.</p><p>When an assistant recommends providers, it is choosing among entities it can describe with confidence. The clearer and more consistent your entity, the easier it is to recommend.</p><p>That is why entity work pays off across every engine at once.</p>"
+      "body_html": "<p>In search, an entity is a distinct thing that can be identified and described: a person, place, organization, product or concept. Search engines and AI models represent knowledge as entities and the relationships between them, for example \"<a href=\"https://thechimeraai.com/\">Chimera</a>\" is an organization, a Generative Engine Optimization agency, based in Orange County, California.</p><p>When an assistant recommends providers, it is choosing among entities it can describe with confidence. The clearer and more consistent your entity, the easier it is to recommend.</p><p>That is why entity work pays off across every engine at once.</p>"
     },
     {
       "heading": "Why entity clarity matters for AI answers",
@@ -34,7 +34,7 @@
     },
     {
       "heading": "Step 1: Write your canonical description",
-      "body_html": "<p>Write one sentence that states who you are, what you do, for whom and where. For example: <em>\"Chimera is a Generative Engine Optimization agency in Orange County, California that gets brands cited by ChatGPT, Gemini, Perplexity, Claude and Google AI Overviews.\"</em> Use it, or a close variant, on your homepage, About page, social bios, directory listings, press releases and partner pages. Keep your name exactly the same everywhere.</p>"
+      "body_html": "<p>Write one sentence that states who you are, what you do, for whom and where. For example: <em>\"Chimera is a Generative Engine Optimization agency in Orange County, California that gets brands cited by <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a>, <a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a>, <a href=\"https://thechimeraai.com/perplexity-seo/\">Perplexity</a>, Claude and Google <a href=\"https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/\">AI Overviews</a>.\"</em> Use it, or a close variant, on your homepage, About page, social bios, directory listings, press releases and partner pages. Keep your name exactly the same everywhere.</p>"
     },
     {
       "heading": "Step 2: Build a strong About page",
@@ -58,7 +58,7 @@
     },
     {
       "heading": "Entity SEO for local and multi-location brands",
-      "body_html": "<p>Local businesses have an extra entity layer: the place. Make sure your Google Business Profile, website, LocalBusiness schema and directory listings all use the same name, address, phone number and categories. For several locations, give each its own page with its own details and schema, and describe how the locations relate to the parent brand. When an assistant answers \"who does this in Irvine?\", clear location entities let it name the right branch with the right details, instead of a vague reference to the company as a whole.</p>"
+      "body_html": "<p>Local businesses have an extra entity layer: the place. Make sure your <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a>, website, LocalBusiness schema and directory listings all use the same name, address, phone number and categories. For several locations, give each its own page with its own details and schema, and describe how the locations relate to the parent brand. When an assistant answers \"who does this in Irvine?\", clear location entities let it name the right branch with the right details, instead of a vague reference to the company as a whole.</p>"
     },
     {
       "heading": "How entity SEO fits with GEO",
@@ -111,6 +111,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Google's free SEO learning paths",
+      "url": "https://thechimeraai.com/blog/google-seo-learning-paths-small-business/"
+    },
+    {
+      "anchor": "How to Get a Google Knowledge Panel for Your Business",
+      "url": "https://thechimeraai.com/how-to-get-a-google-knowledge-panel/"
+    },
+    {
+      "anchor": "Wikipedia & Wikidata for AI Search",
+      "url": "https://thechimeraai.com/wikipedia-and-wikidata-for-ai-search/"
+    },
+    {
+      "anchor": "AI Share of Voice: What It Is and How to Measure It",
+      "url": "https://thechimeraai.com/ai-share-of-voice/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

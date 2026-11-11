@@ -30,7 +30,7 @@
     },
     {
       "heading": "How to reply",
-      "body_html": "<p>You must verify your business before you can reply. Then go to your Business Profile, select Read reviews, choose Reply next to a review, write your reply and submit. Google reviews replies against its content policies; most take up to 10 minutes to appear, though some can take up to 30 days.</p>"
+      "body_html": "<p>You must <a href=\"https://thechimeraai.com/google-business-profile-verification/\">verify your business</a> before you can reply. Then go to your Business Profile, select Read reviews, choose Reply next to a review, write your reply and submit. Google reviews replies against its content policies; most take up to 10 minutes to appear, though some can take up to 30 days.</p>"
     },
     {
       "heading": "Google's tips for better replies",
@@ -50,7 +50,7 @@
     },
     {
       "heading": "Reviews that break the rules",
-      "body_html": "<p>If you believe a review violates Google's content policies, for example fake engagement or off-topic content, you can flag it for review. Do not reply angrily or reveal private information.</p>"
+      "body_html": "<p>If you believe a review violates Google's content policies, for example <a href=\"https://thechimeraai.com/how-to-remove-fake-google-reviews/\">fake engagement</a> or off-topic content, you can flag it for review. Do not reply angrily or reveal private information.</p>"
     },
     {
       "heading": "Privacy for health and legal businesses",
@@ -90,7 +90,7 @@
     },
     {
       "heading": "A worked example: an Irvine dental practice",
-      "body_html": "<p>An Irvine dental practice receives a two-star review about a long wait. Its reply thanks the reviewer, apologizes for the wait without confirming any treatment details, explains that the schedule has been adjusted and invites the person to call the office manager. A few weeks later the reviewer updates the review to four stars. Prospective patients reading the reviews see a practice that listens.</p>"
+      "body_html": "<p>An <a href=\"https://thechimeraai.com/seo-irvine/\">Irvine</a> dental practice receives a two-star review about a long wait. Its reply thanks the reviewer, apologizes for the wait without confirming any treatment details, explains that the schedule has been adjusted and invites the person to call the office manager. A few weeks later the reviewer updates the review to four stars. Prospective patients reading the reviews see a practice that listens.</p>"
     },
     {
       "heading": "Replying at scale",
@@ -179,6 +179,26 @@
     {
       "anchor": "removing fake Google reviews",
       "url": "https://thechimeraai.com/how-to-remove-fake-google-reviews/"
+    },
+    {
+      "anchor": "A 30-day AI search plan for OC businesses",
+      "url": "https://thechimeraai.com/blog/30-day-ai-search-plan-orange-county/"
+    },
+    {
+      "anchor": "Huntington Beach SEO",
+      "url": "https://thechimeraai.com/seo-huntington-beach/"
+    },
+    {
+      "anchor": "Google Business Profile suspended",
+      "url": "https://thechimeraai.com/google-business-profile-suspended/"
+    },
+    {
+      "anchor": "Google Business Profile photos",
+      "url": "https://thechimeraai.com/google-business-profile-photos/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

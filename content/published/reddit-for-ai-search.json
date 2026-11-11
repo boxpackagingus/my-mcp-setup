@@ -26,7 +26,7 @@
   "sections": [
     {
       "heading": "Why Reddit shows up in AI answers",
-      "body_html": "<p>People trust first-hand experiences, and AI systems reflect that. Pew Research Center's March 2025 study found that Wikipedia, YouTube and Reddit were the most commonly linked sources in both Google's AI summaries and standard results, together making up 15% of sources in AI summaries. For questions like \"is this agency worth it\" or \"best tool for small teams\", discussion threads offer comparisons and opinions that official pages rarely include.</p><p>That makes Reddit part of the picture AI tools form about your category and, sometimes, about your brand.</p>"
+      "body_html": "<p>People trust first-hand experiences, and AI systems reflect that. Pew Research Center's March 2025 study found that <a href=\"https://thechimeraai.com/wikipedia-and-wikidata-for-ai-search/\">Wikipedia</a>, <a href=\"https://thechimeraai.com/youtube-for-ai-search/\">YouTube</a> and Reddit were the most commonly linked sources in both Google's AI summaries and standard results, together making up 15% of sources in AI summaries. For questions like \"is this agency worth it\" or \"best tool for small teams\", discussion threads offer comparisons and opinions that official pages rarely include.</p><p>That makes Reddit part of the picture AI tools form about your category and, sometimes, about your brand.</p>"
     },
     {
       "heading": "What AI tools take from threads",
@@ -66,7 +66,7 @@
     },
     {
       "heading": "An example of a helpful brand answer",
-      "body_html": "<p>Someone asks in a small business community: \"Is GEO worth paying for or is it just SEO with a new name?\" A helpful reply from an agency owner would say who they are, explain the genuine overlap with SEO, describe what is different (being cited in AI answers, crawler access, brand consistency), give two or three things the person could check themselves for free, and mention that their agency offers audits only at the end, if at all. The value is in the answer, not the plug.</p>"
+      "body_html": "<p>Someone asks in a small business community: \"Is <a href=\"https://thechimeraai.com/what-is-generative-engine-optimization-and-how-does-it-work/\">GEO</a> worth paying for or is it just SEO with a new name?\" A helpful reply from an agency owner would say who they are, explain the genuine overlap with SEO, describe what is different (being cited in AI answers, crawler access, brand consistency), give two or three things the person could check themselves for free, and mention that their agency offers audits only at the end, if at all. The value is in the answer, not the plug.</p>"
     },
     {
       "heading": "The short version",
@@ -135,6 +135,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Search Console's generative AI performance report",
+      "url": "https://thechimeraai.com/blog/search-console-generative-ai-performance-report/"
+    },
+    {
+      "anchor": "Generative Engine Optimization Agency: What They Do",
+      "url": "https://thechimeraai.com/generative-engine-optimization-agency/"
+    },
+    {
+      "anchor": "AI SEO for small business",
+      "url": "https://thechimeraai.com/ai-seo-for-small-business/"
+    },
+    {
+      "anchor": "How to Get on Best-Of Lists That AI Search Cites",
+      "url": "https://thechimeraai.com/how-to-get-on-best-of-lists/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

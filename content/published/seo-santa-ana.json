@@ -34,7 +34,7 @@
     },
     {
       "heading": "How Google ranks local results in Santa Ana",
-      "body_html": "<p>Google publishes the basics of how local results work. According to its Business Profile help, results are mainly based on relevance, distance and popularity. Prominence, in Google's words, is how well-known a business is, which draws on links from other websites and on reviews, and more reviews and positive ratings can help. Google also states plainly that nobody can request or pay for a better local ranking.</p><p>Distance matters within Santa Ana, from downtown and the Civic Center to the South Coast Metro area. Listing services clearly and earning reviews from customers across the city helps relevance and prominence.</p>"
+      "body_html": "<p>Google publishes the basics of how local results work. According to its Business Profile help, results are mainly based on relevance, distance and popularity. Prominence, in Google's words, is how well-known a business is, which draws on links from other websites and on reviews, and <a href=\"https://thechimeraai.com/how-to-get-more-google-reviews/\">more reviews</a> and positive ratings can help. Google also states plainly that nobody can request or pay for a better local ranking.</p><p>Distance matters within Santa Ana, from downtown and the Civic Center to the South Coast Metro area. Listing services clearly and earning reviews from customers across the city helps relevance and prominence.</p>"
     },
     {
       "heading": "Getting recommended by ChatGPT and Google AI in Santa Ana",
@@ -50,11 +50,11 @@
     },
     {
       "heading": "Business Profile basics",
-      "body_html": "<p>Your Google Business Profile is usually the first thing people see in a local search.</p><p>If you work at customers' homes, Google's guidelines treat you as a service-area business: one profile for your central office or location, with a service area set. Virtual offices, meaning rented addresses you do not work from, are not eligible, and neither are P.O. boxes. Use your real-world business name, the one on your signage and invoices, with no added keywords.</p>"
+      "body_html": "<p>Your <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a> is usually the first thing people see in a local search.</p><p>If you work at customers' homes, Google's guidelines treat you as a <a href=\"https://thechimeraai.com/service-area-business-seo/\">service-area business</a>: one profile for your central office or location, with a <a href=\"https://thechimeraai.com/google-business-profile-service-area/\">service area</a> set. Virtual offices, meaning rented addresses you do not work from, are not eligible, and neither are P.O. boxes. Use your real-world business name, the one on your signage and invoices, with no added keywords.</p>"
     },
     {
       "heading": "Reviews",
-      "body_html": "<p>Ask every customer for a review; reviews in Spanish or English both count when they reflect genuine experiences.</p><p>Stay inside Google's rules. Its Maps content policy bans fake engagement and says reviews must come from genuine experiences. Offering payment, discounts or free services for a review, or for removing a bad one, is not allowed. The safe method is simple: ask every real customer, send a direct review link and reply to what people write.</p>"
+      "body_html": "<p>Ask every customer for a review; reviews in Spanish or English both count when they reflect genuine experiences.</p><p>Stay inside Google's rules. Its Maps content policy bans <a href=\"https://thechimeraai.com/how-to-remove-fake-google-reviews/\">fake engagement</a> and says reviews must come from genuine experiences. Offering payment, discounts or free services for a review, or for removing a bad one, is not allowed. The safe method is simple: ask every real customer, send a direct review link and reply to what people write.</p>"
     },
     {
       "heading": "Structured data",
@@ -143,6 +143,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "A 30-day AI search plan for OC businesses",
+      "url": "https://thechimeraai.com/blog/30-day-ai-search-plan-orange-county/"
+    },
+    {
+      "anchor": "SEO company in Anaheim",
+      "url": "https://thechimeraai.com/seo-company-anaheim/"
+    },
+    {
+      "anchor": "Fullerton SEO",
+      "url": "https://thechimeraai.com/seo-fullerton/"
+    },
+    {
+      "anchor": "Huntington Beach SEO",
+      "url": "https://thechimeraai.com/seo-huntington-beach/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [
@@ -308,5 +328,5 @@
     "height": 840
   },
   "published": "2026-11-10",
-  "updated": "2026-11-10"
+  "updated": "2026-11-11"
 }

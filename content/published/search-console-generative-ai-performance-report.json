@@ -26,7 +26,7 @@
   "sections": [
     {
       "heading": "What the report is",
-      "body_html": "<p>On June 3, 2026, Google announced Search Generative AI performance reports in Search Console, with dedicated reports for Search and Discover. Google says they give dedicated views of your impressions within generative AI features on Search, such as AI Overviews and AI Mode, and within generative AI features in Discover. A note on Google's post says that as of August 31, 2026, the insights had rolled out to all websites worldwide.</p>"
+      "body_html": "<p>On June 3, 2026, Google announced Search Generative AI performance reports in Search Console, with dedicated reports for Search and Discover. Google says they give dedicated views of your impressions within generative AI features on Search, such as <a href=\"https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/\">AI Overviews</a> and <a href=\"https://thechimeraai.com/how-to-optimize-for-google-ai-mode/\">AI Mode</a>, and within generative AI features in Discover. A note on Google's post says that as of August 31, 2026, the insights had rolled out to all websites worldwide.</p>"
     },
     {
       "heading": "What it shows",
@@ -58,7 +58,7 @@
     },
     {
       "heading": "Pair it with manual checks",
-      "body_html": "<p>Search Console tells you that your page appeared, not what the AI said. Each month, ask Google, ChatGPT, Gemini and Perplexity the questions your customers ask, from a phone in Orange County, and record whether you are named and described correctly. Together, the report and manual checks give a fuller picture.</p>"
+      "body_html": "<p>Search Console tells you that your page appeared, not what the AI said. Each month, ask Google, <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a>, <a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a> and <a href=\"https://thechimeraai.com/perplexity-seo/\">Perplexity</a> the questions your customers ask, from a phone in Orange County, and record whether you are named and described correctly. Together, the report and manual checks give a fuller picture.</p>"
     },
     {
       "heading": "A worked example",
@@ -147,6 +147,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Generative Engine Optimization Agency: What They Do",
+      "url": "https://thechimeraai.com/generative-engine-optimization-agency/"
+    },
+    {
+      "anchor": "Multimodal search data in Search Console",
+      "url": "https://thechimeraai.com/blog/search-console-multimodal-search-report/"
+    },
+    {
+      "anchor": "AI Visibility Audit: What It Checks and Why You Need One",
+      "url": "https://thechimeraai.com/ai-visibility-audit/"
+    },
+    {
+      "anchor": "AI Search Optimization Checklist: 40 Steps for 2026",
+      "url": "https://thechimeraai.com/ai-search-optimization-checklist/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

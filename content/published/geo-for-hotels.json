@@ -26,11 +26,11 @@
   "sections": [
     {
       "heading": "How travelers plan with AI",
-      "body_html": "<p>Trip planning is one of the most natural uses for AI assistants. Travelers ask for complete answers: \"quiet boutique hotel near Laguna Beach with ocean views and free parking\", \"family hotel near Disneyland with a pool and kitchenette\", \"pet-friendly hotel in Newport Beach walkable to restaurants\". The AI combines listings, reviews and hotel websites to suggest a shortlist, often with reasons for each choice.</p><p>Properties whose details are clear and specific are easier to match to these requests.</p>"
+      "body_html": "<p>Trip planning is one of the most natural uses for AI assistants. Travelers ask for complete answers: \"quiet boutique hotel near Laguna Beach with ocean views and free parking\", \"family hotel near Disneyland with a pool and kitchenette\", \"pet-friendly hotel in <a href=\"https://thechimeraai.com/seo-newport-beach/\">Newport Beach</a> walkable to restaurants\". The AI combines listings, reviews and hotel websites to suggest a shortlist, often with reasons for each choice.</p><p>Properties whose details are clear and specific are easier to match to these requests.</p>"
     },
     {
       "heading": "Spell out the details",
-      "body_html": "<ul><li><strong>Room types</strong> with size, bed configuration, views and maximum occupancy.</li><li><strong>Amenities</strong>: pool hours, parking cost, breakfast, Wi-Fi, gym, EV charging.</li><li><strong>Policies</strong>: pets, check-in and check-out times, cancellation, resort fees.</li><li><strong>Accessibility</strong> features, described precisely.</li><li><strong>Location</strong>: walking times and distances to key attractions and transport.</li></ul><p>Many hotel sites show these only in photos or booking widgets. State them in text so crawlers and AI tools can read them. Schema.org's <code>Hotel</code> type can describe amenities, check-in times and pet policies in structured data.</p>"
+      "body_html": "<ul><li><strong>Room types</strong> with size, bed configuration, views and maximum occupancy.</li><li><strong>Amenities</strong>: pool hours, parking cost, breakfast, Wi-Fi, gym, EV charging.</li><li><strong>Policies</strong>: pets, check-in and check-out times, cancellation, resort fees.</li><li><strong>Accessibility</strong> features, described precisely.</li><li><strong>Location</strong>: walking times and distances to key attractions and transport.</li></ul><p>Many hotel sites show these only in photos or booking widgets. State them in text so crawlers and AI tools can read them. Schema.org's <code>Hotel</code> type can describe amenities, check-in times and pet policies in <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a>.</p>"
     },
     {
       "heading": "Say who the property suits",
@@ -38,7 +38,7 @@
     },
     {
       "heading": "Reviews and listing accuracy",
-      "body_html": "<p>Travelers and AI tools both weigh recent reviews heavily. Respond to reviews on major travel platforms and your Google Business Profile, fix recurring issues, and keep property details identical across your website, listings and booking channels. Outdated amenity information, such as a pool listed as open during renovation, leads to bad reviews and wrong AI answers.</p>"
+      "body_html": "<p>Travelers and AI tools both weigh recent reviews heavily. <a href=\"https://thechimeraai.com/how-to-respond-to-google-reviews/\">Respond to reviews</a> on major travel platforms and your <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a>, fix recurring issues, and keep property details identical across your website, listings and booking channels. Outdated amenity information, such as a pool listed as open during renovation, leads to bad reviews and wrong AI answers.</p>"
     },
     {
       "heading": "Local guides that help guests plan",
@@ -54,7 +54,7 @@
     },
     {
       "heading": "How to measure results",
-      "body_html": "<p>Track direct bookings and booking-engine sessions by source, AI referrals in analytics, branded searches for the property and monthly checks of AI recommendations for your key traveler types. Direct booking share is the number that shows GEO is paying off.</p>"
+      "body_html": "<p>Track direct bookings and booking-engine sessions by source, AI referrals in analytics, branded searches for the property and monthly checks of AI recommendations for your key traveler types. Direct booking share is the number that shows <a href=\"https://thechimeraai.com/what-is-generative-engine-optimization-and-how-does-it-work/\">GEO</a> is paying off.</p>"
     },
     {
       "heading": "Common mistakes hotels make",
@@ -143,6 +143,26 @@
     {
       "anchor": "SEO for travel agencies",
       "url": "https://thechimeraai.com/seo-for-travel-agencies/"
+    },
+    {
+      "anchor": "AI Mode hotel booking for Anaheim hotels",
+      "url": "https://thechimeraai.com/blog/google-ai-mode-hotel-booking-anaheim/"
+    },
+    {
+      "anchor": "2026 holiday travel trends for Anaheim",
+      "url": "https://thechimeraai.com/blog/holiday-travel-search-trends-anaheim-2026/"
+    },
+    {
+      "anchor": "SEO for restaurants",
+      "url": "https://thechimeraai.com/seo-for-restaurants-orange-county/"
+    },
+    {
+      "anchor": "Google's new .eat and .here domains",
+      "url": "https://thechimeraai.com/blog/google-eat-here-domains-orange-county/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

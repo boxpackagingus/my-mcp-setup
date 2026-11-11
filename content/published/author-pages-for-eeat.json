@@ -26,7 +26,7 @@
   "sections": [
     {
       "heading": "Why author pages matter",
-      "body_html": "<p>Google's guidance on helpful content encourages asking who created content, how and why, and says trust is the most important part of E-E-A-T. An anonymous article gives readers no way to judge whether the writer knows the subject. An article linked to a real person with relevant experience does. For AI tools choosing between sources, visible expertise is one of the signals that makes a page a safer choice.</p>"
+      "body_html": "<p>Google's guidance on helpful content encourages asking who created content, how and why, and says trust is the most important part of <a href=\"https://thechimeraai.com/eeat-for-ai-search/\">E-E-A-T</a>. An anonymous article gives readers no way to judge whether the writer knows the subject. An article linked to a real person with relevant experience does. For AI tools choosing between sources, visible expertise is one of the signals that makes a page a safer choice.</p>"
     },
     {
       "heading": "What to include",
@@ -34,11 +34,11 @@
     },
     {
       "heading": "Write the bio for readers",
-      "body_html": "<p>Lead with what makes the person qualified to advise on these topics, in plain language. \"Maria has run GEO audits for more than forty service businesses in Southern California and previously led SEO for a regional healthcare group\" says more than a list of adjectives. Keep it accurate and specific; exaggerated bios undermine the trust they are meant to build.</p>"
+      "body_html": "<p>Lead with what makes the person qualified to advise on these topics, in plain language. \"Maria has run <a href=\"https://thechimeraai.com/what-is-generative-engine-optimization-and-how-does-it-work/\">GEO</a> audits for more than forty service businesses in Southern California and previously led SEO for a regional healthcare group\" says more than a list of adjectives. Keep it accurate and specific; exaggerated bios undermine the trust they are meant to build.</p>"
     },
     {
       "heading": "Connect authors and articles",
-      "body_html": "<p>Show the author's name, with a link to their author page, near the top of each article. On the author page, list the articles they have written or reviewed. This two-way connection helps readers explore and helps machines understand which person is responsible for which content. Google's Article structured data documentation supports specifying an author, and the author's name and URL should match what is visible on the page.</p>"
+      "body_html": "<p>Show the author's name, with a link to their author page, near the top of each article. On the author page, list the articles they have written or reviewed. This two-way connection helps readers explore and helps machines understand which person is responsible for which content. Google's Article <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a> documentation supports specifying an author, and the author's name and URL should match what is visible on the page.</p>"
     },
     {
       "heading": "Reviewers for expert topics",
@@ -70,7 +70,7 @@
     },
     {
       "heading": "An example author bio",
-      "body_html": "<p>\"Daniel Ortiz is the founder of a three-person GEO consultancy in Anaheim. Before starting it, he spent eight years running SEO for regional home service companies, managing websites and listings for more than sixty locations. He writes about local AI search, Google Business Profile and structured data, and reviews every technical guide on this site. He holds Google Analytics certification and speaks regularly at Orange County business events. Connect with him on LinkedIn.\" Every sentence is specific and checkable, and it explains why Daniel is worth listening to on these topics.</p>"
+      "body_html": "<p>\"Daniel Ortiz is the founder of a three-person GEO consultancy in Anaheim. Before starting it, he spent eight years running SEO for regional home service companies, managing websites and listings for more than sixty locations. He writes about local AI search, <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a> and structured data, and reviews every technical guide on this site. He holds <a href=\"https://thechimeraai.com/how-to-track-ai-traffic-in-google-analytics/\">Google Analytics</a> certification and speaks regularly at Orange County business events. Connect with him on LinkedIn.\" Every sentence is specific and checkable, and it explains why Daniel is worth listening to on these topics.</p>"
     },
     {
       "heading": "Author pages and AI answers",
@@ -147,6 +147,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Google's free SEO learning paths",
+      "url": "https://thechimeraai.com/blog/google-seo-learning-paths-small-business/"
+    },
+    {
+      "anchor": "FAQ Pages for AI Search: How to Write Them Well",
+      "url": "https://thechimeraai.com/faq-pages-for-ai-search/"
+    },
+    {
+      "anchor": "How to Write Comparison Pages",
+      "url": "https://thechimeraai.com/how-to-write-comparison-pages/"
+    },
+    {
+      "anchor": "Entity SEO for AI Search: Help AI Know Your Brand",
+      "url": "https://thechimeraai.com/entity-seo-for-ai-search/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

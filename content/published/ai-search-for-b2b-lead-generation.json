@@ -30,11 +30,11 @@
     },
     {
       "heading": "The questions to win",
-      "body_html": "<ul><li><strong>Problem questions</strong>: \"why are our AI search referrals so low\".</li><li><strong>Approach questions</strong>: \"agency vs in-house GEO for a SaaS company\".</li><li><strong>Vendor questions</strong>: \"GEO agencies with B2B SaaS experience\".</li><li><strong>Evaluation questions</strong>: \"what to ask a GEO agency before signing\".</li><li><strong>Cost questions</strong>: \"how much does a GEO program cost per month\".</li></ul>"
+      "body_html": "<ul><li><strong>Problem questions</strong>: \"why are our AI search referrals so low\".</li><li><strong>Approach questions</strong>: \"agency vs in-house <a href=\"https://thechimeraai.com/what-is-generative-engine-optimization-and-how-does-it-work/\">GEO</a> for a SaaS company\".</li><li><strong>Vendor questions</strong>: \"GEO agencies with B2B SaaS experience\".</li><li><strong>Evaluation questions</strong>: \"what to ask a GEO agency before signing\".</li><li><strong>Cost questions</strong>: \"how much does a GEO program cost per month\".</li></ul>"
     },
     {
       "heading": "Content that gets you shortlisted",
-      "body_html": "<ol><li><strong>Problem-led guides</strong> that diagnose issues your buyers face.</li><li><strong>Honest comparison pages</strong> on approaches and alternatives.</li><li><strong>Pricing guidance</strong>: models, ranges and what drives cost.</li><li><strong>Use-case pages</strong> for each industry or team you serve.</li><li><strong>Evaluation resources</strong>: checklists and questions to ask vendors.</li><li><strong>Case studies</strong> with specific, permitted results.</li></ol>"
+      "body_html": "<ol><li><strong>Problem-led guides</strong> that diagnose issues your buyers face.</li><li><strong>Honest <a href=\"https://thechimeraai.com/how-to-write-comparison-pages/\">comparison pages</a></strong> on approaches and alternatives.</li><li><strong>Pricing guidance</strong>: models, ranges and what drives cost.</li><li><strong>Use-case pages</strong> for each industry or team you serve.</li><li><strong>Evaluation resources</strong>: checklists and questions to ask vendors.</li><li><strong>Case studies</strong> with specific, permitted results.</li></ol>"
     },
     {
       "heading": "Proof for buying committees",
@@ -151,6 +151,26 @@
     {
       "anchor": "SEO for staffing agencies",
       "url": "https://thechimeraai.com/seo-for-staffing-agencies/"
+    },
+    {
+      "anchor": "GEO for Financial Advisors: Be Recommended by AI",
+      "url": "https://thechimeraai.com/geo-for-financial-advisors/"
+    },
+    {
+      "anchor": "GEO for Startups: Get Cited by AI From Day One",
+      "url": "https://thechimeraai.com/geo-for-startups/"
+    },
+    {
+      "anchor": "GEO for Manufacturers: Get Cited in B2B AI Research",
+      "url": "https://thechimeraai.com/geo-for-manufacturers/"
+    },
+    {
+      "anchor": "GEO for Real Estate Agents: Win AI Search Answers",
+      "url": "https://thechimeraai.com/geo-for-real-estate-agents/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

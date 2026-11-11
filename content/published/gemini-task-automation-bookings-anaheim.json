@@ -26,7 +26,7 @@
   "sections": [
     {
       "heading": "What Google announced",
-      "body_html": "<p>On November 10, 2026, Google announced new Gemini Intelligence features for Android and expanded them to more devices, including the Pixel 10 family and the new motorola signature 27. Among them is task automation, which Google describes as letting you ask Gemini to handle logistics like ordering food, hailing rides or booking reservations across your favorite apps. Google said task automation is expanding to the UK, India and Japan.</p>"
+      "body_html": "<p>On November 10, 2026, Google announced new <a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a> Intelligence features for Android and expanded them to more devices, including the Pixel 10 family and the new motorola signature 27. Among them is task automation, which Google describes as letting you ask Gemini to handle logistics like ordering food, hailing rides or booking reservations across your favorite apps. Google said task automation is expanding to the UK, India and Japan.</p>"
     },
     {
       "heading": "Other features in the update",
@@ -159,6 +159,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Businesses in ChatGPT: claim your business",
+      "url": "https://thechimeraai.com/blog/businesses-in-chatgpt-claim-your-business/"
+    },
+    {
+      "anchor": "Google's October 2026 AI updates",
+      "url": "https://thechimeraai.com/blog/google-october-2026-ai-updates-local-business/"
+    },
+    {
+      "anchor": "Gemini 4 Carbon arrives in AI Mode",
+      "url": "https://thechimeraai.com/blog/gemini-4-carbon-ai-mode-local-business/"
+    },
+    {
+      "anchor": "AI Crawler User Agents List",
+      "url": "https://thechimeraai.com/ai-crawler-user-agents/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

@@ -30,11 +30,11 @@
     },
     {
       "heading": "AI assistant usage",
-      "body_html": "<p>The companies behind the major assistants report their audience in different ways, which makes direct comparison tricky:</p><ul><li><strong>ChatGPT:</strong> 100 million weekly active users in November 2023, 500 million in March 2025, 700 million in August 2025 and 800 million in October 2025, according to OpenAI figures reported by TechCrunch.</li><li><strong>Gemini app:</strong> 90 million monthly active users in October 2024, 350 million in March 2025 and more than 650 million in October 2025, according to Google figures reported by 9to5Google.</li><li><strong>Perplexity:</strong> 780 million queries in May 2025, according to its CEO, reported by MediaPost.</li></ul><p>Weekly users, monthly users and monthly queries measure different things. Compare each platform with its own history rather than with the others.</p>"
+      "body_html": "<p>The companies behind the major assistants report their audience in different ways, which makes direct comparison tricky:</p><ul><li><strong><a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a>:</strong> 100 million weekly active users in November 2023, 500 million in March 2025, 700 million in August 2025 and 800 million in October 2025, according to OpenAI figures reported by TechCrunch.</li><li><strong><a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a> app:</strong> 90 million monthly active users in October 2024, 350 million in March 2025 and more than 650 million in October 2025, according to Google figures reported by 9to5Google.</li><li><strong><a href=\"https://thechimeraai.com/perplexity-seo/\">Perplexity</a>:</strong> 780 million queries in May 2025, according to its CEO, reported by MediaPost.</li></ul><p>Weekly users, monthly users and monthly queries measure different things. Compare each platform with its own history rather than with the others.</p>"
     },
     {
       "heading": "AI in Google Search",
-      "body_html": "<p>Google's own AI answers reach more people than any standalone assistant because they appear inside the search engine people already use. Google reported 1.5 billion monthly users of AI Overviews in May 2025 and more than 2 billion by July 2025.</p><p>Pew Research Center's analysis of real browsing data from 900 U.S. adults gives a closer look at how often those summaries appear:</p><ul><li>58% of respondents ran at least one Google search in March 2025 that produced an AI summary.</li><li>18% of all Google searches in the study produced an AI summary.</li><li>The median AI summary was 67 words long; the shortest was 7 words and the longest 369.</li></ul>"
+      "body_html": "<p>Google's own AI answers reach more people than any standalone assistant because they appear inside the search engine people already use. Google reported 1.5 billion monthly users of <a href=\"https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/\">AI Overviews</a> in May 2025 and more than 2 billion by July 2025.</p><p>Pew Research Center's analysis of real browsing data from 900 U.S. adults gives a closer look at how often those summaries appear:</p><ul><li>58% of respondents ran at least one Google search in March 2025 that produced an AI summary.</li><li>18% of all Google searches in the study produced an AI summary.</li><li>The median AI summary was 67 words long; the shortest was 7 words and the longest 369.</li></ul>"
     },
     {
       "heading": "Which searches trigger AI answers",
@@ -50,7 +50,7 @@
     },
     {
       "heading": "What the research says about optimization",
-      "body_html": "<p>The most cited academic work on generative engine optimization is the GEO paper by Aggarwal and colleagues, presented at KDD 2024. The authors tested ways of rewriting content and reported that the best methods improved visibility in generative engine responses by up to 40% in their experiments. Adding citations, quotations from relevant sources and statistics were among the methods they tested.</p><p>Google, for its part, says there are no additional requirements to appear in AI Overviews or AI Mode, and no special optimizations necessary beyond SEO best practices. In practice both points agree: clear, well-sourced, genuinely useful pages are the ones AI systems can use.</p>"
+      "body_html": "<p>The most cited academic work on generative engine optimization is the GEO paper by Aggarwal and colleagues, presented at KDD 2024. The authors tested ways of rewriting content and reported that the best methods improved visibility in generative engine responses by up to 40% in their experiments. Adding citations, quotations from relevant sources and statistics were among the methods they tested.</p><p>Google, for its part, says there are no additional requirements to appear in AI Overviews or <a href=\"https://thechimeraai.com/how-to-optimize-for-google-ai-mode/\">AI Mode</a>, and no special optimizations necessary beyond SEO best practices. In practice both points agree: clear, well-sourced, genuinely useful pages are the ones AI systems can use.</p>"
     },
     {
       "heading": "What these numbers mean for your business",
@@ -111,6 +111,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Search Console's generative AI performance report",
+      "url": "https://thechimeraai.com/blog/search-console-generative-ai-performance-report/"
+    },
+    {
+      "anchor": "Zero-Click Searches: What They Are and How to Adapt",
+      "url": "https://thechimeraai.com/zero-click-searches/"
+    },
+    {
+      "anchor": "Generative Engine Optimization Agency: What They Do",
+      "url": "https://thechimeraai.com/generative-engine-optimization-agency/"
+    },
+    {
+      "anchor": "How AI Search Engines Choose Sources to Cite",
+      "url": "https://thechimeraai.com/how-ai-search-engines-choose-sources/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

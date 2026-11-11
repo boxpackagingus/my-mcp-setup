@@ -34,7 +34,7 @@
     },
     {
       "heading": "How Google ranks pool service companies in local results",
-      "body_html": "<p>Google is unusually direct about local rankings. Its Business Profile help says local results are mainly based on relevance, distance and popularity. It describes prominence as how well-known a business is, based partly on how many websites link to it and how many reviews it has, and says more reviews and positive ratings can help. The same page adds that there is no way to request or pay for a better local ranking.</p><p>Distance and service area matter because routes are geographic. Relevance comes from listing each service; reviews from long-term customers build prominence.</p>"
+      "body_html": "<p>Google is unusually direct about local rankings. Its Business Profile help says local results are mainly based on relevance, distance and popularity. It describes prominence as how well-known a business is, based partly on how many websites link to it and how many reviews it has, and says more reviews and positive ratings can help. The same page adds that there is no way to request or pay for a better local ranking.</p><p>Distance and <a href=\"https://thechimeraai.com/google-business-profile-service-area/\">service area</a> matter because routes are geographic. Relevance comes from listing each service; reviews from long-term customers build prominence.</p>"
     },
     {
       "heading": "How AI assistants choose a pool service company",
@@ -46,7 +46,7 @@
     },
     {
       "heading": "Set up your Google Business Profile properly",
-      "body_html": "<p>Use Pool cleaning service as the primary category, add pool repair categories only if accurate, set your service area to your route cities and post photos of real pools you service.</p><p>Google's guidelines say service-area businesses, which serve customers at their locations, should have one profile for the central office or location with a designated service area. A rented mailing address you do not operate from, a virtual office, is not eligible, and P.O. boxes are not acceptable. Your business name should be your real-world name as used on your storefront, website and stationery, without extra keywords.</p>"
+      "body_html": "<p>Use Pool cleaning service as the <a href=\"https://thechimeraai.com/google-business-profile-categories/\">primary category</a>, add pool repair categories only if accurate, set your service area to your route cities and post photos of real pools you service.</p><p>Google's guidelines say <a href=\"https://thechimeraai.com/service-area-business-seo/\">service-area businesses</a>, which serve customers at their locations, should have one profile for the central office or location with a designated service area. A rented mailing address you do not operate from, a virtual office, is not eligible, and P.O. boxes are not acceptable. Your business name should be your real-world name as used on your storefront, website and stationery, without extra keywords.</p>"
     },
     {
       "heading": "Build one page per service",
@@ -58,7 +58,7 @@
     },
     {
       "heading": "Earn reviews that mention the details",
-      "body_html": "<p>Reviews that mention the job, the neighborhood and the outcome help both Google and AI assistants describe you. Topics worth asking customers to mention:</p><ul><li>Reliability of weekly visits</li><li>Water quality</li><li>Communication and visit reports</li><li>Repairs handled</li><li>The city</li></ul><p>Google's Maps content policy prohibits fake engagement: reviews must reflect a genuine experience, and businesses may not offer incentives, such as payment, discounts or free services, in exchange for a review or for removing a negative one. Ask every real customer, make it easy with a direct link, and reply to reviews.</p>"
+      "body_html": "<p>Reviews that mention the job, the neighborhood and the outcome help both Google and AI assistants describe you. Topics worth asking customers to mention:</p><ul><li>Reliability of weekly visits</li><li>Water quality</li><li>Communication and visit reports</li><li>Repairs handled</li><li>The city</li></ul><p>Google's Maps content policy prohibits <a href=\"https://thechimeraai.com/how-to-remove-fake-google-reviews/\">fake engagement</a>: reviews must reflect a genuine experience, and businesses may not offer incentives, such as payment, discounts or free services, in exchange for a review or for removing a negative one. Ask every real customer, make it easy with a direct link, and <a href=\"https://thechimeraai.com/how-to-respond-to-google-reviews/\">reply to reviews</a>.</p>"
     },
     {
       "heading": "Show trust signals on every page",
@@ -86,7 +86,7 @@
     },
     {
       "heading": "The short version",
-      "body_html": "<p>Pool service companies win with clear weekly service pages, route areas, equipment pages and reviews from loyal customers. Chimera, based in Anaheim, helps pool service companies across Orange County do this work.</p>"
+      "body_html": "<p>Pool service companies win with clear weekly service pages, route areas, equipment pages and reviews from loyal customers. <a href=\"https://thechimeraai.com/\">Chimera</a>, based in Anaheim, helps pool service companies across Orange County do this work.</p>"
     }
   ],
   "faqs": [
@@ -147,6 +147,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "SEO for cleaning companies",
+      "url": "https://thechimeraai.com/seo-for-cleaning-companies/"
+    },
+    {
+      "anchor": "SEO for water damage restoration",
+      "url": "https://thechimeraai.com/seo-for-water-damage-restoration/"
+    },
+    {
+      "anchor": "SEO for fence companies",
+      "url": "https://thechimeraai.com/seo-for-fence-companies/"
+    },
+    {
+      "anchor": "SEO for tree service companies",
+      "url": "https://thechimeraai.com/seo-for-tree-service-companies/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [
@@ -317,5 +337,5 @@
     "height": 840
   },
   "published": "2026-11-10",
-  "updated": "2026-11-10"
+  "updated": "2026-11-11"
 }

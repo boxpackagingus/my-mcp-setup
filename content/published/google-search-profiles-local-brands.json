@@ -30,11 +30,11 @@
     },
     {
       "heading": "What changed",
-      "body_html": "<p>In September 2026, Google announced updates to Search profiles: multi-account support so organizations can manage profiles for several sub-brands from one login, and an updated article view with optimized image thumbnails and longer headlines. Google also lowered the eligibility threshold for U.S. publishers and creators to 10,000 followers across YouTube, Instagram, X or TikTok.</p>"
+      "body_html": "<p>In September 2026, Google announced updates to Search profiles: multi-account support so organizations can manage profiles for several sub-brands from one login, and an updated article view with optimized image thumbnails and longer headlines. Google also lowered the eligibility threshold for U.S. publishers and creators to 10,000 followers across <a href=\"https://thechimeraai.com/youtube-for-ai-search/\">YouTube</a>, Instagram, X or TikTok.</p>"
     },
     {
       "heading": "Profiles in AI Mode",
-      "body_html": "<p>In October 2026, Google said it had started testing clickable creator and publisher names on video results in AI Mode that link directly to their Search profiles. That makes a profile part of how people learn who is behind content they see in AI answers.</p>"
+      "body_html": "<p>In October 2026, Google said it had started testing clickable creator and publisher names on video results in <a href=\"https://thechimeraai.com/how-to-optimize-for-google-ai-mode/\">AI Mode</a> that link directly to their Search profiles. That makes a profile part of how people learn who is behind content they see in AI answers.</p>"
     },
     {
       "heading": "Who should care in Orange County",
@@ -50,7 +50,7 @@
     },
     {
       "heading": "Keep your identity consistent",
-      "body_html": "<p>A Search profile works best when it matches your website, social accounts and, for local businesses, your Google Business Profile. Consistent names and descriptions help Google and AI assistants connect your content to you.</p>"
+      "body_html": "<p>A Search profile works best when it matches your website, social accounts and, for local businesses, your <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a>. Consistent names and descriptions help Google and AI assistants connect your content to you.</p>"
     },
     {
       "heading": "Profiles are not Business Profiles",
@@ -167,6 +167,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "How to Show Up in Google AI Overviews",
+      "url": "https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/"
+    },
+    {
+      "anchor": "Businesses in ChatGPT: claim your business",
+      "url": "https://thechimeraai.com/blog/businesses-in-chatgpt-claim-your-business/"
+    },
+    {
+      "anchor": "Gemini 4 Carbon arrives in AI Mode",
+      "url": "https://thechimeraai.com/blog/gemini-4-carbon-ai-mode-local-business/"
+    },
+    {
+      "anchor": "What Is Query Fan-Out? How AI Search Finds Sources",
+      "url": "https://thechimeraai.com/what-is-query-fan-out/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

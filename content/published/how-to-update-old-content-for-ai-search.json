@@ -30,7 +30,7 @@
     },
     {
       "heading": "Choose what to update first",
-      "body_html": "<ol><li><strong>Pages with impressions but few clicks</strong> in Search Console, especially for question-style queries.</li><li><strong>Pages that support sales</strong>: services, pricing, comparisons.</li><li><strong>Pages with outdated facts</strong> that could mislead readers or AI answers.</li><li><strong>Pages covering topics AI tools ask about</strong> in your category.</li></ol><p>Leave pages that perform well and are still accurate alone, or make only light improvements.</p>"
+      "body_html": "<ol><li><strong>Pages with impressions but few clicks</strong> in <a href=\"https://thechimeraai.com/blog/search-console-generative-ai-performance-report/\">Search Console</a>, especially for question-style queries.</li><li><strong>Pages that support sales</strong>: services, pricing, comparisons.</li><li><strong>Pages with outdated facts</strong> that could mislead readers or AI answers.</li><li><strong>Pages covering topics AI tools ask about</strong> in your category.</li></ol><p>Leave pages that perform well and are still accurate alone, or make only light improvements.</p>"
     },
     {
       "heading": "Step 1: rewrite the opening",
@@ -46,11 +46,11 @@
     },
     {
       "heading": "Step 4: add an FAQ and links",
-      "body_html": "<p>Add five to eight follow-up questions with short answers, drawn from Search Console queries, People Also Ask and sales conversations. Then review internal links: link to newer related pages, make sure the page's hub links to it, and use descriptive anchor text. Fix any broken links.</p>"
+      "body_html": "<p>Add five to eight follow-up questions with short answers, drawn from Search Console queries, People Also Ask and sales conversations. Then review <a href=\"https://thechimeraai.com/internal-linking-for-ai-search/\">internal links</a>: link to newer related pages, make sure the page's hub links to it, and use descriptive anchor text. Fix any broken links.</p>"
     },
     {
       "heading": "Step 5: technical checks",
-      "body_html": "<ul><li>Title and meta description reflect the updated content.</li><li>Structured data matches what is visible on the page.</li><li>The page is indexable, with no accidental noindex.</li><li>The updated date is shown honestly, only when the content really changed.</li><li>The page loads quickly and reads well on mobile.</li></ul>"
+      "body_html": "<ul><li>Title and meta description reflect the updated content.</li><li><a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">Structured data</a> matches what is visible on the page.</li><li>The page is indexable, with no accidental noindex.</li><li>The updated date is shown honestly, only when the content really changed.</li><li>The page loads quickly and reads well on mobile.</li></ul>"
     },
     {
       "heading": "Merge, redirect or remove",
@@ -66,7 +66,7 @@
     },
     {
       "heading": "A before-and-after example",
-      "body_html": "<p><strong>Before:</strong> a 2022 post titled \"Everything You Need to Know About Local SEO\" opens with three paragraphs about how the internet has changed, has headings such as \"The Basics\" and \"Going Further\", cites a statistic with no source, and ends with a generic call to action.</p><p><strong>After:</strong> the title becomes \"Local SEO for Service Businesses: What Matters in 2026\". It opens with a 50-word answer listing the four things that matter most, uses headings such as \"How do I get into the map results?\" and \"Do reviews still matter?\", replaces the old statistic with a current, sourced one, adds a short FAQ, links to the related service page and newer guides, and shows the review date. Same URL, very different usefulness.</p>"
+      "body_html": "<p><strong>Before:</strong> a 2022 post titled \"Everything You Need to Know About <a href=\"https://thechimeraai.com/local-seo-orange-county/\">Local SEO</a>\" opens with three paragraphs about how the internet has changed, has headings such as \"The Basics\" and \"Going Further\", cites a statistic with no source, and ends with a generic call to action.</p><p><strong>After:</strong> the title becomes \"Local SEO for Service Businesses: What Matters in 2026\". It opens with a 50-word answer listing the four things that matter most, uses headings such as \"How do I get into the map results?\" and \"Do reviews still matter?\", replaces the old statistic with a current, sourced one, adds a short FAQ, links to the related service page and newer guides, and shows the review date. Same URL, very different usefulness.</p>"
     },
     {
       "heading": "A simple tracking sheet",
@@ -78,7 +78,7 @@
     },
     {
       "heading": "The short version",
-      "body_html": "<p>Updating old content is often the fastest GEO win available. Start with pages that already earn impressions, put the answer first, correct and source every fact, add the questions buyers ask, link it properly and merge what overlaps. Then measure, learn which changes worked, and repeat on the next page.</p>"
+      "body_html": "<p>Updating old content is often the fastest <a href=\"https://thechimeraai.com/what-is-generative-engine-optimization-and-how-does-it-work/\">GEO</a> win available. Start with pages that already earn impressions, put the answer first, correct and source every fact, add the questions buyers ask, link it properly and merge what overlaps. Then measure, learn which changes worked, and repeat on the next page.</p>"
     }
   ],
   "faqs": [
@@ -143,6 +143,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "GEO Content Strategy: Plan Content AI Search Cites",
+      "url": "https://thechimeraai.com/geo-content-strategy/"
+    },
+    {
+      "anchor": "Content Length for AI Search",
+      "url": "https://thechimeraai.com/how-long-should-content-be-for-ai-search/"
+    },
+    {
+      "anchor": "How to Write Comparison Pages",
+      "url": "https://thechimeraai.com/how-to-write-comparison-pages/"
+    },
+    {
+      "anchor": "Topical Authority for AI Search: Build It Step by Step",
+      "url": "https://thechimeraai.com/topical-authority-for-ai-search/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

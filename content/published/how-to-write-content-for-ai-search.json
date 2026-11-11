@@ -30,7 +30,7 @@
     },
     {
       "heading": "Rule 1: Answer first",
-      "body_html": "<p>Open with the answer, in about 40 to 60 words, using the words the reader used. Then explain. Compare:</p><ul><li><strong>Weak opening:</strong> \"In today's fast-moving digital landscape, many businesses wonder about the cost of new marketing approaches...\"</li><li><strong>Strong opening:</strong> \"A GEO audit typically costs less than an ongoing program and takes one to two weeks. Price depends on how many buyer questions and AI engines are tested and how deep the technical review goes.\"</li></ul><p>The strong version can be quoted as an answer on its own. The weak version cannot.</p>"
+      "body_html": "<p>Open with the answer, in about 40 to 60 words, using the words the reader used. Then explain. Compare:</p><ul><li><strong>Weak opening:</strong> \"In today's fast-moving digital landscape, many businesses wonder about the cost of new marketing approaches...\"</li><li><strong>Strong opening:</strong> \"A <a href=\"https://thechimeraai.com/what-is-generative-engine-optimization-and-how-does-it-work/\">GEO</a> audit typically costs less than an ongoing program and takes one to two weeks. Price depends on how many buyer questions and AI engines are tested and how deep the technical review goes.\"</li></ul><p>The strong version can be quoted as an answer on its own. The weak version cannot.</p>"
     },
     {
       "heading": "Rule 2: Write self-contained passages",
@@ -54,7 +54,7 @@
     },
     {
       "heading": "Before and after: rewriting a section",
-      "body_html": "<p><strong>Before:</strong> <em>\"There are a lot of things to think about when it comes to timelines, and every project is different, but generally speaking things can move fairly quickly if everything goes well.\"</em></p><p><strong>After:</strong> <em>\"Most GEO programs show first citations within one to three months. Technical fixes such as unblocking AI crawlers take days; new pages need to be crawled and indexed first; broader visibility builds over three to six months as authority grows.\"</em></p><p>The rewrite answers the question in its first sentence, gives concrete ranges, explains why, and can be quoted on its own. Apply the same edit to every section that hedges, and your page becomes far easier to cite.</p>"
+      "body_html": "<p><strong>Before:</strong> <em>\"There are a lot of things to think about when it comes to timelines, and every project is different, but generally speaking things can move fairly quickly if everything goes well.\"</em></p><p><strong>After:</strong> <em>\"Most GEO programs show first citations within one to three months. Technical fixes such as unblocking <a href=\"https://thechimeraai.com/ai-crawler-user-agents/\">AI crawlers</a> take days; new pages need to be crawled and indexed first; broader visibility builds over three to six months as authority grows.\"</em></p><p>The rewrite answers the question in its first sentence, gives concrete ranges, explains why, and can be quoted on its own. Apply the same edit to every section that hedges, and your page becomes far easier to cite.</p>"
     },
     {
       "heading": "Updating content so it stays citable",
@@ -111,6 +111,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Multimodal search data in Search Console",
+      "url": "https://thechimeraai.com/blog/search-console-multimodal-search-report/"
+    },
+    {
+      "anchor": "FAQ Pages for AI Search: How to Write Them Well",
+      "url": "https://thechimeraai.com/faq-pages-for-ai-search/"
+    },
+    {
+      "anchor": "GEO Content Strategy: Plan Content AI Search Cites",
+      "url": "https://thechimeraai.com/geo-content-strategy/"
+    },
+    {
+      "anchor": "Does Google Penalize AI Content? What Google Says",
+      "url": "https://thechimeraai.com/does-google-penalize-ai-content/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

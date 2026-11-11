@@ -30,7 +30,7 @@
     },
     {
       "heading": "The llms.txt format",
-      "body_html": "<p>The proposal defines a small, predictable structure:</p><ol><li><strong>An H1 with the name</strong> of the site or project. This is the only required part.</li><li><strong>A blockquote</strong> with a short summary of what the site is and who it is for.</li><li><strong>Optional paragraphs</strong> with any other context a model should know.</li><li><strong>H2 sections</strong> containing lists of links, each in the form <code>- [Title](URL): short description</code>.</li><li><strong>An optional section named \"Optional\"</strong> for links a tool can skip when it needs to save space.</li></ol><p>A minimal example for a service business:</p><blockquote><code># Chimera<br>&gt; Generative Engine Optimization agency in Orange County, CA.<br><br>## Services<br>- [AI Visibility Audit](https://example.com/audit.md): what the audit covers and how to book it<br><br>## Guides<br>- [GEO vs SEO](https://example.com/geo-vs-seo.md): the differences and how they work together</code></blockquote>"
+      "body_html": "<p>The proposal defines a small, predictable structure:</p><ol><li><strong>An H1 with the name</strong> of the site or project. This is the only required part.</li><li><strong>A blockquote</strong> with a short summary of what the site is and who it is for.</li><li><strong>Optional paragraphs</strong> with any other context a model should know.</li><li><strong>H2 sections</strong> containing lists of links, each in the form <code>- [Title](URL): short description</code>.</li><li><strong>An optional section named \"Optional\"</strong> for links a tool can skip when it needs to save space.</li></ol><p>A minimal example for a service business:</p><blockquote><code># <a href=\"https://thechimeraai.com/\">Chimera</a><br>&gt; Generative Engine Optimization agency in Orange County, CA.<br><br>## Services<br>- [AI Visibility Audit](https://example.com/audit.md): what the audit covers and how to book it<br><br>## Guides<br>- [GEO vs SEO](https://example.com/geo-vs-seo.md): the differences and how they work together</code></blockquote>"
     },
     {
       "heading": "llms.txt best practices for content",
@@ -38,11 +38,11 @@
     },
     {
       "heading": "llms.txt vs robots.txt vs sitemap.xml",
-      "body_html": "<table><tr><th>File</th><th>Purpose</th><th>Audience</th></tr><tr><td><code>robots.txt</code></td><td>Tells crawlers what they may and may not fetch</td><td>Search and AI crawlers</td></tr><tr><td><code>sitemap.xml</code></td><td>Lists every URL you want indexed, with update dates</td><td>Search engines</td></tr><tr><td><code>llms.txt</code></td><td>Curated, described map of your most useful content</td><td>AI tools and language models</td></tr><tr><td><code>llms-full.txt</code></td><td>A common extension: the full text of key pages in one file</td><td>AI tools that want everything at once</td></tr></table><p>They work together. <code>robots.txt</code> must allow the crawlers you want; the sitemap makes sure pages are discovered and indexed; <code>llms.txt</code> points AI tools to the best of them. A page blocked in robots.txt gains nothing from being listed in llms.txt.</p>"
+      "body_html": "<table><tr><th>File</th><th>Purpose</th><th>Audience</th></tr><tr><td><code><a href=\"https://thechimeraai.com/robots-txt-for-ai-crawlers/\">robots.txt</a></code></td><td>Tells crawlers what they may and may not fetch</td><td>Search and <a href=\"https://thechimeraai.com/ai-crawler-user-agents/\">AI crawlers</a></td></tr><tr><td><code>sitemap.xml</code></td><td>Lists every URL you want indexed, with update dates</td><td>Search engines</td></tr><tr><td><code>llms.txt</code></td><td>Curated, described map of your most useful content</td><td>AI tools and language models</td></tr><tr><td><code>llms-full.txt</code></td><td>A common extension: the full text of key pages in one file</td><td>AI tools that want everything at once</td></tr></table><p>They work together. <code>robots.txt</code> must allow the crawlers you want; the sitemap makes sure pages are discovered and indexed; <code>llms.txt</code> points AI tools to the best of them. A page blocked in robots.txt gains nothing from being listed in llms.txt.</p>"
     },
     {
       "heading": "How much does llms.txt help today?",
-      "body_html": "<p>Be realistic. llms.txt is a community proposal, not an official web standard, and AI companies have not all said they use it. Some developer tools and documentation platforms read it, and adoption is growing, but there is no public evidence that it alone moves your visibility in ChatGPT, Gemini or Google AI Overviews.</p><p>Google, for example, says there are no special requirements for its AI features beyond normal Search eligibility. So think of llms.txt as cheap groundwork: quick to create, harmless when accurate, and potentially useful as more tools adopt it. The work that clearly moves AI visibility is still crawl access, strong pages and brand authority.</p>"
+      "body_html": "<p>Be realistic. llms.txt is a community proposal, not an official web standard, and AI companies have not all said they use it. Some developer tools and documentation platforms read it, and adoption is growing, but there is no public evidence that it alone moves your visibility in <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a>, <a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a> or Google <a href=\"https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/\">AI Overviews</a>.</p><p>Google, for example, says there are no special requirements for its AI features beyond normal Search eligibility. So think of llms.txt as cheap groundwork: quick to create, harmless when accurate, and potentially useful as more tools adopt it. The work that clearly moves AI visibility is still crawl access, strong pages and brand authority.</p>"
     },
     {
       "heading": "Step-by-step: create your llms.txt",
@@ -103,6 +103,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Google's shared AI training control in robots.txt",
+      "url": "https://thechimeraai.com/blog/google-ai-training-control-robots-txt/"
+    },
+    {
+      "anchor": "Copilot SEO: How to Get Cited by Microsoft Copilot",
+      "url": "https://thechimeraai.com/microsoft-copilot-seo/"
+    },
+    {
+      "anchor": "How ChatGPT Recommends Local Businesses",
+      "url": "https://thechimeraai.com/how-chatgpt-recommends-local-businesses/"
+    },
+    {
+      "anchor": "Google Search profiles for local brands",
+      "url": "https://thechimeraai.com/blog/google-search-profiles-local-brands/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

@@ -42,7 +42,7 @@
     },
     {
       "heading": "Reviews and questions",
-      "body_html": "<p>Genuine customer reviews give AI tools and shoppers real-world evidence: how it fits, how it holds up, what people like and dislike. Encourage reviews after purchase, display them on the page, and answer common product questions in a Q&A or FAQ section. Never write fake reviews or hide negative ones selectively.</p>"
+      "body_html": "<p>Genuine customer reviews give AI tools and shoppers real-world evidence: how it fits, how it holds up, what people like and dislike. Encourage reviews after purchase, display them on the page, and answer common product questions in a Q&A or FAQ section. Never write <a href=\"https://thechimeraai.com/how-to-remove-fake-google-reviews/\">fake reviews</a> or hide negative ones selectively.</p>"
     },
     {
       "heading": "Price, availability and policies",
@@ -50,7 +50,7 @@
     },
     {
       "heading": "Product structured data",
-      "body_html": "<p>Google's documentation describes two classes of product structured data: Product snippets, for pages where people cannot directly buy the product, such as reviews, and Merchant listings, for pages where customers can buy from you, with more options for details like price, availability, shipping and returns. Use the type that fits your page, based on schema.org's <code>Product</code>, and make sure everything in the markup matches what shoppers see.</p>"
+      "body_html": "<p>Google's documentation describes two classes of product <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a>: Product snippets, for pages where people cannot directly buy the product, such as reviews, and Merchant listings, for pages where customers can buy from you, with more options for details like price, availability, shipping and returns. Use the type that fits your page, based on schema.org's <code>Product</code>, and make sure everything in the markup matches what shoppers see.</p>"
     },
     {
       "heading": "Product feeds and marketplaces",
@@ -147,6 +147,22 @@
     {
       "anchor": "multimodal search in Search Console",
       "url": "https://thechimeraai.com/blog/search-console-multimodal-search-report/"
+    },
+    {
+      "anchor": "Google Universal Cart for OC retailers",
+      "url": "https://thechimeraai.com/blog/google-universal-cart-orange-county-retailers/"
+    },
+    {
+      "anchor": "SEO for Shopify stores",
+      "url": "https://thechimeraai.com/seo-for-shopify-stores/"
+    },
+    {
+      "anchor": "Google Holiday 100 for OC retailers",
+      "url": "https://thechimeraai.com/blog/google-holiday-100-orange-county-retailers/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

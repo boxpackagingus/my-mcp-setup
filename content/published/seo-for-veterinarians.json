@@ -34,7 +34,7 @@
     },
     {
       "heading": "How Google ranks veterinarians in local results",
-      "body_html": "<p>Google publishes the basics of how local results work. According to its Business Profile help, results are mainly based on relevance, distance and popularity. Prominence, in Google's words, is how well-known a business is, which draws on links from other websites and on reviews, and more reviews and positive ratings can help. Google also states plainly that nobody can request or pay for a better local ranking.</p><p>Distance matters for routine and emergency care; relevance improves with listed services; reviews drive prominence.</p>"
+      "body_html": "<p>Google publishes the basics of how local results work. According to its Business Profile help, results are mainly based on relevance, distance and popularity. Prominence, in Google's words, is how well-known a business is, which draws on links from other websites and on reviews, and <a href=\"https://thechimeraai.com/how-to-get-more-google-reviews/\">more reviews</a> and positive ratings can help. Google also states plainly that nobody can request or pay for a better local ranking.</p><p>Distance matters for routine and emergency care; relevance improves with listed services; reviews drive prominence.</p>"
     },
     {
       "heading": "How AI assistants choose a veterinary clinic",
@@ -46,7 +46,7 @@
     },
     {
       "heading": "Set up your Google Business Profile properly",
-      "body_html": "<p>Use Veterinarian as the primary category, list services, keep hours, including holidays, accurate, and add clinic photos.</p><p>If you work at customers' homes, Google's guidelines treat you as a service-area business: one profile for your central office or location, with a service area set. Virtual offices, meaning rented addresses you do not work from, are not eligible, and neither are P.O. boxes. Use your real-world business name, the one on your signage and invoices, with no added keywords.</p>"
+      "body_html": "<p>Use Veterinarian as the <a href=\"https://thechimeraai.com/google-business-profile-categories/\">primary category</a>, list services, keep hours, including holidays, accurate, and add clinic photos.</p><p>If you work at customers' homes, Google's guidelines treat you as a <a href=\"https://thechimeraai.com/service-area-business-seo/\">service-area business</a>: one profile for your central office or location, with a <a href=\"https://thechimeraai.com/google-business-profile-service-area/\">service area</a> set. Virtual offices, meaning rented addresses you do not work from, are not eligible, and neither are P.O. boxes. Use your real-world business name, the one on your signage and invoices, with no added keywords.</p>"
     },
     {
       "heading": "Build one page per service",
@@ -58,7 +58,7 @@
     },
     {
       "heading": "Earn reviews that mention the details",
-      "body_html": "<p>Reviews that mention the job, the neighborhood and the outcome help both Google and AI assistants describe you. Topics worth asking customers to mention:</p><ul><li>Care for the pet</li><li>Communication</li><li>Wait times</li><li>Staff kindness</li><li>Clarity on costs</li></ul><p>Stay inside Google's rules. Its Maps content policy bans fake engagement and says reviews must come from genuine experiences. Offering payment, discounts or free services for a review, or for removing a bad one, is not allowed. The safe method is simple: ask every real customer, send a direct review link and reply to what people write.</p>"
+      "body_html": "<p>Reviews that mention the job, the neighborhood and the outcome help both Google and AI assistants describe you. Topics worth asking customers to mention:</p><ul><li>Care for the pet</li><li>Communication</li><li>Wait times</li><li>Staff kindness</li><li>Clarity on costs</li></ul><p>Stay inside Google's rules. Its Maps content policy bans <a href=\"https://thechimeraai.com/how-to-remove-fake-google-reviews/\">fake engagement</a> and says reviews must come from genuine experiences. Offering payment, discounts or free services for a review, or for removing a bad one, is not allowed. The safe method is simple: ask every real customer, send a direct review link and reply to what people write.</p>"
     },
     {
       "heading": "Show trust signals on every page",
@@ -86,7 +86,7 @@
     },
     {
       "heading": "The short version",
-      "body_html": "<p>Vets win with clear service pages, accurate hours and emergency information, vet bios and genuine reviews. Chimera, based in Anaheim, helps veterinarians across Orange County do this work.</p>"
+      "body_html": "<p>Vets win with clear service pages, accurate hours and emergency information, vet bios and genuine reviews. <a href=\"https://thechimeraai.com/\">Chimera</a>, based in Anaheim, helps veterinarians across Orange County do this work.</p>"
     }
   ],
   "faqs": [
@@ -151,6 +151,26 @@
     {
       "anchor": "SEO for dog trainers",
       "url": "https://thechimeraai.com/seo-for-dog-trainers/"
+    },
+    {
+      "anchor": "SEO for senior living",
+      "url": "https://thechimeraai.com/seo-for-senior-living/"
+    },
+    {
+      "anchor": "SEO for physical therapists",
+      "url": "https://thechimeraai.com/seo-for-physical-therapists/"
+    },
+    {
+      "anchor": "GEO for Med Spas: Get Recommended by AI Search",
+      "url": "https://thechimeraai.com/geo-for-med-spas/"
+    },
+    {
+      "anchor": "GEO for Dentists: Get Recommended in AI Search",
+      "url": "https://thechimeraai.com/geo-for-dentists/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [
@@ -321,5 +341,5 @@
     "height": 840
   },
   "published": "2026-11-10",
-  "updated": "2026-11-10"
+  "updated": "2026-11-11"
 }

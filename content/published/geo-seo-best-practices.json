@@ -26,7 +26,7 @@
   "sections": [
     {
       "heading": "Access and indexing (1–4)",
-      "body_html": "<ol><li><strong>Allow the crawlers you want to be cited by.</strong> Check robots.txt for Googlebot and Bingbot, OpenAI's OAI-SearchBot, PerplexityBot and others. Also check firewall, CDN and security-plugin rules, which often block bots silently.</li><li><strong>Get every important page indexed.</strong> Use URL Inspection in Google Search Console and Bing Webmaster Tools. A page that is not indexed by search engines is rarely used by AI engines that depend on them.</li><li><strong>Keep content in the HTML.</strong> Text that only appears after heavy JavaScript, inside images, or behind tabs and logins is harder for crawlers to read.</li><li><strong>Announce new pages fast.</strong> Keep an accurate XML sitemap, link new pages from existing ones, and use IndexNow to notify participating engines such as Bing as soon as a page is published.</li></ol>"
+      "body_html": "<ol><li><strong>Allow the crawlers you want to be cited by.</strong> Check <a href=\"https://thechimeraai.com/robots-txt-for-ai-crawlers/\">robots.txt</a> for Googlebot and Bingbot, OpenAI's OAI-SearchBot, PerplexityBot and others. Also check firewall, CDN and security-plugin rules, which often block bots silently.</li><li><strong>Get every important page indexed.</strong> Use URL Inspection in Google Search Console and Bing Webmaster Tools. A page that is not indexed by search engines is rarely used by AI engines that depend on them.</li><li><strong>Keep content in the HTML.</strong> Text that only appears after heavy JavaScript, inside images, or behind tabs and logins is harder for crawlers to read.</li><li><strong>Announce new pages fast.</strong> Keep an accurate XML sitemap, link new pages from existing ones, and use IndexNow to notify participating engines such as Bing as soon as a page is published.</li></ol>"
     },
     {
       "heading": "Page structure (5–8)",
@@ -38,15 +38,15 @@
     },
     {
       "heading": "Structured data and machine-readable files (12–13)",
-      "body_html": "<ol start=\"12\"><li><strong>Add accurate schema.</strong> Organization and LocalBusiness or Service on core pages; Article and FAQPage on guides; BreadcrumbList site-wide. Make sure markup matches what is visible on the page.</li><li><strong>Publish llms.txt.</strong> A short Markdown file at your root that summarizes your business and lists your most useful pages, ideally with clean text copies. It is a young proposal, so treat it as low-cost groundwork rather than a ranking factor.</li></ol>"
+      "body_html": "<ol start=\"12\"><li><strong>Add accurate schema.</strong> Organization and LocalBusiness or Service on core pages; Article and FAQPage on guides; BreadcrumbList site-wide. Make sure markup matches what is visible on the page.</li><li><strong>Publish <a href=\"https://thechimeraai.com/best-practices-for-llms-txt/\">llms.txt</a>.</strong> A short Markdown file at your root that summarizes your business and lists your most useful pages, ideally with clean text copies. It is a young proposal, so treat it as low-cost groundwork rather than a ranking factor.</li></ol>"
     },
     {
       "heading": "Authority and measurement (14–15)",
-      "body_html": "<ol start=\"14\"><li><strong>Build consistent brand signals.</strong> Describe what you do the same way on your site, profiles, directories and partner pages. Earn mentions in publications, reviews and community discussions your buyers read. AI engines recommend brands they can confidently describe.</li><li><strong>Measure what matters.</strong> Test a fixed list of buyer questions in ChatGPT, Perplexity, Gemini and Google AI Overviews every month, recording mentions and citations. Group visits from AI referrers into one analytics channel. Tie leads to landing pages and sources.</li></ol>"
+      "body_html": "<ol start=\"14\"><li><strong>Build consistent brand signals.</strong> Describe what you do the same way on your site, profiles, directories and partner pages. Earn mentions in publications, reviews and community discussions your buyers read. AI engines recommend brands they can confidently describe.</li><li><strong>Measure what matters.</strong> Test a fixed list of buyer questions in ChatGPT, <a href=\"https://thechimeraai.com/perplexity-seo/\">Perplexity</a>, Gemini and Google <a href=\"https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/\">AI Overviews</a> every month, recording mentions and citations. Group visits from AI referrers into one analytics channel. Tie leads to landing pages and sources.</li></ol>"
     },
     {
       "heading": "The checklist at a glance",
-      "body_html": "<table><tr><th>#</th><th>Practice</th><th>Quick test</th></tr><tr><td>1</td><td>Allow search and AI crawlers</td><td>robots.txt and firewall allow OAI-SearchBot, PerplexityBot, Googlebot, Bingbot</td></tr><tr><td>2</td><td>Index key pages</td><td>URL Inspection shows \"URL is on Google\"</td></tr><tr><td>3</td><td>Content in HTML</td><td>Main text visible with JavaScript disabled</td></tr><tr><td>4</td><td>Fast discovery</td><td>Sitemap current; IndexNow enabled</td></tr><tr><td>5</td><td>Answer first</td><td>Answer appears in the first two sentences</td></tr><tr><td>6</td><td>Question headings</td><td>Headings match real follow-up questions</td></tr><tr><td>7</td><td>Self-contained sections</td><td>Each section reads well alone</td></tr><tr><td>8</td><td>Tables and lists</td><td>Comparisons and steps are structured</td></tr><tr><td>9</td><td>Sourced facts</td><td>Every statistic links to a source</td></tr><tr><td>10</td><td>Experience</td><td>Real examples and trade-offs included</td></tr><tr><td>11</td><td>Quality over volume</td><td>No near-duplicate or thin pages</td></tr><tr><td>12</td><td>Accurate schema</td><td>Rich Results Test passes; markup matches the page</td></tr><tr><td>13</td><td>llms.txt</td><td>/llms.txt loads and lists key pages</td></tr><tr><td>14</td><td>Brand consistency</td><td>Same description across site and profiles</td></tr><tr><td>15</td><td>Measurement</td><td>AI channel in analytics; monthly question test</td></tr></table>"
+      "body_html": "<table><tr><th>#</th><th>Practice</th><th>Quick test</th></tr><tr><td>1</td><td>Allow search and <a href=\"https://thechimeraai.com/ai-crawler-user-agents/\">AI crawlers</a></td><td>robots.txt and firewall allow OAI-SearchBot, PerplexityBot, Googlebot, Bingbot</td></tr><tr><td>2</td><td>Index key pages</td><td>URL Inspection shows \"URL is on Google\"</td></tr><tr><td>3</td><td>Content in HTML</td><td>Main text visible with JavaScript disabled</td></tr><tr><td>4</td><td>Fast discovery</td><td>Sitemap current; IndexNow enabled</td></tr><tr><td>5</td><td>Answer first</td><td>Answer appears in the first two sentences</td></tr><tr><td>6</td><td>Question headings</td><td>Headings match real follow-up questions</td></tr><tr><td>7</td><td>Self-contained sections</td><td>Each section reads well alone</td></tr><tr><td>8</td><td>Tables and lists</td><td>Comparisons and steps are structured</td></tr><tr><td>9</td><td>Sourced facts</td><td>Every statistic links to a source</td></tr><tr><td>10</td><td>Experience</td><td>Real examples and trade-offs included</td></tr><tr><td>11</td><td>Quality over volume</td><td>No near-duplicate or thin pages</td></tr><tr><td>12</td><td>Accurate schema</td><td>Rich Results Test passes; markup matches the page</td></tr><tr><td>13</td><td>llms.txt</td><td>/llms.txt loads and lists key pages</td></tr><tr><td>14</td><td>Brand consistency</td><td>Same description across site and profiles</td></tr><tr><td>15</td><td>Measurement</td><td>AI channel in analytics; monthly question test</td></tr></table>"
     },
     {
       "heading": "How to prioritize if you have limited time",
@@ -107,6 +107,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Search Console's generative AI performance report",
+      "url": "https://thechimeraai.com/blog/search-console-generative-ai-performance-report/"
+    },
+    {
+      "anchor": "AI Search Optimization Checklist: 40 Steps for 2026",
+      "url": "https://thechimeraai.com/ai-search-optimization-checklist/"
+    },
+    {
+      "anchor": "How Much Does GEO Cost? Pricing Models and What Drives Price",
+      "url": "https://thechimeraai.com/how-much-does-geo-cost/"
+    },
+    {
+      "anchor": "AEO vs GEO: What's the Difference?",
+      "url": "https://thechimeraai.com/answer-engine-optimization-vs-generative-engine-optimization/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

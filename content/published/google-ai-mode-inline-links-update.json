@@ -26,7 +26,7 @@
   "sections": [
     {
       "heading": "What changed",
-      "body_html": "<p>On October 15, 2026, Google announced updates across its AI search features, AI Mode and AI Overviews, aimed at helping people explore the web. The changes include more inline links inside AI responses, inline links shown higher up, a test of a dedicated section for official websites, wider rollout of carousels for timely articles, more prominent related links with image thumbnails and clickable creator and publisher names on video results.</p>"
+      "body_html": "<p>On October 15, 2026, Google announced updates across its AI search features, <a href=\"https://thechimeraai.com/how-to-optimize-for-google-ai-mode/\">AI Mode</a> and <a href=\"https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/\">AI Overviews</a>, aimed at helping people explore the web. The changes include more inline links inside AI responses, inline links shown higher up, a test of a dedicated section for official websites, wider rollout of carousels for timely articles, more prominent related links with image thumbnails and clickable creator and publisher names on video results.</p>"
     },
     {
       "heading": "What inline links are",
@@ -34,7 +34,7 @@
     },
     {
       "heading": "Why this matters for clicks",
-      "body_html": "<p>Clicks from AI answers have been scarce. In Pew Research Center's March 2025 browsing data from 900 U.S. adults, people clicked a link inside Google's AI summary on just 1% of visits that showed one, and clicked any search result on 8% of those visits, compared with 15% when no summary appeared. More visible inline links are Google's attempt to change that pattern. Whether it works will show up in your own Search Console data over the coming months.</p>"
+      "body_html": "<p>Clicks from AI answers have been scarce. In Pew Research Center's March 2025 browsing data from 900 U.S. adults, people clicked a link inside Google's AI summary on just 1% of visits that showed one, and clicked any search result on 8% of those visits, compared with 15% when no summary appeared. More visible inline links are Google's attempt to change that pattern. Whether it works will show up in your own <a href=\"https://thechimeraai.com/blog/search-console-generative-ai-performance-report/\">Search Console</a> data over the coming months.</p>"
     },
     {
       "heading": "The official websites section",
@@ -54,7 +54,7 @@
     },
     {
       "heading": "Step 2: be the official source",
-      "body_html": "<p>Make your website the definitive place for facts about your business. A clear About page, a services page per service, a contact page with your Anaheim or Orange County address, and Organization or LocalBusiness structured data that matches. Keep your Google Business Profile consistent with the site. If a directory or old listing disagrees with your site, fix it.</p>"
+      "body_html": "<p>Make your website the definitive place for facts about your business. A clear About page, a services page per service, a contact page with your Anaheim or Orange County address, and Organization or LocalBusiness <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a> that matches. Keep your <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a> consistent with the site. If a directory or old listing disagrees with your site, fix it.</p>"
     },
     {
       "heading": "Step 3: publish timely, useful updates",
@@ -139,6 +139,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "What Is Query Fan-Out? How AI Search Finds Sources",
+      "url": "https://thechimeraai.com/what-is-query-fan-out/"
+    },
+    {
+      "anchor": "Google's October 2026 AI updates",
+      "url": "https://thechimeraai.com/blog/google-october-2026-ai-updates-local-business/"
+    },
+    {
+      "anchor": "Gemini 4 Carbon arrives in AI Mode",
+      "url": "https://thechimeraai.com/blog/gemini-4-carbon-ai-mode-local-business/"
+    },
+    {
+      "anchor": "AI Overviews vs Featured Snippets: What's the Difference?",
+      "url": "https://thechimeraai.com/ai-overviews-vs-featured-snippets/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

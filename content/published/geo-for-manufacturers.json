@@ -34,7 +34,7 @@
     },
     {
       "heading": "Get specifications out of PDFs",
-      "body_html": "<p>Many manufacturers keep data sheets and specifications only in PDFs or images. Publish key specifications as text and tables on web pages, and keep the PDF as a download. For products, Google's product structured data documentation and schema.org's <code>Product</code> type support properties such as name, description, brand and identifiers, which help machines understand your catalog.</p>"
+      "body_html": "<p>Many manufacturers keep data sheets and specifications only in PDFs or images. Publish key specifications as text and tables on web pages, and keep the PDF as a download. For products, Google's product <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a> documentation and schema.org's <code>Product</code> type support properties such as name, description, brand and identifiers, which help machines understand your catalog.</p>"
     },
     {
       "heading": "Application and comparison guides",
@@ -46,7 +46,7 @@
     },
     {
       "heading": "Make RFQs easy",
-      "body_html": "<p>When AI tools send a buyer to your site, the next step should be obvious. Explain what information you need for a quote, which file formats you accept and how quickly you respond. A clear request-for-quote process converts more of the qualified traffic GEO brings.</p>"
+      "body_html": "<p>When AI tools send a buyer to your site, the next step should be obvious. Explain what information you need for a quote, which file formats you accept and how quickly you respond. A clear request-for-quote process converts more of the qualified traffic <a href=\"https://thechimeraai.com/what-is-generative-engine-optimization-and-how-does-it-work/\">GEO</a> brings.</p>"
     },
     {
       "heading": "Where to start",
@@ -139,6 +139,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "GEO for Real Estate Agents: Win AI Search Answers",
+      "url": "https://thechimeraai.com/geo-for-real-estate-agents/"
+    },
+    {
+      "anchor": "AI Search for B2B Lead Generation: A Practical Plan",
+      "url": "https://thechimeraai.com/ai-search-for-b2b-lead-generation/"
+    },
+    {
+      "anchor": "GEO for Financial Advisors: Be Recommended by AI",
+      "url": "https://thechimeraai.com/geo-for-financial-advisors/"
+    },
+    {
+      "anchor": "GEO for Startups: Get Cited by AI From Day One",
+      "url": "https://thechimeraai.com/geo-for-startups/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

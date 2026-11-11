@@ -26,11 +26,11 @@
   "sections": [
     {
       "heading": "Why people are asking whether SEO is dead",
-      "body_html": "<p>The question is everywhere because search behavior visibly changed. ChatGPT reported 800 million weekly users in October 2025, and Google says AI Overviews reach more than 2 billion people a month. Pew Research Center found that when an AI summary appeared, people clicked a traditional result in 8% of visits, compared with 15% without one. If fewer people click, the reasoning goes, optimizing to be clicked must be pointless.</p><p>The data supports part of that worry. It does not support the conclusion.</p>"
+      "body_html": "<p>The question is everywhere because search behavior visibly changed. ChatGPT reported 800 million weekly users in October 2025, and Google says <a href=\"https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/\">AI Overviews</a> reach more than 2 billion people a month. Pew Research Center found that when an AI summary appeared, people clicked a traditional result in 8% of visits, compared with 15% without one. If fewer people click, the reasoning goes, optimizing to be clicked must be pointless.</p><p>The data supports part of that worry. It does not support the conclusion.</p>"
     },
     {
       "heading": "What AI search is built on",
-      "body_html": "<p>AI answers do not come from nowhere. Google states that AI Overviews and AI Mode surface links from its index, and that the best practices for SEO remain relevant: there are no additional requirements to appear in them. ChatGPT search and Perplexity use their own crawlers to find and read pages, and Microsoft Copilot is grounded in Bing's results.</p><p>That means the work that gets a page crawled, indexed and judged trustworthy is the same work that makes it eligible to be cited in an AI answer. A page that search engines cannot find, or do not trust, will not be quoted by the AI built on top of them.</p>"
+      "body_html": "<p>AI answers do not come from nowhere. Google states that AI Overviews and <a href=\"https://thechimeraai.com/how-to-optimize-for-google-ai-mode/\">AI Mode</a> surface links from its index, and that the best practices for SEO remain relevant: there are no additional requirements to appear in them. ChatGPT search and <a href=\"https://thechimeraai.com/perplexity-seo/\">Perplexity</a> use their own crawlers to find and read pages, and <a href=\"https://thechimeraai.com/microsoft-copilot-seo/\">Microsoft Copilot</a> is grounded in Bing's results.</p><p>That means the work that gets a page crawled, indexed and judged trustworthy is the same work that makes it eligible to be cited in an AI answer. A page that search engines cannot find, or do not trust, will not be quoted by the AI built on top of them.</p>"
     },
     {
       "heading": "What has actually changed",
@@ -38,7 +38,7 @@
     },
     {
       "heading": "What still works",
-      "body_html": "<p>The fundamentals are, if anything, more important: fast, crawlable pages; clear structure; content that answers real questions from genuine expertise; accurate structured data; and a reputation built by other sites mentioning you. Google's guidance on helpful, people-first content is still the best summary of what it wants to show, in classic results and AI features alike.</p><p>What works less well is thin content written to capture a keyword without adding anything. AI answers absorb that kind of page easily, and there is little reason to cite it.</p>"
+      "body_html": "<p>The fundamentals are, if anything, more important: fast, crawlable pages; clear structure; content that answers real questions from genuine expertise; accurate <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a>; and a reputation built by other sites mentioning you. Google's guidance on helpful, people-first content is still the best summary of what it wants to show, in classic results and AI features alike.</p><p>What works less well is thin content written to capture a keyword without adding anything. AI answers absorb that kind of page easily, and there is little reason to cite it.</p>"
     },
     {
       "heading": "What stopped working",
@@ -111,6 +111,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Google's free SEO learning paths",
+      "url": "https://thechimeraai.com/blog/google-seo-learning-paths-small-business/"
+    },
+    {
+      "anchor": "How to Write Content for AI Search: A Writer's Guide",
+      "url": "https://thechimeraai.com/how-to-write-content-for-ai-search/"
+    },
+    {
+      "anchor": "What Is Generative Engine Optimization (GEO)?",
+      "url": "https://thechimeraai.com/what-is-generative-engine-optimization-and-how-does-it-work/"
+    },
+    {
+      "anchor": "GEO vs PPC: Which Should Your Business Invest In?",
+      "url": "https://thechimeraai.com/geo-vs-ppc/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

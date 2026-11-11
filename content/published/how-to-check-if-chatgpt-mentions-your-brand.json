@@ -50,7 +50,7 @@
     },
     {
       "heading": "A sample question set to copy",
-      "body_html": "<p>Here is a starting set for a GEO agency, to show the shape. Swap in your own category, audience and location:</p><ol><li>What is generative engine optimization?</li><li>How do I get my brand recommended by ChatGPT?</li><li>Best GEO agencies for e-commerce brands</li><li>GEO agency in Orange County</li><li>GEO vs SEO: which do I need?</li><li>How much does a GEO audit cost?</li><li>How long does GEO take to work?</li><li>Which agencies help brands show up in Google AI Overviews?</li></ol><p>Notice the mix: definitions, how-to questions, comparisons, local searches and price questions. Each stage of the buying journey needs at least a few questions, or you will miss where you are winning or losing.</p>"
+      "body_html": "<p>Here is a starting set for a GEO agency, to show the shape. Swap in your own category, audience and location:</p><ol><li>What is generative engine optimization?</li><li>How do I get my brand <a href=\"https://thechimeraai.com/how-chatgpt-recommends-local-businesses/\">recommended by ChatGPT</a>?</li><li>Best GEO agencies for e-commerce brands</li><li>GEO agency in Orange County</li><li>GEO vs SEO: which do I need?</li><li>How much does a GEO audit cost?</li><li>How long does GEO take to work?</li><li>Which agencies help brands show up in Google <a href=\"https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/\">AI Overviews</a>?</li></ol><p>Notice the mix: definitions, how-to questions, comparisons, local searches and price questions. Each stage of the buying journey needs at least a few questions, or you will miss where you are winning or losing.</p>"
     },
     {
       "heading": "How to read the results",
@@ -58,11 +58,11 @@
     },
     {
       "heading": "How often to check, and who should own it",
-      "body_html": "<p>Monthly is the right rhythm for most businesses. AI answers shift as engines update their models and indexes, but week-to-week noise can hide the real trend. A monthly run of the same question set, done by the same person in the same way, produces numbers you can trust.</p><ul><li><strong>Owner:</strong> whoever runs marketing or SEO, so findings turn into page changes quickly.</li><li><strong>Time needed:</strong> about two hours a month for a 30-question set across ChatGPT, Perplexity and Gemini.</li><li><strong>Where to share it:</strong> a one-page summary with mention rate, citation rate and the three biggest gaps.</li></ul><p>Run an extra check after any major change, such as a site redesign, a new service launch or a change to your robots.txt, so you can see its effect.</p>"
+      "body_html": "<p>Monthly is the right rhythm for most businesses. AI answers shift as engines update their models and indexes, but week-to-week noise can hide the real trend. A monthly run of the same question set, done by the same person in the same way, produces numbers you can trust.</p><ul><li><strong>Owner:</strong> whoever runs marketing or SEO, so findings turn into page changes quickly.</li><li><strong>Time needed:</strong> about two hours a month for a 30-question set across ChatGPT, <a href=\"https://thechimeraai.com/perplexity-seo/\">Perplexity</a> and Gemini.</li><li><strong>Where to share it:</strong> a one-page summary with mention rate, citation rate and the three biggest gaps.</li></ul><p>Run an extra check after any major change, such as a site redesign, a new service launch or a change to your <a href=\"https://thechimeraai.com/robots-txt-for-ai-crawlers/\">robots.txt</a>, so you can see its effect.</p>"
     },
     {
       "heading": "Checking other AI engines",
-      "body_html": "<p>Use the same question set in Perplexity, Gemini, Claude, Copilot and Google AI Overviews. Perplexity is the easiest to study because every answer lists its sources. Comparing engines shows whether a gap is specific to one platform or a general problem with your pages or reputation.</p>"
+      "body_html": "<p>Use the same question set in Perplexity, Gemini, Claude, <a href=\"https://thechimeraai.com/microsoft-copilot-seo/\">Copilot</a> and Google AI Overviews. Perplexity is the easiest to study because every answer lists its sources. Comparing engines shows whether a gap is specific to one platform or a general problem with your pages or reputation.</p>"
     }
   ],
   "faqs": [
@@ -111,6 +111,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Businesses in ChatGPT: claim your business",
+      "url": "https://thechimeraai.com/blog/businesses-in-chatgpt-claim-your-business/"
+    },
+    {
+      "anchor": "How to Get Cited by Claude: A Practical Guide for Brands",
+      "url": "https://thechimeraai.com/how-to-get-cited-by-claude/"
+    },
+    {
+      "anchor": "Gemini SEO: How to Show Up in Google Gemini Answers",
+      "url": "https://thechimeraai.com/gemini-seo/"
+    },
+    {
+      "anchor": "Fix Wrong Brand Info in ChatGPT",
+      "url": "https://thechimeraai.com/how-to-fix-wrong-information-about-your-brand-in-chatgpt/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

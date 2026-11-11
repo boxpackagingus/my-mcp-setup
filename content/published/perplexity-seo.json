@@ -30,7 +30,7 @@
     },
     {
       "heading": "Step 1: Let PerplexityBot crawl your site",
-      "body_html": "<p>Perplexity documents two user agents. <strong>PerplexityBot</strong> is designed to surface and link websites in Perplexity's search results, and Perplexity says it is not used to crawl content for training AI models. <strong>Perplexity-User</strong> fetches pages when a user's question needs them.</p><p>To be cited, allow PerplexityBot in robots.txt and make sure your firewall, CDN or security plugin does not block it. A simple rule looks like this:</p><blockquote><code>User-agent: PerplexityBot<br>Allow: /</code></blockquote><p>Then check that your important pages are in your sitemap and load quickly with their main content in the HTML.</p>"
+      "body_html": "<p>Perplexity documents two user agents. <strong>PerplexityBot</strong> is designed to surface and link websites in Perplexity's search results, and Perplexity says it is not used to crawl content for training AI models. <strong>Perplexity-User</strong> fetches pages when a user's question needs them.</p><p>To be cited, allow PerplexityBot in <a href=\"https://thechimeraai.com/robots-txt-for-ai-crawlers/\">robots.txt</a> and make sure your firewall, CDN or security plugin does not block it. A simple rule looks like this:</p><blockquote><code>User-agent: PerplexityBot<br>Allow: /</code></blockquote><p>Then check that your important pages are in your sitemap and load quickly with their main content in the HTML.</p>"
     },
     {
       "heading": "Step 2: Write pages Perplexity wants to cite",
@@ -38,7 +38,7 @@
     },
     {
       "heading": "Step 3: Build signals beyond your own site",
-      "body_html": "<p>Perplexity's search draws on the wider web, so where else your brand appears matters. Useful places to earn mentions include industry publications, directories, review platforms, community discussions such as Reddit, partner pages and podcasts with show notes. Consistent descriptions of what you do help Perplexity connect your brand to the right topics when it summarizes options.</p><p>Original data is especially powerful. A short survey, benchmark or price index that others reference gives Perplexity a unique fact that only your page can supply.</p>"
+      "body_html": "<p>Perplexity's search draws on the wider web, so where else your brand appears matters. Useful places to earn mentions include industry publications, directories, review platforms, community discussions such as <a href=\"https://thechimeraai.com/reddit-for-ai-search/\">Reddit</a>, partner pages and podcasts with show notes. Consistent descriptions of what you do help Perplexity connect your brand to the right topics when it summarizes options.</p><p>Original data is especially powerful. A short survey, benchmark or price index that others reference gives Perplexity a unique fact that only your page can supply.</p>"
     },
     {
       "heading": "Study who Perplexity cites today",
@@ -54,7 +54,7 @@
     },
     {
       "heading": "Measure Perplexity traffic",
-      "body_html": "<p>Perplexity citations are clickable links, so visits usually arrive with <code>perplexity.ai</code> as the referrer. In Google Analytics, include it in an \"AI search\" channel with chatgpt.com, gemini.google.com, copilot.microsoft.com and claude.ai. Track which landing pages it sends visitors to and whether they submit your forms.</p><p>Visitors from Perplexity are often in research mode and have already read a summary, so a clear next step, such as an audit offer or a short form, matters on every page they land on.</p>"
+      "body_html": "<p>Perplexity citations are clickable links, so visits usually arrive with <code>perplexity.ai</code> as the referrer. In Google Analytics, include it in an \"AI search\" channel with <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">chatgpt</a>.com, <a href=\"https://thechimeraai.com/gemini-seo/\">gemini</a>.google.com, <a href=\"https://thechimeraai.com/microsoft-copilot-seo/\">copilot</a>.microsoft.com and claude.ai. Track which landing pages it sends visitors to and whether they submit your forms.</p><p>Visitors from Perplexity are often in research mode and have already read a summary, so a clear next step, such as an audit offer or a short form, matters on every page they land on.</p>"
     },
     {
       "heading": "Perplexity SEO checklist",
@@ -107,6 +107,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Google Search profiles for local brands",
+      "url": "https://thechimeraai.com/blog/google-search-profiles-local-brands/"
+    },
+    {
+      "anchor": "How to Get Cited by Claude: A Practical Guide for Brands",
+      "url": "https://thechimeraai.com/how-to-get-cited-by-claude/"
+    },
+    {
+      "anchor": "How to Show Up in Google AI Overviews",
+      "url": "https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/"
+    },
+    {
+      "anchor": "How ChatGPT Recommends Local Businesses",
+      "url": "https://thechimeraai.com/how-chatgpt-recommends-local-businesses/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

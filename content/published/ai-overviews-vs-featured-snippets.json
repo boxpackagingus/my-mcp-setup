@@ -30,11 +30,11 @@
     },
     {
       "heading": "AI Overviews in brief",
-      "body_html": "<p>AI Overviews are AI-generated summaries that appear at the top of some results. Instead of quoting one page, Google writes a new answer from information across several sources and shows links to those sources. Google describes a technique it calls query fan-out, issuing multiple related searches across subtopics and data sources to build the response. AI Overviews are shown when Google judges they add value beyond the standard results, especially for complex or multi-part questions.</p><p>Google reported in July 2025 that AI Overviews were used by more than 2 billion people a month.</p>"
+      "body_html": "<p><a href=\"https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/\">AI Overviews</a> are AI-generated summaries that appear at the top of some results. Instead of quoting one page, Google writes a new answer from information across several sources and shows links to those sources. Google describes a technique it calls <a href=\"https://thechimeraai.com/what-is-query-fan-out/\">query fan-out</a>, issuing multiple related searches across subtopics and data sources to build the response. AI Overviews are shown when Google judges they add value beyond the standard results, especially for complex or multi-part questions.</p><p>Google reported in July 2025 that AI Overviews were used by more than 2 billion people a month.</p>"
     },
     {
       "heading": "Side-by-side comparison",
-      "body_html": "<table><tr><th></th><th>Featured snippet</th><th>AI Overview</th></tr><tr><td>What appears</td><td>A quoted passage from one page</td><td>A newly written summary</td></tr><tr><td>Number of sources</td><td>One</td><td>Usually several, shown as links</td></tr><tr><td>How sources are found</td><td>Ranking results for the query</td><td>The query plus related searches across subtopics</td></tr><tr><td>Best content</td><td>A concise answer block</td><td>Clear answers to the main question and its follow-ups</td></tr><tr><td>Controls</td><td>nosnippet, max-snippet</td><td>The same snippet controls</td></tr><tr><td>Reporting</td><td>Search Console web results</td><td>Included in Search Console web results</td></tr></table>"
+      "body_html": "<table><tr><th></th><th>Featured snippet</th><th>AI Overview</th></tr><tr><td>What appears</td><td>A quoted passage from one page</td><td>A newly written summary</td></tr><tr><td>Number of sources</td><td>One</td><td>Usually several, shown as links</td></tr><tr><td>How sources are found</td><td>Ranking results for the query</td><td>The query plus related searches across subtopics</td></tr><tr><td>Best content</td><td>A concise answer block</td><td>Clear answers to the main question and its follow-ups</td></tr><tr><td>Controls</td><td>nosnippet, max-snippet</td><td>The same snippet controls</td></tr><tr><td>Reporting</td><td><a href=\"https://thechimeraai.com/blog/search-console-generative-ai-performance-report/\">Search Console</a> web results</td><td>Included in Search Console web results</td></tr></table>"
     },
     {
       "heading": "What both reward",
@@ -42,7 +42,7 @@
     },
     {
       "heading": "Where AI Overviews ask for more",
-      "body_html": "<p>Because AI Overviews can draw on several related searches, pages that cover the natural follow-up questions get more chances to be linked. A page about \"how much does a GEO audit cost\" that also answers what drives price, what is included and how long it takes can be useful for several parts of one overview. Featured snippets rarely reward that breadth; AI Overviews often do.</p><p>AI Overviews also benefit from specific, checkable facts, since Google is combining information and needs passages it can trust.</p>"
+      "body_html": "<p>Because AI Overviews can draw on several related searches, pages that cover the natural follow-up questions get more chances to be linked. A page about \"how much does a <a href=\"https://thechimeraai.com/what-is-generative-engine-optimization-and-how-does-it-work/\">GEO</a> audit cost\" that also answers what drives price, what is included and how long it takes can be useful for several parts of one overview. Featured snippets rarely reward that breadth; AI Overviews often do.</p><p>AI Overviews also benefit from specific, checkable facts, since Google is combining information and needs passages it can trust.</p>"
     },
     {
       "heading": "How clicks are counted",
@@ -111,6 +111,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Google's new AI Mode links",
+      "url": "https://thechimeraai.com/blog/google-ai-mode-inline-links-update/"
+    },
+    {
+      "anchor": "What Is LLM SEO? A Practical Guide for 2026",
+      "url": "https://thechimeraai.com/what-is-llm-seo/"
+    },
+    {
+      "anchor": "Robots.txt for AI Crawlers: What to Allow and Block",
+      "url": "https://thechimeraai.com/robots-txt-for-ai-crawlers/"
+    },
+    {
+      "anchor": "Copilot SEO: How to Get Cited by Microsoft Copilot",
+      "url": "https://thechimeraai.com/microsoft-copilot-seo/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

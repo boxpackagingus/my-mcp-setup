@@ -26,7 +26,7 @@
   "sections": [
     {
       "heading": "What AI share of voice means",
-      "body_html": "<p>Share of voice is an old marketing idea: of all the attention in a market, how much goes to you? In AI search, the \"attention\" is the brands named in answers. If ChatGPT, Gemini, Perplexity and Google's AI features answer twenty questions about your category and name brands forty times in total, and eight of those mentions are you, your AI share of voice is 20%.</p><p>It matters because AI answers are increasingly where buyers form a shortlist. A brand that is never named may never be considered.</p>"
+      "body_html": "<p>Share of voice is an old marketing idea: of all the attention in a market, how much goes to you? In AI search, the \"attention\" is the brands named in answers. If <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a>, Gemini, <a href=\"https://thechimeraai.com/perplexity-seo/\">Perplexity</a> and Google's AI features answer twenty questions about your category and name brands forty times in total, and eight of those mentions are you, your AI share of voice is 20%.</p><p>It matters because AI answers are increasingly where buyers form a shortlist. A brand that is never named may never be considered.</p>"
     },
     {
       "heading": "Why it is different from rankings",
@@ -38,7 +38,7 @@
     },
     {
       "heading": "Step 2: choose platforms and settings",
-      "body_html": "<p>Cover the assistants your buyers use: typically ChatGPT, Google AI Overviews or AI Mode, Gemini, Perplexity, Microsoft Copilot and Claude. Note whether web search was on, the location the answer was given for, and the date. Logged-in personalization can affect results, so use consistent accounts or fresh sessions.</p>"
+      "body_html": "<p>Cover the assistants your buyers use: typically ChatGPT, Google <a href=\"https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/\">AI Overviews</a> or <a href=\"https://thechimeraai.com/how-to-optimize-for-google-ai-mode/\">AI Mode</a>, Gemini, Perplexity, <a href=\"https://thechimeraai.com/microsoft-copilot-seo/\">Microsoft Copilot</a> and Claude. Note whether web search was on, the location the answer was given for, and the date. Logged-in personalization can affect results, so use consistent accounts or fresh sessions.</p>"
     },
     {
       "heading": "Step 3: record more than a yes or no",
@@ -131,6 +131,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Search Console's generative AI performance report",
+      "url": "https://thechimeraai.com/blog/search-console-generative-ai-performance-report/"
+    },
+    {
+      "anchor": "How to Track AI Visibility: A Practical System",
+      "url": "https://thechimeraai.com/how-to-track-ai-visibility/"
+    },
+    {
+      "anchor": "AI Visibility Audit: What It Checks and Why You Need One",
+      "url": "https://thechimeraai.com/ai-visibility-audit/"
+    },
+    {
+      "anchor": "Generative Engine Optimization Agency: What They Do",
+      "url": "https://thechimeraai.com/generative-engine-optimization-agency/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

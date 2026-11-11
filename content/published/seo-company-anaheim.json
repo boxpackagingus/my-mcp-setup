@@ -26,7 +26,7 @@
   "sections": [
     {
       "heading": "SEO and AI search in Anaheim",
-      "body_html": "<p>Anaheim is Orange County's most populous city, with 346,824 residents in the 2020 census, and it is where Chimera is based. It is known for the Disneyland Resort, the Anaheim Convention Center, Angel Stadium and the Honda Center, and Wikipedia describes its income as based on a tourism economy.</p><p>That mix shapes local search. Visitors search for hotels, restaurants and things to do, while residents and businesses search for everyday services from plumbers to accountants. Both groups now ask AI assistants as well as Google.</p>"
+      "body_html": "<p>Anaheim is Orange County's most populous city, with 346,824 residents in the 2020 census, and it is where <a href=\"https://thechimeraai.com/\">Chimera</a> is based. It is known for the Disneyland Resort, the Anaheim Convention Center, Angel Stadium and the Honda Center, and Wikipedia describes its income as based on a tourism economy.</p><p>That mix shapes local search. Visitors search for hotels, restaurants and things to do, while residents and businesses search for everyday services from plumbers to accountants. Both groups now ask AI assistants as well as Google.</p>"
     },
     {
       "heading": "How Anaheim customers search",
@@ -34,7 +34,7 @@
     },
     {
       "heading": "How Google ranks local results in Anaheim",
-      "body_html": "<p>Google publishes the basics of how local results work. According to its Business Profile help, results are mainly based on relevance, distance and popularity. Prominence, in Google's words, is how well-known a business is, which draws on links from other websites and on reviews, and more reviews and positive ratings can help. Google also states plainly that nobody can request or pay for a better local ranking.</p><p>In a city this large, distance matters: a business in Anaheim Hills and one near the Resort District can see very different local results for the same search. Listing a clear service area and showing work across the city helps.</p>"
+      "body_html": "<p>Google publishes the basics of how local results work. According to its Business Profile help, results are mainly based on relevance, distance and popularity. Prominence, in Google's words, is how well-known a business is, which draws on links from other websites and on reviews, and <a href=\"https://thechimeraai.com/how-to-get-more-google-reviews/\">more reviews</a> and positive ratings can help. Google also states plainly that nobody can request or pay for a better local ranking.</p><p>In a city this large, distance matters: a business in Anaheim Hills and one near the Resort District can see very different local results for the same search. Listing a clear <a href=\"https://thechimeraai.com/google-business-profile-service-area/\">service area</a> and showing work across the city helps.</p>"
     },
     {
       "heading": "Getting recommended by ChatGPT and Google AI in Anaheim",
@@ -50,11 +50,11 @@
     },
     {
       "heading": "Business Profile basics",
-      "body_html": "<p>Your Google Business Profile is usually the first thing people see in a local search.</p><p>If you work at customers' homes, Google's guidelines treat you as a service-area business: one profile for your central office or location, with a service area set. Virtual offices, meaning rented addresses you do not work from, are not eligible, and neither are P.O. boxes. Use your real-world business name, the one on your signage and invoices, with no added keywords.</p>"
+      "body_html": "<p>Your <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a> is usually the first thing people see in a local search.</p><p>If you work at customers' homes, Google's guidelines treat you as a <a href=\"https://thechimeraai.com/service-area-business-seo/\">service-area business</a>: one profile for your central office or location, with a service area set. Virtual offices, meaning rented addresses you do not work from, are not eligible, and neither are P.O. boxes. Use your real-world business name, the one on your signage and invoices, with no added keywords.</p>"
     },
     {
       "heading": "Reviews",
-      "body_html": "<p>Ask every Anaheim customer for a review and make it easy with a direct link. Reviews that mention the neighborhood and the job help both Google and AI assistants match you to local searches.</p><p>Stay inside Google's rules. Its Maps content policy bans fake engagement and says reviews must come from genuine experiences. Offering payment, discounts or free services for a review, or for removing a bad one, is not allowed. The safe method is simple: ask every real customer, send a direct review link and reply to what people write.</p>"
+      "body_html": "<p>Ask every Anaheim customer for a review and make it easy with a direct link. Reviews that mention the neighborhood and the job help both Google and AI assistants match you to local searches.</p><p>Stay inside Google's rules. Its Maps content policy bans <a href=\"https://thechimeraai.com/how-to-remove-fake-google-reviews/\">fake engagement</a> and says reviews must come from genuine experiences. Offering payment, discounts or free services for a review, or for removing a bad one, is not allowed. The safe method is simple: ask every real customer, send a direct review link and reply to what people write.</p>"
     },
     {
       "heading": "Structured data",
@@ -143,6 +143,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "A 30-day AI search plan for OC businesses",
+      "url": "https://thechimeraai.com/blog/30-day-ai-search-plan-orange-county/"
+    },
+    {
+      "anchor": "Santa Ana SEO",
+      "url": "https://thechimeraai.com/seo-santa-ana/"
+    },
+    {
+      "anchor": "SEO company in Orange County",
+      "url": "https://thechimeraai.com/seo-company-orange-county/"
+    },
+    {
+      "anchor": "Irvine SEO",
+      "url": "https://thechimeraai.com/seo-irvine/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [
@@ -308,5 +328,5 @@
     "height": 840
   },
   "published": "2026-11-10",
-  "updated": "2026-11-10"
+  "updated": "2026-11-11"
 }

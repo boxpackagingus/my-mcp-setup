@@ -30,7 +30,7 @@
     },
     {
       "heading": "Search crawlers vs training crawlers",
-      "body_html": "<p>Most AI companies now run separate bots for different jobs:</p><ul><li><strong>OpenAI:</strong> OAI-SearchBot (ChatGPT search results), ChatGPT-User (pages a user asks for), GPTBot (training).</li><li><strong>Anthropic:</strong> Claude-SearchBot (search quality), Claude-User (user requests), ClaudeBot (training).</li><li><strong>Perplexity:</strong> PerplexityBot (search index; Perplexity says it is not used for training), Perplexity-User (user requests).</li><li><strong>Google:</strong> Googlebot (Search, including AI Overviews), Google-Extended (a control token for Gemini training and grounding that Google says does not affect Search).</li><li><strong>Microsoft:</strong> Bingbot (Bing, which grounds Copilot's web answers).</li></ul><p>That separation lets you be cited in AI answers while opting out of model training.</p>"
+      "body_html": "<p>Most AI companies now run separate bots for different jobs:</p><ul><li><strong>OpenAI:</strong> OAI-SearchBot (<a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a> search results), ChatGPT-User (pages a user asks for), GPTBot (training).</li><li><strong>Anthropic:</strong> Claude-SearchBot (search quality), Claude-User (user requests), ClaudeBot (training).</li><li><strong><a href=\"https://thechimeraai.com/perplexity-seo/\">Perplexity</a>:</strong> PerplexityBot (search index; Perplexity says it is not used for training), Perplexity-User (user requests).</li><li><strong>Google:</strong> Googlebot (Search, including <a href=\"https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/\">AI Overviews</a>), Google-Extended (a control token for Gemini training and grounding that Google says does not affect Search).</li><li><strong>Microsoft:</strong> Bingbot (Bing, which grounds <a href=\"https://thechimeraai.com/microsoft-copilot-seo/\">Copilot</a>'s web answers).</li></ul><p>That separation lets you be cited in AI answers while opting out of model training.</p>"
     },
     {
       "heading": "An example robots.txt",
@@ -54,7 +54,7 @@
     },
     {
       "heading": "robots.txt on WordPress",
-      "body_html": "<p>WordPress creates a virtual robots.txt automatically when there is no physical file on the server. SEO plugins and tools such as the Chimera Engine plugin can add rules to it, including AI crawler rules and your sitemap location. If your host or a previous developer uploaded a physical robots.txt file, it overrides the virtual one, so check for it in your site's root folder before editing rules in a plugin. Always confirm the result by opening /robots.txt in a browser.</p>"
+      "body_html": "<p>WordPress creates a virtual robots.txt automatically when there is no physical file on the server. SEO plugins and tools such as the <a href=\"https://thechimeraai.com/\">Chimera</a> Engine plugin can add rules to it, including <a href=\"https://thechimeraai.com/ai-crawler-user-agents/\">AI crawler</a> rules and your sitemap location. If your host or a previous developer uploaded a physical robots.txt file, it overrides the virtual one, so check for it in your site's root folder before editing rules in a plugin. Always confirm the result by opening /robots.txt in a browser.</p>"
     },
     {
       "heading": "Common robots.txt mistakes",
@@ -111,6 +111,26 @@
     {
       "anchor": "Google's shared AI training control",
       "url": "https://thechimeraai.com/blog/google-ai-training-control-robots-txt/"
+    },
+    {
+      "anchor": "How ChatGPT Recommends Local Businesses",
+      "url": "https://thechimeraai.com/how-chatgpt-recommends-local-businesses/"
+    },
+    {
+      "anchor": "Google Search profiles for local brands",
+      "url": "https://thechimeraai.com/blog/google-search-profiles-local-brands/"
+    },
+    {
+      "anchor": "How to Optimize for Meta AI: A Practical Guide",
+      "url": "https://thechimeraai.com/how-to-optimize-for-meta-ai/"
+    },
+    {
+      "anchor": "ChatGPT Search vs Google: What It Means for Your Business",
+      "url": "https://thechimeraai.com/chatgpt-search-vs-google/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

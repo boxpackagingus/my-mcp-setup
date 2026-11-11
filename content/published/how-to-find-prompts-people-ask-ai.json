@@ -26,7 +26,7 @@
   "sections": [
     {
       "heading": "Why prompts are different from keywords",
-      "body_html": "<p>Keywords are short: \"GEO agency\". Prompts are long and conversational: \"I run a small dental practice in Irvine, how do I get ChatGPT to recommend us when people ask for a dentist?\". Pew Research Center found that searches of ten words or more produced a Google AI summary 53% of the time, compared with 8% of one- or two-word searches. The longer, more detailed questions are where AI answers appear most, so your research needs to capture that language.</p>"
+      "body_html": "<p>Keywords are short: \"<a href=\"https://thechimeraai.com/what-is-generative-engine-optimization-and-how-does-it-work/\">GEO</a> agency\". Prompts are long and conversational: \"I run a small dental practice in Irvine, how do I get <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a> to recommend us when people ask for a dentist?\". Pew Research Center found that searches of ten words or more produced a Google AI summary 53% of the time, compared with 8% of one- or two-word searches. The longer, more detailed questions are where AI answers appear most, so your research needs to capture that language.</p>"
     },
     {
       "heading": "The data problem",
@@ -34,7 +34,7 @@
     },
     {
       "heading": "Source 1: Search Console",
-      "body_html": "<p>Filter your Search Console queries for long ones, or for those starting with how, what, why, which, best, should or can. These are real searches people made that led to your pages appearing. They often mirror what the same people ask assistants. Pay special attention to queries with impressions but few clicks; they may be answered by AI features already.</p>"
+      "body_html": "<p>Filter your <a href=\"https://thechimeraai.com/blog/search-console-generative-ai-performance-report/\">Search Console</a> queries for long ones, or for those starting with how, what, why, which, best, should or can. These are real searches people made that led to your pages appearing. They often mirror what the same people ask assistants. Pay special attention to queries with impressions but few clicks; they may be answered by AI features already.</p>"
     },
     {
       "heading": "Source 2: autocomplete and People Also Ask",
@@ -46,7 +46,7 @@
     },
     {
       "heading": "Source 4: communities and reviews",
-      "body_html": "<p>Search Reddit, industry forums, Facebook groups and Q&A sites for your category. Note how people describe their problems, the options they mention and the objections they raise. Reviews of your business and competitors reveal what buyers care about in their own words.</p>"
+      "body_html": "<p>Search <a href=\"https://thechimeraai.com/reddit-for-ai-search/\">Reddit</a>, industry forums, Facebook groups and Q&A sites for your category. Note how people describe their problems, the options they mention and the objections they raise. Reviews of your business and competitors reveal what buyers care about in their own words.</p>"
     },
     {
       "heading": "Source 5: the AI tools themselves",
@@ -70,7 +70,7 @@
     },
     {
       "heading": "Using the buyers' own words",
-      "body_html": "<p>The language customers use is often different from industry jargon. People may say \"show up in ChatGPT\" rather than \"generative engine optimization\", or \"get more calls from Google\" rather than \"local SEO\". Use their phrases in headings and opening answers, and explain the industry terms on the page. Matching real wording makes content easier for both readers and AI tools to connect to the question.</p>"
+      "body_html": "<p>The language customers use is often different from industry jargon. People may say \"show up in ChatGPT\" rather than \"generative engine optimization\", or \"get more calls from Google\" rather than \"<a href=\"https://thechimeraai.com/local-seo-orange-county/\">local SEO</a>\". Use their phrases in headings and opening answers, and explain the industry terms on the page. Matching real wording makes content easier for both readers and AI tools to connect to the question.</p>"
     },
     {
       "heading": "The short version",
@@ -135,6 +135,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Multimodal search data in Search Console",
+      "url": "https://thechimeraai.com/blog/search-console-multimodal-search-report/"
+    },
+    {
+      "anchor": "AI Search Statistics 2026",
+      "url": "https://thechimeraai.com/ai-search-statistics/"
+    },
+    {
+      "anchor": "AI SEO for small business",
+      "url": "https://thechimeraai.com/ai-seo-for-small-business/"
+    },
+    {
+      "anchor": "AI Visibility Audit: What It Checks and Why You Need One",
+      "url": "https://thechimeraai.com/ai-visibility-audit/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

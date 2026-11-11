@@ -30,7 +30,7 @@
     },
     {
       "heading": "How GEO sales happen, step by step",
-      "body_html": "<ol><li><strong>A buyer asks a question.</strong> Usually a longer, specific one, such as \"is it worth hiring a GEO agency for a small SaaS company\".</li><li><strong>The AI engine gathers sources.</strong> Tools such as Perplexity and Google AI Overviews search the web, pick pages that answer the question clearly, and cite them.</li><li><strong>Your page gets quoted or linked.</strong> Pages with a direct answer near the top, clear headings, FAQs and structured data are easier for these systems to use.</li><li><strong>The buyer clicks to verify.</strong> They want proof: examples, process, pricing signals, who you are.</li><li><strong>They convert or they leave.</strong> A clear offer and a short form close the gap. A generic page loses them.</li></ol><p>Each step is a place where sales are won or lost. Most businesses only think about step 3. The ones that see GEO sales also fix steps 4 and 5.</p>"
+      "body_html": "<ol><li><strong>A buyer asks a question.</strong> Usually a longer, specific one, such as \"is it worth hiring a GEO agency for a small SaaS company\".</li><li><strong>The AI engine gathers sources.</strong> Tools such as <a href=\"https://thechimeraai.com/perplexity-seo/\">Perplexity</a> and Google <a href=\"https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/\">AI Overviews</a> search the web, pick pages that answer the question clearly, and cite them.</li><li><strong>Your page gets quoted or linked.</strong> Pages with a direct answer near the top, clear headings, FAQs and <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a> are easier for these systems to use.</li><li><strong>The buyer clicks to verify.</strong> They want proof: examples, process, pricing signals, who you are.</li><li><strong>They convert or they leave.</strong> A clear offer and a short form close the gap. A generic page loses them.</li></ol><p>Each step is a place where sales are won or lost. Most businesses only think about step 3. The ones that see GEO sales also fix steps 4 and 5.</p>"
     },
     {
       "heading": "Why AI-referred visitors often convert better",
@@ -42,7 +42,7 @@
     },
     {
       "heading": "What actually moves GEO sales",
-      "body_html": "<p>Research on generative engines supports a practical point: the way content is written changes how often it is used in AI answers. The original GEO study from Princeton and partners found that methods such as adding citations, quotations and statistics could raise a source's visibility in generative answers by up to 40% in their tests.</p><p>In practice, the levers are:</p><ul><li><strong>Direct answers.</strong> Start each page with a 40–60 word answer to the exact question.</li><li><strong>Specific, sourced facts.</strong> Numbers, named methods and references make a page more quotable and more trustworthy.</li><li><strong>Clear structure.</strong> Descriptive headings, short paragraphs, lists, tables and FAQs.</li><li><strong>Machine-readable signals.</strong> Structured data (Article, FAQPage, Organization), a clean sitemap, an <a href=\"https://llmstxt.org\" rel=\"nofollow noopener\">llms.txt</a> file and a robots.txt that lets AI crawlers in.</li><li><strong>Consistency across the web.</strong> The same name, description and specialty on your site, profiles and directories.</li><li><strong>A conversion path.</strong> A specific offer and a short form on every page that answers a buying question.</li></ul>"
+      "body_html": "<p>Research on generative engines supports a practical point: the way content is written changes how often it is used in AI answers. The original GEO study from Princeton and partners found that methods such as adding citations, quotations and statistics could raise a source's visibility in generative answers by up to 40% in their tests.</p><p>In practice, the levers are:</p><ul><li><strong>Direct answers.</strong> Start each page with a 40–60 word answer to the exact question.</li><li><strong>Specific, sourced facts.</strong> Numbers, named methods and references make a page more quotable and more trustworthy.</li><li><strong>Clear structure.</strong> Descriptive headings, short paragraphs, lists, tables and FAQs.</li><li><strong>Machine-readable signals.</strong> Structured data (Article, FAQPage, Organization), a clean sitemap, an <a href=\"https://llmstxt.org\" rel=\"nofollow noopener\">llms.txt</a> file and a <a href=\"https://thechimeraai.com/robots-txt-for-ai-crawlers/\">robots.txt</a> that lets <a href=\"https://thechimeraai.com/ai-crawler-user-agents/\">AI crawlers</a> in.</li><li><strong>Consistency across the web.</strong> The same name, description and specialty on your site, profiles and directories.</li><li><strong>A conversion path.</strong> A specific offer and a short form on every page that answers a buying question.</li></ul>"
     },
     {
       "heading": "How to measure GEO sales properly",
@@ -111,6 +111,26 @@
     {
       "anchor": "is SEO worth it for small business",
       "url": "https://thechimeraai.com/is-seo-worth-it-for-small-business/"
+    },
+    {
+      "anchor": "Search Console's generative AI performance report",
+      "url": "https://thechimeraai.com/blog/search-console-generative-ai-performance-report/"
+    },
+    {
+      "anchor": "AI Search Optimization Checklist: 40 Steps for 2026",
+      "url": "https://thechimeraai.com/ai-search-optimization-checklist/"
+    },
+    {
+      "anchor": "How Much Does GEO Cost? Pricing Models and What Drives Price",
+      "url": "https://thechimeraai.com/how-much-does-geo-cost/"
+    },
+    {
+      "anchor": "AEO vs GEO: What's the Difference?",
+      "url": "https://thechimeraai.com/answer-engine-optimization-vs-generative-engine-optimization/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

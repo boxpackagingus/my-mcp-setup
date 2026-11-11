@@ -26,7 +26,7 @@
   "sections": [
     {
       "heading": "What Google announced",
-      "body_html": "<p>On August 27, 2026, Google announced new travel features for AI Mode in Search: flight price tracking inside the conversation, points and miles rates for flights and hotels, and hotel booking. Google describes the booking flow simply: tell AI Mode about your trip and your preferences, get a visual list of options with guest reviews and key factors to compare, then ask AI Mode to help you complete the booking.</p><p>The booking itself happens through a \"Continue on Google\" option that appears next to integrated partners. From there, Google says it takes a few taps to pick a room type, review details like the cancellation policy and pay securely with Google Pay.</p>"
+      "body_html": "<p>On August 27, 2026, Google announced new travel features for <a href=\"https://thechimeraai.com/how-to-optimize-for-google-ai-mode/\">AI Mode</a> in Search: flight price tracking inside the conversation, points and miles rates for flights and hotels, and hotel booking. Google describes the booking flow simply: tell AI Mode about your trip and your preferences, get a visual list of options with guest reviews and key factors to compare, then ask AI Mode to help you complete the booking.</p><p>The booking itself happens through a \"Continue on Google\" option that appears next to integrated partners. From there, Google says it takes a few taps to pick a room type, review details like the cancellation policy and pay securely with Google Pay.</p>"
     },
     {
       "heading": "Who the booking partners are",
@@ -46,11 +46,11 @@
     },
     {
       "heading": "Step 2: add Hotel structured data",
-      "body_html": "<p>Schema.org has a Hotel type, a kind of LodgingBusiness, that lets you describe your property in a structured way: name, address, amenities, check-in and check-out times, pet policy and more. Google's documentation explains that structured data helps it understand page content. Add Hotel markup to your homepage or main property page and make sure it matches what the page says.</p>"
+      "body_html": "<p>Schema.org has a Hotel type, a kind of LodgingBusiness, that lets you describe your property in a structured way: name, address, amenities, check-in and check-out times, pet policy and more. Google's documentation explains that <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a> helps it understand page content. Add Hotel markup to your homepage or main property page and make sure it matches what the page says.</p>"
     },
     {
       "heading": "Step 3: keep your Google Business Profile complete",
-      "body_html": "<p>Your Google Business Profile is often the first thing Google shows for a hotel name. Keep the name, address, phone, website, hours of the front desk, photos and amenities accurate and consistent with your website. Answer questions and respond to reviews. Inconsistent details across your profile, website and partner listings make it harder for any system to describe you confidently.</p>"
+      "body_html": "<p>Your <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a> is often the first thing Google shows for a hotel name. Keep the name, address, phone, website, hours of the front desk, photos and amenities accurate and consistent with your website. Answer questions and <a href=\"https://thechimeraai.com/how-to-respond-to-google-reviews/\">respond to reviews</a>. Inconsistent details across your profile, website and partner listings make it harder for any system to describe you confidently.</p>"
     },
     {
       "heading": "Step 4: check your partner listings",
@@ -58,7 +58,7 @@
     },
     {
       "heading": "Step 5: earn and answer reviews",
-      "body_html": "<p>Google says the AI Mode hotel list comes with guest reviews. Reviews are also the most natural source of the specific details travelers ask about, like how quiet the rooms are or how far the walk to the park really is. Ask happy guests to leave reviews, respond to them, and fix the problems negative reviews point to. Never buy or fake reviews.</p>"
+      "body_html": "<p>Google says the AI Mode hotel list comes with guest reviews. Reviews are also the most natural source of the specific details travelers ask about, like how quiet the rooms are or how far the walk to the park really is. Ask happy guests to leave reviews, respond to them, and fix the problems negative reviews point to. Never buy or <a href=\"https://thechimeraai.com/how-to-remove-fake-google-reviews/\">fake reviews</a>.</p>"
     },
     {
       "heading": "Points and miles: a new comparison",
@@ -139,6 +139,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "SEO for hotels",
+      "url": "https://thechimeraai.com/seo-for-hotels-orange-county/"
+    },
+    {
+      "anchor": "2026 holiday travel trends for Anaheim",
+      "url": "https://thechimeraai.com/blog/holiday-travel-search-trends-anaheim-2026/"
+    },
+    {
+      "anchor": "SEO for event planners",
+      "url": "https://thechimeraai.com/seo-for-event-planners/"
+    },
+    {
+      "anchor": "SEO for wedding venues",
+      "url": "https://thechimeraai.com/seo-for-wedding-venues/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

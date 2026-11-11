@@ -26,7 +26,7 @@
   "sections": [
     {
       "heading": "The three common pricing models",
-      "body_html": "<table><tr><th>Model</th><th>What you get</th><th>Best for</th></tr><tr><td>AI visibility audit</td><td>A baseline of AI answers, technical and content findings, and a prioritized fix list</td><td>Knowing where you stand before committing</td></tr><tr><td>Fixed project</td><td>A defined rebuild: technical fixes, schema, llms.txt and a set number of pages</td><td>A clear, one-time scope with your own team taking over after</td></tr><tr><td>Monthly retainer</td><td>Ongoing pages, authority building, testing and reporting</td><td>Competitive categories where results compound over months</td></tr></table><p>Many businesses start with an audit, then choose a project or retainer once they see the gaps.</p>"
+      "body_html": "<table><tr><th>Model</th><th>What you get</th><th>Best for</th></tr><tr><td>AI visibility audit</td><td>A baseline of AI answers, technical and content findings, and a prioritized fix list</td><td>Knowing where you stand before committing</td></tr><tr><td>Fixed project</td><td>A defined rebuild: technical fixes, schema, <a href=\"https://thechimeraai.com/best-practices-for-llms-txt/\">llms.txt</a> and a set number of pages</td><td>A clear, one-time scope with your own team taking over after</td></tr><tr><td>Monthly retainer</td><td>Ongoing pages, authority building, testing and reporting</td><td>Competitive categories where results compound over months</td></tr></table><p>Many businesses start with an audit, then choose a project or retainer once they see the gaps.</p>"
     },
     {
       "heading": "What drives the price of GEO",
@@ -34,7 +34,7 @@
     },
     {
       "heading": "What to expect at different budget levels",
-      "body_html": "<ul><li><strong>Entry level:</strong> an audit plus a short fix sprint covering crawler access, schema, llms.txt and rewriting the openings of your most important pages. Good for small businesses testing GEO.</li><li><strong>Growth level:</strong> everything above, plus a steady flow of new answer pages each month and basic authority building, with monthly reporting.</li><li><strong>Competitive level:</strong> broad question coverage across all major engines, content at scale with strict quality control, active digital PR for mentions, and detailed lead attribution.</li></ul><p>Ask any provider to map their price to one of these levels and to the specific deliverables behind it.</p>"
+      "body_html": "<ul><li><strong>Entry level:</strong> an audit plus a short fix sprint covering crawler access, schema, llms.txt and rewriting the openings of your most important pages. Good for small businesses testing <a href=\"https://thechimeraai.com/what-is-generative-engine-optimization-and-how-does-it-work/\">GEO</a>.</li><li><strong>Growth level:</strong> everything above, plus a steady flow of new answer pages each month and basic authority building, with monthly reporting.</li><li><strong>Competitive level:</strong> broad question coverage across all major engines, content at scale with strict quality control, active <a href=\"https://thechimeraai.com/digital-pr-for-ai-search/\">digital PR</a> for mentions, and detailed lead attribution.</li></ul><p>Ask any provider to map their price to one of these levels and to the specific deliverables behind it.</p>"
     },
     {
       "heading": "What should always be included",
@@ -42,7 +42,7 @@
     },
     {
       "heading": "Red flags in GEO pricing",
-      "body_html": "<ul><li><strong>Placement promises:</strong> \"We'll get you into ChatGPT for $X\" ignores that nobody controls AI answers.</li><li><strong>Price per page with no quality bar:</strong> cheap, thin pages at volume can hurt both search and AI visibility.</li><li><strong>No baseline:</strong> without a before-and-after test, you cannot tell whether you got value.</li><li><strong>Long lock-ins before any results:</strong> a first term of around three months is enough to judge an agency.</li></ul>"
+      "body_html": "<ul><li><strong>Placement promises:</strong> \"We'll get you into <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a> for $X\" ignores that nobody controls AI answers.</li><li><strong>Price per page with no quality bar:</strong> cheap, thin pages at volume can hurt both search and AI visibility.</li><li><strong>No baseline:</strong> without a before-and-after test, you cannot tell whether you got value.</li><li><strong>Long lock-ins before any results:</strong> a first term of around three months is enough to judge an agency.</li></ul>"
     },
     {
       "heading": "How to compare two proposals",
@@ -107,6 +107,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Search Console's generative AI performance report",
+      "url": "https://thechimeraai.com/blog/search-console-generative-ai-performance-report/"
+    },
+    {
+      "anchor": "AEO vs GEO: What's the Difference?",
+      "url": "https://thechimeraai.com/answer-engine-optimization-vs-generative-engine-optimization/"
+    },
+    {
+      "anchor": "GEO vs SEO: Key Differences and How They Work Together",
+      "url": "https://thechimeraai.com/geo-vs-seo/"
+    },
+    {
+      "anchor": "GEO SEO Best Practices: 15-Point Checklist",
+      "url": "https://thechimeraai.com/geo-seo-best-practices/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

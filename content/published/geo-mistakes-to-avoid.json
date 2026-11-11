@@ -26,7 +26,7 @@
   "sections": [
     {
       "heading": "Mistakes 1–3: Access and indexing",
-      "body_html": "<ol><li><strong>Blocking AI crawlers by accident.</strong> A security plugin, CDN bot mode or old robots.txt blocks OAI-SearchBot, PerplexityBot, Claude-SearchBot or Bingbot. <em>Instead:</em> audit robots.txt and firewall rules, and allow the search bots you want to be cited by.</li><li><strong>Ignoring indexing problems.</strong> Pages that Google and Bing have not indexed are rarely used by AI engines that rely on them. <em>Instead:</em> check URL Inspection in Search Console and Bing Webmaster Tools for every key page.</li><li><strong>Hiding content behind scripts or tabs.</strong> Text that only appears after heavy JavaScript or clicks is harder to read. <em>Instead:</em> keep key content in the HTML.</li></ol>"
+      "body_html": "<ol><li><strong>Blocking <a href=\"https://thechimeraai.com/ai-crawler-user-agents/\">AI crawlers</a> by accident.</strong> A security plugin, CDN bot mode or old <a href=\"https://thechimeraai.com/robots-txt-for-ai-crawlers/\">robots.txt</a> blocks OAI-SearchBot, PerplexityBot, Claude-SearchBot or Bingbot. <em>Instead:</em> audit robots.txt and firewall rules, and allow the search bots you want to be cited by.</li><li><strong>Ignoring indexing problems.</strong> Pages that Google and Bing have not indexed are rarely used by AI engines that rely on them. <em>Instead:</em> check URL Inspection in Search Console and Bing Webmaster Tools for every key page.</li><li><strong>Hiding content behind scripts or tabs.</strong> Text that only appears after heavy JavaScript or clicks is harder to read. <em>Instead:</em> keep key content in the HTML.</li></ol>"
     },
     {
       "heading": "Mistakes 4–6: Content",
@@ -34,7 +34,7 @@
     },
     {
       "heading": "Mistakes 7–9: Brand and authority",
-      "body_html": "<ol start=\"7\"><li><strong>Inconsistent brand details.</strong> Different names, descriptions or locations across your site and profiles confuse engines. <em>Instead:</em> write one canonical description and use it everywhere.</li><li><strong>Relying only on your own site.</strong> AI assistants recommend brands the wider web talks about. <em>Instead:</em> earn reviews, directory listings, expert quotes and mentions.</li><li><strong>Buying fake reviews or links.</strong> It breaks platform rules and Google's policies. <em>Instead:</em> invest in genuine reviews and earned coverage.</li></ol>"
+      "body_html": "<ol start=\"7\"><li><strong>Inconsistent brand details.</strong> Different names, descriptions or locations across your site and profiles confuse engines. <em>Instead:</em> write one canonical description and use it everywhere.</li><li><strong>Relying only on your own site.</strong> AI assistants recommend brands the wider web talks about. <em>Instead:</em> earn reviews, directory listings, expert quotes and mentions.</li><li><strong>Buying <a href=\"https://thechimeraai.com/how-to-remove-fake-google-reviews/\">fake reviews</a> or links.</strong> It breaks platform rules and Google's policies. <em>Instead:</em> invest in <a href=\"https://thechimeraai.com/how-to-get-more-google-reviews/\">genuine reviews</a> and earned coverage.</li></ol>"
     },
     {
       "heading": "Mistakes 10–12: Strategy and measurement",
@@ -46,7 +46,7 @@
     },
     {
       "heading": "Subtler mistakes we see often",
-      "body_html": "<ul><li><strong>Testing once and giving up.</strong> AI answers vary; judge progress over months across many questions.</li><li><strong>Personalized tests.</strong> Testing in an account that remembers your brand gives flattering, misleading results.</li><li><strong>No next step on the page.</strong> AI-referred visitors arrive ready to act; give them a clear form or offer.</li><li><strong>Out-of-date facts.</strong> Old prices, services or locations get repeated by engines that trust your page.</li><li><strong>Treating llms.txt as a magic switch.</strong> It is useful groundwork, not a replacement for crawl access and strong pages.</li></ul>"
+      "body_html": "<ul><li><strong>Testing once and giving up.</strong> AI answers vary; judge progress over months across many questions.</li><li><strong>Personalized tests.</strong> Testing in an account that remembers your brand gives flattering, misleading results.</li><li><strong>No next step on the page.</strong> AI-referred visitors arrive ready to act; give them a clear form or offer.</li><li><strong>Out-of-date facts.</strong> Old prices, services or locations get repeated by engines that trust your page.</li><li><strong>Treating <a href=\"https://thechimeraai.com/best-practices-for-llms-txt/\">llms.txt</a> as a magic switch.</strong> It is useful groundwork, not a replacement for crawl access and strong pages.</li></ul>"
     },
     {
       "heading": "A quick self-check",
@@ -111,6 +111,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Search Console's generative AI performance report",
+      "url": "https://thechimeraai.com/blog/search-console-generative-ai-performance-report/"
+    },
+    {
+      "anchor": "AI Search Optimization Checklist: 40 Steps for 2026",
+      "url": "https://thechimeraai.com/ai-search-optimization-checklist/"
+    },
+    {
+      "anchor": "AI Visibility Audit: What It Checks and Why You Need One",
+      "url": "https://thechimeraai.com/ai-visibility-audit/"
+    },
+    {
+      "anchor": "GEO vs PPC: Which Should Your Business Invest In?",
+      "url": "https://thechimeraai.com/geo-vs-ppc/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

@@ -62,7 +62,7 @@
     },
     {
       "heading": "Categories and AI search",
-      "body_html": "<p>AI assistants that answer local questions rely on structured listings to know what a business does. An accurate, specific category, matched by your website's services and structured data, makes it easier for them to place you in the right answers.</p>"
+      "body_html": "<p>AI assistants that answer local questions rely on structured listings to know what a business does. An accurate, specific category, matched by your website's services and <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a>, makes it easier for them to place you in the right answers.</p>"
     },
     {
       "heading": "Category checklist",
@@ -74,7 +74,7 @@
     },
     {
       "heading": "How this fits your local plan",
-      "body_html": "<p>This task is one piece of a wider local plan. Google says local results are mainly based on relevance, distance and popularity, so the profile, your website and your reputation all have to agree. A practical order for most Orange County businesses is: get the Business Profile verified and accurate, make the name, address and phone identical everywhere, publish one clear page per service, then build a steady habit of genuine reviews and replies. Each step makes the next one work better, and the same signals help AI assistants such as ChatGPT, Gemini and Google's AI features describe your business correctly when someone in Anaheim asks for a recommendation.</p>"
+      "body_html": "<p>This task is one piece of a wider local plan. Google says local results are mainly based on relevance, distance and popularity, so the profile, your website and your reputation all have to agree. A practical order for most Orange County businesses is: get the Business Profile verified and accurate, make the <a href=\"https://thechimeraai.com/nap-consistency-local-citations/\">name, address and phone</a> identical everywhere, publish one clear page per service, then build a steady habit of <a href=\"https://thechimeraai.com/how-to-get-more-google-reviews/\">genuine reviews</a> and replies. Each step makes the next one work better, and the same signals help AI assistants such as <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a>, <a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a> and Google's AI features describe your business correctly when someone in Anaheim asks for a recommendation.</p>"
     },
     {
       "heading": "What to do this week",
@@ -82,7 +82,7 @@
     },
     {
       "heading": "When to get help",
-      "body_html": "<p>Plenty of owners handle this themselves. Outside help pays off when time is short, when the business has many locations or when a problem is costing calls every day it stays unresolved. Be wary of anyone who promises guaranteed positions or asks for your verification codes or passwords; Google says nobody can pay for a better local ranking. Look for clear explanations, honest timelines and reporting tied to real enquiries. Chimera offers exactly that to businesses in Anaheim and across Orange County.</p>"
+      "body_html": "<p>Plenty of owners handle this themselves. Outside help pays off when time is short, when the business has many locations or when a problem is costing calls every day it stays unresolved. Be wary of anyone who promises guaranteed positions or asks for your verification codes or passwords; Google says nobody can pay for a better local ranking. Look for clear explanations, honest timelines and reporting tied to real enquiries. <a href=\"https://thechimeraai.com/\">Chimera</a> offers exactly that to businesses in Anaheim and across Orange County.</p>"
     },
     {
       "heading": "The short version",
@@ -147,6 +147,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "A 30-day AI search plan for OC businesses",
+      "url": "https://thechimeraai.com/blog/30-day-ai-search-plan-orange-county/"
+    },
+    {
+      "anchor": "Google Business Profile service area",
+      "url": "https://thechimeraai.com/google-business-profile-service-area/"
+    },
+    {
+      "anchor": "Google Business Profile photos",
+      "url": "https://thechimeraai.com/google-business-profile-photos/"
+    },
+    {
+      "anchor": "Google Business Profile holiday hours",
+      "url": "https://thechimeraai.com/google-business-profile-holiday-hours/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

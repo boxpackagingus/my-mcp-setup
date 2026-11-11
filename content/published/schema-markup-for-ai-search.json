@@ -30,7 +30,7 @@
     },
     {
       "heading": "The schema types that matter most",
-      "body_html": "<table><tr><th>Type</th><th>Where</th><th>Why it helps</th></tr><tr><td>Organization</td><td>Homepage or sitewide</td><td>Name, logo, URL, contact and sameAs links identify your brand</td></tr><tr><td>LocalBusiness</td><td>Location pages</td><td>Address, hours, coordinates and service area</td></tr><tr><td>Service</td><td>Service pages</td><td>What you offer, to whom and where</td></tr><tr><td>Product</td><td>Product pages</td><td>Price, availability, brand and genuine reviews</td></tr><tr><td>Article</td><td>Guides and posts</td><td>Headline, author, dates and publisher</td></tr><tr><td>FAQPage</td><td>Pages with Q&amp;A</td><td>Marks questions and answers clearly</td></tr><tr><td>BreadcrumbList</td><td>Sitewide</td><td>Shows where a page sits in your site</td></tr></table>"
+      "body_html": "<table><tr><th>Type</th><th>Where</th><th>Why it helps</th></tr><tr><td>Organization</td><td>Homepage or sitewide</td><td>Name, logo, URL, contact and sameAs links identify your brand</td></tr><tr><td>LocalBusiness</td><td>Location pages</td><td>Address, hours, coordinates and service area</td></tr><tr><td>Service</td><td>Service pages</td><td>What you offer, to whom and where</td></tr><tr><td>Product</td><td>Product pages</td><td>Price, availability, brand and <a href=\"https://thechimeraai.com/how-to-get-more-google-reviews/\">genuine reviews</a></td></tr><tr><td>Article</td><td>Guides and posts</td><td>Headline, author, dates and publisher</td></tr><tr><td>FAQPage</td><td>Pages with Q&amp;A</td><td>Marks questions and answers clearly</td></tr><tr><td>BreadcrumbList</td><td>Sitewide</td><td>Shows where a page sits in your site</td></tr></table>"
     },
     {
       "heading": "Organization schema and your brand as an entity",
@@ -38,7 +38,7 @@
     },
     {
       "heading": "What changed with FAQ rich results",
-      "body_html": "<p>In August 2023 Google limited FAQ rich results to well-known, authoritative government and health websites, and it phased out HowTo rich results. Many sites stopped adding FAQPage markup as a result.</p><p>For GEO, FAQ content still matters a great deal, because AI engines love clear questions and answers. FAQPage markup describes that content accurately even when Google no longer shows a rich result for it. Keep it if your page genuinely has a Q&amp;A section, and never mark up questions that are not visible on the page.</p>"
+      "body_html": "<p>In August 2023 Google limited FAQ rich results to well-known, authoritative government and health websites, and it phased out HowTo rich results. Many sites stopped adding FAQPage markup as a result.</p><p>For <a href=\"https://thechimeraai.com/what-is-generative-engine-optimization-and-how-does-it-work/\">GEO</a>, FAQ content still matters a great deal, because AI engines love clear questions and answers. FAQPage markup describes that content accurately even when Google no longer shows a rich result for it. Keep it if your page genuinely has a Q&amp;A section, and never mark up questions that are not visible on the page.</p>"
     },
     {
       "heading": "How to implement schema correctly",
@@ -46,11 +46,11 @@
     },
     {
       "heading": "Schema on WordPress",
-      "body_html": "<p>SEO plugins such as Yoast and Rank Math generate Organization, Article and breadcrumb markup automatically. For landing pages, a plugin or template can add page-specific schema. The Chimera Engine, for example, outputs Article, FAQPage and BreadcrumbList JSON-LD for each guide it publishes, built from the same content readers see.</p>"
+      "body_html": "<p>SEO plugins such as Yoast and Rank Math generate Organization, Article and breadcrumb markup automatically. For landing pages, a plugin or template can add page-specific schema. The <a href=\"https://thechimeraai.com/\">Chimera</a> Engine, for example, outputs Article, FAQPage and BreadcrumbList JSON-LD for each guide it publishes, built from the same content readers see.</p>"
     },
     {
       "heading": "Mistakes that hurt more than help",
-      "body_html": "<ul><li><strong>Marking up content that is not on the page</strong>, such as hidden FAQs or fake reviews. Google treats this as spam.</li><li><strong>Self-serving review markup</strong> on your own business pages, which Google does not support for rich results.</li><li><strong>Outdated prices or hours</strong> that contradict the page.</li><li><strong>Duplicate, conflicting markup</strong> from several plugins at once.</li><li><strong>Expecting schema to fix weak content.</strong> It describes a page; it cannot make it the best answer.</li></ul>"
+      "body_html": "<ul><li><strong>Marking up content that is not on the page</strong>, such as hidden FAQs or <a href=\"https://thechimeraai.com/how-to-remove-fake-google-reviews/\">fake reviews</a>. Google treats this as spam.</li><li><strong>Self-serving review markup</strong> on your own business pages, which Google does not support for rich results.</li><li><strong>Outdated prices or hours</strong> that contradict the page.</li><li><strong>Duplicate, conflicting markup</strong> from several plugins at once.</li><li><strong>Expecting schema to fix weak content.</strong> It describes a page; it cannot make it the best answer.</li></ul>"
     },
     {
       "heading": "An example Organization schema",
@@ -111,6 +111,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Google's free SEO learning paths",
+      "url": "https://thechimeraai.com/blog/google-seo-learning-paths-small-business/"
+    },
+    {
+      "anchor": "FAQ Pages for AI Search: How to Write Them Well",
+      "url": "https://thechimeraai.com/faq-pages-for-ai-search/"
+    },
+    {
+      "anchor": "AI Search Statistics 2026",
+      "url": "https://thechimeraai.com/ai-search-statistics/"
+    },
+    {
+      "anchor": "Author Pages for E-E-A-T",
+      "url": "https://thechimeraai.com/author-pages-for-eeat/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

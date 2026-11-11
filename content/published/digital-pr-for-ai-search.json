@@ -30,7 +30,7 @@
     },
     {
       "heading": "Original data: the strongest hook",
-      "body_html": "<p>Journalists need facts. A small, well-run survey, an analysis of your own anonymized data, or a careful roundup of public statistics can earn coverage because it gives writers something new to quote. The GEO research paper by Aggarwal and colleagues found that adding statistics and citations was among the methods that improved visibility in generative engine responses, so data helps on your own pages too.</p><ul><li>Explain your method and sample size.</li><li>Publish the full findings on your site with charts.</li><li>Lead with one clear, surprising finding.</li><li>Never inflate or cherry-pick numbers.</li></ul>"
+      "body_html": "<p>Journalists need facts. A small, well-run survey, an analysis of your own anonymized data, or a careful roundup of public statistics can earn coverage because it gives writers something new to quote. The <a href=\"https://thechimeraai.com/what-is-generative-engine-optimization-and-how-does-it-work/\">GEO</a> research paper by Aggarwal and colleagues found that adding statistics and citations was among the methods that improved visibility in generative engine responses, so data helps on your own pages too.</p><ul><li>Explain your method and sample size.</li><li>Publish the full findings on your site with charts.</li><li>Lead with one clear, surprising finding.</li><li>Never inflate or cherry-pick numbers.</li></ul>"
     },
     {
       "heading": "Expert commentary",
@@ -66,7 +66,7 @@
     },
     {
       "heading": "An example data-led story",
-      "body_html": "<p>Suppose a local marketing agency reviews 200 small business websites in its region and finds how many block AI crawlers, lack a clear answer on their homepage or have inconsistent business details across listings. That becomes a story: a short report with the method explained, three charts and one clear headline finding. The agency pitches it to the regional business journal and two trade newsletters, offers a spokesperson for comment, and publishes the full findings on its own site. Every article that covers it describes the agency the same way and links to the original data, which future writers and AI tools can find.</p>"
+      "body_html": "<p>Suppose a local marketing agency reviews 200 small business websites in its region and finds how many block <a href=\"https://thechimeraai.com/ai-crawler-user-agents/\">AI crawlers</a>, lack a clear answer on their homepage or have inconsistent business details across listings. That becomes a story: a short report with the method explained, three charts and one clear headline finding. The agency pitches it to the regional business journal and two trade newsletters, offers a spokesperson for comment, and publishes the full findings on its own site. Every article that covers it describes the agency the same way and links to the original data, which future writers and AI tools can find.</p>"
     },
     {
       "heading": "Building relationships with journalists",
@@ -135,6 +135,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Google's free SEO learning paths",
+      "url": "https://thechimeraai.com/blog/google-seo-learning-paths-small-business/"
+    },
+    {
+      "anchor": "YouTube for AI Search: Get Your Videos Cited",
+      "url": "https://thechimeraai.com/youtube-for-ai-search/"
+    },
+    {
+      "anchor": "Do Press Releases Help AI Search? An Honest Answer",
+      "url": "https://thechimeraai.com/press-releases-for-ai-search/"
+    },
+    {
+      "anchor": "Reddit for AI Search: How It Shapes AI Answers",
+      "url": "https://thechimeraai.com/reddit-for-ai-search/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

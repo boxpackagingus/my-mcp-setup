@@ -30,11 +30,11 @@
     },
     {
       "heading": "1. Crawler access",
-      "body_html": "<ul><li>robots.txt allows OAI-SearchBot, ChatGPT-User, PerplexityBot, Perplexity-User, Claude-SearchBot, Claude-User, Googlebot and Bingbot.</li><li>Your firewall or CDN does not block AI search bots.</li><li>Important content is in the HTML, not only loaded by scripts.</li><li>No accidental noindex tags on pages you want found.</li><li>A decision is made, on purpose, about training bots such as GPTBot, ClaudeBot and Google-Extended.</li></ul>"
+      "body_html": "<ul><li><a href=\"https://thechimeraai.com/robots-txt-for-ai-crawlers/\">robots.txt</a> allows OAI-SearchBot, ChatGPT-User, PerplexityBot, Perplexity-User, Claude-SearchBot, Claude-User, Googlebot and Bingbot.</li><li>Your firewall or CDN does not block AI search bots.</li><li>Important content is in the HTML, not only loaded by scripts.</li><li>No accidental noindex tags on pages you want found.</li><li>A decision is made, on purpose, about training bots such as GPTBot, ClaudeBot and Google-Extended.</li></ul>"
     },
     {
       "heading": "2. Indexing and discovery",
-      "body_html": "<ul><li>XML sitemap submitted in Google Search Console and Bing Webmaster Tools.</li><li>IndexNow set up where your platform supports it.</li><li>Key pages indexed in both Google and Bing.</li><li>No orphan pages: every important page is linked from another page.</li><li>An llms.txt file listing your most important pages (optional but quick).</li></ul>"
+      "body_html": "<ul><li>XML sitemap submitted in Google Search Console and Bing Webmaster Tools.</li><li>IndexNow set up where your platform supports it.</li><li>Key pages indexed in both Google and Bing.</li><li>No orphan pages: every important page is linked from another page.</li><li>An <a href=\"https://thechimeraai.com/best-practices-for-llms-txt/\">llms.txt</a> file listing your most important pages (optional but quick).</li></ul>"
     },
     {
       "heading": "3. Page experience",
@@ -54,11 +54,11 @@
     },
     {
       "heading": "7. Brand consistency",
-      "body_html": "<ul><li>One plain-language description of what you do, used everywhere.</li><li>Identical name, address and phone across website, Google Business Profile, Bing Places and directories.</li><li>Social and directory profiles complete and current.</li><li>Leadership names and titles consistent.</li></ul>"
+      "body_html": "<ul><li>One plain-language description of what you do, used everywhere.</li><li>Identical name, address and phone across website, <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a>, Bing Places and directories.</li><li>Social and directory profiles complete and current.</li><li>Leadership names and titles consistent.</li></ul>"
     },
     {
       "heading": "8. Off-site signals",
-      "body_html": "<ul><li>Genuine reviews on the platforms your buyers use, with replies.</li><li>Listings on relevant industry directories.</li><li>Inclusion in credible roundups and best-of lists.</li><li>Press or trade coverage, earned through data or expertise.</li><li>Helpful participation in communities where buyers ask questions.</li></ul>"
+      "body_html": "<ul><li><a href=\"https://thechimeraai.com/how-to-get-more-google-reviews/\">Genuine reviews</a> on the platforms your buyers use, with replies.</li><li>Listings on relevant industry directories.</li><li>Inclusion in credible roundups and best-of lists.</li><li>Press or trade coverage, earned through data or expertise.</li><li>Helpful participation in communities where buyers ask questions.</li></ul>"
     },
     {
       "heading": "9. Measurement",
@@ -78,7 +78,7 @@
     },
     {
       "heading": "Who owns each section",
-      "body_html": "<p>Assign an owner to each part of the checklist: a developer or host for crawler access and page experience, a marketer for content and structured data, an operations person for listings and brand details, and whoever handles customer feedback for reviews. Shared ownership is the most common reason checklist items stay unfinished for months.</p>"
+      "body_html": "<p>Assign an owner to each part of the checklist: a developer or host for crawler access and page experience, a marketer for content and <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a>, an operations person for listings and brand details, and whoever handles customer feedback for reviews. Shared ownership is the most common reason checklist items stay unfinished for months.</p>"
     },
     {
       "heading": "The short version",
@@ -151,6 +151,26 @@
     {
       "anchor": "Core Web Vitals for local businesses",
       "url": "https://thechimeraai.com/core-web-vitals-for-local-businesses/"
+    },
+    {
+      "anchor": "Search Console's generative AI performance report",
+      "url": "https://thechimeraai.com/blog/search-console-generative-ai-performance-report/"
+    },
+    {
+      "anchor": "GEO SEO Best Practices: 15-Point Checklist",
+      "url": "https://thechimeraai.com/geo-seo-best-practices/"
+    },
+    {
+      "anchor": "Generative Engine Optimization Agency: What They Do",
+      "url": "https://thechimeraai.com/generative-engine-optimization-agency/"
+    },
+    {
+      "anchor": "How Much Does GEO Cost? Pricing Models and What Drives Price",
+      "url": "https://thechimeraai.com/how-much-does-geo-cost/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

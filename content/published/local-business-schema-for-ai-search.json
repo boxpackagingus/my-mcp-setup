@@ -26,11 +26,11 @@
   "sections": [
     {
       "heading": "What local business schema does",
-      "body_html": "<p>Structured data is code, usually JSON-LD, that describes the content of a page in a standard vocabulary. For local businesses, schema.org's <code>LocalBusiness</code> type and its many subtypes let you state your name, address, phone, opening hours, geographic coordinates, price range and more in a way machines can read without guessing. Google's documentation explains how it uses local business structured data and which properties it supports.</p>"
+      "body_html": "<p><a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">Structured data</a> is code, usually JSON-LD, that describes the content of a page in a standard vocabulary. For local businesses, schema.org's <code>LocalBusiness</code> type and its many subtypes let you state your name, address, phone, opening hours, geographic coordinates, price range and more in a way machines can read without guessing. Google's documentation explains how it uses local business structured data and which properties it supports.</p>"
     },
     {
       "heading": "Why it matters for AI search",
-      "body_html": "<p>Local AI answers depend on accurate details: an assistant recommending a business that is closed, or giving the wrong phone number, fails its user. Clean structured data that matches your page and listings is one more consistent source of those details. It does not replace a Google Business Profile or clear text on your page, but it supports both.</p>"
+      "body_html": "<p>Local AI answers depend on accurate details: an assistant recommending a business that is closed, or giving the wrong phone number, fails its user. Clean structured data that matches your page and listings is one more consistent source of those details. It does not replace a <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a> or clear text on your page, but it supports both.</p>"
     },
     {
       "heading": "Choose the right type",
@@ -38,7 +38,7 @@
     },
     {
       "heading": "Properties to include",
-      "body_html": "<ul><li><strong>name</strong>: your business name exactly as on signage and listings.</li><li><strong>address</strong>: a full PostalAddress.</li><li><strong>telephone.</strong></li><li><strong>url</strong> of the location page.</li><li><strong>openingHoursSpecification</strong>, including special hours where relevant.</li><li><strong>geo</strong>: latitude and longitude.</li><li><strong>image</strong> and <strong>logo.</strong></li><li><strong>priceRange</strong>, where appropriate.</li><li><strong>areaServed</strong> for service-area businesses.</li><li><strong>sameAs</strong>: links to your official profiles.</li></ul><p>Check Google's documentation for which properties are required and recommended for the features you want.</p>"
+      "body_html": "<ul><li><strong>name</strong>: your business name exactly as on signage and listings.</li><li><strong>address</strong>: a full PostalAddress.</li><li><strong>telephone.</strong></li><li><strong>url</strong> of the location page.</li><li><strong>openingHoursSpecification</strong>, including special hours where relevant.</li><li><strong><a href=\"https://thechimeraai.com/what-is-generative-engine-optimization-and-how-does-it-work/\">geo</a></strong>: latitude and longitude.</li><li><strong>image</strong> and <strong>logo.</strong></li><li><strong>priceRange</strong>, where appropriate.</li><li><strong>areaServed</strong> for <a href=\"https://thechimeraai.com/service-area-business-seo/\">service-area businesses</a>.</li><li><strong>sameAs</strong>: links to your official profiles.</li></ul><p>Check Google's documentation for which properties are required and recommended for the features you want.</p>"
     },
     {
       "heading": "Match the visible page",
@@ -155,6 +155,26 @@
     {
       "anchor": "NAP consistency",
       "url": "https://thechimeraai.com/nap-consistency-local-citations/"
+    },
+    {
+      "anchor": "A 30-day AI search plan for OC businesses",
+      "url": "https://thechimeraai.com/blog/30-day-ai-search-plan-orange-county/"
+    },
+    {
+      "anchor": "GEO Agency in Orange County: Get Recommended by AI",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "How to Choose a GEO Agency: 10-Point Checklist",
+      "url": "https://thechimeraai.com/how-to-choose-a-geo-agency/"
+    },
+    {
+      "anchor": "Core Web Vitals",
+      "url": "https://thechimeraai.com/core-web-vitals-for-local-businesses/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

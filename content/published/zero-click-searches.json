@@ -26,7 +26,7 @@
   "sections": [
     {
       "heading": "What a zero-click search is",
-      "body_html": "<p>A zero-click search is one where the searcher does not click through to any website. SparkToro defines it as a search that ends without a click on any of the results presented, whether the person was satisfied, frustrated, or changed their query and searched again.</p><p>Common causes include answer boxes, featured snippets, knowledge panels, maps, calculators, and now AI Overviews and AI Mode, which write a full answer at the top of the page.</p>"
+      "body_html": "<p>A zero-click search is one where the searcher does not click through to any website. SparkToro defines it as a search that ends without a click on any of the results presented, whether the person was satisfied, frustrated, or changed their query and searched again.</p><p>Common causes include answer boxes, featured snippets, knowledge panels, maps, calculators, and now <a href=\"https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/\">AI Overviews</a> and <a href=\"https://thechimeraai.com/how-to-optimize-for-google-ai-mode/\">AI Mode</a>, which write a full answer at the top of the page.</p>"
     },
     {
       "heading": "How common zero-click searches are",
@@ -42,7 +42,7 @@
     },
     {
       "heading": "How to win visibility without the click",
-      "body_html": "<ul><li><strong>Answer the question in the first paragraph</strong>, in 40 to 60 words, so it can be quoted.</li><li><strong>Put your brand inside the answer</strong>, naturally: who you are and what you do, stated plainly.</li><li><strong>Publish facts worth citing</strong>, such as price ranges, timelines and comparisons, with sources.</li><li><strong>Keep business details consistent</strong> across your site, Google Business Profile and directories.</li><li><strong>Earn mentions</strong> on the review sites, communities and publications AI engines read.</li></ul>"
+      "body_html": "<ul><li><strong>Answer the question in the first paragraph</strong>, in 40 to 60 words, so it can be quoted.</li><li><strong>Put your brand inside the answer</strong>, naturally: who you are and what you do, stated plainly.</li><li><strong>Publish facts worth citing</strong>, such as price ranges, timelines and comparisons, with sources.</li><li><strong>Keep business details consistent</strong> across your site, <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a> and directories.</li><li><strong>Earn mentions</strong> on the review sites, communities and publications AI engines read.</li></ul>"
     },
     {
       "heading": "Which searches still earn clicks",
@@ -50,7 +50,7 @@
     },
     {
       "heading": "How to measure performance in a zero-click world",
-      "body_html": "<ol><li><strong>Impressions</strong> in Search Console for the questions you target, a sign you are being shown.</li><li><strong>Branded search volume</strong>, which rises when AI answers mention you.</li><li><strong>AI referrals</strong> in Google Analytics from chatgpt.com, perplexity.ai and similar sources.</li><li><strong>Leads and conversions</strong> by landing page.</li><li><strong>Regular checks of AI answers</strong> for your key questions, recording who is named.</li></ol>"
+      "body_html": "<ol><li><strong>Impressions</strong> in Search Console for the questions you target, a sign you are being shown.</li><li><strong>Branded search volume</strong>, which rises when AI answers mention you.</li><li><strong>AI referrals</strong> in Google Analytics from <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">chatgpt</a>.com, <a href=\"https://thechimeraai.com/perplexity-seo/\">perplexity</a>.ai and similar sources.</li><li><strong>Leads and conversions</strong> by landing page.</li><li><strong>Regular checks of AI answers</strong> for your key questions, recording who is named.</li></ol>"
     },
     {
       "heading": "Who should not over-react",
@@ -119,6 +119,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Search Console's generative AI performance report",
+      "url": "https://thechimeraai.com/blog/search-console-generative-ai-performance-report/"
+    },
+    {
+      "anchor": "Generative Engine Optimization Agency: What They Do",
+      "url": "https://thechimeraai.com/generative-engine-optimization-agency/"
+    },
+    {
+      "anchor": "GEO Content Strategy: Plan Content AI Search Cites",
+      "url": "https://thechimeraai.com/geo-content-strategy/"
+    },
+    {
+      "anchor": "How AI Search Engines Choose Sources to Cite",
+      "url": "https://thechimeraai.com/how-ai-search-engines-choose-sources/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

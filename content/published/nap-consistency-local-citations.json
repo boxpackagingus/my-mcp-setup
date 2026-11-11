@@ -34,7 +34,7 @@
     },
     {
       "heading": "Where to check",
-      "body_html": "<ul><li>Google Business Profile.</li><li>Apple Maps and Bing Places.</li><li>Yelp and Facebook.</li><li>Industry directories for your field.</li><li>Local chamber or association listings.</li><li>Your own website and structured data.</li></ul>"
+      "body_html": "<ul><li><a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a>.</li><li>Apple Maps and Bing Places.</li><li>Yelp and Facebook.</li><li>Industry directories for your field.</li><li>Local chamber or association listings.</li><li>Your own website and <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a>.</li></ul>"
     },
     {
       "heading": "Pick one official version",
@@ -94,7 +94,7 @@
     },
     {
       "heading": "A worked example: a Newport Beach law firm",
-      "body_html": "<p>A Newport Beach law firm moved offices two years ago. An audit finds the old address still listed on three directories, a different phone number on a legal directory and the firm name written three ways. It picks one official version, updates its profile and website first, then the directories, and requests closure of a duplicate map listing. Clients and AI assistants now see consistent details.</p>"
+      "body_html": "<p>A <a href=\"https://thechimeraai.com/seo-newport-beach/\">Newport Beach</a> law firm moved offices two years ago. An audit finds the old address still listed on three directories, a different phone number on a legal directory and the firm name written three ways. It picks one official version, updates its profile and website first, then the directories, and requests closure of a duplicate map listing. Clients and AI assistants now see consistent details.</p>"
     },
     {
       "heading": "How to run a citation audit",
@@ -195,6 +195,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "A 30-day AI search plan for OC businesses",
+      "url": "https://thechimeraai.com/blog/30-day-ai-search-plan-orange-county/"
+    },
+    {
+      "anchor": "Remove fake Google reviews",
+      "url": "https://thechimeraai.com/how-to-remove-fake-google-reviews/"
+    },
+    {
+      "anchor": "Huntington Beach SEO",
+      "url": "https://thechimeraai.com/seo-huntington-beach/"
+    },
+    {
+      "anchor": "Google Business Profile suspended",
+      "url": "https://thechimeraai.com/google-business-profile-suspended/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [
@@ -315,5 +335,5 @@
     "height": 840
   },
   "published": "2026-11-10",
-  "updated": "2026-11-10"
+  "updated": "2026-11-11"
 }

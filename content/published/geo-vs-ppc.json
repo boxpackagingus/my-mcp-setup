@@ -26,7 +26,7 @@
   "sections": [
     {
       "heading": "What each one is",
-      "body_html": "<p><strong>PPC</strong> (pay-per-click) means paying for ads that appear in search results or other placements, usually charged per click. You choose keywords, audiences and budgets, and ads appear almost immediately.</p><p><strong>GEO</strong> (generative engine optimization) means making your brand and content easy for AI tools like ChatGPT, Gemini, Perplexity and Google's AI features to find, trust and cite. You cannot buy a place in an organic AI answer; you earn it through content, technical access and reputation.</p>"
+      "body_html": "<p><strong>PPC</strong> (pay-per-click) means paying for ads that appear in search results or other placements, usually charged per click. You choose keywords, audiences and budgets, and ads appear almost immediately.</p><p><strong><a href=\"https://thechimeraai.com/what-is-generative-engine-optimization-and-how-does-it-work/\">GEO</a></strong> (generative engine optimization) means making your brand and content easy for AI tools like <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a>, <a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a>, <a href=\"https://thechimeraai.com/perplexity-seo/\">Perplexity</a> and Google's AI features to find, trust and cite. You cannot buy a place in an organic AI answer; you earn it through content, technical access and reputation.</p>"
     },
     {
       "heading": "Side-by-side comparison",
@@ -139,6 +139,26 @@
     {
       "anchor": "Local Services Ads vs SEO",
       "url": "https://thechimeraai.com/google-local-services-ads-vs-seo/"
+    },
+    {
+      "anchor": "Search Console's generative AI performance report",
+      "url": "https://thechimeraai.com/blog/search-console-generative-ai-performance-report/"
+    },
+    {
+      "anchor": "AI Visibility Audit: What It Checks and Why You Need One",
+      "url": "https://thechimeraai.com/ai-visibility-audit/"
+    },
+    {
+      "anchor": "GEO vs SEO: Key Differences and How They Work Together",
+      "url": "https://thechimeraai.com/geo-vs-seo/"
+    },
+    {
+      "anchor": "AI Search Optimization Checklist: 40 Steps for 2026",
+      "url": "https://thechimeraai.com/ai-search-optimization-checklist/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

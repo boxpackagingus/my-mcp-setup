@@ -26,11 +26,11 @@
   "sections": [
     {
       "heading": "What a generative engine optimization agency actually does",
-      "body_html": "<p>Generative engine optimization (GEO) is the practice of making a brand easy for AI systems to find, understand, trust and quote. A generative engine optimization agency does that work for you across the engines your buyers use: ChatGPT, Google Gemini and AI Overviews, Perplexity, Claude and Microsoft Copilot.</p><p>The goal is different from classic SEO. A search result page shows ten links and lets the buyer choose. An AI answer usually names a handful of brands, explains why, and links to a few sources. If you are not one of those names, you are invisible for that question, even if you rank on page one.</p><p>So a GEO agency asks a specific question for every topic that matters to your business: <em>when a buyer asks an AI assistant about this, does it mention us, describe us correctly, and link to us?</em> Then it works on the gaps.</p>"
+      "body_html": "<p>Generative engine optimization (GEO) is the practice of making a brand easy for AI systems to find, understand, trust and quote. A generative engine optimization agency does that work for you across the engines your buyers use: ChatGPT, Google Gemini and <a href=\"https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/\">AI Overviews</a>, <a href=\"https://thechimeraai.com/perplexity-seo/\">Perplexity</a>, Claude and Microsoft Copilot.</p><p>The goal is different from classic SEO. A search result page shows ten links and lets the buyer choose. An AI answer usually names a handful of brands, explains why, and links to a few sources. If you are not one of those names, you are invisible for that question, even if you rank on page one.</p><p>So a GEO agency asks a specific question for every topic that matters to your business: <em>when a buyer asks an AI assistant about this, does it mention us, describe us correctly, and link to us?</em> Then it works on the gaps.</p>"
     },
     {
       "heading": "The core services in a GEO engagement",
-      "body_html": "<p>Engagements vary, but a complete generative engine optimization agency covers six areas:</p><ol><li><strong>AI visibility audit.</strong> Running your buyers' real questions through each engine and recording who gets mentioned, how you are described, and which sources are cited.</li><li><strong>Technical access.</strong> Making sure AI crawlers such as OpenAI's OAI-SearchBot and PerplexityBot can reach your pages, that pages are indexed, and that nothing important is hidden behind scripts or logins.</li><li><strong>Machine-readable structure.</strong> Organization, Service, Article and FAQ schema, a clean sitemap and an <code>llms.txt</code> file that maps your most useful pages.</li><li><strong>GEO content structuring.</strong> Rewriting key pages at passage level: direct answers at the top, question-style headings, comparison tables and specific, sourced facts.</li><li><strong>Entity and authority building.</strong> Consistent brand descriptions across your site, profiles, directories and earned mentions, so engines can confidently connect your name to your specialty.</li><li><strong>Citation tracking.</strong> Re-testing the same questions over time and reporting mentions, citations and AI-referred visits and leads.</li></ol>"
+      "body_html": "<p>Engagements vary, but a complete generative engine optimization agency covers six areas:</p><ol><li><strong>AI visibility audit.</strong> Running your buyers' real questions through each engine and recording who gets mentioned, how you are described, and which sources are cited.</li><li><strong>Technical access.</strong> Making sure <a href=\"https://thechimeraai.com/ai-crawler-user-agents/\">AI crawlers</a> such as OpenAI's OAI-SearchBot and PerplexityBot can reach your pages, that pages are indexed, and that nothing important is hidden behind scripts or logins.</li><li><strong>Machine-readable structure.</strong> Organization, Service, Article and FAQ schema, a clean sitemap and an <code><a href=\"https://thechimeraai.com/best-practices-for-llms-txt/\">llms.txt</a></code> file that maps your most useful pages.</li><li><strong>GEO content structuring.</strong> Rewriting key pages at passage level: direct answers at the top, question-style headings, comparison tables and specific, sourced facts.</li><li><strong>Entity and authority building.</strong> Consistent brand descriptions across your site, profiles, directories and earned mentions, so engines can confidently connect your name to your specialty.</li><li><strong>Citation tracking.</strong> Re-testing the same questions over time and reporting mentions, citations and AI-referred visits and leads.</li></ol>"
     },
     {
       "heading": "How a GEO agency differs from an SEO agency",
@@ -42,7 +42,7 @@
     },
     {
       "heading": "What a good first 90 days looks like",
-      "body_html": "<p>A credible generative engine optimization agency should be able to show you a plan like this before you sign:</p><ul><li><strong>Weeks 1–2: diagnose.</strong> A baseline of how each engine answers your top 30–50 buyer questions, plus a technical audit of crawl access, indexing and structured data.</li><li><strong>Weeks 2–4: fix.</strong> Unblock AI crawlers, repair indexing problems, add schema and <code>llms.txt</code>, and set up tracking for AI referrers and form submissions.</li><li><strong>Weeks 4–8: structure and content.</strong> Rebuild the pages that matter most and publish new pages that answer high-intent questions directly.</li><li><strong>Weeks 8–12: authority and measurement.</strong> Start earning mentions in places engines trust, re-run the baseline questions, and report what moved.</li></ul><p>Expect early citations on specific, long-tail questions first. Broad, competitive questions take longer, and nobody controls what an AI model says on a given day.</p>"
+      "body_html": "<p>A credible generative engine optimization agency should be able to show you a plan like this before you sign:</p><ul><li><strong>Weeks 1–2: diagnose.</strong> A baseline of how each engine answers your top 30–50 buyer questions, plus a technical audit of crawl access, indexing and <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a>.</li><li><strong>Weeks 2–4: fix.</strong> Unblock AI crawlers, repair indexing problems, add schema and <code>llms.txt</code>, and set up tracking for AI referrers and form submissions.</li><li><strong>Weeks 4–8: structure and content.</strong> Rebuild the pages that matter most and publish new pages that answer high-intent questions directly.</li><li><strong>Weeks 8–12: authority and measurement.</strong> Start earning mentions in places engines trust, re-run the baseline questions, and report what moved.</li></ul><p>Expect early citations on specific, long-tail questions first. Broad, competitive questions take longer, and nobody controls what an AI model says on a given day.</p>"
     },
     {
       "heading": "How to measure what a GEO agency delivers",
@@ -99,6 +99,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Search Console's generative AI performance report",
+      "url": "https://thechimeraai.com/blog/search-console-generative-ai-performance-report/"
+    },
+    {
+      "anchor": "AI Search Optimization Checklist: 40 Steps for 2026",
+      "url": "https://thechimeraai.com/ai-search-optimization-checklist/"
+    },
+    {
+      "anchor": "Does GEO Bring Sales? How AI Search Turns Into Revenue",
+      "url": "https://thechimeraai.com/is-geo-bring-sales/"
+    },
+    {
+      "anchor": "GEO Content Strategy: Plan Content AI Search Cites",
+      "url": "https://thechimeraai.com/geo-content-strategy/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

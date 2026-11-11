@@ -30,7 +30,7 @@
     },
     {
       "heading": "What AI engines need from a product page",
-      "body_html": "<ul><li><strong>Plain-language summary:</strong> what the product is, who it is for and the main benefit, in the first lines.</li><li><strong>Complete specs:</strong> sizes, materials, dimensions, compatibility and care, in text rather than only images.</li><li><strong>Use cases:</strong> the situations the product suits, and the ones it does not.</li><li><strong>Comparison:</strong> how it differs from your other models and common alternatives.</li><li><strong>Price and availability:</strong> current, visible and matching your structured data.</li><li><strong>Reviews:</strong> real customer feedback with details, not just star ratings.</li></ul><p>Most product pages are built for browsing photos. AI engines need words they can quote.</p>"
+      "body_html": "<ul><li><strong>Plain-language summary:</strong> what the product is, who it is for and the main benefit, in the first lines.</li><li><strong>Complete specs:</strong> sizes, materials, dimensions, compatibility and care, in text rather than only images.</li><li><strong>Use cases:</strong> the situations the product suits, and the ones it does not.</li><li><strong>Comparison:</strong> how it differs from your other models and common alternatives.</li><li><strong>Price and availability:</strong> current, visible and matching your <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a>.</li><li><strong>Reviews:</strong> real customer feedback with details, not just star ratings.</li></ul><p>Most product pages are built for browsing photos. AI engines need words they can quote.</p>"
     },
     {
       "heading": "Structured data for e-commerce",
@@ -50,7 +50,7 @@
     },
     {
       "heading": "Measuring e-commerce GEO",
-      "body_html": "<p>Track AI-referred sessions, add-to-carts and purchases by engine and landing page in Google Analytics 4, using a custom AI search channel. Test your top shopper questions in ChatGPT, Gemini, Perplexity and Google AI Overviews monthly and record which products are named. Over time, connect improvements in AI mentions to revenue from those landing pages.</p>"
+      "body_html": "<p>Track AI-referred sessions, add-to-carts and purchases by engine and landing page in Google Analytics 4, using a custom AI search channel. Test your top shopper questions in <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a>, <a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a>, <a href=\"https://thechimeraai.com/perplexity-seo/\">Perplexity</a> and Google <a href=\"https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/\">AI Overviews</a> monthly and record which products are named. Over time, connect improvements in AI mentions to revenue from those landing pages.</p>"
     },
     {
       "heading": "Example: rewriting a product description for AI",
@@ -111,6 +111,26 @@
     {
       "anchor": "SEO for Shopify stores",
       "url": "https://thechimeraai.com/seo-for-shopify-stores/"
+    },
+    {
+      "anchor": "Google Universal Cart for OC retailers",
+      "url": "https://thechimeraai.com/blog/google-universal-cart-orange-county-retailers/"
+    },
+    {
+      "anchor": "Product Pages for AI Shopping",
+      "url": "https://thechimeraai.com/product-pages-for-ai-shopping/"
+    },
+    {
+      "anchor": "Google Holiday 100 for OC retailers",
+      "url": "https://thechimeraai.com/blog/google-holiday-100-orange-county-retailers/"
+    },
+    {
+      "anchor": "How ChatGPT Recommends Local Businesses",
+      "url": "https://thechimeraai.com/how-chatgpt-recommends-local-businesses/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

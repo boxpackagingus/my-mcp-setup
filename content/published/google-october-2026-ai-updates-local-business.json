@@ -26,7 +26,7 @@
   "sections": [
     {
       "heading": "The headline updates",
-      "body_html": "<p>In its October 2026 AI recap, Google said it rolled out Gemini 4 Argon, a frontier reasoning model, to developers, enterprises, scientists and consumers, across Google AI Studio, the Gemini API, Google Cloud, Search and the Gemini app. Two weeks later it announced Gemini 4 Carbon, which it called its strongest model yet, now in pre-release testing with the U.S. government and a subset of trusted cyber defenders before a broader launch.</p>"
+      "body_html": "<p>In its October 2026 AI recap, Google said it rolled out <a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a> 4 Argon, a frontier reasoning model, to developers, enterprises, scientists and consumers, across Google AI Studio, the Gemini API, Google Cloud, Search and the Gemini app. Two weeks later it announced Gemini 4 Carbon, which it called its strongest model yet, now in pre-release testing with the U.S. government and a subset of trusted cyber defenders before a broader launch.</p>"
     },
     {
       "heading": "Other announcements",
@@ -54,7 +54,7 @@
     },
     {
       "heading": "Local examples",
-      "body_html": "<p>An Anaheim restaurant with a text menu, accurate hours and genuine reviews gives a reasoning model plenty to work with. A Santa Ana law firm with detailed practice pages and attorney bios is easier to describe accurately. In both cases, the work is the same as good local SEO.</p>"
+      "body_html": "<p>An Anaheim restaurant with a text menu, accurate hours and <a href=\"https://thechimeraai.com/how-to-get-more-google-reviews/\">genuine reviews</a> gives a reasoning model plenty to work with. A Santa Ana law firm with detailed practice pages and attorney bios is easier to describe accurately. In both cases, the work is the same as good local SEO.</p>"
     },
     {
       "heading": "A note on hype",
@@ -62,7 +62,7 @@
     },
     {
       "heading": "How to track the effect",
-      "body_html": "<p>Each month, ask Google's AI features and Gemini the questions your customers ask, and note whether you appear and how you are described. Track AI referrals in Google Analytics alongside Search Console impressions.</p>"
+      "body_html": "<p>Each month, ask Google's AI features and Gemini the questions your customers ask, and note whether you appear and how you are described. Track AI referrals in <a href=\"https://thechimeraai.com/how-to-track-ai-traffic-in-google-analytics/\">Google Analytics</a> alongside <a href=\"https://thechimeraai.com/blog/search-console-generative-ai-performance-report/\">Search Console</a> impressions.</p>"
     },
     {
       "heading": "Common mistakes",
@@ -94,7 +94,7 @@
     },
     {
       "heading": "What to tell your team",
-      "body_html": "<p>Share one simple message with staff: keep everything we publish accurate, specific and honest. That covers menus, hours, prices, photos and replies to reviews, and it is the habit that protects you through every AI update.</p>"
+      "body_html": "<p>Share one simple message with staff: keep everything we publish accurate, specific and honest. That covers menus, hours, prices, photos and <a href=\"https://thechimeraai.com/how-to-respond-to-google-reviews/\">replies to reviews</a>, and it is the habit that protects you through every AI update.</p>"
     },
     {
       "heading": "The short version",
@@ -163,6 +163,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Gemini 4 Carbon arrives in AI Mode",
+      "url": "https://thechimeraai.com/blog/gemini-4-carbon-ai-mode-local-business/"
+    },
+    {
+      "anchor": "Google's new AI Mode links",
+      "url": "https://thechimeraai.com/blog/google-ai-mode-inline-links-update/"
+    },
+    {
+      "anchor": "Gemini can book reservations now",
+      "url": "https://thechimeraai.com/blog/gemini-task-automation-bookings-anaheim/"
+    },
+    {
+      "anchor": "Robots.txt for AI Crawlers: What to Allow and Block",
+      "url": "https://thechimeraai.com/robots-txt-for-ai-crawlers/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

@@ -26,11 +26,11 @@
   "sections": [
     {
       "heading": "Why there is no single answer",
-      "body_html": "<p>GEO results arrive through different routes at different speeds. Live AI search answers, such as ChatGPT search, Perplexity and Google's AI Overviews, use current web indexes, so improvements to pages and access can show up as soon as the pages are re-crawled. What a model knows from its training data only changes when the model is retrained, on a schedule you do not control. Most of what a GEO program can influence quickly is the first route.</p>"
+      "body_html": "<p>GEO results arrive through different routes at different speeds. Live AI search answers, such as <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a> search, <a href=\"https://thechimeraai.com/perplexity-seo/\">Perplexity</a> and Google's <a href=\"https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/\">AI Overviews</a>, use current web indexes, so improvements to pages and access can show up as soon as the pages are re-crawled. What a model knows from its training data only changes when the model is retrained, on a schedule you do not control. Most of what a GEO program can influence quickly is the first route.</p>"
     },
     {
       "heading": "Days to weeks: technical fixes",
-      "body_html": "<p>If AI search crawlers were blocked by robots.txt or a firewall, unblocking them is the fastest win. Once crawlers can read your pages, those pages become eligible for that platform's answers. Submitting your sitemap in Google Search Console and Bing Webmaster Tools, and notifying search engines through IndexNow where supported, helps new and changed pages get discovered sooner. Fixing inconsistent business details on your profile and listings can also change local AI answers within weeks.</p>"
+      "body_html": "<p>If AI search crawlers were blocked by <a href=\"https://thechimeraai.com/robots-txt-for-ai-crawlers/\">robots.txt</a> or a firewall, unblocking them is the fastest win. Once crawlers can read your pages, those pages become eligible for that platform's answers. Submitting your sitemap in Google Search Console and Bing Webmaster Tools, and notifying search engines through IndexNow where supported, helps new and changed pages get discovered sooner. Fixing inconsistent business details on your profile and listings can also change local AI answers within weeks.</p>"
     },
     {
       "heading": "Weeks to two months: new and improved pages",
@@ -58,7 +58,7 @@
     },
     {
       "heading": "An example timeline for a new service business",
-      "body_html": "<p>Consider a typical case: a local service business with a new website, a small amount of content and an incomplete Google Business Profile. In the first two weeks, the priorities are confirming that Googlebot, Bingbot and the AI search crawlers can reach the site, submitting the sitemap to Google and Bing, and making the business name, address and phone number consistent everywhere. None of that produces leads on its own, but it removes the blockers.</p><p>During the first and second months, the business publishes answer-first pages for its main services and the questions customers ask most, each with a clear answer, specific details and an FAQ. The first signs of progress are usually impressions in Search Console for long, question-style queries and the occasional visit from chatgpt.com or perplexity.ai.</p><p>From the third month onward, steady publishing, new reviews and a few mentions on local and industry sites begin to compound. The business starts appearing in AI answers for specific questions about its service and area, and branded searches rise. Being named in broad \"best provider\" answers typically comes last, because it depends most on reputation built outside the website.</p>"
+      "body_html": "<p>Consider a typical case: a local service business with a new website, a small amount of content and an incomplete <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a>. In the first two weeks, the priorities are confirming that Googlebot, Bingbot and the AI search crawlers can reach the site, submitting the sitemap to Google and Bing, and making the business name, address and phone number consistent everywhere. None of that produces leads on its own, but it removes the blockers.</p><p>During the first and second months, the business publishes answer-first pages for its main services and the questions customers ask most, each with a clear answer, specific details and an FAQ. The first signs of progress are usually impressions in Search Console for long, question-style queries and the occasional visit from chatgpt.com or perplexity.ai.</p><p>From the third month onward, steady publishing, new reviews and a few mentions on local and industry sites begin to compound. The business starts appearing in AI answers for specific questions about its service and area, and branded searches rise. Being named in broad \"best provider\" answers typically comes last, because it depends most on reputation built outside the website.</p>"
     },
     {
       "heading": "How to keep momentum",
@@ -123,6 +123,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Search Console's generative AI performance report",
+      "url": "https://thechimeraai.com/blog/search-console-generative-ai-performance-report/"
+    },
+    {
+      "anchor": "What Is Generative Engine Optimization (GEO)?",
+      "url": "https://thechimeraai.com/what-is-generative-engine-optimization-and-how-does-it-work/"
+    },
+    {
+      "anchor": "GEO Content Strategy: Plan Content AI Search Cites",
+      "url": "https://thechimeraai.com/geo-content-strategy/"
+    },
+    {
+      "anchor": "AEO vs GEO: What's the Difference?",
+      "url": "https://thechimeraai.com/answer-engine-optimization-vs-generative-engine-optimization/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

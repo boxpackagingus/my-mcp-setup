@@ -26,11 +26,11 @@
   "sections": [
     {
       "heading": "Why choosing a GEO agency is harder than choosing an SEO agency",
-      "body_html": "<p>Generative engine optimization is young. Many agencies have added \"AI\" to an existing SEO menu without changing how they work, and the results of GEO are harder to see than a ranking report. That makes it easy to buy the wrong thing.</p><p>The good news is that you can test most of what matters before you sign anything. A capable agency can show you, in a single call, how ChatGPT, Perplexity, Gemini and Google AI Overviews currently answer your buyers' questions, and explain why you are or are not in those answers.</p>"
+      "body_html": "<p>Generative engine optimization is young. Many agencies have added \"AI\" to an existing SEO menu without changing how they work, and the results of GEO are harder to see than a ranking report. That makes it easy to buy the wrong thing.</p><p>The good news is that you can test most of what matters before you sign anything. A capable agency can show you, in a single call, how ChatGPT, <a href=\"https://thechimeraai.com/perplexity-seo/\">Perplexity</a>, Gemini and Google <a href=\"https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/\">AI Overviews</a> currently answer your buyers' questions, and explain why you are or are not in those answers.</p>"
     },
     {
       "heading": "The 10-point checklist to choose a GEO agency",
-      "body_html": "<ol><li><strong>They show your baseline first.</strong> Before pitching, they run real buyer questions through several AI engines and show who gets cited.</li><li><strong>They name specific pages.</strong> Their plan says which of your pages they would rebuild and which new pages they would create, and why.</li><li><strong>They explain crawl access.</strong> They can tell you which AI crawlers, such as OAI-SearchBot, PerplexityBot and Google-Extended, your robots.txt allows today, and what they recommend.</li><li><strong>They treat structure seriously.</strong> Schema, a clean sitemap, internal links and an <code>llms.txt</code> file are part of the plan, not an afterthought.</li><li><strong>They write for passages.</strong> They talk about direct answers, question headings, comparison tables and sourced facts, because that is what AI engines quote.</li><li><strong>They build authority off your site.</strong> They have a plan for consistent brand descriptions and earned mentions, not just on-page edits.</li><li><strong>They keep SEO healthy.</strong> They protect existing rankings, because many AI answers draw on pages that already rank.</li><li><strong>They measure what you care about.</strong> Citations per engine, AI referral sessions and leads by page, each one something you can verify.</li><li><strong>They are honest about time.</strong> They expect early wins on specific questions within months and slower progress on broad ones.</li><li><strong>They make no placement promises.</strong> Nobody controls AI answers. An agency that says otherwise is selling certainty it does not have.</li></ol>"
+      "body_html": "<ol><li><strong>They show your baseline first.</strong> Before pitching, they run real buyer questions through several AI engines and show who gets cited.</li><li><strong>They name specific pages.</strong> Their plan says which of your pages they would rebuild and which new pages they would create, and why.</li><li><strong>They explain crawl access.</strong> They can tell you which <a href=\"https://thechimeraai.com/ai-crawler-user-agents/\">AI crawlers</a>, such as OAI-SearchBot, PerplexityBot and Google-Extended, your <a href=\"https://thechimeraai.com/robots-txt-for-ai-crawlers/\">robots.txt</a> allows today, and what they recommend.</li><li><strong>They treat structure seriously.</strong> Schema, a clean sitemap, internal links and an <code><a href=\"https://thechimeraai.com/best-practices-for-llms-txt/\">llms.txt</a></code> file are part of the plan, not an afterthought.</li><li><strong>They write for passages.</strong> They talk about direct answers, question headings, comparison tables and sourced facts, because that is what AI engines quote.</li><li><strong>They build authority off your site.</strong> They have a plan for consistent brand descriptions and earned mentions, not just on-page edits.</li><li><strong>They keep SEO healthy.</strong> They protect existing rankings, because many AI answers draw on pages that already rank.</li><li><strong>They measure what you care about.</strong> Citations per engine, AI referral sessions and leads by page, each one something you can verify.</li><li><strong>They are honest about time.</strong> They expect early wins on specific questions within months and slower progress on broad ones.</li><li><strong>They make no placement promises.</strong> Nobody controls AI answers. An agency that says otherwise is selling certainty it does not have.</li></ol>"
     },
     {
       "heading": "Red flags that should end the conversation",
@@ -99,6 +99,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "A 30-day AI search plan for OC businesses",
+      "url": "https://thechimeraai.com/blog/30-day-ai-search-plan-orange-county/"
+    },
+    {
+      "anchor": "GEO Agency in Orange County: Get Recommended by AI",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "Local Services Ads vs SEO",
+      "url": "https://thechimeraai.com/google-local-services-ads-vs-seo/"
+    },
+    {
+      "anchor": "Google Business Profile categories",
+      "url": "https://thechimeraai.com/google-business-profile-categories/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

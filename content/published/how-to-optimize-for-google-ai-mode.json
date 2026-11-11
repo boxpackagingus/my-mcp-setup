@@ -26,7 +26,7 @@
   "sections": [
     {
       "heading": "What Google AI Mode is",
-      "body_html": "<p>AI Mode is a search experience in Google where people ask questions in a conversation and get AI-written answers with links, then ask follow-ups. It is built for exploratory, multi-step questions: planning, comparing and deciding. Where AI Overviews add a summary on top of normal results, AI Mode is a full conversational interface.</p><p>For businesses, it means buyers can go from \"what is GEO?\" to \"which agencies in Orange County do it?\" to \"what does an audit include?\" without ever seeing a traditional results page.</p><p>It is designed for the questions people used to split across many searches.</p>"
+      "body_html": "<p>AI Mode is a search experience in Google where people ask questions in a conversation and get AI-written answers with links, then ask follow-ups. It is built for exploratory, multi-step questions: planning, comparing and deciding. Where <a href=\"https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/\">AI Overviews</a> add a summary on top of normal results, AI Mode is a full conversational interface.</p><p>For businesses, it means buyers can go from \"what is GEO?\" to \"which agencies in Orange County do it?\" to \"what does an audit include?\" without ever seeing a traditional results page.</p><p>It is designed for the questions people used to split across many searches.</p>"
     },
     {
       "heading": "How AI Mode finds sources",
@@ -34,7 +34,7 @@
     },
     {
       "heading": "What Google says you need",
-      "body_html": "<ul><li>No additional technical requirements beyond normal Search eligibility.</li><li>Pages must be indexed and eligible to show a snippet.</li><li>The same SEO best practices apply: crawlable pages, internal links, good page experience, text content and structured data that matches visible content.</li><li>Snippet controls such as nosnippet and max-snippet also limit how content appears in AI features.</li></ul>"
+      "body_html": "<ul><li>No additional technical requirements beyond normal Search eligibility.</li><li>Pages must be indexed and eligible to show a snippet.</li><li>The same SEO best practices apply: crawlable pages, internal links, good page experience, text content and <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a> that matches visible content.</li><li>Snippet controls such as nosnippet and max-snippet also limit how content appears in AI features.</li></ul>"
     },
     {
       "heading": "Build pages for conversations",
@@ -66,7 +66,7 @@
     },
     {
       "heading": "How AI Mode fits with the rest of GEO",
-      "body_html": "<p>AI Mode is one of several AI surfaces, alongside AI Overviews, Gemini, ChatGPT, Perplexity, Claude and Copilot. The same foundations serve all of them: crawlable, indexed pages that answer questions directly with specific evidence, backed by a strong reputation. Building for AI Mode's conversations simply makes you more thorough about the follow-up questions every engine cares about.</p>"
+      "body_html": "<p>AI Mode is one of several AI surfaces, alongside AI Overviews, Gemini, <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a>, <a href=\"https://thechimeraai.com/perplexity-seo/\">Perplexity</a>, Claude and <a href=\"https://thechimeraai.com/microsoft-copilot-seo/\">Copilot</a>. The same foundations serve all of them: crawlable, indexed pages that answer questions directly with specific evidence, backed by a strong reputation. Building for AI Mode's conversations simply makes you more thorough about the follow-up questions every engine cares about.</p>"
     }
   ],
   "faqs": [
@@ -119,6 +119,26 @@
     {
       "anchor": "Gemini 4 Carbon in AI Mode",
       "url": "https://thechimeraai.com/blog/gemini-4-carbon-ai-mode-local-business/"
+    },
+    {
+      "anchor": "Google Search profiles for local brands",
+      "url": "https://thechimeraai.com/blog/google-search-profiles-local-brands/"
+    },
+    {
+      "anchor": "What Is Query Fan-Out? How AI Search Finds Sources",
+      "url": "https://thechimeraai.com/what-is-query-fan-out/"
+    },
+    {
+      "anchor": "How to Optimize for Meta AI: A Practical Guide",
+      "url": "https://thechimeraai.com/how-to-optimize-for-meta-ai/"
+    },
+    {
+      "anchor": "Google's new AI Mode links",
+      "url": "https://thechimeraai.com/blog/google-ai-mode-inline-links-update/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

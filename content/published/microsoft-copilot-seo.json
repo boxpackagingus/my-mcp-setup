@@ -34,7 +34,7 @@
     },
     {
       "heading": "The Copilot SEO checklist",
-      "body_html": "<ol><li><strong>Verify your site in Bing Webmaster Tools</strong> and submit your sitemap. You can import your sites from Google Search Console to save time.</li><li><strong>Check indexing and errors</strong> in Bing's reports, and fix crawl issues it finds.</li><li><strong>Turn on IndexNow</strong> so Bing hears about every new or updated page the moment it changes.</li><li><strong>Allow Bingbot</strong> in robots.txt and in any firewall or bot-protection tool.</li><li><strong>Answer first</strong> on every key page, with descriptive headings and FAQs.</li><li><strong>Add structured data</strong> that matches the page, and keep titles and descriptions specific.</li></ol>"
+      "body_html": "<ol><li><strong>Verify your site in Bing Webmaster Tools</strong> and submit your sitemap. You can import your sites from Google Search Console to save time.</li><li><strong>Check indexing and errors</strong> in Bing's reports, and fix crawl issues it finds.</li><li><strong>Turn on IndexNow</strong> so Bing hears about every new or updated page the moment it changes.</li><li><strong>Allow Bingbot</strong> in <a href=\"https://thechimeraai.com/robots-txt-for-ai-crawlers/\">robots.txt</a> and in any firewall or bot-protection tool.</li><li><strong>Answer first</strong> on every key page, with descriptive headings and FAQs.</li><li><strong>Add <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a></strong> that matches the page, and keep titles and descriptions specific.</li></ol>"
     },
     {
       "heading": "Content that Copilot cites",
@@ -50,11 +50,11 @@
     },
     {
       "heading": "Copilot for B2B buyers",
-      "body_html": "<p>Because Copilot sits inside the tools people use at work, B2B buyers often meet your brand there first. A procurement manager asks Copilot to compare vendors in Edge; a founder asks it to summarize options in a Word document. For those buyers, create pages that answer evaluation questions directly:</p><ul><li><strong>\"[Your category] for [industry]\"</strong> pages with specifics for that industry.</li><li><strong>Comparison pages</strong> that explain how your approach differs and when another option fits better.</li><li><strong>Pricing and process pages</strong> that explain how engagements work, what is included and how long they take.</li><li><strong>Security, compliance and integration details</strong> where they matter to buyers.</li></ul>"
+      "body_html": "<p>Because Copilot sits inside the tools people use at work, B2B buyers often meet your brand there first. A procurement manager asks Copilot to compare vendors in Edge; a founder asks it to summarize options in a Word document. For those buyers, create pages that answer evaluation questions directly:</p><ul><li><strong>\"[Your category] for [industry]\"</strong> pages with specifics for that industry.</li><li><strong><a href=\"https://thechimeraai.com/how-to-write-comparison-pages/\">Comparison pages</a></strong> that explain how your approach differs and when another option fits better.</li><li><strong>Pricing and process pages</strong> that explain how engagements work, what is included and how long they take.</li><li><strong>Security, compliance and integration details</strong> where they matter to buyers.</li></ul>"
     },
     {
       "heading": "Copilot SEO vs Google SEO",
-      "body_html": "<table><tr><th></th><th>Google SEO</th><th>Copilot SEO</th></tr><tr><td>Index that matters</td><td>Google</td><td>Bing</td></tr><tr><td>Webmaster tool</td><td>Google Search Console</td><td>Bing Webmaster Tools</td></tr><tr><td>Fast discovery</td><td>Sitemaps and internal links</td><td>Sitemaps plus IndexNow</td></tr><tr><td>Where buyers see you</td><td>Search results and AI Overviews</td><td>Copilot answers in Windows, Edge and Microsoft 365</td></tr></table><p>Most of the work overlaps, so doing both rarely doubles the effort. The main extras are verifying in Bing and turning on IndexNow.</p>"
+      "body_html": "<table><tr><th></th><th>Google SEO</th><th>Copilot SEO</th></tr><tr><td>Index that matters</td><td>Google</td><td>Bing</td></tr><tr><td>Webmaster tool</td><td>Google Search Console</td><td>Bing Webmaster Tools</td></tr><tr><td>Fast discovery</td><td>Sitemaps and <a href=\"https://thechimeraai.com/internal-linking-for-ai-search/\">internal links</a></td><td>Sitemaps plus IndexNow</td></tr><tr><td>Where buyers see you</td><td>Search results and <a href=\"https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/\">AI Overviews</a></td><td>Copilot answers in Windows, Edge and Microsoft 365</td></tr></table><p>Most of the work overlaps, so doing both rarely doubles the effort. The main extras are verifying in Bing and turning on IndexNow.</p>"
     },
     {
       "heading": "How to test your Copilot visibility",
@@ -111,6 +111,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Google Search profiles for local brands",
+      "url": "https://thechimeraai.com/blog/google-search-profiles-local-brands/"
+    },
+    {
+      "anchor": "Perplexity SEO: How to Get Cited by Perplexity",
+      "url": "https://thechimeraai.com/perplexity-seo/"
+    },
+    {
+      "anchor": "How to Get Cited by Claude: A Practical Guide for Brands",
+      "url": "https://thechimeraai.com/how-to-get-cited-by-claude/"
+    },
+    {
+      "anchor": "How ChatGPT Recommends Local Businesses",
+      "url": "https://thechimeraai.com/how-chatgpt-recommends-local-businesses/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

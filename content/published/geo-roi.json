@@ -34,7 +34,7 @@
     },
     {
       "heading": "What to count as return",
-      "body_html": "<ol><li><strong>Leads from AI referrals</strong>: visits from chatgpt.com, perplexity.ai and similar sources that converted.</li><li><strong>Self-reported AI leads</strong>: customers who say an AI assistant recommended you.</li><li><strong>Branded and organic lift</strong>: the increase in branded and organic leads above the pre-program baseline, where GEO was the main change.</li></ol><p>Use revenue or, better, gross profit from closed deals, not lead counts alone.</p>"
+      "body_html": "<ol><li><strong>Leads from AI referrals</strong>: visits from <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">chatgpt</a>.com, <a href=\"https://thechimeraai.com/perplexity-seo/\">perplexity</a>.ai and similar sources that converted.</li><li><strong>Self-reported AI leads</strong>: customers who say an AI assistant recommended you.</li><li><strong>Branded and organic lift</strong>: the increase in branded and organic leads above the pre-program baseline, where <a href=\"https://thechimeraai.com/what-is-generative-engine-optimization-and-how-does-it-work/\">GEO</a> was the main change.</li></ol><p>Use revenue or, better, gross profit from closed deals, not lead counts alone.</p>"
     },
     {
       "heading": "Why attribution is tricky",
@@ -58,7 +58,7 @@
     },
     {
       "heading": "Leading indicators before revenue",
-      "body_html": "<p>Revenue lags. While waiting, track leading indicators: AI share of voice for your key questions, AI referral sessions, Search Console impressions for question queries and branded search. These show whether the program is moving in the right direction before deals close.</p>"
+      "body_html": "<p>Revenue lags. While waiting, track leading indicators: AI share of voice for your key questions, AI referral sessions, <a href=\"https://thechimeraai.com/blog/search-console-generative-ai-performance-report/\">Search Console</a> impressions for question queries and branded search. These show whether the program is moving in the right direction before deals close.</p>"
     },
     {
       "heading": "Reporting ROI honestly",
@@ -143,6 +143,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Google's free SEO learning paths",
+      "url": "https://thechimeraai.com/blog/google-seo-learning-paths-small-business/"
+    },
+    {
+      "anchor": "GEO Content Strategy: Plan Content AI Search Cites",
+      "url": "https://thechimeraai.com/geo-content-strategy/"
+    },
+    {
+      "anchor": "How Long Does GEO Take to Work? Realistic Timelines",
+      "url": "https://thechimeraai.com/how-long-does-geo-take/"
+    },
+    {
+      "anchor": "AI SEO for small business",
+      "url": "https://thechimeraai.com/ai-seo-for-small-business/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

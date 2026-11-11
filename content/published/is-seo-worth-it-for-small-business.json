@@ -54,7 +54,7 @@
     },
     {
       "heading": "What to measure",
-      "body_html": "<p>Track calls, bookings and leads by source, not just traffic. Watch Business Profile actions, Search Console impressions and visits from AI assistants.</p>"
+      "body_html": "<p>Track calls, bookings and leads by source, not just traffic. Watch Business Profile actions, <a href=\"https://thechimeraai.com/blog/search-console-generative-ai-performance-report/\">Search Console</a> impressions and visits from AI assistants.</p>"
     },
     {
       "heading": "Do it yourself or hire help",
@@ -78,11 +78,11 @@
     },
     {
       "heading": "Glossary",
-      "body_html": "<ul><li><strong>Organic search:</strong> unpaid results in search engines.</li><li><strong>Zero-click search:</strong> a search that ends without a click to any website.</li><li><strong>Local pack:</strong> the map results shown for local searches.</li><li><strong>Lead:</strong> a call, form or booking from a potential customer.</li><li><strong>AI referral:</strong> a website visit that comes from an AI assistant.</li></ul>"
+      "body_html": "<ul><li><strong>Organic search:</strong> unpaid results in search engines.</li><li><strong><a href=\"https://thechimeraai.com/zero-click-searches/\">Zero-click</a> search:</strong> a search that ends without a click to any website.</li><li><strong>Local pack:</strong> the map results shown for local searches.</li><li><strong>Lead:</strong> a call, form or booking from a potential customer.</li><li><strong>AI referral:</strong> a website visit that comes from an AI assistant.</li></ul>"
     },
     {
       "heading": "How to decide in one afternoon",
-      "body_html": "<p>Search for your main service and city on Google and ask the same question to ChatGPT. If competitors appear and you do not, there is demand you are missing. Check your Business Profile: if it is incomplete or rarely updated, there is easy work to do. Look at your call records: if you cannot tell which calls came from search, set up tracking first. If customers search for what you sell and your basics are weak, SEO is very likely worth it.</p>"
+      "body_html": "<p>Search for your main service and city on Google and ask the same question to <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a>. If competitors appear and you do not, there is demand you are missing. Check your Business Profile: if it is incomplete or rarely updated, there is easy work to do. Look at your call records: if you cannot tell which calls came from search, set up tracking first. If customers search for what you sell and your basics are weak, SEO is very likely worth it.</p>"
     },
     {
       "heading": "A worked example: two Orange County plumbers",
@@ -179,6 +179,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Google's free SEO learning paths",
+      "url": "https://thechimeraai.com/blog/google-seo-learning-paths-small-business/"
+    },
+    {
+      "anchor": "AEO vs GEO: What's the Difference?",
+      "url": "https://thechimeraai.com/answer-engine-optimization-vs-generative-engine-optimization/"
+    },
+    {
+      "anchor": "Does Google Penalize AI Content? What Google Says",
+      "url": "https://thechimeraai.com/does-google-penalize-ai-content/"
+    },
+    {
+      "anchor": "How to Write Content for AI Search: A Writer's Guide",
+      "url": "https://thechimeraai.com/how-to-write-content-for-ai-search/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [
@@ -304,5 +324,5 @@
     "height": 840
   },
   "published": "2026-11-10",
-  "updated": "2026-11-10"
+  "updated": "2026-11-11"
 }

@@ -26,11 +26,11 @@
   "sections": [
     {
       "heading": "What Google launched",
-      "body_html": "<p>On October 15, 2026, Google launched Universal Cart in the U.S. across Google Search and the Gemini app. Google calls it an intelligent shopping cart and a new hub for shopping on Google. Shoppers can save items from multiple retailers in one place, get alerts about price drops or restocks, see relevant promo codes, get suggestions on which payment card to use and check out with Google Pay or move items to the merchant's own cart.</p>"
+      "body_html": "<p>On October 15, 2026, Google launched Universal Cart in the U.S. across Google Search and the <a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a> app. Google calls it an intelligent shopping cart and a new hub for shopping on Google. Shoppers can save items from multiple retailers in one place, get alerts about price drops or restocks, see relevant promo codes, get suggestions on which payment card to use and check out with Google Pay or move items to the merchant's own cart.</p>"
     },
     {
       "heading": "How it works for shoppers",
-      "body_html": "<ol><li><strong>Save products from many stores</strong> while shopping in AI Mode or the Gemini app, and come back later.</li><li><strong>Track prices and stock</strong> across the whole list, with notifications.</li><li><strong>Find savings</strong>: the cart is built on Google Wallet, understands card perks and shows promo codes.</li><li><strong>Check out</strong> with Google Pay in the cart, or transfer items to the merchant's site.</li></ol>"
+      "body_html": "<ol><li><strong>Save products from many stores</strong> while shopping in <a href=\"https://thechimeraai.com/how-to-optimize-for-google-ai-mode/\">AI Mode</a> or the Gemini app, and come back later.</li><li><strong>Track prices and stock</strong> across the whole list, with notifications.</li><li><strong>Find savings</strong>: the cart is built on Google Wallet, understands card perks and shows promo codes.</li><li><strong>Check out</strong> with Google Pay in the cart, or transfer items to the merchant's site.</li></ol>"
     },
     {
       "heading": "The Shopping Graph behind it",
@@ -46,7 +46,7 @@
     },
     {
       "heading": "Step 1: get your products into Google",
-      "body_html": "<p>If you have not already, set up Google Merchant Center and submit your product data. Google's documentation distinguishes product snippets, which come from structured data on product pages, from merchant listings, which show products you sell with price, availability and shipping details. Retailers that want to appear in shopping experiences should supply both accurate structured data and a complete product feed.</p>"
+      "body_html": "<p>If you have not already, set up Google Merchant Center and submit your product data. Google's documentation distinguishes product snippets, which come from <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a> on product pages, from merchant listings, which show products you sell with price, availability and shipping details. Retailers that want to appear in shopping experiences should supply both accurate structured data and a complete product feed.</p>"
     },
     {
       "heading": "Step 2: add Product structured data",
@@ -66,7 +66,7 @@
     },
     {
       "heading": "What to measure",
-      "body_html": "<table><tr><th>Metric</th><th>Where</th><th>Why it matters</th></tr><tr><td>Product approvals and errors</td><td>Merchant Center</td><td>Disapproved items cannot appear</td></tr><tr><td>Clicks and impressions on product pages</td><td>Search Console</td><td>Visibility in Google shopping surfaces</td></tr><tr><td>Revenue by source</td><td>Google Analytics</td><td>Sales from Google and AI referrals</td></tr><tr><td>Price and stock mismatches</td><td>Merchant Center diagnostics</td><td>Alerts depend on fresh data</td></tr></table>"
+      "body_html": "<table><tr><th>Metric</th><th>Where</th><th>Why it matters</th></tr><tr><td>Product approvals and errors</td><td>Merchant Center</td><td>Disapproved items cannot appear</td></tr><tr><td>Clicks and impressions on product pages</td><td><a href=\"https://thechimeraai.com/blog/search-console-generative-ai-performance-report/\">Search Console</a></td><td>Visibility in Google shopping surfaces</td></tr><tr><td>Revenue by source</td><td><a href=\"https://thechimeraai.com/how-to-track-ai-traffic-in-google-analytics/\">Google Analytics</a></td><td>Sales from Google and AI referrals</td></tr><tr><td>Price and stock mismatches</td><td>Merchant Center diagnostics</td><td>Alerts depend on fresh data</td></tr></table>"
     },
     {
       "heading": "Timing for the holidays",
@@ -139,6 +139,18 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "SEO for Shopify stores",
+      "url": "https://thechimeraai.com/seo-for-shopify-stores/"
+    },
+    {
+      "anchor": "Google Holiday 100 for OC retailers",
+      "url": "https://thechimeraai.com/blog/google-holiday-100-orange-county-retailers/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

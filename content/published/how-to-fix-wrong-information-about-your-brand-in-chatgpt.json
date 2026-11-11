@@ -34,15 +34,15 @@
     },
     {
       "heading": "Step 2: find the source",
-      "body_html": "<ol><li><strong>Check cited links</strong> in the answer first.</li><li><strong>Search for the wrong fact</strong> in quotes to see where it appears online.</li><li><strong>Review your own site</strong> for old pages, PDFs or blog posts with outdated details.</li><li><strong>Check listings</strong>: Google Business Profile, Bing Places, directories, social profiles, review sites.</li><li><strong>Look for similar business names</strong> that could be confused with yours.</li></ol>"
+      "body_html": "<ol><li><strong>Check cited links</strong> in the answer first.</li><li><strong>Search for the wrong fact</strong> in quotes to see where it appears online.</li><li><strong>Review your own site</strong> for old pages, PDFs or blog posts with outdated details.</li><li><strong>Check listings</strong>: <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a>, Bing Places, directories, social profiles, review sites.</li><li><strong>Look for similar business names</strong> that could be confused with yours.</li></ol>"
     },
     {
       "heading": "Step 3: correct it everywhere",
-      "body_html": "<p>Update or remove outdated content on your own site, and redirect retired pages to current ones. Correct your business listings. Contact publishers of articles with factual errors and ask politely for a correction, giving the right facts and a source. For data that comes from directories, update each one; inconsistent listings are among the most common causes of wrong AI answers.</p>"
+      "body_html": "<p>Update or remove outdated content on your own site, and redirect retired pages to current ones. Correct your business listings. Contact publishers of articles with factual errors and ask politely for a correction, giving the right facts and a source. For data that comes from directories, update each one; <a href=\"https://thechimeraai.com/nap-consistency-local-citations/\">inconsistent listings</a> are among the most common causes of wrong AI answers.</p>"
     },
     {
       "heading": "Step 4: publish the facts clearly",
-      "body_html": "<p>Create or update an About or company facts page that states the essentials plainly: legal and trading name, founding date, location, services, leadership, contact details and anything commonly confused. Use the same wording everywhere. Add Organization structured data with your official name, logo and profiles. A clear, authoritative source makes it easier for AI tools to get the facts right.</p>"
+      "body_html": "<p>Create or update an About or company facts page that states the essentials plainly: legal and trading name, founding date, location, services, leadership, contact details and anything commonly confused. Use the same wording everywhere. Add Organization <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a> with your official name, logo and profiles. A clear, authoritative source makes it easier for AI tools to get the facts right.</p>"
     },
     {
       "heading": "Step 5: use platform feedback",
@@ -54,7 +54,7 @@
     },
     {
       "heading": "When the problem is negative reviews or criticism",
-      "body_html": "<p>If an AI answer reflects genuine criticism, the fix is not suppression. Address the underlying issue, respond professionally to reviews, and publish accurate information about what you have changed. Over time, newer reviews and coverage shift the picture. Never post fake reviews or pay for them; they violate platform rules and can make the problem far worse.</p>"
+      "body_html": "<p>If an AI answer reflects genuine criticism, the fix is not suppression. Address the underlying issue, respond professionally to reviews, and publish accurate information about what you have changed. Over time, newer reviews and coverage shift the picture. Never post <a href=\"https://thechimeraai.com/how-to-remove-fake-google-reviews/\">fake reviews</a> or pay for them; they violate platform rules and can make the problem far worse.</p>"
     },
     {
       "heading": "When the information is harmful or defamatory",
@@ -66,7 +66,7 @@
     },
     {
       "heading": "A worked example",
-      "body_html": "<p>An agency moved offices from Irvine to Anaheim, but ChatGPT still says it is in Irvine. The cited source is an old directory listing. The agency updates its Google Business Profile, Bing Places and the five directories that mention it, adds the new address to its About page and footer, updates Organization structured data, asks two local publications to correct old articles, and gives feedback on the wrong answer. A few weeks later, live-search answers show the new location.</p>"
+      "body_html": "<p>An agency moved offices from Irvine to Anaheim, but <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a> still says it is in Irvine. The cited source is an old directory listing. The agency updates its Google Business Profile, Bing Places and the five directories that mention it, adds the new address to its About page and footer, updates Organization structured data, asks two local publications to correct old articles, and gives feedback on the wrong answer. A few weeks later, live-search answers show the new location.</p>"
     },
     {
       "heading": "The short version",
@@ -131,6 +131,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Businesses in ChatGPT: claim your business",
+      "url": "https://thechimeraai.com/blog/businesses-in-chatgpt-claim-your-business/"
+    },
+    {
+      "anchor": "Gemini SEO: How to Show Up in Google Gemini Answers",
+      "url": "https://thechimeraai.com/gemini-seo/"
+    },
+    {
+      "anchor": "How ChatGPT Recommends Local Businesses",
+      "url": "https://thechimeraai.com/how-chatgpt-recommends-local-businesses/"
+    },
+    {
+      "anchor": "How to Get Cited by Claude: A Practical Guide for Brands",
+      "url": "https://thechimeraai.com/how-to-get-cited-by-claude/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

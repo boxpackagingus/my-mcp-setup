@@ -26,15 +26,15 @@
   "sections": [
     {
       "heading": "What makes a GEO strategy different",
-      "body_html": "<p>A traditional content strategy often starts from keyword volume. A GEO content strategy starts from questions: the full, conversational questions buyers ask AI tools and search engines. It also plans for how AI answers work: they quote short, specific passages, combine several sources and cross-check what other sites say. Content has to be answer-first, specific and corroborated, not just optimized for a keyword.</p>"
+      "body_html": "<p>A traditional content strategy often starts from keyword volume. A <a href=\"https://thechimeraai.com/what-is-generative-engine-optimization-and-how-does-it-work/\">GEO</a> content strategy starts from questions: the full, conversational questions buyers ask AI tools and search engines. It also plans for how AI answers work: they quote short, specific passages, combine several sources and cross-check what other sites say. Content has to be answer-first, specific and corroborated, not just optimized for a keyword.</p>"
     },
     {
       "heading": "Step 1: collect the questions",
-      "body_html": "<p>Gather questions from sales and support, Search Console, autocomplete and People Also Ask, communities and reviews. Group similar questions and sort them by buying stage: problem, solution, comparison, provider and post-purchase. The provider and comparison questions are usually closest to revenue.</p>"
+      "body_html": "<p>Gather questions from sales and support, <a href=\"https://thechimeraai.com/blog/search-console-generative-ai-performance-report/\">Search Console</a>, autocomplete and People Also Ask, communities and reviews. Group similar questions and sort them by buying stage: problem, solution, comparison, provider and post-purchase. The provider and comparison questions are usually closest to revenue.</p>"
     },
     {
       "heading": "Step 2: map questions to pages",
-      "body_html": "<table><tr><th>Question type</th><th>Best page type</th></tr><tr><td>What is X? How does it work?</td><td>Explainer guide</td></tr><tr><td>How do I do X?</td><td>Step-by-step guide</td></tr><tr><td>X vs Y?</td><td>Comparison page</td></tr><tr><td>How much does X cost?</td><td>Pricing guide</td></tr><tr><td>Who is best for X in [place]?</td><td>Service and location pages</td></tr><tr><td>What does the data say?</td><td>Statistics or research page</td></tr></table>"
+      "body_html": "<table><tr><th>Question type</th><th>Best page type</th></tr><tr><td>What is X? How does it work?</td><td>Explainer guide</td></tr><tr><td>How do I do X?</td><td>Step-by-step guide</td></tr><tr><td>X vs Y?</td><td><a href=\"https://thechimeraai.com/how-to-write-comparison-pages/\">Comparison page</a></td></tr><tr><td>How much does X cost?</td><td>Pricing guide</td></tr><tr><td>Who is best for X in [place]?</td><td>Service and location pages</td></tr><tr><td>What does the data say?</td><td>Statistics or research page</td></tr></table>"
     },
     {
       "heading": "Step 3: prioritize",
@@ -42,7 +42,7 @@
     },
     {
       "heading": "Step 4: write for citation",
-      "body_html": "<ul><li>A 40 to 60 word answer at the top of every page.</li><li>Question headings, each answered in its first sentences.</li><li>Specific facts with sources and dates.</li><li>First-hand experience and named, qualified authors.</li><li>Tables for comparisons, lists for steps, an FAQ.</li><li>Clear internal links to related pages and services.</li></ul>"
+      "body_html": "<ul><li>A 40 to 60 word answer at the top of every page.</li><li>Question headings, each answered in its first sentences.</li><li>Specific facts with sources and dates.</li><li>First-hand experience and named, qualified authors.</li><li>Tables for comparisons, lists for steps, an FAQ.</li><li>Clear <a href=\"https://thechimeraai.com/internal-linking-for-ai-search/\">internal links</a> to related pages and services.</li></ul>"
     },
     {
       "heading": "Step 5: set a sustainable rhythm",
@@ -147,6 +147,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Generative Engine Optimization Agency: What They Do",
+      "url": "https://thechimeraai.com/generative-engine-optimization-agency/"
+    },
+    {
+      "anchor": "How Long Does GEO Take to Work? Realistic Timelines",
+      "url": "https://thechimeraai.com/how-long-does-geo-take/"
+    },
+    {
+      "anchor": "How Much Does GEO Cost? Pricing Models and What Drives Price",
+      "url": "https://thechimeraai.com/how-much-does-geo-cost/"
+    },
+    {
+      "anchor": "AEO vs GEO: What's the Difference?",
+      "url": "https://thechimeraai.com/answer-engine-optimization-vs-generative-engine-optimization/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

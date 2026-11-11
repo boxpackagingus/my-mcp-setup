@@ -26,11 +26,11 @@
   "sections": [
     {
       "heading": "Why best-of lists matter for AI",
-      "body_html": "<p>When someone asks an assistant \"what are the best GEO agencies in Orange County\" or \"which accounting software is best for freelancers\", the AI often searches the web and reads articles that compare options. The brands that appear repeatedly across those roundups are the ones most likely to be named in the answer. Being absent from every list makes it harder for an AI to include you, however good your own website is.</p>"
+      "body_html": "<p>When someone asks an assistant \"what are the best <a href=\"https://thechimeraai.com/what-is-generative-engine-optimization-and-how-does-it-work/\">GEO</a> agencies in Orange County\" or \"which accounting software is best for freelancers\", the AI often searches the web and reads articles that compare options. The brands that appear repeatedly across those roundups are the ones most likely to be named in the answer. Being absent from every list makes it harder for an AI to include you, however good your own website is.</p>"
     },
     {
       "heading": "Find the lists that matter",
-      "body_html": "<ol><li><strong>Search your category's \"best\" and \"top\" queries</strong> in Google and note the roundups on the first two pages.</li><li><strong>Ask ChatGPT, Perplexity and Gemini</strong> the same questions with web search on, and note which articles they cite.</li><li><strong>Check industry publications and directories</strong> that publish rankings or awards.</li><li><strong>Record who publishes each list</strong>, when it was last updated and how brands are chosen.</li></ol><p>Prioritize lists that are cited by AI tools and updated regularly.</p>"
+      "body_html": "<ol><li><strong>Search your category's \"best\" and \"top\" queries</strong> in Google and note the roundups on the first two pages.</li><li><strong>Ask <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a>, <a href=\"https://thechimeraai.com/perplexity-seo/\">Perplexity</a> and <a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a></strong> the same questions with web search on, and note which articles they cite.</li><li><strong>Check industry publications and directories</strong> that publish rankings or awards.</li><li><strong>Record who publishes each list</strong>, when it was last updated and how brands are chosen.</li></ol><p>Prioritize lists that are cited by AI tools and updated regularly.</p>"
     },
     {
       "heading": "Understand how editors choose",
@@ -46,7 +46,7 @@
     },
     {
       "heading": "Reviews and directories feed lists",
-      "body_html": "<p>Many roundups lean on ratings from review platforms and industry directories. Keep your profiles on the platforms relevant to your category complete and accurate, and ask satisfied clients to review you there. Steady, genuine reviews raise your chances of appearing on lists that filter by rating.</p>"
+      "body_html": "<p>Many roundups lean on ratings from review platforms and industry directories. Keep your profiles on the platforms relevant to your category complete and accurate, and ask satisfied clients to review you there. Steady, <a href=\"https://thechimeraai.com/how-to-get-more-google-reviews/\">genuine reviews</a> raise your chances of appearing on lists that filter by rating.</p>"
     },
     {
       "heading": "Paid placements and disclosure",
@@ -131,6 +131,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Google's free SEO learning paths",
+      "url": "https://thechimeraai.com/blog/google-seo-learning-paths-small-business/"
+    },
+    {
+      "anchor": "Digital PR for AI Search: Earn Mentions That Matter",
+      "url": "https://thechimeraai.com/digital-pr-for-ai-search/"
+    },
+    {
+      "anchor": "YouTube for AI Search: Get Your Videos Cited",
+      "url": "https://thechimeraai.com/youtube-for-ai-search/"
+    },
+    {
+      "anchor": "Do Press Releases Help AI Search? An Honest Answer",
+      "url": "https://thechimeraai.com/press-releases-for-ai-search/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

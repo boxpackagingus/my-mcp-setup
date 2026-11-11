@@ -26,7 +26,7 @@
   "sections": [
     {
       "heading": "Why video matters for AI search",
-      "body_html": "<p>Pew Research Center's March 2025 study found that Wikipedia, YouTube and Reddit were the most commonly linked sources in Google's results and AI summaries, together accounting for 15% of sources in AI summaries. YouTube links were somewhat more common in standard results than in AI summaries, but video is clearly part of the source pool. For how-to, demonstration and comparison questions, a clear video can be the most useful answer available.</p>"
+      "body_html": "<p>Pew Research Center's March 2025 study found that <a href=\"https://thechimeraai.com/wikipedia-and-wikidata-for-ai-search/\">Wikipedia</a>, YouTube and <a href=\"https://thechimeraai.com/reddit-for-ai-search/\">Reddit</a> were the most commonly linked sources in Google's results and AI summaries, together accounting for 15% of sources in AI summaries. YouTube links were somewhat more common in standard results than in AI summaries, but video is clearly part of the source pool. For how-to, demonstration and comparison questions, a clear video can be the most useful answer available.</p>"
     },
     {
       "heading": "What AI systems can read",
@@ -34,7 +34,7 @@
     },
     {
       "heading": "Titles and descriptions",
-      "body_html": "<ul><li><strong>Title the video as the question it answers</strong>: \"How to check if ChatGPT mentions your business\".</li><li><strong>Open the description with a two or three sentence answer.</strong></li><li><strong>List the key points</strong> covered, in plain language.</li><li><strong>Link to the related page</strong> on your website for more detail.</li><li><strong>Avoid clickbait</strong> that does not match the content.</li></ul>"
+      "body_html": "<ul><li><strong>Title the video as the question it answers</strong>: \"How to check if <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a> mentions your business\".</li><li><strong>Open the description with a two or three sentence answer.</strong></li><li><strong>List the key points</strong> covered, in plain language.</li><li><strong>Link to the related page</strong> on your website for more detail.</li><li><strong>Avoid clickbait</strong> that does not match the content.</li></ul>"
     },
     {
       "heading": "Chapters and captions",
@@ -66,7 +66,7 @@
     },
     {
       "heading": "An example video plan",
-      "body_html": "<p>A local marketing agency might start with six short videos: how to check whether ChatGPT mentions your business, what an AI visibility audit looks like, how to fix your Google Business Profile details, GEO vs SEO in two minutes, how to read AI referral traffic in Google Analytics, and a walkthrough of a page rewritten answer-first. Each has a question-based title, a description that opens with the answer, chapters, corrected captions, and a link to the matching guide on the website, where the video is embedded with a summary.</p>"
+      "body_html": "<p>A local marketing agency might start with six short videos: how to check whether ChatGPT mentions your business, what an AI visibility audit looks like, how to fix your <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a> details, GEO vs SEO in two minutes, how to read AI referral traffic in <a href=\"https://thechimeraai.com/how-to-track-ai-traffic-in-google-analytics/\">Google Analytics</a>, and a walkthrough of a page rewritten answer-first. Each has a question-based title, a description that opens with the answer, chapters, corrected captions, and a link to the matching guide on the website, where the video is embedded with a summary.</p>"
     },
     {
       "heading": "Short-form video",
@@ -147,6 +147,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Search Console's generative AI performance report",
+      "url": "https://thechimeraai.com/blog/search-console-generative-ai-performance-report/"
+    },
+    {
+      "anchor": "How to Get on Best-Of Lists That AI Search Cites",
+      "url": "https://thechimeraai.com/how-to-get-on-best-of-lists/"
+    },
+    {
+      "anchor": "Digital PR for AI Search: Earn Mentions That Matter",
+      "url": "https://thechimeraai.com/digital-pr-for-ai-search/"
+    },
+    {
+      "anchor": "Generative Engine Optimization Agency: What They Do",
+      "url": "https://thechimeraai.com/generative-engine-optimization-agency/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

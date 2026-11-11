@@ -26,7 +26,7 @@
   "sections": [
     {
       "heading": "Generative engine optimization in plain terms",
-      "body_html": "<p>A generative engine is any AI system that writes an answer instead of returning a list of links. ChatGPT with search, Perplexity, Google's AI Overviews and AI Mode, Gemini, Claude and Microsoft Copilot all do this. They read sources, combine what they find, and present a single response, often with a few links.</p><p>Generative engine optimization is the work of making your content one of those sources, and your brand one of the names in the answer. It is to AI answers what SEO is to search results.</p><p>The phrase was introduced in a 2023 research paper by researchers from Princeton, Georgia Tech, the Allen Institute for AI and IIT Delhi, later published at the KDD 2024 conference. They built a benchmark of real queries and measured how different content changes affected a source's visibility inside generated answers.</p>"
+      "body_html": "<p>A generative engine is any AI system that writes an answer instead of returning a list of links. ChatGPT with search, Perplexity, Google's <a href=\"https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/\">AI Overviews</a> and AI Mode, Gemini, Claude and Microsoft Copilot all do this. They read sources, combine what they find, and present a single response, often with a few links.</p><p>Generative engine optimization is the work of making your content one of those sources, and your brand one of the names in the answer. It is to AI answers what SEO is to search results.</p><p>The phrase was introduced in a 2023 research paper by researchers from Princeton, Georgia Tech, the Allen Institute for AI and IIT Delhi, later published at the KDD 2024 conference. They built a benchmark of real queries and measured how different content changes affected a source's visibility inside generated answers.</p>"
     },
     {
       "heading": "How generative engines choose what to cite",
@@ -38,7 +38,7 @@
     },
     {
       "heading": "The building blocks of a GEO strategy",
-      "body_html": "<h3>1. Access</h3><p>Allow the crawlers that power AI search. OpenAI documents OAI-SearchBot for ChatGPT search results and Perplexity documents PerplexityBot for its index. Check robots.txt and any firewall or bot-protection settings.</p><h3>2. Structure</h3><p>Use descriptive headings that match real questions, short paragraphs, lists and tables. Add structured data such as Organization, Service, Article and FAQPage, and publish an <code>llms.txt</code> file that points AI tools to your most useful pages.</p><h3>3. Answers</h3><p>Open each page with a direct answer of about 40–60 words. Then give the detail: steps, comparisons, examples and trade-offs.</p><h3>4. Evidence</h3><p>Back claims with sources, data and named examples. Say who the advice is for and who it is not for.</p><h3>5. Entity signals</h3><p>Describe your business the same way everywhere: your site, social profiles, directories, partner pages and press. Engines recommend brands they can confidently describe.</p><h3>6. Measurement</h3><p>Track a fixed set of buyer questions in each engine every month, plus AI-referred visits and the leads they produce.</p>"
+      "body_html": "<h3>1. Access</h3><p>Allow the crawlers that power AI search. OpenAI documents OAI-SearchBot for ChatGPT search results and Perplexity documents PerplexityBot for its index. Check <a href=\"https://thechimeraai.com/robots-txt-for-ai-crawlers/\">robots.txt</a> and any firewall or bot-protection settings.</p><h3>2. Structure</h3><p>Use descriptive headings that match real questions, short paragraphs, lists and tables. Add <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a> such as Organization, Service, Article and FAQPage, and publish an <code><a href=\"https://thechimeraai.com/best-practices-for-llms-txt/\">llms.txt</a></code> file that points AI tools to your most useful pages.</p><h3>3. Answers</h3><p>Open each page with a direct answer of about 40–60 words. Then give the detail: steps, comparisons, examples and trade-offs.</p><h3>4. Evidence</h3><p>Back claims with sources, data and named examples. Say who the advice is for and who it is not for.</p><h3>5. Entity signals</h3><p>Describe your business the same way everywhere: your site, social profiles, directories, partner pages and press. Engines recommend brands they can confidently describe.</p><h3>6. Measurement</h3><p>Track a fixed set of buyer questions in each engine every month, plus AI-referred visits and the leads they produce.</p>"
     },
     {
       "heading": "GEO in practice: an example",
@@ -50,7 +50,7 @@
     },
     {
       "heading": "Where to start this week",
-      "body_html": "<ol><li>Write down ten questions your best customers asked before they bought from you.</li><li>Ask each one in ChatGPT, Perplexity and Google, and note who is mentioned.</li><li>Check that your robots.txt does not block AI crawlers you want to be cited by.</li><li>Pick the question you most want to own and make sure one page answers it in the first two sentences.</li><li>Set up a channel in Google Analytics for AI referrers so you can see the results.</li></ol>"
+      "body_html": "<ol><li>Write down ten questions your best customers asked before they bought from you.</li><li>Ask each one in ChatGPT, Perplexity and Google, and note who is mentioned.</li><li>Check that your robots.txt does not block <a href=\"https://thechimeraai.com/ai-crawler-user-agents/\">AI crawlers</a> you want to be cited by.</li><li>Pick the question you most want to own and make sure one page answers it in the first two sentences.</li><li>Set up a channel in Google Analytics for AI referrers so you can see the results.</li></ol>"
     }
   ],
   "faqs": [
@@ -99,6 +99,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Search Console's generative AI performance report",
+      "url": "https://thechimeraai.com/blog/search-console-generative-ai-performance-report/"
+    },
+    {
+      "anchor": "AEO vs GEO: What's the Difference?",
+      "url": "https://thechimeraai.com/answer-engine-optimization-vs-generative-engine-optimization/"
+    },
+    {
+      "anchor": "How Much Does GEO Cost? Pricing Models and What Drives Price",
+      "url": "https://thechimeraai.com/how-much-does-geo-cost/"
+    },
+    {
+      "anchor": "How Long Does GEO Take to Work? Realistic Timelines",
+      "url": "https://thechimeraai.com/how-long-does-geo-take/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

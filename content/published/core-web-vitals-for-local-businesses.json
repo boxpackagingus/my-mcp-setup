@@ -46,7 +46,7 @@
     },
     {
       "heading": "How to measure",
-      "body_html": "<p>Google points site owners to the Core Web Vitals report in Search Console, which shows how your pages perform for real visitors, and lists tools such as PageSpeed Insights for testing individual pages. Check mobile results first, because that is where most local customers are.</p>"
+      "body_html": "<p>Google points site owners to the Core Web Vitals report in <a href=\"https://thechimeraai.com/blog/search-console-generative-ai-performance-report/\">Search Console</a>, which shows how your pages perform for real visitors, and lists tools such as PageSpeed Insights for testing individual pages. Check mobile results first, because that is where most local customers are.</p>"
     },
     {
       "heading": "Fixes for LCP",
@@ -62,7 +62,7 @@
     },
     {
       "heading": "Speed and AI search",
-      "body_html": "<p>AI crawlers and search engines fetch your pages to read them. A lean page with real HTML text and links loads quickly and is easier to parse. Google's link guidance notes that it can generally only crawl links that are standard anchor elements with an href, another reason to keep pages simple.</p>"
+      "body_html": "<p><a href=\"https://thechimeraai.com/ai-crawler-user-agents/\">AI crawlers</a> and search engines fetch your pages to read them. A lean page with real HTML text and links loads quickly and is easier to parse. Google's link guidance notes that it can generally only crawl links that are standard anchor elements with an href, another reason to keep pages simple.</p>"
     },
     {
       "heading": "Core Web Vitals checklist",
@@ -78,11 +78,11 @@
     },
     {
       "heading": "An example",
-      "body_html": "<p>Imagine a landscaping company in Irvine whose homepage hero is a large, uncompressed photo, with a chat widget and three old tracking tags loading on every page. Resizing and compressing the hero image speeds up the main content, removing the unused tags and delaying the chat widget makes buttons respond faster, and setting dimensions on the gallery images stops the page jumping. The company then checks Search Console over the following weeks to confirm the field data improves.</p>"
+      "body_html": "<p>Imagine a landscaping company in <a href=\"https://thechimeraai.com/seo-irvine/\">Irvine</a> whose homepage hero is a large, uncompressed photo, with a chat widget and three old tracking tags loading on every page. Resizing and compressing the hero image speeds up the main content, removing the unused tags and delaying the chat widget makes buttons respond faster, and setting dimensions on the gallery images stops the page jumping. The company then checks Search Console over the following weeks to confirm the field data improves.</p>"
     },
     {
       "heading": "How this fits your local plan",
-      "body_html": "<p>Treat this as part of a routine rather than a one-off fix. Local visibility in Anaheim and the rest of Orange County comes from many small, accurate signals adding up: a verified profile, consistent listings, useful service pages, real photos and a flow of honest reviews. Google is open that relevance, distance and popularity drive local results. You cannot change distance, but you can make sure Google and AI assistants understand exactly what you do and see evidence that customers value it. Put a monthly reminder in the calendar to check the profile, read new reviews and update anything that has changed.</p>"
+      "body_html": "<p>Treat this as part of a routine rather than a one-off fix. Local visibility in Anaheim and the rest of Orange County comes from many small, accurate signals adding up: a verified profile, <a href=\"https://thechimeraai.com/nap-consistency-local-citations/\">consistent listings</a>, useful service pages, real photos and a flow of honest reviews. Google is open that relevance, distance and popularity drive local results. You cannot change distance, but you can make sure Google and AI assistants understand exactly what you do and see evidence that customers value it. Put a monthly reminder in the calendar to check the profile, read new reviews and update anything that has changed.</p>"
     },
     {
       "heading": "What to do this week",
@@ -90,7 +90,7 @@
     },
     {
       "heading": "When to get help",
-      "body_html": "<p>Most of this can be done in-house with an hour or two and careful reading of Google's own help pages. It is worth bringing in help when the stakes are high or the problem keeps coming back: a profile that has been suspended more than once, many locations to manage, a site that keeps failing the same checks, or no time to keep up the routine. A good local SEO partner should explain what they will change and why, point to Google's guidelines rather than promise rankings, and leave you with access to every account. Chimera works this way with businesses across Anaheim and Orange County.</p>"
+      "body_html": "<p>Most of this can be done in-house with an hour or two and careful reading of Google's own help pages. It is worth bringing in help when the stakes are high or the problem keeps coming back: a profile that has been suspended more than once, many locations to manage, a site that keeps failing the same checks, or no time to keep up the routine. A good <a href=\"https://thechimeraai.com/local-seo-orange-county/\">local SEO</a> partner should explain what they will change and why, point to Google's guidelines rather than promise rankings, and leave you with access to every account. <a href=\"https://thechimeraai.com/\">Chimera</a> works this way with businesses across Anaheim and Orange County.</p>"
     },
     {
       "heading": "The short version",
@@ -155,6 +155,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "A 30-day AI search plan for OC businesses",
+      "url": "https://thechimeraai.com/blog/30-day-ai-search-plan-orange-county/"
+    },
+    {
+      "anchor": "Local Business Schema for AI Search: Setup Guide",
+      "url": "https://thechimeraai.com/local-business-schema-for-ai-search/"
+    },
+    {
+      "anchor": "Remove fake Google reviews",
+      "url": "https://thechimeraai.com/how-to-remove-fake-google-reviews/"
+    },
+    {
+      "anchor": "Huntington Beach SEO",
+      "url": "https://thechimeraai.com/seo-huntington-beach/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

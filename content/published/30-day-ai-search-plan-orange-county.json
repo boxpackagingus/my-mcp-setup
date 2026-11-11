@@ -38,7 +38,7 @@
     },
     {
       "heading": "Week 1: check your basic signals",
-      "body_html": "<ul><li>Is your Google Business Profile complete, with the right category, hours and photos?</li><li>Are your name, address and phone the same on your website and main directories?</li><li>Does your robots.txt allow the AI crawlers you want, such as OAI-SearchBot and Googlebot?</li><li>Does Search Console show your important pages as indexed?</li></ul>"
+      "body_html": "<ul><li>Is your <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a> complete, with the right category, hours and photos?</li><li>Are your name, address and phone the same on your website and main directories?</li><li>Does your <a href=\"https://thechimeraai.com/robots-txt-for-ai-crawlers/\">robots.txt</a> allow the <a href=\"https://thechimeraai.com/ai-crawler-user-agents/\">AI crawlers</a> you want, such as OAI-SearchBot and Googlebot?</li><li>Does Search Console show your important pages as indexed?</li></ul>"
     },
     {
       "heading": "Week 2: fix crawl access",
@@ -46,7 +46,7 @@
     },
     {
       "heading": "Week 2: fix your facts",
-      "body_html": "<p>Wrong or conflicting facts are the most common reason AI tools describe a business badly. Update old directory listings, remove duplicate profiles and make your website the clearest statement of who you are: what you do, where you serve in Orange County, your hours, your prices or price ranges and how to contact you. Add Organization or LocalBusiness structured data that matches the page.</p>"
+      "body_html": "<p>Wrong or conflicting facts are the most common reason AI tools describe a business badly. Update old directory listings, remove duplicate profiles and make your website the clearest statement of who you are: what you do, where you serve in Orange County, your hours, your prices or price ranges and how to contact you. Add Organization or LocalBusiness <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a> that matches the page.</p>"
     },
     {
       "heading": "Week 3: publish answer pages",
@@ -62,7 +62,7 @@
     },
     {
       "heading": "Week 4: set a monthly routine",
-      "body_html": "<p>AI search changes quickly. Google alone announced new AI Mode features for travel in August 2026 and more links in AI answers in October 2026. Set a simple monthly routine: rerun your question checks, review Search Console, update one or two important pages and publish one or two new answer pages. Consistency over months matters more than a single burst.</p>"
+      "body_html": "<p>AI search changes quickly. Google alone announced new <a href=\"https://thechimeraai.com/how-to-optimize-for-google-ai-mode/\">AI Mode</a> features for travel in August 2026 and more links in AI answers in October 2026. Set a simple monthly routine: rerun your question checks, review Search Console, update one or two important pages and publish one or two new answer pages. Consistency over months matters more than a single burst.</p>"
     },
     {
       "heading": "Common mistakes",
@@ -139,6 +139,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Local Business Schema for AI Search: Setup Guide",
+      "url": "https://thechimeraai.com/local-business-schema-for-ai-search/"
+    },
+    {
+      "anchor": "How to Choose a GEO Agency: 10-Point Checklist",
+      "url": "https://thechimeraai.com/how-to-choose-a-geo-agency/"
+    },
+    {
+      "anchor": "Remove fake Google reviews",
+      "url": "https://thechimeraai.com/how-to-remove-fake-google-reviews/"
+    },
+    {
+      "anchor": "Huntington Beach SEO",
+      "url": "https://thechimeraai.com/seo-huntington-beach/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

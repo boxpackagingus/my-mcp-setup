@@ -26,7 +26,7 @@
   "sections": [
     {
       "heading": "What Google announced",
-      "body_html": "<p>On November 10, 2026, Google made Gemini 4 Carbon available to developers, enterprises, scientists and consumers. Google calls Carbon its strongest model, with frontier performance in cybersecurity and in long-horizon agentic work across complex knowledge work, software engineering and scientific reasoning. Two weeks earlier, Google had released it to a group of cybersecurity defenders through its Fairwind Program.</p>"
+      "body_html": "<p>On November 10, 2026, Google made <a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a> 4 Carbon available to developers, enterprises, scientists and consumers. Google calls Carbon its strongest model, with frontier performance in cybersecurity and in long-horizon agentic work across complex knowledge work, software engineering and scientific reasoning. Two weeks earlier, Google had released it to a group of cybersecurity defenders through its Fairwind Program.</p>"
     },
     {
       "heading": "Carbon versus Argon",
@@ -34,11 +34,11 @@
     },
     {
       "heading": "Where people can use it",
-      "body_html": "<table><tr><th>Who</th><th>Where</th></tr><tr><td>Paying developers and enterprises</td><td>The API in Google AI Studio and Gemini for business</td></tr><tr><td>Google AI Ultra subscribers</td><td>Google Antigravity, the Gemini app and AI Mode in Search</td></tr></table><p>Google says Carbon is rolling out to all AI Ultra subscribers, so most people using free Google Search will not see Carbon-powered AI Mode answers yet.</p>"
+      "body_html": "<table><tr><th>Who</th><th>Where</th></tr><tr><td>Paying developers and enterprises</td><td>The API in Google AI Studio and Gemini for business</td></tr><tr><td>Google AI Ultra subscribers</td><td>Google Antigravity, the Gemini app and <a href=\"https://thechimeraai.com/how-to-optimize-for-google-ai-mode/\">AI Mode</a> in Search</td></tr></table><p>Google says Carbon is rolling out to all AI Ultra subscribers, so most people using free Google Search will not see Carbon-powered AI Mode answers yet.</p>"
     },
     {
       "heading": "Benchmarks Google reported",
-      "body_html": "<p>Google says Carbon ranks first on CursorBench 4.0, Perplexity's WANDR and Zapier's AutomationBench at more than 2 times lower cost per task than the next best external model. On a new Multimodal Knowledge Agent benchmark built with Artificial Analysis, Google says Carbon ranks second at more than 6 times lower average cost per task than the top model. These are Google's reported results.</p>"
+      "body_html": "<p>Google says Carbon ranks first on CursorBench 4.0, <a href=\"https://thechimeraai.com/perplexity-seo/\">Perplexity</a>'s WANDR and Zapier's AutomationBench at more than 2 times lower cost per task than the next best external model. On a new Multimodal Knowledge Agent benchmark built with Artificial Analysis, Google says Carbon ranks second at more than 6 times lower average cost per task than the top model. These are Google's reported results.</p>"
     },
     {
       "heading": "Pricing for developers",
@@ -54,7 +54,7 @@
     },
     {
       "heading": "What to update this month",
-      "body_html": "<ol><li>Make sure each service has its own page with scope, timing, price guidance and service area.</li><li>Check that your name, address, phone and hours match on your site, Business Profile and main directories.</li><li>Add the answers customers actually ask before buying.</li><li>Keep reviews coming and reply to them.</li><li>Fix anything outdated, such as old offers or staff who have left.</li></ol>"
+      "body_html": "<ol><li>Make sure each service has its own page with scope, timing, price guidance and <a href=\"https://thechimeraai.com/google-business-profile-service-area/\">service area</a>.</li><li>Check that your name, address, phone and hours match on your site, Business Profile and main directories.</li><li>Add the answers customers actually ask before buying.</li><li>Keep reviews coming and reply to them.</li><li>Fix anything outdated, such as old offers or staff who have left.</li></ol>"
     },
     {
       "heading": "Agents and swarms",
@@ -70,7 +70,7 @@
     },
     {
       "heading": "Keeping up without chasing releases",
-      "body_html": "<p>New models arrive every few months. Rather than reacting to each one, keep improving the basics that every model relies on: accurate listings, clear pages, genuine reviews and a site that is fast and easy to read.</p>"
+      "body_html": "<p>New models arrive every few months. Rather than reacting to each one, keep improving the basics that every model relies on: accurate listings, clear pages, <a href=\"https://thechimeraai.com/how-to-get-more-google-reviews/\">genuine reviews</a> and a site that is fast and easy to read.</p>"
     },
     {
       "heading": "Safety and security",
@@ -143,6 +143,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Google's October 2026 AI updates",
+      "url": "https://thechimeraai.com/blog/google-october-2026-ai-updates-local-business/"
+    },
+    {
+      "anchor": "Google's new AI Mode links",
+      "url": "https://thechimeraai.com/blog/google-ai-mode-inline-links-update/"
+    },
+    {
+      "anchor": "Google Search profiles for local brands",
+      "url": "https://thechimeraai.com/blog/google-search-profiles-local-brands/"
+    },
+    {
+      "anchor": "What Is LLM SEO? A Practical Guide for 2026",
+      "url": "https://thechimeraai.com/what-is-llm-seo/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

@@ -26,11 +26,11 @@
   "sections": [
     {
       "heading": "What Google AI Overviews are",
-      "body_html": "<p>AI Overviews are AI-generated summaries that appear at the top of some Google results. They answer the query in a few sentences or bullet points and show links to the web pages they drew on. AI Mode goes further, letting people ask follow-up questions in a conversational view.</p><p>For businesses, being one of the linked sources is valuable: the link sits above the traditional results, and the summary often describes your offer before the searcher reaches any blue link.</p>"
+      "body_html": "<p>AI Overviews are AI-generated summaries that appear at the top of some Google results. They answer the query in a few sentences or bullet points and show links to the web pages they drew on. <a href=\"https://thechimeraai.com/how-to-optimize-for-google-ai-mode/\">AI Mode</a> goes further, letting people ask follow-up questions in a conversational view.</p><p>For businesses, being one of the linked sources is valuable: the link sits above the traditional results, and the summary often describes your offer before the searcher reaches any blue link.</p>"
     },
     {
       "heading": "What Google says you need",
-      "body_html": "<p>Google's documentation for site owners is clear on the basics:</p><ul><li>There are <strong>no additional requirements</strong> to appear in AI Overviews or AI Mode, and no special schema or markup to add.</li><li>A page must be <strong>indexed and eligible to be shown in Google Search with a snippet</strong>.</li><li>The same <strong>SEO best practices</strong> apply: crawlable pages, internal links, good page experience, text content, and structured data that matches visible content.</li></ul><p>Google also notes that AI features may use a technique it calls \"query fan-out\", issuing several related searches across subtopics to build a response. That means a single overview can draw on pages answering different parts of the question.</p><p>Controls work through normal snippet settings. If you set <code>nosnippet</code> or a very short <code>max-snippet</code>, your content is less likely to be used.</p>"
+      "body_html": "<p>Google's documentation for site owners is clear on the basics:</p><ul><li>There are <strong>no additional requirements</strong> to appear in AI Overviews or AI Mode, and no special schema or markup to add.</li><li>A page must be <strong>indexed and eligible to be shown in Google Search with a snippet</strong>.</li><li>The same <strong>SEO best practices</strong> apply: crawlable pages, internal links, good page experience, text content, and <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a> that matches visible content.</li></ul><p>Google also notes that AI features may use a technique it calls \"<a href=\"https://thechimeraai.com/what-is-query-fan-out/\">query fan-out</a>\", issuing several related searches across subtopics to build a response. That means a single overview can draw on pages answering different parts of the question.</p><p>Controls work through normal snippet settings. If you set <code>nosnippet</code> or a very short <code>max-snippet</code>, your content is less likely to be used.</p>"
     },
     {
       "heading": "How to make your pages easier to cite",
@@ -38,7 +38,7 @@
     },
     {
       "heading": "Technical checklist for AI Overviews",
-      "body_html": "<table><tr><th>Check</th><th>Why it matters</th></tr><tr><td>Page is indexed (URL Inspection in Search Console)</td><td>Unindexed pages cannot be sources</td></tr><tr><td>No <code>nosnippet</code> or restrictive <code>max-snippet</code></td><td>Snippet controls also limit AI features</td></tr><tr><td>Important content is in the HTML text</td><td>Content hidden in images or late-loading scripts is harder to use</td></tr><tr><td>Internal links point to the page</td><td>Helps Google discover and understand it</td></tr><tr><td>Structured data matches the visible page</td><td>Mismatched markup can be ignored or penalized</td></tr><tr><td>Page loads fast on mobile</td><td>Page experience is part of overall quality</td></tr></table><p>Note that <code>Google-Extended</code> in robots.txt controls whether content is used for Gemini training and grounding; Google says it does not affect inclusion in Search, including AI Overviews.</p>"
+      "body_html": "<table><tr><th>Check</th><th>Why it matters</th></tr><tr><td>Page is indexed (URL Inspection in Search Console)</td><td>Unindexed pages cannot be sources</td></tr><tr><td>No <code>nosnippet</code> or restrictive <code>max-snippet</code></td><td>Snippet controls also limit AI features</td></tr><tr><td>Important content is in the HTML text</td><td>Content hidden in images or late-loading scripts is harder to use</td></tr><tr><td>Internal links point to the page</td><td>Helps Google discover and understand it</td></tr><tr><td>Structured data matches the visible page</td><td>Mismatched markup can be ignored or penalized</td></tr><tr><td>Page loads fast on mobile</td><td>Page experience is part of overall quality</td></tr></table><p>Note that <code>Google-Extended</code> in <a href=\"https://thechimeraai.com/robots-txt-for-ai-crawlers/\">robots.txt</a> controls whether content is used for <a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a> training and grounding; Google says it does not affect inclusion in Search, including AI Overviews.</p>"
     },
     {
       "heading": "Which queries trigger AI Overviews",
@@ -103,6 +103,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Google's new AI Mode links",
+      "url": "https://thechimeraai.com/blog/google-ai-mode-inline-links-update/"
+    },
+    {
+      "anchor": "Perplexity SEO: How to Get Cited by Perplexity",
+      "url": "https://thechimeraai.com/perplexity-seo/"
+    },
+    {
+      "anchor": "How to Get Cited by Claude: A Practical Guide for Brands",
+      "url": "https://thechimeraai.com/how-to-get-cited-by-claude/"
+    },
+    {
+      "anchor": "AI Overviews vs Featured Snippets: What's the Difference?",
+      "url": "https://thechimeraai.com/ai-overviews-vs-featured-snippets/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

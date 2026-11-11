@@ -26,7 +26,7 @@
   "sections": [
     {
       "heading": "What OpenAI announced",
-      "body_html": "<p>On November 10, 2026, OpenAI introduced Businesses in ChatGPT in beta, describing it as a new way for businesses to connect with the 1.2 billion people who use ChatGPT each week, a figure OpenAI gives in the announcement. The launch has two parts: Business Hub, where businesses claim their business, manage their information and see insights, and Business Agents, a way for businesses to talk with customers inside ChatGPT, starting with eligible ecommerce and online service businesses in the U.S.</p>"
+      "body_html": "<p>On November 10, 2026, OpenAI introduced Businesses in <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a> in beta, describing it as a new way for businesses to connect with the 1.2 billion people who use ChatGPT each week, a figure OpenAI gives in the announcement. The launch has two parts: Business Hub, where businesses claim their business, manage their information and see insights, and Business Agents, a way for businesses to talk with customers inside ChatGPT, starting with eligible ecommerce and online service businesses in the U.S.</p>"
     },
     {
       "heading": "Claiming your business",
@@ -58,11 +58,11 @@
     },
     {
       "heading": "Does claiming help you get recommended?",
-      "body_html": "<p>OpenAI's announcement does not say that claiming a business improves how often ChatGPT recommends it, and we will not claim otherwise. What it does say is that claiming lets you supply accurate, up-to-date details. Wrong hours, an old address or outdated prices are exactly the kind of errors that make an AI answer less useful, so correcting them at the source is worthwhile on its own.</p>"
+      "body_html": "<p>OpenAI's announcement does not say that claiming a business improves how often <a href=\"https://thechimeraai.com/how-chatgpt-recommends-local-businesses/\">ChatGPT recommends</a> it, and we will not claim otherwise. What it does say is that claiming lets you supply accurate, up-to-date details. Wrong hours, an old address or outdated prices are exactly the kind of errors that make an AI answer less useful, so correcting them at the source is worthwhile on its own.</p>"
     },
     {
       "heading": "Why this matters in Orange County",
-      "body_html": "<p>Orange County had 3,186,989 residents in the 2020 census, and Anaheim alone had 346,824. Many of them, and the visitors who come for Anaheim's attractions and conventions, now ask AI assistants where to eat, who to call and what to buy. A verified ChatGPT presence with accurate details sits alongside your Google Business Profile as part of being findable in 2026.</p>"
+      "body_html": "<p>Orange County had 3,186,989 residents in the 2020 census, and Anaheim alone had 346,824. Many of them, and the visitors who come for Anaheim's attractions and conventions, now ask AI assistants where to eat, who to call and what to buy. A verified ChatGPT presence with accurate details sits alongside your <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a> as part of being findable in 2026.</p>"
     },
     {
       "heading": "How to get ready",
@@ -78,7 +78,7 @@
     },
     {
       "heading": "A worked example",
-      "body_html": "<p>Imagine a family-owned gift shop in downtown Fullerton that also sells online through Shopify. The owner connects the store from the Shopify admin to streamline verification, checks that the shop's hours and address match its Google Business Profile, and confirms product pricing and availability are current. A month later, the insights show which discovery topics bring mentions, and the owner expands the website's pages on the gift categories people ask about. As an online store in the U.S., the shop could also check whether it is eligible for a Business Agent.</p>"
+      "body_html": "<p>Imagine a family-owned gift shop in downtown <a href=\"https://thechimeraai.com/seo-fullerton/\">Fullerton</a> that also sells online through Shopify. The owner connects the store from the Shopify admin to streamline verification, checks that the shop's hours and address match its Google Business Profile, and confirms product pricing and availability are current. A month later, the insights show which discovery topics bring mentions, and the owner expands the website's pages on the gift categories people ask about. As an online store in the U.S., the shop could also check whether it is eligible for a Business Agent.</p>"
     },
     {
       "heading": "What to watch next",
@@ -86,7 +86,7 @@
     },
     {
       "heading": "The short version",
-      "body_html": "<p>Businesses in ChatGPT lets you claim your business, keep your details accurate and see how people find you in ChatGPT. Anaheim and Orange County businesses should claim theirs where eligible, keep every listing consistent and use the insights to improve their website. Chimera, based in Anaheim, helps local businesses get this right across ChatGPT, Google and other AI assistants.</p>"
+      "body_html": "<p>Businesses in ChatGPT lets you claim your business, keep your details accurate and see how people find you in ChatGPT. Anaheim and Orange County businesses should claim theirs where eligible, keep every listing consistent and use the insights to improve their website. <a href=\"https://thechimeraai.com/\">Chimera</a>, based in Anaheim, helps local businesses get this right across ChatGPT, Google and other AI assistants.</p>"
     }
   ],
   "faqs": [
@@ -147,6 +147,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Gemini can book reservations now",
+      "url": "https://thechimeraai.com/blog/gemini-task-automation-bookings-anaheim/"
+    },
+    {
+      "anchor": "Google Search profiles for local brands",
+      "url": "https://thechimeraai.com/blog/google-search-profiles-local-brands/"
+    },
+    {
+      "anchor": "ChatGPT Search vs Google: What It Means for Your Business",
+      "url": "https://thechimeraai.com/chatgpt-search-vs-google/"
+    },
+    {
+      "anchor": "Fix Wrong Brand Info in ChatGPT",
+      "url": "https://thechimeraai.com/how-to-fix-wrong-information-about-your-brand-in-chatgpt/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

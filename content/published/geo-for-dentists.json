@@ -26,7 +26,7 @@
   "sections": [
     {
       "heading": "How patients use AI to choose a dentist",
-      "body_html": "<p>Before booking, patients research: \"how long does a dental implant take\", \"is Invisalign worth it for adults\", \"what does a root canal cost without insurance\", \"best family dentist near Irvine\". Pew Research Center found that question-style and longer searches are the most likely to produce an AI summary in Google, and assistants like ChatGPT and Perplexity answer the same questions. When the answer cites or recommends a practice, that practice gets the first chance at the patient.</p>"
+      "body_html": "<p>Before booking, patients research: \"how long does a dental implant take\", \"is Invisalign worth it for adults\", \"what does a root canal cost without insurance\", \"best family dentist near Irvine\". Pew Research Center found that question-style and longer searches are the most likely to produce an AI summary in Google, and assistants like <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a> and <a href=\"https://thechimeraai.com/perplexity-seo/\">Perplexity</a> answer the same questions. When the answer cites or recommends a practice, that practice gets the first chance at the patient.</p>"
     },
     {
       "heading": "Treatment pages that AI tools cite",
@@ -38,11 +38,11 @@
     },
     {
       "heading": "Local signals for dental practices",
-      "body_html": "<p>\"Dentist near me\" questions lean heavily on local data. Keep your practice name, address, phone, hours and services identical on your website, Google Business Profile, Bing Places, insurance network listings and health directories. Add structured data using schema.org's <code>Dentist</code> type, which is both a LocalBusiness and a MedicalBusiness, to describe your practice in a machine-readable way. List the neighborhoods and cities you serve on a single clear location page rather than creating thin pages for each.</p>"
+      "body_html": "<p>\"Dentist near me\" questions lean heavily on local data. Keep your practice name, address, phone, hours and services identical on your website, <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a>, Bing Places, insurance network listings and health directories. Add <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a> using schema.org's <code>Dentist</code> type, which is both a LocalBusiness and a MedicalBusiness, to describe your practice in a machine-readable way. List the neighborhoods and cities you serve on a single clear location page rather than creating thin pages for each.</p>"
     },
     {
       "heading": "Reviews and credentials",
-      "body_html": "<p>Patients and AI systems both look for proof that a practice is trusted. Encourage satisfied patients to leave reviews on the platforms they already use, and respond to reviews professionally without revealing any patient information. Give each dentist a profile with qualifications, professional memberships and areas of focus. Mentions in local media, community sponsorships and professional associations add corroboration.</p>"
+      "body_html": "<p>Patients and AI systems both look for proof that a practice is trusted. Encourage satisfied patients to leave reviews on the platforms they already use, and <a href=\"https://thechimeraai.com/how-to-respond-to-google-reviews/\">respond to reviews</a> professionally without revealing any patient information. Give each dentist a profile with qualifications, professional memberships and areas of focus. Mentions in local media, community sponsorships and professional associations add corroboration.</p>"
     },
     {
       "heading": "Compliance reminders",
@@ -127,6 +127,26 @@
     {
       "anchor": "SEO for orthodontists",
       "url": "https://thechimeraai.com/seo-for-orthodontists/"
+    },
+    {
+      "anchor": "GEO for Med Spas: Get Recommended by AI Search",
+      "url": "https://thechimeraai.com/geo-for-med-spas/"
+    },
+    {
+      "anchor": "GEO for Healthcare Providers: Be Cited by AI Search",
+      "url": "https://thechimeraai.com/geo-for-healthcare/"
+    },
+    {
+      "anchor": "SEO for doctors",
+      "url": "https://thechimeraai.com/seo-for-doctors/"
+    },
+    {
+      "anchor": "SEO for plastic surgeons",
+      "url": "https://thechimeraai.com/seo-for-plastic-surgeons/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

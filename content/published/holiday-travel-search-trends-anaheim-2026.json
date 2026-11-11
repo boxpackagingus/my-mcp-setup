@@ -42,7 +42,7 @@
     },
     {
       "heading": "The planning window is the content window",
-      "body_html": "<p>If a family books Christmas flights around 56 days out, they are likely deciding on hotels, restaurants and activities in that same window. That is when they ask Google, AI Mode or ChatGPT questions like \"where to stay near Disneyland at Christmas\" or \"best restaurants near the Anaheim Convention Center\". Content that answers those questions needs to be published, crawled and indexed before that window opens, not the week of the trip.</p>"
+      "body_html": "<p>If a family books Christmas flights around 56 days out, they are likely deciding on hotels, restaurants and activities in that same window. That is when they ask Google, <a href=\"https://thechimeraai.com/how-to-optimize-for-google-ai-mode/\">AI Mode</a> or <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a> questions like \"where to stay near Disneyland at Christmas\" or \"best restaurants near the Anaheim Convention Center\". Content that answers those questions needs to be published, crawled and indexed before that window opens, not the week of the trip.</p>"
     },
     {
       "heading": "A content calendar from the data",
@@ -54,11 +54,11 @@
     },
     {
       "heading": "Make it easy for AI to answer",
-      "body_html": "<p>AI tools answer trip-planning questions by pulling specific facts. Write the answer first: dates, prices or price ranges where you can state them, opening hours and distances. Use one page per clear topic, keep facts consistent with your Google Business Profile, and add structured data for your business type, such as Hotel, Restaurant or LocalBusiness.</p>"
+      "body_html": "<p>AI tools answer trip-planning questions by pulling specific facts. Write the answer first: dates, prices or price ranges where you can state them, opening hours and distances. Use one page per clear topic, keep facts consistent with your <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a>, and add <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a> for your business type, such as Hotel, Restaurant or LocalBusiness.</p>"
     },
     {
       "heading": "Use your own Search Console data",
-      "body_html": "<p>Google's windows are national averages for flights. Your own Search Console data shows when people start searching for your business and pages. Compare impressions by month for last year's seasonal pages, note when they started to climb and publish this year's updates a few weeks earlier.</p>"
+      "body_html": "<p>Google's windows are national averages for flights. Your own <a href=\"https://thechimeraai.com/blog/search-console-generative-ai-performance-report/\">Search Console</a> data shows when people start searching for your business and pages. Compare impressions by month for last year's seasonal pages, note when they started to climb and publish this year's updates a few weeks earlier.</p>"
     },
     {
       "heading": "AI Mode is part of travel planning now",
@@ -135,6 +135,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "SEO for travel agencies",
+      "url": "https://thechimeraai.com/seo-for-travel-agencies/"
+    },
+    {
+      "anchor": "AI Mode hotel booking for Anaheim hotels",
+      "url": "https://thechimeraai.com/blog/google-ai-mode-hotel-booking-anaheim/"
+    },
+    {
+      "anchor": "SEO for hotels",
+      "url": "https://thechimeraai.com/seo-for-hotels-orange-county/"
+    },
+    {
+      "anchor": "SEO for event planners",
+      "url": "https://thechimeraai.com/seo-for-event-planners/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

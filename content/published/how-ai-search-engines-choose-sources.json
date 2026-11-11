@@ -26,11 +26,11 @@
   "sections": [
     {
       "heading": "Stage 1: access",
-      "body_html": "<p>An AI engine can only cite what it can read. Google's AI features use pages in Google's index, so a page must be indexed and eligible to show a snippet. ChatGPT search uses OpenAI's OAI-SearchBot, Perplexity uses PerplexityBot, Claude uses Claude-SearchBot, and Microsoft Copilot is grounded in Bing. If robots.txt, a firewall or a login wall blocks these, the page is out of the running before relevance is even considered.</p><p>Access also means the content is in the HTML. Text that only appears after complex scripts run, or inside images, is harder for crawlers to use.</p>"
+      "body_html": "<p>An AI engine can only cite what it can read. Google's AI features use pages in Google's index, so a page must be indexed and eligible to show a snippet. ChatGPT search uses OpenAI's OAI-SearchBot, Perplexity uses PerplexityBot, Claude uses Claude-SearchBot, and Microsoft Copilot is grounded in Bing. If <a href=\"https://thechimeraai.com/robots-txt-for-ai-crawlers/\">robots.txt</a>, a firewall or a login wall blocks these, the page is out of the running before relevance is even considered.</p><p>Access also means the content is in the HTML. Text that only appears after complex scripts run, or inside images, is harder for crawlers to use.</p>"
     },
     {
       "heading": "Stage 2: retrieval",
-      "body_html": "<p>When a question comes in, the system searches its index for candidate pages. For complex questions, Google says AI Overviews and AI Mode may use query fan-out, running several related searches across subtopics. The result is a pool of candidate pages that match the question or one of its parts. Relevance here works much like search ranking: the page needs to be clearly about the topic, using the words people actually use.</p>"
+      "body_html": "<p>When a question comes in, the system searches its index for candidate pages. For complex questions, Google says <a href=\"https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/\">AI Overviews</a> and <a href=\"https://thechimeraai.com/how-to-optimize-for-google-ai-mode/\">AI Mode</a> may use query fan-out, running several related searches across subtopics. The result is a pool of candidate pages that match the question or one of its parts. Relevance here works much like search ranking: the page needs to be clearly about the topic, using the words people actually use.</p>"
     },
     {
       "heading": "Stage 3: selection",
@@ -38,7 +38,7 @@
     },
     {
       "heading": "Trust signals that matter",
-      "body_html": "<p>Google's guidance on helpful, reliable content asks whether content shows first-hand expertise, cites sources and is written by people who know the subject. AI systems inherit much of that from the search systems they sit on. Practical signals include named authors with relevant experience, clear business details, accurate structured data, a history of publishing on the topic, and other reputable sites referring to you.</p><p>Corroboration matters too: a claim stated consistently across several trusted sources is safer for an AI to repeat than one found on a single page.</p>"
+      "body_html": "<p>Google's guidance on helpful, reliable content asks whether content shows first-hand expertise, cites sources and is written by people who know the subject. AI systems inherit much of that from the search systems they sit on. Practical signals include named authors with relevant experience, clear business details, accurate <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a>, a history of publishing on the topic, and other reputable sites referring to you.</p><p>Corroboration matters too: a claim stated consistently across several trusted sources is safer for an AI to repeat than one found on a single page.</p>"
     },
     {
       "heading": "Why several sources usually win",
@@ -54,7 +54,7 @@
     },
     {
       "heading": "Common reasons a good page is not cited",
-      "body_html": "<ul><li>The AI crawler is blocked by a firewall rule nobody noticed.</li><li>The answer is buried below a long introduction.</li><li>The page is generic, saying what every other page says.</li><li>The brand is described inconsistently across the web, so the AI hedges.</li><li>The page is new and not yet indexed in Bing, which Copilot and others rely on.</li></ul>"
+      "body_html": "<ul><li>The <a href=\"https://thechimeraai.com/ai-crawler-user-agents/\">AI crawler</a> is blocked by a firewall rule nobody noticed.</li><li>The answer is buried below a long introduction.</li><li>The page is generic, saying what every other page says.</li><li>The brand is described inconsistently across the web, so the AI hedges.</li><li>The page is new and not yet indexed in Bing, which Copilot and others rely on.</li></ul>"
     },
     {
       "heading": "A quick self-check for any page",
@@ -115,6 +115,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Search Console's generative AI performance report",
+      "url": "https://thechimeraai.com/blog/search-console-generative-ai-performance-report/"
+    },
+    {
+      "anchor": "Generative Engine Optimization Agency: What They Do",
+      "url": "https://thechimeraai.com/generative-engine-optimization-agency/"
+    },
+    {
+      "anchor": "AI Search Statistics 2026",
+      "url": "https://thechimeraai.com/ai-search-statistics/"
+    },
+    {
+      "anchor": "Reddit for AI Search: How It Shapes AI Answers",
+      "url": "https://thechimeraai.com/reddit-for-ai-search/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

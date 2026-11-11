@@ -26,7 +26,7 @@
   "sections": [
     {
       "heading": "What a local landing page is",
-      "body_html": "<p>A local landing page targets a specific city or area, for example roof repair in Huntington Beach. Done well, it helps customers there see that you work in their area and understand how.</p>"
+      "body_html": "<p>A local landing page targets a specific city or area, for example roof repair in <a href=\"https://thechimeraai.com/seo-huntington-beach/\">Huntington Beach</a>. Done well, it helps customers there see that you work in their area and understand how.</p>"
     },
     {
       "heading": "Google's doorway policy",
@@ -46,7 +46,7 @@
     },
     {
       "heading": "Use real local facts",
-      "body_html": "<p>Local facts make pages genuinely different. Orange County cities vary: Irvine is a planned city with business districts, Huntington Beach is a coastal city known as Surf City, and Santa Ana is the county seat. Use details relevant to your service.</p>"
+      "body_html": "<p>Local facts make pages genuinely different. Orange County cities vary: <a href=\"https://thechimeraai.com/seo-irvine/\">Irvine</a> is a planned city with business districts, Huntington Beach is a coastal city known as Surf City, and <a href=\"https://thechimeraai.com/seo-santa-ana/\">Santa Ana</a> is the county seat. Use details relevant to your service.</p>"
     },
     {
       "heading": "Linking city pages",
@@ -70,7 +70,7 @@
     },
     {
       "heading": "Details businesses often overlook",
-      "body_html": "<ul><li>City pages that list services the business does not offer in that city.</li><li>The same photos reused on every city page.</li><li>Reviews on city pages from customers in other cities.</li><li>No internal links pointing to the city pages.</li><li>City pages left live after the business stopped serving the area.</li></ul>"
+      "body_html": "<ul><li>City pages that list services the business does not offer in that city.</li><li>The same photos reused on every city page.</li><li>Reviews on city pages from customers in other cities.</li><li>No <a href=\"https://thechimeraai.com/internal-linking-for-ai-search/\">internal links</a> pointing to the city pages.</li><li>City pages left live after the business stopped serving the area.</li></ul>"
     },
     {
       "heading": "How city pages connect to AI search",
@@ -82,7 +82,7 @@
     },
     {
       "heading": "Questions to ask before you publish",
-      "body_html": "<p>Before publishing any city page, ask: would a customer in this city learn something here they could not learn on the main service page? Is there real work, a team or a review from this city to show? Would I be comfortable if a Google reviewer compared this page with my other city pages? If the honest answer to any of these is no, improve the main service page instead, and let your Business Profile service area cover the city.</p>"
+      "body_html": "<p>Before publishing any city page, ask: would a customer in this city learn something here they could not learn on the main service page? Is there real work, a team or a review from this city to show? Would I be comfortable if a Google reviewer compared this page with my other city pages? If the honest answer to any of these is no, improve the main service page instead, and let your Business Profile <a href=\"https://thechimeraai.com/google-business-profile-service-area/\">service area</a> cover the city.</p>"
     },
     {
       "heading": "A worked example: a solar installer",
@@ -175,6 +175,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "A 30-day AI search plan for OC businesses",
+      "url": "https://thechimeraai.com/blog/30-day-ai-search-plan-orange-county/"
+    },
+    {
+      "anchor": "Near me searches",
+      "url": "https://thechimeraai.com/near-me-searches/"
+    },
+    {
+      "anchor": "SEO company in Anaheim",
+      "url": "https://thechimeraai.com/seo-company-anaheim/"
+    },
+    {
+      "anchor": "Remove fake Google reviews",
+      "url": "https://thechimeraai.com/how-to-remove-fake-google-reviews/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [
@@ -345,5 +365,5 @@
     "height": 840
   },
   "published": "2026-11-10",
-  "updated": "2026-11-10"
+  "updated": "2026-11-11"
 }

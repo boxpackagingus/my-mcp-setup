@@ -26,11 +26,11 @@
   "sections": [
     {
       "heading": "Two different experiences",
-      "body_html": "<p>Google is a search engine first: you type a query and get ranked links, with AI Overviews, maps, shopping and other features layered on top. ChatGPT is a conversational assistant: you ask a question, often a long one, get a written answer, and can ask follow-ups. When ChatGPT searches the web, it adds citations to the sources it used.</p><p>For businesses, both can introduce you to buyers, but in different ways: Google through a click from a list, ChatGPT through a mention or citation inside an answer.</p>"
+      "body_html": "<p>Google is a search engine first: you type a query and get ranked links, with <a href=\"https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/\">AI Overviews</a>, maps, shopping and other features layered on top. <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a> is a conversational assistant: you ask a question, often a long one, get a written answer, and can ask follow-ups. When ChatGPT searches the web, it adds citations to the sources it used.</p><p>For businesses, both can introduce you to buyers, but in different ways: Google through a click from a list, ChatGPT through a mention or citation inside an answer.</p>"
     },
     {
       "heading": "How each finds sources",
-      "body_html": "<table><tr><th></th><th>ChatGPT search</th><th>Google Search</th></tr><tr><td>Crawler</td><td>OAI-SearchBot</td><td>Googlebot</td></tr><tr><td>Index</td><td>OpenAI's own search systems and partners</td><td>Google's index</td></tr><tr><td>Result format</td><td>Written answer with citations</td><td>Ranked links, AI Overviews, AI Mode</td></tr><tr><td>Follow-ups</td><td>Natural conversation</td><td>New searches, or AI Mode conversations</td></tr><tr><td>Local results</td><td>Can suggest businesses</td><td>Maps and local pack, plus AI answers</td></tr></table><p>OpenAI documents that OAI-SearchBot is used to surface websites in ChatGPT search results, separate from GPTBot, which collects training data.</p>"
+      "body_html": "<table><tr><th></th><th>ChatGPT search</th><th>Google Search</th></tr><tr><td>Crawler</td><td>OAI-SearchBot</td><td>Googlebot</td></tr><tr><td>Index</td><td>OpenAI's own search systems and partners</td><td>Google's index</td></tr><tr><td>Result format</td><td>Written answer with citations</td><td>Ranked links, AI Overviews, <a href=\"https://thechimeraai.com/how-to-optimize-for-google-ai-mode/\">AI Mode</a></td></tr><tr><td>Follow-ups</td><td>Natural conversation</td><td>New searches, or AI Mode conversations</td></tr><tr><td>Local results</td><td>Can suggest businesses</td><td>Maps and local pack, plus AI answers</td></tr></table><p>OpenAI documents that OAI-SearchBot is used to surface websites in ChatGPT search results, separate from GPTBot, which collects training data.</p>"
     },
     {
       "heading": "How people use them",
@@ -46,7 +46,7 @@
     },
     {
       "heading": "Where they differ in practice",
-      "body_html": "<p>Google rewards being the best result for a specific query and has strong local features, so Google Business Profile and reviews are essential there. ChatGPT tends to synthesize across several sources and may name brands that appear consistently in discussions, roundups and reviews, even if their own site is not the top Google result. Being indexed in Bing can also matter for other assistants, such as Microsoft Copilot, that draw on Bing.</p>"
+      "body_html": "<p>Google rewards being the best result for a specific query and has strong local features, so <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a> and reviews are essential there. ChatGPT tends to synthesize across several sources and may name brands that appear consistently in discussions, roundups and reviews, even if their own site is not the top Google result. Being indexed in Bing can also matter for other assistants, such as <a href=\"https://thechimeraai.com/microsoft-copilot-seo/\">Microsoft Copilot</a>, that draw on Bing.</p>"
     },
     {
       "heading": "Which should you prioritize?",
@@ -135,6 +135,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Businesses in ChatGPT: claim your business",
+      "url": "https://thechimeraai.com/blog/businesses-in-chatgpt-claim-your-business/"
+    },
+    {
+      "anchor": "How ChatGPT Recommends Local Businesses",
+      "url": "https://thechimeraai.com/how-chatgpt-recommends-local-businesses/"
+    },
+    {
+      "anchor": "Perplexity SEO: How to Get Cited by Perplexity",
+      "url": "https://thechimeraai.com/perplexity-seo/"
+    },
+    {
+      "anchor": "How to Optimize for Meta AI: A Practical Guide",
+      "url": "https://thechimeraai.com/how-to-optimize-for-meta-ai/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

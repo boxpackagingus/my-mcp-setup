@@ -26,11 +26,11 @@
   "sections": [
     {
       "heading": "What happens when someone asks",
-      "body_html": "<p>A request like \"recommend a good family dentist in Irvine that takes evening appointments\" needs current, local information. ChatGPT typically searches the web for it, reads a selection of results, and writes an answer naming a few businesses with short reasons. The businesses it names are the ones it can find, understand and feel confident describing. It does not have a private list; it works from what is published online.</p>"
+      "body_html": "<p>A request like \"recommend a good family dentist in Irvine that takes evening appointments\" needs current, local information. <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a> typically searches the web for it, reads a selection of results, and writes an answer naming a few businesses with short reasons. The businesses it names are the ones it can find, understand and feel confident describing. It does not have a private list; it works from what is published online.</p>"
     },
     {
       "heading": "Where the information comes from",
-      "body_html": "<ul><li><strong>Business websites</strong>: services, location, hours, about pages.</li><li><strong>Listings and maps data</strong>: business profiles and directories.</li><li><strong>Reviews</strong> on the platforms people use.</li><li><strong>Local articles and guides</strong>: \"best of\" lists, news, community sites.</li><li><strong>Discussions</strong> in local communities.</li></ul><p>OpenAI documents that ChatGPT search uses its OAI-SearchBot crawler to surface websites, so allowing it in robots.txt and your firewall is the first requirement for your own site to be read.</p>"
+      "body_html": "<ul><li><strong>Business websites</strong>: services, location, hours, about pages.</li><li><strong>Listings and maps data</strong>: business profiles and directories.</li><li><strong>Reviews</strong> on the platforms people use.</li><li><strong>Local articles and guides</strong>: \"best of\" lists, news, community sites.</li><li><strong>Discussions</strong> in local communities.</li></ul><p>OpenAI documents that ChatGPT search uses its OAI-SearchBot crawler to surface websites, so allowing it in <a href=\"https://thechimeraai.com/robots-txt-for-ai-crawlers/\">robots.txt</a> and your firewall is the first requirement for your own site to be read.</p>"
     },
     {
       "heading": "Signals that matter",
@@ -38,11 +38,11 @@
     },
     {
       "heading": "Make your website easy to understand",
-      "body_html": "<p>State on your homepage and service pages exactly what you do, where, and for whom. Include your full address, service areas, hours and contact details in text. Explain specialties and options that people ask for: evening hours, languages spoken, insurance accepted, emergency service, parking. Add LocalBusiness structured data, or a more specific type, that matches the page.</p>"
+      "body_html": "<p>State on your homepage and service pages exactly what you do, where, and for whom. Include your full address, service areas, hours and contact details in text. Explain specialties and options that people ask for: evening hours, languages spoken, insurance accepted, emergency service, parking. Add LocalBusiness <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a>, or a more specific type, that matches the page.</p>"
     },
     {
       "heading": "Get listings right",
-      "body_html": "<p>Make your Google Business Profile, Bing Places, Apple Business Connect and industry directories complete and identical to your website. Inconsistent details, such as an old address on one directory, are a common reason AI answers describe a business wrongly or leave it out. Choose accurate categories and keep holiday hours updated.</p>"
+      "body_html": "<p>Make your <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a>, Bing Places, Apple Business Connect and industry directories complete and identical to your website. Inconsistent details, such as an old address on one directory, are a common reason AI answers describe a business wrongly or leave it out. Choose accurate categories and keep <a href=\"https://thechimeraai.com/google-business-profile-holiday-hours/\">holiday hours</a> updated.</p>"
     },
     {
       "heading": "Reviews that say something",
@@ -151,6 +151,26 @@
     {
       "anchor": "Businesses in ChatGPT",
       "url": "https://thechimeraai.com/blog/businesses-in-chatgpt-claim-your-business/"
+    },
+    {
+      "anchor": "Perplexity SEO: How to Get Cited by Perplexity",
+      "url": "https://thechimeraai.com/perplexity-seo/"
+    },
+    {
+      "anchor": "How to Get Cited by Claude: A Practical Guide for Brands",
+      "url": "https://thechimeraai.com/how-to-get-cited-by-claude/"
+    },
+    {
+      "anchor": "Gemini SEO: How to Show Up in Google Gemini Answers",
+      "url": "https://thechimeraai.com/gemini-seo/"
+    },
+    {
+      "anchor": "ChatGPT Search vs Google: What It Means for Your Business",
+      "url": "https://thechimeraai.com/chatgpt-search-vs-google/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

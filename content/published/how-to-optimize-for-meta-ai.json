@@ -30,7 +30,7 @@
     },
     {
       "heading": "How Meta's crawlers work",
-      "body_html": "<p>Meta's developer documentation lists its web crawlers. It describes Meta-ExternalAgent as crawling the web for use cases such as training AI models or improving products by indexing content directly, and Meta-ExternalFetcher as fetching individual links at a user's request. Like other crawlers, these can be managed in robots.txt. Decide deliberately whether to allow them, knowing that blocking crawlers limits what that company's systems can read from your site.</p>"
+      "body_html": "<p>Meta's developer documentation lists its web crawlers. It describes Meta-ExternalAgent as crawling the web for use cases such as training AI models or improving products by indexing content directly, and Meta-ExternalFetcher as fetching individual links at a user's request. Like other crawlers, these can be managed in <a href=\"https://thechimeraai.com/robots-txt-for-ai-crawlers/\">robots.txt</a>. Decide deliberately whether to allow them, knowing that blocking crawlers limits what that company's systems can read from your site.</p>"
     },
     {
       "heading": "Your Meta business presence",
@@ -42,15 +42,15 @@
     },
     {
       "heading": "Your website still matters",
-      "body_html": "<p>Assistants that search the web, including tools that read pages on a user's request, need clear content to work with. An answer-first homepage and service pages, accurate business details in text, an FAQ and Organization or LocalBusiness structured data help any AI tool describe you correctly. Link your website from every Meta profile and link your profiles from your website.</p>"
+      "body_html": "<p>Assistants that search the web, including tools that read pages on a user's request, need clear content to work with. An answer-first homepage and service pages, accurate business details in text, an FAQ and Organization or LocalBusiness <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a> help any AI tool describe you correctly. Link your website from every Meta profile and link your profiles from your website.</p>"
     },
     {
       "heading": "Keep details consistent",
-      "body_html": "<p>Inconsistent details are the most common reason any AI describes a business wrongly. Make sure your name, address, phone, hours and description match across your website, Facebook, Instagram, WhatsApp, Google Business Profile and directories. Update all of them together when anything changes.</p>"
+      "body_html": "<p>Inconsistent details are the most common reason any AI describes a business wrongly. Make sure your name, address, phone, hours and description match across your website, Facebook, Instagram, WhatsApp, <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a> and directories. Update all of them together when anything changes.</p>"
     },
     {
       "heading": "Reviews and recommendations",
-      "body_html": "<p>Facebook recommendations and reviews on other platforms are signals customers see. Encourage satisfied customers to leave genuine recommendations and respond professionally to feedback. Never buy or fake reviews; platforms prohibit it and it destroys trust.</p>"
+      "body_html": "<p>Facebook recommendations and reviews on other platforms are signals customers see. Encourage satisfied customers to leave genuine recommendations and respond professionally to feedback. Never buy or <a href=\"https://thechimeraai.com/how-to-remove-fake-google-reviews/\">fake reviews</a>; platforms prohibit it and it destroys trust.</p>"
     },
     {
       "heading": "Testing what Meta AI says",
@@ -62,7 +62,7 @@
     },
     {
       "heading": "Who should prioritize Meta AI",
-      "body_html": "<p>Businesses whose customers are highly active on Facebook, Instagram or WhatsApp, such as restaurants, salons, local retailers, events and consumer brands, have the most reason to pay attention. For B2B companies, it is usually a lower priority than ChatGPT, Google and LinkedIn presence.</p>"
+      "body_html": "<p>Businesses whose customers are highly active on Facebook, Instagram or WhatsApp, such as restaurants, salons, local retailers, events and consumer brands, have the most reason to pay attention. For B2B companies, it is usually a lower priority than <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a>, Google and LinkedIn presence.</p>"
     },
     {
       "heading": "The short version",
@@ -147,6 +147,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Google Search profiles for local brands",
+      "url": "https://thechimeraai.com/blog/google-search-profiles-local-brands/"
+    },
+    {
+      "anchor": "How to Optimize for Google AI Mode: A Practical Guide",
+      "url": "https://thechimeraai.com/how-to-optimize-for-google-ai-mode/"
+    },
+    {
+      "anchor": "ChatGPT Search vs Google: What It Means for Your Business",
+      "url": "https://thechimeraai.com/chatgpt-search-vs-google/"
+    },
+    {
+      "anchor": "Copilot SEO: How to Get Cited by Microsoft Copilot",
+      "url": "https://thechimeraai.com/microsoft-copilot-seo/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

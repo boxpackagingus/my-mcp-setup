@@ -34,7 +34,7 @@
     },
     {
       "heading": "Technical SEO fundamentals",
-      "body_html": "<p>The second playlist is for developers and technical specialists. Google says it skips the basics to focus on site health, crawl budget, rendering and large-scale debugging.</p><ul><li>Crawl directives and architecture: robots.txt, crawl stats and crawl budget.</li><li>Indexing and debugging at scale: indexing issues, the URL Inspection tool and duplicate content.</li><li>Serving, rendering and APIs: how browsers parse HTML, page weight and Search Console bulk data exports and APIs.</li></ul>"
+      "body_html": "<p>The second playlist is for developers and technical specialists. Google says it skips the basics to focus on site health, crawl budget, rendering and large-scale debugging.</p><ul><li>Crawl directives and architecture: <a href=\"https://thechimeraai.com/robots-txt-for-ai-crawlers/\">robots.txt</a>, crawl stats and crawl budget.</li><li>Indexing and debugging at scale: indexing issues, the URL Inspection tool and duplicate content.</li><li>Serving, rendering and APIs: how browsers parse HTML, page weight and Search Console bulk data exports and APIs.</li></ul>"
     },
     {
       "heading": "Which path is for you",
@@ -50,11 +50,11 @@
     },
     {
       "heading": "Apply it to local search",
-      "body_html": "<p>The playlists cover Google Search generally. Local businesses also need their Google Business Profile, consistent listings and reviews, which Google explains in its Business Profile help. Combine the two: the playlists for your website, the help center for your profile.</p>"
+      "body_html": "<p>The playlists cover Google Search generally. Local businesses also need their <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a>, <a href=\"https://thechimeraai.com/nap-consistency-local-citations/\">consistent listings</a> and reviews, which Google explains in its Business Profile help. Combine the two: the playlists for your website, the help center for your profile.</p>"
     },
     {
       "heading": "Put Search Console to work",
-      "body_html": "<p>Once you have watched the Search Console videos, use the newer reports too, such as the generative AI performance report for AI Overviews and AI Mode, and the multimodal search filter for image searches. Learning the basics makes these reports much easier to read.</p>"
+      "body_html": "<p>Once you have watched the Search Console videos, use the newer reports too, such as the generative AI performance report for <a href=\"https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/\">AI Overviews</a> and <a href=\"https://thechimeraai.com/how-to-optimize-for-google-ai-mode/\">AI Mode</a>, and the multimodal search filter for image searches. Learning the basics makes these reports much easier to read.</p>"
     },
     {
       "heading": "Bring your team along",
@@ -151,6 +151,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Schema Markup for AI Search: Which Types Matter and Why",
+      "url": "https://thechimeraai.com/schema-markup-for-ai-search/"
+    },
+    {
+      "anchor": "GEO Content Strategy: Plan Content AI Search Cites",
+      "url": "https://thechimeraai.com/geo-content-strategy/"
+    },
+    {
+      "anchor": "YouTube for AI Search: Get Your Videos Cited",
+      "url": "https://thechimeraai.com/youtube-for-ai-search/"
+    },
+    {
+      "anchor": "Internal Linking for AI Search: A Practical Guide",
+      "url": "https://thechimeraai.com/internal-linking-for-ai-search/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

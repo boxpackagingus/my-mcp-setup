@@ -26,7 +26,7 @@
   "sections": [
     {
       "heading": "What Google announced",
-      "body_html": "<p>On October 30, 2026, Google's Search Central blog announced plans to support a shared AI training control in robots.txt. The idea is to let websites express their AI training preferences across multiple AI providers in one step. Google says the work is based on the AIPREF working group at the Internet Engineering Task Force, the body that develops many internet standards, and builds on Google-Extended, the AI training control Google has offered since 2023.</p>"
+      "body_html": "<p>On October 30, 2026, Google's Search Central blog announced plans to support a shared AI training control in <a href=\"https://thechimeraai.com/robots-txt-for-ai-crawlers/\">robots.txt</a>. The idea is to let websites express their AI training preferences across multiple AI providers in one step. Google says the work is based on the AIPREF working group at the Internet Engineering Task Force, the body that develops many internet standards, and builds on Google-Extended, the AI training control Google has offered since 2023.</p>"
     },
     {
       "heading": "How the shared control would work",
@@ -38,7 +38,7 @@
     },
     {
       "heading": "What Google-Extended actually controls",
-      "body_html": "<p>Google's crawler documentation describes Google-Extended as a standalone product token that controls whether content Google crawls may be used to train future Gemini models that power Gemini Apps and the Vertex AI API, and for grounding in Gemini Apps and Grounding with Google Search on Vertex AI. Grounding means providing content from the Google Search index to the model when it answers, to improve accuracy and relevance.</p>"
+      "body_html": "<p>Google's crawler documentation describes Google-Extended as a standalone product token that controls whether content Google crawls may be used to train future <a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a> models that power Gemini Apps and the Vertex AI API, and for grounding in Gemini Apps and Grounding with Google Search on Vertex AI. Grounding means providing content from the Google Search index to the model when it answers, to improve accuracy and relevance.</p>"
     },
     {
       "heading": "It does not affect Google Search",
@@ -139,6 +139,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "llms.txt Best Practices: Create One That Helps",
+      "url": "https://thechimeraai.com/best-practices-for-llms-txt/"
+    },
+    {
+      "anchor": "How to Optimize for Google AI Mode: A Practical Guide",
+      "url": "https://thechimeraai.com/how-to-optimize-for-google-ai-mode/"
+    },
+    {
+      "anchor": "What Is Query Fan-Out? How AI Search Finds Sources",
+      "url": "https://thechimeraai.com/what-is-query-fan-out/"
+    },
+    {
+      "anchor": "Copilot SEO: How to Get Cited by Microsoft Copilot",
+      "url": "https://thechimeraai.com/microsoft-copilot-seo/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

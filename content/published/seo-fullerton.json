@@ -34,7 +34,7 @@
     },
     {
       "heading": "How Google ranks local results in Fullerton",
-      "body_html": "<p>Three things decide most local rankings, according to Google's own help pages: relevance, distance and popularity. Google explains prominence as how well-known a business is, reflected in things like how many websites link to it and how many reviews it has; more reviews and positive ratings can help. It is also clear that a better local ranking cannot be bought or requested.</p><p>Distance matters around the campus and downtown. Businesses near Cal State Fullerton compete with those across the Anaheim border, so service areas and reviews matter.</p>"
+      "body_html": "<p>Three things decide most local rankings, according to Google's own help pages: relevance, distance and popularity. Google explains prominence as how well-known a business is, reflected in things like how many websites link to it and how many reviews it has; <a href=\"https://thechimeraai.com/how-to-get-more-google-reviews/\">more reviews</a> and positive ratings can help. It is also clear that a better local ranking cannot be bought or requested.</p><p>Distance matters around the campus and downtown. Businesses near Cal State Fullerton compete with those across the Anaheim border, so service areas and reviews matter.</p>"
     },
     {
       "heading": "Getting recommended by ChatGPT and Google AI in Fullerton",
@@ -42,7 +42,7 @@
     },
     {
       "heading": "What an SEO plan for a Fullerton business includes",
-      "body_html": "<table><tr><th>Step</th><th>What it means in practice</th></tr><tr><td>Audit</td><td>Business Profile, listings, website, and what AI assistants say about you today</td></tr><tr><td>Fix the foundations</td><td>Profile categories and services, consistent name, address and phone, structured data, crawl access</td></tr><tr><td>Service pages</td><td>One clear page per service with answers to real customer questions</td></tr><tr><td>Local proof</td><td>Projects, photos, reviews and case studies from real customers</td></tr><tr><td>Content</td><td>Guides that answer the questions people ask Google and AI</td></tr><tr><td>Measurement</td><td>Calls, bookings, Search Console, Analytics and monthly AI answer checks</td></tr></table>"
+      "body_html": "<table><tr><th>Step</th><th>What it means in practice</th></tr><tr><td>Audit</td><td>Business Profile, listings, website, and what AI assistants say about you today</td></tr><tr><td>Fix the foundations</td><td>Profile categories and services, consistent name, address and phone, <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a>, crawl access</td></tr><tr><td>Service pages</td><td>One clear page per service with answers to real customer questions</td></tr><tr><td>Local proof</td><td>Projects, photos, reviews and case studies from real customers</td></tr><tr><td>Content</td><td>Guides that answer the questions people ask Google and AI</td></tr><tr><td>Measurement</td><td>Calls, bookings, Search Console, Analytics and monthly AI answer checks</td></tr></table>"
     },
     {
       "heading": "Local links and mentions in Fullerton",
@@ -50,11 +50,11 @@
     },
     {
       "heading": "Business Profile basics",
-      "body_html": "<p>Your Google Business Profile is usually the first thing people see in a local search.</p><p>Google's representation guidelines matter here. Businesses that travel to customers should keep a single profile for their central location and define a service area. An address you rent but do not operate from counts as a virtual office and is not eligible; P.O. boxes are not accepted either. Keep the business name exactly as customers know it, without stuffing in keywords.</p>"
+      "body_html": "<p>Your <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a> is usually the first thing people see in a local search.</p><p>Google's representation guidelines matter here. Businesses that travel to customers should keep a single profile for their central location and define a <a href=\"https://thechimeraai.com/google-business-profile-service-area/\">service area</a>. An address you rent but do not operate from counts as a virtual office and is not eligible; P.O. boxes are not accepted either. Keep the business name exactly as customers know it, without stuffing in keywords.</p>"
     },
     {
       "heading": "Reviews",
-      "body_html": "<p>Students and residents both leave reviews, and students in particular read them before choosing where to eat, train or get a car fixed. Ask every customer, make the link easy to find at checkout or on receipts, and reply to every review, positive or negative, with a short, specific answer.</p><p>Google removes reviews that break its fake engagement policy, including paid reviews and reviews given in exchange for discounts, free services or other incentives. Ask all of your real customers rather than a hand-picked few, make leaving a review take seconds, and respond to both praise and criticism.</p>"
+      "body_html": "<p>Students and residents both leave reviews, and students in particular read them before choosing where to eat, train or get a car fixed. Ask every customer, make the link easy to find at checkout or on receipts, and reply to every review, positive or negative, with a short, specific answer.</p><p>Google removes reviews that break its <a href=\"https://thechimeraai.com/how-to-remove-fake-google-reviews/\">fake engagement</a> policy, including paid reviews and reviews given in exchange for discounts, free services or other incentives. Ask all of your real customers rather than a hand-picked few, make leaving a review take seconds, and respond to both praise and criticism.</p>"
     },
     {
       "heading": "Structured data",
@@ -143,6 +143,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "A 30-day AI search plan for OC businesses",
+      "url": "https://thechimeraai.com/blog/30-day-ai-search-plan-orange-county/"
+    },
+    {
+      "anchor": "Huntington Beach SEO",
+      "url": "https://thechimeraai.com/seo-huntington-beach/"
+    },
+    {
+      "anchor": "Irvine SEO",
+      "url": "https://thechimeraai.com/seo-irvine/"
+    },
+    {
+      "anchor": "Santa Ana SEO",
+      "url": "https://thechimeraai.com/seo-santa-ana/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [
@@ -308,5 +328,5 @@
     "height": 840
   },
   "published": "2026-11-10",
-  "updated": "2026-11-10"
+  "updated": "2026-11-11"
 }

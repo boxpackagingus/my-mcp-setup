@@ -34,7 +34,7 @@
     },
     {
       "heading": "How Google ranks local results in Huntington Beach",
-      "body_html": "<p>Google is unusually direct about local rankings. Its Business Profile help says local results are mainly based on relevance, distance and popularity. It describes prominence as how well-known a business is, based partly on how many websites link to it and how many reviews it has, and says more reviews and positive ratings can help. The same page adds that there is no way to request or pay for a better local ranking.</p><p>Huntington Beach is spread along the coast and inland, so distance affects which businesses appear. A clear service area and reviews from across the city help.</p>"
+      "body_html": "<p>Google is unusually direct about local rankings. Its Business Profile help says local results are mainly based on relevance, distance and popularity. It describes prominence as how well-known a business is, based partly on how many websites link to it and how many reviews it has, and says <a href=\"https://thechimeraai.com/how-to-get-more-google-reviews/\">more reviews</a> and positive ratings can help. The same page adds that there is no way to request or pay for a better local ranking.</p><p>Huntington Beach is spread along the coast and inland, so distance affects which businesses appear. A clear <a href=\"https://thechimeraai.com/google-business-profile-service-area/\">service area</a> and reviews from across the city help.</p>"
     },
     {
       "heading": "Getting recommended by ChatGPT and Google AI in Huntington Beach",
@@ -50,11 +50,11 @@
     },
     {
       "heading": "Business Profile basics",
-      "body_html": "<p>Your Google Business Profile is usually the first thing people see in a local search.</p><p>Google's guidelines say service-area businesses, which serve customers at their locations, should have one profile for the central office or location with a designated service area. A rented mailing address you do not operate from, a virtual office, is not eligible, and P.O. boxes are not acceptable. Your business name should be your real-world name as used on your storefront, website and stationery, without extra keywords.</p>"
+      "body_html": "<p>Your Google Business Profile is usually the first thing people see in a local search.</p><p>Google's guidelines say <a href=\"https://thechimeraai.com/service-area-business-seo/\">service-area businesses</a>, which serve customers at their locations, should have one profile for the central office or location with a designated service area. A rented mailing address you do not operate from, a virtual office, is not eligible, and P.O. boxes are not acceptable. Your business name should be your real-world name as used on your storefront, website and stationery, without extra keywords.</p>"
     },
     {
       "heading": "Reviews",
-      "body_html": "<p>Ask every customer; reviews mentioning the job and the neighborhood, whether near the pier, downtown or inland, help Google and AI match you to local searches. Seasonal businesses should keep asking through the quieter months too, so the review count does not stall.</p><p>Google's Maps content policy prohibits fake engagement: reviews must reflect a genuine experience, and businesses may not offer incentives, such as payment, discounts or free services, in exchange for a review or for removing a negative one. Ask every real customer, make it easy with a direct link, and reply to reviews.</p>"
+      "body_html": "<p>Ask every customer; reviews mentioning the job and the neighborhood, whether near the pier, downtown or inland, help Google and AI match you to local searches. Seasonal businesses should keep asking through the quieter months too, so the review count does not stall.</p><p>Google's Maps content policy prohibits <a href=\"https://thechimeraai.com/how-to-remove-fake-google-reviews/\">fake engagement</a>: reviews must reflect a genuine experience, and businesses may not offer incentives, such as payment, discounts or free services, in exchange for a review or for removing a negative one. Ask every real customer, make it easy with a direct link, and <a href=\"https://thechimeraai.com/how-to-respond-to-google-reviews/\">reply to reviews</a>.</p>"
     },
     {
       "heading": "Structured data",
@@ -143,6 +143,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "A 30-day AI search plan for OC businesses",
+      "url": "https://thechimeraai.com/blog/30-day-ai-search-plan-orange-county/"
+    },
+    {
+      "anchor": "Fullerton SEO",
+      "url": "https://thechimeraai.com/seo-fullerton/"
+    },
+    {
+      "anchor": "Irvine SEO",
+      "url": "https://thechimeraai.com/seo-irvine/"
+    },
+    {
+      "anchor": "Santa Ana SEO",
+      "url": "https://thechimeraai.com/seo-santa-ana/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [
@@ -308,5 +328,5 @@
     "height": 840
   },
   "published": "2026-11-10",
-  "updated": "2026-11-10"
+  "updated": "2026-11-11"
 }

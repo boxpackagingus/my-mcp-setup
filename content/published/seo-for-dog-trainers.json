@@ -34,7 +34,7 @@
     },
     {
       "heading": "How Google ranks dog trainers in local results",
-      "body_html": "<p>Google publishes the basics of how local results work. According to its Business Profile help, results are mainly based on relevance, distance and popularity. Prominence, in Google's words, is how well-known a business is, which draws on links from other websites and on reviews, and more reviews and positive ratings can help. Google also states plainly that nobody can request or pay for a better local ranking.</p><p>Distance matters for classes; reviews and referrals from vets and groomers build prominence.</p>"
+      "body_html": "<p>Google publishes the basics of how local results work. According to its Business Profile help, results are mainly based on relevance, distance and popularity. Prominence, in Google's words, is how well-known a business is, which draws on links from other websites and on reviews, and <a href=\"https://thechimeraai.com/how-to-get-more-google-reviews/\">more reviews</a> and positive ratings can help. Google also states plainly that nobody can request or pay for a better local ranking.</p><p>Distance matters for classes; reviews and referrals from vets and groomers build prominence.</p>"
     },
     {
       "heading": "How AI assistants choose a dog training business",
@@ -46,7 +46,7 @@
     },
     {
       "heading": "Set up your Google Business Profile properly",
-      "body_html": "<p>Use Dog trainer as the primary category, list programs and keep class schedules current on your site.</p><p>If you work at customers' homes, Google's guidelines treat you as a service-area business: one profile for your central office or location, with a service area set. Virtual offices, meaning rented addresses you do not work from, are not eligible, and neither are P.O. boxes. Use your real-world business name, the one on your signage and invoices, with no added keywords.</p>"
+      "body_html": "<p>Use Dog trainer as the <a href=\"https://thechimeraai.com/google-business-profile-categories/\">primary category</a>, list programs and keep class schedules current on your site.</p><p>If you work at customers' homes, Google's guidelines treat you as a <a href=\"https://thechimeraai.com/service-area-business-seo/\">service-area business</a>: one profile for your central office or location, with a <a href=\"https://thechimeraai.com/google-business-profile-service-area/\">service area</a> set. Virtual offices, meaning rented addresses you do not work from, are not eligible, and neither are P.O. boxes. Use your real-world business name, the one on your signage and invoices, with no added keywords.</p>"
     },
     {
       "heading": "Build one page per service",
@@ -58,7 +58,7 @@
     },
     {
       "heading": "Earn reviews that mention the details",
-      "body_html": "<p>Reviews that mention the job, the neighborhood and the outcome help both Google and AI assistants describe you. Topics worth asking customers to mention:</p><ul><li>Results</li><li>Training approach</li><li>Trainer</li><li>Scheduling</li><li>Value</li></ul><p>Stay inside Google's rules. Its Maps content policy bans fake engagement and says reviews must come from genuine experiences. Offering payment, discounts or free services for a review, or for removing a bad one, is not allowed. The safe method is simple: ask every real customer, send a direct review link and reply to what people write.</p>"
+      "body_html": "<p>Reviews that mention the job, the neighborhood and the outcome help both Google and AI assistants describe you. Topics worth asking customers to mention:</p><ul><li>Results</li><li>Training approach</li><li>Trainer</li><li>Scheduling</li><li>Value</li></ul><p>Stay inside Google's rules. Its Maps content policy bans <a href=\"https://thechimeraai.com/how-to-remove-fake-google-reviews/\">fake engagement</a> and says reviews must come from genuine experiences. Offering payment, discounts or free services for a review, or for removing a bad one, is not allowed. The safe method is simple: ask every real customer, send a direct review link and reply to what people write.</p>"
     },
     {
       "heading": "Show trust signals on every page",
@@ -86,7 +86,7 @@
     },
     {
       "heading": "The short version",
-      "body_html": "<p>Dog trainers win with problem-specific pages, open method explanations, current schedules and genuine reviews. Chimera, based in Anaheim, helps dog trainers across Orange County do this work.</p>"
+      "body_html": "<p>Dog trainers win with problem-specific pages, open method explanations, current schedules and genuine reviews. <a href=\"https://thechimeraai.com/\">Chimera</a>, based in Anaheim, helps dog trainers across Orange County do this work.</p>"
     }
   ],
   "faqs": [
@@ -147,6 +147,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "SEO for dog groomers",
+      "url": "https://thechimeraai.com/seo-for-dog-groomers/"
+    },
+    {
+      "anchor": "SEO for yoga studios",
+      "url": "https://thechimeraai.com/seo-for-yoga-studios/"
+    },
+    {
+      "anchor": "SEO for martial arts schools",
+      "url": "https://thechimeraai.com/seo-for-martial-arts-schools/"
+    },
+    {
+      "anchor": "SEO for salons",
+      "url": "https://thechimeraai.com/seo-for-salons/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [
@@ -317,5 +337,5 @@
     "height": 840
   },
   "published": "2026-11-10",
-  "updated": "2026-11-10"
+  "updated": "2026-11-11"
 }

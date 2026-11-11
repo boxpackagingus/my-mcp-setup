@@ -30,7 +30,7 @@
     },
     {
       "heading": "Build real location pages",
-      "body_html": "<ul><li><strong>One page per physical location</strong>, with its own URL.</li><li><strong>Exact name, address, phone and hours</strong>, including holiday hours.</li><li><strong>Services available at that location</strong>, since not every branch offers everything.</li><li><strong>Local details</strong>: parking, nearby landmarks, transit, accessibility.</li><li><strong>The local team</strong>: managers or practitioners with short bios.</li><li><strong>Location-specific reviews</strong> and FAQs.</li></ul><p>Google's local business structured data documentation supports describing each location individually, and schema.org's LocalBusiness types let you mark up each page.</p>"
+      "body_html": "<ul><li><strong>One page per physical location</strong>, with its own URL.</li><li><strong>Exact name, address, phone and hours</strong>, including holiday hours.</li><li><strong>Services available at that location</strong>, since not every branch offers everything.</li><li><strong>Local details</strong>: parking, nearby landmarks, transit, accessibility.</li><li><strong>The local team</strong>: managers or practitioners with short bios.</li><li><strong>Location-specific reviews</strong> and FAQs.</li></ul><p>Google's <a href=\"https://thechimeraai.com/local-business-schema-for-ai-search/\">local business structured data</a> documentation supports describing each location individually, and schema.org's LocalBusiness types let you mark up each page.</p>"
     },
     {
       "heading": "Avoid duplicate pages",
@@ -38,7 +38,7 @@
     },
     {
       "heading": "Listings at scale",
-      "body_html": "<p>Manage Google Business Profile, Bing Places and the main directories from a central system or listing tool so changes reach every platform. Assign one owner for location data, define how new locations, closures, moves and holiday hours are handled, and audit a sample of listings each month. Consistency across your website, listings and structured data is what lets AI systems trust the details.</p>"
+      "body_html": "<p>Manage <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a>, Bing Places and the main directories from a central system or listing tool so changes reach every platform. Assign one owner for location data, define how new locations, closures, moves and <a href=\"https://thechimeraai.com/google-business-profile-holiday-hours/\">holiday hours</a> are handled, and audit a sample of listings each month. Consistency across your website, listings and <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a> is what lets AI systems trust the details.</p>"
     },
     {
       "heading": "Brand-level and local content",
@@ -70,7 +70,7 @@
     },
     {
       "heading": "Where to get help",
-      "body_html": "<p>A GEO audit for a multi-location brand samples AI answers for local questions in your priority markets, checks listing accuracy across locations, reviews location pages for duplication and missing details, and looks at review coverage by branch. You get a market-by-market priority list and a governance checklist your operations and marketing teams can share.</p>"
+      "body_html": "<p>A <a href=\"https://thechimeraai.com/what-is-generative-engine-optimization-and-how-does-it-work/\">GEO</a> audit for a multi-location brand samples AI answers for local questions in your priority markets, checks listing accuracy across locations, reviews location pages for duplication and missing details, and looks at review coverage by branch. You get a market-by-market priority list and a governance checklist your operations and marketing teams can share.</p>"
     }
   ],
   "faqs": [
@@ -139,6 +139,26 @@
     {
       "anchor": "Google Business Profile optimization",
       "url": "https://thechimeraai.com/google-business-profile-optimization-orange-county/"
+    },
+    {
+      "anchor": "Google's free SEO learning paths",
+      "url": "https://thechimeraai.com/blog/google-seo-learning-paths-small-business/"
+    },
+    {
+      "anchor": "AI SEO for small business",
+      "url": "https://thechimeraai.com/ai-seo-for-small-business/"
+    },
+    {
+      "anchor": "Internal Linking for AI Search: A Practical Guide",
+      "url": "https://thechimeraai.com/internal-linking-for-ai-search/"
+    },
+    {
+      "anchor": "AI Visibility Audit: What It Checks and Why You Need One",
+      "url": "https://thechimeraai.com/ai-visibility-audit/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

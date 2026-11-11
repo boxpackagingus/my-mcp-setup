@@ -30,7 +30,7 @@
     },
     {
       "heading": "Step 1–3: Let ChatGPT find and read your site",
-      "body_html": "<h3>1. Allow OAI-SearchBot</h3><p>OpenAI documents several crawlers. OAI-SearchBot is used to surface websites in ChatGPT's search features; GPTBot is used for training; ChatGPT-User fetches pages when a user asks. If your robots.txt or firewall blocks OAI-SearchBot, your pages cannot appear in ChatGPT search results. You can allow search while still blocking training if you prefer.</p><h3>2. Make sure pages are indexable and fast</h3><p>Pages that load slowly, depend entirely on JavaScript, or sit behind logins are hard for any crawler to read. Keep key content in the HTML, use clean URLs, and include every important page in your sitemap.</p><h3>3. Tell crawlers about new pages quickly</h3><p>Submit your sitemap in search tools and use IndexNow, which notifies participating search engines such as Bing the moment a page is published or updated.</p>"
+      "body_html": "<h3>1. Allow OAI-SearchBot</h3><p>OpenAI documents several crawlers. OAI-SearchBot is used to surface websites in ChatGPT's search features; GPTBot is used for training; ChatGPT-User fetches pages when a user asks. If your <a href=\"https://thechimeraai.com/robots-txt-for-ai-crawlers/\">robots.txt</a> or firewall blocks OAI-SearchBot, your pages cannot appear in ChatGPT search results. You can allow search while still blocking training if you prefer.</p><h3>2. Make sure pages are indexable and fast</h3><p>Pages that load slowly, depend entirely on JavaScript, or sit behind logins are hard for any crawler to read. Keep key content in the HTML, use clean URLs, and include every important page in your sitemap.</p><h3>3. Tell crawlers about new pages quickly</h3><p>Submit your sitemap in search tools and use IndexNow, which notifies participating search engines such as Bing the moment a page is published or updated.</p>"
     },
     {
       "heading": "Step 4–6: Write pages ChatGPT wants to quote",
@@ -38,11 +38,11 @@
     },
     {
       "heading": "Step 7–8: Build the reputation ChatGPT relies on",
-      "body_html": "<h3>7. Earn mentions on trusted sites</h3><p>When ChatGPT recommends providers, it leans on what the wider web says: reviews, \"best of\" lists, directories, industry publications, Reddit and community discussions, and partner pages. A brand that appears consistently in those places is far easier to recommend than one that only describes itself.</p><p>Practical ways to earn mentions: contribute expert quotes to industry articles, get listed in the directories your buyers use, collect detailed reviews, publish original data others want to reference, and keep partner and supplier pages up to date.</p><h3>8. Describe your brand the same way everywhere</h3><p>Use one clear description of what you do, who you serve and where, on your homepage, About page, social profiles, directory listings and Organization schema. Inconsistency makes an AI engine less confident about what you are best at.</p>"
+      "body_html": "<h3>7. Earn mentions on trusted sites</h3><p>When <a href=\"https://thechimeraai.com/how-chatgpt-recommends-local-businesses/\">ChatGPT recommends</a> providers, it leans on what the wider web says: reviews, \"best of\" lists, directories, industry publications, Reddit and community discussions, and partner pages. A brand that appears consistently in those places is far easier to recommend than one that only describes itself.</p><p>Practical ways to earn mentions: contribute expert quotes to industry articles, get listed in the directories your buyers use, collect detailed reviews, publish original data others want to reference, and keep partner and supplier pages up to date.</p><h3>8. Describe your brand the same way everywhere</h3><p>Use one clear description of what you do, who you serve and where, on your homepage, About page, social profiles, directory listings and Organization schema. Inconsistency makes an AI engine less confident about what you are best at.</p>"
     },
     {
       "heading": "Step 9: Measure what ChatGPT sends you",
-      "body_html": "<p>Visitors who click links in ChatGPT usually arrive with <code>chatgpt.com</code> as the referrer, and ChatGPT often adds <code>utm_source=chatgpt.com</code> to links. In Google Analytics, group these visits into an \"AI search\" channel alongside perplexity.ai, gemini.google.com, copilot.microsoft.com and claude.ai.</p><p>Then track:</p><ul><li>Which landing pages ChatGPT sends visitors to.</li><li>How those visitors convert compared with search visitors.</li><li>A fixed list of 20–50 buyer questions you test in ChatGPT each month, recording whether you are mentioned and cited.</li></ul><p>People who read a recommendation and later search your brand name show up as branded search instead, so watch branded search growth too.</p>"
+      "body_html": "<p>Visitors who click links in ChatGPT usually arrive with <code>chatgpt.com</code> as the referrer, and ChatGPT often adds <code>utm_source=chatgpt.com</code> to links. In Google Analytics, group these visits into an \"AI search\" channel alongside <a href=\"https://thechimeraai.com/perplexity-seo/\">perplexity</a>.ai, gemini.google.com, <a href=\"https://thechimeraai.com/microsoft-copilot-seo/\">copilot</a>.microsoft.com and claude.ai.</p><p>Then track:</p><ul><li>Which landing pages ChatGPT sends visitors to.</li><li>How those visitors convert compared with search visitors.</li><li>A fixed list of 20–50 buyer questions you test in ChatGPT each month, recording whether you are mentioned and cited.</li></ul><p>People who read a recommendation and later search your brand name show up as branded search instead, so watch branded search growth too.</p>"
     },
     {
       "heading": "What a page ChatGPT recommends looks like",
@@ -50,7 +50,7 @@
     },
     {
       "heading": "Mistakes that keep brands out of ChatGPT answers",
-      "body_html": "<ul><li><strong>Blocking AI crawlers by accident</strong> through a security plugin or CDN setting.</li><li><strong>Hiding the answer</strong> under long introductions, sliders or tabs that need clicks.</li><li><strong>Thin, repetitive pages</strong> produced in bulk. They rarely get cited and can hurt search visibility.</li><li><strong>No proof:</strong> claims without examples, data or reviews give ChatGPT little reason to trust you.</li><li><strong>Inconsistent business details</strong> across the web.</li><li><strong>Checking once and giving up.</strong> AI answers vary between sessions; track trends over many questions.</li></ul>"
+      "body_html": "<ul><li><strong>Blocking <a href=\"https://thechimeraai.com/ai-crawler-user-agents/\">AI crawlers</a> by accident</strong> through a security plugin or CDN setting.</li><li><strong>Hiding the answer</strong> under long introductions, sliders or tabs that need clicks.</li><li><strong>Thin, repetitive pages</strong> produced in bulk. They rarely get cited and can hurt search visibility.</li><li><strong>No proof:</strong> claims without examples, data or reviews give ChatGPT little reason to trust you.</li><li><strong>Inconsistent business details</strong> across the web.</li><li><strong>Checking once and giving up.</strong> AI answers vary between sessions; track trends over many questions.</li></ul>"
     },
     {
       "heading": "A 30-day plan to rank in ChatGPT",
@@ -107,6 +107,26 @@
     {
       "anchor": "Businesses in ChatGPT",
       "url": "https://thechimeraai.com/blog/businesses-in-chatgpt-claim-your-business/"
+    },
+    {
+      "anchor": "How to Get Cited by Claude: A Practical Guide for Brands",
+      "url": "https://thechimeraai.com/how-to-get-cited-by-claude/"
+    },
+    {
+      "anchor": "How to Check if ChatGPT Mentions Your Brand",
+      "url": "https://thechimeraai.com/how-to-check-if-chatgpt-mentions-your-brand/"
+    },
+    {
+      "anchor": "Gemini SEO: How to Show Up in Google Gemini Answers",
+      "url": "https://thechimeraai.com/gemini-seo/"
+    },
+    {
+      "anchor": "Fix Wrong Brand Info in ChatGPT",
+      "url": "https://thechimeraai.com/how-to-fix-wrong-information-about-your-brand-in-chatgpt/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

@@ -34,7 +34,7 @@
     },
     {
       "heading": "Why depth still matters",
-      "body_html": "<p>Short does not mean thin. Google says AI Overviews and AI Mode may use query fan-out, searching related subtopics to build a response. A page that answers only the headline question has one chance to be used; a page that also answers the natural follow-up questions has several. Depth means covering more of what the reader needs, not repeating the same point at greater length.</p>"
+      "body_html": "<p>Short does not mean thin. Google says <a href=\"https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/\">AI Overviews</a> and <a href=\"https://thechimeraai.com/how-to-optimize-for-google-ai-mode/\">AI Mode</a> may use <a href=\"https://thechimeraai.com/what-is-query-fan-out/\">query fan-out</a>, searching related subtopics to build a response. A page that answers only the headline question has one chance to be used; a page that also answers the natural follow-up questions has several. Depth means covering more of what the reader needs, not repeating the same point at greater length.</p>"
     },
     {
       "heading": "A structure that works at any length",
@@ -70,7 +70,7 @@
     },
     {
       "heading": "An example: the same topic at two lengths",
-      "body_html": "<p>Consider \"how much does a GEO audit cost\". A short version might be 400 words: a direct answer with a price range, three factors that drive cost and a booking link. A fuller version might be 1,500 words: the same answer, plus what is included at each price level, how audits differ for local and national businesses, how long they take, what you need to provide, how to compare quotes and an FAQ. Both open with the same quotable answer. The fuller version gives an AI tool more sub-questions to cite it for, and gives a buyer more reasons to trust the business. Neither needs padding.</p>"
+      "body_html": "<p>Consider \"how much does a <a href=\"https://thechimeraai.com/what-is-generative-engine-optimization-and-how-does-it-work/\">GEO</a> audit cost\". A short version might be 400 words: a direct answer with a price range, three factors that drive cost and a booking link. A fuller version might be 1,500 words: the same answer, plus what is included at each price level, how audits differ for local and national businesses, how long they take, what you need to provide, how to compare quotes and an FAQ. Both open with the same quotable answer. The fuller version gives an AI tool more sub-questions to cite it for, and gives a buyer more reasons to trust the business. Neither needs padding.</p>"
     }
   ],
   "faqs": [
@@ -139,6 +139,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Google's free SEO learning paths",
+      "url": "https://thechimeraai.com/blog/google-seo-learning-paths-small-business/"
+    },
+    {
+      "anchor": "GEO Content Strategy: Plan Content AI Search Cites",
+      "url": "https://thechimeraai.com/geo-content-strategy/"
+    },
+    {
+      "anchor": "How to Write Comparison Pages",
+      "url": "https://thechimeraai.com/how-to-write-comparison-pages/"
+    },
+    {
+      "anchor": "Topical Authority for AI Search: Build It Step by Step",
+      "url": "https://thechimeraai.com/topical-authority-for-ai-search/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

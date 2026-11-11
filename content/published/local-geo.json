@@ -26,15 +26,15 @@
   "sections": [
     {
       "heading": "How local searches are changing",
-      "body_html": "<p>Local questions used to mean a map pack and ten blue links. Now people also ask assistants: \"who's the best wedding tent rental in Orange County?\", \"accountant in Anaheim who handles small business taxes\". Gemini and Google AI Overviews draw on Google's local information, while ChatGPT, Perplexity and Copilot use web search results, directories and reviews.</p><p>The answer usually names a handful of businesses with short reasons. Local GEO aims to make yours one of them, described correctly.</p><p>Voice assistants and in-car systems add to this. When someone asks for a nearby provider while driving or cooking, they hear one or two names, not a list of ten. Being one of those names is the whole game.</p>"
+      "body_html": "<p>Local questions used to mean a map pack and ten blue links. Now people also ask assistants: \"who's the best wedding tent rental in Orange County?\", \"accountant in Anaheim who handles small business taxes\". Gemini and Google <a href=\"https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/\">AI Overviews</a> draw on Google's local information, while ChatGPT, <a href=\"https://thechimeraai.com/perplexity-seo/\">Perplexity</a> and Copilot use web search results, directories and reviews.</p><p>The answer usually names a handful of businesses with short reasons. Local GEO aims to make yours one of them, described correctly.</p><p>Voice assistants and in-car systems add to this. When someone asks for a nearby provider while driving or cooking, they hear one or two names, not a list of ten. Being one of those names is the whole game.</p>"
     },
     {
       "heading": "Start with your Google Business Profile",
-      "body_html": "<ul><li><strong>Primary category:</strong> the most specific one that fits your main service.</li><li><strong>Services and products:</strong> listed in full, with short descriptions.</li><li><strong>Service area and hours:</strong> accurate, including holidays.</li><li><strong>Photos:</strong> real work, team and premises, updated regularly.</li><li><strong>Description:</strong> a plain statement of what you do, for whom and where.</li><li><strong>Questions and answers:</strong> answer common questions on the profile.</li></ul><p>Google's own local surfaces lean on this profile heavily, and other assistants often encounter the same details through search results.</p>"
+      "body_html": "<ul><li><strong><a href=\"https://thechimeraai.com/google-business-profile-categories/\">Primary category</a>:</strong> the most specific one that fits your main service.</li><li><strong>Services and products:</strong> listed in full, with short descriptions.</li><li><strong><a href=\"https://thechimeraai.com/google-business-profile-service-area/\">Service area</a> and hours:</strong> accurate, including holidays.</li><li><strong>Photos:</strong> real work, team and premises, updated regularly.</li><li><strong>Description:</strong> a plain statement of what you do, for whom and where.</li><li><strong>Questions and answers:</strong> answer common questions on the profile.</li></ul><p>Google's own local surfaces lean on this profile heavily, and other assistants often encounter the same details through search results.</p>"
     },
     {
       "heading": "Reviews: volume, detail and recency",
-      "body_html": "<p>AI assistants summarize what customers say. A business with many recent, detailed reviews gives them clear reasons to recommend it: \"known for fast setup\", \"great with large events\". Ask happy customers to mention the service they used and what stood out. Reply to reviews, including critical ones, calmly and specifically. Spread reviews across the platforms your customers use, not just one.</p>"
+      "body_html": "<p>AI assistants summarize what customers say. A business with many recent, detailed reviews gives them clear reasons to recommend it: \"known for fast setup\", \"great with large events\". Ask happy customers to mention the service they used and what stood out. <a href=\"https://thechimeraai.com/how-to-respond-to-google-reviews/\">Reply to reviews</a>, including critical ones, calmly and specifically. Spread reviews across the platforms your customers use, not just one.</p>"
     },
     {
       "heading": "Location and service pages that work",
@@ -127,6 +127,26 @@
     {
       "anchor": "SEO for service-area businesses",
       "url": "https://thechimeraai.com/service-area-business-seo/"
+    },
+    {
+      "anchor": "A 30-day AI search plan for OC businesses",
+      "url": "https://thechimeraai.com/blog/30-day-ai-search-plan-orange-county/"
+    },
+    {
+      "anchor": "SEO company in Anaheim",
+      "url": "https://thechimeraai.com/seo-company-anaheim/"
+    },
+    {
+      "anchor": "Google Business Profile optimization",
+      "url": "https://thechimeraai.com/google-business-profile-optimization-orange-county/"
+    },
+    {
+      "anchor": "Irvine SEO",
+      "url": "https://thechimeraai.com/seo-irvine/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

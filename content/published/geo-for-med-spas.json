@@ -34,7 +34,7 @@
     },
     {
       "heading": "Providers and credentials",
-      "body_html": "<p>Clients want to know who is holding the needle. Give every injector and clinician a profile with their license type, training, years of experience and the treatments they perform. Name the reviewing clinician on each treatment page. Google's guidance on helpful content says trust is the most important part of E-E-A-T, and for treatments that affect someone's face and health, visible qualifications are the clearest way to show it.</p>"
+      "body_html": "<p>Clients want to know who is holding the needle. Give every injector and clinician a profile with their license type, training, years of experience and the treatments they perform. Name the reviewing clinician on each treatment page. Google's guidance on helpful content says trust is the most important part of <a href=\"https://thechimeraai.com/eeat-for-ai-search/\">E-E-A-T</a>, and for treatments that affect someone's face and health, visible qualifications are the clearest way to show it.</p>"
     },
     {
       "heading": "Talking about price",
@@ -42,7 +42,7 @@
     },
     {
       "heading": "Local signals and listings",
-      "body_html": "<p>Keep your clinic name, address, phone and hours identical on your website, Google Business Profile, Bing Places and booking platforms. Schema.org's <code>HealthAndBeautyBusiness</code> type, a kind of LocalBusiness, can describe the clinic, and <code>MedicalBusiness</code> fits clinics led by medical professionals. Choose the type that honestly reflects your business, and describe services, opening hours and location in the markup.</p>"
+      "body_html": "<p>Keep your clinic name, address, phone and hours identical on your website, <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a>, Bing Places and booking platforms. Schema.org's <code>HealthAndBeautyBusiness</code> type, a kind of LocalBusiness, can describe the clinic, and <code>MedicalBusiness</code> fits clinics led by medical professionals. Choose the type that honestly reflects your business, and describe services, opening hours and location in the markup.</p>"
     },
     {
       "heading": "Reviews, photos and consent",
@@ -54,7 +54,7 @@
     },
     {
       "heading": "How to measure progress",
-      "body_html": "<p>Track booked consultations by source, AI referrals in Google Analytics, branded searches for the clinic and its providers, and a monthly record of which clinics ChatGPT, Gemini and Perplexity recommend for your top treatments in your city. One new regular client can be worth years of revenue, so focus on bookings rather than traffic.</p>"
+      "body_html": "<p>Track booked consultations by source, AI referrals in Google Analytics, branded searches for the clinic and its providers, and a monthly record of which clinics <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a>, <a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a> and <a href=\"https://thechimeraai.com/perplexity-seo/\">Perplexity</a> recommend for your top treatments in your city. One new regular client can be worth years of revenue, so focus on bookings rather than traffic.</p>"
     },
     {
       "heading": "Common mistakes",
@@ -119,6 +119,26 @@
     {
       "anchor": "SEO for plastic surgeons",
       "url": "https://thechimeraai.com/seo-for-plastic-surgeons/"
+    },
+    {
+      "anchor": "GEO for Healthcare Providers: Be Cited by AI Search",
+      "url": "https://thechimeraai.com/geo-for-healthcare/"
+    },
+    {
+      "anchor": "SEO for veterinarians",
+      "url": "https://thechimeraai.com/seo-for-veterinarians/"
+    },
+    {
+      "anchor": "SEO for physical therapists",
+      "url": "https://thechimeraai.com/seo-for-physical-therapists/"
+    },
+    {
+      "anchor": "SEO for doctors",
+      "url": "https://thechimeraai.com/seo-for-doctors/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

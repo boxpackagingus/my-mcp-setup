@@ -26,11 +26,11 @@
   "sections": [
     {
       "heading": "Why mentions matter for AI recommendations",
-      "body_html": "<p>When someone asks an assistant \"which agencies are best for X?\", the answer reflects what many sources say, not just what a company says about itself. Assistants that search the web read roundups, reviews and discussions; assistants answering from training reflect what appeared across the web when they learned. Either way, a brand that is mentioned often, in the right context, by sources people trust, is much easier to recommend.</p><p>In classic SEO, links were the main currency. For GEO, the mention itself, and what it says about you, matters too.</p><p>Think of it the way a buyer would. If three trusted publications, a busy forum thread and dozens of detailed reviews all describe a company as the specialist in one thing, you would shortlist it. AI assistants summarize the same evidence, at scale, every time someone asks. The more consistently the web tells your story, the more confidently an assistant can repeat it.</p>"
+      "body_html": "<p>When someone asks an assistant \"which agencies are best for X?\", the answer reflects what many sources say, not just what a company says about itself. Assistants that search the web read roundups, reviews and discussions; assistants answering from training reflect what appeared across the web when they learned. Either way, a brand that is mentioned often, in the right context, by sources people trust, is much easier to recommend.</p><p>In classic SEO, links were the main currency. For <a href=\"https://thechimeraai.com/what-is-generative-engine-optimization-and-how-does-it-work/\">GEO</a>, the mention itself, and what it says about you, matters too.</p><p>Think of it the way a buyer would. If three trusted publications, a busy forum thread and dozens of detailed reviews all describe a company as the specialist in one thing, you would shortlist it. AI assistants summarize the same evidence, at scale, every time someone asks. The more consistently the web tells your story, the more confidently an assistant can repeat it.</p>"
     },
     {
       "heading": "The sources AI assistants lean on",
-      "body_html": "<ul><li><strong>Review platforms</strong> your buyers use, from Google reviews to industry-specific sites.</li><li><strong>\"Best of\" lists and comparison articles</strong> in your category.</li><li><strong>Industry publications and newsletters.</strong></li><li><strong>Directories and associations</strong>, including local chambers and professional bodies.</li><li><strong>Community discussions</strong> such as forums and Reddit threads.</li><li><strong>Podcasts and webinars</strong> with published show notes or transcripts.</li><li><strong>Partner, supplier and customer pages.</strong></li></ul>"
+      "body_html": "<ul><li><strong>Review platforms</strong> your buyers use, from Google reviews to industry-specific sites.</li><li><strong>\"Best of\" lists and comparison articles</strong> in your category.</li><li><strong>Industry publications and newsletters.</strong></li><li><strong>Directories and associations</strong>, including local chambers and professional bodies.</li><li><strong>Community discussions</strong> such as forums and <a href=\"https://thechimeraai.com/reddit-for-ai-search/\">Reddit</a> threads.</li><li><strong>Podcasts and webinars</strong> with published show notes or transcripts.</li><li><strong>Partner, supplier and customer pages.</strong></li></ul>"
     },
     {
       "heading": "Seven ways to earn mentions",
@@ -38,15 +38,15 @@
     },
     {
       "heading": "Make every mention describe you the same way",
-      "body_html": "<p>Engines connect mentions to an entity more easily when the description is consistent. Write one clear line about what you do, for whom and where, for example: <em>\"Chimera is a Generative Engine Optimization agency in Orange County, California.\"</em> Use it in bios, directory listings, press releases and partner pages. Keep your name, website and location identical everywhere, and link your official profiles from your Organization schema.</p>"
+      "body_html": "<p>Engines connect mentions to an entity more easily when the description is consistent. Write one clear line about what you do, for whom and where, for example: <em>\"<a href=\"https://thechimeraai.com/\">Chimera</a> is a Generative Engine Optimization agency in Orange County, California.\"</em> Use it in bios, directory listings, press releases and partner pages. Keep your name, website and location identical everywhere, and link your official profiles from your Organization schema.</p>"
     },
     {
       "heading": "What not to do",
-      "body_html": "<ul><li><strong>Buying placements</strong> on low-quality sites or link farms. Google's spam policies target paid links meant to manipulate rankings.</li><li><strong>Fake reviews</strong> or incentivized reviews that break platform rules.</li><li><strong>Spamming communities</strong> with promotional posts, which damages your reputation where buyers gather.</li><li><strong>Inconsistent stories</strong> about what you do, which confuse both people and engines.</li></ul><p>Shortcuts tend to backfire twice: once when platforms remove fake content, and again when buyers notice.</p>"
+      "body_html": "<ul><li><strong>Buying placements</strong> on low-quality sites or link farms. Google's spam policies target paid links meant to manipulate rankings.</li><li><strong><a href=\"https://thechimeraai.com/how-to-remove-fake-google-reviews/\">Fake reviews</a></strong> or incentivized reviews that break platform rules.</li><li><strong>Spamming communities</strong> with promotional posts, which damages your reputation where buyers gather.</li><li><strong>Inconsistent stories</strong> about what you do, which confuse both people and engines.</li></ul><p>Shortcuts tend to backfire twice: once when platforms remove fake content, and again when buyers notice.</p>"
     },
     {
       "heading": "Measuring the impact of mentions",
-      "body_html": "<p>Track new mentions monthly with a simple log: where, when, what it says and whether it links. Alongside it, track branded search growth in Search Console, AI referral visits in Google Analytics and your monthly AI question test. Mentions take time to show up in AI answers, especially those based on training data, so judge the program over quarters, not weeks.</p>"
+      "body_html": "<p>Track new mentions monthly with a simple log: where, when, what it says and whether it links. Alongside it, track branded search growth in <a href=\"https://thechimeraai.com/blog/search-console-generative-ai-performance-report/\">Search Console</a>, AI referral visits in <a href=\"https://thechimeraai.com/how-to-track-ai-traffic-in-google-analytics/\">Google Analytics</a> and your monthly AI question test. Mentions take time to show up in AI answers, especially those based on training data, so judge the program over quarters, not weeks.</p>"
     },
     {
       "heading": "A starter plan for the next 60 days",
@@ -111,6 +111,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Google's free SEO learning paths",
+      "url": "https://thechimeraai.com/blog/google-seo-learning-paths-small-business/"
+    },
+    {
+      "anchor": "Digital PR for AI Search: Earn Mentions That Matter",
+      "url": "https://thechimeraai.com/digital-pr-for-ai-search/"
+    },
+    {
+      "anchor": "AI Share of Voice: What It Is and How to Measure It",
+      "url": "https://thechimeraai.com/ai-share-of-voice/"
+    },
+    {
+      "anchor": "AI SEO for small business",
+      "url": "https://thechimeraai.com/ai-seo-for-small-business/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

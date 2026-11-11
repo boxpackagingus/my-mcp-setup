@@ -30,7 +30,7 @@
     },
     {
       "heading": "Two ways an LLM knows about you",
-      "body_html": "<p><strong>Training data.</strong> Models learn from large amounts of text gathered before a cut-off date. If your brand was widely and consistently described across the web, the model may know about you without searching. You cannot edit this directly, and changes take a long time to show up.</p><p><strong>Live retrieval.</strong> For current or specific questions, assistants search the web, read a handful of pages and cite them. ChatGPT search, Perplexity, Gemini, Claude with web search and Copilot all do this. This is where LLM SEO has the most immediate effect, because a well-built page can be found and cited soon after it is indexed.</p>"
+      "body_html": "<p><strong>Training data.</strong> Models learn from large amounts of text gathered before a cut-off date. If your brand was widely and consistently described across the web, the model may know about you without searching. You cannot edit this directly, and changes take a long time to show up.</p><p><strong>Live retrieval.</strong> For current or specific questions, assistants search the web, read a handful of pages and cite them. ChatGPT search, <a href=\"https://thechimeraai.com/perplexity-seo/\">Perplexity</a>, Gemini, Claude with web search and Copilot all do this. This is where LLM SEO has the most immediate effect, because a well-built page can be found and cited soon after it is indexed.</p>"
     },
     {
       "heading": "How LLM SEO differs from classic SEO",
@@ -38,7 +38,7 @@
     },
     {
       "heading": "Technical access for AI crawlers",
-      "body_html": "<p>Each platform uses named crawlers. OpenAI uses OAI-SearchBot for ChatGPT search results and GPTBot for training; Perplexity uses PerplexityBot; Anthropic uses Claude-SearchBot and ClaudeBot; Google AI features rely on Googlebot; Copilot relies on Bing. If your robots.txt or firewall blocks the search crawlers, those tools cannot read your pages. Check server logs and security settings, not just robots.txt, since some firewalls block AI bots by default.</p>"
+      "body_html": "<p>Each platform uses named crawlers. OpenAI uses OAI-SearchBot for ChatGPT search results and GPTBot for training; Perplexity uses PerplexityBot; Anthropic uses Claude-SearchBot and ClaudeBot; Google AI features rely on Googlebot; Copilot relies on Bing. If your <a href=\"https://thechimeraai.com/robots-txt-for-ai-crawlers/\">robots.txt</a> or firewall blocks the search crawlers, those tools cannot read your pages. Check server logs and security settings, not just robots.txt, since some firewalls block AI bots by default.</p>"
     },
     {
       "heading": "Content that LLMs can quote",
@@ -46,7 +46,7 @@
     },
     {
       "heading": "Brand signals beyond your website",
-      "body_html": "<p>Assistants rarely rely on one site. They cross-check, and they read communities, reviews, directories and publications. Consistent business details, genuine reviews, listings on relevant directories and mentions in industry articles all make it more likely that a model describes you accurately and includes you in recommendations. Pew found Wikipedia, YouTube and Reddit were among the most frequently linked sources in Google's AI summaries.</p>"
+      "body_html": "<p>Assistants rarely rely on one site. They cross-check, and they read communities, reviews, directories and publications. Consistent business details, <a href=\"https://thechimeraai.com/how-to-get-more-google-reviews/\">genuine reviews</a>, listings on relevant directories and mentions in industry articles all make it more likely that a model describes you accurately and includes you in recommendations. Pew found Wikipedia, YouTube and Reddit were among the most frequently linked sources in Google's AI summaries.</p>"
     },
     {
       "heading": "How to measure LLM SEO",
@@ -58,7 +58,7 @@
     },
     {
       "heading": "A simple LLM SEO checklist",
-      "body_html": "<ul><li>AI search crawlers allowed in robots.txt and the firewall.</li><li>Site indexed in both Google and Bing.</li><li>An llms.txt file listing your most important pages.</li><li>Every key page opens with a direct, quotable answer.</li><li>Business name, services and location stated the same way everywhere.</li><li>Organization and LocalBusiness structured data where relevant.</li><li>Genuine reviews and listings on the platforms your buyers use.</li><li>A monthly record of how each assistant answers your top ten buyer questions.</li></ul><p>Work through it in order. The early items are prerequisites for everything after them.</p>"
+      "body_html": "<ul><li>AI search crawlers allowed in robots.txt and the firewall.</li><li>Site indexed in both Google and Bing.</li><li>An <a href=\"https://thechimeraai.com/best-practices-for-llms-txt/\">llms.txt</a> file listing your most important pages.</li><li>Every key page opens with a direct, quotable answer.</li><li>Business name, services and location stated the same way everywhere.</li><li>Organization and LocalBusiness <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a> where relevant.</li><li>Genuine reviews and listings on the platforms your buyers use.</li><li>A monthly record of how each assistant answers your top ten buyer questions.</li></ul><p>Work through it in order. The early items are prerequisites for everything after them.</p>"
     }
   ],
   "faqs": [
@@ -115,6 +115,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Gemini 4 Carbon arrives in AI Mode",
+      "url": "https://thechimeraai.com/blog/gemini-4-carbon-ai-mode-local-business/"
+    },
+    {
+      "anchor": "AI Overviews vs Featured Snippets: What's the Difference?",
+      "url": "https://thechimeraai.com/ai-overviews-vs-featured-snippets/"
+    },
+    {
+      "anchor": "ChatGPT Search vs Google: What It Means for Your Business",
+      "url": "https://thechimeraai.com/chatgpt-search-vs-google/"
+    },
+    {
+      "anchor": "Copilot SEO: How to Get Cited by Microsoft Copilot",
+      "url": "https://thechimeraai.com/microsoft-copilot-seo/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

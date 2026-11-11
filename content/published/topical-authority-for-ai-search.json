@@ -30,7 +30,7 @@
     },
     {
       "heading": "Why it matters more with AI",
-      "body_html": "<p>Google says AI Overviews and AI Mode may use query fan-out, running related searches across subtopics to build one answer. A site that covers the main question and its subtopics has more chances to be cited for different parts of the same answer. A site with one isolated page has one chance at most.</p>"
+      "body_html": "<p>Google says <a href=\"https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/\">AI Overviews</a> and <a href=\"https://thechimeraai.com/how-to-optimize-for-google-ai-mode/\">AI Mode</a> may use <a href=\"https://thechimeraai.com/what-is-query-fan-out/\">query fan-out</a>, running related searches across subtopics to build one answer. A site that covers the main question and its subtopics has more chances to be cited for different parts of the same answer. A site with one isolated page has one chance at most.</p>"
     },
     {
       "heading": "Map the topic",
@@ -66,7 +66,7 @@
     },
     {
       "heading": "An example topic map",
-      "body_html": "<p>For a GEO agency, a theme such as \"AI search for local businesses\" might include a hub page and detailed pages on: how AI tools recommend local businesses, Google Business Profile for AI answers, local business structured data, reviews and AI recommendations, location pages, and industry guides for the trades and practices the agency serves. Each detailed page answers one question thoroughly and links to the others where relevant. Together they show depth that a single general article cannot.</p>"
+      "body_html": "<p>For a GEO agency, a theme such as \"AI search for local businesses\" might include a hub page and detailed pages on: how AI tools recommend local businesses, <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a> for AI answers, <a href=\"https://thechimeraai.com/local-business-schema-for-ai-search/\">local business structured data</a>, reviews and AI recommendations, location pages, and industry guides for the trades and practices the agency serves. Each detailed page answers one question thoroughly and links to the others where relevant. Together they show depth that a single general article cannot.</p>"
     },
     {
       "heading": "Measuring coverage gaps",
@@ -135,6 +135,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Google's free SEO learning paths",
+      "url": "https://thechimeraai.com/blog/google-seo-learning-paths-small-business/"
+    },
+    {
+      "anchor": "How to Write Comparison Pages",
+      "url": "https://thechimeraai.com/how-to-write-comparison-pages/"
+    },
+    {
+      "anchor": "GEO Content Strategy: Plan Content AI Search Cites",
+      "url": "https://thechimeraai.com/geo-content-strategy/"
+    },
+    {
+      "anchor": "Does Google Penalize AI Content? What Google Says",
+      "url": "https://thechimeraai.com/does-google-penalize-ai-content/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

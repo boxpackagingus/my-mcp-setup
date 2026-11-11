@@ -30,7 +30,7 @@
     },
     {
       "heading": "Measure 1: answer checks",
-      "body_html": "<p>Pick twenty to fifty real buyer questions and ask them in ChatGPT, Gemini, Perplexity, Copilot, Claude and Google's AI features each month. Record whether you are mentioned, where in the answer, how you are described, which sources are cited and which competitors appear. This is the most direct measure of visibility and the only one that shows how AI describes you.</p>"
+      "body_html": "<p>Pick twenty to fifty real buyer questions and ask them in <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a>, Gemini, <a href=\"https://thechimeraai.com/perplexity-seo/\">Perplexity</a>, <a href=\"https://thechimeraai.com/microsoft-copilot-seo/\">Copilot</a>, Claude and Google's AI features each month. Record whether you are mentioned, where in the answer, how you are described, which sources are cited and which competitors appear. This is the most direct measure of visibility and the only one that shows how AI describes you.</p>"
     },
     {
       "heading": "Measure 2: AI referral traffic",
@@ -38,7 +38,7 @@
     },
     {
       "heading": "Measure 3: Search Console",
-      "body_html": "<p>Google includes clicks and impressions from AI Overviews and AI Mode in its standard web search reports. Watch impressions for question-style queries and for the pages you optimized. Rising impressions with flat clicks may mean your pages are being shown or used in AI answers without a click.</p>"
+      "body_html": "<p>Google includes clicks and impressions from <a href=\"https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/\">AI Overviews</a> and <a href=\"https://thechimeraai.com/how-to-optimize-for-google-ai-mode/\">AI Mode</a> in its standard web search reports. Watch impressions for question-style queries and for the pages you optimized. Rising impressions with flat clicks may mean your pages are being shown or used in AI answers without a click.</p>"
     },
     {
       "heading": "Measure 4: branded demand",
@@ -143,6 +143,26 @@
     {
       "anchor": "Search Console's generative AI performance report",
       "url": "https://thechimeraai.com/blog/search-console-generative-ai-performance-report/"
+    },
+    {
+      "anchor": "AI Visibility Audit: What It Checks and Why You Need One",
+      "url": "https://thechimeraai.com/ai-visibility-audit/"
+    },
+    {
+      "anchor": "Generative Engine Optimization Agency: What They Do",
+      "url": "https://thechimeraai.com/generative-engine-optimization-agency/"
+    },
+    {
+      "anchor": "Does GEO Bring Sales? How AI Search Turns Into Revenue",
+      "url": "https://thechimeraai.com/is-geo-bring-sales/"
+    },
+    {
+      "anchor": "How AI Search Engines Choose Sources to Cite",
+      "url": "https://thechimeraai.com/how-ai-search-engines-choose-sources/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

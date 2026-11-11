@@ -34,7 +34,7 @@
     },
     {
       "heading": "Choosing the questions",
-      "body_html": "<ol><li><strong>Sales and support</strong>: the questions your team answers every week.</li><li><strong>Search Console</strong>: question-style queries that already show impressions.</li><li><strong>People Also Ask and autocomplete</strong> for your topic.</li><li><strong>Reviews and community discussions</strong>: concerns and objections in customers' own words.</li></ol><p>Write the question the way a customer would say it, not in internal jargon.</p>"
+      "body_html": "<ol><li><strong>Sales and support</strong>: the questions your team answers every week.</li><li><strong><a href=\"https://thechimeraai.com/blog/search-console-generative-ai-performance-report/\">Search Console</a></strong>: question-style queries that already show impressions.</li><li><strong>People Also Ask and autocomplete</strong> for your topic.</li><li><strong>Reviews and community discussions</strong>: concerns and objections in customers' own words.</li></ol><p>Write the question the way a customer would say it, not in internal jargon.</p>"
     },
     {
       "heading": "Writing the answers",
@@ -42,11 +42,11 @@
     },
     {
       "heading": "FAQ structured data today",
-      "body_html": "<p>In August 2023 Google announced that FAQ rich results would only be shown for well-known, authoritative government and health websites, and would no longer be shown regularly for other sites. FAQPage structured data still describes the content in a machine-readable way and does no harm when it matches what is visible on the page, but most businesses should not expect expandable FAQ results in Google. The content itself is what matters for AI answers.</p>"
+      "body_html": "<p>In August 2023 Google announced that FAQ rich results would only be shown for well-known, authoritative government and health websites, and would no longer be shown regularly for other sites. FAQPage <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a> still describes the content in a machine-readable way and does no harm when it matches what is visible on the page, but most businesses should not expect expandable FAQ results in Google. The content itself is what matters for AI answers.</p>"
     },
     {
       "heading": "Examples of weak and strong answers",
-      "body_html": "<p><strong>Weak:</strong> \"Pricing depends on many factors. Contact us to learn more.\"</p><p><strong>Strong:</strong> \"Most GEO audits cost between a few hundred and a few thousand dollars, depending on the number of pages and AI platforms reviewed. A focused audit for a small business usually takes one to two weeks. Book a call to get a fixed quote.\"</p><p>The strong answer is specific, useful and quotable, while still leading to contact.</p>"
+      "body_html": "<p><strong>Weak:</strong> \"Pricing depends on many factors. Contact us to learn more.\"</p><p><strong>Strong:</strong> \"Most <a href=\"https://thechimeraai.com/what-is-generative-engine-optimization-and-how-does-it-work/\">GEO</a> audits cost between a few hundred and a few thousand dollars, depending on the number of pages and AI platforms reviewed. A focused audit for a small business usually takes one to two weeks. Book a call to get a fixed quote.\"</p><p>The strong answer is specific, useful and quotable, while still leading to contact.</p>"
     },
     {
       "heading": "Common mistakes",
@@ -135,6 +135,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Google's free SEO learning paths",
+      "url": "https://thechimeraai.com/blog/google-seo-learning-paths-small-business/"
+    },
+    {
+      "anchor": "How to Write Comparison Pages",
+      "url": "https://thechimeraai.com/how-to-write-comparison-pages/"
+    },
+    {
+      "anchor": "YouTube for AI Search: Get Your Videos Cited",
+      "url": "https://thechimeraai.com/youtube-for-ai-search/"
+    },
+    {
+      "anchor": "Author Pages for E-E-A-T",
+      "url": "https://thechimeraai.com/author-pages-for-eeat/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

@@ -30,7 +30,7 @@
     },
     {
       "heading": "Side-by-side comparison",
-      "body_html": "<table><tr><th></th><th>SEO</th><th>GEO</th></tr><tr><td>Where you appear</td><td>A ranked list of links</td><td>Inside an AI-written answer, as a mention or a cited source</td></tr><tr><td>What gets optimized</td><td>Pages for keywords</td><td>Passages for questions, and your brand as an entity</td></tr><tr><td>Strongest signals</td><td>Relevance, links, technical health, user satisfaction</td><td>Clear answers, specific and sourced facts, structure, consistent brand mentions, AI crawler access</td></tr><tr><td>Typical query</td><td>Short keywords, \"near me\" searches</td><td>Longer questions, comparisons and \"which should I choose\" prompts</td></tr><tr><td>How you measure it</td><td>Rankings, impressions, clicks</td><td>Mentions and citations per engine, AI referral visits, leads</td></tr><tr><td>Main tools</td><td>Google Search Console, rank trackers</td><td>Prompt testing across engines, analytics grouped by AI referrer, Search Console</td></tr></table>"
+      "body_html": "<table><tr><th></th><th>SEO</th><th>GEO</th></tr><tr><td>Where you appear</td><td>A ranked list of links</td><td>Inside an AI-written answer, as a mention or a cited source</td></tr><tr><td>What gets optimized</td><td>Pages for keywords</td><td>Passages for questions, and your brand as an entity</td></tr><tr><td>Strongest signals</td><td>Relevance, links, technical health, user satisfaction</td><td>Clear answers, specific and sourced facts, structure, consistent <a href=\"https://thechimeraai.com/how-to-get-brand-mentions-for-ai-search/\">brand mentions</a>, <a href=\"https://thechimeraai.com/ai-crawler-user-agents/\">AI crawler</a> access</td></tr><tr><td>Typical query</td><td>Short keywords, \"<a href=\"https://thechimeraai.com/near-me-searches/\">near me</a>\" searches</td><td>Longer questions, comparisons and \"which should I choose\" prompts</td></tr><tr><td>How you measure it</td><td>Rankings, impressions, clicks</td><td>Mentions and citations per engine, AI referral visits, leads</td></tr><tr><td>Main tools</td><td>Google Search Console, rank trackers</td><td>Prompt testing across engines, analytics grouped by AI referrer, Search Console</td></tr></table>"
     },
     {
       "heading": "What GEO and SEO have in common",
@@ -46,7 +46,7 @@
     },
     {
       "heading": "A simple plan to run GEO and SEO together",
-      "body_html": "<p>You do not need two separate teams or two separate strategies. One plan, run in this order, covers both:</p><ol><li><strong>Fix the foundations.</strong> Make sure every important page is crawlable, indexed, fast and linked from other pages. Check that robots.txt allows both search crawlers and AI crawlers you want to be cited by.</li><li><strong>Pick the questions that matter.</strong> List the 30–50 questions buyers ask before choosing a provider like you, from early research to final comparison.</li><li><strong>Match each question to a page.</strong> Improve an existing page where one fits, or publish a new one where none does. Each page should answer its question in the opening lines.</li><li><strong>Add structure.</strong> Use FAQ, Article, Organization and Service schema, a clear sitemap and an <code>llms.txt</code> file that lists your best pages.</li><li><strong>Earn outside signals.</strong> Reviews, directory listings, partner pages and press mentions help search rankings and give AI engines more reasons to name you.</li><li><strong>Measure both.</strong> Review Search Console and AI citations together every month, and move effort toward whatever produces leads.</li></ol><p>Run this loop for a quarter and you will know which questions and pages bring in buyers, whether they arrive from a search result or an AI answer.</p>"
+      "body_html": "<p>You do not need two separate teams or two separate strategies. One plan, run in this order, covers both:</p><ol><li><strong>Fix the foundations.</strong> Make sure every important page is crawlable, indexed, fast and linked from other pages. Check that <a href=\"https://thechimeraai.com/robots-txt-for-ai-crawlers/\">robots.txt</a> allows both search crawlers and AI crawlers you want to be cited by.</li><li><strong>Pick the questions that matter.</strong> List the 30–50 questions buyers ask before choosing a provider like you, from early research to final comparison.</li><li><strong>Match each question to a page.</strong> Improve an existing page where one fits, or publish a new one where none does. Each page should answer its question in the opening lines.</li><li><strong>Add structure.</strong> Use FAQ, Article, Organization and Service schema, a clear sitemap and an <code><a href=\"https://thechimeraai.com/best-practices-for-llms-txt/\">llms.txt</a></code> file that lists your best pages.</li><li><strong>Earn outside signals.</strong> Reviews, directory listings, partner pages and press mentions help search rankings and give AI engines more reasons to name you.</li><li><strong>Measure both.</strong> Review Search Console and AI citations together every month, and move effort toward whatever produces leads.</li></ol><p>Run this loop for a quarter and you will know which questions and pages bring in buyers, whether they arrive from a search result or an AI answer.</p>"
     },
     {
       "heading": "How to measure GEO vs SEO",
@@ -99,6 +99,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Search Console's generative AI performance report",
+      "url": "https://thechimeraai.com/blog/search-console-generative-ai-performance-report/"
+    },
+    {
+      "anchor": "Generative Engine Optimization Agency: What They Do",
+      "url": "https://thechimeraai.com/generative-engine-optimization-agency/"
+    },
+    {
+      "anchor": "How Much Does GEO Cost? Pricing Models and What Drives Price",
+      "url": "https://thechimeraai.com/how-much-does-geo-cost/"
+    },
+    {
+      "anchor": "AI Search Optimization Checklist: 40 Steps for 2026",
+      "url": "https://thechimeraai.com/ai-search-optimization-checklist/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

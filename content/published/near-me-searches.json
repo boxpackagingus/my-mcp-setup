@@ -30,7 +30,7 @@
     },
     {
       "heading": "How Google ranks them",
-      "body_html": "<p>Google's Business Profile help says local results are mainly based on relevance, distance and popularity. It explains prominence as how well-known a business is, drawing on how many websites link to it and how many reviews it has, and says more reviews and positive ratings can help. It also says there is no way to request or pay for a better local ranking.</p><p>For near me searches, distance is especially important, but relevance and popularity decide who wins among nearby options.</p>"
+      "body_html": "<p>Google's Business Profile help says local results are mainly based on relevance, distance and popularity. It explains prominence as how well-known a business is, drawing on how many websites link to it and how many reviews it has, and says <a href=\"https://thechimeraai.com/how-to-get-more-google-reviews/\">more reviews</a> and positive ratings can help. It also says there is no way to request or pay for a better local ranking.</p><p>For near me searches, distance is especially important, but relevance and popularity decide who wins among nearby options.</p>"
     },
     {
       "heading": "Why adding near me to pages fails",
@@ -183,6 +183,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "A 30-day AI search plan for OC businesses",
+      "url": "https://thechimeraai.com/blog/30-day-ai-search-plan-orange-county/"
+    },
+    {
+      "anchor": "SEO company in Anaheim",
+      "url": "https://thechimeraai.com/seo-company-anaheim/"
+    },
+    {
+      "anchor": "Santa Ana SEO",
+      "url": "https://thechimeraai.com/seo-santa-ana/"
+    },
+    {
+      "anchor": "Local landing pages",
+      "url": "https://thechimeraai.com/local-landing-pages/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [
@@ -337,5 +357,5 @@
     "height": 840
   },
   "published": "2026-11-10",
-  "updated": "2026-11-10"
+  "updated": "2026-11-11"
 }

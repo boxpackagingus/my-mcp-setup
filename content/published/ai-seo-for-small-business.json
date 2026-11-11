@@ -26,7 +26,7 @@
   "sections": [
     {
       "heading": "What AI SEO means",
-      "body_html": "<p>AI SEO, also called generative engine optimization, is the work of getting your business named and cited in AI-generated answers. It covers ChatGPT, Gemini, Perplexity, Copilot and Google's own AI features.</p>"
+      "body_html": "<p>AI SEO, also called generative engine optimization, is the work of getting your business named and cited in AI-generated answers. It covers ChatGPT, Gemini, <a href=\"https://thechimeraai.com/perplexity-seo/\">Perplexity</a>, Copilot and Google's own AI features.</p>"
     },
     {
       "heading": "Why it matters for small businesses",
@@ -54,11 +54,11 @@
     },
     {
       "heading": "Step 4: earn reviews and mentions",
-      "body_html": "<p>Genuine reviews and mentions from local organizations help Google's local rankings and give AI specific details.</p>"
+      "body_html": "<p><a href=\"https://thechimeraai.com/how-to-get-more-google-reviews/\">Genuine reviews</a> and mentions from local organizations help Google's local rankings and give AI specific details.</p>"
     },
     {
       "heading": "Step 5: allow AI crawlers",
-      "body_html": "<p>Check your robots.txt does not block the search crawlers you want to appear in, such as Googlebot and OpenAI's OAI-SearchBot.</p>"
+      "body_html": "<p>Check your <a href=\"https://thechimeraai.com/robots-txt-for-ai-crawlers/\">robots.txt</a> does not block the search crawlers you want to appear in, such as Googlebot and OpenAI's OAI-SearchBot.</p>"
     },
     {
       "heading": "Step 6: add structured data",
@@ -70,7 +70,7 @@
     },
     {
       "heading": "Common mistakes",
-      "body_html": "<ul><li>Blocking AI crawlers by accident.</li><li>Mass-producing thin AI-written pages, which risks Google's scaled content abuse policy.</li><li>Inconsistent listings.</li><li>No reviews.</li><li>Not checking what AI says.</li></ul>"
+      "body_html": "<ul><li>Blocking <a href=\"https://thechimeraai.com/ai-crawler-user-agents/\">AI crawlers</a> by accident.</li><li>Mass-producing thin AI-written pages, which risks Google's scaled content abuse policy.</li><li>Inconsistent listings.</li><li>No reviews.</li><li>Not checking what AI says.</li></ul>"
     },
     {
       "heading": "Details small businesses often overlook",
@@ -82,7 +82,7 @@
     },
     {
       "heading": "Glossary",
-      "body_html": "<ul><li><strong>GEO:</strong> generative engine optimization, making content easy for AI systems to cite.</li><li><strong>AI Overview:</strong> Google's AI-generated summary at the top of some results.</li><li><strong>AI Mode:</strong> Google's conversational search mode.</li><li><strong>Citation:</strong> a source an AI answer links to or names.</li><li><strong>Crawler:</strong> software that reads web pages for a search or AI service.</li></ul>"
+      "body_html": "<ul><li><strong>GEO:</strong> generative engine optimization, making content easy for AI systems to cite.</li><li><strong>AI Overview:</strong> Google's AI-generated summary at the top of some results.</li><li><strong><a href=\"https://thechimeraai.com/how-to-optimize-for-google-ai-mode/\">AI Mode</a>:</strong> Google's conversational search mode.</li><li><strong>Citation:</strong> a source an AI answer links to or names.</li><li><strong>Crawler:</strong> software that reads web pages for a search or AI service.</li></ul>"
     },
     {
       "heading": "What a good result looks like",
@@ -175,6 +175,26 @@
     {
       "anchor": "Google's free SEO learning paths",
       "url": "https://thechimeraai.com/blog/google-seo-learning-paths-small-business/"
+    },
+    {
+      "anchor": "AI Visibility Audit: What It Checks and Why You Need One",
+      "url": "https://thechimeraai.com/ai-visibility-audit/"
+    },
+    {
+      "anchor": "Generative Engine Optimization Agency: What They Do",
+      "url": "https://thechimeraai.com/generative-engine-optimization-agency/"
+    },
+    {
+      "anchor": "GEO for Multi-Location Businesses: Win Every Market",
+      "url": "https://thechimeraai.com/geo-for-multi-location-businesses/"
+    },
+    {
+      "anchor": "Reddit for AI Search: How It Shapes AI Answers",
+      "url": "https://thechimeraai.com/reddit-for-ai-search/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

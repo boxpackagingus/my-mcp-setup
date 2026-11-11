@@ -38,7 +38,7 @@
     },
     {
       "heading": "A consistent agent profile",
-      "body_html": "<p>AI tools build their picture of you from many places: your website, brokerage profile, portal profiles, Google Business Profile, social accounts and review sites. Use the same name, license number where appropriate, brokerage, service areas and specialties everywhere. Schema.org's <code>RealEstateAgent</code> type, a kind of LocalBusiness, can describe your business on your own site. Inconsistent details lead to vague or wrong descriptions.</p>"
+      "body_html": "<p>AI tools build their picture of you from many places: your website, brokerage profile, portal profiles, <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a>, social accounts and review sites. Use the same name, license number where appropriate, brokerage, <a href=\"https://thechimeraai.com/google-business-profile-service-area/\">service areas</a> and specialties everywhere. Schema.org's <code>RealEstateAgent</code> type, a kind of LocalBusiness, can describe your business on your own site. Inconsistent details lead to vague or wrong descriptions.</p>"
     },
     {
       "heading": "Reviews and proof of experience",
@@ -50,7 +50,7 @@
     },
     {
       "heading": "Where to start",
-      "body_html": "<ol><li><strong>Ask ChatGPT, Gemini and Perplexity</strong> who they recommend as an agent in your area, and record the answers.</li><li><strong>Make your profiles consistent</strong> across every site.</li><li><strong>Write three neighborhood pages</strong> where you sell most often.</li><li><strong>Publish a seller guide and a buyer guide</strong> for your state.</li><li><strong>Ask recent clients for reviews</strong>, then re-check AI answers monthly.</li></ol>"
+      "body_html": "<ol><li><strong>Ask <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a>, <a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a> and <a href=\"https://thechimeraai.com/perplexity-seo/\">Perplexity</a></strong> who they recommend as an agent in your area, and record the answers.</li><li><strong>Make your profiles consistent</strong> across every site.</li><li><strong>Write three neighborhood pages</strong> where you sell most often.</li><li><strong>Publish a seller guide and a buyer guide</strong> for your state.</li><li><strong>Ask recent clients for reviews</strong>, then re-check AI answers monthly.</li></ol>"
     },
     {
       "heading": "How to measure results",
@@ -131,6 +131,26 @@
     {
       "anchor": "SEO for real estate agents",
       "url": "https://thechimeraai.com/seo-for-real-estate-agents-orange-county/"
+    },
+    {
+      "anchor": "Businesses in ChatGPT: claim your business",
+      "url": "https://thechimeraai.com/blog/businesses-in-chatgpt-claim-your-business/"
+    },
+    {
+      "anchor": "GEO for Startups: Get Cited by AI From Day One",
+      "url": "https://thechimeraai.com/geo-for-startups/"
+    },
+    {
+      "anchor": "GEO for Financial Advisors: Be Recommended by AI",
+      "url": "https://thechimeraai.com/geo-for-financial-advisors/"
+    },
+    {
+      "anchor": "GEO for Manufacturers: Get Cited in B2B AI Research",
+      "url": "https://thechimeraai.com/geo-for-manufacturers/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

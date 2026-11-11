@@ -30,7 +30,7 @@
     },
     {
       "heading": "How Google ranks profiles",
-      "body_html": "<p>Google's Business Profile help says local results are mainly based on relevance, distance and popularity. It explains prominence as how well-known a business is, drawing on how many websites link to it and how many reviews it has, and says more reviews and positive ratings can help. It also says there is no way to request or pay for a better local ranking.</p>"
+      "body_html": "<p>Google's Business Profile help says local results are mainly based on relevance, distance and popularity. It explains prominence as how well-known a business is, drawing on how many websites link to it and how many reviews it has, and says <a href=\"https://thechimeraai.com/how-to-get-more-google-reviews/\">more reviews</a> and positive ratings can help. It also says there is no way to request or pay for a better local ranking.</p>"
     },
     {
       "heading": "Choose the right categories",
@@ -42,7 +42,7 @@
     },
     {
       "heading": "Name, address and service area",
-      "body_html": "<p>Google's guidelines say your name should reflect your real-world business name as used on your storefront, website and stationery. Service-area businesses should have one profile for their central office or location with a designated service area. Virtual offices are not eligible, and P.O. boxes are not acceptable.</p>"
+      "body_html": "<p>Google's guidelines say your name should reflect your real-world business name as used on your storefront, website and stationery. <a href=\"https://thechimeraai.com/service-area-business-seo/\">Service-area businesses</a> should have one profile for their central office or location with a designated service area. Virtual offices are not eligible, and P.O. boxes are not acceptable.</p>"
     },
     {
       "heading": "Hours",
@@ -54,7 +54,7 @@
     },
     {
       "heading": "Reviews and replies",
-      "body_html": "<p>Google's tips suggest asking for reviews with a Google link or QR code, replying to reviews and valuing all feedback. Its policies strictly prohibit incentives such as discounts or free goods in exchange for reviews. Customers need to be signed into a Google Account to leave a review.</p>"
+      "body_html": "<p>Google's tips suggest asking for reviews with a Google link or QR code, <a href=\"https://thechimeraai.com/how-to-respond-to-google-reviews/\">replying to reviews</a> and valuing all feedback. Its policies strictly prohibit incentives such as discounts or free goods in exchange for reviews. Customers need to be signed into a Google Account to leave a review.</p>"
     },
     {
       "heading": "Posts and updates",
@@ -62,7 +62,7 @@
     },
     {
       "heading": "Keep website and profile consistent",
-      "body_html": "<p>Make sure your website, structured data and profile show the same name, address, phone and hours. Consistency helps Google and AI assistants trust your information.</p>"
+      "body_html": "<p>Make sure your website, <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a> and profile show the same name, address, phone and hours. Consistency helps Google and AI assistants trust your information.</p>"
     },
     {
       "heading": "Common mistakes",
@@ -90,7 +90,7 @@
     },
     {
       "heading": "A worked example: a Santa Ana auto repair shop",
-      "body_html": "<p>A Santa Ana auto repair shop sets Auto repair shop as its primary category and adds Brake shop because it genuinely offers brake service. It lists diagnostics, brakes, oil changes and AC repair as services, adds photos of its bays and team, keeps holiday hours current and asks every customer for a review at pickup with a QR code on the counter. Replies are short and specific. Those details feed Google Maps, the local pack and the descriptions AI assistants give when someone asks for an honest mechanic nearby.</p>"
+      "body_html": "<p>A <a href=\"https://thechimeraai.com/seo-santa-ana/\">Santa Ana</a> auto repair shop sets Auto repair shop as its primary category and adds Brake shop because it genuinely offers brake service. It lists diagnostics, brakes, oil changes and AC repair as services, adds photos of its bays and team, keeps holiday hours current and asks every customer for a review at pickup with a QR code on the counter. Replies are short and specific. Those details feed Google Maps, the local pack and the descriptions AI assistants give when someone asks for an honest mechanic nearby.</p>"
     },
     {
       "heading": "Description and attributes",
@@ -199,6 +199,26 @@
     {
       "anchor": "Google Business Profile holiday hours",
       "url": "https://thechimeraai.com/google-business-profile-holiday-hours/"
+    },
+    {
+      "anchor": "A 30-day AI search plan for OC businesses",
+      "url": "https://thechimeraai.com/blog/30-day-ai-search-plan-orange-county/"
+    },
+    {
+      "anchor": "Google Business Profile service area",
+      "url": "https://thechimeraai.com/google-business-profile-service-area/"
+    },
+    {
+      "anchor": "Local SEO in Orange County",
+      "url": "https://thechimeraai.com/local-seo-orange-county/"
+    },
+    {
+      "anchor": "Local SEO checklist",
+      "url": "https://thechimeraai.com/local-seo-checklist/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

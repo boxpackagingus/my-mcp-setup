@@ -139,9 +139,14 @@ def main(dry=False):
     for slug, spec in specs.items():
         me = url_for(spec)
         added_ctx, used = [], {slug}
+        # Links already in the text count toward the per-page limit, so re-runs don't keep adding more.
+        body = " ".join(sec["body_html"] for sec in spec["sections"])
+        existing = {u.rstrip("/").split("/")[-1] for u in re.findall(r'<a href="' + re.escape(BASE) + r'/([a-z0-9/-]+)/"', body)}
+        used |= existing
+        budget = MAX_CONTEXT - len(existing)
         # 1. Contextual links in body text.
         for pattern, target in PHRASES:
-            if len(added_ctx) >= MAX_CONTEXT:
+            if len(added_ctx) >= budget:
                 break
             if target in used or target not in specs:
                 continue
@@ -181,7 +186,8 @@ def main(dry=False):
         rel_added = []
         want_other_kind = "guide" if spec.get("kind") == "blog" else "blog"
         # Best page of the other kind first (a blog post for service pages, a guide for posts), then the closest pages.
-        for o in [next((o for o in ranked if (specs[o].get("kind") or "guide") == want_other_kind and score(o) > 0.05), None)] + ranked:
+        done_before = BASE in have  # already processed: keep its related list as it is
+        for o in ([] if done_before else [next((o for o in ranked if (specs[o].get("kind") or "guide") == want_other_kind and score(o) > 0.05), None)] + ranked):
             if o is None or len(rel_added) >= MAX_RELATED_ADD or len(spec.get("internal_links", [])) >= MAX_LINKS:
                 continue
             u = url_for(specs[o]).rstrip("/")

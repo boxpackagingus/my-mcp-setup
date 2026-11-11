@@ -26,11 +26,11 @@
   "sections": [
     {
       "heading": "Why AI traffic hides in your reports",
-      "body_html": "<p>Out of the box, Google Analytics 4 sorts traffic into default channels such as Organic Search, Direct and Referral. Visits from ChatGPT, Perplexity, Gemini, Copilot and Claude usually arrive with a referrer from those platforms, so GA4 files them under Referral, mixed in with every partner site, directory and blog that links to you.</p><p>That makes the most interesting new channel invisible. You cannot see whether AI visits are growing, which engine sends the most, or whether those visitors become leads. A custom channel fixes it without changing how your site is tracked.</p>"
+      "body_html": "<p>Out of the box, Google Analytics 4 sorts traffic into default channels such as Organic Search, Direct and Referral. Visits from <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a>, <a href=\"https://thechimeraai.com/perplexity-seo/\">Perplexity</a>, Gemini, <a href=\"https://thechimeraai.com/microsoft-copilot-seo/\">Copilot</a> and Claude usually arrive with a referrer from those platforms, so GA4 files them under Referral, mixed in with every partner site, directory and blog that links to you.</p><p>That makes the most interesting new channel invisible. You cannot see whether AI visits are growing, which engine sends the most, or whether those visitors become leads. A custom channel fixes it without changing how your site is tracked.</p>"
     },
     {
       "heading": "The referrers to look for",
-      "body_html": "<p>These are the sources AI assistants most commonly pass when someone clicks a link in an answer:</p><table><tr><th>Platform</th><th>Typical source</th></tr><tr><td>ChatGPT</td><td><code>chatgpt.com</code>, sometimes <code>chat.openai.com</code></td></tr><tr><td>Perplexity</td><td><code>perplexity.ai</code></td></tr><tr><td>Gemini</td><td><code>gemini.google.com</code></td></tr><tr><td>Microsoft Copilot</td><td><code>copilot.microsoft.com</code></td></tr><tr><td>Claude</td><td><code>claude.ai</code></td></tr><tr><td>DeepSeek, Meta AI</td><td><code>chat.deepseek.com</code>, <code>meta.ai</code></td></tr></table><p>ChatGPT also often adds <code>utm_source=chatgpt.com</code> to the links it shows, which makes it easy to spot. Google AI Overviews are different: clicks from them count as ordinary Google organic traffic.</p>"
+      "body_html": "<p>These are the sources AI assistants most commonly pass when someone clicks a link in an answer:</p><table><tr><th>Platform</th><th>Typical source</th></tr><tr><td>ChatGPT</td><td><code>chatgpt.com</code>, sometimes <code>chat.openai.com</code></td></tr><tr><td>Perplexity</td><td><code>perplexity.ai</code></td></tr><tr><td>Gemini</td><td><code>gemini.google.com</code></td></tr><tr><td>Microsoft Copilot</td><td><code>copilot.microsoft.com</code></td></tr><tr><td>Claude</td><td><code>claude.ai</code></td></tr><tr><td>DeepSeek, <a href=\"https://thechimeraai.com/how-to-optimize-for-meta-ai/\">Meta AI</a></td><td><code>chat.deepseek.com</code>, <code>meta.ai</code></td></tr></table><p>ChatGPT also often adds <code>utm_source=chatgpt.com</code> to the links it shows, which makes it easy to spot. Google <a href=\"https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/\">AI Overviews</a> are different: clicks from them count as ordinary Google organic traffic.</p>"
     },
     {
       "heading": "Step-by-step: create an AI search channel",
@@ -38,7 +38,7 @@
     },
     {
       "heading": "Track leads, not just visits",
-      "body_html": "<p>Visits are only half the story. In GA4, mark the event your form fires on a successful submission, often <code>generate_lead</code>, as a <strong>key event</strong>. Then a standard acquisition report shows key events by channel, and your new AI search channel shows how many leads AI engines produce.</p><p>For extra detail, pass the source into hidden fields on your form. The Chimera Engine plugin, for example, fills hidden fields with the visitor's first landing page, referrer and AI engine, so each lead email says exactly where the visitor came from.</p>"
+      "body_html": "<p>Visits are only half the story. In GA4, mark the event your form fires on a successful submission, often <code>generate_lead</code>, as a <strong>key event</strong>. Then a standard acquisition report shows key events by channel, and your new AI search channel shows how many leads AI engines produce.</p><p>For extra detail, pass the source into hidden fields on your form. The <a href=\"https://thechimeraai.com/\">Chimera</a> Engine plugin, for example, fills hidden fields with the visitor's first landing page, referrer and AI engine, so each lead email says exactly where the visitor came from.</p>"
     },
     {
       "heading": "Reports worth building",
@@ -107,6 +107,26 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Search Console's generative AI performance report",
+      "url": "https://thechimeraai.com/blog/search-console-generative-ai-performance-report/"
+    },
+    {
+      "anchor": "How to Track AI Visibility: A Practical System",
+      "url": "https://thechimeraai.com/how-to-track-ai-visibility/"
+    },
+    {
+      "anchor": "AI Share of Voice: What It Is and How to Measure It",
+      "url": "https://thechimeraai.com/ai-share-of-voice/"
+    },
+    {
+      "anchor": "AI SEO for small business",
+      "url": "https://thechimeraai.com/ai-seo-for-small-business/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [

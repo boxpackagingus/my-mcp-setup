@@ -34,15 +34,15 @@
     },
     {
       "heading": "Clinical review and authorship",
-      "body_html": "<p>Google's guidance on helpful content asks readers to consider who created content and why, and says trust is the most important part of E-E-A-T. For health topics, that means a named clinician reviews each page, their credentials are visible, and the review date is shown. Cite clinical guidelines or reputable sources for medical facts. Update pages when guidance changes.</p>"
+      "body_html": "<p>Google's guidance on helpful content asks readers to consider who created content and why, and says trust is the most important part of <a href=\"https://thechimeraai.com/eeat-for-ai-search/\">E-E-A-T</a>. For health topics, that means a named clinician reviews each page, their credentials are visible, and the review date is shown. Cite clinical guidelines or reputable sources for medical facts. Update pages when guidance changes.</p>"
     },
     {
       "heading": "Accurate practice information",
-      "body_html": "<p>Wrong details in AI answers cause real problems: patients going to an old address or calling a disconnected number. Keep practice names, addresses, phone numbers, hours, accepted insurance and providers identical across your website, Google Business Profile, Bing Places, insurer directories and health listing sites. Schema.org's <code>MedicalBusiness</code> and <code>Physician</code> types can describe your practice and clinicians in structured data.</p>"
+      "body_html": "<p>Wrong details in AI answers cause real problems: patients going to an old address or calling a disconnected number. Keep practice names, addresses, phone numbers, hours, accepted insurance and providers identical across your website, <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a>, Bing Places, insurer directories and health listing sites. Schema.org's <code>MedicalBusiness</code> and <code>Physician</code> types can describe your practice and clinicians in <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a>.</p>"
     },
     {
       "heading": "Privacy and claims",
-      "body_html": "<p>Health privacy laws restrict how patient information can be used, including in testimonials and replies to reviews. Never confirm that someone is a patient when replying to a review, get proper written authorization before using any patient story, and avoid claims about outcomes you cannot support. Your compliance team should approve the content process, not just individual pages.</p>"
+      "body_html": "<p>Health privacy laws restrict how patient information can be used, including in testimonials and <a href=\"https://thechimeraai.com/how-to-respond-to-google-reviews/\">replies to reviews</a>. Never confirm that someone is a patient when replying to a review, get proper written authorization before using any patient story, and avoid claims about outcomes you cannot support. Your compliance team should approve the content process, not just individual pages.</p>"
     },
     {
       "heading": "Local and specialty questions",
@@ -66,7 +66,7 @@
     },
     {
       "heading": "Where to get help",
-      "body_html": "<p>A GEO audit for a practice checks how AI tools describe your clinic, providers, locations and insurance, flags any wrong details, and reviews crawler access, listings and structured data. It then identifies the service pages that would benefit most from clinician-reviewed, what-to-expect content. The output is a prioritized plan your marketing and compliance teams can carry out together, starting with fixes that protect patients from wrong information.</p>"
+      "body_html": "<p>A <a href=\"https://thechimeraai.com/what-is-generative-engine-optimization-and-how-does-it-work/\">GEO</a> audit for a practice checks how AI tools describe your clinic, providers, locations and insurance, flags any wrong details, and reviews crawler access, listings and structured data. It then identifies the service pages that would benefit most from clinician-reviewed, what-to-expect content. The output is a prioritized plan your marketing and compliance teams can carry out together, starting with fixes that protect patients from wrong information.</p>"
     }
   ],
   "faqs": [
@@ -159,6 +159,26 @@
     {
       "anchor": "SEO for senior living",
       "url": "https://thechimeraai.com/seo-for-senior-living/"
+    },
+    {
+      "anchor": "GEO for Med Spas: Get Recommended by AI Search",
+      "url": "https://thechimeraai.com/geo-for-med-spas/"
+    },
+    {
+      "anchor": "SEO for orthodontists",
+      "url": "https://thechimeraai.com/seo-for-orthodontists/"
+    },
+    {
+      "anchor": "SEO for dentists",
+      "url": "https://thechimeraai.com/seo-for-dentists-orange-county/"
+    },
+    {
+      "anchor": "SEO for veterinarians",
+      "url": "https://thechimeraai.com/seo-for-veterinarians/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
     }
   ],
   "sources": [
