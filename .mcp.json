@@ -117,6 +117,19 @@
       "env": {
         "SEMRUSH_API_KEY": "${SEMRUSH_API_KEY}"
       }
+    },
+    "brave-search": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@brave/brave-search-mcp-server@2.1.4",
+        "--transport",
+        "stdio"
+      ],
+      "env": {
+        "BRAVE_API_KEY": "set-by-environment-network-secret"
+      }
     }
   }
 }
