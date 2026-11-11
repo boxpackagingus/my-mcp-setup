@@ -68,6 +68,10 @@ body:has(.cpb){overflow-x:clip}
 .cpb-nav a:hover{color:#d9a400}
 .cpb-nav small{display:block;font-weight:400;color:#7a7c85;font-size:12px;text-transform:uppercase;letter-spacing:.1em}
 .cpb-related{max-width:1200px;margin:0 auto;padding:clamp(56px,7vw,90px) 20px}
+.cpb-further{max-width:780px;margin:0 auto;padding:clamp(40px,5vw,60px) 20px 0}
+.cpb-further h2{color:var(--b-ink);font-size:clamp(24px,2.4vw,30px);margin:0 0 18px;font-weight:700}
+.cpb-further ul{margin:0;padding-left:20px;display:grid;gap:10px}
+.cpb-further a{color:var(--b-ink);text-decoration:underline;text-underline-offset:3px}
 .cpb-related h2{color:var(--b-ink);font-size:clamp(28px,3vw,38px);margin:0 0 36px;font-weight:700}
 .cpb-relgrid{list-style:none;margin:0;padding:0;display:grid;gap:26px;grid-template-columns:repeat(auto-fill,minmax(260px,1fr))}
 .cpb-relgrid a{display:block;text-decoration:none;color:var(--b-ink)}
@@ -159,6 +163,12 @@ def render(spec, cfg):
             if older else f'<a href="{base}/{blog_slug}/"><small>Blog</small>All posts</a>')
     out.append(f'<div class="cpb-wrap"><nav class="cpb-nav" aria-label="Post navigation">{prev}'
                f'<a href="{base}/{blog_slug}/" style="text-align:right"><small>More from Chimera</small>All blog posts »</a></nav></div>')
+
+    # Further reading: every related link on the post, including the homepage, as plain text links.
+    further = "".join(f'<li><a href="{_e(l["url"])}">{_e(l["anchor"][:1].upper() + l["anchor"][1:])}</a></li>'
+                      for l in spec.get("internal_links", []) if "#" not in l["url"])
+    if further:
+        out.append(f'<section class="cpb-further"><h2>Further reading</h2><ul>{further}</ul></section>')
 
     # Related articles: the newest other posts first, then the page's related guides. Each has a banner.
     rel = [s for s in blogs if s.get("hero_image")][:3]

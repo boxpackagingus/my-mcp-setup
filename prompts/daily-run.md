@@ -142,7 +142,13 @@ Every day, research, write and publish **30 new guide pages**, in addition to th
 4. **Images.** `python -m engine heroes` renders a banner for every page. Add a Figma photo where credits allow; Figma's
    daily AI credits run out after roughly 30 images, so give the 5 blog banner photos priority and add page photos with
    whatever remains, listing the rest in `data/photos_todo.json` for the next day.
-5. **Publish** with `python -m engine publish --max 35` (30 pages plus 5 posts). Then **push for indexing**: publishing
+5. **Internal links, then publish.** Run `python3 content/build/interlink.py` after all of today's drafts are written
+   and pass the quality gate. It links key phrases in the text to the page that covers them (max 5 per page, Google
+   Business Profile topics only from sections about the Business Profile), links the first "Chimera" to the homepage,
+   adds related pages and a homepage card to every page, and stages any older page whose links changed. Spot-check a
+   few links in `data/interlink_report.json`, then publish everything staged with
+   `python -m engine publish --max $(ls content/drafts | wc -l)`.
+   (Previously: publish with `python -m engine publish --max 35` (30 pages plus 5 posts).) Then **push for indexing**: publishing
    already sends every new URL to IndexNow and updates the sitemap; also add links to the new pages from 5-10 related
    existing pages and republish those, and run `python -m engine sitecheck` to confirm every page is live, in the
    sitemap and in llms.txt. Google has no request-indexing API; if `GSC_SERVICE_ACCOUNT_KEY_JSON` is set, the engine

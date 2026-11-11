@@ -1,0 +1,3197 @@
+{
+ "robots-txt-for-ai-crawlers": {
+  "context": [
+   "ai-crawler-user-agents",
+   "how-to-show-up-in-google-ai-overviews",
+   "perplexity-seo",
+   "microsoft-copilot-seo",
+   "how-to-rank-in-chatgpt"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "how-chatgpt-recommends-local-businesses",
+   "google-search-profiles-local-brands",
+   "how-to-optimize-for-meta-ai",
+   "chatgpt-search-vs-google"
+  ]
+ },
+ "geo-for-dentists": {
+  "context": [
+   "how-to-respond-to-google-reviews",
+   "google-business-profile-optimization-orange-county",
+   "schema-markup-for-ai-search",
+   "perplexity-seo",
+   "how-to-rank-in-chatgpt"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "geo-for-med-spas",
+   "geo-for-healthcare",
+   "seo-for-doctors",
+   "seo-for-plastic-surgeons"
+  ]
+ },
+ "seo-for-shopify-stores": {
+  "context": [
+   "google-business-profile-service-area",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews",
+   "google-business-profile-optimization-orange-county",
+   "schema-markup-for-ai-search"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "google-universal-cart-orange-county-retailers",
+   "google-holiday-100-orange-county-retailers",
+   "local-seo-orange-county",
+   "seo-company-anaheim"
+  ]
+ },
+ "what-is-generative-engine-optimization-and-how-does-it-work": {
+  "context": [
+   "schema-markup-for-ai-search",
+   "best-practices-for-llms-txt",
+   "robots-txt-for-ai-crawlers",
+   "ai-crawler-user-agents",
+   "how-to-show-up-in-google-ai-overviews"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "search-console-generative-ai-performance-report",
+   "answer-engine-optimization-vs-generative-engine-optimization",
+   "how-much-does-geo-cost",
+   "how-long-does-geo-take"
+  ]
+ },
+ "seo-for-self-storage": {
+  "context": [
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "google-local-services-ads-vs-seo",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-water-damage-restoration",
+   "seo-for-architects",
+   "seo-for-pressure-washing",
+   "seo-for-landscapers"
+  ]
+ },
+ "how-to-remove-fake-google-reviews": {
+  "context": [
+   "how-to-respond-to-google-reviews",
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "30-day-ai-search-plan-orange-county",
+   "google-business-profile-suspended",
+   "seo-huntington-beach",
+   "google-business-profile-photos"
+  ]
+ },
+ "seo-for-plastic-surgeons": {
+  "context": [
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews",
+   "google-business-profile-optimization-orange-county"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-dermatologists",
+   "seo-for-doctors",
+   "seo-for-orthodontists",
+   "seo-for-chiropractors"
+  ]
+ },
+ "microsoft-copilot-seo": {
+  "context": [
+   "schema-markup-for-ai-search",
+   "robots-txt-for-ai-crawlers",
+   "how-to-show-up-in-google-ai-overviews",
+   "how-to-write-comparison-pages",
+   "internal-linking-for-ai-search"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "google-search-profiles-local-brands",
+   "perplexity-seo",
+   "how-to-get-cited-by-claude",
+   "how-chatgpt-recommends-local-businesses"
+  ]
+ },
+ "schema-markup-for-ai-search": {
+  "context": [
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews",
+   "what-is-generative-engine-optimization-and-how-does-it-work"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "google-seo-learning-paths-small-business",
+   "faq-pages-for-ai-search",
+   "ai-search-statistics",
+   "author-pages-for-eeat"
+  ]
+ },
+ "how-chatgpt-recommends-local-businesses": {
+  "context": [
+   "google-business-profile-holiday-hours",
+   "google-business-profile-optimization-orange-county",
+   "schema-markup-for-ai-search",
+   "robots-txt-for-ai-crawlers",
+   "how-to-rank-in-chatgpt"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "perplexity-seo",
+   "how-to-get-cited-by-claude",
+   "gemini-seo",
+   "chatgpt-search-vs-google"
+  ]
+ },
+ "seo-for-salons": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews",
+   "google-business-profile-optimization-orange-county"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-yoga-studios",
+   "seo-for-photographers",
+   "seo-for-dog-groomers",
+   "seo-for-martial-arts-schools"
+  ]
+ },
+ "generative-engine-optimization-agency": {
+  "context": [
+   "schema-markup-for-ai-search",
+   "best-practices-for-llms-txt",
+   "ai-crawler-user-agents",
+   "how-to-show-up-in-google-ai-overviews",
+   "perplexity-seo"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "search-console-generative-ai-performance-report",
+   "ai-search-optimization-checklist",
+   "is-geo-bring-sales",
+   "geo-content-strategy"
+  ]
+ },
+ "seo-for-martial-arts-schools": {
+  "context": [
+   "google-business-profile-service-area",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews",
+   "google-business-profile-optimization-orange-county",
+   "schema-markup-for-ai-search"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-yoga-studios",
+   "seo-for-salons",
+   "seo-for-dog-trainers",
+   "seo-for-dog-groomers"
+  ]
+ },
+ "press-releases-for-ai-search": {
+  "context": [],
+  "home_in_text": false,
+  "related_added": [
+   "search-console-multimodal-search-report",
+   "reddit-for-ai-search",
+   "youtube-for-ai-search",
+   "how-to-get-on-best-of-lists"
+  ]
+ },
+ "seo-for-mortgage-brokers": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews",
+   "google-business-profile-optimization-orange-county"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-insurance-agents",
+   "seo-for-staffing-agencies",
+   "seo-for-accountants",
+   "seo-for-it-companies"
+  ]
+ },
+ "seo-huntington-beach": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "how-to-remove-fake-google-reviews",
+   "how-to-respond-to-google-reviews",
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "30-day-ai-search-plan-orange-county",
+   "seo-fullerton",
+   "seo-irvine",
+   "seo-santa-ana"
+  ]
+ },
+ "how-much-does-geo-cost": {
+  "context": [
+   "best-practices-for-llms-txt",
+   "how-to-rank-in-chatgpt",
+   "digital-pr-for-ai-search",
+   "what-is-generative-engine-optimization-and-how-does-it-work"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "search-console-generative-ai-performance-report",
+   "answer-engine-optimization-vs-generative-engine-optimization",
+   "geo-vs-seo",
+   "geo-seo-best-practices"
+  ]
+ },
+ "seo-for-veterinarians": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-senior-living",
+   "seo-for-physical-therapists",
+   "geo-for-med-spas",
+   "geo-for-dentists"
+  ]
+ },
+ "geo-for-financial-advisors": {
+  "context": [
+   "google-business-profile-optimization-orange-county",
+   "schema-markup-for-ai-search",
+   "perplexity-seo",
+   "how-to-rank-in-chatgpt",
+   "gemini-seo"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "ai-search-for-b2b-lead-generation",
+   "geo-for-real-estate-agents",
+   "geo-for-manufacturers",
+   "geo-for-startups"
+  ]
+ },
+ "seo-for-physical-therapists": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-remove-fake-google-reviews",
+   "how-to-respond-to-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-therapists",
+   "seo-for-dermatologists",
+   "seo-for-chiropractors",
+   "seo-for-doctors"
+  ]
+ },
+ "how-to-show-up-in-google-ai-overviews": {
+  "context": [
+   "schema-markup-for-ai-search",
+   "robots-txt-for-ai-crawlers",
+   "how-to-optimize-for-google-ai-mode",
+   "gemini-seo",
+   "what-is-query-fan-out"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "google-ai-mode-inline-links-update",
+   "perplexity-seo",
+   "how-to-get-cited-by-claude",
+   "ai-overviews-vs-featured-snippets"
+  ]
+ },
+ "how-to-get-on-best-of-lists": {
+  "context": [
+   "how-to-get-more-google-reviews",
+   "perplexity-seo",
+   "how-to-rank-in-chatgpt",
+   "gemini-seo",
+   "what-is-generative-engine-optimization-and-how-does-it-work"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "google-seo-learning-paths-small-business",
+   "digital-pr-for-ai-search",
+   "youtube-for-ai-search",
+   "press-releases-for-ai-search"
+  ]
+ },
+ "seo-for-auto-detailing": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-car-dealerships",
+   "seo-for-auto-body-shops"
+  ]
+ },
+ "seo-for-water-damage-restoration": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "google-local-services-ads-vs-seo",
+   "how-to-remove-fake-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-pool-service-companies",
+   "seo-for-fence-companies",
+   "seo-for-pressure-washing",
+   "seo-for-cleaning-companies"
+  ]
+ },
+ "geo-vs-seo": {
+  "context": [
+   "best-practices-for-llms-txt",
+   "robots-txt-for-ai-crawlers",
+   "ai-crawler-user-agents",
+   "near-me-searches",
+   "how-to-get-brand-mentions-for-ai-search"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "search-console-generative-ai-performance-report",
+   "generative-engine-optimization-agency",
+   "how-much-does-geo-cost",
+   "ai-search-optimization-checklist"
+  ]
+ },
+ "google-business-profile-suspended": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-optimization-orange-county",
+   "local-seo-orange-county"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "30-day-ai-search-plan-orange-county",
+   "google-business-profile-photos",
+   "google-business-profile-holiday-hours",
+   "google-business-profile-categories"
+  ]
+ },
+ "seo-for-auto-body-shops": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-remove-fake-google-reviews",
+   "how-to-respond-to-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-auto-detailing",
+   "seo-for-car-dealerships",
+   "seo-for-car-washes"
+  ]
+ },
+ "faq-pages-for-ai-search": {
+  "context": [
+   "schema-markup-for-ai-search",
+   "search-console-generative-ai-performance-report",
+   "what-is-generative-engine-optimization-and-how-does-it-work"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "google-seo-learning-paths-small-business",
+   "how-to-write-comparison-pages",
+   "youtube-for-ai-search",
+   "author-pages-for-eeat"
+  ]
+ },
+ "geo-for-ecommerce": {
+  "context": [
+   "schema-markup-for-ai-search",
+   "how-to-show-up-in-google-ai-overviews",
+   "perplexity-seo",
+   "how-to-rank-in-chatgpt",
+   "gemini-seo"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "google-universal-cart-orange-county-retailers",
+   "product-pages-for-ai-shopping",
+   "google-holiday-100-orange-county-retailers",
+   "how-chatgpt-recommends-local-businesses"
+  ]
+ },
+ "how-to-find-prompts-people-ask-ai": {
+  "context": [
+   "how-to-rank-in-chatgpt",
+   "reddit-for-ai-search",
+   "search-console-generative-ai-performance-report",
+   "what-is-generative-engine-optimization-and-how-does-it-work",
+   "local-seo-orange-county"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "search-console-multimodal-search-report",
+   "ai-search-statistics",
+   "ai-seo-for-small-business",
+   "ai-visibility-audit"
+  ]
+ },
+ "seo-for-architects": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "google-local-services-ads-vs-seo",
+   "how-to-remove-fake-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-contractors",
+   "seo-for-kitchen-remodelers",
+   "seo-for-solar-companies",
+   "seo-for-self-storage"
+  ]
+ },
+ "zero-click-searches": {
+  "context": [
+   "google-business-profile-optimization-orange-county",
+   "how-to-show-up-in-google-ai-overviews",
+   "how-to-optimize-for-google-ai-mode",
+   "perplexity-seo",
+   "how-to-rank-in-chatgpt"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "search-console-generative-ai-performance-report",
+   "generative-engine-optimization-agency",
+   "geo-content-strategy",
+   "how-ai-search-engines-choose-sources"
+  ]
+ },
+ "seo-for-pressure-washing": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-remove-fake-google-reviews",
+   "how-to-respond-to-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-water-damage-restoration",
+   "seo-for-junk-removal",
+   "seo-for-pool-service-companies",
+   "seo-for-garage-door-companies"
+  ]
+ },
+ "seo-for-landscapers": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-plumbers",
+   "seo-for-moving-companies",
+   "seo-for-cleaning-companies",
+   "seo-for-water-damage-restoration"
+  ]
+ },
+ "google-search-profiles-local-brands": {
+  "context": [
+   "google-business-profile-optimization-orange-county",
+   "how-to-optimize-for-google-ai-mode",
+   "youtube-for-ai-search"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "how-to-show-up-in-google-ai-overviews",
+   "businesses-in-chatgpt-claim-your-business",
+   "gemini-4-carbon-ai-mode-local-business",
+   "what-is-query-fan-out"
+  ]
+ },
+ "reddit-for-ai-search": {
+  "context": [
+   "wikipedia-and-wikidata-for-ai-search",
+   "youtube-for-ai-search",
+   "what-is-generative-engine-optimization-and-how-does-it-work"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "search-console-generative-ai-performance-report",
+   "generative-engine-optimization-agency",
+   "ai-seo-for-small-business",
+   "how-to-get-on-best-of-lists"
+  ]
+ },
+ "seo-for-personal-injury-lawyers": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-immigration-lawyers",
+   "seo-for-law-firms-orange-county",
+   "seo-for-estate-planning-attorneys"
+  ]
+ },
+ "google-seo-learning-paths-small-business": {
+  "context": [
+   "google-business-profile-optimization-orange-county",
+   "robots-txt-for-ai-crawlers",
+   "how-to-show-up-in-google-ai-overviews",
+   "how-to-optimize-for-google-ai-mode",
+   "nap-consistency-local-citations"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "schema-markup-for-ai-search",
+   "geo-content-strategy",
+   "youtube-for-ai-search",
+   "internal-linking-for-ai-search"
+  ]
+ },
+ "perplexity-seo": {
+  "context": [
+   "robots-txt-for-ai-crawlers",
+   "microsoft-copilot-seo",
+   "how-to-rank-in-chatgpt",
+   "gemini-seo",
+   "reddit-for-ai-search"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "google-search-profiles-local-brands",
+   "how-to-get-cited-by-claude",
+   "how-to-show-up-in-google-ai-overviews",
+   "how-chatgpt-recommends-local-businesses"
+  ]
+ },
+ "how-to-optimize-for-meta-ai": {
+  "context": [
+   "how-to-remove-fake-google-reviews",
+   "google-business-profile-optimization-orange-county",
+   "schema-markup-for-ai-search",
+   "robots-txt-for-ai-crawlers",
+   "how-to-rank-in-chatgpt"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "google-search-profiles-local-brands",
+   "how-to-optimize-for-google-ai-mode",
+   "chatgpt-search-vs-google",
+   "microsoft-copilot-seo"
+  ]
+ },
+ "seo-for-travel-agencies": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "holiday-travel-search-trends-anaheim-2026",
+   "geo-for-hotels",
+   "seo-for-restaurants-orange-county",
+   "google-eat-here-domains-orange-county"
+  ]
+ },
+ "how-to-update-old-content-for-ai-search": {
+  "context": [
+   "schema-markup-for-ai-search",
+   "internal-linking-for-ai-search",
+   "search-console-generative-ai-performance-report",
+   "what-is-generative-engine-optimization-and-how-does-it-work",
+   "local-seo-orange-county"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "geo-content-strategy",
+   "how-long-should-content-be-for-ai-search",
+   "how-to-write-comparison-pages",
+   "topical-authority-for-ai-search"
+  ]
+ },
+ "seo-for-doctors": {
+  "context": [
+   "google-business-profile-service-area",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews",
+   "google-business-profile-optimization-orange-county",
+   "schema-markup-for-ai-search"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-dermatologists",
+   "seo-for-orthodontists",
+   "seo-for-chiropractors",
+   "geo-for-dentists"
+  ]
+ },
+ "seo-for-restaurants-orange-county": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews",
+   "google-business-profile-optimization-orange-county"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "google-eat-here-domains-orange-county",
+   "seo-for-hotels-orange-county",
+   "seo-for-event-planners",
+   "seo-for-wedding-venues"
+  ]
+ },
+ "google-business-profile-photos": {
+  "context": [
+   "google-business-profile-verification",
+   "service-area-business-seo",
+   "seo-irvine"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "30-day-ai-search-plan-orange-county",
+   "google-business-profile-holiday-hours",
+   "google-business-profile-service-area",
+   "google-business-profile-categories"
+  ]
+ },
+ "product-pages-for-ai-shopping": {
+  "context": [
+   "how-to-remove-fake-google-reviews",
+   "schema-markup-for-ai-search"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "google-universal-cart-orange-county-retailers",
+   "seo-for-shopify-stores",
+   "google-holiday-100-orange-county-retailers"
+  ]
+ },
+ "google-holiday-100-orange-county-retailers": {
+  "context": [
+   "google-business-profile-holiday-hours",
+   "schema-markup-for-ai-search",
+   "search-console-generative-ai-performance-report",
+   "seo-costa-mesa"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "geo-for-ecommerce",
+   "product-pages-for-ai-shopping"
+  ]
+ },
+ "local-seo-keywords": {
+  "context": [
+   "near-me-searches",
+   "search-console-generative-ai-performance-report",
+   "seo-huntington-beach",
+   "seo-costa-mesa"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "30-day-ai-search-plan-orange-county",
+   "google-business-profile-suspended",
+   "how-to-get-more-google-reviews",
+   "how-to-remove-fake-google-reviews"
+  ]
+ },
+ "seo-santa-ana": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews",
+   "google-business-profile-optimization-orange-county"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "30-day-ai-search-plan-orange-county",
+   "seo-company-anaheim",
+   "seo-fullerton",
+   "seo-huntington-beach"
+  ]
+ },
+ "google-business-profile-verification": {
+  "context": [
+   "service-area-business-seo"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "30-day-ai-search-plan-orange-county",
+   "google-business-profile-posts",
+   "google-business-profile-photos",
+   "google-business-profile-holiday-hours"
+  ]
+ },
+ "seo-for-pool-service-companies": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-remove-fake-google-reviews",
+   "how-to-respond-to-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-cleaning-companies",
+   "seo-for-water-damage-restoration",
+   "seo-for-fence-companies",
+   "seo-for-tree-service-companies"
+  ]
+ },
+ "google-universal-cart-orange-county-retailers": {
+  "context": [
+   "schema-markup-for-ai-search",
+   "how-to-optimize-for-google-ai-mode",
+   "gemini-seo",
+   "search-console-generative-ai-performance-report",
+   "how-to-track-ai-traffic-in-google-analytics"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "seo-for-shopify-stores",
+   "google-holiday-100-orange-county-retailers"
+  ]
+ },
+ "chatgpt-search-vs-google": {
+  "context": [
+   "google-business-profile-optimization-orange-county",
+   "how-to-show-up-in-google-ai-overviews",
+   "how-to-optimize-for-google-ai-mode",
+   "microsoft-copilot-seo",
+   "how-to-rank-in-chatgpt"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "businesses-in-chatgpt-claim-your-business",
+   "how-chatgpt-recommends-local-businesses",
+   "perplexity-seo",
+   "how-to-optimize-for-meta-ai"
+  ]
+ },
+ "geo-for-med-spas": {
+  "context": [
+   "google-business-profile-optimization-orange-county",
+   "perplexity-seo",
+   "how-to-rank-in-chatgpt",
+   "gemini-seo",
+   "eeat-for-ai-search"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "geo-for-healthcare",
+   "seo-for-veterinarians",
+   "seo-for-physical-therapists",
+   "seo-for-doctors"
+  ]
+ },
+ "google-eat-here-domains-orange-county": {
+  "context": [
+   "how-to-get-more-google-reviews",
+   "google-business-profile-optimization-orange-county",
+   "how-to-rank-in-chatgpt"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "seo-for-travel-agencies",
+   "seo-for-restaurants-orange-county",
+   "seo-for-hotels-orange-county",
+   "google-ai-mode-hotel-booking-anaheim"
+  ]
+ },
+ "how-to-track-ai-visibility": {
+  "context": [
+   "how-to-show-up-in-google-ai-overviews",
+   "how-to-optimize-for-google-ai-mode",
+   "perplexity-seo",
+   "microsoft-copilot-seo",
+   "how-to-rank-in-chatgpt"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "ai-visibility-audit",
+   "generative-engine-optimization-agency",
+   "is-geo-bring-sales",
+   "how-ai-search-engines-choose-sources"
+  ]
+ },
+ "geo-for-real-estate-agents": {
+  "context": [
+   "google-business-profile-service-area",
+   "google-business-profile-optimization-orange-county",
+   "perplexity-seo",
+   "how-to-rank-in-chatgpt",
+   "gemini-seo"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "businesses-in-chatgpt-claim-your-business",
+   "geo-for-startups",
+   "geo-for-financial-advisors",
+   "geo-for-manufacturers"
+  ]
+ },
+ "geo-for-startups": {
+  "context": [
+   "schema-markup-for-ai-search",
+   "robots-txt-for-ai-crawlers",
+   "reddit-for-ai-search",
+   "youtube-for-ai-search",
+   "how-to-write-comparison-pages"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "geo-for-real-estate-agents",
+   "ai-search-for-b2b-lead-generation",
+   "geo-for-financial-advisors",
+   "geo-for-manufacturers"
+  ]
+ },
+ "seo-for-hotels-orange-county": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews",
+   "google-business-profile-optimization-orange-county"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "google-ai-mode-hotel-booking-anaheim",
+   "seo-for-restaurants-orange-county",
+   "seo-for-bakeries",
+   "holiday-travel-search-trends-anaheim-2026"
+  ]
+ },
+ "gemini-4-carbon-ai-mode-local-business": {
+  "context": [
+   "google-business-profile-service-area",
+   "how-to-get-more-google-reviews",
+   "how-to-optimize-for-google-ai-mode",
+   "perplexity-seo",
+   "gemini-seo"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "google-october-2026-ai-updates-local-business",
+   "google-ai-mode-inline-links-update",
+   "google-search-profiles-local-brands",
+   "what-is-llm-seo"
+  ]
+ },
+ "google-business-profile-holiday-hours": {
+  "context": [
+   "nap-consistency-local-citations",
+   "local-seo-orange-county"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "30-day-ai-search-plan-orange-county",
+   "google-business-profile-service-area",
+   "google-business-profile-photos",
+   "google-business-profile-categories"
+  ]
+ },
+ "seo-for-junk-removal": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-remove-fake-google-reviews",
+   "how-to-respond-to-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-tree-service-companies",
+   "seo-for-fence-companies",
+   "seo-for-pressure-washing",
+   "seo-for-water-damage-restoration"
+  ]
+ },
+ "30-day-ai-search-plan-orange-county": {
+  "context": [
+   "google-business-profile-optimization-orange-county",
+   "schema-markup-for-ai-search",
+   "robots-txt-for-ai-crawlers",
+   "ai-crawler-user-agents",
+   "how-to-optimize-for-google-ai-mode"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "local-business-schema-for-ai-search",
+   "how-to-choose-a-geo-agency",
+   "how-to-remove-fake-google-reviews",
+   "seo-huntington-beach"
+  ]
+ },
+ "seo-for-auto-repair-shops": {
+  "context": [
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews",
+   "google-business-profile-optimization-orange-county"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-car-dealerships",
+   "seo-for-car-washes"
+  ]
+ },
+ "best-practices-for-llms-txt": {
+  "context": [
+   "robots-txt-for-ai-crawlers",
+   "ai-crawler-user-agents",
+   "how-to-show-up-in-google-ai-overviews",
+   "how-to-rank-in-chatgpt",
+   "gemini-seo"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "google-ai-training-control-robots-txt",
+   "microsoft-copilot-seo",
+   "how-chatgpt-recommends-local-businesses",
+   "google-search-profiles-local-brands"
+  ]
+ },
+ "digital-pr-for-ai-search": {
+  "context": [
+   "ai-crawler-user-agents",
+   "what-is-generative-engine-optimization-and-how-does-it-work"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "google-seo-learning-paths-small-business",
+   "youtube-for-ai-search",
+   "press-releases-for-ai-search",
+   "reddit-for-ai-search"
+  ]
+ },
+ "seo-for-contractors": {
+  "context": [
+   "google-business-profile-service-area",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews",
+   "google-business-profile-optimization-orange-county",
+   "schema-markup-for-ai-search"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-concrete-contractors",
+   "seo-for-hvac-companies",
+   "seo-for-home-builders",
+   "seo-for-architects"
+  ]
+ },
+ "geo-for-healthcare": {
+  "context": [
+   "how-to-respond-to-google-reviews",
+   "google-business-profile-optimization-orange-county",
+   "schema-markup-for-ai-search",
+   "eeat-for-ai-search",
+   "what-is-generative-engine-optimization-and-how-does-it-work"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "geo-for-med-spas",
+   "seo-for-orthodontists",
+   "seo-for-dentists-orange-county",
+   "seo-for-veterinarians"
+  ]
+ },
+ "geo-agency-orange-county": {
+  "context": [
+   "google-business-profile-service-area",
+   "google-business-profile-optimization-orange-county",
+   "best-practices-for-llms-txt",
+   "how-to-show-up-in-google-ai-overviews",
+   "perplexity-seo"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "30-day-ai-search-plan-orange-county",
+   "how-to-choose-a-geo-agency",
+   "local-business-schema-for-ai-search",
+   "how-to-remove-fake-google-reviews"
+  ]
+ },
+ "seo-for-carpet-cleaning": {
+  "context": [
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews",
+   "google-business-profile-optimization-orange-county"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-window-cleaning",
+   "seo-for-pool-service-companies",
+   "seo-for-hvac-companies",
+   "seo-for-pressure-washing"
+  ]
+ },
+ "google-ai-mode-hotel-booking-anaheim": {
+  "context": [
+   "how-to-remove-fake-google-reviews",
+   "how-to-respond-to-google-reviews",
+   "google-business-profile-optimization-orange-county",
+   "schema-markup-for-ai-search",
+   "how-to-optimize-for-google-ai-mode"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "seo-for-hotels-orange-county",
+   "holiday-travel-search-trends-anaheim-2026",
+   "seo-for-event-planners",
+   "seo-for-wedding-venues"
+  ]
+ },
+ "how-to-choose-a-geo-agency": {
+  "context": [
+   "best-practices-for-llms-txt",
+   "robots-txt-for-ai-crawlers",
+   "ai-crawler-user-agents",
+   "how-to-show-up-in-google-ai-overviews",
+   "perplexity-seo"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "30-day-ai-search-plan-orange-county",
+   "geo-agency-orange-county",
+   "google-local-services-ads-vs-seo",
+   "google-business-profile-categories"
+  ]
+ },
+ "seo-for-car-dealerships": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "how-to-remove-fake-google-reviews",
+   "how-to-respond-to-google-reviews",
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-auto-detailing",
+   "seo-for-car-washes",
+   "seo-for-auto-body-shops",
+   "seo-for-auto-repair-shops"
+  ]
+ },
+ "nap-consistency-local-citations": {
+  "context": [
+   "google-business-profile-optimization-orange-county",
+   "schema-markup-for-ai-search",
+   "seo-newport-beach"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "30-day-ai-search-plan-orange-county",
+   "how-to-remove-fake-google-reviews",
+   "seo-huntington-beach",
+   "google-business-profile-suspended"
+  ]
+ },
+ "holiday-travel-search-trends-anaheim-2026": {
+  "context": [
+   "google-business-profile-optimization-orange-county",
+   "schema-markup-for-ai-search",
+   "how-to-optimize-for-google-ai-mode",
+   "how-to-rank-in-chatgpt",
+   "search-console-generative-ai-performance-report"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "seo-for-travel-agencies",
+   "google-ai-mode-hotel-booking-anaheim",
+   "seo-for-hotels-orange-county",
+   "seo-for-event-planners"
+  ]
+ },
+ "how-to-write-content-for-ai-search": {
+  "context": [
+   "ai-crawler-user-agents",
+   "what-is-generative-engine-optimization-and-how-does-it-work"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "search-console-multimodal-search-report",
+   "faq-pages-for-ai-search",
+   "geo-content-strategy",
+   "does-google-penalize-ai-content"
+  ]
+ },
+ "seo-for-massage-therapists": {
+  "context": [
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "google-local-services-ads-vs-seo",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-therapists",
+   "seo-for-orthodontists",
+   "seo-for-physical-therapists",
+   "geo-for-dentists"
+  ]
+ },
+ "seo-for-roofers": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-remove-fake-google-reviews",
+   "how-to-respond-to-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-pest-control",
+   "seo-for-moving-companies",
+   "seo-for-bathroom-remodelers",
+   "seo-for-handyman-services"
+  ]
+ },
+ "seo-for-solar-companies": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews",
+   "google-business-profile-optimization-orange-county"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-pressure-washing",
+   "seo-for-water-damage-restoration",
+   "seo-for-flooring-companies",
+   "seo-for-junk-removal"
+  ]
+ },
+ "geo-seo-best-practices": {
+  "context": [
+   "best-practices-for-llms-txt",
+   "robots-txt-for-ai-crawlers",
+   "ai-crawler-user-agents",
+   "how-to-show-up-in-google-ai-overviews",
+   "perplexity-seo"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "search-console-generative-ai-performance-report",
+   "ai-search-optimization-checklist",
+   "how-much-does-geo-cost",
+   "answer-engine-optimization-vs-generative-engine-optimization"
+  ]
+ },
+ "geo-for-hotels": {
+  "context": [
+   "how-to-respond-to-google-reviews",
+   "google-business-profile-optimization-orange-county",
+   "schema-markup-for-ai-search",
+   "what-is-generative-engine-optimization-and-how-does-it-work",
+   "seo-newport-beach"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "google-ai-mode-hotel-booking-anaheim",
+   "holiday-travel-search-trends-anaheim-2026",
+   "seo-for-restaurants-orange-county",
+   "google-eat-here-domains-orange-county"
+  ]
+ },
+ "answer-engine-optimization-vs-generative-engine-optimization": {
+  "context": [
+   "schema-markup-for-ai-search",
+   "best-practices-for-llms-txt",
+   "ai-crawler-user-agents",
+   "how-to-show-up-in-google-ai-overviews",
+   "perplexity-seo"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "search-console-generative-ai-performance-report",
+   "how-much-does-geo-cost",
+   "geo-seo-best-practices",
+   "ai-search-optimization-checklist"
+  ]
+ },
+ "local-business-schema-for-ai-search": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-optimization-orange-county",
+   "schema-markup-for-ai-search",
+   "what-is-generative-engine-optimization-and-how-does-it-work"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "30-day-ai-search-plan-orange-county",
+   "geo-agency-orange-county",
+   "how-to-choose-a-geo-agency",
+   "core-web-vitals-for-local-businesses"
+  ]
+ },
+ "is-seo-worth-it-for-small-business": {
+  "context": [
+   "how-to-rank-in-chatgpt",
+   "zero-click-searches",
+   "search-console-generative-ai-performance-report"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "google-seo-learning-paths-small-business",
+   "answer-engine-optimization-vs-generative-engine-optimization",
+   "does-google-penalize-ai-content",
+   "how-to-write-content-for-ai-search"
+  ]
+ },
+ "service-area-business-seo": {
+  "context": [
+   "google-business-profile-service-area",
+   "how-to-get-more-google-reviews",
+   "schema-markup-for-ai-search",
+   "local-landing-pages",
+   "seo-santa-ana"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "30-day-ai-search-plan-orange-county",
+   "seo-company-anaheim",
+   "google-business-profile-posts",
+   "google-business-profile-suspended"
+  ]
+ },
+ "google-business-profile-optimization-orange-county": {
+  "context": [
+   "service-area-business-seo",
+   "how-to-respond-to-google-reviews",
+   "how-to-get-more-google-reviews",
+   "schema-markup-for-ai-search",
+   "seo-santa-ana"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "30-day-ai-search-plan-orange-county",
+   "google-business-profile-service-area",
+   "local-seo-orange-county",
+   "local-seo-checklist"
+  ]
+ },
+ "seo-newport-beach": {
+  "context": [
+   "google-business-profile-service-area",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews",
+   "google-business-profile-optimization-orange-county",
+   "schema-markup-for-ai-search"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "30-day-ai-search-plan-orange-county",
+   "seo-company-orange-county",
+   "seo-huntington-beach",
+   "seo-company-anaheim"
+  ]
+ },
+ "eeat-for-ai-search": {
+  "context": [
+   "how-to-get-more-google-reviews",
+   "schema-markup-for-ai-search",
+   "how-to-show-up-in-google-ai-overviews",
+   "how-to-optimize-for-google-ai-mode",
+   "author-pages-for-eeat"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "search-console-generative-ai-performance-report",
+   "geo-content-strategy",
+   "how-to-update-old-content-for-ai-search",
+   "youtube-for-ai-search"
+  ]
+ },
+ "seo-for-garage-door-companies": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews",
+   "google-business-profile-optimization-orange-county"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-pressure-washing",
+   "seo-for-water-damage-restoration",
+   "seo-for-locksmiths",
+   "seo-for-junk-removal"
+  ]
+ },
+ "geo-for-travel-websites": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "how-to-remove-fake-google-reviews",
+   "how-to-respond-to-google-reviews",
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "holiday-travel-search-trends-anaheim-2026",
+   "geo-for-restaurants",
+   "seo-for-travel-agencies",
+   "seo-for-restaurants-orange-county"
+  ]
+ },
+ "seo-for-moving-companies": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-fence-companies",
+   "seo-for-pest-control",
+   "seo-for-cleaning-companies",
+   "seo-for-water-damage-restoration"
+  ]
+ },
+ "seo-for-insurance-agents": {
+  "context": [
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews",
+   "google-business-profile-optimization-orange-county"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-mortgage-brokers",
+   "seo-for-staffing-agencies",
+   "seo-for-real-estate-agents-orange-county",
+   "seo-for-accountants"
+  ]
+ },
+ "seo-for-dentists-orange-county": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-optometrists",
+   "seo-for-doctors",
+   "seo-for-orthodontists",
+   "seo-for-dermatologists"
+  ]
+ },
+ "geo-vs-ppc": {
+  "context": [
+   "perplexity-seo",
+   "how-to-rank-in-chatgpt",
+   "gemini-seo",
+   "what-is-generative-engine-optimization-and-how-does-it-work"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "search-console-generative-ai-performance-report",
+   "ai-visibility-audit",
+   "geo-vs-seo",
+   "ai-search-optimization-checklist"
+  ]
+ },
+ "geo-for-restaurants": {
+  "context": [
+   "google-business-profile-holiday-hours",
+   "how-to-respond-to-google-reviews",
+   "google-business-profile-optimization-orange-county",
+   "how-to-optimize-for-google-ai-mode",
+   "how-to-rank-in-chatgpt"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "google-ai-mode-hotel-booking-anaheim",
+   "geo-for-hotels",
+   "geo-for-travel-websites",
+   "seo-for-travel-agencies"
+  ]
+ },
+ "seo-for-bathroom-remodelers": {
+  "context": [
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews",
+   "google-business-profile-optimization-orange-county"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-roofers",
+   "seo-for-moving-companies",
+   "seo-for-pest-control",
+   "seo-for-handyman-services"
+  ]
+ },
+ "google-october-2026-ai-updates-local-business": {
+  "context": [
+   "how-to-respond-to-google-reviews",
+   "how-to-get-more-google-reviews",
+   "gemini-seo",
+   "search-console-generative-ai-performance-report",
+   "how-to-track-ai-traffic-in-google-analytics"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "gemini-4-carbon-ai-mode-local-business",
+   "google-ai-mode-inline-links-update",
+   "gemini-task-automation-bookings-anaheim",
+   "robots-txt-for-ai-crawlers"
+  ]
+ },
+ "seo-for-accountants": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "how-to-remove-fake-google-reviews",
+   "how-to-respond-to-google-reviews",
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-insurance-agents",
+   "seo-for-staffing-agencies",
+   "seo-for-mortgage-brokers",
+   "seo-for-it-companies"
+  ]
+ },
+ "seo-for-flooring-companies": {
+  "context": [
+   "google-business-profile-service-area",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews",
+   "google-business-profile-optimization-orange-county",
+   "schema-markup-for-ai-search"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-fence-companies",
+   "seo-for-pressure-washing",
+   "seo-for-water-damage-restoration",
+   "seo-for-junk-removal"
+  ]
+ },
+ "seo-for-concrete-contractors": {
+  "context": [
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews",
+   "google-business-profile-optimization-orange-county"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-fence-companies",
+   "seo-for-moving-companies",
+   "seo-for-roofers",
+   "seo-for-hvac-companies"
+  ]
+ },
+ "local-landing-pages": {
+  "context": [
+   "google-business-profile-service-area",
+   "internal-linking-for-ai-search",
+   "seo-irvine",
+   "seo-santa-ana",
+   "seo-huntington-beach"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "30-day-ai-search-plan-orange-county",
+   "near-me-searches",
+   "seo-company-anaheim",
+   "how-to-remove-fake-google-reviews"
+  ]
+ },
+ "seo-for-real-estate-agents-orange-county": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-remove-fake-google-reviews",
+   "how-to-respond-to-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-insurance-agents",
+   "seo-for-mortgage-brokers",
+   "geo-for-financial-advisors",
+   "geo-for-startups"
+  ]
+ },
+ "seo-fullerton": {
+  "context": [
+   "google-business-profile-service-area",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews",
+   "google-business-profile-optimization-orange-county",
+   "schema-markup-for-ai-search"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "30-day-ai-search-plan-orange-county",
+   "seo-huntington-beach",
+   "seo-irvine",
+   "seo-santa-ana"
+  ]
+ },
+ "ai-search-optimization-checklist": {
+  "context": [
+   "how-to-get-more-google-reviews",
+   "google-business-profile-optimization-orange-county",
+   "schema-markup-for-ai-search",
+   "best-practices-for-llms-txt",
+   "robots-txt-for-ai-crawlers"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "search-console-generative-ai-performance-report",
+   "geo-seo-best-practices",
+   "generative-engine-optimization-agency",
+   "how-much-does-geo-cost"
+  ]
+ },
+ "search-console-multimodal-search-report": {
+  "context": [
+   "search-console-generative-ai-performance-report",
+   "seo-costa-mesa"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "how-to-find-prompts-people-ask-ai",
+   "ai-visibility-audit",
+   "generative-engine-optimization-agency",
+   "how-to-measure-geo-results"
+  ]
+ },
+ "seo-for-kitchen-remodelers": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "google-local-services-ads-vs-seo",
+   "how-to-remove-fake-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-electricians",
+   "seo-for-home-builders",
+   "seo-for-locksmiths",
+   "seo-for-architects"
+  ]
+ },
+ "local-geo": {
+  "context": [
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-respond-to-google-reviews",
+   "how-to-show-up-in-google-ai-overviews",
+   "perplexity-seo"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "30-day-ai-search-plan-orange-county",
+   "seo-company-anaheim",
+   "google-business-profile-optimization-orange-county",
+   "seo-irvine"
+  ]
+ },
+ "geo-content-strategy": {
+  "context": [
+   "how-to-write-comparison-pages",
+   "internal-linking-for-ai-search",
+   "search-console-generative-ai-performance-report",
+   "what-is-generative-engine-optimization-and-how-does-it-work"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "generative-engine-optimization-agency",
+   "how-long-does-geo-take",
+   "how-much-does-geo-cost",
+   "answer-engine-optimization-vs-generative-engine-optimization"
+  ]
+ },
+ "how-to-fix-wrong-information-about-your-brand-in-chatgpt": {
+  "context": [
+   "how-to-remove-fake-google-reviews",
+   "google-business-profile-optimization-orange-county",
+   "schema-markup-for-ai-search",
+   "how-to-rank-in-chatgpt",
+   "nap-consistency-local-citations"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "businesses-in-chatgpt-claim-your-business",
+   "gemini-seo",
+   "how-chatgpt-recommends-local-businesses",
+   "how-to-get-cited-by-claude"
+  ]
+ },
+ "seo-for-window-cleaning": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-carpet-cleaning",
+   "seo-for-pool-service-companies",
+   "seo-for-hvac-companies",
+   "seo-for-moving-companies"
+  ]
+ },
+ "seo-for-dog-groomers": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-remove-fake-google-reviews",
+   "how-to-respond-to-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-dog-trainers",
+   "seo-for-salons",
+   "seo-for-yoga-studios",
+   "seo-for-martial-arts-schools"
+  ]
+ },
+ "ai-visibility-audit": {
+  "context": [
+   "schema-markup-for-ai-search",
+   "best-practices-for-llms-txt",
+   "robots-txt-for-ai-crawlers",
+   "ai-crawler-user-agents",
+   "how-to-rank-in-chatgpt"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "search-console-generative-ai-performance-report",
+   "ai-seo-for-small-business",
+   "how-to-track-ai-visibility",
+   "is-geo-bring-sales"
+  ]
+ },
+ "seo-for-home-builders": {
+  "context": [
+   "google-business-profile-service-area",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews",
+   "google-business-profile-optimization-orange-county",
+   "schema-markup-for-ai-search"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-pressure-washing",
+   "seo-for-contractors",
+   "seo-for-water-damage-restoration",
+   "seo-for-flooring-companies"
+  ]
+ },
+ "seo-for-photographers": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "how-to-remove-fake-google-reviews",
+   "how-to-respond-to-google-reviews",
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-salons",
+   "seo-for-martial-arts-schools",
+   "seo-for-dog-groomers",
+   "seo-for-dog-trainers"
+  ]
+ },
+ "seo-for-dog-trainers": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-dog-groomers",
+   "seo-for-yoga-studios",
+   "seo-for-martial-arts-schools",
+   "seo-for-salons"
+  ]
+ },
+ "seo-for-electricians": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-kitchen-remodelers",
+   "seo-for-locksmiths",
+   "seo-for-garage-door-companies",
+   "seo-for-self-storage"
+  ]
+ },
+ "gemini-task-automation-bookings-anaheim": {
+  "context": [
+   "gemini-seo"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "businesses-in-chatgpt-claim-your-business",
+   "google-october-2026-ai-updates-local-business",
+   "gemini-4-carbon-ai-mode-local-business",
+   "ai-crawler-user-agents"
+  ]
+ },
+ "is-seo-dead": {
+  "context": [
+   "schema-markup-for-ai-search",
+   "how-to-show-up-in-google-ai-overviews",
+   "how-to-optimize-for-google-ai-mode",
+   "perplexity-seo",
+   "microsoft-copilot-seo"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "google-seo-learning-paths-small-business",
+   "how-to-write-content-for-ai-search",
+   "what-is-generative-engine-optimization-and-how-does-it-work",
+   "geo-vs-ppc"
+  ]
+ },
+ "seo-for-event-planners": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-remove-fake-google-reviews",
+   "how-to-respond-to-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "google-ai-mode-hotel-booking-anaheim",
+   "seo-for-restaurants-orange-county",
+   "seo-for-bakeries",
+   "holiday-travel-search-trends-anaheim-2026"
+  ]
+ },
+ "what-is-query-fan-out": {
+  "context": [
+   "how-to-show-up-in-google-ai-overviews",
+   "how-to-optimize-for-google-ai-mode",
+   "perplexity-seo",
+   "how-to-rank-in-chatgpt",
+   "search-console-generative-ai-performance-report"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "google-ai-mode-inline-links-update",
+   "ai-overviews-vs-featured-snippets",
+   "google-search-profiles-local-brands",
+   "gemini-4-carbon-ai-mode-local-business"
+  ]
+ },
+ "seo-for-nonprofits": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "how-to-remove-fake-google-reviews",
+   "how-to-respond-to-google-reviews",
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-mortgage-brokers",
+   "geo-for-financial-advisors",
+   "geo-for-real-estate-agents",
+   "geo-for-startups"
+  ]
+ },
+ "seo-for-fence-companies": {
+  "context": [
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "google-local-services-ads-vs-seo",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-water-damage-restoration",
+   "seo-for-junk-removal",
+   "seo-for-pool-service-companies",
+   "seo-for-tree-service-companies"
+  ]
+ },
+ "search-console-generative-ai-performance-report": {
+  "context": [
+   "how-to-show-up-in-google-ai-overviews",
+   "how-to-optimize-for-google-ai-mode",
+   "perplexity-seo",
+   "how-to-rank-in-chatgpt",
+   "gemini-seo"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "generative-engine-optimization-agency",
+   "search-console-multimodal-search-report",
+   "ai-visibility-audit",
+   "ai-search-optimization-checklist"
+  ]
+ },
+ "how-to-get-cited-by-claude": {
+  "context": [
+   "robots-txt-for-ai-crawlers",
+   "perplexity-seo",
+   "microsoft-copilot-seo",
+   "how-to-rank-in-chatgpt",
+   "gemini-seo"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "google-search-profiles-local-brands",
+   "how-to-check-if-chatgpt-mentions-your-brand",
+   "how-to-show-up-in-google-ai-overviews",
+   "how-chatgpt-recommends-local-businesses"
+  ]
+ },
+ "seo-for-senior-living": {
+  "context": [
+   "google-business-profile-service-area",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews",
+   "google-business-profile-optimization-orange-county",
+   "schema-markup-for-ai-search"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-veterinarians",
+   "geo-for-dentists",
+   "seo-for-plastic-surgeons",
+   "seo-for-physical-therapists"
+  ]
+ },
+ "local-seo-orange-county": {
+  "context": [
+   "google-business-profile-categories",
+   "how-to-respond-to-google-reviews",
+   "how-to-get-more-google-reviews",
+   "schema-markup-for-ai-search",
+   "how-to-rank-in-chatgpt"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "30-day-ai-search-plan-orange-county",
+   "seo-company-anaheim",
+   "seo-santa-ana",
+   "seo-irvine"
+  ]
+ },
+ "how-long-does-geo-take": {
+  "context": [
+   "google-business-profile-optimization-orange-county",
+   "robots-txt-for-ai-crawlers",
+   "how-to-show-up-in-google-ai-overviews",
+   "perplexity-seo",
+   "how-to-rank-in-chatgpt"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "search-console-generative-ai-performance-report",
+   "what-is-generative-engine-optimization-and-how-does-it-work",
+   "geo-content-strategy",
+   "answer-engine-optimization-vs-generative-engine-optimization"
+  ]
+ },
+ "geo-for-law-firms": {
+  "context": [
+   "google-business-profile-optimization-orange-county",
+   "schema-markup-for-ai-search",
+   "perplexity-seo",
+   "how-to-rank-in-chatgpt",
+   "gemini-seo"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "seo-for-criminal-defense-lawyers",
+   "geo-for-dentists",
+   "ai-seo-for-small-business",
+   "geo-for-med-spas"
+  ]
+ },
+ "google-business-profile-posts": {
+  "context": [
+   "how-to-get-more-google-reviews",
+   "how-to-rank-in-chatgpt",
+   "gemini-seo",
+   "nap-consistency-local-citations",
+   "seo-fullerton"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "30-day-ai-search-plan-orange-county",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "service-area-business-seo"
+  ]
+ },
+ "ai-search-statistics": {
+  "context": [
+   "how-to-show-up-in-google-ai-overviews",
+   "how-to-optimize-for-google-ai-mode",
+   "perplexity-seo",
+   "how-to-rank-in-chatgpt",
+   "gemini-seo"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "search-console-generative-ai-performance-report",
+   "zero-click-searches",
+   "generative-engine-optimization-agency",
+   "how-ai-search-engines-choose-sources"
+  ]
+ },
+ "seo-company-orange-county": {
+  "context": [
+   "google-business-profile-service-area",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews",
+   "google-business-profile-optimization-orange-county",
+   "schema-markup-for-ai-search"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "30-day-ai-search-plan-orange-county",
+   "seo-company-anaheim",
+   "seo-newport-beach",
+   "seo-irvine"
+  ]
+ },
+ "seo-for-yoga-studios": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "google-local-services-ads-vs-seo",
+   "how-to-remove-fake-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-martial-arts-schools",
+   "seo-for-tattoo-shops",
+   "seo-for-dog-trainers",
+   "seo-for-salons"
+  ]
+ },
+ "geo-for-home-services": {
+  "context": [
+   "google-business-profile-service-area",
+   "google-business-profile-optimization-orange-county",
+   "local-landing-pages",
+   "how-to-track-ai-traffic-in-google-analytics",
+   "what-is-generative-engine-optimization-and-how-does-it-work"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "seo-for-pool-service-companies",
+   "seo-for-fence-companies",
+   "seo-for-cleaning-companies",
+   "seo-for-landscapers"
+  ]
+ },
+ "seo-for-painters": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-remove-fake-google-reviews",
+   "how-to-respond-to-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-contractors",
+   "seo-for-cleaning-companies",
+   "seo-for-flooring-companies",
+   "seo-for-interior-designers"
+  ]
+ },
+ "entity-seo-for-ai-search": {
+  "context": [
+   "google-business-profile-optimization-orange-county",
+   "how-to-show-up-in-google-ai-overviews",
+   "perplexity-seo",
+   "how-to-rank-in-chatgpt",
+   "gemini-seo"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "google-seo-learning-paths-small-business",
+   "how-to-get-a-google-knowledge-panel",
+   "wikipedia-and-wikidata-for-ai-search",
+   "ai-share-of-voice"
+  ]
+ },
+ "how-to-check-if-chatgpt-mentions-your-brand": {
+  "context": [
+   "robots-txt-for-ai-crawlers",
+   "how-to-show-up-in-google-ai-overviews",
+   "perplexity-seo",
+   "microsoft-copilot-seo",
+   "how-chatgpt-recommends-local-businesses"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "businesses-in-chatgpt-claim-your-business",
+   "how-to-get-cited-by-claude",
+   "gemini-seo",
+   "how-to-fix-wrong-information-about-your-brand-in-chatgpt"
+  ]
+ },
+ "geo-for-manufacturers": {
+  "context": [
+   "schema-markup-for-ai-search",
+   "what-is-generative-engine-optimization-and-how-does-it-work"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "geo-for-real-estate-agents",
+   "ai-search-for-b2b-lead-generation",
+   "geo-for-financial-advisors",
+   "geo-for-startups"
+  ]
+ },
+ "seo-for-therapists": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "how-to-remove-fake-google-reviews",
+   "how-to-respond-to-google-reviews",
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-massage-therapists",
+   "seo-for-physical-therapists",
+   "geo-for-dentists",
+   "seo-for-plastic-surgeons"
+  ]
+ },
+ "seo-for-gyms": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "how-to-remove-fake-google-reviews",
+   "how-to-respond-to-google-reviews",
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-tattoo-shops",
+   "seo-for-salons",
+   "seo-for-dog-groomers",
+   "seo-for-photographers"
+  ]
+ },
+ "ai-share-of-voice": {
+  "context": [
+   "how-to-show-up-in-google-ai-overviews",
+   "how-to-optimize-for-google-ai-mode",
+   "perplexity-seo",
+   "microsoft-copilot-seo",
+   "how-to-rank-in-chatgpt"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "search-console-generative-ai-performance-report",
+   "how-to-track-ai-visibility",
+   "ai-visibility-audit",
+   "generative-engine-optimization-agency"
+  ]
+ },
+ "is-geo-bring-sales": {
+  "context": [
+   "schema-markup-for-ai-search",
+   "robots-txt-for-ai-crawlers",
+   "ai-crawler-user-agents",
+   "how-to-show-up-in-google-ai-overviews",
+   "perplexity-seo"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "search-console-generative-ai-performance-report",
+   "ai-search-optimization-checklist",
+   "how-much-does-geo-cost",
+   "answer-engine-optimization-vs-generative-engine-optimization"
+  ]
+ },
+ "how-to-get-a-google-knowledge-panel": {
+  "context": [
+   "google-business-profile-optimization-orange-county",
+   "schema-markup-for-ai-search",
+   "wikipedia-and-wikidata-for-ai-search"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "google-seo-learning-paths-small-business",
+   "ai-share-of-voice",
+   "how-to-get-brand-mentions-for-ai-search",
+   "what-is-generative-engine-optimization-and-how-does-it-work"
+  ]
+ },
+ "seo-for-plumbers": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-landscapers",
+   "seo-for-self-storage",
+   "seo-for-architects",
+   "seo-for-pressure-washing"
+  ]
+ },
+ "how-to-respond-to-google-reviews": {
+  "context": [
+   "google-business-profile-verification",
+   "how-to-remove-fake-google-reviews",
+   "seo-irvine"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "30-day-ai-search-plan-orange-county",
+   "seo-huntington-beach",
+   "google-business-profile-suspended",
+   "google-business-profile-photos"
+  ]
+ },
+ "seo-for-car-washes": {
+  "context": [
+   "google-business-profile-holiday-hours",
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "google-local-services-ads-vs-seo"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-car-dealerships",
+   "seo-for-auto-body-shops"
+  ]
+ },
+ "geo-roi": {
+  "context": [
+   "perplexity-seo",
+   "how-to-rank-in-chatgpt",
+   "search-console-generative-ai-performance-report",
+   "what-is-generative-engine-optimization-and-how-does-it-work"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "google-seo-learning-paths-small-business",
+   "geo-content-strategy",
+   "how-long-does-geo-take",
+   "ai-seo-for-small-business"
+  ]
+ },
+ "seo-for-orthodontists": {
+  "context": [
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews",
+   "google-business-profile-optimization-orange-county"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-doctors",
+   "seo-for-massage-therapists",
+   "seo-for-dermatologists",
+   "seo-for-chiropractors"
+  ]
+ },
+ "seo-for-pest-control": {
+  "context": [
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews",
+   "google-business-profile-optimization-orange-county"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-roofers",
+   "seo-for-moving-companies",
+   "seo-for-junk-removal",
+   "seo-for-garage-door-companies"
+  ]
+ },
+ "google-local-services-ads-vs-seo": {
+  "context": [
+   "how-to-get-more-google-reviews",
+   "how-to-rank-in-chatgpt",
+   "gemini-seo",
+   "nap-consistency-local-citations",
+   "search-console-generative-ai-performance-report"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "30-day-ai-search-plan-orange-county",
+   "how-to-choose-a-geo-agency",
+   "seo-company-orange-county",
+   "seo-company-anaheim"
+  ]
+ },
+ "how-to-optimize-for-google-ai-mode": {
+  "context": [
+   "schema-markup-for-ai-search",
+   "how-to-show-up-in-google-ai-overviews",
+   "perplexity-seo",
+   "microsoft-copilot-seo",
+   "how-to-rank-in-chatgpt"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "google-search-profiles-local-brands",
+   "what-is-query-fan-out",
+   "how-to-optimize-for-meta-ai",
+   "google-ai-mode-inline-links-update"
+  ]
+ },
+ "google-ai-mode-inline-links-update": {
+  "context": [
+   "google-business-profile-optimization-orange-county",
+   "schema-markup-for-ai-search",
+   "how-to-show-up-in-google-ai-overviews",
+   "how-to-optimize-for-google-ai-mode",
+   "search-console-generative-ai-performance-report"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "what-is-query-fan-out",
+   "google-october-2026-ai-updates-local-business",
+   "gemini-4-carbon-ai-mode-local-business",
+   "ai-overviews-vs-featured-snippets"
+  ]
+ },
+ "how-to-get-brand-mentions-for-ai-search": {
+  "context": [
+   "how-to-remove-fake-google-reviews",
+   "reddit-for-ai-search",
+   "search-console-generative-ai-performance-report",
+   "how-to-track-ai-traffic-in-google-analytics",
+   "what-is-generative-engine-optimization-and-how-does-it-work"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "google-seo-learning-paths-small-business",
+   "digital-pr-for-ai-search",
+   "ai-share-of-voice",
+   "ai-seo-for-small-business"
+  ]
+ },
+ "seo-for-staffing-agencies": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-insurance-agents",
+   "seo-for-accountants",
+   "seo-for-mortgage-brokers",
+   "seo-for-it-companies"
+  ]
+ },
+ "seo-for-bakeries": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "google-local-services-ads-vs-seo",
+   "how-to-remove-fake-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "google-eat-here-domains-orange-county",
+   "seo-for-hotels-orange-county",
+   "seo-for-event-planners",
+   "seo-for-wedding-venues"
+  ]
+ },
+ "near-me-searches": {
+  "context": [
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "30-day-ai-search-plan-orange-county",
+   "seo-company-anaheim",
+   "seo-santa-ana",
+   "local-landing-pages"
+  ]
+ },
+ "does-google-penalize-ai-content": {
+  "context": [
+   "how-to-show-up-in-google-ai-overviews",
+   "how-to-optimize-for-google-ai-mode"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "google-seo-learning-paths-small-business",
+   "topical-authority-for-ai-search",
+   "faq-pages-for-ai-search",
+   "is-seo-worth-it-for-small-business"
+  ]
+ },
+ "how-ai-search-engines-choose-sources": {
+  "context": [
+   "schema-markup-for-ai-search",
+   "robots-txt-for-ai-crawlers",
+   "ai-crawler-user-agents",
+   "how-to-show-up-in-google-ai-overviews",
+   "how-to-optimize-for-google-ai-mode"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "search-console-generative-ai-performance-report",
+   "generative-engine-optimization-agency",
+   "ai-search-statistics",
+   "reddit-for-ai-search"
+  ]
+ },
+ "seo-for-daycare-centers": {
+  "context": [
+   "google-business-profile-service-area",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews",
+   "google-business-profile-optimization-orange-county",
+   "schema-markup-for-ai-search"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-tutoring-centers"
+  ]
+ },
+ "google-business-profile-service-area": {
+  "context": [
+   "service-area-business-seo",
+   "nap-consistency-local-citations",
+   "local-landing-pages",
+   "local-seo-orange-county",
+   "seo-irvine"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "30-day-ai-search-plan-orange-county",
+   "google-business-profile-holiday-hours",
+   "google-business-profile-categories",
+   "google-business-profile-photos"
+  ]
+ },
+ "how-to-measure-geo-results": {
+  "context": [
+   "how-to-show-up-in-google-ai-overviews",
+   "perplexity-seo",
+   "microsoft-copilot-seo",
+   "how-to-rank-in-chatgpt",
+   "gemini-seo"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "how-to-track-ai-visibility",
+   "ai-share-of-voice",
+   "geo-vs-ppc",
+   "ai-search-optimization-checklist"
+  ]
+ },
+ "seo-for-dermatologists": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-doctors",
+   "seo-for-chiropractors",
+   "seo-for-plastic-surgeons",
+   "seo-for-physical-therapists"
+  ]
+ },
+ "seo-for-private-schools": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "how-to-remove-fake-google-reviews",
+   "how-to-respond-to-google-reviews",
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-martial-arts-schools"
+  ]
+ },
+ "seo-for-it-companies": {
+  "context": [
+   "google-business-profile-service-area",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews",
+   "google-business-profile-optimization-orange-county",
+   "schema-markup-for-ai-search"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-insurance-agents",
+   "seo-for-staffing-agencies",
+   "seo-for-accountants",
+   "seo-for-mortgage-brokers"
+  ]
+ },
+ "how-to-rank-in-chatgpt": {
+  "context": [
+   "robots-txt-for-ai-crawlers",
+   "ai-crawler-user-agents",
+   "perplexity-seo",
+   "microsoft-copilot-seo",
+   "how-chatgpt-recommends-local-businesses"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "how-to-get-cited-by-claude",
+   "how-to-check-if-chatgpt-mentions-your-brand",
+   "gemini-seo",
+   "how-to-fix-wrong-information-about-your-brand-in-chatgpt"
+  ]
+ },
+ "google-ai-training-control-robots-txt": {
+  "context": [
+   "robots-txt-for-ai-crawlers",
+   "gemini-seo"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "best-practices-for-llms-txt",
+   "how-to-optimize-for-google-ai-mode",
+   "what-is-query-fan-out",
+   "microsoft-copilot-seo"
+  ]
+ },
+ "seo-for-coffee-shops": {
+  "context": [
+   "google-business-profile-holiday-hours",
+   "google-business-profile-service-area",
+   "google-local-services-ads-vs-seo",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "google-eat-here-domains-orange-county",
+   "seo-for-travel-agencies",
+   "seo-for-hotels-orange-county",
+   "google-ai-mode-hotel-booking-anaheim"
+  ]
+ },
+ "how-to-write-comparison-pages": {
+  "context": [
+   "schema-markup-for-ai-search",
+   "what-is-generative-engine-optimization-and-how-does-it-work"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "google-seo-learning-paths-small-business",
+   "faq-pages-for-ai-search",
+   "geo-content-strategy",
+   "topical-authority-for-ai-search"
+  ]
+ },
+ "businesses-in-chatgpt-claim-your-business": {
+  "context": [
+   "google-business-profile-optimization-orange-county",
+   "how-chatgpt-recommends-local-businesses",
+   "how-to-rank-in-chatgpt",
+   "seo-fullerton"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "gemini-task-automation-bookings-anaheim",
+   "google-search-profiles-local-brands",
+   "chatgpt-search-vs-google",
+   "how-to-fix-wrong-information-about-your-brand-in-chatgpt"
+  ]
+ },
+ "topical-authority-for-ai-search": {
+  "context": [
+   "google-business-profile-optimization-orange-county",
+   "local-business-schema-for-ai-search",
+   "how-to-show-up-in-google-ai-overviews",
+   "how-to-optimize-for-google-ai-mode",
+   "what-is-query-fan-out"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "google-seo-learning-paths-small-business",
+   "how-to-write-comparison-pages",
+   "geo-content-strategy",
+   "does-google-penalize-ai-content"
+  ]
+ },
+ "seo-for-interior-designers": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-remove-fake-google-reviews",
+   "how-to-respond-to-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-painters",
+   "seo-for-self-storage",
+   "seo-for-water-damage-restoration",
+   "seo-for-pressure-washing"
+  ]
+ },
+ "local-seo-checklist": {
+  "context": [
+   "google-business-profile-holiday-hours",
+   "google-business-profile-categories",
+   "how-to-respond-to-google-reviews",
+   "how-to-get-more-google-reviews",
+   "google-business-profile-optimization-orange-county"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "30-day-ai-search-plan-orange-county",
+   "google-business-profile-suspended",
+   "google-business-profile-photos",
+   "how-to-choose-a-geo-agency"
+  ]
+ },
+ "seo-for-hvac-companies": {
+  "context": [
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews",
+   "google-business-profile-optimization-orange-county"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-carpet-cleaning",
+   "seo-for-window-cleaning",
+   "seo-for-pressure-washing",
+   "seo-for-contractors"
+  ]
+ },
+ "seo-for-immigration-lawyers": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "google-local-services-ads-vs-seo",
+   "how-to-remove-fake-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-personal-injury-lawyers",
+   "seo-for-estate-planning-attorneys",
+   "seo-for-criminal-defense-lawyers"
+  ]
+ },
+ "seo-for-criminal-defense-lawyers": {
+  "context": [
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "google-local-services-ads-vs-seo",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-immigration-lawyers",
+   "geo-for-law-firms",
+   "seo-for-estate-planning-attorneys"
+  ]
+ },
+ "google-business-profile-categories": {
+  "context": [
+   "how-to-get-more-google-reviews",
+   "schema-markup-for-ai-search",
+   "how-to-rank-in-chatgpt",
+   "gemini-seo",
+   "nap-consistency-local-citations"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "30-day-ai-search-plan-orange-county",
+   "google-business-profile-service-area",
+   "google-business-profile-photos",
+   "google-business-profile-holiday-hours"
+  ]
+ },
+ "seo-costa-mesa": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "how-to-remove-fake-google-reviews",
+   "how-to-respond-to-google-reviews",
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "30-day-ai-search-plan-orange-county",
+   "seo-company-orange-county",
+   "seo-company-anaheim",
+   "seo-newport-beach"
+  ]
+ },
+ "seo-irvine": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "how-to-remove-fake-google-reviews",
+   "how-to-respond-to-google-reviews",
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "30-day-ai-search-plan-orange-county",
+   "seo-fullerton",
+   "seo-huntington-beach",
+   "seo-company-anaheim"
+  ]
+ },
+ "seo-for-property-management": {
+  "context": [
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews",
+   "google-business-profile-optimization-orange-county"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-carpet-cleaning",
+   "seo-for-window-cleaning",
+   "seo-for-hvac-companies",
+   "seo-for-pressure-washing"
+  ]
+ },
+ "seo-for-law-firms-orange-county": {
+  "context": [
+   "google-business-profile-service-area",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews",
+   "google-business-profile-optimization-orange-county",
+   "schema-markup-for-ai-search"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-accountants"
+  ]
+ },
+ "gemini-seo": {
+  "context": [
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "google-business-profile-optimization-orange-county",
+   "schema-markup-for-ai-search",
+   "robots-txt-for-ai-crawlers"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "google-october-2026-ai-updates-local-business",
+   "how-to-get-cited-by-claude",
+   "how-to-check-if-chatgpt-mentions-your-brand",
+   "how-to-rank-in-chatgpt"
+  ]
+ },
+ "seo-for-chiropractors": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-dermatologists",
+   "seo-for-physical-therapists",
+   "seo-for-doctors",
+   "seo-for-orthodontists"
+  ]
+ },
+ "geo-for-b2b-saas": {
+  "context": [
+   "schema-markup-for-ai-search",
+   "best-practices-for-llms-txt",
+   "robots-txt-for-ai-crawlers",
+   "perplexity-seo",
+   "microsoft-copilot-seo"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "ai-search-for-b2b-lead-generation",
+   "seo-for-it-companies",
+   "geo-for-manufacturers",
+   "geo-for-startups"
+  ]
+ },
+ "author-pages-for-eeat": {
+  "context": [
+   "google-business-profile-optimization-orange-county",
+   "schema-markup-for-ai-search",
+   "eeat-for-ai-search",
+   "how-to-track-ai-traffic-in-google-analytics",
+   "what-is-generative-engine-optimization-and-how-does-it-work"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "google-seo-learning-paths-small-business",
+   "faq-pages-for-ai-search",
+   "how-to-write-comparison-pages",
+   "entity-seo-for-ai-search"
+  ]
+ },
+ "seo-company-anaheim": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews",
+   "google-business-profile-optimization-orange-county"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "30-day-ai-search-plan-orange-county",
+   "seo-santa-ana",
+   "seo-company-orange-county",
+   "seo-irvine"
+  ]
+ },
+ "seo-for-tutoring-centers": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-local-services-ads-vs-seo",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": []
+ },
+ "internal-linking-for-ai-search": {
+  "context": [
+   "best-practices-for-llms-txt",
+   "robots-txt-for-ai-crawlers",
+   "ai-crawler-user-agents",
+   "search-console-generative-ai-performance-report",
+   "what-is-generative-engine-optimization-and-how-does-it-work"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "google-seo-learning-paths-small-business",
+   "press-releases-for-ai-search",
+   "geo-for-multi-location-businesses",
+   "reddit-for-ai-search"
+  ]
+ },
+ "youtube-for-ai-search": {
+  "context": [
+   "google-business-profile-optimization-orange-county",
+   "how-to-rank-in-chatgpt",
+   "wikipedia-and-wikidata-for-ai-search",
+   "reddit-for-ai-search",
+   "how-to-track-ai-traffic-in-google-analytics"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "search-console-generative-ai-performance-report",
+   "how-to-get-on-best-of-lists",
+   "digital-pr-for-ai-search",
+   "generative-engine-optimization-agency"
+  ]
+ },
+ "what-is-llm-seo": {
+  "context": [
+   "how-to-get-more-google-reviews",
+   "schema-markup-for-ai-search",
+   "best-practices-for-llms-txt",
+   "robots-txt-for-ai-crawlers",
+   "perplexity-seo"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "gemini-4-carbon-ai-mode-local-business",
+   "ai-overviews-vs-featured-snippets",
+   "chatgpt-search-vs-google",
+   "microsoft-copilot-seo"
+  ]
+ },
+ "seo-for-tree-service-companies": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-remove-fake-google-reviews",
+   "how-to-respond-to-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-junk-removal",
+   "seo-for-handyman-services",
+   "seo-for-pool-service-companies",
+   "seo-for-fence-companies"
+  ]
+ },
+ "seo-for-handyman-services": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "google-ai-mode-hotel-booking-anaheim",
+   "seo-for-tree-service-companies",
+   "seo-for-junk-removal",
+   "seo-for-fence-companies"
+  ]
+ },
+ "how-long-should-content-be-for-ai-search": {
+  "context": [
+   "how-to-show-up-in-google-ai-overviews",
+   "how-to-optimize-for-google-ai-mode",
+   "what-is-query-fan-out",
+   "what-is-generative-engine-optimization-and-how-does-it-work"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "google-seo-learning-paths-small-business",
+   "geo-content-strategy",
+   "how-to-write-comparison-pages",
+   "topical-authority-for-ai-search"
+  ]
+ },
+ "core-web-vitals-for-local-businesses": {
+  "context": [
+   "ai-crawler-user-agents",
+   "nap-consistency-local-citations",
+   "search-console-generative-ai-performance-report",
+   "local-seo-orange-county",
+   "seo-irvine"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "30-day-ai-search-plan-orange-county",
+   "local-business-schema-for-ai-search",
+   "how-to-remove-fake-google-reviews",
+   "seo-huntington-beach"
+  ]
+ },
+ "seo-for-cleaning-companies": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "how-to-remove-fake-google-reviews",
+   "how-to-respond-to-google-reviews",
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-pool-service-companies",
+   "seo-for-water-damage-restoration",
+   "seo-for-fence-companies",
+   "seo-for-pressure-washing"
+  ]
+ },
+ "how-to-get-more-google-reviews": {
+  "context": [
+   "how-to-remove-fake-google-reviews",
+   "seo-fullerton"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "30-day-ai-search-plan-orange-county",
+   "google-business-profile-service-area",
+   "local-seo-keywords",
+   "google-business-profile-categories"
+  ]
+ },
+ "ai-overviews-vs-featured-snippets": {
+  "context": [
+   "how-to-show-up-in-google-ai-overviews",
+   "what-is-query-fan-out",
+   "search-console-generative-ai-performance-report",
+   "what-is-generative-engine-optimization-and-how-does-it-work"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "google-ai-mode-inline-links-update",
+   "what-is-llm-seo",
+   "robots-txt-for-ai-crawlers",
+   "microsoft-copilot-seo"
+  ]
+ },
+ "ai-seo-for-small-business": {
+  "context": [
+   "how-to-get-more-google-reviews",
+   "robots-txt-for-ai-crawlers",
+   "ai-crawler-user-agents",
+   "how-to-optimize-for-google-ai-mode",
+   "perplexity-seo"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "ai-visibility-audit",
+   "generative-engine-optimization-agency",
+   "geo-for-multi-location-businesses",
+   "reddit-for-ai-search"
+  ]
+ },
+ "seo-for-locksmiths": {
+  "context": [
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews",
+   "google-business-profile-optimization-orange-county"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-garage-door-companies",
+   "seo-for-electricians",
+   "seo-for-pressure-washing",
+   "seo-for-cleaning-companies"
+  ]
+ },
+ "how-to-track-ai-traffic-in-google-analytics": {
+  "context": [
+   "how-to-show-up-in-google-ai-overviews",
+   "perplexity-seo",
+   "microsoft-copilot-seo",
+   "how-to-optimize-for-meta-ai",
+   "how-to-rank-in-chatgpt"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "search-console-generative-ai-performance-report",
+   "how-to-track-ai-visibility",
+   "ai-share-of-voice",
+   "ai-seo-for-small-business"
+  ]
+ },
+ "geo-for-multi-location-businesses": {
+  "context": [
+   "google-business-profile-holiday-hours",
+   "google-business-profile-optimization-orange-county",
+   "local-business-schema-for-ai-search",
+   "schema-markup-for-ai-search",
+   "what-is-generative-engine-optimization-and-how-does-it-work"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "google-seo-learning-paths-small-business",
+   "ai-seo-for-small-business",
+   "internal-linking-for-ai-search",
+   "ai-visibility-audit"
+  ]
+ },
+ "geo-mistakes-to-avoid": {
+  "context": [
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews",
+   "best-practices-for-llms-txt",
+   "robots-txt-for-ai-crawlers",
+   "ai-crawler-user-agents"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "search-console-generative-ai-performance-report",
+   "ai-search-optimization-checklist",
+   "ai-visibility-audit",
+   "geo-vs-ppc"
+  ]
+ },
+ "seo-for-tattoo-shops": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "google-local-services-ads-vs-seo",
+   "how-to-remove-fake-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-gyms",
+   "seo-for-yoga-studios",
+   "seo-for-martial-arts-schools",
+   "seo-for-dog-groomers"
+  ]
+ },
+ "ai-search-for-b2b-lead-generation": {
+  "context": [
+   "how-to-write-comparison-pages",
+   "what-is-generative-engine-optimization-and-how-does-it-work"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "geo-for-financial-advisors",
+   "geo-for-startups",
+   "geo-for-manufacturers",
+   "geo-for-real-estate-agents"
+  ]
+ },
+ "ai-crawler-user-agents": {
+  "context": [
+   "robots-txt-for-ai-crawlers",
+   "how-to-show-up-in-google-ai-overviews",
+   "perplexity-seo",
+   "microsoft-copilot-seo",
+   "how-to-rank-in-chatgpt"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "how-chatgpt-recommends-local-businesses",
+   "businesses-in-chatgpt-claim-your-business",
+   "gemini-task-automation-bookings-anaheim",
+   "google-search-profiles-local-brands"
+  ]
+ },
+ "wikipedia-and-wikidata-for-ai-search": {
+  "context": [
+   "how-to-get-more-google-reviews",
+   "schema-markup-for-ai-search",
+   "reddit-for-ai-search",
+   "youtube-for-ai-search"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "google-seo-learning-paths-small-business",
+   "ai-share-of-voice",
+   "how-to-get-brand-mentions-for-ai-search",
+   "what-is-generative-engine-optimization-and-how-does-it-work"
+  ]
+ },
+ "seo-for-wedding-venues": {
+  "context": [
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews",
+   "google-business-profile-optimization-orange-county"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "google-ai-mode-hotel-booking-anaheim",
+   "seo-for-restaurants-orange-county",
+   "seo-for-bakeries",
+   "holiday-travel-search-trends-anaheim-2026"
+  ]
+ },
+ "seo-for-estate-planning-attorneys": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "google-local-services-ads-vs-seo",
+   "how-to-remove-fake-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-personal-injury-lawyers",
+   "seo-for-immigration-lawyers",
+   "seo-for-criminal-defense-lawyers"
+  ]
+ },
+ "seo-for-optometrists": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "how-to-remove-fake-google-reviews",
+   "how-to-respond-to-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-dentists-orange-county",
+   "seo-for-doctors",
+   "seo-for-orthodontists",
+   "seo-for-dermatologists"
+  ]
+ }
+}
