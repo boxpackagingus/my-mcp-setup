@@ -200,13 +200,17 @@
   "category": "Search Console",
   "slot": 3,
   "hero_image": {
-    "id": 1259,
-    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/search-console-generative-ai-performance-report-chimera.jpg",
-    "alt": "Search Console Generative AI Performance Report: illustration with the AI platforms covered in this guide",
+    "id": 1364,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/search-console-generative-ai-performance-report-banner-1.jpg",
+    "alt": "Search Console's Generative AI Performance Report: How to See Your AI Overviews and AI Mode Visibility: banner photo",
     "width": 1600,
-    "height": 840
+    "height": 760
   },
   "published": "2026-11-11",
   "updated": "2026-11-11",
-  "parent_id": 709
+  "parent_id": 709,
+  "banner": {
+    "headline": "Search Console's Generative AI Report:",
+    "sub": "See Your AI Overviews and AI Mode Visibility"
+  }
 }

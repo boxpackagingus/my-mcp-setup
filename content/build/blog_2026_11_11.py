@@ -243,6 +243,10 @@ blog(5, "SEO learning",
      hero_query="Where can I learn SEO for free from Google?"),
 ]
 
+for p in PAGES:
+    if p["slug"] == "search-console-generative-ai-performance-report":
+        p["banner"] = {"headline": "Search Console's Generative AI Report:", "sub": "See Your AI Overviews and AI Mode Visibility"}
+
 EXTRA = {
 "gemini-4-carbon-ai-mode-local-business": [
  ("Safety and security", "<p>Google's announcement also covers progress in model safety and security, and Carbon was first released to cybersecurity defenders. For small businesses, the practical lesson is the same as with every stronger model: protect your Business Profile, website and email with multi-factor authentication, because capable AI helps defenders and attackers alike.</p>")],

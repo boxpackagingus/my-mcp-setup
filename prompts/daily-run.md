@@ -114,6 +114,15 @@ figures on the Anaheim and Orange County Wikipedia articles).
 > the rendered Chimera banner from `python -m engine heroes`, and guide pages keep their rendered banners. From
 > 2026-12-01, resume: blog banner photos first, then pages in `data/photos_todo.json`, at about 25 images per day
 > until the month's allowance runs out.
+>
+> **Blog banner photos until then (Unsplash):** every blog post still gets a real photo banner. Kittl has no tokens
+> and Canva only returns thumbnails, so use free Unsplash photos (license allows commercial use, no attribution
+> needed): download from `https://images.unsplash.com/photo-<id>?w=2400&q=85&fm=jpg` (the search API needs a key, so
+> pick known photo IDs and check each one visually; never use plus.unsplash.com images). Crop to 1600x760 with the
+> subject on the right (mirror if needed), blur any logo or readable text with a soft-edged mask, save as
+> `content/build/banner_photos/<slug>.jpg`, then run `python -m engine heroes`. If the SEO title has no colon, set
+> `"banner": {"headline": ..., "sub": ...}` on the spec. Photos used on 2026-11-11 are listed in
+> `data/banner_photos_used.json`; do not reuse them.
 
 
 Every day, research, write and publish **30 new guide pages**, in addition to the 5 blog posts below.

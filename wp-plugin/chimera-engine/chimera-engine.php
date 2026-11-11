@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Chimera Engine
  * Description: Support for engine-built landing pages: llms.txt, Markdown copies, robots.txt rules, schema, hub listing, IndexNow, page design, lead form, AI-traffic and lead tracking.
- * Version: 1.7.3
+ * Version: 1.7.4
  * Requires at least: 6.0
  * Requires PHP: 7.4
  * Author: The Chimera AI
@@ -12,7 +12,7 @@ if (!defined('ABSPATH')) {
     exit;
 }
 
-const CHIMERA_ENGINE_VERSION = '1.7.3';
+const CHIMERA_ENGINE_VERSION = '1.7.4';
 
 /* -------------------------------------------------------------
  * 1. Page fields the engine writes through the REST API
@@ -322,6 +322,7 @@ add_filter('the_content', function ($content) {
 require_once __DIR__ . '/includes/leads.php';
 require_once __DIR__ . '/includes/cache.php';
 require_once __DIR__ . '/includes/headings.php';
+require_once __DIR__ . '/includes/nav.php';
 
 add_filter('body_class', function ($classes) {
     if (is_singular('page') && chimera_is_engine_page()) {
