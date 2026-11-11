@@ -19,7 +19,7 @@ function chimera_draws_own_title($post_id = null)
         return false;
     }
     $c = (string) $post->post_content;
-    return strpos($c, 'cpb-band') !== false || strpos($c, 'cpbi-band') !== false;
+    return strpos($c, 'cpb-band') !== false || strpos($c, 'cpbi-band') !== false || strpos($c, 'cph-hero') !== false;
 }
 
 add_filter('hello_elementor_page_title', function ($show) {
