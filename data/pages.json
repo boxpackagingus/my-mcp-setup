@@ -115,8 +115,8 @@
     "leads_28d": 0,
     "ai_sources": {},
     "clicks_28d": 0,
-    "impressions_28d": 40,
-    "position_28d": 58.7,
+    "impressions_28d": 41,
+    "position_28d": 59.2,
     "form_leads_28d": 0
   },
   {
@@ -1062,8 +1062,8 @@
     "leads_28d": 0,
     "ai_sources": {},
     "clicks_28d": 0,
-    "impressions_28d": 24,
-    "position_28d": 85,
+    "impressions_28d": 25,
+    "position_28d": 84.5,
     "form_leads_28d": 0
   },
   {
@@ -3164,7 +3164,15 @@
     "published": "2026-11-06",
     "primary_keyword": "AI crawler user agents",
     "volume": null,
-    "words": 1232
+    "words": 1232,
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 7,
+    "position_28d": 43.7,
+    "form_leads_28d": 0
   },
   {
     "indexnow": "Sent 2026-11-11",
@@ -3179,7 +3187,15 @@
     "published": "2026-11-06",
     "primary_keyword": "AI search for B2B lead generation",
     "volume": null,
-    "words": 1224
+    "words": 1224,
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "form_leads_28d": 0
   },
   {
     "indexnow": "Sent 2026-11-11",
@@ -3194,7 +3210,15 @@
     "published": "2026-11-06",
     "primary_keyword": "AI search optimization checklist",
     "volume": null,
-    "words": 1232
+    "words": 1232,
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "form_leads_28d": 0
   },
   {
     "indexnow": "Sent 2026-11-11",
@@ -3209,7 +3233,15 @@
     "published": "2026-11-10",
     "primary_keyword": "AI SEO for small business",
     "volume": null,
-    "words": 1214
+    "words": 1214,
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "form_leads_28d": 0
   },
   {
     "kind": "guide",
@@ -3222,7 +3254,17 @@
     "primary_keyword": "Core Web Vitals",
     "volume": null,
     "words": 1233,
-    "indexnow": "Sent 2026-11-11"
+    "indexnow": "Sent 2026-11-11",
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "index_verdict": "NEUTRAL",
+    "index_coverage": "No search impressions yet",
+    "form_leads_28d": 0
   },
   {
     "kind": "blog",
@@ -3235,7 +3277,17 @@
     "primary_keyword": "Gemini 4 Carbon",
     "volume": null,
     "words": 1249,
-    "indexnow": "Sent 2026-11-11"
+    "indexnow": "Sent 2026-11-11",
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "index_verdict": "NEUTRAL",
+    "index_coverage": "No search impressions yet",
+    "form_leads_28d": 0
   },
   {
     "indexnow": "Sent 2026-11-11",
@@ -3251,7 +3303,15 @@
     "published": "2026-11-06",
     "primary_keyword": "GEO for home service businesses",
     "volume": null,
-    "words": 1212
+    "words": 1212,
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 1,
+    "position_28d": 64,
+    "form_leads_28d": 0
   },
   {
     "indexnow": "Sent 2026-11-11",
@@ -3267,7 +3327,15 @@
     "published": "2026-11-06",
     "primary_keyword": "GEO for law firms",
     "volume": null,
-    "words": 1238
+    "words": 1238,
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 5,
+    "position_28d": 78,
+    "form_leads_28d": 0
   },
   {
     "indexnow": "Sent 2026-11-11",
@@ -3283,7 +3351,15 @@
     "published": "2026-11-06",
     "primary_keyword": "GEO for restaurants",
     "volume": null,
-    "words": 1204
+    "words": 1204,
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 1,
+    "position_28d": 7,
+    "form_leads_28d": 0
   },
   {
     "indexnow": "Sent 2026-11-11",
@@ -3299,7 +3375,15 @@
     "published": "2026-11-06",
     "primary_keyword": "GEO vs PPC",
     "volume": null,
-    "words": 1214
+    "words": 1214,
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 3,
+    "position_28d": 5.7,
+    "form_leads_28d": 0
   },
   {
     "kind": "blog",
@@ -3312,7 +3396,17 @@
     "primary_keyword": "AI training control in robots.txt",
     "volume": null,
     "words": 1251,
-    "indexnow": "Sent 2026-11-11"
+    "indexnow": "Sent 2026-11-11",
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "index_verdict": "NEUTRAL",
+    "index_coverage": "No search impressions yet",
+    "form_leads_28d": 0
   },
   {
     "kind": "guide",
@@ -3325,7 +3419,17 @@
     "primary_keyword": "Google Business Profile categories",
     "volume": null,
     "words": 1223,
-    "indexnow": "Sent 2026-11-11"
+    "indexnow": "Sent 2026-11-11",
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "index_verdict": "NEUTRAL",
+    "index_coverage": "No search impressions yet",
+    "form_leads_28d": 0
   },
   {
     "kind": "guide",
@@ -3338,7 +3442,17 @@
     "primary_keyword": "Google Business Profile holiday hours",
     "volume": null,
     "words": 1251,
-    "indexnow": "Sent 2026-11-11"
+    "indexnow": "Sent 2026-11-11",
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "index_verdict": "NEUTRAL",
+    "index_coverage": "No search impressions yet",
+    "form_leads_28d": 0
   },
   {
     "indexnow": "Sent 2026-11-11",
@@ -3353,7 +3467,15 @@
     "published": "2026-11-10",
     "primary_keyword": "Google Business Profile optimization",
     "volume": null,
-    "words": 1221
+    "words": 1221,
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "form_leads_28d": 0
   },
   {
     "kind": "guide",
@@ -3366,7 +3488,17 @@
     "primary_keyword": "Google Business Profile photos",
     "volume": null,
     "words": 1217,
-    "indexnow": "Sent 2026-11-11"
+    "indexnow": "Sent 2026-11-11",
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "index_verdict": "NEUTRAL",
+    "index_coverage": "No search impressions yet",
+    "form_leads_28d": 0
   },
   {
     "kind": "guide",
@@ -3379,7 +3511,17 @@
     "primary_keyword": "Google Business Profile posts",
     "volume": null,
     "words": 1236,
-    "indexnow": "Sent 2026-11-11"
+    "indexnow": "Sent 2026-11-11",
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "index_verdict": "NEUTRAL",
+    "index_coverage": "No search impressions yet",
+    "form_leads_28d": 0
   },
   {
     "kind": "guide",
@@ -3392,7 +3534,17 @@
     "primary_keyword": "Google Business Profile service area",
     "volume": null,
     "words": 1293,
-    "indexnow": "Sent 2026-11-11"
+    "indexnow": "Sent 2026-11-11",
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "index_verdict": "NEUTRAL",
+    "index_coverage": "No search impressions yet",
+    "form_leads_28d": 0
   },
   {
     "kind": "guide",
@@ -3405,7 +3557,17 @@
     "primary_keyword": "Google Business Profile suspended",
     "volume": null,
     "words": 1287,
-    "indexnow": "Sent 2026-11-11"
+    "indexnow": "Sent 2026-11-11",
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "index_verdict": "NEUTRAL",
+    "index_coverage": "No search impressions yet",
+    "form_leads_28d": 0
   },
   {
     "kind": "guide",
@@ -3418,7 +3580,17 @@
     "primary_keyword": "Google Business Profile verification",
     "volume": null,
     "words": 1261,
-    "indexnow": "Sent 2026-11-11"
+    "indexnow": "Sent 2026-11-11",
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "index_verdict": "NEUTRAL",
+    "index_coverage": "No search impressions yet",
+    "form_leads_28d": 0
   },
   {
     "kind": "guide",
@@ -3431,7 +3603,17 @@
     "primary_keyword": "Local Services Ads vs SEO",
     "volume": null,
     "words": 1268,
-    "indexnow": "Sent 2026-11-11"
+    "indexnow": "Sent 2026-11-11",
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "index_verdict": "NEUTRAL",
+    "index_coverage": "No search impressions yet",
+    "form_leads_28d": 0
   },
   {
     "kind": "blog",
@@ -3444,7 +3626,17 @@
     "primary_keyword": "SEO learning paths",
     "volume": null,
     "words": 1236,
-    "indexnow": "Sent 2026-11-11"
+    "indexnow": "Sent 2026-11-11",
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "index_verdict": "NEUTRAL",
+    "index_coverage": "No search impressions yet",
+    "form_leads_28d": 0
   },
   {
     "indexnow": "Sent 2026-11-11",
@@ -3459,7 +3651,15 @@
     "published": "2026-11-10",
     "primary_keyword": "get more Google reviews",
     "volume": null,
-    "words": 1229
+    "words": 1229,
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "form_leads_28d": 0
   },
   {
     "indexnow": "Sent 2026-11-11",
@@ -3475,7 +3675,15 @@
     "published": "2026-11-05",
     "primary_keyword": "measure GEO results",
     "volume": null,
-    "words": 1276
+    "words": 1276,
+    "sessions_28d": 2.0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 1,
+    "impressions_28d": 7,
+    "position_28d": 51.7,
+    "form_leads_28d": 0
   },
   {
     "indexnow": "Sent 2026-11-11",
@@ -3491,7 +3699,15 @@
     "published": "2026-11-05",
     "primary_keyword": "Google AI Mode",
     "volume": null,
-    "words": 1237
+    "words": 1237,
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 1,
+    "position_28d": 29,
+    "form_leads_28d": 0
   },
   {
     "kind": "guide",
@@ -3504,7 +3720,17 @@
     "primary_keyword": "remove fake Google reviews",
     "volume": null,
     "words": 1223,
-    "indexnow": "Sent 2026-11-11"
+    "indexnow": "Sent 2026-11-11",
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "index_verdict": "NEUTRAL",
+    "index_coverage": "No search impressions yet",
+    "form_leads_28d": 0
   },
   {
     "indexnow": "Sent 2026-11-11",
@@ -3519,7 +3745,15 @@
     "published": "2026-11-10",
     "primary_keyword": "respond to Google reviews",
     "volume": null,
-    "words": 1234
+    "words": 1234,
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "form_leads_28d": 0
   },
   {
     "indexnow": "Sent 2026-11-11",
@@ -3534,7 +3768,15 @@
     "published": "2026-11-06",
     "primary_keyword": "track AI visibility",
     "volume": null,
-    "words": 1206
+    "words": 1206,
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "form_leads_28d": 0
   },
   {
     "indexnow": "Sent 2026-11-11",
@@ -3549,7 +3791,15 @@
     "published": "2026-11-10",
     "primary_keyword": "local SEO checklist",
     "volume": null,
-    "words": 1221
+    "words": 1221,
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "form_leads_28d": 0
   },
   {
     "indexnow": "Sent 2026-11-11",
@@ -3564,7 +3814,15 @@
     "published": "2026-11-10",
     "primary_keyword": "local SEO Orange County",
     "volume": null,
-    "words": 1263
+    "words": 1263,
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "form_leads_28d": 0
   },
   {
     "indexnow": "Sent 2026-11-11",
@@ -3579,7 +3837,15 @@
     "published": "2026-11-06",
     "primary_keyword": "product pages for AI shopping",
     "volume": null,
-    "words": 1208
+    "words": 1208,
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "form_leads_28d": 0
   },
   {
     "indexnow": "Sent 2026-11-11",
@@ -3595,7 +3861,15 @@
     "published": "2026-11-05",
     "primary_keyword": "robots.txt for AI crawlers",
     "volume": null,
-    "words": 1274
+    "words": 1274,
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 2,
+    "position_28d": 53,
+    "form_leads_28d": 0
   },
   {
     "kind": "blog",
@@ -3608,7 +3882,17 @@
     "primary_keyword": "generative AI performance report",
     "volume": null,
     "words": 1219,
-    "indexnow": "Sent 2026-11-11"
+    "indexnow": "Sent 2026-11-11",
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "index_verdict": "NEUTRAL",
+    "index_coverage": "No search impressions yet",
+    "form_leads_28d": 0
   },
   {
     "kind": "blog",
@@ -3621,7 +3905,17 @@
     "primary_keyword": "multimodal search in Search Console",
     "volume": null,
     "words": 1230,
-    "indexnow": "Sent 2026-11-11"
+    "indexnow": "Sent 2026-11-11",
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "index_verdict": "NEUTRAL",
+    "index_coverage": "No search impressions yet",
+    "form_leads_28d": 0
   },
   {
     "kind": "guide",
@@ -3634,7 +3928,17 @@
     "primary_keyword": "SEO for architects",
     "volume": null,
     "words": 1289,
-    "indexnow": "Sent 2026-11-11"
+    "indexnow": "Sent 2026-11-11",
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "index_verdict": "NEUTRAL",
+    "index_coverage": "No search impressions yet",
+    "form_leads_28d": 0
   },
   {
     "indexnow": "Sent 2026-11-11",
@@ -3649,7 +3953,15 @@
     "published": "2026-11-10",
     "primary_keyword": "SEO for auto detailing",
     "volume": null,
-    "words": 1219
+    "words": 1219,
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "form_leads_28d": 0
   },
   {
     "kind": "guide",
@@ -3662,7 +3974,17 @@
     "primary_keyword": "SEO for bakeries",
     "volume": null,
     "words": 1498,
-    "indexnow": "Sent 2026-11-11"
+    "indexnow": "Sent 2026-11-11",
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "index_verdict": "NEUTRAL",
+    "index_coverage": "No search impressions yet",
+    "form_leads_28d": 0
   },
   {
     "indexnow": "Sent 2026-11-11",
@@ -3677,7 +3999,15 @@
     "published": "2026-11-10",
     "primary_keyword": "SEO for bathroom remodelers",
     "volume": null,
-    "words": 1209
+    "words": 1209,
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "form_leads_28d": 0
   },
   {
     "kind": "guide",
@@ -3690,7 +4020,17 @@
     "primary_keyword": "SEO for car washes",
     "volume": null,
     "words": 1358,
-    "indexnow": "Sent 2026-11-11"
+    "indexnow": "Sent 2026-11-11",
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "index_verdict": "NEUTRAL",
+    "index_coverage": "No search impressions yet",
+    "form_leads_28d": 0
   },
   {
     "indexnow": "Sent 2026-11-11",
@@ -3705,7 +4045,15 @@
     "published": "2026-11-10",
     "primary_keyword": "SEO for chiropractors",
     "volume": null,
-    "words": 1277
+    "words": 1277,
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "form_leads_28d": 0
   },
   {
     "kind": "guide",
@@ -3718,7 +4066,17 @@
     "primary_keyword": "SEO for coffee shops",
     "volume": null,
     "words": 1430,
-    "indexnow": "Sent 2026-11-11"
+    "indexnow": "Sent 2026-11-11",
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "index_verdict": "NEUTRAL",
+    "index_coverage": "No search impressions yet",
+    "form_leads_28d": 0
   },
   {
     "indexnow": "Sent 2026-11-11",
@@ -3733,7 +4091,15 @@
     "published": "2026-11-10",
     "primary_keyword": "SEO for contractors",
     "volume": null,
-    "words": 1334
+    "words": 1334,
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "form_leads_28d": 0
   },
   {
     "kind": "guide",
@@ -3746,7 +4112,17 @@
     "primary_keyword": "SEO for criminal defense lawyers",
     "volume": null,
     "words": 1303,
-    "indexnow": "Sent 2026-11-11"
+    "indexnow": "Sent 2026-11-11",
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "index_verdict": "NEUTRAL",
+    "index_coverage": "No search impressions yet",
+    "form_leads_28d": 0
   },
   {
     "kind": "guide",
@@ -3759,7 +4135,17 @@
     "primary_keyword": "SEO for estate planning attorneys",
     "volume": null,
     "words": 1326,
-    "indexnow": "Sent 2026-11-11"
+    "indexnow": "Sent 2026-11-11",
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "index_verdict": "NEUTRAL",
+    "index_coverage": "No search impressions yet",
+    "form_leads_28d": 0
   },
   {
     "kind": "guide",
@@ -3772,7 +4158,17 @@
     "primary_keyword": "SEO for event planners",
     "volume": null,
     "words": 1281,
-    "indexnow": "Sent 2026-11-11"
+    "indexnow": "Sent 2026-11-11",
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "index_verdict": "NEUTRAL",
+    "index_coverage": "No search impressions yet",
+    "form_leads_28d": 0
   },
   {
     "kind": "guide",
@@ -3785,7 +4181,17 @@
     "primary_keyword": "SEO for fence companies",
     "volume": null,
     "words": 1295,
-    "indexnow": "Sent 2026-11-11"
+    "indexnow": "Sent 2026-11-11",
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "index_verdict": "NEUTRAL",
+    "index_coverage": "No search impressions yet",
+    "form_leads_28d": 0
   },
   {
     "indexnow": "Sent 2026-11-11",
@@ -3800,7 +4206,15 @@
     "published": "2026-11-10",
     "primary_keyword": "SEO for gyms",
     "volume": null,
-    "words": 1262
+    "words": 1262,
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "form_leads_28d": 0
   },
   {
     "indexnow": "Sent 2026-11-11",
@@ -3815,7 +4229,15 @@
     "published": "2026-11-10",
     "primary_keyword": "SEO for home builders",
     "volume": null,
-    "words": 1213
+    "words": 1213,
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "form_leads_28d": 0
   },
   {
     "indexnow": "Sent 2026-11-11",
@@ -3830,7 +4252,15 @@
     "published": "2026-11-10",
     "primary_keyword": "SEO for hotels",
     "volume": null,
-    "words": 1274
+    "words": 1274,
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "form_leads_28d": 0
   },
   {
     "kind": "guide",
@@ -3843,7 +4273,17 @@
     "primary_keyword": "SEO for immigration lawyers",
     "volume": null,
     "words": 1344,
-    "indexnow": "Sent 2026-11-11"
+    "indexnow": "Sent 2026-11-11",
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "index_verdict": "NEUTRAL",
+    "index_coverage": "No search impressions yet",
+    "form_leads_28d": 0
   },
   {
     "indexnow": "Sent 2026-11-11",
@@ -3858,7 +4298,15 @@
     "published": "2026-11-10",
     "primary_keyword": "SEO for interior designers",
     "volume": null,
-    "words": 1241
+    "words": 1241,
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "form_leads_28d": 0
   },
   {
     "kind": "guide",
@@ -3871,7 +4319,17 @@
     "primary_keyword": "SEO for IT companies",
     "volume": null,
     "words": 1285,
-    "indexnow": "Sent 2026-11-11"
+    "indexnow": "Sent 2026-11-11",
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "index_verdict": "NEUTRAL",
+    "index_coverage": "No search impressions yet",
+    "form_leads_28d": 0
   },
   {
     "kind": "guide",
@@ -3884,7 +4342,17 @@
     "primary_keyword": "SEO for kitchen remodelers",
     "volume": null,
     "words": 1323,
-    "indexnow": "Sent 2026-11-11"
+    "indexnow": "Sent 2026-11-11",
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "index_verdict": "NEUTRAL",
+    "index_coverage": "No search impressions yet",
+    "form_leads_28d": 0
   },
   {
     "indexnow": "Sent 2026-11-11",
@@ -3899,7 +4367,15 @@
     "published": "2026-11-10",
     "primary_keyword": "SEO for landscapers",
     "volume": null,
-    "words": 1279
+    "words": 1279,
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "form_leads_28d": 0
   },
   {
     "indexnow": "Sent 2026-11-11",
@@ -3914,7 +4390,15 @@
     "published": "2026-11-10",
     "primary_keyword": "SEO for law firms",
     "volume": null,
-    "words": 1242
+    "words": 1242,
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "form_leads_28d": 0
   },
   {
     "kind": "guide",
@@ -3927,7 +4411,17 @@
     "primary_keyword": "SEO for massage therapists",
     "volume": null,
     "words": 1299,
-    "indexnow": "Sent 2026-11-11"
+    "indexnow": "Sent 2026-11-11",
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "index_verdict": "NEUTRAL",
+    "index_coverage": "No search impressions yet",
+    "form_leads_28d": 0
   },
   {
     "indexnow": "Sent 2026-11-11",
@@ -3942,7 +4436,15 @@
     "published": "2026-11-10",
     "primary_keyword": "SEO for moving companies",
     "volume": null,
-    "words": 1266
+    "words": 1266,
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "form_leads_28d": 0
   },
   {
     "indexnow": "Sent 2026-11-11",
@@ -3957,7 +4459,15 @@
     "published": "2026-11-10",
     "primary_keyword": "SEO for personal injury lawyers",
     "volume": null,
-    "words": 1268
+    "words": 1268,
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "form_leads_28d": 0
   },
   {
     "indexnow": "Sent 2026-11-11",
@@ -3972,7 +4482,15 @@
     "published": "2026-11-10",
     "primary_keyword": "SEO for plumbers",
     "volume": null,
-    "words": 1674
+    "words": 1674,
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "form_leads_28d": 0
   },
   {
     "kind": "guide",
@@ -3985,7 +4503,17 @@
     "primary_keyword": "SEO for pressure washing",
     "volume": null,
     "words": 1293,
-    "indexnow": "Sent 2026-11-11"
+    "indexnow": "Sent 2026-11-11",
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "index_verdict": "NEUTRAL",
+    "index_coverage": "No search impressions yet",
+    "form_leads_28d": 0
   },
   {
     "indexnow": "Sent 2026-11-11",
@@ -4000,7 +4528,15 @@
     "published": "2026-11-10",
     "primary_keyword": "SEO for private schools",
     "volume": null,
-    "words": 1214
+    "words": 1214,
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "form_leads_28d": 0
   },
   {
     "indexnow": "Sent 2026-11-11",
@@ -4015,7 +4551,15 @@
     "published": "2026-11-10",
     "primary_keyword": "SEO for restaurants",
     "volume": null,
-    "words": 1235
+    "words": 1235,
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "form_leads_28d": 0
   },
   {
     "indexnow": "Sent 2026-11-11",
@@ -4030,7 +4574,15 @@
     "published": "2026-11-10",
     "primary_keyword": "SEO for salons",
     "volume": null,
-    "words": 1218
+    "words": 1218,
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "form_leads_28d": 0
   },
   {
     "kind": "guide",
@@ -4043,7 +4595,17 @@
     "primary_keyword": "SEO for self storage",
     "volume": null,
     "words": 1316,
-    "indexnow": "Sent 2026-11-11"
+    "indexnow": "Sent 2026-11-11",
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "index_verdict": "NEUTRAL",
+    "index_coverage": "No search impressions yet",
+    "form_leads_28d": 0
   },
   {
     "kind": "guide",
@@ -4056,7 +4618,17 @@
     "primary_keyword": "SEO for staffing agencies",
     "volume": null,
     "words": 1243,
-    "indexnow": "Sent 2026-11-11"
+    "indexnow": "Sent 2026-11-11",
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "index_verdict": "NEUTRAL",
+    "index_coverage": "No search impressions yet",
+    "form_leads_28d": 0
   },
   {
     "kind": "guide",
@@ -4069,7 +4641,17 @@
     "primary_keyword": "SEO for tattoo shops",
     "volume": null,
     "words": 1400,
-    "indexnow": "Sent 2026-11-11"
+    "indexnow": "Sent 2026-11-11",
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "index_verdict": "NEUTRAL",
+    "index_coverage": "No search impressions yet",
+    "form_leads_28d": 0
   },
   {
     "kind": "guide",
@@ -4082,7 +4664,17 @@
     "primary_keyword": "SEO for tutoring",
     "volume": null,
     "words": 1313,
-    "indexnow": "Sent 2026-11-11"
+    "indexnow": "Sent 2026-11-11",
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "index_verdict": "NEUTRAL",
+    "index_coverage": "No search impressions yet",
+    "form_leads_28d": 0
   },
   {
     "kind": "guide",
@@ -4095,7 +4687,17 @@
     "primary_keyword": "SEO for water damage restoration",
     "volume": null,
     "words": 1390,
-    "indexnow": "Sent 2026-11-11"
+    "indexnow": "Sent 2026-11-11",
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "index_verdict": "NEUTRAL",
+    "index_coverage": "No search impressions yet",
+    "form_leads_28d": 0
   },
   {
     "kind": "guide",
@@ -4108,7 +4710,17 @@
     "primary_keyword": "SEO for wedding venues",
     "volume": null,
     "words": 1222,
-    "indexnow": "Sent 2026-11-11"
+    "indexnow": "Sent 2026-11-11",
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "index_verdict": "NEUTRAL",
+    "index_coverage": "No search impressions yet",
+    "form_leads_28d": 0
   },
   {
     "indexnow": "Sent 2026-11-11",
@@ -4123,7 +4735,15 @@
     "published": "2026-11-10",
     "primary_keyword": "SEO for window cleaning",
     "volume": null,
-    "words": 1202
+    "words": 1202,
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "form_leads_28d": 0
   },
   {
     "kind": "guide",
@@ -4136,7 +4756,17 @@
     "primary_keyword": "SEO for yoga studios",
     "volume": null,
     "words": 1315,
-    "indexnow": "Sent 2026-11-11"
+    "indexnow": "Sent 2026-11-11",
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "index_verdict": "NEUTRAL",
+    "index_coverage": "No search impressions yet",
+    "form_leads_28d": 0
   },
   {
     "indexnow": "Sent 2026-11-11",
@@ -4151,6 +4781,14 @@
     "published": "2026-11-10",
     "primary_keyword": "SEO for service-area businesses",
     "volume": null,
-    "words": 1229
+    "words": 1229,
+    "sessions_28d": 0,
+    "ai_sessions_28d": 0,
+    "leads_28d": 0,
+    "ai_sources": {},
+    "clicks_28d": 0,
+    "impressions_28d": 0,
+    "position_28d": null,
+    "form_leads_28d": 0
   }
 ]

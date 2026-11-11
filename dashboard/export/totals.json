@@ -1,15 +1,15 @@
 [
   {
-    "pages_live": 171,
-    "guides_live": 161,
-    "blogs_live": 10,
-    "blogs_today": 0,
+    "pages_live": 206,
+    "guides_live": 191,
+    "blogs_live": 15,
+    "blogs_today": 5,
     "blogs_per_day": 5,
     "blogs_indexed": 1,
     "location": "Anaheim, California · Orange County, California",
-    "keywords_used": 825,
+    "keywords_used": 997,
     "queries_found": 200,
-    "impressions": 347,
+    "impressions": 350,
     "clicks": 1,
     "visits": 39.0,
     "ai_visits": 0,
@@ -19,6 +19,6 @@
     "site_files_total": 4,
     "pages_per_day": 30,
     "google_connected": true,
-    "updated": "2026-11-11T12:41:53Z"
+    "updated": "2026-11-11T13:16:56Z"
   }
 ]
