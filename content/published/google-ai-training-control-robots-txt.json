@@ -1,0 +1,204 @@
+{
+  "query": "ai training control robots.txt",
+  "slug": "google-ai-training-control-robots-txt",
+  "eyebrow": "Google Search",
+  "primary_keyword": "AI training control in robots.txt",
+  "secondary_keywords": [
+    "Google-Extended",
+    "AIPREF robots.txt",
+    "block AI training robots.txt",
+    "opt out of AI training"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "AI Training Control in robots.txt: Google's Plan",
+    "meta_description": "Google plans to support a shared AI training control in robots.txt. What it means for Anaheim and Orange County websites, Google-Extended and AI answers."
+  },
+  "h1": "Google's Shared AI Training Control in robots.txt: What Website Owners Should Know",
+  "answer": "Google plans to support a shared AI training control in robots.txt, based on IETF work, so one setting can tell participating AI providers whether your content may be used for training. Google aims to support it with other providers in 2027. For Anaheim and Orange County businesses, the key point is that opting out of training does not affect Google Search, but it can affect grounding in Gemini Apps.",
+  "key_takeaways": [
+    "Google announced the plan on October 30, 2026.",
+    "A shared policy token in robots.txt would cover participating AI providers.",
+    "Opting out with the token is treated like disallowing Google-Extended.",
+    "Google-Extended does not affect Google Search inclusion or ranking.",
+    "Google aims to support the control in 2027."
+  ],
+  "sections": [
+    {
+      "heading": "What Google announced",
+      "body_html": "<p>On October 30, 2026, Google's Search Central blog announced plans to support a shared AI training control in robots.txt. The idea is to let websites express their AI training preferences across multiple AI providers in one step. Google says the work is based on the AIPREF working group at the Internet Engineering Task Force, the body that develops many internet standards, and builds on Google-Extended, the AI training control Google has offered since 2023.</p>"
+    },
+    {
+      "heading": "How the shared control would work",
+      "body_html": "<p>Instead of writing separate instructions for every AI developer, site owners would add a shared policy token to robots.txt to set broad preferences across participating AI providers. Google says that when a site uses this token to opt out of training, and Google-Extended is not explicitly specified, Google plans to treat it as if the publisher had disallowed Google-Extended. Other providers can handle it the same way, so owners could opt out across all providers at once, or pick and choose.</p>"
+    },
+    {
+      "heading": "Company-specific controls still work",
+      "body_html": "<p>Google says existing company-specific controls will keep working alongside the new joint signal. A site could set a broad preference with the industry token and still tailor instructions for individual AI developers, such as Google through Google-Extended. More specific rules continue to matter.</p>"
+    },
+    {
+      "heading": "What Google-Extended actually controls",
+      "body_html": "<p>Google's crawler documentation describes Google-Extended as a standalone product token that controls whether content Google crawls may be used to train future Gemini models that power Gemini Apps and the Vertex AI API, and for grounding in Gemini Apps and Grounding with Google Search on Vertex AI. Grounding means providing content from the Google Search index to the model when it answers, to improve accuracy and relevance.</p>"
+    },
+    {
+      "heading": "It does not affect Google Search",
+      "body_html": "<p>This is the point most owners worry about. Google's documentation says Google-Extended does not impact a site's inclusion in Google Search and is not used as a ranking signal in Google Search. Opting out of AI training through Google-Extended, or through the planned shared token, is not the same as blocking Googlebot.</p>"
+    },
+    {
+      "heading": "But it can affect Gemini answers",
+      "body_html": "<p>Google's announcement adds an important detail: websites that specifically allow Google-Extended are eligible to appear in responses and receive clicks via grounding in Gemini Apps. A local business that opts out may therefore give up a route to being cited and linked in Gemini's answers, even though its Search rankings are unaffected.</p>"
+    },
+    {
+      "heading": "The decision for local businesses",
+      "body_html": "<table><tr><th>Choice</th><th>Google Search</th><th>Gemini Apps grounding</th></tr><tr><td>Allow (default)</td><td>No effect</td><td>Eligible to appear and receive clicks</td></tr><tr><td>Opt out of training</td><td>No effect</td><td>Treated as disallowing Google-Extended</td></tr></table><p>For most Anaheim and Orange County service businesses, whose goal is to be found and recommended, staying open to AI use is usually the better trade. Publishers who sell their content may weigh it differently.</p>"
+    },
+    {
+      "heading": "When this arrives",
+      "body_html": "<p>Google describes the proposal as a draft that reflects feedback from publishers, civil society groups and regulators, and says it aims to support the new control along with other AI providers in 2027, with updates on progress. Nothing needs to change in your robots.txt today because of this announcement.</p>"
+    },
+    {
+      "heading": "Why it matters beyond Google",
+      "body_html": "<p>Today, each AI company uses its own crawler name, so a site that wants to opt out of training has to list many user agents and keep the list current. A shared token would make one clear choice possible. Google notes the approach is consistent with the EU Code of Practice for general-purpose AI model providers, which recognizes robots.txt as a primary way for publishers to express machine-readable preferences.</p>"
+    },
+    {
+      "heading": "Check your robots.txt now",
+      "body_html": "<ol><li>Open yoursite.com/robots.txt and read every rule.</li><li>Confirm Googlebot is not blocked from pages you want in Search.</li><li>Look for Google-Extended and other AI user agents, and check each rule is intentional.</li><li>Remove leftovers from old plugins or developers that block crawlers you want.</li><li>Write down your policy so future changes are deliberate.</li></ol>"
+    },
+    {
+      "heading": "A worked example",
+      "body_html": "<p>Imagine an Orange County law firm whose developer added a block on every AI user agent years ago, including Google-Extended. The firm's Search rankings were never affected, but it was not eligible to be grounded and linked in Gemini Apps answers. After reviewing its goals, the firm decides it wants to be cited, removes the Google-Extended block and keeps rules for crawlers it does not want. It notes to revisit the decision when the shared token is supported.</p>"
+    },
+    {
+      "heading": "What this means for AI search visibility",
+      "body_html": "<p>Being cited by AI assistants depends on them being able to read and use your content. Blocking AI uses can reduce your chances of appearing in AI answers, while allowing them keeps the door open. Pair the decision with the basics that make you worth citing: clear service pages, accurate facts and consistent business details.</p>"
+    },
+    {
+      "heading": "Questions to ask your web team",
+      "body_html": "<ul><li>Which AI user agents does our robots.txt mention, and why?</li><li>Did a plugin or security tool add rules we did not choose?</li><li>Do we want to appear in Gemini answers with a link?</li><li>Who will update the file when the shared token is supported?</li></ul>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Google plans a shared robots.txt token for AI training preferences, aiming for 2027. It will not change Google Search, but opting out can remove eligibility for grounding in Gemini Apps. For most Anaheim and Orange County businesses that want to be recommended, allowing AI use and keeping content accurate is the sensible default.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the shared AI training control?",
+      "a": "A planned policy token in robots.txt that lets websites state AI training preferences across participating AI providers at once."
+    },
+    {
+      "q": "When will Google support it?",
+      "a": "Google says it aims to support the control along with other AI providers in 2027."
+    },
+    {
+      "q": "Does blocking Google-Extended hurt my Google rankings?",
+      "a": "No. Google says Google-Extended does not affect inclusion in Google Search or ranking."
+    },
+    {
+      "q": "Does opting out affect Gemini?",
+      "a": "Yes. Google says sites that allow Google-Extended are eligible to appear and receive clicks via grounding in Gemini Apps."
+    },
+    {
+      "q": "Will my existing robots.txt rules still work?",
+      "a": "Yes. Google says company-specific controls will continue alongside the shared signal."
+    },
+    {
+      "q": "Who developed the standard?",
+      "a": "It is based on work by the AIPREF working group at the Internet Engineering Task Force."
+    },
+    {
+      "q": "Should a local business opt out of AI training?",
+      "a": "Most businesses that want to be recommended benefit from staying open; publishers may decide differently."
+    },
+    {
+      "q": "Do I need to change anything now?",
+      "a": "No, but it is a good moment to check your robots.txt for rules you did not intend."
+    },
+    {
+      "q": "Do you work with businesses in Anaheim and Orange County?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California, from Anaheim and Santa Ana to Irvine and the coastal cities."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "robots.txt for AI crawlers",
+      "url": "https://thechimeraai.com/robots-txt-for-ai-crawlers/"
+    },
+    {
+      "anchor": "AI crawler user agents",
+      "url": "https://thechimeraai.com/ai-crawler-user-agents/"
+    },
+    {
+      "anchor": "Gemini SEO",
+      "url": "https://thechimeraai.com/gemini-seo/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Search Central blog: Supporting a shared AI training control for websites (Oct 30, 2026)",
+      "url": "https://developers.google.com/search/blog/2026/10/ai-training-control"
+    },
+    {
+      "title": "Google crawler documentation: Google's common crawlers (Google-Extended)",
+      "url": "https://developers.google.com/crawling/docs/crawlers-fetchers/google-common-crawlers"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 1,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "How the shared control would work",
+      "lead": "Based on Google's October 30, 2026 announcement.",
+      "steps": [
+        {
+          "title": "Token",
+          "text": "Add the shared policy token to robots.txt."
+        },
+        {
+          "title": "Providers",
+          "text": "Participating AI providers read it."
+        },
+        {
+          "title": "Google",
+          "text": "Treated as disallowing Google-Extended, unless Google-Extended is set explicitly."
+        },
+        {
+          "title": "Search",
+          "text": "No effect on Google Search."
+        }
+      ]
+    }
+  ],
+  "hero_query": "If I block AI training in robots.txt, will my site drop out of Google?",
+  "short_title": "Google's shared AI training control in robots.txt",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "kind": "blog",
+  "category": "Google Search",
+  "slot": 1,
+  "hero_image": {
+    "id": 1248,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/google-ai-training-control-robots-txt-chimera.jpg",
+    "alt": "AI Training Control in robots.txt: Google's Plan: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-11",
+  "updated": "2026-11-11",
+  "parent_id": 709
+}

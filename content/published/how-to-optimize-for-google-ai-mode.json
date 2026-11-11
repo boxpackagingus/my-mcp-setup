@@ -115,6 +115,10 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Gemini 4 Carbon in AI Mode",
+      "url": "https://thechimeraai.com/blog/gemini-4-carbon-ai-mode-local-business/"
     }
   ],
   "sources": [
@@ -276,7 +280,7 @@
     "height": 840
   },
   "published": "2026-11-05",
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "photo": {
     "id": 216,
     "url": "https://thechimeraai.com/wp-content/uploads/2026/11/how-to-optimize-for-google-ai-mode-photo.jpg",

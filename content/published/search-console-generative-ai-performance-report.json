@@ -1,0 +1,212 @@
+{
+  "query": "search console generative ai performance report",
+  "slug": "search-console-generative-ai-performance-report",
+  "eyebrow": "Search Console",
+  "primary_keyword": "generative AI performance report",
+  "secondary_keywords": [
+    "AI Overviews report Search Console",
+    "AI Mode Search Console",
+    "generative AI performance Search Console",
+    "track AI Overviews impressions"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Search Console Generative AI Performance Report",
+    "meta_description": "Search Console's generative AI performance report shows impressions in AI Overviews and AI Mode. How Anaheim and Orange County businesses can use it."
+  },
+  "h1": "Search Console's Generative AI Performance Report: How to See Your AI Overviews and AI Mode Visibility",
+  "answer": "The Search Console generative AI performance report shows how often your pages appear in Google's generative AI features, such as AI Overviews and AI Mode, with views for Search and Discover. Google rolled it out to all websites worldwide by August 31, 2026. Anaheim and Orange County businesses can use it to see which pages AI features show, by country, device and date.",
+  "key_takeaways": [
+    "Google announced the reports on June 3, 2026.",
+    "They reached all websites worldwide as of August 31, 2026.",
+    "They cover AI Overviews, AI Mode and AI features in Discover.",
+    "You can filter by page, country, device and date.",
+    "The same data still counts in the overall performance report."
+  ],
+  "sections": [
+    {
+      "heading": "What the report is",
+      "body_html": "<p>On June 3, 2026, Google announced Search Generative AI performance reports in Search Console, with dedicated reports for Search and Discover. Google says they give dedicated views of your impressions within generative AI features on Search, such as AI Overviews and AI Mode, and within generative AI features in Discover. A note on Google's post says that as of August 31, 2026, the insights had rolled out to all websites worldwide.</p>"
+    },
+    {
+      "heading": "What it shows",
+      "body_html": "<table><tr><th>Data</th><th>What it tells you</th></tr><tr><td>Impressions</td><td>How often your URLs appeared in generative AI features in Search and Discover</td></tr><tr><td>Pages</td><td>Which URLs appeared within AI features</td></tr><tr><td>Countries</td><td>Your visibility by country</td></tr><tr><td>Devices</td><td>The devices people used (for Search results)</td></tr><tr><td>Dates</td><td>Trends with hourly, daily, weekly and monthly views</td></tr></table>"
+    },
+    {
+      "heading": "How it relates to the main report",
+      "body_html": "<p>Google says this data is also included in the overall performance report, where it continues to be tracked. The new report is a separate view dedicated to visibility from generative AI features, not extra traffic on top of what you already saw.</p>"
+    },
+    {
+      "heading": "Why it matters for local businesses",
+      "body_html": "<p>Until this report, most businesses could only guess whether Google's AI features were showing their pages. For an Anaheim dentist or an Orange County HVAC company, seeing which pages appear in AI Overviews and AI Mode shows which content Google's AI finds useful, and which pages are missing.</p>"
+    },
+    {
+      "heading": "How to open it",
+      "body_html": "<ol><li>Sign in to Search Console and choose your property.</li><li>Open the performance reports and select the generative AI report for Search, or for Discover.</li><li>Set the date range and look at impressions over time.</li><li>Open the Pages view to see which URLs appeared.</li><li>Compare with your overall performance report for the same dates.</li></ol>"
+    },
+    {
+      "heading": "Questions to answer with it",
+      "body_html": "<ul><li>Which of our pages appear in AI features at all?</li><li>Are our main service pages among them, or only blog posts?</li><li>Did impressions change after we updated a page?</li><li>Are AI impressions mostly on mobile or desktop?</li><li>Is our visibility growing month over month?</li></ul>"
+    },
+    {
+      "heading": "Reading the numbers carefully",
+      "body_html": "<p>Google's post describes impressions, pages, countries, devices and dates. Treat impressions as visibility, not visits. Combine the report with Google Analytics to see visits that follow, and with your own lead tracking to see whether AI visibility turns into calls and bookings.</p>"
+    },
+    {
+      "heading": "Turning insights into action",
+      "body_html": "<p>If a service page never appears while a blog post does, look at what the blog post does better: a direct answer near the top, clear headings, specific facts. Apply the same to the service page. If AI impressions drop after an edit, compare the old and new versions. Change one thing at a time so you can see what worked.</p>"
+    },
+    {
+      "heading": "Pair it with manual checks",
+      "body_html": "<p>Search Console tells you that your page appeared, not what the AI said. Each month, ask Google, ChatGPT, Gemini and Perplexity the questions your customers ask, from a phone in Orange County, and record whether you are named and described correctly. Together, the report and manual checks give a fuller picture.</p>"
+    },
+    {
+      "heading": "A worked example",
+      "body_html": "<p>Imagine a pest control company in Garden Grove. The report shows its termite guide appearing in AI features while its main termite treatment page does not. The company adds a short, direct answer at the top of the service page, a clear section on cost factors and its service area. Over the following weeks it watches the Pages view to see whether the service page starts appearing too.</p>"
+    },
+    {
+      "heading": "Feedback and what is next",
+      "body_html": "<p>Google asks for feedback through the Submit feedback link in Search Console, a dedicated form and the Search Central Community, and says it is working with site owners to understand which data would be most useful, such as adding more metrics over time.</p>"
+    },
+    {
+      "heading": "Set a baseline now",
+      "body_html": "<p>Export a few months of data from the report and save it. When you publish new pages, update old ones or change your site, you will be able to compare against a clear baseline instead of relying on memory. Note the dates of major changes in a simple log so you can match them to movements in the report later.</p>"
+    },
+    {
+      "heading": "Discover is part of it",
+      "body_html": "<p>The Discover view shows AI features in Google's Discover feed, which people browse on their phones without searching. Local businesses that publish timely, useful articles, such as seasonal guides or event coverage in Anaheim, may see impressions there as well as in Search.</p>"
+    },
+    {
+      "heading": "Share it with your team",
+      "body_html": "<p>Give the people who write and update your pages access to Search Console, or share a monthly summary. When writers can see which pages AI features show, they learn what clear, useful content looks like on your own site rather than in general advice.</p>"
+    },
+    {
+      "heading": "What good looks like",
+      "body_html": "<p>There is no universal benchmark for AI impressions, so compare your site with itself over time. A healthy pattern for a local business is steady or rising impressions, a growing number of pages appearing and main service pages among them, not only blog posts. If impressions rise but calls and bookings do not, look at what those pages ask visitors to do next, and make sure contact details, booking links and service areas are easy to find on every page that appears in AI features.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Search Console's generative AI performance report finally shows how often your pages appear in AI Overviews, AI Mode and AI features in Discover. Anaheim and Orange County businesses should check it monthly, compare it with leads and use it to improve the pages AI features skip.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the Search Console generative AI performance report?",
+      "a": "A dedicated view of how often your pages appear in Google's generative AI features in Search and Discover."
+    },
+    {
+      "q": "Does it include AI Overviews and AI Mode?",
+      "a": "Yes. Google names AI Overviews and AI Mode as examples."
+    },
+    {
+      "q": "Is it available for every site?",
+      "a": "Google says it rolled out to all websites worldwide as of August 31, 2026."
+    },
+    {
+      "q": "What can I filter by?",
+      "a": "Pages, countries, devices (for Search) and dates, with hourly, daily, weekly and monthly views."
+    },
+    {
+      "q": "Is this data separate from my normal performance report?",
+      "a": "No. Google says it is also included in the overall performance report."
+    },
+    {
+      "q": "Does it show what the AI said about me?",
+      "a": "No. It shows impressions; check AI answers manually for wording."
+    },
+    {
+      "q": "How often should I check it?",
+      "a": "Monthly is enough for most local businesses, and after major page changes."
+    },
+    {
+      "q": "How do I give feedback?",
+      "a": "Through the Submit feedback link in Search Console, Google's dedicated form or the Search Central Community."
+    },
+    {
+      "q": "Do you work with businesses in Anaheim and Orange County?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California, from Anaheim and Santa Ana to Irvine and the coastal cities."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "how to track AI visibility",
+      "url": "https://thechimeraai.com/how-to-track-ai-visibility/"
+    },
+    {
+      "anchor": "how to measure GEO results",
+      "url": "https://thechimeraai.com/how-to-measure-geo-results/"
+    },
+    {
+      "anchor": "how to show up in Google AI Overviews",
+      "url": "https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Search Central blog: Introducing Search Generative AI performance reports in Search Console (Jun 3, 2026)",
+      "url": "https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 0,
+      "type": "timeline",
+      "eyebrow": "Timeline",
+      "title": "From launch to every site",
+      "lead": "Dates from Google's Search Central blog.",
+      "items": [
+        {
+          "when": "Jun 3, 2026",
+          "title": "Announced",
+          "text": "Reports launched to a subset of sites."
+        },
+        {
+          "when": "Summer 2026",
+          "title": "Testing",
+          "text": "Google gathers feedback."
+        },
+        {
+          "when": "Aug 31, 2026",
+          "title": "Everyone",
+          "text": "Rolled out to all websites worldwide."
+        },
+        {
+          "when": "Now",
+          "title": "Your turn",
+          "text": "Check it monthly."
+        }
+      ]
+    }
+  ],
+  "hero_query": "How can I see if my website shows up in Google AI Overviews?",
+  "short_title": "Search Console's generative AI performance report",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "kind": "blog",
+  "category": "Search Console",
+  "slot": 3,
+  "hero_image": {
+    "id": 1259,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/search-console-generative-ai-performance-report-chimera.jpg",
+    "alt": "Search Console Generative AI Performance Report: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-11",
+  "updated": "2026-11-11",
+  "parent_id": 709
+}

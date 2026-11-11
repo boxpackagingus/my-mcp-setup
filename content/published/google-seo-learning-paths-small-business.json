@@ -1,0 +1,220 @@
+{
+  "query": "google seo learning paths",
+  "slug": "google-seo-learning-paths-small-business",
+  "eyebrow": "SEO learning",
+  "primary_keyword": "SEO learning paths",
+  "secondary_keywords": [
+    "Search Central YouTube playlists",
+    "learn SEO from Google",
+    "free SEO course Google",
+    "technical SEO fundamentals"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Google's Free SEO Learning Paths: A Guide",
+    "meta_description": "Google's Search Central team released two free SEO learning paths on YouTube. How Anaheim and Orange County business owners can use them, step by step."
+  },
+  "h1": "Google's Free SEO Learning Paths: A Practical Plan for Business Owners",
+  "answer": "Google's SEO learning paths are two free YouTube playlists from the Search Central team, released on October 6, 2026: Search fundamentals for beginners and Technical SEO fundamentals. For Anaheim and Orange County business owners, the beginner path is the useful starting point, covering how Search works, Search Console and Google Trends, straight from Google.",
+  "key_takeaways": [
+    "Google released the playlists on October 6, 2026.",
+    "Search fundamentals is for owners, marketers and beginners.",
+    "Technical SEO fundamentals is for developers and specialists.",
+    "Both are free on the Search Central YouTube channel.",
+    "Pair learning with action on your own site."
+  ],
+  "sections": [
+    {
+      "heading": "What Google released",
+      "body_html": "<p>On October 6, 2026, Google's Search Central team organized its YouTube content into two learning paths. Google notes that its channel has published hundreds of videos across series such as Search for Beginners, Ask Googlebot, Search Console Training and Search Off the Record, and that finding a clear, sequential path could be hard. The two playlists put the right videos in order.</p>"
+    },
+    {
+      "heading": "Search fundamentals for beginners",
+      "body_html": "<p>Google says this playlist is for website owners, marketers, content creators and anyone new to SEO, taking them from core concepts to practical measurement. It covers how Google crawls, indexes and serves content, how to improve your presence in search results and how to measure performance with Search Console and Google Trends.</p><ul><li>How Search works: crawling, indexing, serving and the anatomy of search results.</li><li>Getting started with Search Console: setup, performance reports and Search Console Insights.</li><li>Market and content insights: using Google Trends for SEO and spotting trending topics.</li></ul>"
+    },
+    {
+      "heading": "Technical SEO fundamentals",
+      "body_html": "<p>The second playlist is for developers and technical specialists. Google says it skips the basics to focus on site health, crawl budget, rendering and large-scale debugging.</p><ul><li>Crawl directives and architecture: robots.txt, crawl stats and crawl budget.</li><li>Indexing and debugging at scale: indexing issues, the URL Inspection tool and duplicate content.</li><li>Serving, rendering and APIs: how browsers parse HTML, page weight and Search Console bulk data exports and APIs.</li></ul>"
+    },
+    {
+      "heading": "Which path is for you",
+      "body_html": "<table><tr><th>If you are</th><th>Start with</th></tr><tr><td>A business owner or office manager</td><td>Search fundamentals for beginners</td></tr><tr><td>A marketer or content writer</td><td>Search fundamentals for beginners</td></tr><tr><td>A web developer</td><td>Technical SEO fundamentals</td></tr><tr><td>The person who runs your website</td><td>Both, in order</td></tr></table>"
+    },
+    {
+      "heading": "Why learn from Google directly",
+      "body_html": "<p>SEO advice online varies widely in quality. Videos from Google's own Search Central team explain how Google Search works in Google's words, which is a reliable base for judging other advice, including what agencies and consultants tell you.</p>"
+    },
+    {
+      "heading": "A four-week plan for owners",
+      "body_html": "<ol><li>Week 1: watch the How Search works videos and search for your own business to see what Google shows.</li><li>Week 2: watch the Search Console videos, then verify your site and open the performance report.</li><li>Week 3: watch the Google Trends videos and compare interest in your services across seasons.</li><li>Week 4: pick three pages to improve based on what you learned, and note the date you changed them.</li></ol>"
+    },
+    {
+      "heading": "Apply it to local search",
+      "body_html": "<p>The playlists cover Google Search generally. Local businesses also need their Google Business Profile, consistent listings and reviews, which Google explains in its Business Profile help. Combine the two: the playlists for your website, the help center for your profile.</p>"
+    },
+    {
+      "heading": "Put Search Console to work",
+      "body_html": "<p>Once you have watched the Search Console videos, use the newer reports too, such as the generative AI performance report for AI Overviews and AI Mode, and the multimodal search filter for image searches. Learning the basics makes these reports much easier to read.</p>"
+    },
+    {
+      "heading": "Bring your team along",
+      "body_html": "<p>Google suggests saving the playlists and sharing them with your team. A shared understanding helps: whoever writes your service pages, updates your profile or answers reviews will make better decisions if they know how Search works.</p>"
+    },
+    {
+      "heading": "A worked example",
+      "body_html": "<p>Imagine the owner of a small landscaping company in Fullerton who has never opened Search Console. After the beginner path, they verify the site, see which searches bring impressions and notice that drought-tolerant landscaping gets attention in Google Trends each spring. They write a clear page on that service before the season and check its impressions the following months.</p>"
+    },
+    {
+      "heading": "When to bring in help",
+      "body_html": "<p>Learning the fundamentals does not mean doing everything yourself. It means you can judge advice, ask better questions and spot promises that do not match how Google works. Bring in help when time is short or problems are technical.</p>"
+    },
+    {
+      "heading": "Make notes as you watch",
+      "body_html": "<p>Keep a short document of what you learn and one action for each video, such as checking which pages are indexed or comparing two seasonal searches in Google Trends. Notes turn passive viewing into changes on your site, and they make it easy to brief a colleague or agency later.</p>"
+    },
+    {
+      "heading": "Questions to ask after the beginner path",
+      "body_html": "<ul><li>Is our site verified in Search Console, and who has access?</li><li>Which searches bring impressions but few clicks?</li><li>Which pages are not indexed, and why?</li><li>Which of our services have seasonal peaks in Google Trends?</li><li>What is one page we can improve this month?</li></ul>"
+    },
+    {
+      "heading": "Keep learning after the playlists",
+      "body_html": "<p>Search changes constantly. Follow the Search Central blog for announcements, such as new Search Console reports, and review your own reports monthly. Short, regular learning keeps an owner in Anaheim or anywhere in Orange County informed without needing to become a full-time SEO specialist.</p>"
+    },
+    {
+      "heading": "How this connects to AI search",
+      "body_html": "<p>The fundamentals in the beginner path, how Google crawls, indexes and serves pages, also underpin Google's AI features such as AI Overviews and AI Mode, which draw on content Google can find and understand. Other AI assistants work from pages they can read too. Understanding crawling and indexing therefore helps with both regular search and AI answers. For an Orange County business, that means one set of skills supports visibility in Google, in AI features and in assistants that recommend local businesses.</p>"
+    },
+    {
+      "heading": "Where to find them",
+      "body_html": "<p>Both playlists are live on the Search Central YouTube channel's playlists page. Google suggests saving them to your library, sharing them with your team and subscribing for upcoming tutorials and deep dives. Start with the first video of the beginner path and keep a notebook open.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Google's free learning paths are the best starting point for owners who want to understand SEO in Google's own words. Anaheim and Orange County business owners can work through the beginner path in a month and apply each lesson to their own site and Business Profile.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What are Google's SEO learning paths?",
+      "a": "Two free YouTube playlists from Google's Search Central team: Search fundamentals for beginners and Technical SEO fundamentals."
+    },
+    {
+      "q": "When were they released?",
+      "a": "Google announced them on October 6, 2026."
+    },
+    {
+      "q": "Are they free?",
+      "a": "Yes. They are on the Search Central YouTube channel."
+    },
+    {
+      "q": "Which one should a business owner watch?",
+      "a": "Search fundamentals for beginners."
+    },
+    {
+      "q": "What does the technical path cover?",
+      "a": "robots.txt, crawl stats and crawl budget, indexing and URL Inspection, duplicate content, rendering, page weight and Search Console APIs."
+    },
+    {
+      "q": "Do they cover Google Business Profile?",
+      "a": "They focus on Google Search; use Google's Business Profile help for your listing."
+    },
+    {
+      "q": "How long does the beginner path take?",
+      "a": "A few hours of video; spreading it over a month leaves time to apply each lesson."
+    },
+    {
+      "q": "Can I learn SEO without an agency?",
+      "a": "You can learn the fundamentals; help is useful when time is short or problems are technical."
+    },
+    {
+      "q": "Do you work with businesses in Anaheim and Orange County?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California, from Anaheim and Santa Ana to Irvine and the coastal cities."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "AI SEO for small business",
+      "url": "https://thechimeraai.com/ai-seo-for-small-business/"
+    },
+    {
+      "anchor": "local SEO checklist",
+      "url": "https://thechimeraai.com/local-seo-checklist/"
+    },
+    {
+      "anchor": "Core Web Vitals for local businesses",
+      "url": "https://thechimeraai.com/core-web-vitals-for-local-businesses/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Search Central blog: New learning paths for Search fundamentals and Technical SEO (Oct 6, 2026)",
+      "url": "https://developers.google.com/search/blog/2026/10/seo-learning-paths"
+    },
+    {
+      "title": "Google Search Central blog: Introducing Search Generative AI performance reports in Search Console (Jun 3, 2026)",
+      "url": "https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports"
+    },
+    {
+      "title": "Google Search Central blog: Announcing web multimodal Search performance reporting in Search Console (Sep 24, 2026)",
+      "url": "https://developers.google.com/search/blog/2026/09/web-multimodal-in-sc"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 5,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "A month with the beginner path",
+      "lead": "One theme a week, with an action each time.",
+      "steps": [
+        {
+          "title": "Week 1",
+          "text": "How Search works; search for your business."
+        },
+        {
+          "title": "Week 2",
+          "text": "Search Console; verify and open reports."
+        },
+        {
+          "title": "Week 3",
+          "text": "Google Trends; check seasonality."
+        },
+        {
+          "title": "Week 4",
+          "text": "Improve three pages and note the date."
+        }
+      ]
+    }
+  ],
+  "hero_query": "Where can I learn SEO for free from Google?",
+  "short_title": "Google's free SEO learning paths",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "kind": "blog",
+  "category": "SEO learning",
+  "slot": 5,
+  "hero_image": {
+    "id": 1257,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/google-seo-learning-paths-small-business-chimera.jpg",
+    "alt": "Google's Free SEO Learning Paths: A Guide: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-11",
+  "updated": "2026-11-11",
+  "parent_id": 709
+}

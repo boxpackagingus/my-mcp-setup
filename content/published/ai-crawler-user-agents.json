@@ -120,6 +120,10 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Google's shared AI training control",
+      "url": "https://thechimeraai.com/blog/google-ai-training-control-robots-txt/"
     }
   ],
   "sources": [
@@ -261,7 +265,7 @@
     "height": 840
   },
   "published": "2026-11-06",
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "photo": {
     "id": 364,
     "url": "https://thechimeraai.com/wp-content/uploads/2026/11/ai-crawler-user-agents-photo.jpg",

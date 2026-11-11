@@ -187,6 +187,14 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Google Business Profile service areas",
+      "url": "https://thechimeraai.com/google-business-profile-service-area/"
+    },
+    {
+      "anchor": "Core Web Vitals for local businesses",
+      "url": "https://thechimeraai.com/core-web-vitals-for-local-businesses/"
     }
   ],
   "sources": [
@@ -323,5 +331,5 @@
     "height": 840
   },
   "published": "2026-11-10",
-  "updated": "2026-11-10"
+  "updated": "2026-11-11"
 }

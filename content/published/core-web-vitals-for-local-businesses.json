@@ -1,0 +1,216 @@
+{
+  "query": "core web vitals",
+  "slug": "core-web-vitals-for-local-businesses",
+  "eyebrow": "Technical SEO",
+  "primary_keyword": "Core Web Vitals",
+  "secondary_keywords": [
+    "Core Web Vitals local SEO",
+    "page speed for local business",
+    "LCP INP CLS",
+    "website speed Orange County"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Core Web Vitals for Local Businesses: A Guide",
+    "meta_description": "Core Web Vitals explained for Anaheim and Orange County business websites: LCP, INP and CLS targets, how to measure them and fixes that help."
+  },
+  "h1": "Core Web Vitals for Local Business Websites: Targets, Tests and Fixes",
+  "answer": "Core Web Vitals are Google's measures of real-world page experience: Largest Contentful Paint for loading, Interaction to Next Paint for responsiveness and Cumulative Layout Shift for visual stability. Google says to aim for LCP within 2.5 seconds, INP under 200 milliseconds and CLS under 0.1. For Anaheim and Orange County businesses, most fixes come down to lighter images, fewer scripts and stable layouts.",
+  "key_takeaways": [
+    "Three metrics: LCP, INP and CLS.",
+    "Targets: 2.5 seconds, 200 milliseconds and 0.1.",
+    "Google highly recommends good scores.",
+    "Search Console shows your real data.",
+    "Most local sites fix images and scripts first."
+  ],
+  "sections": [
+    {
+      "heading": "What Core Web Vitals are",
+      "body_html": "<p>Google's Search Central documentation describes Core Web Vitals as a set of metrics that measure real-world user experience for loading performance, interactivity and visual stability. Google highly recommends that site owners achieve good Core Web Vitals for success with Search and for a good user experience, and says this aligns with what its core ranking systems seek to reward.</p>"
+    },
+    {
+      "heading": "Largest Contentful Paint",
+      "body_html": "<p>LCP measures loading performance: how long it takes for the main content, often a hero image or headline, to appear. Google says to strive for LCP within the first 2.5 seconds of the page starting to load. On local business sites, an oversized hero photo is the most common reason for a slow LCP.</p>"
+    },
+    {
+      "heading": "Interaction to Next Paint",
+      "body_html": "<p>INP measures responsiveness: how quickly the page reacts when someone taps a button or opens a menu. Google's target is an INP of less than 200 milliseconds. Heavy chat widgets, tracking scripts and page builders often slow it down.</p>"
+    },
+    {
+      "heading": "Cumulative Layout Shift",
+      "body_html": "<p>CLS measures visual stability: how much the page jumps around while loading. Google's target is a CLS score of less than 0.1. Images without set dimensions, late-loading banners and pop-ups are typical causes, and they lead to mis-taps on phone numbers and buttons.</p>"
+    },
+    {
+      "heading": "Why it matters for local businesses",
+      "body_html": "<p>Most local searches happen on phones, often on the go. A customer in Anaheim looking for a locksmith or a restaurant will not wait for a slow page or fight a shifting layout. Good Core Web Vitals help people reach your phone number, booking form or menu without friction.</p>"
+    },
+    {
+      "heading": "How to measure",
+      "body_html": "<p>Google points site owners to the Core Web Vitals report in Search Console, which shows how your pages perform for real visitors, and lists tools such as PageSpeed Insights for testing individual pages. Check mobile results first, because that is where most local customers are.</p>"
+    },
+    {
+      "heading": "Fixes for LCP",
+      "body_html": "<ul><li>Resize and compress hero images; serve modern formats.</li><li>Do not lazy-load the main image at the top of the page.</li><li>Use good hosting and caching.</li><li>Remove unused fonts and plugins.</li></ul>"
+    },
+    {
+      "heading": "Fixes for INP",
+      "body_html": "<ul><li>Remove scripts you do not use, such as old tracking tags.</li><li>Delay chat widgets and pop-ups until after the page loads.</li><li>Keep page builders lean and avoid heavy sliders.</li></ul>"
+    },
+    {
+      "heading": "Fixes for CLS",
+      "body_html": "<ul><li>Set width and height on images and embeds.</li><li>Reserve space for banners and cookie notices.</li><li>Avoid inserting content above what people are reading.</li></ul>"
+    },
+    {
+      "heading": "Speed and AI search",
+      "body_html": "<p>AI crawlers and search engines fetch your pages to read them. A lean page with real HTML text and links loads quickly and is easier to parse. Google's link guidance notes that it can generally only crawl links that are standard anchor elements with an href, another reason to keep pages simple.</p>"
+    },
+    {
+      "heading": "Core Web Vitals checklist",
+      "body_html": "<ul><li>Hero image resized and compressed.</li><li>Main image not lazy-loaded.</li><li>Width and height set on images and embeds.</li><li>Unused plugins and tracking tags removed.</li><li>Chat widgets and pop-ups delayed.</li><li>Fonts limited to what you use.</li><li>Caching enabled.</li><li>Mobile results checked in Search Console after changes.</li></ul>"
+    },
+    {
+      "heading": "Questions to ask your web developer",
+      "body_html": "<p>If someone else maintains your site, these questions keep the conversation specific:</p><ul><li>Which pages fail Core Web Vitals in Search Console, and on which metric?</li><li>What is the largest element on our key pages, and how big is it?</li><li>Which third-party scripts load on every page, and are they all needed?</li><li>Do our images have set dimensions?</li><li>How will we confirm the fix worked?</li></ul>"
+    },
+    {
+      "heading": "Where to start on a small site",
+      "body_html": "<p>Begin with the pages that bring customers: the homepage, the main service pages and the contact page. Fix the largest images first, because they usually account for most of the loading time, then remove scripts no one uses. Re-test those pages, then move to the rest of the site. Search Console's report groups pages with similar problems, so one fix to a shared template often improves many pages at once.</p>"
+    },
+    {
+      "heading": "An example",
+      "body_html": "<p>Imagine a landscaping company in Irvine whose homepage hero is a large, uncompressed photo, with a chat widget and three old tracking tags loading on every page. Resizing and compressing the hero image speeds up the main content, removing the unused tags and delaying the chat widget makes buttons respond faster, and setting dimensions on the gallery images stops the page jumping. The company then checks Search Console over the following weeks to confirm the field data improves.</p>"
+    },
+    {
+      "heading": "How this fits your local plan",
+      "body_html": "<p>Treat this as part of a routine rather than a one-off fix. Local visibility in Anaheim and the rest of Orange County comes from many small, accurate signals adding up: a verified profile, consistent listings, useful service pages, real photos and a flow of honest reviews. Google is open that relevance, distance and popularity drive local results. You cannot change distance, but you can make sure Google and AI assistants understand exactly what you do and see evidence that customers value it. Put a monthly reminder in the calendar to check the profile, read new reviews and update anything that has changed.</p>"
+    },
+    {
+      "heading": "What to do this week",
+      "body_html": "<ol><li>Open the Core Web Vitals report in Search Console.</li><li>Test your homepage on mobile.</li><li>Compress the largest image.</li><li>Remove one unused script.</li></ol>"
+    },
+    {
+      "heading": "When to get help",
+      "body_html": "<p>Most of this can be done in-house with an hour or two and careful reading of Google's own help pages. It is worth bringing in help when the stakes are high or the problem keeps coming back: a profile that has been suspended more than once, many locations to manage, a site that keeps failing the same checks, or no time to keep up the routine. A good local SEO partner should explain what they will change and why, point to Google's guidelines rather than promise rankings, and leave you with access to every account. Chimera works this way with businesses across Anaheim and Orange County.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Aim for LCP within 2.5 seconds, INP under 200 milliseconds and CLS under 0.1, measure in Search Console, and fix images, scripts and layout shifts first. Chimera, based in Anaheim, checks page experience in every Orange County site audit.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What are the Core Web Vitals?",
+      "a": "Largest Contentful Paint, Interaction to Next Paint and Cumulative Layout Shift."
+    },
+    {
+      "q": "What is a good LCP?",
+      "a": "Google says to aim for LCP within 2.5 seconds."
+    },
+    {
+      "q": "What is a good INP?",
+      "a": "Under 200 milliseconds."
+    },
+    {
+      "q": "What is a good CLS?",
+      "a": "Under 0.1."
+    },
+    {
+      "q": "Do Core Web Vitals affect rankings?",
+      "a": "Google highly recommends good scores and says they align with what its core ranking systems seek to reward."
+    },
+    {
+      "q": "Where can I see my Core Web Vitals?",
+      "a": "In the Core Web Vitals report in Google Search Console, and in tools such as PageSpeed Insights."
+    },
+    {
+      "q": "Do you help businesses in Anaheim and Orange County with this?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "local SEO checklist",
+      "url": "https://thechimeraai.com/local-seo-checklist/"
+    },
+    {
+      "anchor": "AI search optimization checklist",
+      "url": "https://thechimeraai.com/ai-search-optimization-checklist/"
+    },
+    {
+      "anchor": "internal linking for AI search",
+      "url": "https://thechimeraai.com/internal-linking-for-ai-search/"
+    },
+    {
+      "anchor": "local SEO in Orange County",
+      "url": "https://thechimeraai.com/local-seo-orange-county/"
+    },
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Search Central: Understanding Core Web Vitals and Google search results",
+      "url": "https://developers.google.com/search/docs/appearance/core-web-vitals"
+    },
+    {
+      "title": "Google Search Central: SEO link best practices",
+      "url": "https://developers.google.com/search/docs/crawling-indexing/links-crawlable"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 1,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "The three Core Web Vitals",
+      "lead": "Google's targets for a good experience.",
+      "steps": [
+        {
+          "title": "LCP",
+          "text": "Loading: within 2.5 seconds."
+        },
+        {
+          "title": "INP",
+          "text": "Responsiveness: under 200 milliseconds."
+        },
+        {
+          "title": "CLS",
+          "text": "Visual stability: under 0.1."
+        },
+        {
+          "title": "Measure",
+          "text": "Search Console's Core Web Vitals report."
+        }
+      ]
+    }
+  ],
+  "hero_query": "Why is my business website slow on phones, and does it hurt my Google ranking?",
+  "short_title": "Core Web Vitals",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 1246,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/core-web-vitals-for-local-businesses-chimera.jpg",
+    "alt": "Core Web Vitals for Local Businesses: A Guide: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-11",
+  "updated": "2026-11-11"
+}

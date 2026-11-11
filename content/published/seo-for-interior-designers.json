@@ -143,6 +143,10 @@
     {
       "anchor": "book a free AI visibility audit",
       "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "SEO for architects",
+      "url": "https://thechimeraai.com/seo-for-architects/"
     }
   ],
   "sources": [
@@ -313,5 +317,5 @@
     "height": 840
   },
   "published": "2026-11-10",
-  "updated": "2026-11-10"
+  "updated": "2026-11-11"
 }
