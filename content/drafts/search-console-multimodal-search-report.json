@@ -1,0 +1,217 @@
+{
+  "query": "search console multimodal search",
+  "slug": "search-console-multimodal-search-report",
+  "eyebrow": "Search Console",
+  "primary_keyword": "multimodal search in Search Console",
+  "secondary_keywords": [
+    "Google Lens Search Console",
+    "Circle to Search traffic",
+    "image search performance report",
+    "visual search SEO"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Multimodal Search in Search Console: Lens Data",
+    "meta_description": "Search Console now reports multimodal search from Google Lens and Circle to Search. What it shows and how Anaheim and Orange County businesses can use it."
+  },
+  "h1": "Multimodal Search in Search Console: See When People Find You with Lens and Circle to Search",
+  "answer": "Multimodal search in Search Console is a new search type filter, added on September 24, 2026, that shows how your site performs when people search with images, through Google Lens, Circle to Search on Android, image uploads to Google Search and Chrome's Search this image. For Anaheim and Orange County businesses that sell visible products, it shows whether pictures lead customers to you.",
+  "key_takeaways": [
+    "Google announced the reporting on September 24, 2026.",
+    "It covers Lens, Circle to Search, image uploads and Chrome's Search this image.",
+    "Use the multimodal search type filter in the performance reports.",
+    "It also appears in the generative AI features report.",
+    "Data shows only if your site gets traffic from these searches."
+  ],
+  "sections": [
+    {
+      "heading": "What Google announced",
+      "body_html": "<p>On September 24, 2026, Google introduced Search Console reporting for web multimodal search, in the performance report for Search results and in the report for generative AI features. Google says the update gives site owners insight into how content is surfaced when people search using images, such as with a smartphone camera.</p>"
+    },
+    {
+      "heading": "Which searches count",
+      "body_html": "<table><tr><th>Source</th><th>How people use it</th></tr><tr><td>Google Lens</td><td>Point the camera at something to search for it</td></tr><tr><td>Circle to Search on Android</td><td>Circle something on screen to search it</td></tr><tr><td>Image uploads to Google Search</td><td>Search with a saved photo</td></tr><tr><td>Chrome right-click Search this image</td><td>Search an image found on a web page</td></tr></table>"
+    },
+    {
+      "heading": "How to find the data",
+      "body_html": "<p>Google says to use the new multimodal search type filter in the performance reports. You can also click Export to download the data and analyze it in other tools. The rollout began globally on September 24, 2026, and Google notes the metrics appear in your Performance report only if your site is receiving traffic from these queries.</p>"
+    },
+    {
+      "heading": "Why it matters locally",
+      "body_html": "<p>People increasingly search with their camera: a shopper photographs a lamp in a friend's house, a homeowner snaps a broken part, a visitor in Anaheim points a phone at a dish or a storefront. If your products and services are well represented in images, these searches can lead to your site. Until now, that traffic was hard to separate.</p>"
+    },
+    {
+      "heading": "Businesses that benefit most",
+      "body_html": "<ul><li>Retailers selling distinctive products, such as furniture, clothing or gifts.</li><li>Restaurants and bakeries whose dishes people photograph.</li><li>Home services where customers photograph a part or problem.</li><li>Auto shops and parts suppliers.</li><li>Venues and attractions people photograph and share.</li></ul>"
+    },
+    {
+      "heading": "Make your images findable",
+      "body_html": "<ol><li>Use real, high-quality photos of your products and work.</li><li>Place each image near text that describes it.</li><li>Write descriptive file names and alt text.</li><li>Give important products their own pages with clear names, prices and availability.</li><li>Keep images fast to load.</li></ol>"
+    },
+    {
+      "heading": "Your Business Profile photos matter too",
+      "body_html": "<p>Google's Business Profile help recommends photos that are in focus, well lit and represent reality, at around 720 by 720 pixels. Real photos of your storefront, products and work help customers recognize you on Maps and keep your visual presence consistent across Google.</p>"
+    },
+    {
+      "heading": "Reading the report",
+      "body_html": "<p>Compare multimodal clicks and impressions with your total. If they are a meaningful share, image quality and product pages deserve more attention. Look at which pages attract multimodal traffic and whether they lead to calls, orders or visits. Exported data can be combined with analytics for a fuller view.</p>"
+    },
+    {
+      "heading": "A worked example",
+      "body_html": "<p>Imagine a furniture store in Costa Mesa. After filtering for multimodal search, it sees that several product pages get visits from image searches, mostly on mobile. It adds clear photos from more angles, names and dimensions near each image, and in-store availability. It then watches whether those pages bring more visits and store inquiries.</p>"
+    },
+    {
+      "heading": "Multimodal search and AI features",
+      "body_html": "<p>Because the filter also appears in the generative AI features report, you can see when image searches lead to your pages appearing in AI features. As AI answers grow more visual, clear product images and descriptive text work together.</p>"
+    },
+    {
+      "heading": "Common mistakes",
+      "body_html": "<ul><li>Stock photos that do not show your real products.</li><li>Products shown only in image carousels without text.</li><li>Missing alt text and generic file names.</li><li>Heavy images that slow pages on phones.</li></ul>"
+    },
+    {
+      "heading": "Set up a simple monthly check",
+      "body_html": "<p>Once a month, open the performance report, apply the multimodal search type filter and note total clicks and impressions, the top pages and the device split. Export the data and keep it in one spreadsheet. A few months of history will show whether image searches matter for your business and which product pages benefit most.</p>"
+    },
+    {
+      "heading": "Photograph products the way customers see them",
+      "body_html": "<p>People often search with a photo taken in real life, not in a studio. Alongside clean product shots, include photos of items in use or in a room, from the angles customers would see them. For a boutique in Anaheim or a home decor shop in Orange, that can make the difference between matching a shopper's photo and being missed.</p>"
+    },
+    {
+      "heading": "Keep product details complete",
+      "body_html": "<p>When a shopper lands on your page from an image search, they want the essentials immediately: name, price, sizes or dimensions, availability and how to buy or visit. Put these near the main image so the visit turns into a sale or a trip to the store.</p>"
+    },
+    {
+      "heading": "Local storefronts and landmarks",
+      "body_html": "<p>Image searches are not only about products. Visitors in Anaheim photograph storefronts, menus, signs and buildings to find out more. Make sure your storefront photos on your website and Business Profile match how the place looks today, with signage visible, and that your website names the business exactly as it appears on the sign. When someone searches with a photo of your shopfront, a clear match between image, name and website helps them land on the right place.</p>"
+    },
+    {
+      "heading": "A quick checklist",
+      "body_html": "<ol><li>Open the performance report and apply the multimodal search type filter.</li><li>Note clicks, impressions and top pages.</li><li>Replace stock images with real photos of your products and work.</li><li>Add descriptive text, file names and alt text near each image.</li><li>Check pages load quickly on phones.</li><li>Update storefront photos on your Business Profile.</li></ol><p>Repeat the check each month and compare with the previous export.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Search Console now separates searches made with images, from Lens, Circle to Search, uploads and Chrome. Anaheim and Orange County businesses with visual products should check the multimodal filter, improve real product photos and descriptive text, and track whether image searches turn into customers.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is multimodal search in Search Console?",
+      "a": "A search type filter showing performance when people search with images, such as through Google Lens."
+    },
+    {
+      "q": "Which tools are included?",
+      "a": "Lens, Circle to Search on Android, image uploads to Google Search and Chrome's right-click Search this image."
+    },
+    {
+      "q": "When was it added?",
+      "a": "Google announced it on September 24, 2026, rolling out globally from that date."
+    },
+    {
+      "q": "Why don't I see any multimodal data?",
+      "a": "Google says metrics appear only if your site receives traffic from these queries."
+    },
+    {
+      "q": "Can I export the data?",
+      "a": "Yes. Google says you can click Export to analyze it in other tools."
+    },
+    {
+      "q": "Is it in the generative AI report too?",
+      "a": "Yes. Google added it to the report for generative AI features as well."
+    },
+    {
+      "q": "How can I get more image search traffic?",
+      "a": "Use real, well-described product photos on fast pages with clear text near each image."
+    },
+    {
+      "q": "Do Business Profile photos help?",
+      "a": "They help customers recognize you on Maps; use real, well-lit photos that represent reality."
+    },
+    {
+      "q": "Do you work with businesses in Anaheim and Orange County?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California, from Anaheim and Santa Ana to Irvine and the coastal cities."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "Google Business Profile photos",
+      "url": "https://thechimeraai.com/google-business-profile-photos/"
+    },
+    {
+      "anchor": "product pages for AI shopping",
+      "url": "https://thechimeraai.com/product-pages-for-ai-shopping/"
+    },
+    {
+      "anchor": "how to track AI visibility",
+      "url": "https://thechimeraai.com/how-to-track-ai-visibility/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Search Central blog: Announcing web multimodal Search performance reporting in Search Console (Sep 24, 2026)",
+      "url": "https://developers.google.com/search/blog/2026/09/web-multimodal-in-sc"
+    },
+    {
+      "title": "Google Business Profile Help: Manage your Business Profile photos and videos",
+      "url": "https://support.google.com/business/answer/6103862?hl=en"
+    },
+    {
+      "title": "Google Search Central blog: Introducing Search Generative AI performance reports in Search Console (Jun 3, 2026)",
+      "url": "https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 2,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "Where multimodal searches come from",
+      "lead": "The four sources Google includes in the new filter.",
+      "steps": [
+        {
+          "title": "Lens",
+          "text": "Camera search."
+        },
+        {
+          "title": "Circle to Search",
+          "text": "On Android screens."
+        },
+        {
+          "title": "Image upload",
+          "text": "Search with a saved photo."
+        },
+        {
+          "title": "Chrome",
+          "text": "Right-click Search this image."
+        }
+      ]
+    }
+  ],
+  "hero_query": "Can I see how many people find my store through Google Lens?",
+  "short_title": "Multimodal search data in Search Console",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "kind": "blog",
+  "category": "Search Console",
+  "slot": 4,
+  "hero_image": {
+    "id": 1260,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/search-console-multimodal-search-report-chimera.jpg",
+    "alt": "Multimodal Search in Search Console: Lens Data: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  }
+}

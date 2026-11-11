@@ -1,0 +1,209 @@
+{
+  "query": "gemini 4 carbon",
+  "slug": "gemini-4-carbon-ai-mode-local-business",
+  "eyebrow": "AI news",
+  "primary_keyword": "Gemini 4 Carbon",
+  "secondary_keywords": [
+    "Gemini 4 Carbon AI Mode",
+    "Gemini Carbon vs Argon",
+    "Google newest AI model",
+    "Gemini 4 Carbon pricing"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Gemini 4 Carbon: What It Means for Local Business",
+    "meta_description": "Gemini 4 Carbon launched on November 10, 2026 and is rolling out in AI Mode for AI Ultra subscribers. What Anaheim and Orange County businesses should know."
+  },
+  "h1": "Gemini 4 Carbon Is Here: What Google's Newest Model Means for Local Businesses",
+  "answer": "Gemini 4 Carbon, released on November 10, 2026, is Google's strongest model, built for long, multi-step reasoning. It is available to developers and enterprises and rolling out to Google AI Ultra subscribers in the Gemini app and AI Mode in Search. For Anaheim and Orange County businesses, it means deeper AI research for some customers, which rewards accurate, detailed information.",
+  "key_takeaways": [
+    "Google released Gemini 4 Carbon on November 10, 2026.",
+    "Carbon is built for complex, long-running reasoning tasks.",
+    "Gemini 4 Argon remains the choice for most everyday work.",
+    "Carbon is rolling out to AI Ultra subscribers in AI Mode in Search.",
+    "Developer pricing starts at $2 per million input tokens."
+  ],
+  "sections": [
+    {
+      "heading": "What Google announced",
+      "body_html": "<p>On November 10, 2026, Google made Gemini 4 Carbon available to developers, enterprises, scientists and consumers. Google calls Carbon its strongest model, with frontier performance in cybersecurity and in long-horizon agentic work across complex knowledge work, software engineering and scientific reasoning. Two weeks earlier, Google had released it to a group of cybersecurity defenders through its Fairwind Program.</p>"
+    },
+    {
+      "heading": "Carbon versus Argon",
+      "body_html": "<p>Google positions Carbon alongside Gemini 4 Argon, which it launched recently. Google says Argon remains the ideal choice for the majority of software engineering and knowledge work, while Carbon is for tasks that test the limits of a model's intelligence, such as complex, multi-step coding and debugging or open-ended research. Carbon uses more tokens than Argon to explore thoroughly, reason deeply and run extended verification loops.</p>"
+    },
+    {
+      "heading": "Where people can use it",
+      "body_html": "<table><tr><th>Who</th><th>Where</th></tr><tr><td>Paying developers and enterprises</td><td>The API in Google AI Studio and Gemini for business</td></tr><tr><td>Google AI Ultra subscribers</td><td>Google Antigravity, the Gemini app and AI Mode in Search</td></tr></table><p>Google says Carbon is rolling out to all AI Ultra subscribers, so most people using free Google Search will not see Carbon-powered AI Mode answers yet.</p>"
+    },
+    {
+      "heading": "Benchmarks Google reported",
+      "body_html": "<p>Google says Carbon ranks first on CursorBench 4.0, Perplexity's WANDR and Zapier's AutomationBench at more than 2 times lower cost per task than the next best external model. On a new Multimodal Knowledge Agent benchmark built with Artificial Analysis, Google says Carbon ranks second at more than 6 times lower average cost per task than the top model. These are Google's reported results.</p>"
+    },
+    {
+      "heading": "Pricing for developers",
+      "body_html": "<p>Google lists an introductory price matching Gemini 4 Argon: $2 per million input tokens and $10 per million output tokens through the API. For small businesses building their own tools, such as a quoting assistant or an internal knowledge search, that sets the cost of trying the most capable model.</p>"
+    },
+    {
+      "heading": "What changes in AI Mode",
+      "body_html": "<p>Google has not said how Carbon changes which businesses appear in AI Mode answers, and we will not guess. What is clear is that some AI Mode users now have a model built to research longer and verify more. A customer asking for the best roofer in Orange County for a specific tile roof may get a more thorough comparison, drawn from more sources.</p>"
+    },
+    {
+      "heading": "Why detail wins with deeper research",
+      "body_html": "<p>A model that reads more and checks more is more likely to notice gaps and contradictions. If your website says you serve Irvine but your Business Profile does not, or your prices differ between pages, a careful model may skip you or hedge. Detailed, consistent information is the practical response to more capable models.</p>"
+    },
+    {
+      "heading": "What to update this month",
+      "body_html": "<ol><li>Make sure each service has its own page with scope, timing, price guidance and service area.</li><li>Check that your name, address, phone and hours match on your site, Business Profile and main directories.</li><li>Add the answers customers actually ask before buying.</li><li>Keep reviews coming and reply to them.</li><li>Fix anything outdated, such as old offers or staff who have left.</li></ol>"
+    },
+    {
+      "heading": "Agents and swarms",
+      "body_html": "<p>Google also previewed a /swarm feature in Google Antigravity that turns one prompt into a coordinated team of agents, with Carbon in the roles needing the deepest reasoning. This is mainly for developers today, but it points to a future where AI agents research and compare suppliers on someone's behalf. Businesses that are easy for machines to understand will be easier to choose.</p>"
+    },
+    {
+      "heading": "A worked example",
+      "body_html": "<p>Imagine an AI Ultra subscriber in Anaheim asking AI Mode to compare three kitchen remodelers for a budget and timeline. A remodeler whose site publishes a cost guide, a typical timeline, its license number and real project pages gives the model concrete facts to compare. One whose site only says call for a quote gives it nothing, and is more likely to be left out of a careful comparison.</p>"
+    },
+    {
+      "heading": "Should your business use Carbon?",
+      "body_html": "<p>For everyday writing, customer emails and summaries, Google itself says Argon suits most work. Carbon makes sense for complex jobs such as analyzing many documents or building software. Start with the simpler model and move up only when a task needs it.</p>"
+    },
+    {
+      "heading": "Keeping up without chasing releases",
+      "body_html": "<p>New models arrive every few months. Rather than reacting to each one, keep improving the basics that every model relies on: accurate listings, clear pages, genuine reviews and a site that is fast and easy to read.</p>"
+    },
+    {
+      "heading": "Safety and security",
+      "body_html": "<p>Google's announcement also covers progress in model safety and security, and Carbon was first released to cybersecurity defenders. For small businesses, the practical lesson is the same as with every stronger model: protect your Business Profile, website and email with multi-factor authentication, because capable AI helps defenders and attackers alike.</p>"
+    },
+    {
+      "heading": "Questions customers may now ask AI",
+      "body_html": "<p>With deeper research models, customers can ask longer, more specific questions, such as which licensed electricians in Anaheim install EV chargers on weekends, or which Orange County caterers handle gluten-free menus for 200 guests. Look at the questions your customers ask on the phone and in emails, and make sure your website answers them in plain text. Those answers are what a careful model will look for when it builds a comparison, and they help human visitors too.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Gemini 4 Carbon is Google's most capable model, now reaching AI Mode for AI Ultra subscribers. It raises the bar for detail and consistency. Anaheim and Orange County businesses that publish clear, accurate, specific information are best placed as AI research gets deeper.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is Gemini 4 Carbon?",
+      "a": "Google's strongest model, released on November 10, 2026, built for complex, long-running reasoning tasks."
+    },
+    {
+      "q": "Is Gemini 4 Carbon in Google Search?",
+      "a": "Google says it is rolling out to all Google AI Ultra subscribers in AI Mode in Search."
+    },
+    {
+      "q": "How is Carbon different from Argon?",
+      "a": "Google says Argon suits most work, while Carbon is for the hardest multi-step tasks and uses more tokens to reason."
+    },
+    {
+      "q": "How much does Carbon cost for developers?",
+      "a": "Google lists $2 per million input tokens and $10 per million output tokens as an introductory price."
+    },
+    {
+      "q": "Will Carbon change my local rankings?",
+      "a": "Google has not said; accurate, detailed and consistent information is the safest preparation."
+    },
+    {
+      "q": "Can I use Carbon in the Gemini app?",
+      "a": "Google says it is rolling out to AI Ultra subscribers in the Gemini app."
+    },
+    {
+      "q": "What is /swarm?",
+      "a": "A preview feature in Google Antigravity that turns one prompt into a coordinated team of AI agents."
+    },
+    {
+      "q": "Should small businesses build tools on Carbon?",
+      "a": "Start with simpler models and use Carbon only for tasks that need deep reasoning."
+    },
+    {
+      "q": "Do you work with businesses in Anaheim and Orange County?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California, from Anaheim and Santa Ana to Irvine and the coastal cities."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "how to optimize for Google AI Mode",
+      "url": "https://thechimeraai.com/how-to-optimize-for-google-ai-mode/"
+    },
+    {
+      "anchor": "how to show up in Google AI Overviews",
+      "url": "https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/"
+    },
+    {
+      "anchor": "Gemini SEO",
+      "url": "https://thechimeraai.com/gemini-seo/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google: Gemini 4 Carbon is now available (Nov 10, 2026)",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+    },
+    {
+      "title": "Google: The latest AI news we announced in October 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 0,
+      "type": "timeline",
+      "eyebrow": "Timeline",
+      "title": "Gemini 4 Carbon rollout",
+      "lead": "Dates and availability from Google's announcement.",
+      "items": [
+        {
+          "when": "Late Oct 2026",
+          "title": "Fairwind",
+          "text": "Released to cybersecurity defenders."
+        },
+        {
+          "when": "Nov 10, 2026",
+          "title": "Developers",
+          "text": "API in AI Studio and Gemini for business."
+        },
+        {
+          "when": "Nov 10, 2026",
+          "title": "AI Ultra",
+          "text": "Rolling out in the Gemini app and AI Mode."
+        },
+        {
+          "when": "Ongoing",
+          "title": "Argon",
+          "text": "Remains the choice for most work."
+        }
+      ]
+    }
+  ],
+  "hero_query": "What is Gemini 4 Carbon and does it change Google AI Mode results?",
+  "short_title": "Gemini 4 Carbon arrives in AI Mode",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "kind": "blog",
+  "category": "AI news",
+  "slot": 2,
+  "hero_image": {
+    "id": 1247,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/gemini-4-carbon-ai-mode-local-business-chimera.jpg",
+    "alt": "Gemini 4 Carbon: What It Means for Local Business: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  }
+}

@@ -1,0 +1,216 @@
+{
+ "date": "2026-11-11",
+ "research": "Google autocomplete demand checks for 'seo for <industry>' seeds; Search Console query data unavailable (no service-account key); topics with buying intent for Anaheim and Orange County businesses; none repeat an existing page.",
+ "topics": [
+  {
+   "slug": "core-web-vitals-for-local-businesses",
+   "query": "core web vitals",
+   "kind": "guide",
+   "title": "Core Web Vitals for Local Businesses: A Guide"
+  },
+  {
+   "slug": "gemini-4-carbon-ai-mode-local-business",
+   "query": "gemini 4 carbon",
+   "kind": "blog",
+   "title": "Gemini 4 Carbon: What It Means for Local Business"
+  },
+  {
+   "slug": "google-ai-training-control-robots-txt",
+   "query": "ai training control robots.txt",
+   "kind": "blog",
+   "title": "AI Training Control in robots.txt: Google's Plan"
+  },
+  {
+   "slug": "google-business-profile-categories",
+   "query": "google business profile categories",
+   "kind": "guide",
+   "title": "Google Business Profile Categories: How to Choose"
+  },
+  {
+   "slug": "google-business-profile-holiday-hours",
+   "query": "google business profile holiday hours",
+   "kind": "guide",
+   "title": "Google Business Profile Holiday Hours: Setup Guide"
+  },
+  {
+   "slug": "google-business-profile-photos",
+   "query": "google business profile photos",
+   "kind": "guide",
+   "title": "Google Business Profile Photos: Sizes and Tips"
+  },
+  {
+   "slug": "google-business-profile-posts",
+   "query": "google business profile posts",
+   "kind": "guide",
+   "title": "Google Business Profile Posts: Updates, Offers, Events"
+  },
+  {
+   "slug": "google-business-profile-service-area",
+   "query": "google business profile service area",
+   "kind": "guide",
+   "title": "Google Business Profile Service Area: Setup Guide"
+  },
+  {
+   "slug": "google-business-profile-suspended",
+   "query": "google business profile suspended",
+   "kind": "guide",
+   "title": "Google Business Profile Suspended? How to Fix It"
+  },
+  {
+   "slug": "google-business-profile-verification",
+   "query": "google business profile verification",
+   "kind": "guide",
+   "title": "Google Business Profile Verification: Every Method"
+  },
+  {
+   "slug": "google-local-services-ads-vs-seo",
+   "query": "local services ads vs seo",
+   "kind": "guide",
+   "title": "Local Services Ads vs SEO: Which Is Better?"
+  },
+  {
+   "slug": "google-seo-learning-paths-small-business",
+   "query": "google seo learning paths",
+   "kind": "blog",
+   "title": "Google's Free SEO Learning Paths: A Guide"
+  },
+  {
+   "slug": "how-to-remove-fake-google-reviews",
+   "query": "how to remove fake google reviews",
+   "kind": "guide",
+   "title": "How to Remove Fake Google Reviews (Step by Step)"
+  },
+  {
+   "slug": "search-console-generative-ai-performance-report",
+   "query": "search console generative ai performance report",
+   "kind": "blog",
+   "title": "Search Console Generative AI Performance Report"
+  },
+  {
+   "slug": "search-console-multimodal-search-report",
+   "query": "search console multimodal search",
+   "kind": "blog",
+   "title": "Multimodal Search in Search Console: Lens Data"
+  },
+  {
+   "slug": "seo-for-architects",
+   "query": "seo for architects",
+   "kind": "guide",
+   "title": "SEO for Architects in Orange County (Guide)"
+  },
+  {
+   "slug": "seo-for-bakeries",
+   "query": "seo for bakeries",
+   "kind": "guide",
+   "title": "SEO for Bakeries in Orange County: Local Guide"
+  },
+  {
+   "slug": "seo-for-car-washes",
+   "query": "seo for car wash",
+   "kind": "guide",
+   "title": "SEO for Car Washes in Orange County: Local Guide"
+  },
+  {
+   "slug": "seo-for-coffee-shops",
+   "query": "seo for coffee shops",
+   "kind": "guide",
+   "title": "SEO for Coffee Shops in Orange County (2026)"
+  },
+  {
+   "slug": "seo-for-criminal-defense-lawyers",
+   "query": "seo for criminal defense lawyers",
+   "kind": "guide",
+   "title": "SEO for Criminal Defense Lawyers in OC"
+  },
+  {
+   "slug": "seo-for-estate-planning-attorneys",
+   "query": "seo for estate planning attorneys",
+   "kind": "guide",
+   "title": "SEO for Estate Planning Attorneys in OC"
+  },
+  {
+   "slug": "seo-for-event-planners",
+   "query": "seo for event planners",
+   "kind": "guide",
+   "title": "SEO for Event Planners in Orange County"
+  },
+  {
+   "slug": "seo-for-fence-companies",
+   "query": "seo for fence companies",
+   "kind": "guide",
+   "title": "SEO for Fence Companies in Orange County"
+  },
+  {
+   "slug": "seo-for-immigration-lawyers",
+   "query": "seo for immigration lawyers",
+   "kind": "guide",
+   "title": "SEO for Immigration Lawyers in Orange County"
+  },
+  {
+   "slug": "seo-for-it-companies",
+   "query": "seo for it companies",
+   "kind": "guide",
+   "title": "SEO for IT Companies in Orange County (2026)"
+  },
+  {
+   "slug": "seo-for-kitchen-remodelers",
+   "query": "seo for kitchen remodelers",
+   "kind": "guide",
+   "title": "SEO for Kitchen Remodelers in Orange County"
+  },
+  {
+   "slug": "seo-for-massage-therapists",
+   "query": "seo for massage therapists",
+   "kind": "guide",
+   "title": "SEO for Massage Therapists in Orange County"
+  },
+  {
+   "slug": "seo-for-pressure-washing",
+   "query": "seo for pressure washing",
+   "kind": "guide",
+   "title": "SEO for Pressure Washing Companies in OC"
+  },
+  {
+   "slug": "seo-for-self-storage",
+   "query": "seo for self storage",
+   "kind": "guide",
+   "title": "SEO for Self Storage in Orange County (Guide)"
+  },
+  {
+   "slug": "seo-for-staffing-agencies",
+   "query": "seo for staffing agencies",
+   "kind": "guide",
+   "title": "SEO for Staffing Agencies in Orange County"
+  },
+  {
+   "slug": "seo-for-tattoo-shops",
+   "query": "seo for tattoo shops",
+   "kind": "guide",
+   "title": "SEO for Tattoo Shops in Orange County (Guide)"
+  },
+  {
+   "slug": "seo-for-tutoring-centers",
+   "query": "seo for tutoring",
+   "kind": "guide",
+   "title": "SEO for Tutoring Centers in Orange County"
+  },
+  {
+   "slug": "seo-for-water-damage-restoration",
+   "query": "seo for water damage restoration",
+   "kind": "guide",
+   "title": "SEO for Water Damage Restoration Companies"
+  },
+  {
+   "slug": "seo-for-wedding-venues",
+   "query": "seo for wedding venues",
+   "kind": "guide",
+   "title": "SEO for Wedding Venues in Orange County"
+  },
+  {
+   "slug": "seo-for-yoga-studios",
+   "query": "seo for yoga studios",
+   "kind": "guide",
+   "title": "SEO for Yoga Studios in Orange County (Guide)"
+  }
+ ]
+}
