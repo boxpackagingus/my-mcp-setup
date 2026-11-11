@@ -875,6 +875,31 @@
     "page": "seo-for-yoga-studios"
   },
   {
+    "keyword": "Businesses in ChatGPT",
+    "kind": "Main",
+    "page": "businesses-in-chatgpt-claim-your-business"
+  },
+  {
+    "keyword": "ChatGPT Business Hub",
+    "kind": "Supporting",
+    "page": "businesses-in-chatgpt-claim-your-business"
+  },
+  {
+    "keyword": "claim business on ChatGPT",
+    "kind": "Supporting",
+    "page": "businesses-in-chatgpt-claim-your-business"
+  },
+  {
+    "keyword": "ChatGPT Business Agents",
+    "kind": "Supporting",
+    "page": "businesses-in-chatgpt-claim-your-business"
+  },
+  {
+    "keyword": "ChatGPT business profile",
+    "kind": "Supporting",
+    "page": "businesses-in-chatgpt-claim-your-business"
+  },
+  {
     "keyword": "is SEO worth it for small business",
     "kind": "Main",
     "page": "is-seo-worth-it-for-small-business"
@@ -3965,31 +3990,6 @@
     "page": "geo-for-multi-location-businesses"
   },
   {
-    "keyword": "how ChatGPT recommends local businesses",
-    "kind": "Main",
-    "page": "how-chatgpt-recommends-local-businesses"
-  },
-  {
-    "keyword": "ChatGPT local recommendations",
-    "kind": "Supporting",
-    "page": "how-chatgpt-recommends-local-businesses"
-  },
-  {
-    "keyword": "AI local search",
-    "kind": "Supporting",
-    "page": "how-chatgpt-recommends-local-businesses"
-  },
-  {
-    "keyword": "get recommended by ChatGPT",
-    "kind": "Supporting",
-    "page": "how-chatgpt-recommends-local-businesses"
-  },
-  {
-    "keyword": "local business AI visibility",
-    "kind": "Supporting",
-    "page": "how-chatgpt-recommends-local-businesses"
-  },
-  {
     "keyword": "local business schema",
     "kind": "Main",
     "page": "local-business-schema-for-ai-search"
@@ -4340,6 +4340,31 @@
     "page": "product-pages-for-ai-shopping"
   },
   {
+    "keyword": "how ChatGPT recommends local businesses",
+    "kind": "Main",
+    "page": "how-chatgpt-recommends-local-businesses"
+  },
+  {
+    "keyword": "ChatGPT local recommendations",
+    "kind": "Supporting",
+    "page": "how-chatgpt-recommends-local-businesses"
+  },
+  {
+    "keyword": "AI local search",
+    "kind": "Supporting",
+    "page": "how-chatgpt-recommends-local-businesses"
+  },
+  {
+    "keyword": "get recommended by ChatGPT",
+    "kind": "Supporting",
+    "page": "how-chatgpt-recommends-local-businesses"
+  },
+  {
+    "keyword": "local business AI visibility",
+    "kind": "Supporting",
+    "page": "how-chatgpt-recommends-local-businesses"
+  },
+  {
     "keyword": "AI Overviews vs featured snippets",
     "kind": "Main",
     "page": "ai-overviews-vs-featured-snippets"
@@ -4680,26 +4705,6 @@
     "page": "how-to-get-cited-by-claude"
   },
   {
-    "keyword": "rank in ChatGPT",
-    "kind": "Main",
-    "page": "how-to-rank-in-chatgpt"
-  },
-  {
-    "keyword": "ChatGPT SEO",
-    "kind": "Supporting",
-    "page": "how-to-rank-in-chatgpt"
-  },
-  {
-    "keyword": "ChatGPT search",
-    "kind": "Supporting",
-    "page": "how-to-rank-in-chatgpt"
-  },
-  {
-    "keyword": "OAI-SearchBot",
-    "kind": "Supporting",
-    "page": "how-to-rank-in-chatgpt"
-  },
-  {
     "keyword": "Google AI Overviews",
     "kind": "Main",
     "page": "how-to-show-up-in-google-ai-overviews"
@@ -4980,8 +4985,28 @@
     "page": "robots-txt-for-ai-crawlers"
   },
   {
+    "keyword": "OAI-SearchBot",
+    "kind": "Supporting",
+    "page": "robots-txt-for-ai-crawlers"
+  },
+  {
     "keyword": "block AI training",
     "kind": "Supporting",
     "page": "robots-txt-for-ai-crawlers"
+  },
+  {
+    "keyword": "rank in ChatGPT",
+    "kind": "Main",
+    "page": "how-to-rank-in-chatgpt"
+  },
+  {
+    "keyword": "ChatGPT SEO",
+    "kind": "Supporting",
+    "page": "how-to-rank-in-chatgpt"
+  },
+  {
+    "keyword": "ChatGPT search",
+    "kind": "Supporting",
+    "page": "how-to-rank-in-chatgpt"
   }
 ]
