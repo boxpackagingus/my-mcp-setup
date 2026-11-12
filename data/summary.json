@@ -104,16 +104,31 @@
       "form_leads_28d": 1,
       "source": "Site Kit",
       "engine_leads_28d": 0
+    },
+    {
+      "date": "2026-11-12",
+      "pages_total": 207,
+      "pages_indexed": 54,
+      "clicks_28d": 1,
+      "impressions_28d": 379,
+      "engine_clicks_28d": 1,
+      "sessions_28d": 45.0,
+      "ai_sessions_28d": 0,
+      "ai_by_engine": {},
+      "leads_28d": 1.0,
+      "form_leads_28d": 1,
+      "source": "Site Kit",
+      "engine_leads_28d": 0
     }
   ],
   "latest": {
-    "date": "2026-11-11",
+    "date": "2026-11-12",
     "pages_total": 207,
     "pages_indexed": 54,
     "clicks_28d": 1,
-    "impressions_28d": 351,
+    "impressions_28d": 379,
     "engine_clicks_28d": 1,
-    "sessions_28d": 39.0,
+    "sessions_28d": 45.0,
     "ai_sessions_28d": 0,
     "ai_by_engine": {},
     "leads_28d": 1.0,
@@ -170,14 +185,16 @@
       "impressions": 49,
       "ctr": 0,
       "position": 60.16326530612245
+    },
+    {
+      "date": "2026-11-11",
+      "clicks": 0,
+      "impressions": 28,
+      "ctr": 0,
+      "position": 62.142857142857146
     }
   ],
   "ga_daily": [
-    {
-      "date": "20261014",
-      "sessions": 0.0,
-      "keyEvents": 0.0
-    },
     {
       "date": "20261015",
       "sessions": 0.0,
@@ -311,6 +328,11 @@
     {
       "date": "20261110",
       "sessions": 12.0,
+      "keyEvents": 0.0
+    },
+    {
+      "date": "20261111",
+      "sessions": 6.0,
       "keyEvents": 0.0
     }
   ]
