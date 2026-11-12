@@ -193,7 +193,7 @@ date, topic and summary, newest first). Build files live in `content/build/blog_
 6. **Dashboard.** Run the quick dashboard refresh below; the Blog section reads the `blogs` and `totals` datasets.
 7. Add the 5 posts to `data/last-run.md` and commit with the message `Daily blog YYYY-MM-DD`.
 
-## Quick dashboard refresh (every 3 hours)
+## Quick dashboard refresh (once a day, as part of the daily run)
 
 1. `git pull`, then `python -m engine refresh`. It runs `track` and `export`, then prints the dashboard files that changed (`changed`), each with its `old_blob`.
 2. For each changed file: upload it as an asset to https://claude.ai/artifact/Dd9pgZazE6LyFGzXSp8seV, then update the matching `datasets/<name>` document (`source.url` = new `/_blob/...`, `updated`, `edit`) in one ArtifactData batch pinned with `if_version` from a fresh list.

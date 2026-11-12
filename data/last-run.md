@@ -1,20 +1,8 @@
-# Daily run 2026-11-10
+# Daily run 2026-11-12
 
-## Published
-None. The 50-page plan is complete, so this run only tracked results and checked the site.
-
-## Site check
-All OK: sitemap lists every engine page, llms.txt and llms-full.txt list all 81 guides, robots.txt allows AI crawlers, every page live with Markdown copy and schema.
-
-## Numbers (Search Console and GA4 via Site Kit, last 28 days)
-- Pages indexed (appearing in Google results): 52 of 81
-- Impressions: 302, clicks: 1, visits: 27, leads: 1
-
-## Needs a human
-- Decide whether to start another batch of pages, or to improve titles and descriptions on pages with impressions but no clicks.
-
-## 2026-11-11 daily run
-- 30 guide pages: 20 industry pages (bakeries, coffee shops, car washes, tattoo shops, massage therapists, yoga studios, tutoring, self storage, water damage restoration, kitchen remodelers, fence companies, pressure washing, estate planning, criminal defense and immigration lawyers, staffing agencies, IT companies, event planners, architects, wedding venues) and 10 Google Business Profile, reviews, ads and site speed guides.
-- 5 blog posts: Google's shared AI training control in robots.txt; Gemini 4 Carbon in AI Mode; Search Console generative AI report; Search Console multimodal search report; Google's SEO learning paths.
-- 36 related pages republished with links to the new pages; IndexNow sent; sitecheck 206/206 OK.
-- Added later: blog post on OpenAI's "Businesses in ChatGPT" (text supplied by the site owner, since openai.com refuses automated requests), linked from 2 related pages.
+- Published 35 pages: 20 industry guides (slots 81-100), 10 Google Business Profile how-to guides and 5 blog posts.
+- Blog posts: Gemini 4 Hydrogen in Google Search; Google Ads Invalid Traffic card; moving to a CDN without blocking Googlebot; Gemini on Apple CarPlay; managing your Business Profile in the Gemini web app.
+- All 35 pass the quality gate; banners from Unsplash (recorded in data/banner_photos_used.json).
+- Internal linking run on all 242 pages; IndexNow sent; site check: every page live, in sitemap and llms.txt, with schema.
+- Totals: 242 pages live (221 guides, 21 blogs), 57 pages showing in Google, 388 impressions, 61 visits, 1 lead (last 28 days).
+- Dashboard refreshed once today (3-hourly refresh disabled at the user's request).

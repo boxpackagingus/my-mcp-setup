@@ -1,0 +1,240 @@
+{
+  "query": "google business profile booking links",
+  "slug": "google-business-profile-links",
+  "eyebrow": "Google Business Profile",
+  "primary_keyword": "Google Business Profile links",
+  "secondary_keywords": [
+    "Google Business Profile booking link",
+    "add menu link Google",
+    "order link Google Maps",
+    "reservation link Google Business Profile"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Google Business Profile Links: Booking and Orders",
+    "meta_description": "Google Business Profile links for booking, reservations, menus and orders: how to add them, preferred links and removing third-party links, for OC businesses."
+  },
+  "h1": "Google Business Profile Links: Booking, Reservation, Menu and Order Links",
+  "answer": "Google Business Profile links let customers act straight from your profile: book an appointment, make a reservation, check a menu or place an order. Google says you can add up to 10 links per category and set a preferred link. Anaheim and Orange County businesses should add their own direct links so customers don't have to go through a third party.",
+  "key_takeaways": [
+    "Links let customers act from your profile.",
+    "Up to 10 links per category.",
+    "Set a preferred link.",
+    "Links can't be added via API or spreadsheet.",
+    "Third-party booking links must be removed through the provider."
+  ],
+  "sections": [
+    {
+      "heading": "Two types of links",
+      "body_html": "<p>Google's help page says your profile can include a single link to help customers check a menu or review a list of services, and up to 10 links per category to help them book an appointment, make a reservation, place a food order or place a shopping order.</p>"
+    },
+    {
+      "heading": "Why direct links matter",
+      "body_html": "<p>Customers who find you on Google often want to act immediately. A direct booking or ordering link takes them to your own system, which usually means lower fees and a direct relationship with the customer.</p>"
+    },
+    {
+      "heading": "How to add links",
+      "body_html": "<p>Go to your Business Profile. On Google Search, select Booking, Food ordering or Pickup and delivery; on Google Maps, select Edit profile and the transaction type. Select Add link, or Add another link if you already have some, enter the URL and save.</p>"
+    },
+    {
+      "heading": "Set a preferred link",
+      "body_html": "<p>If you have more than one link, select the transaction type, then Set preferred link, choose the link and save. Google shows it at the top as Business preferred.</p>"
+    },
+    {
+      "heading": "No bulk upload",
+      "body_html": "<p>Google notes that local business links are not available through the Business Profile API or spreadsheet upload. Multi-location businesses add them through the profile editor.</p>"
+    },
+    {
+      "heading": "Third-party links",
+      "body_html": "<p>Google says links to services like food ordering, appointments or reservations can appear automatically through third-party partners. You can hide third-party food ordering providers for pickup, delivery or both from your profile.</p>"
+    },
+    {
+      "heading": "Removing third-party booking links",
+      "body_html": "<p>Google says you cannot delete third-party booking or reservation providers from your profile settings. Contact the provider through its opt-out link or support; Google says providers must process opt-out requests within 5 business days, and if they do not, you can report a third-party violation.</p>"
+    },
+    {
+      "heading": "Links by business type",
+      "body_html": "<ul><li>Restaurants: menu, reservations and food ordering links.</li><li>Salons, clinics and studios: booking links.</li><li>Retail: shopping order links.</li><li>Service businesses: a link to the services list or a quote form.</li></ul>"
+    },
+    {
+      "heading": "Test your links",
+      "body_html": "<p>Open each link on a phone as a customer would. Broken links or links to a generic homepage waste the customer's intent.</p>"
+    },
+    {
+      "heading": "Links and AI assistants",
+      "body_html": "<p>As assistants take on more tasks for people, such as booking or ordering, clear, working action links make your business easier to act on.</p>"
+    },
+    {
+      "heading": "Checklist",
+      "body_html": "<ul><li>Menu or services link added.</li><li>Booking, reservation or order links added.</li><li>Preferred link set.</li><li>Unwanted third-party food links hidden.</li><li>Third-party booking opt-outs requested.</li><li>Every link tested on a phone.</li></ul>"
+    },
+    {
+      "heading": "Common link mistakes",
+      "body_html": "<ul><li>Linking every action to the homepage instead of the booking, menu or order page.</li><li>Leaving old third-party links in place after switching to a new provider.</li><li>Not setting a preferred link, so a third-party option appears first.</li><li>Using links that break on phones or require customers to log in first.</li><li>Forgetting to check links after a website redesign changes page addresses.</li></ul>"
+    },
+    {
+      "heading": "Choosing your own links or third parties",
+      "body_html": "<p>Third-party platforms can bring convenience and sometimes new customers, but they usually take a fee and own the customer relationship. Your own booking or ordering system typically costs less per transaction and lets you keep customer details for repeat business. Many businesses use both: their own link as the preferred option and a third party as a backup. Whatever you choose, make the path short: a customer in Anaheim who taps Book or Order on your profile should reach a page where they can finish the task in a minute or two on a phone. Review the numbers every few months and adjust the preferred link if one route clearly converts better.</p>"
+    },
+    {
+      "heading": "An example",
+      "body_html": "<p>Imagine a Mexican restaurant in Santa Ana whose profile shows two delivery apps and an old reservation partner. The owner adds the restaurant's own ordering link, sets it as Business preferred, hides one delivery app it no longer uses, and asks the old reservation provider to remove its link through the provider's opt-out form, following up after 5 business days.</p>"
+    },
+    {
+      "heading": "How this fits your local plan",
+      "body_html": "<p>This task is one piece of a wider local plan. Google says local results are mainly based on relevance, distance and popularity, so the profile, your website and your reputation all have to agree. A practical order for most Orange County businesses is: get the Business Profile verified and accurate, make the <a href=\"https://thechimeraai.com/nap-consistency-local-citations/\">name, address and phone</a> identical everywhere, publish one clear page per service, then build a steady habit of <a href=\"https://thechimeraai.com/how-to-get-more-google-reviews/\">genuine reviews</a> and replies. Each step makes the next one work better, and the same signals help AI assistants such as <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a>, <a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a> and Google's AI features describe your business correctly when someone in Anaheim asks for a recommendation.</p>"
+    },
+    {
+      "heading": "Questions owners ask us",
+      "body_html": "<p>Owners often ask why a third-party link appeared on their profile without their permission. Partners can supply links to Google, which is why Google provides ways to hide food ordering providers and routes to request removal of booking links. Another common question is whether links affect rankings. Their main job is to help customers act; a profile that leads more people to book or order is doing its work. Owners also ask what to link when they have no online booking. A clear contact or quote page with a short form is a sensible choice for a services link.</p>"
+    },
+    {
+      "heading": "What to do this week",
+      "body_html": "<ol><li>List the actions customers take.</li><li>Add your own links.</li><li>Set a preferred link.</li><li>Remove or hide unwanted third-party links.</li></ol>"
+    },
+    {
+      "heading": "When to get help",
+      "body_html": "<p>Most of this can be done in-house with an hour or two and careful reading of Google's own help pages. It is worth bringing in help when the stakes are high or the problem keeps coming back: a profile that has been suspended more than once, many locations to manage, a site that keeps failing the same checks, or no time to keep up the routine. A good <a href=\"https://thechimeraai.com/local-seo-orange-county/\">local SEO</a> partner should explain what they will change and why, point to Google's guidelines rather than promise rankings, and leave you with access to every account. <a href=\"https://thechimeraai.com/\">Chimera</a> works this way with businesses across Anaheim and Orange County.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Add your own booking, menu and order links, set a preferred link, remove unwanted third-party links through the provider and test everything. Chimera, based in Anaheim, sets up action links for Orange County businesses.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I add a booking link to Google?",
+      "a": "On Search select Booking, or on Maps select Edit profile and the transaction type, then Add link."
+    },
+    {
+      "q": "How many links can I add?",
+      "a": "Up to 10 per category, plus a single menu or services link."
+    },
+    {
+      "q": "What is a preferred link?",
+      "a": "The link you choose to show first as Business preferred."
+    },
+    {
+      "q": "How do I remove a third-party booking link?",
+      "a": "Request removal from the provider; Google says they must process it within 5 business days."
+    },
+    {
+      "q": "Can I add links in bulk?",
+      "a": "No. Google says links aren't available through the API or spreadsheet upload."
+    },
+    {
+      "q": "Can I hide food delivery apps from my profile?",
+      "a": "Yes, third-party food ordering providers can be hidden."
+    },
+    {
+      "q": "Do you help businesses in Anaheim and Orange County with this?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "Google Business Profile optimization in Orange County",
+      "url": "https://thechimeraai.com/google-business-profile-optimization-orange-county/"
+    },
+    {
+      "anchor": "Google Business Profile booking button",
+      "url": "https://thechimeraai.com/google-business-profile-booking-button/"
+    },
+    {
+      "anchor": "SEO for restaurants in Orange County",
+      "url": "https://thechimeraai.com/seo-for-restaurants-orange-county/"
+    },
+    {
+      "anchor": "Google Business Profile posts",
+      "url": "https://thechimeraai.com/google-business-profile-posts/"
+    },
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Manage your Business Profile in Gemini",
+      "url": "https://thechimeraai.com/blog/google-business-profile-gemini-web-app/"
+    },
+    {
+      "anchor": "Google Business Profile services",
+      "url": "https://thechimeraai.com/google-business-profile-services/"
+    },
+    {
+      "anchor": "Create a Google Business Profile",
+      "url": "https://thechimeraai.com/how-to-create-google-business-profile/"
+    },
+    {
+      "anchor": "Claim a Google Business Profile",
+      "url": "https://thechimeraai.com/how-to-claim-google-business-profile/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Business Profile Help: Manage your local business links",
+      "url": "https://support.google.com/business/answer/6218037?hl=en"
+    },
+    {
+      "title": "Google Business Profile Help: Guidelines for representing your business on Google",
+      "url": "https://support.google.com/business/answer/3038177?hl=en"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 2,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "Adding action links",
+      "lead": "From Google's help page.",
+      "steps": [
+        {
+          "title": "Type",
+          "text": "Booking, ordering or menu."
+        },
+        {
+          "title": "Add",
+          "text": "Enter your URL."
+        },
+        {
+          "title": "Prefer",
+          "text": "Set your preferred link."
+        },
+        {
+          "title": "Test",
+          "text": "Check it on a phone."
+        }
+      ]
+    }
+  ],
+  "hero_query": "How do I add an online booking link to my Google listing?",
+  "short_title": "Google Business Profile links",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 1696,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/google-business-profile-links-chimera.jpg",
+    "alt": "Google Business Profile Links: Booking and Orders: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-12",
+  "updated": "2026-11-12"
+}

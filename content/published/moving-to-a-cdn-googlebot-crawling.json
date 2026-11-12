@@ -1,0 +1,224 @@
+{
+  "query": "moving to a cdn googlebot",
+  "slug": "moving-to-a-cdn-googlebot-crawling",
+  "eyebrow": "Technical SEO",
+  "primary_keyword": "moving to a CDN",
+  "secondary_keywords": [
+    "CDN Googlebot",
+    "CDN crawl rate",
+    "bot protection blocking Googlebot",
+    "CDN migration SEO"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Moving to a CDN: Google's Advice on Crawling",
+    "meta_description": "Google explains why crawling can spike after moving to a CDN and how blanket bot protection can block Googlebot. What Orange County site owners should do."
+  },
+  "h1": "Moving to a CDN Without Overwhelming Your Server or Blocking Googlebot",
+  "answer": "Google's Search Central blog explains that after moving to a CDN, faster responses can make Google crawl more, while the CDN's empty cache sends those requests to your origin server. Turning on blanket bot protection can then block Googlebot and drop pages from Search. Anaheim and Orange County site owners moving to a CDN should allow verified bots, pre-warm caches and use 429 or 503 briefly if needed.",
+  "key_takeaways": [
+    "Published on Search Central on November 11, 2026.",
+    "Fast CDN responses can raise Google's crawl rate.",
+    "A cold cache sends first requests to your origin server.",
+    "Blanket bot protection and CAPTCHAs can block Googlebot.",
+    "Allow verified bots and pre-warm caches."
+  ],
+  "sections": [
+    {
+      "heading": "What Google published",
+      "body_html": "<p>On November 11, 2026, Google's Search Central blog published a post on moving to a CDN, a content delivery network that serves your site from servers closer to visitors. Google says a CDN can be a major upgrade, lowering latency and shielding your origin server from heavy traffic, but that the transition phase can be a bit weird.</p>"
+    },
+    {
+      "heading": "Why crawling can spike",
+      "body_html": "<p>Google explains that its crawlers set a crawl capacity limit, also called hostload, based on how your server responds. Slower responses decrease the crawl rate; fast, stable responses let it rise when there is crawl demand. When your DNS points to a fast CDN, response times drop, and to Google it looks like your server got a major hardware upgrade, so crawlers gradually ramp up.</p>"
+    },
+    {
+      "heading": "The cold cache problem",
+      "body_html": "<p>A new CDN starts with an empty, or cold, cache. The first request for each URL at an edge location is a cache miss, so the CDN fetches it from your origin server. Only later requests are served from the edge. Google points out that people cluster around popular pages that warm up quickly, while crawlers explore your whole URL inventory, so many crawler requests pass straight through to your origin at first.</p>"
+    },
+    {
+      "heading": "Blanket bot protection goes too far",
+      "body_html": "<p>Seeing a surge of automated requests, admins are tempted to turn on blanket bot protection. Google warns that without exemptions these rules treat all automated traffic the same. When a CDN or web application firewall challenges requests with a CAPTCHA, Google's crawlers fail. Google says crawlers then back off, and pages and shopping listings begin to drop out of Search.</p>"
+    },
+    {
+      "heading": "Google's three recommendations",
+      "body_html": "<ol><li>If you need to block bots, allow verified bots in your CDN and firewall settings, or target specific unwanted bots with <a href=\"https://thechimeraai.com/robots-txt-for-ai-crawlers/\">robots.txt</a> or rules rather than blocking all automated clients.</li><li>Pre-warm caches by fetching your highest-traffic pages, upcoming peak pages and most frequently crawled URLs through the CDN at a controlled pace before switching all traffic.</li><li>If crawling still overloads your origin, return 429 or 503 status codes for a short window, a few hours or 1 to 2 days at most.</li></ol>"
+    },
+    {
+      "heading": "Identifying Google's crawlers",
+      "body_html": "<p>Google notes you can identify its crawlers using Google's published IP ranges, and that most major CDNs and firewalls have a built-in toggle or managed rule to allow known or verified bots. Use that instead of trusting any request that simply claims to be Googlebot.</p>"
+    },
+    {
+      "heading": "Don't forget AI crawlers",
+      "body_html": "<p>The same firewall rules decide whether other crawlers can read your site, including those used by AI assistants. Decide which you want to allow, using robots.txt and verified-bot settings, rather than letting a blanket rule decide for you. Blocking everything can remove you from places customers now look for recommendations.</p>"
+    },
+    {
+      "heading": "Who this affects locally",
+      "body_html": "<p>Many small business sites in Orange County sit behind a CDN or security service without the owner realizing it, often set up by a host or developer. If your host turns on bot protection during an attack or a site move, check that Google can still crawl your site.</p>"
+    },
+    {
+      "heading": "How to check Googlebot can reach you",
+      "body_html": "<ul><li>Use URL Inspection in <a href=\"https://thechimeraai.com/blog/search-console-generative-ai-performance-report/\">Search Console</a> to test a live URL.</li><li>Check the Crawl Stats report for rising errors or falling requests.</li><li>Look for 403 responses or challenge pages served to crawlers in your CDN logs.</li><li>Confirm verified bots are allowed in your firewall settings.</li></ul>"
+    },
+    {
+      "heading": "A worked example",
+      "body_html": "<p>Imagine an online store in <a href=\"https://thechimeraai.com/seo-irvine/\">Irvine</a> that moves to a CDN before the holiday season. Server load jumps, so the developer switches on the CDN's strictest bot mode. Within days, product pages start disappearing from Search. The fix is to allow verified bots, pre-warm the cache with the top product and category pages, and use a temporary 503 only if the origin truly struggles. Pages return as Google crawls them again.</p>"
+    },
+    {
+      "heading": "Plan the move",
+      "body_html": "<p>Before moving to a CDN, list your most important and most crawled URLs, check your firewall's verified-bot option, and schedule the switch for a quieter period. Monitor server load and Search Console for the first few weeks.</p>"
+    },
+    {
+      "heading": "Speed still helps",
+      "body_html": "<p>Once caches are warm, a CDN can make your site faster for visitors, which helps user experience and <a href=\"https://thechimeraai.com/core-web-vitals-for-local-businesses/\">Core Web Vitals</a>. The aim is to get those benefits without a rough transition.</p>"
+    },
+    {
+      "heading": "Questions to ask your host or developer",
+      "body_html": "<ul><li>Is our site behind a CDN or web application firewall, and who manages it?</li><li>Is the option to allow verified bots turned on?</li><li>Do any rules show CAPTCHA or challenge pages to automated traffic?</li><li>How would we spot a sudden drop in Google's crawling?</li><li>What is our plan if the origin server is overloaded during a move?</li></ul>"
+    },
+    {
+      "heading": "Why this matters for small sites",
+      "body_html": "<p>It is easy to assume crawling problems only affect huge sites. But a small business site with a few hundred pages can still be knocked out of Search by a single firewall rule that challenges every bot. The fix is usually a settings change, but only if someone notices. Add a check of Search Console's crawl stats and indexing reports to your monthly routine, and look again any time your host, CDN or security settings change.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>After moving to a CDN, Google may crawl faster while the cache is still cold, so your origin carries the load. Don't block all bots: allow verified ones, pre-warm caches and use 429 or 503 only briefly. Anaheim and Orange County site owners should check Googlebot can still reach their pages after any security change.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why does crawling increase after moving to a CDN?",
+      "a": "Google says faster responses signal healthy infrastructure, so its crawl rate can rise."
+    },
+    {
+      "q": "Why is my origin server still busy?",
+      "a": "A new CDN's cache is cold, so first requests for each URL go to the origin."
+    },
+    {
+      "q": "Can bot protection block Googlebot?",
+      "a": "Yes. Google says crawlers fail CAPTCHA challenges and pages can drop out of Search."
+    },
+    {
+      "q": "How do I allow Google's crawlers?",
+      "a": "Use your CDN or firewall's verified-bot setting; Google publishes its IP ranges."
+    },
+    {
+      "q": "What does pre-warming a cache mean?",
+      "a": "Fetching important URLs through the CDN at a controlled pace before switching all traffic."
+    },
+    {
+      "q": "When should I use 429 or 503?",
+      "a": "Google says briefly, a few hours or 1 to 2 days at most, if crawling overloads your origin."
+    },
+    {
+      "q": "Should I block all bots?",
+      "a": "No. Target specific unwanted bots instead of blocking all automated clients."
+    },
+    {
+      "q": "Do you work with businesses in Anaheim and Orange County?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California, from Anaheim and Santa Ana to Irvine and the coastal cities."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "Core Web Vitals for local businesses",
+      "url": "https://thechimeraai.com/core-web-vitals-for-local-businesses/"
+    },
+    {
+      "anchor": "AI crawler user agents",
+      "url": "https://thechimeraai.com/ai-crawler-user-agents/"
+    },
+    {
+      "anchor": "robots.txt for AI crawlers",
+      "url": "https://thechimeraai.com/robots-txt-for-ai-crawlers/"
+    },
+    {
+      "anchor": "local SEO checklist",
+      "url": "https://thechimeraai.com/local-seo-checklist/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "SEO for moving companies",
+      "url": "https://thechimeraai.com/seo-for-moving-companies/"
+    },
+    {
+      "anchor": "SEO for self storage",
+      "url": "https://thechimeraai.com/seo-for-self-storage/"
+    },
+    {
+      "anchor": "SEO for water damage restoration",
+      "url": "https://thechimeraai.com/seo-for-water-damage-restoration/"
+    },
+    {
+      "anchor": "SEO for architects",
+      "url": "https://thechimeraai.com/seo-for-architects/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Search Central blog: Moving to a CDN without overwhelming your origin (or blocking Googlebot) (Nov 11, 2026)",
+      "url": "https://developers.google.com/search/blog/2026/11/crawling-cdn"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 2,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "Why crawling spikes after a CDN move",
+      "lead": "From Google's November 11, 2026 post.",
+      "steps": [
+        {
+          "title": "Faster",
+          "text": "CDN responses look like a healthy server."
+        },
+        {
+          "title": "More crawling",
+          "text": "Crawl rate ramps up."
+        },
+        {
+          "title": "Cache miss",
+          "text": "First requests go to the origin."
+        },
+        {
+          "title": "Fix",
+          "text": "Allow verified bots, pre-warm caches."
+        }
+      ]
+    }
+  ],
+  "hero_query": "Will moving my website to a CDN affect Google crawling?",
+  "short_title": "Moving to a CDN without blocking Googlebot",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "kind": "blog",
+  "category": "Google Search",
+  "slot": 3,
+  "hero_image": {
+    "id": 1703,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/moving-to-a-cdn-googlebot-crawling-banner.jpg",
+    "alt": "Moving to a CDN Without Overwhelming Your Server or Blocking Googlebot: banner photo",
+    "width": 1600,
+    "height": 760
+  },
+  "published": "2026-11-12",
+  "updated": "2026-11-12",
+  "parent_id": 709
+}

@@ -1,0 +1,240 @@
+{
+  "query": "google business profile owners and managers",
+  "slug": "google-business-profile-owners-and-managers",
+  "eyebrow": "Google Business Profile",
+  "primary_keyword": "Google Business Profile owners and managers",
+  "secondary_keywords": [
+    "add user to Google Business Profile",
+    "Google Business Profile manager access",
+    "transfer Google Business Profile ownership",
+    "GBP users"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Google Business Profile Owners and Managers",
+    "meta_description": "How to add owners and managers to a Google Business Profile, what each role can do and how to remove access safely, for Anaheim and Orange County businesses."
+  },
+  "h1": "Google Business Profile Owners and Managers: Roles, Access and Best Practice",
+  "answer": "Google Business Profile owners and managers are the people who can manage your profile. Owners have full control, including adding or removing users and deleting the profile; managers can do almost everything else. A profile has one primary owner. Anaheim and Orange County businesses should add staff and agencies as managers through People and access, never by sharing a password.",
+  "key_takeaways": [
+    "Owners have full control.",
+    "Managers can't add or remove users.",
+    "There is one primary owner.",
+    "Each person needs their own Google Account.",
+    "Remove access when people leave."
+  ],
+  "sections": [
+    {
+      "heading": "Why roles matter",
+      "body_html": "<p>Google's help page says additional owners and managers can help with daily operations: editing information, <a href=\"https://thechimeraai.com/how-to-respond-to-google-reviews/\">responding to reviews</a> and managing posts. Giving each person their own access, instead of sharing a password, lets you remove access cleanly when someone leaves.</p>"
+    },
+    {
+      "heading": "What owners can do",
+      "body_html": "<p>Google says owners have full control: they can add or remove users, manage profile information and delete the profile. A profile can have multiple owners but only one primary owner.</p>"
+    },
+    {
+      "heading": "What managers can do",
+      "body_html": "<p>Managers, formerly called site managers, have mostly the same access as owners. Google says the exception is that they cannot add or remove users or remove the profile. Managers can edit information, respond to reviews, manage posts and photos and download insights.</p>"
+    },
+    {
+      "heading": "One Google Account per person",
+      "body_html": "<p>Google says each user needs their own Google Account, so nobody needs to share a password. It also notes that Google Groups cannot be added as owners or managers.</p>"
+    },
+    {
+      "heading": "How to add an owner or manager",
+      "body_html": "<p>Go to your Business Profile, select More, then Business Profile settings, then People and access. Select Add, enter an email address, choose Owner or Manager and select Invite. Invited users can accept right away, and you receive an email when they do. Pending invites appear in the same page and can be cancelled.</p>"
+    },
+    {
+      "heading": "Changing someone's role",
+      "body_html": "<p>In People and access, select the user, then Edit next to Access, choose the new role and save. Google notes that only owners can change access roles for other users.</p>"
+    },
+    {
+      "heading": "Removing someone",
+      "body_html": "<p>In People and access, select the user and choose Remove person. If you cannot select a user, you may only have manager access. Remove former staff and agencies promptly.</p>"
+    },
+    {
+      "heading": "Transferring primary ownership",
+      "body_html": "<p>Google says a profile must have at least one other owner or manager before primary ownership can be transferred. Add the new owner first, then transfer.</p>"
+    },
+    {
+      "heading": "Agencies and contractors",
+      "body_html": "<p>Give agencies manager access, keep primary ownership inside the business and review the access list every few months. If an agency relationship ends, you keep control.</p>"
+    },
+    {
+      "heading": "Security habits",
+      "body_html": "<p>Use multi-factor authentication on every account with access, keep a written list of who manages the profile and never share verification codes.</p>"
+    },
+    {
+      "heading": "Checklist",
+      "body_html": "<ul><li>Primary owner is a business-controlled account.</li><li>Each person has their own Google Account.</li><li>Staff and agencies added as managers.</li><li>No shared passwords.</li><li>Access list reviewed regularly.</li><li>Former staff removed.</li><li>Multi-factor authentication on all accounts.</li></ul>"
+    },
+    {
+      "heading": "Common access mistakes",
+      "body_html": "<ul><li>Sharing one login between several staff members instead of giving each person their own access.</li><li>Letting an agency or web designer hold primary ownership of the business's own profile.</li><li>Forgetting to remove access when an employee or contractor leaves.</li><li>Making everyone an owner when manager access would do the job.</li><li>Using a personal email for the primary owner, so ownership is tied to one individual.</li></ul>"
+    },
+    {
+      "heading": "A simple access policy",
+      "body_html": "<p>Write down a short access policy and keep it with your other business records. It only needs a few lines: the business account that holds primary ownership, the people who are owners and why, the people and agencies who are managers, and a date to review the list, such as every quarter. Add a line to your staff leaving checklist to remove profile access on their last day. When you hire an agency, put in writing that they will be managers and that the business keeps ownership. These small habits prevent the most painful situation we see with Orange County businesses: a profile that nobody at the business can control because the only owner has moved on.</p>"
+    },
+    {
+      "heading": "An example",
+      "body_html": "<p>Imagine a dental practice in Irvine whose profile was set up by a front-desk employee who has since left. The practice owner asks the former employee to add the owner's business account, transfers primary ownership to it, then adds the office manager and the marketing agency as managers and removes the former employee. The practice now controls its own profile.</p>"
+    },
+    {
+      "heading": "How this fits your local plan",
+      "body_html": "<p>This task is one piece of a wider local plan. Google says local results are mainly based on relevance, distance and popularity, so the profile, your website and your reputation all have to agree. A practical order for most Orange County businesses is: get the Business Profile verified and accurate, make the <a href=\"https://thechimeraai.com/nap-consistency-local-citations/\">name, address and phone</a> identical everywhere, publish one clear page per service, then build a steady habit of <a href=\"https://thechimeraai.com/how-to-get-more-google-reviews/\">genuine reviews</a> and replies. Each step makes the next one work better, and the same signals help AI assistants such as <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a>, <a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a> and Google's AI features describe your business correctly when someone in Anaheim asks for a recommendation.</p>"
+    },
+    {
+      "heading": "Questions owners ask us",
+      "body_html": "<p>Owners often ask what to do when the only owner has left and cannot be reached. Google offers an ownership request route for people authorized to manage the business; keep documents that show your role. Another common question is whether managers can see the performance data. They can view and download insights, so agencies and staff can report without owner access. Owners also ask how many managers is too many. There is no need for everyone to have access; give it to the people who actively manage reviews, posts and details, and review the list regularly.</p>"
+    },
+    {
+      "heading": "What to do this week",
+      "body_html": "<ol><li>Open People and access.</li><li>Check who has access.</li><li>Make sure the business owns the profile.</li><li>Remove anyone who no longer needs access.</li></ol>"
+    },
+    {
+      "heading": "When to get help",
+      "body_html": "<p>Most of this can be done in-house with an hour or two and careful reading of Google's own help pages. It is worth bringing in help when the stakes are high or the problem keeps coming back: a profile that has been suspended more than once, many locations to manage, a site that keeps failing the same checks, or no time to keep up the routine. A good local SEO partner should explain what they will change and why, point to Google's guidelines rather than promise rankings, and leave you with access to every account. <a href=\"https://thechimeraai.com/\">Chimera</a> works this way with businesses across Anaheim and Orange County.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Keep primary ownership in a business-controlled account, add people as managers through People and access, and remove access as soon as it is no longer needed. Chimera, based in Anaheim, works as a manager on client profiles, never as owner.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What's the difference between an owner and a manager?",
+      "a": "Owners can add or remove users and delete the profile; managers can't, but can do most other tasks."
+    },
+    {
+      "q": "How many owners can a profile have?",
+      "a": "Multiple owners, but only one primary owner."
+    },
+    {
+      "q": "How do I add a manager?",
+      "a": "Business Profile settings, People and access, Add, choose Manager and Invite."
+    },
+    {
+      "q": "Can I add a Google Group?",
+      "a": "No. Google says Google Groups can't be owners or managers."
+    },
+    {
+      "q": "How do I transfer primary ownership?",
+      "a": "Add another owner or manager first, then transfer."
+    },
+    {
+      "q": "Should my agency be an owner?",
+      "a": "Usually a manager, so the business keeps control."
+    },
+    {
+      "q": "Do you help businesses in Anaheim and Orange County with this?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "Google Business Profile optimization in Orange County",
+      "url": "https://thechimeraai.com/google-business-profile-optimization-orange-county/"
+    },
+    {
+      "anchor": "how to claim a Google Business Profile",
+      "url": "https://thechimeraai.com/how-to-claim-google-business-profile/"
+    },
+    {
+      "anchor": "how to edit your Google Business Profile",
+      "url": "https://thechimeraai.com/how-to-edit-google-business-profile/"
+    },
+    {
+      "anchor": "fixing a suspended Google Business Profile",
+      "url": "https://thechimeraai.com/google-business-profile-suspended/"
+    },
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Manage your Business Profile in Gemini",
+      "url": "https://thechimeraai.com/blog/google-business-profile-gemini-web-app/"
+    },
+    {
+      "anchor": "Google Business Profile categories",
+      "url": "https://thechimeraai.com/google-business-profile-categories/"
+    },
+    {
+      "anchor": "Google Business Profile services",
+      "url": "https://thechimeraai.com/google-business-profile-services/"
+    },
+    {
+      "anchor": "Google Business Profile posts",
+      "url": "https://thechimeraai.com/google-business-profile-posts/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Business Profile Help: Manage your Business Profile owners & managers",
+      "url": "https://support.google.com/business/answer/3403100?hl=en"
+    },
+    {
+      "title": "Google Business Profile Help: Guidelines for representing your business on Google",
+      "url": "https://support.google.com/business/answer/3038177?hl=en"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 4,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "Adding someone to your profile",
+      "lead": "From Google's help page.",
+      "steps": [
+        {
+          "title": "Settings",
+          "text": "More, then Business Profile settings."
+        },
+        {
+          "title": "People",
+          "text": "People and access, then Add."
+        },
+        {
+          "title": "Role",
+          "text": "Choose Owner or Manager."
+        },
+        {
+          "title": "Invite",
+          "text": "They accept and gain access."
+        }
+      ]
+    }
+  ],
+  "hero_query": "How do I give my marketing agency access to our Google Business Profile?",
+  "short_title": "Google Business Profile owners and managers",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 1697,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/google-business-profile-owners-and-managers-chimera.jpg",
+    "alt": "Google Business Profile Owners and Managers: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-12",
+  "updated": "2026-11-12"
+}

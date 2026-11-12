@@ -1,0 +1,240 @@
+{
+  "query": "google business profile performance",
+  "slug": "google-business-profile-performance",
+  "eyebrow": "Google Business Profile",
+  "primary_keyword": "Google Business Profile performance",
+  "secondary_keywords": [
+    "Google Business Profile insights",
+    "GBP performance report",
+    "Google Maps insights",
+    "Google Business Profile metrics"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Google Business Profile Performance Insights",
+    "meta_description": "Understand Google Business Profile performance: views, searches, calls, directions, website clicks and bookings, and how Orange County businesses use them."
+  },
+  "h1": "Google Business Profile Performance: How to Read Your Insights",
+  "answer": "Google Business Profile performance shows how people find your profile and what they do next: views, the searches that showed you, calls, direction requests, website clicks, messages and bookings. Google says the data covers verified profiles, includes both organic results and Google Ads, and updates search terms at the start of each month. Anaheim and Orange County businesses can use it to see what is working.",
+  "key_takeaways": [
+    "Performance data is for verified profiles.",
+    "It includes organic results and Ads.",
+    "Search terms update monthly.",
+    "Views count unique visitors per day.",
+    "Track calls, directions and website clicks."
+  ],
+  "sections": [
+    {
+      "heading": "Who can see performance",
+      "body_html": "<p>Google's help page says performance data is available only for verified Business Profiles, and you must be signed in to the Google Account associated with the profile. Owners and managers can see views, clicks and other interactions on Search and Maps.</p>"
+    },
+    {
+      "heading": "What it measures",
+      "body_html": "<p>Google says performance data shows how people discover your profile and what actions they take. It includes views, searches and actions from both organic search results and Google Ads, so separate the effect of ads when you read it.</p>"
+    },
+    {
+      "heading": "Interactions",
+      "body_html": "<p>A summary of all your total interactions: calls, direction requests, website clicks, messages and bookings combined. It is the best single number for how often your profile leads to action.</p>"
+    },
+    {
+      "heading": "Searches",
+      "body_html": "<p>The search terms people used to find your business. Google says this metric updates at the start of each month and can take up to 5 days to show. You cannot directly manage these queries, but they show which services and phrases customers use.</p>"
+    },
+    {
+      "heading": "Views",
+      "body_html": "<p>How many people viewed your profile on Search and Maps. Google explains this counts unique visitors, counts a person only once a day, and can be lower than numbers in emails or other places.</p>"
+    },
+    {
+      "heading": "Directions, calls and website clicks",
+      "body_html": "<p>Directions counts people who asked for directions, with Google adjusting for multiple taps, cancellations and spam. Calls counts taps on the call button, so add your phone number to track it. Website clicks counts clicks on your website link.</p>"
+    },
+    {
+      "heading": "Messages and bookings",
+      "body_html": "<p>Messages counts conversations, and bookings counts completed bookings made through your profile's booking providers. Only metrics that apply to your business appear.</p>"
+    },
+    {
+      "heading": "Set a date range",
+      "body_html": "<p>Google suggests setting a date range to track performance over time. Compare the same months year over year to account for seasonality, such as summer for HVAC or the holidays for retail.</p>"
+    },
+    {
+      "heading": "Turn data into action",
+      "body_html": "<ul><li>Search terms show services to add to your profile and website.</li><li>Rising views but flat calls suggest the profile needs better photos, reviews or details.</li><li>Direction requests show interest from nearby customers.</li><li>Website clicks show how well the profile sends people to your site.</li></ul>"
+    },
+    {
+      "heading": "Combine with other data",
+      "body_html": "<p>Pair profile performance with <a href=\"https://thechimeraai.com/blog/search-console-generative-ai-performance-report/\">Search Console</a> for your website and your own call tracking or CRM, so you can see which leads become customers.</p>"
+    },
+    {
+      "heading": "Checklist",
+      "body_html": "<ul><li>Profile verified.</li><li>Signed in with the right account.</li><li>Monthly review on the calendar.</li><li>Search terms reviewed each month.</li><li>Year-over-year comparisons for seasonality.</li><li>Ads effect noted.</li><li>Leads matched in your CRM.</li></ul>"
+    },
+    {
+      "heading": "Common mistakes when reading performance",
+      "body_html": "<ul><li>Comparing a busy month with a quiet one and drawing conclusions about the profile.</li><li>Forgetting that Google Ads activity is included in the numbers.</li><li>Treating views as customers when calls, directions and bookings are the real signals.</li><li>Checking the report once and never again, so trends go unnoticed.</li><li>Not connecting profile actions to real leads and sales in your own records.</li></ul>"
+    },
+    {
+      "heading": "A simple monthly report",
+      "body_html": "<p>Keep a one-page record each month with five numbers: views, calls, direction requests, website clicks and bookings or messages where they apply. Add a short note of anything you changed on the profile that month, such as new photos, services or a run of new reviews, and anything outside the profile, such as an ad campaign or a seasonal rush. After six months you will see which changes lined up with more calls and directions. Add the top search terms to the record as well; when a service keeps appearing in searches, give it a clear place on your profile and its own page on your website. This is the same routine <a href=\"https://thechimeraai.com/\">Chimera</a> uses for businesses in Anaheim and Orange County.</p>"
+    },
+    {
+      "heading": "An example",
+      "body_html": "<p>Imagine a roofing company in Mission Viejo that checks performance each month. The search terms show many people searching for roof leak repair, a service not on its profile. The company adds it as a service, writes a roof leak repair page on its website and, over the following months, sees direction requests and calls for that service grow.</p>"
+    },
+    {
+      "heading": "How this fits your local plan",
+      "body_html": "<p>It helps to see where this sits in the bigger picture. Google ranks local results mainly on relevance, distance and popularity, and AI assistants lean on the same public information: your Business Profile, your website, other listings and what customers write. For a business in Anaheim or anywhere in Orange County, the most reliable plan is simple and repeated: keep every listing accurate, explain each service clearly on its own page, show real proof of your work and reply to customers. Small improvements here compound, and they are far harder for competitors to copy than an ad budget.</p>"
+    },
+    {
+      "heading": "Questions owners ask us",
+      "body_html": "<p>Owners often ask why calls in the report do not match their phone bill. The report counts taps on the call button from the profile, not every call the business receives, so the two will differ. Another common question is why views dropped while calls stayed steady. Views can move with seasonality and search behavior; actions such as calls and directions are usually the better measure. Owners also ask how long it takes to see the effect of changes. Give changes a few months and compare like-for-like periods before deciding what worked.</p>"
+    },
+    {
+      "heading": "What to do this week",
+      "body_html": "<ol><li>Open your performance report.</li><li>Set a date range of the last 3 months.</li><li>Note the top search terms.</li><li>Add any missing services.</li></ol>"
+    },
+    {
+      "heading": "When to get help",
+      "body_html": "<p>Plenty of owners handle this themselves. Outside help pays off when time is short, when the business has many locations or when a problem is costing calls every day it stays unresolved. Be wary of anyone who promises guaranteed positions or asks for your verification codes or passwords; Google says nobody can pay for a better local ranking. Look for clear explanations, honest timelines and reporting tied to real enquiries. Chimera offers exactly that to businesses in Anaheim and across Orange County.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Check performance monthly, compare like-for-like periods, use search terms to guide your services and content, and connect it to real leads. Chimera, based in Anaheim, reports these numbers for Orange County clients.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What does Google Business Profile performance show?",
+      "a": "Views, searches, calls, directions, website clicks, messages and bookings."
+    },
+    {
+      "q": "Why can't I see performance data?",
+      "a": "It's only for verified profiles, and you must be signed in to the right account."
+    },
+    {
+      "q": "Does performance include Google Ads?",
+      "a": "Yes. Google says it includes organic results and Google Ads."
+    },
+    {
+      "q": "How often do search terms update?",
+      "a": "At the start of each month, taking up to 5 days to appear."
+    },
+    {
+      "q": "Why are my views lower than expected?",
+      "a": "Google counts unique visitors once per day, so numbers can be lower than elsewhere."
+    },
+    {
+      "q": "Can I change which searches I appear for?",
+      "a": "Not directly; improve relevance with categories, services and content."
+    },
+    {
+      "q": "Do you help businesses in Anaheim and Orange County with this?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "Google Business Profile optimization in Orange County",
+      "url": "https://thechimeraai.com/google-business-profile-optimization-orange-county/"
+    },
+    {
+      "anchor": "how to measure GEO results",
+      "url": "https://thechimeraai.com/how-to-measure-geo-results/"
+    },
+    {
+      "anchor": "Google Business Profile services",
+      "url": "https://thechimeraai.com/google-business-profile-services/"
+    },
+    {
+      "anchor": "how to get more Google reviews",
+      "url": "https://thechimeraai.com/how-to-get-more-google-reviews/"
+    },
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Manage your Business Profile in Gemini",
+      "url": "https://thechimeraai.com/blog/google-business-profile-gemini-web-app/"
+    },
+    {
+      "anchor": "Google Business Profile photos",
+      "url": "https://thechimeraai.com/google-business-profile-photos/"
+    },
+    {
+      "anchor": "Google Business Profile holiday hours",
+      "url": "https://thechimeraai.com/google-business-profile-holiday-hours/"
+    },
+    {
+      "anchor": "Google Business Profile service area",
+      "url": "https://thechimeraai.com/google-business-profile-service-area/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Business Profile Help: Understand your Business Profile performance & insights",
+      "url": "https://support.google.com/business/answer/9918094?hl=en"
+    },
+    {
+      "title": "Google Business Profile Help: Guidelines for representing your business on Google",
+      "url": "https://support.google.com/business/answer/3038177?hl=en"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 1,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "Reading your performance",
+      "lead": "The metrics Google reports.",
+      "steps": [
+        {
+          "title": "Views",
+          "text": "Unique visitors on Search and Maps."
+        },
+        {
+          "title": "Searches",
+          "text": "Terms that showed you, monthly."
+        },
+        {
+          "title": "Actions",
+          "text": "Calls, directions, website clicks."
+        },
+        {
+          "title": "Bookings",
+          "text": "Completed through providers."
+        }
+      ]
+    }
+  ],
+  "hero_query": "How can I see how many people found my business on Google Maps?",
+  "short_title": "Google Business Profile performance",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 1698,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/google-business-profile-performance-chimera.jpg",
+    "alt": "Google Business Profile Performance Insights: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-12",
+  "updated": "2026-11-12"
+}

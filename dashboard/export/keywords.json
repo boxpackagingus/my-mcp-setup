@@ -1,5 +1,880 @@
 [
   {
+    "keyword": "Gemini 4 Hydrogen",
+    "kind": "Main",
+    "page": "gemini-4-hydrogen-google-search-upgrade"
+  },
+  {
+    "keyword": "Gemini 4 Hydrogen Search",
+    "kind": "Supporting",
+    "page": "gemini-4-hydrogen-google-search-upgrade"
+  },
+  {
+    "keyword": "Google Search model upgrade",
+    "kind": "Supporting",
+    "page": "gemini-4-hydrogen-google-search-upgrade"
+  },
+  {
+    "keyword": "query fan-out",
+    "kind": "Supporting",
+    "page": "gemini-4-hydrogen-google-search-upgrade"
+  },
+  {
+    "keyword": "AI Mode Gemini 4 Hydrogen",
+    "kind": "Supporting",
+    "page": "gemini-4-hydrogen-google-search-upgrade"
+  },
+  {
+    "keyword": "Gemini on Apple CarPlay",
+    "kind": "Main",
+    "page": "gemini-apple-carplay-local-business"
+  },
+  {
+    "keyword": "Gemini CarPlay",
+    "kind": "Supporting",
+    "page": "gemini-apple-carplay-local-business"
+  },
+  {
+    "keyword": "Gemini Live CarPlay",
+    "kind": "Supporting",
+    "page": "gemini-apple-carplay-local-business"
+  },
+  {
+    "keyword": "AI assistant in the car",
+    "kind": "Supporting",
+    "page": "gemini-apple-carplay-local-business"
+  },
+  {
+    "keyword": "Gemini app iPhone car",
+    "kind": "Supporting",
+    "page": "gemini-apple-carplay-local-business"
+  },
+  {
+    "keyword": "Google Ads invalid traffic",
+    "kind": "Main",
+    "page": "google-ads-invalid-traffic-card"
+  },
+  {
+    "keyword": "invalid clicks Google Ads",
+    "kind": "Supporting",
+    "page": "google-ads-invalid-traffic-card"
+  },
+  {
+    "keyword": "Google Ads click fraud",
+    "kind": "Supporting",
+    "page": "google-ads-invalid-traffic-card"
+  },
+  {
+    "keyword": "invalid activity credit",
+    "kind": "Supporting",
+    "page": "google-ads-invalid-traffic-card"
+  },
+  {
+    "keyword": "Google Ads fake leads",
+    "kind": "Supporting",
+    "page": "google-ads-invalid-traffic-card"
+  },
+  {
+    "keyword": "automated calls from Google",
+    "kind": "Main",
+    "page": "google-automated-calls-to-your-business"
+  },
+  {
+    "keyword": "Google calling my business",
+    "kind": "Supporting",
+    "page": "google-automated-calls-to-your-business"
+  },
+  {
+    "keyword": "Google automated call scam",
+    "kind": "Supporting",
+    "page": "google-automated-calls-to-your-business"
+  },
+  {
+    "keyword": "Google Business Profile phone verification call",
+    "kind": "Supporting",
+    "page": "google-automated-calls-to-your-business"
+  },
+  {
+    "keyword": "Google calls on behalf of customers",
+    "kind": "Supporting",
+    "page": "google-automated-calls-to-your-business"
+  },
+  {
+    "keyword": "Google Business Profile attributes",
+    "kind": "Main",
+    "page": "google-business-profile-attributes"
+  },
+  {
+    "keyword": "GBP attributes",
+    "kind": "Supporting",
+    "page": "google-business-profile-attributes"
+  },
+  {
+    "keyword": "Google Maps attributes",
+    "kind": "Supporting",
+    "page": "google-business-profile-attributes"
+  },
+  {
+    "keyword": "wheelchair accessible Google listing",
+    "kind": "Supporting",
+    "page": "google-business-profile-attributes"
+  },
+  {
+    "keyword": "business attributes Google",
+    "kind": "Supporting",
+    "page": "google-business-profile-attributes"
+  },
+  {
+    "keyword": "Google Business Profile booking button",
+    "kind": "Main",
+    "page": "google-business-profile-booking-button"
+  },
+  {
+    "keyword": "Reserve with Google",
+    "kind": "Supporting",
+    "page": "google-business-profile-booking-button"
+  },
+  {
+    "keyword": "book button Google Maps",
+    "kind": "Supporting",
+    "page": "google-business-profile-booking-button"
+  },
+  {
+    "keyword": "Google booking button",
+    "kind": "Supporting",
+    "page": "google-business-profile-booking-button"
+  },
+  {
+    "keyword": "online booking Google Business Profile",
+    "kind": "Supporting",
+    "page": "google-business-profile-booking-button"
+  },
+  {
+    "keyword": "Google Business Profile in Gemini",
+    "kind": "Main",
+    "page": "google-business-profile-gemini-web-app"
+  },
+  {
+    "keyword": "Gemini Google Business Profile",
+    "kind": "Supporting",
+    "page": "google-business-profile-gemini-web-app"
+  },
+  {
+    "keyword": "manage Business Profile with AI",
+    "kind": "Supporting",
+    "page": "google-business-profile-gemini-web-app"
+  },
+  {
+    "keyword": "Gemini business notebook",
+    "kind": "Supporting",
+    "page": "google-business-profile-gemini-web-app"
+  },
+  {
+    "keyword": "Google Business Profile AI assistant",
+    "kind": "Supporting",
+    "page": "google-business-profile-gemini-web-app"
+  },
+  {
+    "keyword": "Google Business Profile links",
+    "kind": "Main",
+    "page": "google-business-profile-links"
+  },
+  {
+    "keyword": "Google Business Profile booking link",
+    "kind": "Supporting",
+    "page": "google-business-profile-links"
+  },
+  {
+    "keyword": "add menu link Google",
+    "kind": "Supporting",
+    "page": "google-business-profile-links"
+  },
+  {
+    "keyword": "order link Google Maps",
+    "kind": "Supporting",
+    "page": "google-business-profile-links"
+  },
+  {
+    "keyword": "reservation link Google Business Profile",
+    "kind": "Supporting",
+    "page": "google-business-profile-links"
+  },
+  {
+    "keyword": "Google Business Profile owners and managers",
+    "kind": "Main",
+    "page": "google-business-profile-owners-and-managers"
+  },
+  {
+    "keyword": "add user to Google Business Profile",
+    "kind": "Supporting",
+    "page": "google-business-profile-owners-and-managers"
+  },
+  {
+    "keyword": "Google Business Profile manager access",
+    "kind": "Supporting",
+    "page": "google-business-profile-owners-and-managers"
+  },
+  {
+    "keyword": "transfer Google Business Profile ownership",
+    "kind": "Supporting",
+    "page": "google-business-profile-owners-and-managers"
+  },
+  {
+    "keyword": "GBP users",
+    "kind": "Supporting",
+    "page": "google-business-profile-owners-and-managers"
+  },
+  {
+    "keyword": "Google Business Profile performance",
+    "kind": "Main",
+    "page": "google-business-profile-performance"
+  },
+  {
+    "keyword": "Google Business Profile insights",
+    "kind": "Supporting",
+    "page": "google-business-profile-performance"
+  },
+  {
+    "keyword": "GBP performance report",
+    "kind": "Supporting",
+    "page": "google-business-profile-performance"
+  },
+  {
+    "keyword": "Google Maps insights",
+    "kind": "Supporting",
+    "page": "google-business-profile-performance"
+  },
+  {
+    "keyword": "Google Business Profile metrics",
+    "kind": "Supporting",
+    "page": "google-business-profile-performance"
+  },
+  {
+    "keyword": "Google Business Profile services",
+    "kind": "Main",
+    "page": "google-business-profile-services"
+  },
+  {
+    "keyword": "add services Google Business Profile",
+    "kind": "Supporting",
+    "page": "google-business-profile-services"
+  },
+  {
+    "keyword": "GBP services list",
+    "kind": "Supporting",
+    "page": "google-business-profile-services"
+  },
+  {
+    "keyword": "Google Maps services menu",
+    "kind": "Supporting",
+    "page": "google-business-profile-services"
+  },
+  {
+    "keyword": "Google Business Profile service categories",
+    "kind": "Supporting",
+    "page": "google-business-profile-services"
+  },
+  {
+    "keyword": "claim your Google Business Profile",
+    "kind": "Main",
+    "page": "how-to-claim-google-business-profile"
+  },
+  {
+    "keyword": "claim Google listing",
+    "kind": "Supporting",
+    "page": "how-to-claim-google-business-profile"
+  },
+  {
+    "keyword": "claim business on Google Maps",
+    "kind": "Supporting",
+    "page": "how-to-claim-google-business-profile"
+  },
+  {
+    "keyword": "Google Business Profile ownership",
+    "kind": "Supporting",
+    "page": "how-to-claim-google-business-profile"
+  },
+  {
+    "keyword": "claim Google My Business",
+    "kind": "Supporting",
+    "page": "how-to-claim-google-business-profile"
+  },
+  {
+    "keyword": "create a Google Business Profile",
+    "kind": "Main",
+    "page": "how-to-create-google-business-profile"
+  },
+  {
+    "keyword": "create Google Business Profile",
+    "kind": "Supporting",
+    "page": "how-to-create-google-business-profile"
+  },
+  {
+    "keyword": "set up Google Business Profile",
+    "kind": "Supporting",
+    "page": "how-to-create-google-business-profile"
+  },
+  {
+    "keyword": "add business to Google Maps",
+    "kind": "Supporting",
+    "page": "how-to-create-google-business-profile"
+  },
+  {
+    "keyword": "Google My Business setup",
+    "kind": "Supporting",
+    "page": "how-to-create-google-business-profile"
+  },
+  {
+    "keyword": "edit your Google Business Profile",
+    "kind": "Main",
+    "page": "how-to-edit-google-business-profile"
+  },
+  {
+    "keyword": "update Google Business Profile",
+    "kind": "Supporting",
+    "page": "how-to-edit-google-business-profile"
+  },
+  {
+    "keyword": "change Google Business Profile",
+    "kind": "Supporting",
+    "page": "how-to-edit-google-business-profile"
+  },
+  {
+    "keyword": "edit Google Maps listing",
+    "kind": "Supporting",
+    "page": "how-to-edit-google-business-profile"
+  },
+  {
+    "keyword": "Google Business Profile edits",
+    "kind": "Supporting",
+    "page": "how-to-edit-google-business-profile"
+  },
+  {
+    "keyword": "moving to a CDN",
+    "kind": "Main",
+    "page": "moving-to-a-cdn-googlebot-crawling"
+  },
+  {
+    "keyword": "CDN Googlebot",
+    "kind": "Supporting",
+    "page": "moving-to-a-cdn-googlebot-crawling"
+  },
+  {
+    "keyword": "CDN crawl rate",
+    "kind": "Supporting",
+    "page": "moving-to-a-cdn-googlebot-crawling"
+  },
+  {
+    "keyword": "bot protection blocking Googlebot",
+    "kind": "Supporting",
+    "page": "moving-to-a-cdn-googlebot-crawling"
+  },
+  {
+    "keyword": "CDN migration SEO",
+    "kind": "Supporting",
+    "page": "moving-to-a-cdn-googlebot-crawling"
+  },
+  {
+    "keyword": "SEO for acupuncturists",
+    "kind": "Main",
+    "page": "seo-for-acupuncturists"
+  },
+  {
+    "keyword": "acupuncture marketing",
+    "kind": "Supporting",
+    "page": "seo-for-acupuncturists"
+  },
+  {
+    "keyword": "acupuncturist SEO",
+    "kind": "Supporting",
+    "page": "seo-for-acupuncturists"
+  },
+  {
+    "keyword": "acupuncture clinic marketing",
+    "kind": "Supporting",
+    "page": "seo-for-acupuncturists"
+  },
+  {
+    "keyword": "acupuncture Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-acupuncturists"
+  },
+  {
+    "keyword": "SEO for bankruptcy attorneys",
+    "kind": "Main",
+    "page": "seo-for-bankruptcy-attorneys"
+  },
+  {
+    "keyword": "bankruptcy law firm marketing",
+    "kind": "Supporting",
+    "page": "seo-for-bankruptcy-attorneys"
+  },
+  {
+    "keyword": "bankruptcy lawyer SEO",
+    "kind": "Supporting",
+    "page": "seo-for-bankruptcy-attorneys"
+  },
+  {
+    "keyword": "Chapter 7 attorney marketing",
+    "kind": "Supporting",
+    "page": "seo-for-bankruptcy-attorneys"
+  },
+  {
+    "keyword": "bankruptcy attorney Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-bankruptcy-attorneys"
+  },
+  {
+    "keyword": "SEO for barbershops",
+    "kind": "Main",
+    "page": "seo-for-barbershops"
+  },
+  {
+    "keyword": "barbershop marketing",
+    "kind": "Supporting",
+    "page": "seo-for-barbershops"
+  },
+  {
+    "keyword": "barber SEO",
+    "kind": "Supporting",
+    "page": "seo-for-barbershops"
+  },
+  {
+    "keyword": "barber marketing",
+    "kind": "Supporting",
+    "page": "seo-for-barbershops"
+  },
+  {
+    "keyword": "barbershop Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-barbershops"
+  },
+  {
+    "keyword": "SEO for cabinet companies",
+    "kind": "Main",
+    "page": "seo-for-cabinet-companies"
+  },
+  {
+    "keyword": "cabinet marketing",
+    "kind": "Supporting",
+    "page": "seo-for-cabinet-companies"
+  },
+  {
+    "keyword": "cabinet maker SEO",
+    "kind": "Supporting",
+    "page": "seo-for-cabinet-companies"
+  },
+  {
+    "keyword": "kitchen cabinet marketing",
+    "kind": "Supporting",
+    "page": "seo-for-cabinet-companies"
+  },
+  {
+    "keyword": "cabinet company Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-cabinet-companies"
+  },
+  {
+    "keyword": "SEO for catering companies",
+    "kind": "Main",
+    "page": "seo-for-catering-companies"
+  },
+  {
+    "keyword": "catering marketing",
+    "kind": "Supporting",
+    "page": "seo-for-catering-companies"
+  },
+  {
+    "keyword": "caterer SEO",
+    "kind": "Supporting",
+    "page": "seo-for-catering-companies"
+  },
+  {
+    "keyword": "catering business marketing",
+    "kind": "Supporting",
+    "page": "seo-for-catering-companies"
+  },
+  {
+    "keyword": "catering Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-catering-companies"
+  },
+  {
+    "keyword": "SEO for commercial cleaning",
+    "kind": "Main",
+    "page": "seo-for-commercial-cleaning"
+  },
+  {
+    "keyword": "janitorial marketing",
+    "kind": "Supporting",
+    "page": "seo-for-commercial-cleaning"
+  },
+  {
+    "keyword": "commercial cleaning marketing",
+    "kind": "Supporting",
+    "page": "seo-for-commercial-cleaning"
+  },
+  {
+    "keyword": "office cleaning SEO",
+    "kind": "Supporting",
+    "page": "seo-for-commercial-cleaning"
+  },
+  {
+    "keyword": "commercial cleaning Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-commercial-cleaning"
+  },
+  {
+    "keyword": "SEO for divorce lawyers",
+    "kind": "Main",
+    "page": "seo-for-divorce-lawyers"
+  },
+  {
+    "keyword": "family law marketing",
+    "kind": "Supporting",
+    "page": "seo-for-divorce-lawyers"
+  },
+  {
+    "keyword": "divorce attorney SEO",
+    "kind": "Supporting",
+    "page": "seo-for-divorce-lawyers"
+  },
+  {
+    "keyword": "family lawyer SEO",
+    "kind": "Supporting",
+    "page": "seo-for-divorce-lawyers"
+  },
+  {
+    "keyword": "divorce lawyer marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-divorce-lawyers"
+  },
+  {
+    "keyword": "SEO for driving schools",
+    "kind": "Main",
+    "page": "seo-for-driving-schools"
+  },
+  {
+    "keyword": "driving school marketing",
+    "kind": "Supporting",
+    "page": "seo-for-driving-schools"
+  },
+  {
+    "keyword": "driving school advertising",
+    "kind": "Supporting",
+    "page": "seo-for-driving-schools"
+  },
+  {
+    "keyword": "driving instructor SEO",
+    "kind": "Supporting",
+    "page": "seo-for-driving-schools"
+  },
+  {
+    "keyword": "driving school Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-driving-schools"
+  },
+  {
+    "keyword": "SEO for florists",
+    "kind": "Main",
+    "page": "seo-for-florists"
+  },
+  {
+    "keyword": "florist marketing",
+    "kind": "Supporting",
+    "page": "seo-for-florists"
+  },
+  {
+    "keyword": "flower shop SEO",
+    "kind": "Supporting",
+    "page": "seo-for-florists"
+  },
+  {
+    "keyword": "florist advertising",
+    "kind": "Supporting",
+    "page": "seo-for-florists"
+  },
+  {
+    "keyword": "florist Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-florists"
+  },
+  {
+    "keyword": "SEO for food trucks",
+    "kind": "Main",
+    "page": "seo-for-food-trucks"
+  },
+  {
+    "keyword": "food truck marketing",
+    "kind": "Supporting",
+    "page": "seo-for-food-trucks"
+  },
+  {
+    "keyword": "food truck catering SEO",
+    "kind": "Supporting",
+    "page": "seo-for-food-trucks"
+  },
+  {
+    "keyword": "food truck advertising",
+    "kind": "Supporting",
+    "page": "seo-for-food-trucks"
+  },
+  {
+    "keyword": "food truck Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-food-trucks"
+  },
+  {
+    "keyword": "SEO for foundation repair",
+    "kind": "Main",
+    "page": "seo-for-foundation-repair"
+  },
+  {
+    "keyword": "foundation repair marketing",
+    "kind": "Supporting",
+    "page": "seo-for-foundation-repair"
+  },
+  {
+    "keyword": "foundation contractor SEO",
+    "kind": "Supporting",
+    "page": "seo-for-foundation-repair"
+  },
+  {
+    "keyword": "foundation company marketing",
+    "kind": "Supporting",
+    "page": "seo-for-foundation-repair"
+  },
+  {
+    "keyword": "foundation repair Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-foundation-repair"
+  },
+  {
+    "keyword": "SEO for funeral homes",
+    "kind": "Main",
+    "page": "seo-for-funeral-homes"
+  },
+  {
+    "keyword": "funeral home marketing",
+    "kind": "Supporting",
+    "page": "seo-for-funeral-homes"
+  },
+  {
+    "keyword": "funeral home SEO",
+    "kind": "Supporting",
+    "page": "seo-for-funeral-homes"
+  },
+  {
+    "keyword": "cremation marketing",
+    "kind": "Supporting",
+    "page": "seo-for-funeral-homes"
+  },
+  {
+    "keyword": "funeral home Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-funeral-homes"
+  },
+  {
+    "keyword": "SEO for home inspectors",
+    "kind": "Main",
+    "page": "seo-for-home-inspectors"
+  },
+  {
+    "keyword": "home inspector marketing",
+    "kind": "Supporting",
+    "page": "seo-for-home-inspectors"
+  },
+  {
+    "keyword": "home inspection SEO",
+    "kind": "Supporting",
+    "page": "seo-for-home-inspectors"
+  },
+  {
+    "keyword": "home inspector advertising",
+    "kind": "Supporting",
+    "page": "seo-for-home-inspectors"
+  },
+  {
+    "keyword": "home inspection marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-home-inspectors"
+  },
+  {
+    "keyword": "SEO for mobile mechanics",
+    "kind": "Main",
+    "page": "seo-for-mobile-mechanics"
+  },
+  {
+    "keyword": "mobile mechanic marketing",
+    "kind": "Supporting",
+    "page": "seo-for-mobile-mechanics"
+  },
+  {
+    "keyword": "mobile auto repair SEO",
+    "kind": "Supporting",
+    "page": "seo-for-mobile-mechanics"
+  },
+  {
+    "keyword": "mobile mechanic Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-mobile-mechanics"
+  },
+  {
+    "keyword": "mobile mechanic advertising",
+    "kind": "Supporting",
+    "page": "seo-for-mobile-mechanics"
+  },
+  {
+    "keyword": "SEO for mold remediation",
+    "kind": "Main",
+    "page": "seo-for-mold-remediation"
+  },
+  {
+    "keyword": "mold removal marketing",
+    "kind": "Supporting",
+    "page": "seo-for-mold-remediation"
+  },
+  {
+    "keyword": "mold remediation marketing",
+    "kind": "Supporting",
+    "page": "seo-for-mold-remediation"
+  },
+  {
+    "keyword": "mold company SEO",
+    "kind": "Supporting",
+    "page": "seo-for-mold-remediation"
+  },
+  {
+    "keyword": "mold remediation Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-mold-remediation"
+  },
+  {
+    "keyword": "SEO for nail salons",
+    "kind": "Main",
+    "page": "seo-for-nail-salons"
+  },
+  {
+    "keyword": "nail salon marketing",
+    "kind": "Supporting",
+    "page": "seo-for-nail-salons"
+  },
+  {
+    "keyword": "nail salon SEO",
+    "kind": "Supporting",
+    "page": "seo-for-nail-salons"
+  },
+  {
+    "keyword": "nail tech marketing",
+    "kind": "Supporting",
+    "page": "seo-for-nail-salons"
+  },
+  {
+    "keyword": "nail salon Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-nail-salons"
+  },
+  {
+    "keyword": "SEO for Pilates studios",
+    "kind": "Main",
+    "page": "seo-for-pilates-studios"
+  },
+  {
+    "keyword": "Pilates marketing",
+    "kind": "Supporting",
+    "page": "seo-for-pilates-studios"
+  },
+  {
+    "keyword": "Pilates studio marketing",
+    "kind": "Supporting",
+    "page": "seo-for-pilates-studios"
+  },
+  {
+    "keyword": "reformer Pilates SEO",
+    "kind": "Supporting",
+    "page": "seo-for-pilates-studios"
+  },
+  {
+    "keyword": "Pilates studio Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-pilates-studios"
+  },
+  {
+    "keyword": "SEO for security companies",
+    "kind": "Main",
+    "page": "seo-for-security-companies"
+  },
+  {
+    "keyword": "security company marketing",
+    "kind": "Supporting",
+    "page": "seo-for-security-companies"
+  },
+  {
+    "keyword": "security guard company SEO",
+    "kind": "Supporting",
+    "page": "seo-for-security-companies"
+  },
+  {
+    "keyword": "alarm company SEO",
+    "kind": "Supporting",
+    "page": "seo-for-security-companies"
+  },
+  {
+    "keyword": "security company marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-security-companies"
+  },
+  {
+    "keyword": "SEO for tire shops",
+    "kind": "Main",
+    "page": "seo-for-tire-shops"
+  },
+  {
+    "keyword": "tire shop marketing",
+    "kind": "Supporting",
+    "page": "seo-for-tire-shops"
+  },
+  {
+    "keyword": "tire store SEO",
+    "kind": "Supporting",
+    "page": "seo-for-tire-shops"
+  },
+  {
+    "keyword": "tire dealer marketing",
+    "kind": "Supporting",
+    "page": "seo-for-tire-shops"
+  },
+  {
+    "keyword": "tire shop Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-tire-shops"
+  },
+  {
+    "keyword": "SEO for towing companies",
+    "kind": "Main",
+    "page": "seo-for-towing-companies"
+  },
+  {
+    "keyword": "towing marketing",
+    "kind": "Supporting",
+    "page": "seo-for-towing-companies"
+  },
+  {
+    "keyword": "tow truck SEO",
+    "kind": "Supporting",
+    "page": "seo-for-towing-companies"
+  },
+  {
+    "keyword": "roadside assistance marketing",
+    "kind": "Supporting",
+    "page": "seo-for-towing-companies"
+  },
+  {
+    "keyword": "towing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-towing-companies"
+  },
+  {
     "keyword": "Businesses in ChatGPT",
     "kind": "Main",
     "page": "businesses-in-chatgpt-claim-your-business"
@@ -4263,11 +5138,6 @@
     "keyword": "generative engine optimization",
     "kind": "Supporting",
     "page": "what-is-llm-seo"
-  },
-  {
-    "keyword": "query fan-out",
-    "kind": "Main",
-    "page": "what-is-query-fan-out"
   },
   {
     "keyword": "AI Mode query fan-out",

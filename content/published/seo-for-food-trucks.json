@@ -1,0 +1,349 @@
+{
+  "query": "seo for food truck",
+  "slug": "seo-for-food-trucks",
+  "eyebrow": "Local SEO · Food",
+  "primary_keyword": "SEO for food trucks",
+  "secondary_keywords": [
+    "food truck marketing",
+    "food truck catering SEO",
+    "food truck advertising",
+    "food truck Orange County"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "SEO for Food Trucks in Orange County (Guide)",
+    "meta_description": "SEO for food trucks in Anaheim and Orange County: schedule and location pages, menus as text, catering and events, photos, reviews and AI search."
+  },
+  "h1": "SEO for Food Trucks in Orange County: Get Found Wherever You Park",
+  "answer": "SEO for food trucks in Anaheim and Orange County means a schedule of where you will be, a menu published as text, a clear catering and private events page, real food photos, a Google Business Profile set up to match how you operate and genuine reviews, so hungry customers, event planners and AI assistants can find you.",
+  "key_takeaways": [
+    "Customers need to know where you are today.",
+    "Catering and events drive bigger revenue.",
+    "Menus must be readable text.",
+    "Photos and reviews sell food.",
+    "Use FoodEstablishment schema."
+  ],
+  "sections": [
+    {
+      "heading": "Why food trucks in Orange County need both SEO and AI search",
+      "body_html": "<p>Food truck customers want two things: where you are now and what you serve. Event planners and offices also book trucks for parties, weddings and lunches, and those bookings are often worth more than daily service.</p><p>Orange County had 3,186,989 residents in the 2020 census, and Anaheim, the largest city, had 346,824. For a food truck serving that market, the work now has two halves: ranking in Google's local results and being the name AI assistants such as ChatGPT, Gemini and Google AI Overviews give when someone asks for a recommendation.</p>"
+    },
+    {
+      "heading": "What people search for before they call a food truck",
+      "body_html": "<p>These are the kinds of searches and AI questions that lead to a booked job. Write pages that answer them directly.</p><ul><li><strong>food trucks near me</strong> Today's location.</li><li><strong>food truck catering Orange County</strong> Catering packages.</li><li><strong>taco truck Anaheim</strong> Specific cuisine.</li><li><strong>food truck for wedding</strong> Event bookings.</li><li><strong>food truck schedule</strong> Weekly locations.</li><li><strong>corporate lunch food truck</strong> Office events.</li></ul>"
+    },
+    {
+      "heading": "How Google ranks food trucks in local results",
+      "body_html": "<p>Three things decide most local rankings, according to Google's own help pages: relevance, distance and popularity. Google explains prominence as how well-known a business is, reflected in things like how many websites link to it and how many reviews it has; <a href=\"https://thechimeraai.com/how-to-get-more-google-reviews/\">more reviews</a> and positive ratings can help. It is also clear that a better local ranking cannot be bought or requested.</p><p>Relevance comes from cuisine, menu and catering pages; prominence from reviews and links from events and venues you serve.</p>"
+    },
+    {
+      "heading": "How AI assistants choose a food truck",
+      "body_html": "<p>AI assistants asked for food truck catering favor trucks whose sites explain menus, packages, minimums and service areas in text.</p>"
+    },
+    {
+      "heading": "Test what AI says about you every month",
+      "body_html": "<p>Ask ChatGPT, Gemini, Perplexity and Google these questions from a phone in Orange County, then record which businesses are named, whether you appear, and whether the details about you are correct:</p><ol><li>Food trucks near me in Anaheim?</li><li>Food truck catering Orange County?</li><li>Taco truck Anaheim?</li><li>Food truck for wedding in Anaheim?</li><li>Food truck schedule in Anaheim?</li></ol><p>Repeat the same questions each month. When you are missing or described wrongly, fix the page, listing or review gap behind it, then check again the following month.</p>"
+    },
+    {
+      "heading": "Set up your Google Business Profile properly",
+      "body_html": "<p>Choose the most specific cuisine category, set up the profile to match how you serve customers, and keep your schedule current with posts.</p><p>Google's representation guidelines matter here. Businesses that travel to customers should keep a single profile for their central location and define a <a href=\"https://thechimeraai.com/google-business-profile-service-area/\">service area</a>. An address you rent but do not operate from counts as a virtual office and is not eligible; P.O. boxes are not accepted either. Keep the business name exactly as customers know it, without stuffing in keywords.</p>"
+    },
+    {
+      "heading": "Build one page per service",
+      "body_html": "<p>Each main service deserves its own page that states what it is, who it is for, typical timing, what affects price and how to book.</p><table><tr><th>Service page</th><th>What to include</th></tr><tr><td>Menu</td><td>Dishes and dietary notes</td></tr><tr><td>Schedule</td><td>Where you park each week</td></tr><tr><td>Private events</td><td>Packages and minimums</td></tr><tr><td>Weddings</td><td>Catering options</td></tr><tr><td>Corporate lunches</td><td>Office service</td></tr><tr><td>Booking</td><td>How to reserve</td></tr></table>"
+    },
+    {
+      "heading": "Cover your service area without doorway pages",
+      "body_html": "<p>List the Orange County cities and venues you serve and travel fees for events.</p><p>Resist the urge to clone a page for every city. Google's spam policies treat near-identical city pages that funnel visitors to one destination as doorway abuse. Show real local work instead, and only build a city page when there is something specific and useful to say.</p>"
+    },
+    {
+      "heading": "Earn reviews that mention the details",
+      "body_html": "<p>Reviews that mention the job, the neighborhood and the outcome help both Google and AI assistants describe you. Topics worth asking customers to mention:</p><ul><li>Dish ordered</li><li>Event type</li><li>Service speed</li><li>Value</li><li>Friendliness</li></ul><p>Google removes reviews that break its <a href=\"https://thechimeraai.com/how-to-remove-fake-google-reviews/\">fake engagement</a> policy, including paid reviews and reviews given in exchange for discounts, free services or other incentives. Ask all of your real customers rather than a hand-picked few, make leaving a review take seconds, and respond to both praise and criticism.</p>"
+    },
+    {
+      "heading": "Show trust signals on every page",
+      "body_html": "<p>Show health permits where required, real photos of your food and truck, and clear catering terms.</p>"
+    },
+    {
+      "heading": "Add structured data",
+      "body_html": "<p>Use <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a> so machines read your facts correctly. The closest Schema.org type here is <strong>FoodEstablishment</strong>. Google's local business documentation describes how this markup can surface details such as hours and price range. Keep name, address, phone and hours identical to your Business Profile, and list your official profiles with sameAs.</p>"
+    },
+    {
+      "heading": "Content that brings in customers",
+      "body_html": "<ul><li>Weekly schedule page</li><li>Catering packages</li><li>Wedding food truck guide</li><li>Corporate lunch page</li><li>Menu with dietary options</li><li>Event gallery</li></ul>"
+    },
+    {
+      "heading": "Seasons and timing in Orange County",
+      "body_html": "<p>Spring through fall events and holiday parties drive bookings; publish packages early.</p>"
+    },
+    {
+      "heading": "Mistakes that cost calls",
+      "body_html": "<ul><li>No current schedule</li><li>Menu only as a photo</li><li>No catering page</li><li>Outdated social links</li><li>No booking form</li></ul>"
+    },
+    {
+      "heading": "How to measure results",
+      "body_html": "<table><tr><th>What to track</th><th>Where</th></tr><tr><td>Calls, direction requests and website clicks</td><td><a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a> performance</td></tr><tr><td>Impressions and clicks for food truck searches</td><td>Google Search Console</td></tr><tr><td>Visits from ChatGPT, Perplexity, Gemini and Copilot</td><td>Google Analytics referrals</td></tr><tr><td>Being named in AI answers</td><td>Ask the same 10 questions monthly and record the results</td></tr><tr><td>Event bookings and catering inquiries by source</td><td>Your CRM, booking or call-tracking system</td></tr></table>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Food trucks win with a current schedule, text menus, catering pages and photos and reviews that make people hungry. <a href=\"https://thechimeraai.com/\">Chimera</a>, based in Anaheim, helps food trucks across Orange County do this work.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do food trucks get more customers?",
+      "a": "A current schedule, text menu, catering page and genuine reviews."
+    },
+    {
+      "q": "Should food trucks have a website?",
+      "a": "Yes. It's where menus, schedules and catering details live."
+    },
+    {
+      "q": "What schema fits a food truck?",
+      "a": "Schema.org's FoodEstablishment type."
+    },
+    {
+      "q": "How do food trucks get event bookings?",
+      "a": "A clear catering page with packages, minimums and a booking form."
+    },
+    {
+      "q": "Can AI assistants recommend food trucks?",
+      "a": "Yes, when menus, areas and catering details are published as text."
+    },
+    {
+      "q": "How long does SEO take for food trucks?",
+      "a": "Profile and on-page fixes can show up within weeks; new pages and reviews usually take a few months to move rankings and AI answers."
+    },
+    {
+      "q": "Can a food truck show up in ChatGPT answers?",
+      "a": "Yes. AI assistants draw on websites, listings, reviews and other web sources, so clear service pages, consistent listings and genuine reviews make you easier to recommend."
+    },
+    {
+      "q": "Do you work with food trucks in Anaheim and Orange County?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with food trucks across Orange County, California."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "SEO for restaurants in Orange County",
+      "url": "https://thechimeraai.com/seo-for-restaurants-orange-county/"
+    },
+    {
+      "anchor": "SEO for catering companies",
+      "url": "https://thechimeraai.com/seo-for-catering-companies/"
+    },
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "how ChatGPT recommends local businesses",
+      "url": "https://thechimeraai.com/how-chatgpt-recommends-local-businesses/"
+    },
+    {
+      "anchor": "local business schema for AI search",
+      "url": "https://thechimeraai.com/local-business-schema-for-ai-search/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Google's free SEO learning paths",
+      "url": "https://thechimeraai.com/blog/google-seo-learning-paths-small-business/"
+    },
+    {
+      "anchor": "SEO for driving schools",
+      "url": "https://thechimeraai.com/seo-for-driving-schools/"
+    },
+    {
+      "anchor": "SEO for towing companies",
+      "url": "https://thechimeraai.com/seo-for-towing-companies/"
+    },
+    {
+      "anchor": "SEO for florists",
+      "url": "https://thechimeraai.com/seo-for-florists/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Business Profile Help: Tips to improve your local ranking on Google",
+      "url": "https://support.google.com/business/answer/7091?hl=en"
+    },
+    {
+      "title": "Google Business Profile Help: Guidelines for representing your business on Google",
+      "url": "https://support.google.com/business/answer/3038177?hl=en"
+    },
+    {
+      "title": "Google Maps user contributed content policy: Fake engagement",
+      "url": "https://support.google.com/contributionpolicy/answer/7400114?hl=en"
+    },
+    {
+      "title": "Google Search Central: Spam policies",
+      "url": "https://developers.google.com/search/docs/essentials/spam-policies"
+    },
+    {
+      "title": "Google Search Central: Local business structured data",
+      "url": "https://developers.google.com/search/docs/appearance/structured-data/local-business"
+    },
+    {
+      "title": "Schema.org: FoodEstablishment",
+      "url": "https://schema.org/FoodEstablishment"
+    },
+    {
+      "title": "Wikipedia: Orange County, California (2020 census figures)",
+      "url": "https://en.wikipedia.org/wiki/Orange_County,_California"
+    },
+    {
+      "title": "Google Business Profile Help: Manage your business category",
+      "url": "https://support.google.com/business/answer/7249669?hl=en"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 2,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "How Google ranks local results",
+      "lead": "The factors Google names for local results.",
+      "steps": [
+        {
+          "title": "Relevance",
+          "text": "How well your profile matches the search."
+        },
+        {
+          "title": "Distance",
+          "text": "How far you are from the searcher."
+        },
+        {
+          "title": "Popularity",
+          "text": "How well known you are: links and reviews count."
+        },
+        {
+          "title": "Result",
+          "text": "The local pack and Maps listing."
+        }
+      ]
+    },
+    {
+      "after": 6,
+      "type": "bars",
+      "eyebrow": "2020 census",
+      "title": "Orange County's largest cities",
+      "lead": "Where food trucks in Orange County find their customers. County total: 3,186,989 (2020 census).",
+      "unit": "",
+      "items": [
+        {
+          "label": "Anaheim",
+          "value": 346824,
+          "display": "346,824"
+        },
+        {
+          "label": "Santa Ana",
+          "value": 310227,
+          "display": "310,227"
+        },
+        {
+          "label": "Irvine",
+          "value": 307670,
+          "display": "307,670"
+        },
+        {
+          "label": "Huntington Beach",
+          "value": 198711,
+          "display": "198,711"
+        },
+        {
+          "label": "Garden Grove",
+          "value": 171949,
+          "display": "171,949"
+        },
+        {
+          "label": "Fullerton",
+          "value": 143617,
+          "display": "143,617"
+        },
+        {
+          "label": "Orange",
+          "value": 139911,
+          "display": "139,911"
+        },
+        {
+          "label": "Costa Mesa",
+          "value": 111918,
+          "display": "111,918"
+        },
+        {
+          "label": "Newport Beach",
+          "value": 85239,
+          "display": "85,239"
+        }
+      ],
+      "source": {
+        "title": "U.S. 2020 census, via each city's Wikipedia article",
+        "url": "https://en.wikipedia.org/wiki/Orange_County,_California"
+      }
+    },
+    {
+      "after": 9,
+      "type": "scorecard",
+      "eyebrow": "Scorecard",
+      "title": "What moves the needle for food trucks",
+      "lead": "Impact on calls from Google and AI (5 = most).",
+      "rows": [
+        {
+          "label": "Current schedule",
+          "score": 5,
+          "note": "Daily customers."
+        },
+        {
+          "label": "Catering page",
+          "score": 5,
+          "note": "Revenue."
+        },
+        {
+          "label": "Text menu",
+          "score": 4,
+          "note": "Readable."
+        },
+        {
+          "label": "Photos",
+          "score": 4,
+          "note": "Appetite."
+        },
+        {
+          "label": "Outdated info",
+          "score": 1,
+          "note": "Lost customers."
+        }
+      ]
+    }
+  ],
+  "hero_query": "Can I book a taco truck for a party in Anaheim?",
+  "short_title": "SEO for food trucks",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 1713,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/seo-for-food-trucks-chimera.jpg",
+    "alt": "SEO for Food Trucks in Orange County (Guide): illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-12",
+  "updated": "2026-11-12"
+}

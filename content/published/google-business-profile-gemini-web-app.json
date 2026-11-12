@@ -1,0 +1,236 @@
+{
+  "query": "google business profile gemini",
+  "slug": "google-business-profile-gemini-web-app",
+  "eyebrow": "Google Business Profile",
+  "primary_keyword": "Google Business Profile in Gemini",
+  "secondary_keywords": [
+    "Gemini Google Business Profile",
+    "manage Business Profile with AI",
+    "Gemini business notebook",
+    "Google Business Profile AI assistant"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Google Business Profile in Gemini: How to Use It",
+    "meta_description": "You can now manage your Google Business Profile in the Gemini web app: hours, reviews, posts and insights. Requirements and tips for Orange County owners."
+  },
+  "h1": "How to Manage Your Google Business Profile in Gemini",
+  "answer": "Google now lets owners and managers manage their Google Business Profile in Gemini by connecting it to the Gemini web app. You can update hours and links, draft review replies, create posts, summarize reviews and check performance by asking in plain language. You must manage only one verified profile, be 18 or over and use a personal Google Account. It suits many single-location Anaheim and Orange County businesses.",
+  "key_takeaways": [
+    "Connect Google Business Profile to the Gemini web app.",
+    "Update details, draft review replies and create posts by asking.",
+    "Check performance metrics and search keywords.",
+    "Only for people managing one verified profile.",
+    "A business notebook adds proactive suggestions."
+  ],
+  "sections": [
+    {
+      "heading": "What Google offers",
+      "body_html": "<p>Google's Business Profile help center says you can now manage your Business Profile conversationally and access your business insights in the <a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a> web app. Once connected, Gemini can help you update your profile, engage with customers, analyze reviews and access performance data.</p>"
+    },
+    {
+      "heading": "Who can use it",
+      "body_html": "<ul><li>Owners or managers of only one verified Business Profile.</li><li>People 18 or over.</li><li>People signed in to the Gemini web app with a personal Google Account associated with the profile; work or school accounts aren't supported for now.</li><li>Accounts with Keep Activity turned on.</li></ul>"
+    },
+    {
+      "heading": "Where it works",
+      "body_html": "<p>Google says the feature is only in the Gemini web app at gemini.google.com, is available wherever the Gemini web app is supported, and isn't available to owners or managers with access to more than one verified Business Profile. Agencies and multi-location businesses will need to keep using the usual tools for now.</p>"
+    },
+    {
+      "heading": "How to connect",
+      "body_html": "<ol><li>Go to gemini.google.com, signed in to the account you use for your Business Profile.</li><li>Ask Gemini about your Business Profile; if it doesn't use the app, add @<a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a> to your prompt.</li><li>If it isn't connected, follow the on-screen option to connect it.</li><li>You can connect or disconnect it at any time in Connected Apps settings.</li></ol>"
+    },
+    {
+      "heading": "What you can update",
+      "body_html": "<p>Google lists business hours, including special hours for holidays and events; food menus for food businesses; photos, uploaded from a public URL; attributes such as outdoor seating or Wi-Fi, which vary by category; your website and social links; action links for ordering, reservations or appointments; and location details and profile status.</p>"
+    },
+    {
+      "heading": "Engaging with customers",
+      "body_html": "<p>Gemini can show star ratings and reviews, draft or delete <a href=\"https://thechimeraai.com/how-to-respond-to-google-reviews/\">replies to reviews</a>, and create, schedule, publish or delete Update, Offer and Event posts. Google's example prompts include asking Gemini to summarize recent reviews or help draft a reply to the latest one.</p>"
+    },
+    {
+      "heading": "Business insights",
+      "body_html": "<p>Gemini can analyze impressions, website clicks, direction requests and bookings, and show the search keywords customers use to find your business. Google's examples include asking for performance metrics for the past month or the top search keywords driving traffic.</p>"
+    },
+    {
+      "heading": "The business notebook",
+      "body_html": "<p>Eligible owners can create a business notebook in Gemini, which requires Business Profile to be connected. Google says it adds proactive insights and suggested actions, such as adding missing hours or a description, adding an exterior photo or reviewing performance, plus suggested prompts and recent chats. It appears in the sidebar under Notebooks with your business name.</p>"
+    },
+    {
+      "heading": "Review what Gemini drafts",
+      "body_html": "<p>Gemini can draft review replies and posts, but you are responsible for what's published. Read every reply before it goes live, make it personal, and never share private customer details. A short, genuine reply written with Gemini's help beats a generic one.</p>"
+    },
+    {
+      "heading": "Keep access tidy",
+      "body_html": "<p>Because the feature requires a personal Google Account linked to the profile, check who owns and manages your profile and that access sits with the right people. If several staff help, give each their own manager access rather than sharing one login.</p>"
+    },
+    {
+      "heading": "A worked example",
+      "body_html": "<p>Imagine a single-location bakery in <a href=\"https://thechimeraai.com/seo-fullerton/\">Fullerton</a>. On Monday morning, the owner asks Gemini to summarize last week's reviews, then drafts and edits replies to two of them. Next, they ask for last month's top search keywords, notice many searches for custom birthday cakes and create an Offer post about them. Finally, they set special hours for an upcoming holiday. The whole routine takes about fifteen minutes.</p>"
+    },
+    {
+      "heading": "What it means for local search",
+      "body_html": "<p>Tools like this make it easier to keep a profile current, and a current, complete profile is the foundation of local visibility on Google and in AI assistants. The convenience only pays off if you use it regularly.</p>"
+    },
+    {
+      "heading": "Prompts to try",
+      "body_html": "<ul><li>Show all the contact information on my profile.</li><li>Review all my business attributes.</li><li>Summarize my recent reviews and the main themes.</li><li>Help me draft a reply to my latest review.</li><li>Help me brainstorm and create a new post.</li><li>Show me my performance metrics for the past month.</li><li>What are the top search keywords driving traffic to my business?</li></ul>"
+    },
+    {
+      "heading": "A weekly routine",
+      "body_html": "<p>Pick a regular time each week and work through the same steps: summarize new reviews and reply to each one, check performance and top search keywords, create one post about a service, offer or event, and confirm hours for the coming week, including any holidays. Once a month, ask Gemini to review your attributes and contact links, and check the business notebook's suggested actions for missing details such as photos or a description. A routine that takes fifteen minutes a week keeps a profile current far better than an occasional overhaul.</p>"
+    },
+    {
+      "heading": "Privacy and data",
+      "body_html": "<p>Google points to its Gemini Apps Privacy Hub and its help on Connected Apps for how your data is handled when Gemini works with your Business Profile. Read those pages before connecting, and decide who in the business should hold the connected account.</p>"
+    },
+    {
+      "heading": "If the option doesn't appear",
+      "body_html": "<p>If Gemini doesn't offer to connect your profile or create a business notebook, check the requirements first: one verified profile only, a personal Google Account linked to it, age 18 or over and Keep Activity turned on. Google suggests adding @Google Business Profile to a prompt to prompt the connection or the notebook offer. Also make sure you are using the web app at gemini.google.com rather than the mobile app.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>If you manage one verified profile with a personal account, you can manage your Google Business Profile in Gemini: update details, reply to reviews, post and check insights by asking. Anaheim and Orange County owners should connect it, review every draft and build a weekly routine.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I manage my Google Business Profile in Gemini?",
+      "a": "Yes, in the Gemini web app at gemini.google.com, once you connect Google Business Profile."
+    },
+    {
+      "q": "Who is eligible?",
+      "a": "Owners or managers of only one verified profile, 18 or over, using a personal Google Account with Keep Activity on."
+    },
+    {
+      "q": "Can I use a work Google Account?",
+      "a": "Not for now. Google says work and school accounts aren't supported."
+    },
+    {
+      "q": "What can Gemini change on my profile?",
+      "a": "Hours, menus, photos, attributes, contact links, action links and more."
+    },
+    {
+      "q": "Can Gemini reply to reviews?",
+      "a": "It can draft or delete replies; review each one before publishing."
+    },
+    {
+      "q": "What is a business notebook?",
+      "a": "A Gemini notebook with proactive insights, suggested actions and prompts for your business."
+    },
+    {
+      "q": "Does it work for agencies with many profiles?",
+      "a": "No. Google says it isn't available to people with access to more than one verified profile."
+    },
+    {
+      "q": "Do you work with businesses in Anaheim and Orange County?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California, from Anaheim and Santa Ana to Irvine and the coastal cities."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "Google Business Profile optimization",
+      "url": "https://thechimeraai.com/google-business-profile-optimization-orange-county/"
+    },
+    {
+      "anchor": "Google Business Profile performance insights",
+      "url": "https://thechimeraai.com/google-business-profile-performance/"
+    },
+    {
+      "anchor": "Google Business Profile owners and managers",
+      "url": "https://thechimeraai.com/google-business-profile-owners-and-managers/"
+    },
+    {
+      "anchor": "how to respond to Google reviews",
+      "url": "https://thechimeraai.com/how-to-respond-to-google-reviews/"
+    },
+    {
+      "anchor": "Google Business Profile booking and order links",
+      "url": "https://thechimeraai.com/google-business-profile-links/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Local GEO: How Local Businesses Get Recommended by AI",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "Claim a Google Business Profile",
+      "url": "https://thechimeraai.com/how-to-claim-google-business-profile/"
+    },
+    {
+      "anchor": "SEO for service-area businesses",
+      "url": "https://thechimeraai.com/service-area-business-seo/"
+    },
+    {
+      "anchor": "Google Business Profile posts",
+      "url": "https://thechimeraai.com/google-business-profile-posts/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Business Profile Help: Manage your Business Profile on Google with the Gemini web app",
+      "url": "https://support.google.com/business/answer/17142585?hl=en"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 3,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "Managing your profile with Gemini",
+      "lead": "From Google's Business Profile help center.",
+      "steps": [
+        {
+          "title": "Connect",
+          "text": "Link Business Profile in the Gemini web app."
+        },
+        {
+          "title": "Update",
+          "text": "Hours, links, attributes, photos."
+        },
+        {
+          "title": "Engage",
+          "text": "Draft replies and create posts."
+        },
+        {
+          "title": "Insights",
+          "text": "Metrics and search keywords."
+        }
+      ]
+    }
+  ],
+  "hero_query": "Can I update my Google Business Profile by chatting with Gemini?",
+  "short_title": "Manage your Business Profile in Gemini",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "kind": "blog",
+  "category": "AI assistants",
+  "slot": 5,
+  "hero_image": {
+    "id": 1695,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/google-business-profile-gemini-web-app-banner.jpg",
+    "alt": "How to Manage Your Google Business Profile in Gemini: banner photo",
+    "width": 1600,
+    "height": 760
+  },
+  "published": "2026-11-12",
+  "updated": "2026-11-12",
+  "parent_id": 709
+}

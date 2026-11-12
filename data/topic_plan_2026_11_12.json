@@ -1,0 +1,216 @@
+{
+ "date": "2026-11-12",
+ "research": "Industry 'seo for <industry>' seeds checked against existing pages (slots 81-100); 10 Google Business Profile how-to topics, each verified against its Google Business Profile Help page; 5 news posts from Google announcements dated Nov 11-12, 2026. Search Console query data unavailable (no service-account key). No topic repeats an existing page.",
+ "topics": [
+  {
+   "slug": "gemini-4-hydrogen-google-search-upgrade",
+   "query": "gemini 4 hydrogen google search",
+   "kind": "blog",
+   "title": "Gemini 4 Hydrogen Comes to Google Search: What It Means for Local Businesses"
+  },
+  {
+   "slug": "gemini-apple-carplay-local-business",
+   "query": "gemini apple carplay",
+   "kind": "blog",
+   "title": "Gemini on Apple CarPlay: Why Hands-Free AI in the Car Matters for Local Businesses"
+  },
+  {
+   "slug": "google-ads-invalid-traffic-card",
+   "query": "google ads invalid traffic card",
+   "kind": "blog",
+   "title": "Google Ads Invalid Traffic Card: See What Google Filters and Credits"
+  },
+  {
+   "slug": "google-automated-calls-to-your-business",
+   "query": "google automated calls to business",
+   "kind": "guide",
+   "title": "Automated Calls and Texts From Google to Your Business: What They Are"
+  },
+  {
+   "slug": "google-business-profile-attributes",
+   "query": "google business profile attributes",
+   "kind": "guide",
+   "title": "Google Business Profile Attributes: Show Customers What Matters"
+  },
+  {
+   "slug": "google-business-profile-booking-button",
+   "query": "google business profile booking button",
+   "kind": "guide",
+   "title": "Google Business Profile Booking Button: Set Up Bookings on Google"
+  },
+  {
+   "slug": "google-business-profile-gemini-web-app",
+   "query": "google business profile gemini",
+   "kind": "blog",
+   "title": "How to Manage Your Google Business Profile in Gemini"
+  },
+  {
+   "slug": "google-business-profile-links",
+   "query": "google business profile booking links",
+   "kind": "guide",
+   "title": "Google Business Profile Links: Booking, Reservation, Menu and Order Links"
+  },
+  {
+   "slug": "google-business-profile-owners-and-managers",
+   "query": "google business profile owners and managers",
+   "kind": "guide",
+   "title": "Google Business Profile Owners and Managers: Roles, Access and Best Practice"
+  },
+  {
+   "slug": "google-business-profile-performance",
+   "query": "google business profile performance",
+   "kind": "guide",
+   "title": "Google Business Profile Performance: How to Read Your Insights"
+  },
+  {
+   "slug": "google-business-profile-services",
+   "query": "google business profile services",
+   "kind": "guide",
+   "title": "Google Business Profile Services: List Everything You Offer"
+  },
+  {
+   "slug": "how-to-claim-google-business-profile",
+   "query": "how to claim google business profile",
+   "kind": "guide",
+   "title": "How to Claim Your Google Business Profile on Google Maps"
+  },
+  {
+   "slug": "how-to-create-google-business-profile",
+   "query": "how to create google business profile",
+   "kind": "guide",
+   "title": "How to Create a Google Business Profile: Step by Step for Local Businesses"
+  },
+  {
+   "slug": "how-to-edit-google-business-profile",
+   "query": "how to edit google business profile",
+   "kind": "guide",
+   "title": "How to Edit Your Google Business Profile: What to Change and What to Expect"
+  },
+  {
+   "slug": "moving-to-a-cdn-googlebot-crawling",
+   "query": "moving to a cdn googlebot",
+   "kind": "blog",
+   "title": "Moving to a CDN Without Overwhelming Your Server or Blocking Googlebot"
+  },
+  {
+   "slug": "seo-for-acupuncturists",
+   "query": "seo for acupuncture",
+   "kind": "guide",
+   "title": "SEO for Acupuncturists in Orange County: Reach Patients Who Need You"
+  },
+  {
+   "slug": "seo-for-bankruptcy-attorneys",
+   "query": "seo for bankruptcy attorney",
+   "kind": "guide",
+   "title": "SEO for Bankruptcy Attorneys in Orange County"
+  },
+  {
+   "slug": "seo-for-barbershops",
+   "query": "seo for barbershop",
+   "kind": "guide",
+   "title": "SEO for Barbershops in Orange County: Fill Every Chair"
+  },
+  {
+   "slug": "seo-for-cabinet-companies",
+   "query": "seo for cabinet company",
+   "kind": "guide",
+   "title": "SEO for Cabinet Companies in Orange County: Showroom Visits and Quotes"
+  },
+  {
+   "slug": "seo-for-catering-companies",
+   "query": "seo for catering",
+   "kind": "guide",
+   "title": "SEO for Catering Companies in Orange County: Book More Events"
+  },
+  {
+   "slug": "seo-for-commercial-cleaning",
+   "query": "seo for commercial cleaning",
+   "kind": "guide",
+   "title": "SEO for Commercial Cleaning Companies in Orange County: Win Contracts"
+  },
+  {
+   "slug": "seo-for-divorce-lawyers",
+   "query": "seo for divorce lawyer",
+   "kind": "guide",
+   "title": "SEO for Divorce and Family Lawyers in Orange County"
+  },
+  {
+   "slug": "seo-for-driving-schools",
+   "query": "seo for driving school",
+   "kind": "guide",
+   "title": "SEO for Driving Schools in Orange County: Fill Lesson Calendars"
+  },
+  {
+   "slug": "seo-for-florists",
+   "query": "seo for florists",
+   "kind": "guide",
+   "title": "SEO for Florists in Orange County: More Orders and Event Bookings"
+  },
+  {
+   "slug": "seo-for-food-trucks",
+   "query": "seo for food truck",
+   "kind": "guide",
+   "title": "SEO for Food Trucks in Orange County: Get Found Wherever You Park"
+  },
+  {
+   "slug": "seo-for-foundation-repair",
+   "query": "seo for foundation repair",
+   "kind": "guide",
+   "title": "SEO for Foundation Repair Companies in Orange County"
+  },
+  {
+   "slug": "seo-for-funeral-homes",
+   "query": "seo for funeral home",
+   "kind": "guide",
+   "title": "SEO for Funeral Homes in Orange County: Clear Help at a Hard Time"
+  },
+  {
+   "slug": "seo-for-home-inspectors",
+   "query": "seo for home inspectors",
+   "kind": "guide",
+   "title": "SEO for Home Inspectors in Orange County: Win Buyers and Agent Referrals"
+  },
+  {
+   "slug": "seo-for-mobile-mechanics",
+   "query": "seo for mobile mechanic",
+   "kind": "guide",
+   "title": "SEO for Mobile Mechanics in Orange County: Get Booked for On-Site Repairs"
+  },
+  {
+   "slug": "seo-for-mold-remediation",
+   "query": "seo for mold remediation",
+   "kind": "guide",
+   "title": "SEO for Mold Remediation Companies in Orange County"
+  },
+  {
+   "slug": "seo-for-nail-salons",
+   "query": "seo for nail salon",
+   "kind": "guide",
+   "title": "SEO for Nail Salons in Orange County: Book More Appointments"
+  },
+  {
+   "slug": "seo-for-pilates-studios",
+   "query": "seo for pilates studio",
+   "kind": "guide",
+   "title": "SEO for Pilates Studios in Orange County: Fill Reformer Classes"
+  },
+  {
+   "slug": "seo-for-security-companies",
+   "query": "seo for security company",
+   "kind": "guide",
+   "title": "SEO for Security Companies in Orange County: Guards, Alarms and Cameras"
+  },
+  {
+   "slug": "seo-for-tire-shops",
+   "query": "seo for tire shop",
+   "kind": "guide",
+   "title": "SEO for Tire Shops in Orange County: More Appointments, More Sales"
+  },
+  {
+   "slug": "seo-for-towing-companies",
+   "query": "seo for towing company",
+   "kind": "guide",
+   "title": "SEO for Towing Companies in Orange County: Win Emergency Calls"
+  }
+ ]
+}
