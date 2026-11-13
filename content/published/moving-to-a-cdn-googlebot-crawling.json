@@ -58,7 +58,7 @@
     },
     {
       "heading": "How to check Googlebot can reach you",
-      "body_html": "<ul><li>Use URL Inspection in <a href=\"https://thechimeraai.com/blog/search-console-generative-ai-performance-report/\">Search Console</a> to test a live URL.</li><li>Check the Crawl Stats report for rising errors or falling requests.</li><li>Look for 403 responses or challenge pages served to crawlers in your CDN logs.</li><li>Confirm verified bots are allowed in your firewall settings.</li></ul>"
+      "body_html": "<ul><li>Use <a href=\"https://thechimeraai.com/google-search-console-url-inspection/\">URL Inspection</a> in <a href=\"https://thechimeraai.com/blog/search-console-generative-ai-performance-report/\">Search Console</a> to test a live URL.</li><li>Check the Crawl Stats report for rising errors or falling requests.</li><li>Look for 403 responses or challenge pages served to crawlers in your CDN logs.</li><li>Confirm verified bots are allowed in your firewall settings.</li></ul>"
     },
     {
       "heading": "A worked example",
@@ -219,6 +219,6 @@
     "height": 760
   },
   "published": "2026-11-12",
-  "updated": "2026-11-12",
+  "updated": "2026-11-13",
   "parent_id": 709
 }

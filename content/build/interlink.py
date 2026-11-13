@@ -62,6 +62,15 @@ PHRASES = [
     (r"FAQ pages?", "faq-pages-for-ai-search"),
     (r"author (?:pages|bios)", "author-pages-for-eeat"),
     (r"internal links?", "internal-linking-for-ai-search"),
+    (r"URL Inspection(?: tool)?", "google-search-console-url-inspection"),
+    (r"Page indexing report", "google-search-console-page-indexing-report"),
+    (r"Sitemaps report", "google-search-console-sitemaps-report"),
+    (r"Links report", "google-search-console-links-report"),
+    (r"manual actions?", "google-search-console-manual-actions"),
+    (r"Security issues report", "google-search-console-security-issues"),
+    (r"Removals tool", "google-search-console-removals-tool"),
+    (r"Search Console(?:'s)? Performance report", "google-search-console-performance-report"),
+    (r"set up (?:Google )?Search Console", "how-to-set-up-google-search-console"),
     (r"Search Console", "search-console-generative-ai-performance-report"),
     (r"Google Analytics", "how-to-track-ai-traffic-in-google-analytics"),
     (r"generative engine optimization|GEO\b", "what-is-generative-engine-optimization-and-how-does-it-work"),
@@ -77,17 +86,18 @@ STOP = set("the a an and or of for to in on with your you how what is are does d
            " search ai should know means".split())
 
 CLUSTERS = [
-    ("hospitality", r"restaurant|bakeries|coffee|hotel|travel|wedding|event-planner|holiday-travel|eat-here|hotel-booking"),
-    ("home", r"plumb|hvac|roof|electric|contractor|painter|landscap|pest|pool|tree|cleaning|carpet|window|junk|moving|garage|handyman|concrete|flooring|bathroom|kitchen|fence|pressure|water-damage|solar|locksmith|home-builder|interior|architect|home-services|property-management|self-storage"),
+    ("searchconsole", r"search-console"),
+    ("hospitality", r"ask-maps|restaurant|bakeries|coffee|hotel|travel|wedding|event-planner|holiday-travel|eat-here|hotel-booking"),
+    ("home", r"appliance|siding|countertop|ev-charger|plumb|hvac|roof|electric|contractor|painter|landscap|pest|pool|tree|cleaning|carpet|window|junk|moving|garage|handyman|concrete|flooring|bathroom|kitchen|fence|pressure|water-damage|solar|locksmith|home-builder|interior|architect|home-services|property-management|self-storage"),
     ("legal", r"law|lawyer|attorney|personal-injury|estate-planning|criminal|immigration"),
-    ("health", r"dentist|orthodont|doctor|chiropract|physical-therap|dermatolog|plastic-surg|optometr|veterinar|therapist|med-spa|healthcare|senior-living|massage"),
-    ("lifestyle", r"salon|tattoo|gym|yoga|martial|dog-|photograph"),
-    ("auto", r"auto-|car-"),
-    ("professional", r"accountant|insurance|mortgage|financial|real-estate|it-companies|staffing|b2b|saas|manufactur|nonprofit|startup"),
-    ("education", r"tutoring|private-school|daycare"),
-    ("retail", r"shopify|ecommerce|product-pages|holiday-100|universal-cart|shopping"),
+    ("health", r"audiolog|podiatr|dietitian|urgent-care|dentist|orthodont|doctor|chiropract|physical-therap|dermatolog|plastic-surg|optometr|veterinar|therapist|med-spa|healthcare|senior-living|massage"),
+    ("lifestyle", r"personal-trainer|makeup|pet-boarding|salon|tattoo|gym|yoga|martial|dog-|photograph"),
+    ("auto", r"auto-|car-|window-tinting"),
+    ("professional", r"tax-prep|accountant|insurance|mortgage|financial|real-estate|it-companies|staffing|b2b|saas|manufactur|nonprofit|startup"),
+    ("education", r"dance-studio|language-school|music-school|swim-school|tutoring|private-school|daycare"),
+    ("retail", r"jewelry|shopify|ecommerce|product-pages|holiday-100|universal-cart|shopping"),
     ("gbp", r"google-business-profile|review|nap-|service-area|near-me|local-landing|local-seo|local-geo|local-business-schema|seo-company|seo-irvine|seo-santa|seo-hunt|seo-newport|seo-full|seo-costa|geo-agency|local-services-ads|core-web-vitals|30-day"),
-    ("ai", r"chatgpt|gemini|perplexity|copilot|claude|meta-ai|ai-mode|ai-overviews|llm|query-fan|crawler|robots|llms-txt|training-control|carbon|october-2026|search-profiles|inline-links|businesses-in-chatgpt"),
+    ("ai", r"eyewear|chatgpt|gemini|perplexity|copilot|claude|meta-ai|ai-mode|ai-overviews|llm|query-fan|crawler|robots|llms-txt|training-control|carbon|october-2026|search-profiles|inline-links|businesses-in-chatgpt"),
 ]
 
 

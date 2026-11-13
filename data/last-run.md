@@ -1,8 +1,7 @@
-# Daily run 2026-11-12
+# Daily run 2026-11-13
 
-- Published 35 pages: 20 industry guides (slots 81-100), 10 Google Business Profile how-to guides and 5 blog posts.
-- Blog posts: Gemini 4 Hydrogen in Google Search; Google Ads Invalid Traffic card; moving to a CDN without blocking Googlebot; Gemini on Apple CarPlay; managing your Business Profile in the Gemini web app.
-- All 35 pass the quality gate; banners from Unsplash (recorded in data/banner_photos_used.json).
-- Internal linking run on all 242 pages; IndexNow sent; site check: every page live, in sitemap and llms.txt, with schema.
-- Totals: 242 pages live (221 guides, 21 blogs), 57 pages showing in Google, 388 impressions, 61 visits, 1 lead (last 28 days).
-- Dashboard refreshed once today (3-hourly refresh disabled at the user's request).
+- Published 35 pages: 20 industry guides (slots 101-120), 10 Google Search Console how-to guides and 5 blog posts; one existing page republished with links to the new ones.
+- Blog posts: ads in AI Mode; Google Financial Services Verification for U.S. ads; Ask Maps food ordering for restaurants; Google intelligent eyewear; Gemini in Chrome.
+- All 35 pass the quality gate; Unsplash banners recorded in data/banner_photos_used.json.
+- Interlinking extended to the Search Console guides and new industries; IndexNow sent; site check: all 277 pages live, in sitemap and llms.txt, with schema.
+- Totals (last 28 days): 277 pages live (251 guides, 26 blogs), 109 pages showing in Google (up from 57), 587 impressions, 67 visits, 1 lead.

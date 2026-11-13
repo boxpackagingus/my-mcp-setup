@@ -1,0 +1,216 @@
+{
+ "date": "2026-11-13",
+ "research": "Industry 'seo for <industry>' seeds checked against the 120 existing pages (slots 101-120), with Local Services Ads eligibility taken only from Google's category list; 10 Search Console how-to topics, each verified against its Search Console Help page; 5 posts from Google announcements and help pages (Oct 20 - Nov 12, 2026) not yet covered. Search Console query data unavailable (no service-account key). No topic repeats an existing page.",
+ "topics": [
+  {
+   "slug": "ads-in-ai-mode-local-business",
+   "query": "ads in ai mode",
+   "kind": "blog",
+   "title": "Ads in AI Mode: How Google's Sponsored Results Work for Local Businesses"
+  },
+  {
+   "slug": "ask-maps-food-ordering-restaurants",
+   "query": "ask maps food ordering",
+   "kind": "blog",
+   "title": "Ask Maps Food Ordering: How Google Maps' AI Helps Diners Order, and What Restaurants Should Do"
+  },
+  {
+   "slug": "gemini-in-chrome-website-answers",
+   "query": "gemini in chrome",
+   "kind": "blog",
+   "title": "Gemini in Chrome: How Visitors Use AI to Read and Compare Your Website"
+  },
+  {
+   "slug": "google-financial-services-verification-us",
+   "query": "google financial services verification",
+   "kind": "blog",
+   "title": "Financial Services Verification Is Coming to the U.S.: What Financial Advertisers Should Know"
+  },
+  {
+   "slug": "google-intelligent-eyewear-local-business",
+   "query": "google intelligent eyewear",
+   "kind": "blog",
+   "title": "Google Intelligent Eyewear With Gemini: What Hands-Free AI Glasses Mean for Local Businesses"
+  },
+  {
+   "slug": "google-search-console-links-report",
+   "query": "search console links report",
+   "kind": "guide",
+   "title": "The Search Console Links Report: See Who Links to Your Business"
+  },
+  {
+   "slug": "google-search-console-manual-actions",
+   "query": "google search console manual actions",
+   "kind": "guide",
+   "title": "Search Console Manual Actions: What They Are and How to Fix Them"
+  },
+  {
+   "slug": "google-search-console-page-indexing-report",
+   "query": "search console page indexing report",
+   "kind": "guide",
+   "title": "The Search Console Page Indexing Report: What Local Businesses Need to Know"
+  },
+  {
+   "slug": "google-search-console-performance-report",
+   "query": "google search console performance report",
+   "kind": "guide",
+   "title": "The Search Console Performance Report: A Guide for Local Businesses"
+  },
+  {
+   "slug": "google-search-console-removals-tool",
+   "query": "search console removals tool",
+   "kind": "guide",
+   "title": "The Search Console Removals Tool: Temporarily Hide Pages From Google"
+  },
+  {
+   "slug": "google-search-console-security-issues",
+   "query": "search console security issues",
+   "kind": "guide",
+   "title": "Search Console Security Issues: What to Do if Your Site Is Hacked"
+  },
+  {
+   "slug": "google-search-console-sitemaps-report",
+   "query": "search console sitemaps report",
+   "kind": "guide",
+   "title": "How to Use the Search Console Sitemaps Report"
+  },
+  {
+   "slug": "google-search-console-url-inspection",
+   "query": "google search console url inspection",
+   "kind": "guide",
+   "title": "How to Use the Search Console URL Inspection Tool"
+  },
+  {
+   "slug": "google-search-console-users-and-permissions",
+   "query": "search console users and permissions",
+   "kind": "guide",
+   "title": "Search Console Users and Permissions: Keep Control of Your Data"
+  },
+  {
+   "slug": "how-to-set-up-google-search-console",
+   "query": "how to set up google search console",
+   "kind": "guide",
+   "title": "How to Set Up Google Search Console for Your Business Website"
+  },
+  {
+   "slug": "seo-for-appliance-repair",
+   "query": "seo for appliance repair",
+   "kind": "guide",
+   "title": "SEO for Appliance Repair Companies in Orange County: Get More Service Calls"
+  },
+  {
+   "slug": "seo-for-audiologists",
+   "query": "seo for audiologists",
+   "kind": "guide",
+   "title": "SEO for Audiologists in Orange County: Help Patients Find Hearing Care"
+  },
+  {
+   "slug": "seo-for-auto-glass-repair",
+   "query": "seo for auto glass",
+   "kind": "guide",
+   "title": "SEO for Auto Glass Repair Shops in Orange County: Win Windshield Jobs"
+  },
+  {
+   "slug": "seo-for-countertop-companies",
+   "query": "seo for countertop companies",
+   "kind": "guide",
+   "title": "SEO for Countertop Companies in Orange County: Win Kitchen and Bath Jobs"
+  },
+  {
+   "slug": "seo-for-dance-studios",
+   "query": "seo for dance studio",
+   "kind": "guide",
+   "title": "SEO for Dance Studios in Orange County: Fill Classes All Year"
+  },
+  {
+   "slug": "seo-for-dietitians",
+   "query": "seo for dietitians",
+   "kind": "guide",
+   "title": "SEO for Dietitians in Orange County: Help Clients Find Nutrition Care"
+  },
+  {
+   "slug": "seo-for-ev-charger-installers",
+   "query": "seo for ev charger installers",
+   "kind": "guide",
+   "title": "SEO for EV Charger Installers in Orange County: Win Charging Installs"
+  },
+  {
+   "slug": "seo-for-jewelry-stores",
+   "query": "seo for jewelry stores",
+   "kind": "guide",
+   "title": "SEO for Jewelry Stores in Orange County: Bring Buyers Through the Door"
+  },
+  {
+   "slug": "seo-for-language-schools",
+   "query": "seo for language schools",
+   "kind": "guide",
+   "title": "SEO for Language Schools in Orange County: Fill Every Class Level"
+  },
+  {
+   "slug": "seo-for-makeup-artists",
+   "query": "seo for makeup artists",
+   "kind": "guide",
+   "title": "SEO for Makeup Artists in Orange County: Book More Weddings and Events"
+  },
+  {
+   "slug": "seo-for-music-schools",
+   "query": "seo for music schools",
+   "kind": "guide",
+   "title": "SEO for Music Schools in Orange County: Fill Your Lesson Schedule"
+  },
+  {
+   "slug": "seo-for-personal-trainers",
+   "query": "seo for personal trainers",
+   "kind": "guide",
+   "title": "SEO for Personal Trainers in Orange County: Book More Clients"
+  },
+  {
+   "slug": "seo-for-pet-boarding",
+   "query": "seo for pet boarding",
+   "kind": "guide",
+   "title": "SEO for Pet Boarding Businesses in Orange County: Earn Owners' Trust"
+  },
+  {
+   "slug": "seo-for-podiatrists",
+   "query": "seo for podiatrists",
+   "kind": "guide",
+   "title": "SEO for Podiatrists in Orange County: Help Patients Find Foot and Ankle Care"
+  },
+  {
+   "slug": "seo-for-siding-companies",
+   "query": "seo for siding companies",
+   "kind": "guide",
+   "title": "SEO for Siding Companies in Orange County: Win Exterior Projects"
+  },
+  {
+   "slug": "seo-for-swim-schools",
+   "query": "seo for swim schools",
+   "kind": "guide",
+   "title": "SEO for Swim Schools in Orange County: Fill Lessons Year Round"
+  },
+  {
+   "slug": "seo-for-tax-preparers",
+   "query": "seo for tax preparers",
+   "kind": "guide",
+   "title": "SEO for Tax Preparers in Orange County: Get Found Before Tax Season"
+  },
+  {
+   "slug": "seo-for-urgent-care-clinics",
+   "query": "seo for urgent care",
+   "kind": "guide",
+   "title": "SEO for Urgent Care Clinics in Orange County: Be Found When Patients Need You"
+  },
+  {
+   "slug": "seo-for-window-and-door-companies",
+   "query": "seo for window and door companies",
+   "kind": "guide",
+   "title": "SEO for Window and Door Companies in Orange County: Win Replacement Projects"
+  },
+  {
+   "slug": "seo-for-window-tinting",
+   "query": "seo for window tinting",
+   "kind": "guide",
+   "title": "SEO for Window Tinting Shops in Orange County: Get More Tint Appointments"
+  }
+ ]
+}

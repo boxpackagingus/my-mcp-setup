@@ -1,0 +1,232 @@
+{
+  "query": "ask maps food ordering",
+  "slug": "ask-maps-food-ordering-restaurants",
+  "eyebrow": "Google Maps",
+  "primary_keyword": "Ask Maps food ordering",
+  "secondary_keywords": [
+    "Ask Maps",
+    "Google Maps AI ordering",
+    "Google Maps Square Toast ordering",
+    "restaurant Google Maps AI"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Ask Maps Food Ordering: What Restaurants Should Do",
+    "meta_description": "Google's Ask Maps can now help people order food, find hotels and events, and suggest edits. What Anaheim and Orange County restaurants should check."
+  },
+  "h1": "Ask Maps Food Ordering: How Google Maps' AI Helps Diners Order, and What Restaurants Should Do",
+  "answer": "Ask Maps food ordering lets people ask Google Maps to find open restaurants along their route that serve what they want and add the dish to their cart. Google says it's rolling out in the U.S. with partners like Square and Toast, with Uber Eats coming soon. Anaheim and Orange County restaurants should keep menus, hours and ordering links accurate.",
+  "key_takeaways": [
+    "Announced August 6, 2026.",
+    "Ask Maps can find open restaurants on your route and add a dish to your cart.",
+    "Food ordering partners include Square and Toast, with Uber Eats coming soon.",
+    "People can suggest edits by photographing a storefront sign.",
+    "Food ordering is rolling out in the U.S. first."
+  ],
+  "sections": [
+    {
+      "heading": "What Google announced",
+      "body_html": "<p>On August 6, 2026, Google added new agentic capabilities to Ask Maps, which it describes as Google Maps' biggest transformation in over a decade. Ask Maps brings <a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a> model capabilities to Maps to answer real-world questions, and can now handle complex, multi-step tasks such as ordering food.</p>"
+    },
+    {
+      "heading": "How food ordering works",
+      "body_html": "<p>Google's example: ask Maps to order a specific dish to pick up on the way home. Ask Maps finds open restaurants along the route that serve it, and can consider saved places or dietary needs. Once the person chooses a restaurant, Ask Maps can add the dish directly to the cart so they can review and complete the order.</p>"
+    },
+    {
+      "heading": "The ordering partners",
+      "body_html": "<p>Google says food ordering is rolling out with partners like Square and Toast, with Uber Eats coming soon. It is co-developing a Universal Commerce Protocol for Food with partners. For restaurants, the point-of-sale and ordering systems you already use may determine whether you can take orders this way.</p>"
+    },
+    {
+      "heading": "Hotels and events too",
+      "body_html": "<p>Ask Maps can also compare real-time hotel prices and availability, and show local events, from concerts to comedy shows, with links for tickets. In a visitor-heavy city like Anaheim, that puts restaurants, hotels and venues side by side in one conversation.</p>"
+    },
+    {
+      "heading": "Personal Intelligence and memory",
+      "body_html": "<p>People can choose to connect Ask Maps to Gmail, with Calendar coming later, so it can factor in plans such as flights or dinner reservations. Google says this connection is off by default. If history settings are on, Ask Maps also remembers past conversations.</p>"
+    },
+    {
+      "heading": "Conversational edits and tips",
+      "body_html": "<p>Google says people can suggest edits conversationally, including uploading a photo of a storefront sign so Maps can detect new hours and ask them to confirm before submitting. They can also share insider tips, such as more parking behind the building. Google says its protection systems review suggested edits for accuracy.</p>"
+    },
+    {
+      "heading": "Why this matters for restaurants",
+      "body_html": "<p>If customers can update your hours from a photo of your sign, your sign, your website and your Business Profile all need to agree. And if diners order through Maps, your menu, availability and ordering setup decide whether you're an option at all.</p>"
+    },
+    {
+      "heading": "Where it's available",
+      "body_html": "<p>Google says food ordering, hotel and event discovery and conversational contributions are rolling out in the U.S., with more countries to come. Ask Maps itself is also expanding to Australia, Brazil, Canada, Indonesia, Japan and Mexico, along with over 150 countries and territories in English.</p>"
+    },
+    {
+      "heading": "What to check this week",
+      "body_html": "<ol><li>Confirm your hours and <a href=\"https://thechimeraai.com/google-business-profile-holiday-hours/\">special hours</a> on your Business Profile and signage match.</li><li>Keep your menu current, with dish names customers actually use.</li><li>Check whether your ordering or POS provider supports ordering through Google.</li><li>Add your own ordering link and set it as preferred where possible.</li><li>Fill in attributes such as dietary options, parking and takeout.</li></ol>"
+    },
+    {
+      "heading": "Dietary needs and dish names",
+      "body_html": "<p>Ask Maps can consider dietary needs and look for a specific dish. Restaurants that list dishes clearly, with vegetarian, vegan or gluten-free options marked, are easier to match than those with a menu only in a photo or PDF.</p>"
+    },
+    {
+      "heading": "A worked example",
+      "body_html": "<p>Imagine someone leaving work in <a href=\"https://thechimeraai.com/seo-irvine/\">Irvine</a> who asks Maps for vegetarian pho to pick up on the way home to Anaheim. A Vietnamese restaurant on that route with an accurate menu, correct hours and ordering through a supported provider can be suggested and have the dish added to the cart. One with an outdated menu photo and wrong hours may not appear at all.</p>"
+    },
+    {
+      "heading": "Keep an eye on suggested edits",
+      "body_html": "<p>Because people can now suggest edits easily, check your Business Profile regularly for changes you didn't make, and correct anything inaccurate quickly.</p>"
+    },
+    {
+      "heading": "Menus that work for AI",
+      "body_html": "<p>A menu that only exists as a photo or PDF is harder for any system to read. Publish your menu as text on your website, with dish names, short descriptions, prices and clear labels for dietary options. Keep your Business Profile menu in sync, and update both when dishes, prices or hours change. If you use an online ordering system, make sure its menu matches too, so a dish suggested by Ask Maps is actually available to order.</p>"
+    },
+    {
+      "heading": "Common mistakes",
+      "body_html": "<ul><li>Hours on the sign that don't match the Business Profile.</li><li>Menu photos from years ago.</li><li>No dietary labels on dishes.</li><li>Ordering links that go to an old provider.</li><li>Ignoring suggested edits from customers.</li></ul>"
+    },
+    {
+      "heading": "Questions to ask your POS or ordering provider",
+      "body_html": "<ul><li>Do you support ordering through Google Maps, and in which regions?</li><li>How do menu updates sync to Google?</li><li>What fees apply to orders placed through Google?</li><li>How are order issues and refunds handled?</li></ul>"
+    },
+    {
+      "heading": "Why this matters in Anaheim and Orange County",
+      "body_html": "<p>Anaheim's resorts, convention center and stadiums bring a constant flow of visitors who don't know the local restaurants and rely on their phones to decide where to eat. Orange County's commuters spend a lot of time on the road, and ordering a pickup on the way home is exactly the use case Google describes. For a family restaurant near the Convention Center or a taqueria along a busy commute route, being suggested by Ask Maps could mean orders from people who would never have found the business otherwise. The work to get there is not new or complicated: accurate hours, a readable menu, a supported ordering setup and an up-to-date Business Profile. What changes is how directly those details turn into orders, because the assistant can now go from question to cart in one conversation.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Ask Maps can now help diners order food along their route, with partners like Square and Toast. Anaheim and Orange County restaurants should keep hours, menus, attributes and ordering links accurate everywhere.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is Ask Maps food ordering?",
+      "a": "A feature that finds open restaurants serving what you want and adds the dish to your cart for review."
+    },
+    {
+      "q": "Which ordering partners work with Ask Maps?",
+      "a": "Google says Square and Toast, with Uber Eats coming soon."
+    },
+    {
+      "q": "Where is food ordering available?",
+      "a": "Google says it's rolling out in the U.S., with more countries to come."
+    },
+    {
+      "q": "Can customers change my hours on Maps?",
+      "a": "They can suggest edits, including from a photo of your sign; Google reviews them."
+    },
+    {
+      "q": "Is Gmail connected to Ask Maps automatically?",
+      "a": "No. Google says Personal Intelligence is off by default."
+    },
+    {
+      "q": "What should restaurants do now?",
+      "a": "Keep hours, menus, attributes and ordering links accurate."
+    },
+    {
+      "q": "Does Ask Maps consider dietary needs?",
+      "a": "Google says it can consider dietary needs and saved places."
+    },
+    {
+      "q": "Do you work with businesses in Anaheim and Orange County?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California, from Anaheim and Santa Ana to Irvine and the coastal cities."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "SEO for restaurants in Orange County",
+      "url": "https://thechimeraai.com/seo-for-restaurants-orange-county/"
+    },
+    {
+      "anchor": "Google Business Profile booking and order links",
+      "url": "https://thechimeraai.com/google-business-profile-links/"
+    },
+    {
+      "anchor": "how to edit your Google Business Profile",
+      "url": "https://thechimeraai.com/how-to-edit-google-business-profile/"
+    },
+    {
+      "anchor": "Google Business Profile optimization",
+      "url": "https://thechimeraai.com/google-business-profile-optimization-orange-county/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "GEO for Restaurants: Get Picked by AI Recommendations",
+      "url": "https://thechimeraai.com/geo-for-restaurants/"
+    },
+    {
+      "anchor": "SEO for coffee shops",
+      "url": "https://thechimeraai.com/seo-for-coffee-shops/"
+    },
+    {
+      "anchor": "SEO for bakeries",
+      "url": "https://thechimeraai.com/seo-for-bakeries/"
+    },
+    {
+      "anchor": "SEO for travel agencies",
+      "url": "https://thechimeraai.com/seo-for-travel-agencies/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google: Ask Maps gets more helpful with food ordering and more (Aug 6, 2026)",
+      "url": "https://blog.google/products-and-platforms/products/maps/order-food-in-ask-maps/"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 3,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "From a request to an order",
+      "lead": "Based on Google's August 6, 2026 announcement.",
+      "steps": [
+        {
+          "title": "Ask",
+          "text": "A dish to pick up on the way home."
+        },
+        {
+          "title": "Find",
+          "text": "Open restaurants along the route."
+        },
+        {
+          "title": "Cart",
+          "text": "Dish added for review."
+        },
+        {
+          "title": "Order",
+          "text": "Completed through a partner."
+        }
+      ]
+    }
+  ],
+  "hero_query": "Can customers order from my restaurant through Google Maps AI?",
+  "short_title": "Ask Maps food ordering and what restaurants should do",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "kind": "blog",
+  "category": "Google Search",
+  "slot": 3,
+  "hero_image": {
+    "id": 1761,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/ask-maps-food-ordering-restaurants-banner.jpg",
+    "alt": "Ask Maps Food Ordering: How Google Maps' AI Helps Diners Order, and What Restaurants Should Do: banner photo",
+    "width": 1600,
+    "height": 760
+  },
+  "published": "2026-11-13",
+  "updated": "2026-11-13",
+  "parent_id": 709
+}

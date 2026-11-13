@@ -1,0 +1,232 @@
+{
+  "query": "search console links report",
+  "slug": "google-search-console-links-report",
+  "eyebrow": "Google Search Console",
+  "primary_keyword": "Search Console Links report",
+  "secondary_keywords": [
+    "backlinks Search Console",
+    "who links to my website",
+    "top linking sites",
+    "internal links report"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Search Console Links Report: Backlinks Explained",
+    "meta_description": "How Anaheim and Orange County businesses can use the Search Console Links report to see backlinks, top linking sites, link text and internal links."
+  },
+  "h1": "The Search Console Links Report: See Who Links to Your Business",
+  "answer": "The Search Console Links report shows a sample of links to your site: your most linked pages, the sites that link to you most, the most common link text and your internal links. Google says it isn't a complete list and doesn't show whether links are nofollow. Anaheim and Orange County businesses can use it to spot useful local links and pages that need more internal links.",
+  "key_takeaways": [
+    "Shows external and internal links.",
+    "It's a sample, not a complete list.",
+    "Tables are limited to 1,000 rows.",
+    "Data is grouped by root domain.",
+    "It doesn't show nofollow status."
+  ],
+  "sections": [
+    {
+      "heading": "What a backlink is",
+      "body_html": "<p>Google defines a backlink as a link on a page from another site to a page on your site. Links from relevant local sites, such as a chamber of commerce, a supplier or a local news story, help people and search engines discover and trust your business.</p>"
+    },
+    {
+      "heading": "What the report includes",
+      "body_html": "<ul><li>Top linked pages: which of your pages have the most links from other sites.</li><li>Top linking sites: which sites link to you most, by root domain.</li><li>Top linking text: the words used in links to you.</li><li><a href=\"https://thechimeraai.com/internal-linking-for-ai-search/\">Internal links</a>: how your own pages link to each other.</li></ul>"
+    },
+    {
+      "heading": "It's a sample",
+      "body_html": "<p>Google says the report isn't a comprehensive list of every link; it shows a sample to help you understand your link profile. Some URLs may be omitted, tables are limited to 1,000 rows, and links Google found over time may since have been removed.</p>"
+    },
+    {
+      "heading": "How data is grouped",
+      "body_html": "<p>Google explains that the report groups data by root domain, combining http and https, subdomains such as www and m., and subdirectories. Pages are grouped by canonical URL, and duplicate links are combined.</p>"
+    },
+    {
+      "heading": "No nofollow information",
+      "body_html": "<p>Google notes that the report doesn't specify whether a link is marked nofollow. Use it to understand who links to you, not to judge the value of each link.</p>"
+    },
+    {
+      "heading": "Check the sites you recognize",
+      "body_html": "<p>Google suggests confirming that you recognize the sites listed. It gives the example of a restaurant checking whether food blogs or review sites mention it. For a local business, look for chambers of commerce, associations, suppliers, local media and community groups.</p>"
+    },
+    {
+      "heading": "Unknown or spammy sites",
+      "body_html": "<p>If you see unknown and possibly spammy sites, Google says you might ask to be removed or, if all else fails, disavow them. Most small businesses never need to disavow; a few odd links are normal.</p>"
+    },
+    {
+      "heading": "Use internal links too",
+      "body_html": "<p>The internal links section shows which of your pages receive the most links from your own site. Important service and location pages should be well linked; if a key page has few internal links, add links from related pages and your homepage.</p>"
+    },
+    {
+      "heading": "Earning good local links",
+      "body_html": "<ul><li>Join local business associations and chambers that list members.</li><li>Sponsor community events and teams.</li><li>Share useful local information that others want to reference.</li><li>Ask suppliers and partners to list you where appropriate.</li></ul>"
+    },
+    {
+      "heading": "Common mistakes",
+      "body_html": "<ul><li>Treating the report as a complete list of links.</li><li>Buying links, which goes against Google's spam policies.</li><li>Disavowing normal links out of worry.</li><li>Ignoring internal links to key pages.</li><li>Focusing only on link counts instead of relevance.</li></ul>"
+    },
+    {
+      "heading": "Questions owners ask us",
+      "body_html": "<p>Owners often ask why a link they know about isn't listed. The report is a sample, and some links are omitted. Another question is whether more links always mean better rankings. Relevance and quality matter far more than counts. Owners also ask whether to worry about a few strange domains linking to them. Usually not; Google's systems handle most of these automatically.</p>"
+    },
+    {
+      "heading": "Checklist",
+      "body_html": "<ul><li>Top linked pages reviewed.</li><li>Top linking sites checked.</li><li>Link text reviewed.</li><li>Key pages have internal links.</li><li>No paid or manipulative links.</li></ul>"
+    },
+    {
+      "heading": "An example",
+      "body_html": "<p>Imagine a bakery in Orange whose Links report shows most backlinks point to the homepage and none to its custom wedding cake page. The owner asks a local wedding venue partner to link to the cake page from its vendor list, and adds links to the page from the bakery's blog posts and menu page. The cake page begins appearing for more wedding-related searches.</p>"
+    },
+    {
+      "heading": "How this fits your local plan",
+      "body_html": "<p>It helps to see where this sits in the bigger picture. Google ranks local results mainly on relevance, distance and popularity, and AI assistants lean on the same public information: your Business Profile, your website, other listings and what customers write. For a business in Anaheim or anywhere in Orange County, the most reliable plan is simple and repeated: keep every listing accurate, explain each service clearly on its own page, show real proof of your work and reply to customers. Small improvements here compound, and they are far harder for competitors to copy than an ad budget.</p>"
+    },
+    {
+      "heading": "What to do this week",
+      "body_html": "<ol><li>Open the Links report.</li><li>Note your top linked pages.</li><li>Check top linking sites.</li><li>Add internal links to one key page.</li></ol>"
+    },
+    {
+      "heading": "When to get help",
+      "body_html": "<p>Plenty of owners handle this themselves. Outside help pays off when time is short, when the business has many locations or when a problem is costing calls every day it stays unresolved. Be wary of anyone who promises guaranteed positions or asks for your verification codes or passwords; Google says nobody can pay for a better local ranking. Look for clear explanations, honest timelines and reporting tied to real enquiries. <a href=\"https://thechimeraai.com/\">Chimera</a> offers exactly that to businesses in Anaheim and across Orange County.</p>"
+    },
+    {
+      "heading": "Local link ideas that fit a small business",
+      "body_html": "<p>The most useful links for a local business usually come from relationships it already has. Start with organizations you belong to: chambers of commerce, trade associations and business improvement districts often have member directories. Then think about the people you work with: suppliers, manufacturers whose products you install, venues you work at and complementary businesses that refer customers to you. Community involvement can earn links naturally when you sponsor a youth team, support a charity event or host a workshop that a local organization lists. Useful local content can also attract links, such as a guide to permits for a type of project in your city or a seasonal checklist that local news or community sites want to share. Avoid shortcuts such as paid link packages, link exchanges at scale or low-quality directories; they go against Google's spam policies and can lead to a <a href=\"https://thechimeraai.com/google-search-console-manual-actions/\">manual action</a>. A handful of genuine, relevant local links is worth more than hundreds of irrelevant ones. Check the report again a few months later to see whether those relationships show up as linking sites.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Use the Links report to see which pages earn links, who links to you and which pages need more internal links. Chimera, based in Anaheim, builds relevant local links and internal linking for Orange County businesses.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What does the Search Console Links report show?",
+      "a": "A sample of external and internal links to your site, top linking sites and link text."
+    },
+    {
+      "q": "Is it a complete list of backlinks?",
+      "a": "No. Google says it shows a sample."
+    },
+    {
+      "q": "Does it show nofollow links?",
+      "a": "It doesn't specify whether links are nofollow."
+    },
+    {
+      "q": "Should I disavow links I don't recognize?",
+      "a": "Only as a last resort for spammy links; most small businesses don't need to."
+    },
+    {
+      "q": "How is data grouped?",
+      "a": "By root domain, combining protocols, subdomains and subdirectories."
+    },
+    {
+      "q": "Why use the internal links section?",
+      "a": "To make sure important pages receive enough links from your own site."
+    },
+    {
+      "q": "Do you help businesses in Anaheim and Orange County with this?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "internal linking for AI search",
+      "url": "https://thechimeraai.com/internal-linking-for-ai-search/"
+    },
+    {
+      "anchor": "digital PR for AI search",
+      "url": "https://thechimeraai.com/digital-pr-for-ai-search/"
+    },
+    {
+      "anchor": "how to set up Google Search Console",
+      "url": "https://thechimeraai.com/how-to-set-up-google-search-console/"
+    },
+    {
+      "anchor": "local landing pages",
+      "url": "https://thechimeraai.com/local-landing-pages/"
+    },
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Search Console's generative AI performance report",
+      "url": "https://thechimeraai.com/blog/search-console-generative-ai-performance-report/"
+    },
+    {
+      "anchor": "Multimodal search data in Search Console",
+      "url": "https://thechimeraai.com/blog/search-console-multimodal-search-report/"
+    },
+    {
+      "anchor": "Search Console security issues",
+      "url": "https://thechimeraai.com/google-search-console-security-issues/"
+    },
+    {
+      "anchor": "Search Console Performance report",
+      "url": "https://thechimeraai.com/google-search-console-performance-report/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Search Console Help: Links report",
+      "url": "https://support.google.com/webmasters/answer/9049606?hl=en"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 2,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "Reading the Links report",
+      "lead": "From Google's help page.",
+      "steps": [
+        {
+          "title": "Pages",
+          "text": "Your most linked pages."
+        },
+        {
+          "title": "Sites",
+          "text": "Who links to you most."
+        },
+        {
+          "title": "Text",
+          "text": "Common link text."
+        },
+        {
+          "title": "Internal",
+          "text": "Pages that need more links."
+        }
+      ]
+    }
+  ],
+  "hero_query": "How can I see which websites link to my business?",
+  "short_title": "Search Console Links report",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 1765,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/google-search-console-links-report-chimera.jpg",
+    "alt": "Search Console Links Report: Backlinks Explained: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-13",
+  "updated": "2026-11-13"
+}

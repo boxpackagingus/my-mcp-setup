@@ -1,0 +1,236 @@
+{
+  "query": "search console security issues",
+  "slug": "google-search-console-security-issues",
+  "eyebrow": "Google Search Console",
+  "primary_keyword": "Search Console security issues",
+  "secondary_keywords": [
+    "hacked website Google warning",
+    "malware warning Google",
+    "site hacked Search Console",
+    "deceptive site warning"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Search Console Security Issues: Fix a Hacked Site",
+    "meta_description": "What the Search Console Security issues report shows: hacked content, malware and social engineering, and how Anaheim and Orange County sites recover."
+  },
+  "h1": "Search Console Security Issues: What to Do if Your Site Is Hacked",
+  "answer": "The Search Console Security issues report shows Google's findings if your site was hacked or could harm visitors, covering hacked content, malware and unwanted software, and social engineering. Affected pages can show warnings in search results or the browser. Anaheim and Orange County businesses should fix every issue, then request a review, which takes a few days to a few weeks.",
+  "key_takeaways": [
+    "Covers hacked content, malware and social engineering.",
+    "Affected pages may show warnings.",
+    "Sample URLs aren't necessarily complete.",
+    "Fix issues across the whole site.",
+    "Reviews take a few days to a few weeks."
+  ],
+  "sections": [
+    {
+      "heading": "What the report shows",
+      "body_html": "<p>Google's help page says the Security issues report shows Google's findings if your site was hacked or behaves in ways that could harm visitors or their devices, such as phishing or installing malware. Pages or sites affected can appear with a warning label in search results or a warning page in the browser.</p>"
+    },
+    {
+      "heading": "The three categories",
+      "body_html": "<ul><li>Hacked content: content placed on your site without permission through security vulnerabilities.</li><li>Malware and unwanted software: software designed to harm devices or users, installed by a hacker or the site owner.</li><li>Social engineering: content that tricks visitors into revealing information or downloading software.</li></ul>"
+    },
+    {
+      "heading": "Why it matters for a business",
+      "body_html": "<p>A warning on your site can stop customers from visiting and damage trust quickly. A security problem can also expose customer data. For a local business that relies on its website for bookings or quotes, fixing it is urgent.</p>"
+    },
+    {
+      "heading": "Can't reproduce the warning?",
+      "body_html": "<p>Google says its Safe Browsing warnings depend on browsing context, so you may not see them yourself. Rely on the Security issues report as the source of truth for whether issues exist or have been fixed.</p>"
+    },
+    {
+      "heading": "Affected pages are a sample",
+      "body_html": "<p>Google notes the list of affected URLs is a sample and not necessarily complete; occasionally there are no examples at all. That doesn't mean no pages are affected. Check the whole site.</p>"
+    },
+    {
+      "heading": "How to fix",
+      "body_html": "<ol><li>Expand the issue and follow the Learn more link.</li><li>Use the sample pages to find the cause.</li><li>Fix the issue throughout the site, not just on some pages.</li><li>Fix every listed issue.</li><li>Test your fixes.</li><li>Select Request Review and describe what you did.</li></ol>"
+    },
+    {
+      "heading": "How long review takes",
+      "body_html": "<p>Google says a review can take from a few days to a few weeks. A good request explains the issue, the steps taken to fix it and the outcome.</p>"
+    },
+    {
+      "heading": "Close the hole, not just the symptoms",
+      "body_html": "<p>Removing spam pages isn't enough if the vulnerability remains. Update WordPress, themes and plugins, remove unused plugins, change passwords for every admin account and hosting login, and check for unknown admin users. Many hosts offer malware scanning and cleanup.</p>"
+    },
+    {
+      "heading": "Prevention",
+      "body_html": "<ul><li>Keep your CMS, themes and plugins updated.</li><li>Use strong, unique passwords and multi-factor authentication.</li><li>Remove admin accounts that are no longer needed.</li><li>Keep regular backups stored off the server.</li><li>Check the Security issues report monthly.</li></ul>"
+    },
+    {
+      "heading": "Common mistakes",
+      "body_html": "<ul><li>Deleting hacked pages without fixing the vulnerability.</li><li>Requesting review before cleaning the whole site.</li><li>Assuming no warning in your own browser means no problem.</li><li>Restoring an old backup that still contains the hack.</li><li>Not telling customers if their data may be affected.</li></ul>"
+    },
+    {
+      "heading": "Questions owners ask us",
+      "body_html": "<p>Owners often ask whether to take the whole site offline. Google's Removals help advises against blocking your entire site; clean up the hack and let Google recrawl. Another question is whether rankings return after a fix. Once the issue is resolved and reviewed, warnings are removed and pages can return as Google recrawls them. Owners also ask how hackers got in. Outdated plugins and reused passwords are the most common routes.</p>"
+    },
+    {
+      "heading": "Checklist",
+      "body_html": "<ul><li>Security issues report checked.</li><li>CMS, themes and plugins updated.</li><li>Passwords changed and MFA on.</li><li>Unknown admin users removed.</li><li>Backups off-server.</li><li>Review requested after a full cleanup.</li></ul>"
+    },
+    {
+      "heading": "An example",
+      "body_html": "<p>Imagine a salon in <a href=\"https://thechimeraai.com/seo-costa-mesa/\">Costa Mesa</a> whose website suddenly shows pages selling counterfeit goods. The Security issues report lists hacked content. The salon's developer finds an outdated plugin, updates everything, removes the spam pages and a hidden admin account, changes all passwords and turns on multi-factor authentication. After testing, the salon requests review, and the warning is removed within days.</p>"
+    },
+    {
+      "heading": "How this fits your local plan",
+      "body_html": "<p>Treat this as part of a routine rather than a one-off fix. Local visibility in Anaheim and the rest of Orange County comes from many small, accurate signals adding up: a verified profile, <a href=\"https://thechimeraai.com/nap-consistency-local-citations/\">consistent listings</a>, useful service pages, real photos and a flow of honest reviews. Google is open that relevance, distance and popularity drive local results. You cannot change distance, but you can make sure Google and AI assistants understand exactly what you do and see evidence that customers value it. Put a monthly reminder in the calendar to check the profile, read new reviews and update anything that has changed.</p>"
+    },
+    {
+      "heading": "What to do this week",
+      "body_html": "<ol><li>Open the Security issues report.</li><li>Update WordPress, themes and plugins.</li><li>Turn on multi-factor authentication.</li><li>Confirm you have recent off-server backups.</li></ol>"
+    },
+    {
+      "heading": "When to get help",
+      "body_html": "<p>You do not need an agency for every step here; Google documents most of it clearly. Consider outside help when the work is urgent and unfamiliar, when you manage several locations, or when the same issue returns after you fix it. Ask any provider to show you the specific guideline or documentation behind each recommendation, to keep you as the owner of your accounts and to report results in calls, bookings and leads rather than vanity numbers. That is how <a href=\"https://thechimeraai.com/\">Chimera</a> works with Orange County businesses from our base in Anaheim.</p>"
+    },
+    {
+      "heading": "A simple incident plan",
+      "body_html": "<p>Agree in advance who does what if your website is hacked, so a problem is handled in hours rather than weeks. Write down who has access to the hosting account, domain registrar, WordPress admin and <a href=\"https://thechimeraai.com/blog/search-console-generative-ai-performance-report/\">Search Console</a>, and keep that list somewhere safe outside the website. Know how to contact your host's support and whether your plan includes malware cleanup. Make sure backups run automatically and that you know how to restore one, ideally having tested it once. Decide who will check whether customer information, such as contact form submissions, could have been exposed and who will tell customers if so. When an issue appears, take a copy of the site for investigation, clean it or restore a known clean backup, patch the vulnerability, change every password, then check Search Console and request review. Afterwards, note what happened and what you changed. A plan like this is a single page of notes, but it turns a stressful emergency into a routine task.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Check the Security issues report monthly, fix every issue site-wide, close the vulnerability and request review. Chimera, based in Anaheim, helps Orange County businesses recover and secure their websites.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What does the Security issues report show?",
+      "a": "Google's findings that your site was hacked or could harm visitors."
+    },
+    {
+      "q": "What types of security issues are there?",
+      "a": "Hacked content, malware and unwanted software, and social engineering."
+    },
+    {
+      "q": "Why can't I see the warning myself?",
+      "a": "Google says warnings depend on browsing context; trust the report."
+    },
+    {
+      "q": "Are all affected pages listed?",
+      "a": "No. Google shows a sample, and sometimes no examples."
+    },
+    {
+      "q": "How long does a security review take?",
+      "a": "Google says from a few days to a few weeks."
+    },
+    {
+      "q": "Should I block my whole site after a hack?",
+      "a": "No. Clean up the hack and let Google recrawl."
+    },
+    {
+      "q": "Do you help businesses in Anaheim and Orange County with this?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "Search Console manual actions",
+      "url": "https://thechimeraai.com/google-search-console-manual-actions/"
+    },
+    {
+      "anchor": "Search Console Removals tool",
+      "url": "https://thechimeraai.com/google-search-console-removals-tool/"
+    },
+    {
+      "anchor": "how to set up Google Search Console",
+      "url": "https://thechimeraai.com/how-to-set-up-google-search-console/"
+    },
+    {
+      "anchor": "moving to a CDN without blocking Googlebot",
+      "url": "https://thechimeraai.com/moving-to-a-cdn-googlebot-crawling/"
+    },
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Search Console Links report",
+      "url": "https://thechimeraai.com/google-search-console-links-report/"
+    },
+    {
+      "anchor": "Search Console Performance report",
+      "url": "https://thechimeraai.com/google-search-console-performance-report/"
+    },
+    {
+      "anchor": "Search Console URL Inspection tool",
+      "url": "https://thechimeraai.com/google-search-console-url-inspection/"
+    },
+    {
+      "anchor": "Search Console Sitemaps report",
+      "url": "https://thechimeraai.com/google-search-console-sitemaps-report/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Search Console Help: Security issues report",
+      "url": "https://support.google.com/webmasters/answer/9044101?hl=en"
+    },
+    {
+      "title": "Search Console Help: Removals and SafeSearch reports tool",
+      "url": "https://support.google.com/webmasters/answer/9689846?hl=en"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 5,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "Recovering from a hack",
+      "lead": "From Google's help pages.",
+      "steps": [
+        {
+          "title": "Find",
+          "text": "Read the issue and samples."
+        },
+        {
+          "title": "Fix",
+          "text": "Clean the whole site."
+        },
+        {
+          "title": "Close",
+          "text": "Patch the vulnerability."
+        },
+        {
+          "title": "Review",
+          "text": "Request Review."
+        }
+      ]
+    }
+  ],
+  "hero_query": "My website shows a Google warning that it may be hacked. What do I do?",
+  "short_title": "Search Console security issues",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 1770,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/google-search-console-security-issues-chimera.jpg",
+    "alt": "Search Console Security Issues: Fix a Hacked Site: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-13",
+  "updated": "2026-11-13"
+}

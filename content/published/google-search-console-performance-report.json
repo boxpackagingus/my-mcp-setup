@@ -1,0 +1,232 @@
+{
+  "query": "google search console performance report",
+  "slug": "google-search-console-performance-report",
+  "eyebrow": "Google Search Console",
+  "primary_keyword": "Search Console Performance report",
+  "secondary_keywords": [
+    "Search Console clicks and impressions",
+    "Search Console queries",
+    "average position Search Console",
+    "Search Console CTR"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Search Console Performance Report Explained",
+    "meta_description": "How Anaheim and Orange County businesses can read the Search Console Performance report: clicks, impressions, CTR, position, queries and filters."
+  },
+  "h1": "The Search Console Performance Report: A Guide for Local Businesses",
+  "answer": "The Search Console Performance report shows how your site performs in Google Search: clicks, impressions, click-through rate and average position, grouped by queries, pages, countries, devices, search appearance and dates. By default it shows the past three months. Anaheim and Orange County businesses can use it to see which searches find them and which pages need work.",
+  "key_takeaways": [
+    "Four metrics: clicks, impressions, CTR, position.",
+    "Default view: the past three months.",
+    "Group by queries, pages, countries, devices and more.",
+    "Filter by web, image, video or news.",
+    "Newest data can be preliminary."
+  ],
+  "sections": [
+    {
+      "heading": "What the report shows",
+      "body_html": "<p>Google says the Performance report shows important metrics about how your site performs in Google Search results. It helps you see how search traffic changes over time, which queries bring traffic and which pages have the highest and lowest click-through rates. For local businesses, it is the clearest evidence of what customers type before they find you.</p>"
+    },
+    {
+      "heading": "The four metrics",
+      "body_html": "<ul><li>Clicks: how many times someone clicked your site from Google Search results.</li><li>Impressions: how many times your site appeared in results.</li><li>CTR: clicks divided by impressions.</li><li>Average position: the average position of your topmost result.</li></ul>"
+    },
+    {
+      "heading": "Reading average position",
+      "body_html": "<p>Google explains that in the chart, average position is for the topmost result from your whole site; in the table, it is the average position for the specific row, such as a query or page. Smaller numbers are better: position 3 is higher on the page than position 8.</p>"
+    },
+    {
+      "heading": "Dimensions",
+      "body_html": "<p>The table can be grouped by queries, pages, countries, devices, search appearance and dates. Queries tell you what people searched; pages tell you which URLs earned the traffic. Switching between them shows which page answers which search.</p>"
+    },
+    {
+      "heading": "Why you may not see yourself",
+      "body_html": "<p>Google notes that even if a query appears in your list, you might not see your site when you run the same search, because results depend on time, place, device and the searcher's recent history. A search from your office in <a href=\"https://thechimeraai.com/seo-santa-ana/\">Santa Ana</a> isn't the same as a customer's search from <a href=\"https://thechimeraai.com/seo-irvine/\">Irvine</a>.</p>"
+    },
+    {
+      "heading": "Date ranges and search types",
+      "body_html": "<p>You can change the date range, including a 24-hour view with hourly, preliminary data. The search type filter covers web (text-based or multimodal), image, video and news. Google says multimodal includes searches made with images, such as Google Lens and Circle to Search.</p>"
+    },
+    {
+      "heading": "Daily, weekly and monthly views",
+      "body_html": "<p>Google suggests daily granularity to spot issues or traffic spikes, and weekly or monthly to see longer-term trends without the noise of weekends and holidays. For seasonal businesses in Orange County, monthly views make year-over-year patterns easier to read.</p>"
+    },
+    {
+      "heading": "Preliminary data",
+      "body_html": "<p>The newest data can be preliminary, meaning it is still being collected and might change in the next few hours. Wait a few days before drawing conclusions from the latest numbers.</p>"
+    },
+    {
+      "heading": "Turn data into action",
+      "body_html": "<ul><li>Queries with impressions but few clicks: improve titles and descriptions.</li><li>Queries for services you offer but rank poorly for: create or improve a dedicated page.</li><li>Pages with falling clicks: check whether they're still accurate and indexed.</li><li>Mobile vs desktop differences: test the mobile experience.</li></ul>"
+    },
+    {
+      "heading": "Common mistakes",
+      "body_html": "<ul><li>Judging a change after a few days of preliminary data.</li><li>Comparing a holiday month with a normal one.</li><li>Chasing average position for one query instead of total clicks.</li><li>Ignoring the pages dimension.</li><li>Expecting query totals to match the site total; rare queries are withheld for privacy.</li></ul>"
+    },
+    {
+      "heading": "Questions owners ask us",
+      "body_html": "<p>Owners often ask what a good click-through rate is. It depends on position and the type of search, so compare your pages with themselves over time. Another question is why impressions rise while clicks stay flat. That usually means you're showing for more searches, often lower down the page; improving the pages that earn those impressions is the next step. Owners also ask how often to check. Monthly is enough for most small businesses.</p>"
+    },
+    {
+      "heading": "Checklist",
+      "body_html": "<ul><li>Default three-month view reviewed.</li><li>Queries tab checked.</li><li>Pages tab checked.</li><li>Mobile vs desktop compared.</li><li>Monthly granularity for trends.</li><li>Actions noted for top gaps.</li></ul>"
+    },
+    {
+      "heading": "An example",
+      "body_html": "<p>Imagine a dental office in Tustin that opens the Performance report and finds many impressions for emergency dentist Tustin but few clicks, with an average position around 9. The practice adds a dedicated emergency dental care page with hours, what to do before arriving and how same-day appointments work, then links to it from the homepage. Over the next months, the query's position and clicks improve.</p>"
+    },
+    {
+      "heading": "How this fits your local plan",
+      "body_html": "<p>Treat this as part of a routine rather than a one-off fix. Local visibility in Anaheim and the rest of Orange County comes from many small, accurate signals adding up: a verified profile, <a href=\"https://thechimeraai.com/nap-consistency-local-citations/\">consistent listings</a>, useful service pages, real photos and a flow of honest reviews. Google is open that relevance, distance and popularity drive local results. You cannot change distance, but you can make sure Google and AI assistants understand exactly what you do and see evidence that customers value it. Put a monthly reminder in the calendar to check the profile, read new reviews and update anything that has changed.</p>"
+    },
+    {
+      "heading": "What to do this week",
+      "body_html": "<ol><li>Open the Performance report.</li><li>Note your top 10 queries and pages.</li><li>Find queries with impressions but few clicks.</li><li>Improve one page this week.</li></ol>"
+    },
+    {
+      "heading": "When to get help",
+      "body_html": "<p>You do not need an agency for every step here; Google documents most of it clearly. Consider outside help when the work is urgent and unfamiliar, when you manage several locations, or when the same issue returns after you fix it. Ask any provider to show you the specific guideline or documentation behind each recommendation, to keep you as the owner of your accounts and to report results in calls, bookings and leads rather than vanity numbers. That is how <a href=\"https://thechimeraai.com/\">Chimera</a> works with Orange County businesses from our base in Anaheim.</p>"
+    },
+    {
+      "heading": "A monthly review in fifteen minutes",
+      "body_html": "<p>Set the date range to the last three months and compare it with the previous period. Note total clicks and impressions first, then switch to the Queries tab and sort by impressions to find the searches you appear for most. Look for three kinds of opportunity: queries for services you offer where your position is between about 5 and 20, queries with many impressions but a low click-through rate, and queries for services you don't have a page for yet. Then open the Pages tab to see which URLs earn those impressions. Pick one page to improve each month: tighten the title so it matches the search, answer the question in the first paragraph, add the details customers ask about and link to it from related pages. Write down what you changed and when, so next month's review can tell you whether it worked. For seasonal businesses in Orange County, such as HVAC, pool services or tax preparers, compare the same months year over year as well, so a seasonal dip isn't mistaken for a problem.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Use the Performance report monthly: check clicks and impressions, look at the queries and pages driving them, and act on the gaps. Chimera, based in Anaheim, builds content plans for Orange County businesses from this report.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What does the Search Console Performance report show?",
+      "a": "Clicks, impressions, CTR and average position for your site in Google Search."
+    },
+    {
+      "q": "How far back does the default view go?",
+      "a": "The past three months."
+    },
+    {
+      "q": "Why can't I find my site for a query in the report?",
+      "a": "Results depend on time, place, device and search history."
+    },
+    {
+      "q": "What is multimodal search in the report?",
+      "a": "Searches made with images, such as Google Lens and Circle to Search."
+    },
+    {
+      "q": "Is the newest data final?",
+      "a": "No. Google says it can be preliminary and change in the next few hours."
+    },
+    {
+      "q": "Is a lower average position better?",
+      "a": "Yes. Position 1 is the top of the results."
+    },
+    {
+      "q": "Do you help businesses in Anaheim and Orange County with this?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "how to set up Google Search Console",
+      "url": "https://thechimeraai.com/how-to-set-up-google-search-console/"
+    },
+    {
+      "anchor": "Search Console Generative AI performance report",
+      "url": "https://thechimeraai.com/search-console-generative-ai-performance-report/"
+    },
+    {
+      "anchor": "Search Console URL Inspection tool",
+      "url": "https://thechimeraai.com/google-search-console-url-inspection/"
+    },
+    {
+      "anchor": "local SEO checklist",
+      "url": "https://thechimeraai.com/local-seo-checklist/"
+    },
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Search Console's generative AI performance report",
+      "url": "https://thechimeraai.com/blog/search-console-generative-ai-performance-report/"
+    },
+    {
+      "anchor": "Multimodal search data in Search Console",
+      "url": "https://thechimeraai.com/blog/search-console-multimodal-search-report/"
+    },
+    {
+      "anchor": "Search Console Sitemaps report",
+      "url": "https://thechimeraai.com/google-search-console-sitemaps-report/"
+    },
+    {
+      "anchor": "Search Console Page indexing report",
+      "url": "https://thechimeraai.com/google-search-console-page-indexing-report/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Search Console Help: Performance report (Search results): Overview and basic setup",
+      "url": "https://support.google.com/webmasters/answer/7576553?hl=en"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 2,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "Reading the report",
+      "lead": "From Google's help page.",
+      "steps": [
+        {
+          "title": "Metrics",
+          "text": "Clicks, impressions, CTR, position."
+        },
+        {
+          "title": "Dimensions",
+          "text": "Queries, pages, devices, dates."
+        },
+        {
+          "title": "Filters",
+          "text": "Date range and search type."
+        },
+        {
+          "title": "Act",
+          "text": "Improve pages for the gaps."
+        }
+      ]
+    }
+  ],
+  "hero_query": "Which searches bring customers to my website from Google?",
+  "short_title": "Search Console Performance report",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 1768,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/google-search-console-performance-report-chimera.jpg",
+    "alt": "Search Console Performance Report Explained: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-13",
+  "updated": "2026-11-13"
+}

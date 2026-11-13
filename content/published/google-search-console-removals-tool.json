@@ -1,0 +1,232 @@
+{
+  "query": "search console removals tool",
+  "slug": "google-search-console-removals-tool",
+  "eyebrow": "Google Search Console",
+  "primary_keyword": "Search Console Removals tool",
+  "secondary_keywords": [
+    "remove URL from Google",
+    "temporary removal Search Console",
+    "remove page from Google search results",
+    "deindex page"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Search Console Removals Tool: When to Use It",
+    "meta_description": "How the Search Console Removals tool temporarily blocks pages from Google for about six months, when to use it and how to remove pages permanently."
+  },
+  "h1": "The Search Console Removals Tool: Temporarily Hide Pages From Google",
+  "answer": "The Search Console Removals tool temporarily blocks pages on a site you own from Google Search results. Google says a successful request lasts about six months and doesn't stop Google crawling the page, so permanent removal needs more steps, such as deleting the page or adding noindex. Anaheim and Orange County businesses should use it for urgent cases only.",
+  "key_takeaways": [
+    "Removals are temporary: about six months.",
+    "Blocking doesn't stop crawling.",
+    "Permanent removal needs extra steps.",
+    "Only works on sites you own.",
+    "Don't use it to clean up old 404 pages."
+  ],
+  "sections": [
+    {
+      "heading": "What the tool does",
+      "body_html": "<p>Google's help page says the Removals tool lets you temporarily block pages from Google Search results on sites you own, see a history of removal requests and see URLs reported as adult content. It only affects Google Search, not other search engines or the internet.</p>"
+    },
+    {
+      "heading": "When to use it",
+      "body_html": "<ul><li>You need a URL on your property off Google Search quickly.</li><li>You've removed sensitive content from a page and want Search to reflect it.</li><li>A hacker created new spam URLs on your site that you need to block while you clean up.</li></ul>"
+    },
+    {
+      "heading": "It's temporary",
+      "body_html": "<p>Google says a successful request lasts only about six months. After that, the page can appear in results again unless you make the removal permanent.</p>"
+    },
+    {
+      "heading": "It doesn't stop crawling",
+      "body_html": "<p>Google notes that blocking a URL doesn't prevent Google from crawling it, only from showing it in results. Google can keep crawling the page if it exists and isn't blocked another way.</p>"
+    },
+    {
+      "heading": "Making it permanent",
+      "body_html": "<p>To remove a page permanently, combine the temporary block with a permanent step: delete the page so it returns a 404 or 410, password-protect it, or add a noindex rule. The temporary block covers the time until Google sees the change.</p>"
+    },
+    {
+      "heading": "When not to use it",
+      "body_html": "<ul><li>To remove pages on sites you don't control.</li><li>To clean up old pages that return 404; they drop out naturally.</li><li>To start over after buying a domain.</li><li>To take a hacked site offline entirely.</li><li>To choose which version of a page is indexed; use canonicals instead.</li><li>To move content to new URLs.</li></ul>"
+    },
+    {
+      "heading": "Duplicate versions",
+      "body_html": "<p>Google warns against using the tool to hide duplicate versions of a page: it won't keep your preferred version and could remove all versions, http and https, www and non-www. Use canonicalization instead.</p>"
+    },
+    {
+      "heading": "Content on sites you don't own",
+      "body_html": "<p>If outdated information about your business appears on someone else's site and the content is gone from the page, Google offers a separate route to request a refresh of outdated content. If it's still there, contact the site owner.</p>"
+    },
+    {
+      "heading": "A typical local business case",
+      "body_html": "<p>A staff member's personal phone number or a private document gets published by mistake. Remove it from the page, request a temporary removal so it disappears from results quickly, and confirm the page no longer contains it so the removal stays effective.</p>"
+    },
+    {
+      "heading": "Common mistakes",
+      "body_html": "<ul><li>Thinking a removal is permanent.</li><li>Removing a page without fixing or deleting it.</li><li>Using removals for routine site cleanup.</li><li>Hiding all versions of the homepage by accident.</li><li>Trying to remove competitors' pages.</li></ul>"
+    },
+    {
+      "heading": "Questions owners ask us",
+      "body_html": "<p>Owners often ask how to remove an old service page they no longer offer. Delete it or redirect it to the most relevant page; it will drop out as Google recrawls, without the Removals tool. Another question is how to remove a negative review from Google Search. The Removals tool doesn't apply to review sites you don't own; use the review platform's own reporting tools. Owners also ask whether removals hurt rankings for other pages. They don't, when used for specific URLs.</p>"
+    },
+    {
+      "heading": "Checklist",
+      "body_html": "<ul><li>Content removed or page fixed first.</li><li>Temporary removal requested.</li><li>Permanent step taken: delete, password or noindex.</li><li>Request history checked.</li><li>Duplicates handled with canonicals, not removals.</li></ul>"
+    },
+    {
+      "heading": "An example",
+      "body_html": "<p>Imagine an accounting firm in Fullerton that accidentally publishes a page containing a client's tax summary. The firm deletes the page so it returns a 404, then requests a temporary removal in Search Console so it disappears from results right away. It checks the request status and the page's removal from search, then reviews its publishing process.</p>"
+    },
+    {
+      "heading": "How this fits your local plan",
+      "body_html": "<p>This task is one piece of a wider local plan. Google says local results are mainly based on relevance, distance and popularity, so the profile, your website and your reputation all have to agree. A practical order for most Orange County businesses is: get the Business Profile verified and accurate, make the <a href=\"https://thechimeraai.com/nap-consistency-local-citations/\">name, address and phone</a> identical everywhere, publish one clear page per service, then build a steady habit of <a href=\"https://thechimeraai.com/how-to-get-more-google-reviews/\">genuine reviews</a> and replies. Each step makes the next one work better, and the same signals help AI assistants such as <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a>, <a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a> and Google's AI features describe your business correctly when someone in Anaheim asks for a recommendation.</p>"
+    },
+    {
+      "heading": "What to do this week",
+      "body_html": "<ol><li>Check your request history.</li><li>List any pages that shouldn't be public.</li><li>Remove or protect them.</li><li>Use temporary removal only if urgent.</li></ol>"
+    },
+    {
+      "heading": "When to get help",
+      "body_html": "<p>Most of this can be done in-house with an hour or two and careful reading of Google's own help pages. It is worth bringing in help when the stakes are high or the problem keeps coming back: a profile that has been suspended more than once, many locations to manage, a site that keeps failing the same checks, or no time to keep up the routine. A good local SEO partner should explain what they will change and why, point to Google's guidelines rather than promise rankings, and leave you with access to every account. <a href=\"https://thechimeraai.com/\">Chimera</a> works this way with businesses across Anaheim and Orange County.</p>"
+    },
+    {
+      "heading": "Outdated information on other websites",
+      "body_html": "<p>Many business owners find outdated details about their business on sites they don't control, such as an old address on a directory, a former owner's phone number or an old menu. The Removals tool can't change those pages, because it only covers sites you own. The practical approach is to contact each site owner or use the platform's own correction process, such as claiming the listing on a directory and updating it. If the information has already been removed from the page but still appears in Google's results, Google provides a separate way to request a refresh of outdated content. Meanwhile, make sure your own website, <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a> and main directory listings all show the current, consistent details, so search engines and AI assistants have a clear source of truth. For businesses that have moved within Orange County or changed phone numbers, this cleanup often matters more for customers than anything in the Removals tool.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Use the Removals tool only for urgent cases on your own site, and always make the change permanent with deletion, password protection or noindex. Chimera, based in Anaheim, helps Orange County businesses handle urgent removals correctly.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long does a Search Console removal last?",
+      "a": "About six months."
+    },
+    {
+      "q": "Does the Removals tool stop Google from crawling?",
+      "a": "No. It only hides the page from search results."
+    },
+    {
+      "q": "How do I remove a page permanently?",
+      "a": "Delete it, password-protect it or add noindex, along with the temporary removal."
+    },
+    {
+      "q": "Can I remove pages from sites I don't own?",
+      "a": "Not with this tool; Google offers other routes for outdated content."
+    },
+    {
+      "q": "Should I use it for old 404 pages?",
+      "a": "No. Google says they drop out naturally as it recrawls."
+    },
+    {
+      "q": "Can I use it to choose my preferred URL?",
+      "a": "No. Use canonicalization; the tool could remove all versions."
+    },
+    {
+      "q": "Do you help businesses in Anaheim and Orange County with this?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "Search Console security issues",
+      "url": "https://thechimeraai.com/google-search-console-security-issues/"
+    },
+    {
+      "anchor": "Search Console Page indexing report",
+      "url": "https://thechimeraai.com/google-search-console-page-indexing-report/"
+    },
+    {
+      "anchor": "Search Console URL Inspection tool",
+      "url": "https://thechimeraai.com/google-search-console-url-inspection/"
+    },
+    {
+      "anchor": "how to set up Google Search Console",
+      "url": "https://thechimeraai.com/how-to-set-up-google-search-console/"
+    },
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Search Console's generative AI performance report",
+      "url": "https://thechimeraai.com/blog/search-console-generative-ai-performance-report/"
+    },
+    {
+      "anchor": "Search Console Performance report",
+      "url": "https://thechimeraai.com/google-search-console-performance-report/"
+    },
+    {
+      "anchor": "Search Console Sitemaps report",
+      "url": "https://thechimeraai.com/google-search-console-sitemaps-report/"
+    },
+    {
+      "anchor": "Search Console Links report",
+      "url": "https://thechimeraai.com/google-search-console-links-report/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Search Console Help: Removals and SafeSearch reports tool",
+      "url": "https://support.google.com/webmasters/answer/9689846?hl=en"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 3,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "Removing a page properly",
+      "lead": "From Google's help page.",
+      "steps": [
+        {
+          "title": "Fix",
+          "text": "Remove or protect the content."
+        },
+        {
+          "title": "Block",
+          "text": "Temporary removal request."
+        },
+        {
+          "title": "Permanent",
+          "text": "404, password or noindex."
+        },
+        {
+          "title": "Confirm",
+          "text": "Check request history."
+        }
+      ]
+    }
+  ],
+  "hero_query": "How do I quickly remove a page from Google search results?",
+  "short_title": "Search Console Removals tool",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 1769,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/google-search-console-removals-tool-chimera.jpg",
+    "alt": "Search Console Removals Tool: When to Use It: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-13",
+  "updated": "2026-11-13"
+}

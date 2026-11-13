@@ -1,0 +1,228 @@
+{
+  "query": "how to set up google search console",
+  "slug": "how-to-set-up-google-search-console",
+  "eyebrow": "Google Search Console",
+  "primary_keyword": "set up Google Search Console",
+  "secondary_keywords": [
+    "Google Search Console setup",
+    "verify website Google Search Console",
+    "add site to Search Console",
+    "Search Console domain property"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "How to Set Up Google Search Console (2026)",
+    "meta_description": "How to set up Google Search Console for an Anaheim or Orange County business website: Domain vs URL-prefix properties, verification and first steps."
+  },
+  "h1": "How to Set Up Google Search Console for Your Business Website",
+  "answer": "To set up Google Search Console, open the property selector, choose Add property, pick a Domain property (verified by DNS record) or a URL-prefix property (several verification methods), and prove you own the site. Adding a property doesn't change how your site appears in Google. For Anaheim and Orange County businesses it is the free way to see how Google Search finds your website.",
+  "key_takeaways": [
+    "Search Console is free.",
+    "Domain properties cover all subdomains and protocols.",
+    "Domain properties need DNS verification.",
+    "URL-prefix properties match one exact prefix.",
+    "Adding a property doesn't affect your rankings."
+  ],
+  "sections": [
+    {
+      "heading": "What Search Console is for",
+      "body_html": "<p>Search Console is Google's free tool for site owners. It shows which searches show your site, which pages Google has indexed, whether Google found problems such as manual actions or security issues, and who links to you. For a small business in Anaheim or anywhere in Orange County, it is the most direct view of how Google Search sees your website, and the starting point for fixing anything that keeps your pages out of results.</p>"
+    },
+    {
+      "heading": "What a property is",
+      "body_html": "<p>Google's help page explains that a property is Search Console's term for an asset you can examine or manage. Website properties cover pages that share a domain or URL prefix you specify. Platform properties cover your presence on supported platforms such as Instagram, TikTok, X and YouTube; Google says it is rolling these out gradually. You can have up to 1,000 properties in one account.</p>"
+    },
+    {
+      "heading": "Domain or URL-prefix?",
+      "body_html": "<p>A Domain property, such as example.com, includes all subdomains and protocols, so http, https, www and m. versions are all covered. A URL-prefix property includes only URLs with the exact prefix, protocol included: http://example.com/ does not cover https://example.com/ or the www version. For most small business sites, a Domain property is the simplest choice because it captures everything in one place.</p>"
+    },
+    {
+      "heading": "How verification differs",
+      "body_html": "<p>Google says a Domain property requires DNS record verification, unless the site is on a Google product such as Blogger or Google Sites. URL-prefix properties support many verification methods. If you can't add a DNS record yourself, ask whoever manages your domain, or start with a URL-prefix property for the exact address your site uses.</p>"
+    },
+    {
+      "heading": "Step by step",
+      "body_html": "<ol><li>Open the property selector in Search Console and select Add property.</li><li>Choose a website property, then Domain or URL-prefix.</li><li>For a Domain property, enter only the root domain, with no protocol or path.</li><li>Follow the verification instructions for your property type.</li><li>Once verified, open the Performance report and Page indexing report.</li></ol>"
+    },
+    {
+      "heading": "It won't hurt your site",
+      "body_html": "<p>Google states that adding a property does not affect your website on Google Search; it only lets you track performance. If you don't finish in one sitting or run into setup problems, it won't harm your site. That makes setup low-risk even for owners who are new to technical tools.</p>"
+    },
+    {
+      "heading": "If you can't prove ownership",
+      "body_html": "<p>Google says that if you're unable to verify, you can ask another property owner to grant you access. This is common when a web designer or agency set up Search Console years ago. Ask them to add you as an owner, so the business controls its own data.</p>"
+    },
+    {
+      "heading": "What to look at first",
+      "body_html": "<p>Start with three things: the Performance report to see which searches show your site, the Page indexing report to confirm key pages are indexed, and the Manual actions and Security issues reports, which should show green check marks. Then submit your sitemap if your site needs one.</p>"
+    },
+    {
+      "heading": "Common setup mistakes",
+      "body_html": "<ul><li>Creating a URL-prefix property for http when the site uses https.</li><li>Letting a former agency remain the only owner.</li><li>Never opening the account again after verification.</li><li>Removing the verification token during a site rebuild.</li><li>Confusing Search Console with Google Analytics; they measure different things.</li></ul>"
+    },
+    {
+      "heading": "Search Console and AI search",
+      "body_html": "<p>Google's AI features in Search, such as <a href=\"https://thechimeraai.com/how-to-show-up-in-google-ai-overviews/\">AI Overviews</a> and <a href=\"https://thechimeraai.com/how-to-optimize-for-google-ai-mode/\">AI Mode</a>, draw on pages Google can crawl and index. Search Console is where you confirm that your important pages are indexed and see how they perform, including through the Generative AI performance report where it is available.</p>"
+    },
+    {
+      "heading": "Questions owners ask us",
+      "body_html": "<p>Owners often ask whether Search Console will improve rankings by itself. It won't; it shows you what Google sees so you can make better decisions. Another common question is whether a business with a <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a> needs Search Console. They are separate: the profile covers Maps and local listings, while Search Console covers your website in Search. Owners also ask how long data takes to appear. A new property starts collecting from verification, so set it up as early as possible.</p>"
+    },
+    {
+      "heading": "Checklist",
+      "body_html": "<ul><li>Property type chosen: Domain if possible.</li><li>Verification completed.</li><li>Business account is an owner.</li><li>Agency or designer added as a user, not sole owner.</li><li>Performance report opened.</li><li>Page indexing report checked.</li><li>Manual actions and Security issues show no problems.</li></ul>"
+    },
+    {
+      "heading": "An example",
+      "body_html": "<p>Imagine a landscaping company in Yorba Linda whose website was built by a freelancer who has since moved on. The owner asks the domain registrar's support team how to add a DNS TXT record, creates a Domain property for the company's domain and verifies it. Within weeks the Performance report shows searches such as drought tolerant landscaping, which leads the owner to add a dedicated page for that service.</p>"
+    },
+    {
+      "heading": "How this fits your local plan",
+      "body_html": "<p>This task is one piece of a wider local plan. Google says local results are mainly based on relevance, distance and popularity, so the profile, your website and your reputation all have to agree. A practical order for most Orange County businesses is: get the Business Profile verified and accurate, make the name, address and phone identical everywhere, publish one clear page per service, then build a steady habit of <a href=\"https://thechimeraai.com/how-to-get-more-google-reviews/\">genuine reviews</a> and replies. Each step makes the next one work better, and the same signals help AI assistants such as <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a>, Gemini and Google's AI features describe your business correctly when someone in Anaheim asks for a recommendation.</p>"
+    },
+    {
+      "heading": "What to do this week",
+      "body_html": "<ol><li>Choose Domain or URL-prefix.</li><li>Verify ownership.</li><li>Make the business an owner.</li><li>Open the Performance and Page indexing reports.</li></ol>"
+    },
+    {
+      "heading": "When to get help",
+      "body_html": "<p>Most of this can be done in-house with an hour or two and careful reading of Google's own help pages. It is worth bringing in help when the stakes are high or the problem keeps coming back: a profile that has been suspended more than once, many locations to manage, a site that keeps failing the same checks, or no time to keep up the routine. A good local SEO partner should explain what they will change and why, point to Google's guidelines rather than promise rankings, and leave you with access to every account. <a href=\"https://thechimeraai.com/\">Chimera</a> works this way with businesses across Anaheim and Orange County.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Add a Domain property and verify it by DNS, or a URL-prefix property if DNS isn't possible, keep ownership in the business and check the key reports monthly. Chimera, based in Anaheim, sets up Search Console for Orange County businesses as the first step of every audit.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is Google Search Console free?",
+      "a": "Yes. It is a free tool from Google for website owners."
+    },
+    {
+      "q": "What's the difference between Domain and URL-prefix properties?",
+      "a": "Domain covers all subdomains and protocols; URL-prefix covers only the exact prefix."
+    },
+    {
+      "q": "How do I verify a Domain property?",
+      "a": "With a DNS record, unless the site is on a Google product such as Blogger or Google Sites."
+    },
+    {
+      "q": "Will adding Search Console affect my rankings?",
+      "a": "No. Google says it doesn't affect your site on Google Search."
+    },
+    {
+      "q": "How many properties can I have?",
+      "a": "Up to 1,000 in one Search Console account."
+    },
+    {
+      "q": "Can someone else give me access?",
+      "a": "Yes. An existing owner can grant you access if you can't verify."
+    },
+    {
+      "q": "Do you help businesses in Anaheim and Orange County with this?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "Search Console Performance report",
+      "url": "https://thechimeraai.com/google-search-console-performance-report/"
+    },
+    {
+      "anchor": "Search Console Page indexing report",
+      "url": "https://thechimeraai.com/google-search-console-page-indexing-report/"
+    },
+    {
+      "anchor": "Search Console users and permissions",
+      "url": "https://thechimeraai.com/google-search-console-users-and-permissions/"
+    },
+    {
+      "anchor": "local SEO checklist",
+      "url": "https://thechimeraai.com/local-seo-checklist/"
+    },
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Search Console's generative AI performance report",
+      "url": "https://thechimeraai.com/blog/search-console-generative-ai-performance-report/"
+    },
+    {
+      "anchor": "Search Console security issues",
+      "url": "https://thechimeraai.com/google-search-console-security-issues/"
+    },
+    {
+      "anchor": "Search Console Links report",
+      "url": "https://thechimeraai.com/google-search-console-links-report/"
+    },
+    {
+      "anchor": "Search Console URL Inspection tool",
+      "url": "https://thechimeraai.com/google-search-console-url-inspection/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Search Console Help: Add a website or platform property to Search Console",
+      "url": "https://support.google.com/webmasters/answer/34592?hl=en"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 4,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "Setting up Search Console",
+      "lead": "From Google's Search Console help.",
+      "steps": [
+        {
+          "title": "Add",
+          "text": "Property selector, then Add property."
+        },
+        {
+          "title": "Type",
+          "text": "Domain or URL-prefix."
+        },
+        {
+          "title": "Verify",
+          "text": "DNS for Domain; several methods for URL-prefix."
+        },
+        {
+          "title": "Check",
+          "text": "Performance and indexing reports."
+        }
+      ]
+    }
+  ],
+  "hero_query": "How do I set up Google Search Console for my business website?",
+  "short_title": "Set up Google Search Console",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 1774,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/how-to-set-up-google-search-console-chimera.jpg",
+    "alt": "How to Set Up Google Search Console (2026): illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-13",
+  "updated": "2026-11-13"
+}

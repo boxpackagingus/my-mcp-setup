@@ -1,0 +1,232 @@
+{
+  "query": "google search console url inspection",
+  "slug": "google-search-console-url-inspection",
+  "eyebrow": "Google Search Console",
+  "primary_keyword": "Search Console URL Inspection tool",
+  "secondary_keywords": [
+    "request indexing Google",
+    "URL inspection Search Console",
+    "test live URL",
+    "is my page on Google"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Search Console URL Inspection Tool: How to Use",
+    "meta_description": "How to use the Search Console URL Inspection tool to check if a page is on Google, test live URLs and request indexing, for Orange County businesses."
+  },
+  "h1": "How to Use the Search Console URL Inspection Tool",
+  "answer": "The Search Console URL Inspection tool shows Google's indexed version of a specific page, tests whether a live URL might be indexable and lets you request indexing. URL is on Google means a page is eligible to appear, not guaranteed. Anaheim and Orange County businesses can use it to check new or updated pages and troubleshoot missing ones.",
+  "key_takeaways": [
+    "Inspect any URL in your property.",
+    "Indexed results aren't a live test.",
+    "Live test checks current indexability.",
+    "Request indexing has a daily limit.",
+    "URL is on Google means eligible, not guaranteed."
+  ],
+  "sections": [
+    {
+      "heading": "What the tool does",
+      "body_html": "<p>Google's help page says the URL Inspection tool gives information about Google's indexed version of a page and lets you test whether a URL might be indexable. It covers indexing, <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a>, video and more. It is the first tool to open when a specific page isn't showing up.</p>"
+    },
+    {
+      "heading": "Two ways to open it",
+      "body_html": "<p>Type the full URL in the inspection bar at the top of any <a href=\"https://thechimeraai.com/blog/search-console-generative-ai-performance-report/\">Search Console</a> screen, or click Inspect next to a URL in most reports. The URL must belong to the property you have open.</p>"
+    },
+    {
+      "heading": "Indexed result vs live test",
+      "body_html": "<p>Google stresses that the default result is not a live test: it reflects the most recently indexed version, which may have changed since Google last saw it. Select Test live URL to check the current page as Google would see it, for example after fixing a problem.</p>"
+    },
+    {
+      "heading": "Reading the status",
+      "body_html": "<p>URL is on Google means the URL is eligible to appear in Search results, but Google says this isn't a guarantee. URL is not on Google means it can't appear. Expand Page indexing to see how Google discovered the URL, whether it could crawl it and when.</p>"
+    },
+    {
+      "heading": "Find your canonical",
+      "body_html": "<p>Google says you can see which version of a page it chose as canonical in the indexed data under Google-selected canonical. The live test can't predict canonical choice. This matters when similar pages, such as <a href=\"https://thechimeraai.com/local-landing-pages/\">city pages</a>, compete with each other.</p>"
+    },
+    {
+      "heading": "Request indexing",
+      "body_html": "<p>After inspecting a URL, select Request indexing to ask Google to crawl it. Google notes there is a daily limit on inspection and indexing requests per property, so use it for important new or updated pages, not every page on the site.</p>"
+    },
+    {
+      "heading": "What isn't tested",
+      "body_html": "<ul><li>Whether the page meets Google's quality and security guidelines.</li><li><a href=\"https://thechimeraai.com/google-search-console-manual-actions/\">Manual actions</a> or security issues on the site.</li><li>Content removals for legal or other reasons.</li><li>Temporary blocks set in Search Console.</li><li>Whether a video is indexed, in a live test.</li></ul>"
+    },
+    {
+      "heading": "See the rendered page",
+      "body_html": "<p>View crawled page or View tested page shows a screenshot of how Google's inspection tool sees the page, plus loaded resources and JavaScript output. It helps spot pages where content only appears after scripts that Google can't run.</p>"
+    },
+    {
+      "heading": "When to use it",
+      "body_html": "<ul><li>After publishing a new service or location page.</li><li>After fixing an error on an important page.</li><li>When a key page disappears from results.</li><li>To confirm which version is canonical.</li></ul>"
+    },
+    {
+      "heading": "Common mistakes",
+      "body_html": "<ul><li>Treating the indexed result as a live test.</li><li>Requesting indexing for hundreds of pages; use a sitemap instead.</li><li>Assuming URL is on Google means the page ranks.</li><li>Inspecting a URL from a different property.</li><li>Ignoring the Google-selected canonical.</li></ul>"
+    },
+    {
+      "heading": "Questions owners ask us",
+      "body_html": "<p>Owners often ask how long indexing takes after a request. There is no fixed time; requesting simply asks Google to crawl the URL. Another question is why a page says it's on Google but doesn't appear for a search. Indexing makes a page eligible, but ranking depends on relevance and many other factors. Owners also ask whether requesting indexing repeatedly helps. It doesn't; request once, then work on the page itself.</p>"
+    },
+    {
+      "heading": "Checklist",
+      "body_html": "<ul><li>Inspected the homepage.</li><li>Inspected top service pages.</li><li>Live test run after fixes.</li><li>Google-selected canonical checked.</li><li>Indexing requested for key new pages only.</li></ul>"
+    },
+    {
+      "heading": "An example",
+      "body_html": "<p>Imagine an electrician in Huntington Beach who publishes a new EV charger installation page. A week later it isn't appearing. The owner inspects the URL and sees URL is not on Google with the reason that it was discovered but not yet crawled. They link to the page from the homepage and services page, run a live test that shows the page fetches successfully, and request indexing once.</p>"
+    },
+    {
+      "heading": "How this fits your local plan",
+      "body_html": "<p>It helps to see where this sits in the bigger picture. Google ranks local results mainly on relevance, distance and popularity, and AI assistants lean on the same public information: your Business Profile, your website, other listings and what customers write. For a business in Anaheim or anywhere in Orange County, the most reliable plan is simple and repeated: keep every listing accurate, explain each service clearly on its own page, show real proof of your work and reply to customers. Small improvements here compound, and they are far harder for competitors to copy than an ad budget.</p>"
+    },
+    {
+      "heading": "What to do this week",
+      "body_html": "<ol><li>Inspect your homepage.</li><li>Inspect your three most important service pages.</li><li>Check each canonical.</li><li>Request indexing only for new key pages.</li></ol>"
+    },
+    {
+      "heading": "When to get help",
+      "body_html": "<p>Plenty of owners handle this themselves. Outside help pays off when time is short, when the business has many locations or when a problem is costing calls every day it stays unresolved. Be wary of anyone who promises guaranteed positions or asks for your verification codes or passwords; Google says nobody can pay for a better local ranking. Look for clear explanations, honest timelines and reporting tied to real enquiries. <a href=\"https://thechimeraai.com/\">Chimera</a> offers exactly that to businesses in Anaheim and across Orange County.</p>"
+    },
+    {
+      "heading": "A checklist after publishing a new page",
+      "body_html": "<p>Every time you publish an important page, such as a new service, location or offer, run the same short routine. First, make sure the page is linked from at least two relevant pages on your site, such as the homepage or main services page, so Google can find it without relying on a request. Second, confirm it is in your sitemap if your site uses one. Third, inspect the URL and run a live test to confirm Google can fetch the page and that nothing blocks it, such as a noindex tag left over from a staging site or a <a href=\"https://thechimeraai.com/robots-txt-for-ai-crawlers/\">robots.txt</a> rule. Fourth, view the tested page screenshot to check the main content is visible. Fifth, request indexing once. Then leave it alone for a week or two before inspecting again. If the page is still not indexed, compare it with similar pages that are: is it clearly different and useful, or does it repeat what another page says? Thin or near-duplicate pages are often crawled but not indexed, so the fix is usually better content rather than more requests.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Inspect important URLs, use the live test after fixes, check the Google-selected canonical and request indexing sparingly. Chimera, based in Anaheim, uses this tool on every new page we publish for Orange County clients.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the URL Inspection tool?",
+      "a": "A Search Console tool showing Google's indexed version of a page and testing live indexability."
+    },
+    {
+      "q": "Is the inspection result live?",
+      "a": "No. It reflects the last indexed version; use Test live URL for the current page."
+    },
+    {
+      "q": "Does URL is on Google mean my page ranks?",
+      "a": "No. Google says it means eligible to appear, not guaranteed."
+    },
+    {
+      "q": "Can I request indexing?",
+      "a": "Yes, from the inspection result; there is a daily limit per property."
+    },
+    {
+      "q": "Can I inspect a site I don't own?",
+      "a": "No. The URL must be in your property; use tools like the Rich Results Test instead."
+    },
+    {
+      "q": "How do I see Google's canonical choice?",
+      "a": "In the indexed result under Google-selected canonical."
+    },
+    {
+      "q": "Do you help businesses in Anaheim and Orange County with this?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "Search Console Page indexing report",
+      "url": "https://thechimeraai.com/google-search-console-page-indexing-report/"
+    },
+    {
+      "anchor": "Search Console Sitemaps report",
+      "url": "https://thechimeraai.com/google-search-console-sitemaps-report/"
+    },
+    {
+      "anchor": "how to set up Google Search Console",
+      "url": "https://thechimeraai.com/how-to-set-up-google-search-console/"
+    },
+    {
+      "anchor": "internal linking for AI search",
+      "url": "https://thechimeraai.com/internal-linking-for-ai-search/"
+    },
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Search Console Removals tool",
+      "url": "https://thechimeraai.com/google-search-console-removals-tool/"
+    },
+    {
+      "anchor": "Search Console security issues",
+      "url": "https://thechimeraai.com/google-search-console-security-issues/"
+    },
+    {
+      "anchor": "Search Console Performance report",
+      "url": "https://thechimeraai.com/google-search-console-performance-report/"
+    },
+    {
+      "anchor": "Search Console Links report",
+      "url": "https://thechimeraai.com/google-search-console-links-report/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Search Console Help: URL Inspection tool",
+      "url": "https://support.google.com/webmasters/answer/9012289?hl=en"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 3,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "Checking a page",
+      "lead": "From Google's help page.",
+      "steps": [
+        {
+          "title": "Inspect",
+          "text": "Enter the full URL."
+        },
+        {
+          "title": "Read",
+          "text": "On Google or not on Google."
+        },
+        {
+          "title": "Test",
+          "text": "Test live URL after fixes."
+        },
+        {
+          "title": "Request",
+          "text": "Request indexing if needed."
+        }
+      ]
+    }
+  ],
+  "hero_query": "How do I check if Google has indexed a page on my website?",
+  "short_title": "Search Console URL Inspection tool",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 1772,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/google-search-console-url-inspection-chimera.jpg",
+    "alt": "Search Console URL Inspection Tool: How to Use: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-13",
+  "updated": "2026-11-13"
+}

@@ -1,0 +1,232 @@
+{
+  "query": "search console page indexing report",
+  "slug": "google-search-console-page-indexing-report",
+  "eyebrow": "Google Search Console",
+  "primary_keyword": "Search Console Page indexing report",
+  "secondary_keywords": [
+    "pages not indexed Google",
+    "crawled currently not indexed",
+    "discovered currently not indexed",
+    "Search Console indexing"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Search Console Page Indexing Report Guide",
+    "meta_description": "Use the Search Console Page indexing report to see which pages Google indexed and why others aren't, explained for Anaheim and Orange County businesses."
+  },
+  "h1": "The Search Console Page Indexing Report: What Local Businesses Need to Know",
+  "answer": "The Search Console Page indexing report shows which pages Google can find and index on your site and the reasons other pages aren't indexed. Google says sites with fewer than 500 pages often don't need it and can use site: searches instead. Anaheim and Orange County businesses should make sure key pages are indexed and that unindexed pages are excluded for good reasons.",
+  "key_takeaways": [
+    "Shows indexed and not indexed pages.",
+    "Small sites can often use site: searches instead.",
+    "Not every URL should be indexed.",
+    "New pages can take a week or so.",
+    "Use URL Inspection for a specific page."
+  ],
+  "sections": [
+    {
+      "heading": "What the report shows",
+      "body_html": "<p>Google's help page says the Page indexing report shows which pages Google can find and index on your site and any indexing problems it found. It is a site-wide view, not a tool for checking one page; for a single URL, use URL Inspection.</p>"
+    },
+    {
+      "heading": "Do you need it?",
+      "body_html": "<p>Google says that if your site has fewer than 500 pages, you probably don't need this report. Instead, search site:yourdomain.com to see pages Google knows about, and search the exact URL of key pages. Only if those searches return nothing should a small site dig into the report.</p>"
+    },
+    {
+      "heading": "What to look for",
+      "body_html": "<p>Google suggests checking that all your important URLs are indexed and that the not indexed URLs are excluded for good reasons. Most sites have some unindexed pages, and duplicates shouldn't be indexed.</p>"
+    },
+    {
+      "heading": "Good reasons not to be indexed",
+      "body_html": "<ul><li>An intended <a href=\"https://thechimeraai.com/robots-txt-for-ai-crawlers/\">robots.txt</a> rule.</li><li>A noindex tag on the page.</li><li>A duplicate URL with a better canonical.</li><li>A 404 for a page you removed on purpose.</li></ul>"
+    },
+    {
+      "heading": "Two common statuses",
+      "body_html": "<p>Crawled - currently not indexed means Google crawled the page but didn't index it. Discovered - currently not indexed means Google found the page but hasn't crawled it yet. For new pages, the second often resolves with time and good internal links.</p>"
+    },
+    {
+      "heading": "When totals look too low",
+      "body_html": "<p>Google says that if the report's URL count is much smaller than your page count, Google isn't finding your pages. New pages or sites can take a week or so to be crawled. Pages must be linked from a known page or listed in a sitemap; for a new site, requesting indexing of the homepage is a good first step.</p>"
+    },
+    {
+      "heading": "What not to expect",
+      "body_html": "<ul><li>Every URL indexed; duplicates and thin pages may not be.</li><li>Totals matching your own page count exactly.</li><li>Indexed pages always appearing for every search.</li></ul>"
+    },
+    {
+      "heading": "Hosted site builders",
+      "body_html": "<p>Google notes that hosting services such as Wix or Squarespace probably tell Google about new pages when you publish them. Check your host's documentation before changing anything.</p>"
+    },
+    {
+      "heading": "Read the documentation for each issue",
+      "body_html": "<p>Google's advice is direct: read the documentation for your specific indexing issue before trying to fix it, because skipping it costs more time in the long run. Each status in the report links to an explanation.</p>"
+    },
+    {
+      "heading": "Common mistakes",
+      "body_html": "<ul><li>Trying to get every URL indexed, including duplicates.</li><li>Panicking about not indexed pages that are intentionally excluded.</li><li>Ignoring internal links to new pages.</li><li>Blocking important pages in robots.txt by accident.</li><li>Using this report to check one page instead of URL Inspection.</li></ul>"
+    },
+    {
+      "heading": "Questions owners ask us",
+      "body_html": "<p>Owners often ask why a page is indexed but gets no traffic. Google says indexed pages won't appear for every search, because results depend on each searcher's location and history. Another question is how to speed up indexing for new pages. Link to them from relevant pages, include them in your sitemap and request indexing for the most important ones. Owners also ask whether to delete unindexed pages. Only if they have no value; otherwise improve them.</p>"
+    },
+    {
+      "heading": "Checklist",
+      "body_html": "<ul><li>site: search run for your domain.</li><li>Homepage and key pages indexed.</li><li>Unindexed reasons reviewed.</li><li>New pages linked from existing pages.</li><li>Sitemap submitted if needed.</li></ul>"
+    },
+    {
+      "heading": "An example",
+      "body_html": "<p>Imagine a moving company in Anaheim that adds twelve service pages, but only four appear in a site: search after two weeks. In the Page indexing report, the rest show Discovered - currently not indexed. The company links each new page from its main services page and homepage, confirms they're in the sitemap and requests indexing for the three most important. Within a few weeks, most are indexed.</p>"
+    },
+    {
+      "heading": "How this fits your local plan",
+      "body_html": "<p>This task is one piece of a wider local plan. Google says local results are mainly based on relevance, distance and popularity, so the profile, your website and your reputation all have to agree. A practical order for most Orange County businesses is: get the Business Profile verified and accurate, make the <a href=\"https://thechimeraai.com/nap-consistency-local-citations/\">name, address and phone</a> identical everywhere, publish one clear page per service, then build a steady habit of <a href=\"https://thechimeraai.com/how-to-get-more-google-reviews/\">genuine reviews</a> and replies. Each step makes the next one work better, and the same signals help AI assistants such as <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a>, <a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a> and Google's AI features describe your business correctly when someone in Anaheim asks for a recommendation.</p>"
+    },
+    {
+      "heading": "What to do this week",
+      "body_html": "<ol><li>Search site:yourdomain.com.</li><li>Check your homepage and top service pages.</li><li>Review reasons for unindexed pages.</li><li>Add internal links to new pages.</li></ol>"
+    },
+    {
+      "heading": "When to get help",
+      "body_html": "<p>Most of this can be done in-house with an hour or two and careful reading of Google's own help pages. It is worth bringing in help when the stakes are high or the problem keeps coming back: a profile that has been suspended more than once, many locations to manage, a site that keeps failing the same checks, or no time to keep up the routine. A good local SEO partner should explain what they will change and why, point to Google's guidelines rather than promise rankings, and leave you with access to every account. <a href=\"https://thechimeraai.com/\">Chimera</a> works this way with businesses across Anaheim and Orange County.</p>"
+    },
+    {
+      "heading": "How we triage indexing for small business sites",
+      "body_html": "<p>When a business in Orange County tells us pages are missing from Google, we work through the same order. First, we search site: for the domain and for the most important URLs, because that answers the question for most small sites in minutes. Second, we inspect the homepage and key service pages with URL Inspection to see their exact status and Google-selected canonical. Third, only if several important pages are missing do we open the Page indexing report and group the unindexed URLs by reason. Fourth, we decide for each reason whether it is intended, such as tag archives, search pages or old URLs that redirect, or a real problem, such as an accidental noindex or a page that duplicates another. Fifth, we fix the real problems, strengthen internal links and make sure the pages are worth indexing. Most of the time, the cause is simple: new pages with no links pointing to them, pages that are too similar to each other, or settings left over from development.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Make sure your key pages are indexed, confirm unindexed pages are excluded on purpose, and link new pages well. Chimera, based in Anaheim, reviews indexing for Orange County sites after every publishing batch.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What does the Page indexing report show?",
+      "a": "Which pages Google can find and index, and why others aren't indexed."
+    },
+    {
+      "q": "Do small sites need this report?",
+      "a": "Google says sites under 500 pages probably don't; use site: searches instead."
+    },
+    {
+      "q": "Should every page be indexed?",
+      "a": "No. Duplicates and intentionally excluded pages shouldn't be."
+    },
+    {
+      "q": "What does Discovered - currently not indexed mean?",
+      "a": "Google found the page but hasn't crawled it yet."
+    },
+    {
+      "q": "How long does a new page take to be indexed?",
+      "a": "Google says it can take a week or so to start crawling and indexing."
+    },
+    {
+      "q": "How do I check one page?",
+      "a": "Use the URL Inspection tool, not this report."
+    },
+    {
+      "q": "Do you help businesses in Anaheim and Orange County with this?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "Search Console URL Inspection tool",
+      "url": "https://thechimeraai.com/google-search-console-url-inspection/"
+    },
+    {
+      "anchor": "Search Console Sitemaps report",
+      "url": "https://thechimeraai.com/google-search-console-sitemaps-report/"
+    },
+    {
+      "anchor": "internal linking for AI search",
+      "url": "https://thechimeraai.com/internal-linking-for-ai-search/"
+    },
+    {
+      "anchor": "local landing pages",
+      "url": "https://thechimeraai.com/local-landing-pages/"
+    },
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Search Console's generative AI performance report",
+      "url": "https://thechimeraai.com/blog/search-console-generative-ai-performance-report/"
+    },
+    {
+      "anchor": "Search Console Removals tool",
+      "url": "https://thechimeraai.com/google-search-console-removals-tool/"
+    },
+    {
+      "anchor": "Search Console Performance report",
+      "url": "https://thechimeraai.com/google-search-console-performance-report/"
+    },
+    {
+      "anchor": "Search Console Links report",
+      "url": "https://thechimeraai.com/google-search-console-links-report/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Search Console Help: Page indexing report",
+      "url": "https://support.google.com/webmasters/answer/7440203?hl=en"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 2,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "Checking indexing",
+      "lead": "From Google's help page.",
+      "steps": [
+        {
+          "title": "Search",
+          "text": "site:yourdomain.com."
+        },
+        {
+          "title": "Report",
+          "text": "Indexed vs not indexed."
+        },
+        {
+          "title": "Reasons",
+          "text": "Confirm exclusions are intended."
+        },
+        {
+          "title": "Fix",
+          "text": "Links, sitemap, request indexing."
+        }
+      ]
+    }
+  ],
+  "hero_query": "Why are some pages on my website not showing up in Google?",
+  "short_title": "Search Console Page indexing report",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 1767,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/google-search-console-page-indexing-report-chimera.jpg",
+    "alt": "Search Console Page Indexing Report Guide: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-13",
+  "updated": "2026-11-13"
+}

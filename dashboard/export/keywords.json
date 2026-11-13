@@ -1,5 +1,880 @@
 [
   {
+    "keyword": "ads in AI Mode",
+    "kind": "Main",
+    "page": "ads-in-ai-mode-local-business"
+  },
+  {
+    "keyword": "AI Mode advertising",
+    "kind": "Supporting",
+    "page": "ads-in-ai-mode-local-business"
+  },
+  {
+    "keyword": "Google AI Mode ads",
+    "kind": "Supporting",
+    "page": "ads-in-ai-mode-local-business"
+  },
+  {
+    "keyword": "multiturn ads",
+    "kind": "Supporting",
+    "page": "ads-in-ai-mode-local-business"
+  },
+  {
+    "keyword": "ads in AI Overviews",
+    "kind": "Supporting",
+    "page": "ads-in-ai-mode-local-business"
+  },
+  {
+    "keyword": "Ask Maps food ordering",
+    "kind": "Main",
+    "page": "ask-maps-food-ordering-restaurants"
+  },
+  {
+    "keyword": "Ask Maps",
+    "kind": "Supporting",
+    "page": "ask-maps-food-ordering-restaurants"
+  },
+  {
+    "keyword": "Google Maps AI ordering",
+    "kind": "Supporting",
+    "page": "ask-maps-food-ordering-restaurants"
+  },
+  {
+    "keyword": "Google Maps Square Toast ordering",
+    "kind": "Supporting",
+    "page": "ask-maps-food-ordering-restaurants"
+  },
+  {
+    "keyword": "restaurant Google Maps AI",
+    "kind": "Supporting",
+    "page": "ask-maps-food-ordering-restaurants"
+  },
+  {
+    "keyword": "Gemini in Chrome",
+    "kind": "Main",
+    "page": "gemini-in-chrome-website-answers"
+  },
+  {
+    "keyword": "Gemini Chrome side panel",
+    "kind": "Supporting",
+    "page": "gemini-in-chrome-website-answers"
+  },
+  {
+    "keyword": "Chrome AI summary",
+    "kind": "Supporting",
+    "page": "gemini-in-chrome-website-answers"
+  },
+  {
+    "keyword": "Gemini compare websites",
+    "kind": "Supporting",
+    "page": "gemini-in-chrome-website-answers"
+  },
+  {
+    "keyword": "AI browser assistant",
+    "kind": "Supporting",
+    "page": "gemini-in-chrome-website-answers"
+  },
+  {
+    "keyword": "Financial Services Verification",
+    "kind": "Main",
+    "page": "google-financial-services-verification-us"
+  },
+  {
+    "keyword": "Google Ads financial services verification",
+    "kind": "Supporting",
+    "page": "google-financial-services-verification-us"
+  },
+  {
+    "keyword": "financial ads policy Google",
+    "kind": "Supporting",
+    "page": "google-financial-services-verification-us"
+  },
+  {
+    "keyword": "financial scam ads",
+    "kind": "Supporting",
+    "page": "google-financial-services-verification-us"
+  },
+  {
+    "keyword": "verify financial advertiser Google",
+    "kind": "Supporting",
+    "page": "google-financial-services-verification-us"
+  },
+  {
+    "keyword": "Google intelligent eyewear",
+    "kind": "Main",
+    "page": "google-intelligent-eyewear-local-business"
+  },
+  {
+    "keyword": "Gemini glasses",
+    "kind": "Supporting",
+    "page": "google-intelligent-eyewear-local-business"
+  },
+  {
+    "keyword": "Warby Parker Google glasses",
+    "kind": "Supporting",
+    "page": "google-intelligent-eyewear-local-business"
+  },
+  {
+    "keyword": "Gentle Monster Google eyewear",
+    "kind": "Supporting",
+    "page": "google-intelligent-eyewear-local-business"
+  },
+  {
+    "keyword": "AI glasses local business",
+    "kind": "Supporting",
+    "page": "google-intelligent-eyewear-local-business"
+  },
+  {
+    "keyword": "Search Console Links report",
+    "kind": "Main",
+    "page": "google-search-console-links-report"
+  },
+  {
+    "keyword": "backlinks Search Console",
+    "kind": "Supporting",
+    "page": "google-search-console-links-report"
+  },
+  {
+    "keyword": "who links to my website",
+    "kind": "Supporting",
+    "page": "google-search-console-links-report"
+  },
+  {
+    "keyword": "top linking sites",
+    "kind": "Supporting",
+    "page": "google-search-console-links-report"
+  },
+  {
+    "keyword": "internal links report",
+    "kind": "Supporting",
+    "page": "google-search-console-links-report"
+  },
+  {
+    "keyword": "Search Console manual actions",
+    "kind": "Main",
+    "page": "google-search-console-manual-actions"
+  },
+  {
+    "keyword": "Google manual action",
+    "kind": "Supporting",
+    "page": "google-search-console-manual-actions"
+  },
+  {
+    "keyword": "reconsideration request",
+    "kind": "Supporting",
+    "page": "google-search-console-manual-actions"
+  },
+  {
+    "keyword": "Google penalty fix",
+    "kind": "Supporting",
+    "page": "google-search-console-manual-actions"
+  },
+  {
+    "keyword": "unnatural links manual action",
+    "kind": "Supporting",
+    "page": "google-search-console-manual-actions"
+  },
+  {
+    "keyword": "Search Console Page indexing report",
+    "kind": "Main",
+    "page": "google-search-console-page-indexing-report"
+  },
+  {
+    "keyword": "pages not indexed Google",
+    "kind": "Supporting",
+    "page": "google-search-console-page-indexing-report"
+  },
+  {
+    "keyword": "crawled currently not indexed",
+    "kind": "Supporting",
+    "page": "google-search-console-page-indexing-report"
+  },
+  {
+    "keyword": "discovered currently not indexed",
+    "kind": "Supporting",
+    "page": "google-search-console-page-indexing-report"
+  },
+  {
+    "keyword": "Search Console indexing",
+    "kind": "Supporting",
+    "page": "google-search-console-page-indexing-report"
+  },
+  {
+    "keyword": "Search Console Performance report",
+    "kind": "Main",
+    "page": "google-search-console-performance-report"
+  },
+  {
+    "keyword": "Search Console clicks and impressions",
+    "kind": "Supporting",
+    "page": "google-search-console-performance-report"
+  },
+  {
+    "keyword": "Search Console queries",
+    "kind": "Supporting",
+    "page": "google-search-console-performance-report"
+  },
+  {
+    "keyword": "average position Search Console",
+    "kind": "Supporting",
+    "page": "google-search-console-performance-report"
+  },
+  {
+    "keyword": "Search Console CTR",
+    "kind": "Supporting",
+    "page": "google-search-console-performance-report"
+  },
+  {
+    "keyword": "Search Console Removals tool",
+    "kind": "Main",
+    "page": "google-search-console-removals-tool"
+  },
+  {
+    "keyword": "remove URL from Google",
+    "kind": "Supporting",
+    "page": "google-search-console-removals-tool"
+  },
+  {
+    "keyword": "temporary removal Search Console",
+    "kind": "Supporting",
+    "page": "google-search-console-removals-tool"
+  },
+  {
+    "keyword": "remove page from Google search results",
+    "kind": "Supporting",
+    "page": "google-search-console-removals-tool"
+  },
+  {
+    "keyword": "deindex page",
+    "kind": "Supporting",
+    "page": "google-search-console-removals-tool"
+  },
+  {
+    "keyword": "Search Console security issues",
+    "kind": "Main",
+    "page": "google-search-console-security-issues"
+  },
+  {
+    "keyword": "hacked website Google warning",
+    "kind": "Supporting",
+    "page": "google-search-console-security-issues"
+  },
+  {
+    "keyword": "malware warning Google",
+    "kind": "Supporting",
+    "page": "google-search-console-security-issues"
+  },
+  {
+    "keyword": "site hacked Search Console",
+    "kind": "Supporting",
+    "page": "google-search-console-security-issues"
+  },
+  {
+    "keyword": "deceptive site warning",
+    "kind": "Supporting",
+    "page": "google-search-console-security-issues"
+  },
+  {
+    "keyword": "Search Console Sitemaps report",
+    "kind": "Main",
+    "page": "google-search-console-sitemaps-report"
+  },
+  {
+    "keyword": "submit sitemap to Google",
+    "kind": "Supporting",
+    "page": "google-search-console-sitemaps-report"
+  },
+  {
+    "keyword": "XML sitemap Search Console",
+    "kind": "Supporting",
+    "page": "google-search-console-sitemaps-report"
+  },
+  {
+    "keyword": "sitemap couldn't fetch",
+    "kind": "Supporting",
+    "page": "google-search-console-sitemaps-report"
+  },
+  {
+    "keyword": "do I need a sitemap",
+    "kind": "Supporting",
+    "page": "google-search-console-sitemaps-report"
+  },
+  {
+    "keyword": "Search Console URL Inspection tool",
+    "kind": "Main",
+    "page": "google-search-console-url-inspection"
+  },
+  {
+    "keyword": "request indexing Google",
+    "kind": "Supporting",
+    "page": "google-search-console-url-inspection"
+  },
+  {
+    "keyword": "URL inspection Search Console",
+    "kind": "Supporting",
+    "page": "google-search-console-url-inspection"
+  },
+  {
+    "keyword": "test live URL",
+    "kind": "Supporting",
+    "page": "google-search-console-url-inspection"
+  },
+  {
+    "keyword": "is my page on Google",
+    "kind": "Supporting",
+    "page": "google-search-console-url-inspection"
+  },
+  {
+    "keyword": "Search Console users and permissions",
+    "kind": "Main",
+    "page": "google-search-console-users-and-permissions"
+  },
+  {
+    "keyword": "add user Search Console",
+    "kind": "Supporting",
+    "page": "google-search-console-users-and-permissions"
+  },
+  {
+    "keyword": "Search Console owner access",
+    "kind": "Supporting",
+    "page": "google-search-console-users-and-permissions"
+  },
+  {
+    "keyword": "transfer Search Console ownership",
+    "kind": "Supporting",
+    "page": "google-search-console-users-and-permissions"
+  },
+  {
+    "keyword": "Search Console permissions",
+    "kind": "Supporting",
+    "page": "google-search-console-users-and-permissions"
+  },
+  {
+    "keyword": "set up Google Search Console",
+    "kind": "Main",
+    "page": "how-to-set-up-google-search-console"
+  },
+  {
+    "keyword": "Google Search Console setup",
+    "kind": "Supporting",
+    "page": "how-to-set-up-google-search-console"
+  },
+  {
+    "keyword": "verify website Google Search Console",
+    "kind": "Supporting",
+    "page": "how-to-set-up-google-search-console"
+  },
+  {
+    "keyword": "add site to Search Console",
+    "kind": "Supporting",
+    "page": "how-to-set-up-google-search-console"
+  },
+  {
+    "keyword": "Search Console domain property",
+    "kind": "Supporting",
+    "page": "how-to-set-up-google-search-console"
+  },
+  {
+    "keyword": "SEO for appliance repair",
+    "kind": "Main",
+    "page": "seo-for-appliance-repair"
+  },
+  {
+    "keyword": "appliance repair marketing",
+    "kind": "Supporting",
+    "page": "seo-for-appliance-repair"
+  },
+  {
+    "keyword": "appliance repair leads",
+    "kind": "Supporting",
+    "page": "seo-for-appliance-repair"
+  },
+  {
+    "keyword": "refrigerator repair SEO",
+    "kind": "Supporting",
+    "page": "seo-for-appliance-repair"
+  },
+  {
+    "keyword": "appliance repair Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-appliance-repair"
+  },
+  {
+    "keyword": "SEO for audiologists",
+    "kind": "Main",
+    "page": "seo-for-audiologists"
+  },
+  {
+    "keyword": "audiology marketing",
+    "kind": "Supporting",
+    "page": "seo-for-audiologists"
+  },
+  {
+    "keyword": "hearing clinic SEO",
+    "kind": "Supporting",
+    "page": "seo-for-audiologists"
+  },
+  {
+    "keyword": "hearing aid marketing",
+    "kind": "Supporting",
+    "page": "seo-for-audiologists"
+  },
+  {
+    "keyword": "audiologist Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-audiologists"
+  },
+  {
+    "keyword": "SEO for auto glass repair",
+    "kind": "Main",
+    "page": "seo-for-auto-glass-repair"
+  },
+  {
+    "keyword": "windshield replacement marketing",
+    "kind": "Supporting",
+    "page": "seo-for-auto-glass-repair"
+  },
+  {
+    "keyword": "auto glass marketing",
+    "kind": "Supporting",
+    "page": "seo-for-auto-glass-repair"
+  },
+  {
+    "keyword": "windshield SEO",
+    "kind": "Supporting",
+    "page": "seo-for-auto-glass-repair"
+  },
+  {
+    "keyword": "auto glass Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-auto-glass-repair"
+  },
+  {
+    "keyword": "SEO for countertop companies",
+    "kind": "Main",
+    "page": "seo-for-countertop-companies"
+  },
+  {
+    "keyword": "countertop marketing",
+    "kind": "Supporting",
+    "page": "seo-for-countertop-companies"
+  },
+  {
+    "keyword": "quartz countertop SEO",
+    "kind": "Supporting",
+    "page": "seo-for-countertop-companies"
+  },
+  {
+    "keyword": "granite fabricator marketing",
+    "kind": "Supporting",
+    "page": "seo-for-countertop-companies"
+  },
+  {
+    "keyword": "countertops Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-countertop-companies"
+  },
+  {
+    "keyword": "SEO for dance studios",
+    "kind": "Main",
+    "page": "seo-for-dance-studios"
+  },
+  {
+    "keyword": "dance studio marketing",
+    "kind": "Supporting",
+    "page": "seo-for-dance-studios"
+  },
+  {
+    "keyword": "dance school SEO",
+    "kind": "Supporting",
+    "page": "seo-for-dance-studios"
+  },
+  {
+    "keyword": "kids dance classes marketing",
+    "kind": "Supporting",
+    "page": "seo-for-dance-studios"
+  },
+  {
+    "keyword": "dance studio Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-dance-studios"
+  },
+  {
+    "keyword": "SEO for dietitians",
+    "kind": "Main",
+    "page": "seo-for-dietitians"
+  },
+  {
+    "keyword": "dietitian marketing",
+    "kind": "Supporting",
+    "page": "seo-for-dietitians"
+  },
+  {
+    "keyword": "nutritionist SEO",
+    "kind": "Supporting",
+    "page": "seo-for-dietitians"
+  },
+  {
+    "keyword": "registered dietitian marketing",
+    "kind": "Supporting",
+    "page": "seo-for-dietitians"
+  },
+  {
+    "keyword": "dietitian Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-dietitians"
+  },
+  {
+    "keyword": "SEO for EV charger installers",
+    "kind": "Main",
+    "page": "seo-for-ev-charger-installers"
+  },
+  {
+    "keyword": "EV charger installer marketing",
+    "kind": "Supporting",
+    "page": "seo-for-ev-charger-installers"
+  },
+  {
+    "keyword": "EV charger installation leads",
+    "kind": "Supporting",
+    "page": "seo-for-ev-charger-installers"
+  },
+  {
+    "keyword": "electrician EV SEO",
+    "kind": "Supporting",
+    "page": "seo-for-ev-charger-installers"
+  },
+  {
+    "keyword": "EV charger Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-ev-charger-installers"
+  },
+  {
+    "keyword": "SEO for jewelry stores",
+    "kind": "Main",
+    "page": "seo-for-jewelry-stores"
+  },
+  {
+    "keyword": "jewelry store marketing",
+    "kind": "Supporting",
+    "page": "seo-for-jewelry-stores"
+  },
+  {
+    "keyword": "jeweler SEO",
+    "kind": "Supporting",
+    "page": "seo-for-jewelry-stores"
+  },
+  {
+    "keyword": "engagement ring marketing",
+    "kind": "Supporting",
+    "page": "seo-for-jewelry-stores"
+  },
+  {
+    "keyword": "jewelry store Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-jewelry-stores"
+  },
+  {
+    "keyword": "SEO for language schools",
+    "kind": "Main",
+    "page": "seo-for-language-schools"
+  },
+  {
+    "keyword": "language school marketing",
+    "kind": "Supporting",
+    "page": "seo-for-language-schools"
+  },
+  {
+    "keyword": "ESL school SEO",
+    "kind": "Supporting",
+    "page": "seo-for-language-schools"
+  },
+  {
+    "keyword": "language classes marketing",
+    "kind": "Supporting",
+    "page": "seo-for-language-schools"
+  },
+  {
+    "keyword": "language school Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-language-schools"
+  },
+  {
+    "keyword": "SEO for makeup artists",
+    "kind": "Main",
+    "page": "seo-for-makeup-artists"
+  },
+  {
+    "keyword": "makeup artist marketing",
+    "kind": "Supporting",
+    "page": "seo-for-makeup-artists"
+  },
+  {
+    "keyword": "bridal makeup SEO",
+    "kind": "Supporting",
+    "page": "seo-for-makeup-artists"
+  },
+  {
+    "keyword": "MUA marketing",
+    "kind": "Supporting",
+    "page": "seo-for-makeup-artists"
+  },
+  {
+    "keyword": "makeup artist Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-makeup-artists"
+  },
+  {
+    "keyword": "SEO for music schools",
+    "kind": "Main",
+    "page": "seo-for-music-schools"
+  },
+  {
+    "keyword": "music school marketing",
+    "kind": "Supporting",
+    "page": "seo-for-music-schools"
+  },
+  {
+    "keyword": "music lessons SEO",
+    "kind": "Supporting",
+    "page": "seo-for-music-schools"
+  },
+  {
+    "keyword": "piano teacher marketing",
+    "kind": "Supporting",
+    "page": "seo-for-music-schools"
+  },
+  {
+    "keyword": "music school Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-music-schools"
+  },
+  {
+    "keyword": "SEO for personal trainers",
+    "kind": "Main",
+    "page": "seo-for-personal-trainers"
+  },
+  {
+    "keyword": "personal trainer marketing",
+    "kind": "Supporting",
+    "page": "seo-for-personal-trainers"
+  },
+  {
+    "keyword": "fitness coach SEO",
+    "kind": "Supporting",
+    "page": "seo-for-personal-trainers"
+  },
+  {
+    "keyword": "personal training leads",
+    "kind": "Supporting",
+    "page": "seo-for-personal-trainers"
+  },
+  {
+    "keyword": "personal trainer Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-personal-trainers"
+  },
+  {
+    "keyword": "SEO for pet boarding",
+    "kind": "Main",
+    "page": "seo-for-pet-boarding"
+  },
+  {
+    "keyword": "dog boarding marketing",
+    "kind": "Supporting",
+    "page": "seo-for-pet-boarding"
+  },
+  {
+    "keyword": "dog daycare SEO",
+    "kind": "Supporting",
+    "page": "seo-for-pet-boarding"
+  },
+  {
+    "keyword": "kennel marketing",
+    "kind": "Supporting",
+    "page": "seo-for-pet-boarding"
+  },
+  {
+    "keyword": "pet boarding Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-pet-boarding"
+  },
+  {
+    "keyword": "SEO for podiatrists",
+    "kind": "Main",
+    "page": "seo-for-podiatrists"
+  },
+  {
+    "keyword": "podiatry marketing",
+    "kind": "Supporting",
+    "page": "seo-for-podiatrists"
+  },
+  {
+    "keyword": "foot doctor SEO",
+    "kind": "Supporting",
+    "page": "seo-for-podiatrists"
+  },
+  {
+    "keyword": "podiatrist marketing",
+    "kind": "Supporting",
+    "page": "seo-for-podiatrists"
+  },
+  {
+    "keyword": "podiatrist Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-podiatrists"
+  },
+  {
+    "keyword": "SEO for siding companies",
+    "kind": "Main",
+    "page": "seo-for-siding-companies"
+  },
+  {
+    "keyword": "siding contractor marketing",
+    "kind": "Supporting",
+    "page": "seo-for-siding-companies"
+  },
+  {
+    "keyword": "stucco contractor SEO",
+    "kind": "Supporting",
+    "page": "seo-for-siding-companies"
+  },
+  {
+    "keyword": "exterior remodeling marketing",
+    "kind": "Supporting",
+    "page": "seo-for-siding-companies"
+  },
+  {
+    "keyword": "siding Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-siding-companies"
+  },
+  {
+    "keyword": "SEO for swim schools",
+    "kind": "Main",
+    "page": "seo-for-swim-schools"
+  },
+  {
+    "keyword": "swim school marketing",
+    "kind": "Supporting",
+    "page": "seo-for-swim-schools"
+  },
+  {
+    "keyword": "swim lessons SEO",
+    "kind": "Supporting",
+    "page": "seo-for-swim-schools"
+  },
+  {
+    "keyword": "kids swim marketing",
+    "kind": "Supporting",
+    "page": "seo-for-swim-schools"
+  },
+  {
+    "keyword": "swim school Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-swim-schools"
+  },
+  {
+    "keyword": "SEO for tax preparers",
+    "kind": "Main",
+    "page": "seo-for-tax-preparers"
+  },
+  {
+    "keyword": "tax preparer marketing",
+    "kind": "Supporting",
+    "page": "seo-for-tax-preparers"
+  },
+  {
+    "keyword": "tax business SEO",
+    "kind": "Supporting",
+    "page": "seo-for-tax-preparers"
+  },
+  {
+    "keyword": "tax preparation leads",
+    "kind": "Supporting",
+    "page": "seo-for-tax-preparers"
+  },
+  {
+    "keyword": "tax preparer Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-tax-preparers"
+  },
+  {
+    "keyword": "SEO for urgent care clinics",
+    "kind": "Main",
+    "page": "seo-for-urgent-care-clinics"
+  },
+  {
+    "keyword": "urgent care marketing",
+    "kind": "Supporting",
+    "page": "seo-for-urgent-care-clinics"
+  },
+  {
+    "keyword": "urgent care SEO",
+    "kind": "Supporting",
+    "page": "seo-for-urgent-care-clinics"
+  },
+  {
+    "keyword": "walk-in clinic marketing",
+    "kind": "Supporting",
+    "page": "seo-for-urgent-care-clinics"
+  },
+  {
+    "keyword": "urgent care Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-urgent-care-clinics"
+  },
+  {
+    "keyword": "SEO for window and door companies",
+    "kind": "Main",
+    "page": "seo-for-window-and-door-companies"
+  },
+  {
+    "keyword": "window replacement marketing",
+    "kind": "Supporting",
+    "page": "seo-for-window-and-door-companies"
+  },
+  {
+    "keyword": "window company SEO",
+    "kind": "Supporting",
+    "page": "seo-for-window-and-door-companies"
+  },
+  {
+    "keyword": "door company marketing",
+    "kind": "Supporting",
+    "page": "seo-for-window-and-door-companies"
+  },
+  {
+    "keyword": "windows Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-window-and-door-companies"
+  },
+  {
+    "keyword": "SEO for window tinting",
+    "kind": "Main",
+    "page": "seo-for-window-tinting"
+  },
+  {
+    "keyword": "tint shop marketing",
+    "kind": "Supporting",
+    "page": "seo-for-window-tinting"
+  },
+  {
+    "keyword": "window tint SEO",
+    "kind": "Supporting",
+    "page": "seo-for-window-tinting"
+  },
+  {
+    "keyword": "ceramic tint marketing",
+    "kind": "Supporting",
+    "page": "seo-for-window-tinting"
+  },
+  {
+    "keyword": "window tinting Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-window-tinting"
+  },
+  {
     "keyword": "Gemini 4 Hydrogen",
     "kind": "Main",
     "page": "gemini-4-hydrogen-google-search-upgrade"
@@ -348,31 +1223,6 @@
     "keyword": "Google Business Profile edits",
     "kind": "Supporting",
     "page": "how-to-edit-google-business-profile"
-  },
-  {
-    "keyword": "moving to a CDN",
-    "kind": "Main",
-    "page": "moving-to-a-cdn-googlebot-crawling"
-  },
-  {
-    "keyword": "CDN Googlebot",
-    "kind": "Supporting",
-    "page": "moving-to-a-cdn-googlebot-crawling"
-  },
-  {
-    "keyword": "CDN crawl rate",
-    "kind": "Supporting",
-    "page": "moving-to-a-cdn-googlebot-crawling"
-  },
-  {
-    "keyword": "bot protection blocking Googlebot",
-    "kind": "Supporting",
-    "page": "moving-to-a-cdn-googlebot-crawling"
-  },
-  {
-    "keyword": "CDN migration SEO",
-    "kind": "Supporting",
-    "page": "moving-to-a-cdn-googlebot-crawling"
   },
   {
     "keyword": "SEO for acupuncturists",
@@ -873,6 +1723,31 @@
     "keyword": "towing Orange County",
     "kind": "Supporting",
     "page": "seo-for-towing-companies"
+  },
+  {
+    "keyword": "moving to a CDN",
+    "kind": "Main",
+    "page": "moving-to-a-cdn-googlebot-crawling"
+  },
+  {
+    "keyword": "CDN Googlebot",
+    "kind": "Supporting",
+    "page": "moving-to-a-cdn-googlebot-crawling"
+  },
+  {
+    "keyword": "CDN crawl rate",
+    "kind": "Supporting",
+    "page": "moving-to-a-cdn-googlebot-crawling"
+  },
+  {
+    "keyword": "bot protection blocking Googlebot",
+    "kind": "Supporting",
+    "page": "moving-to-a-cdn-googlebot-crawling"
+  },
+  {
+    "keyword": "CDN migration SEO",
+    "kind": "Supporting",
+    "page": "moving-to-a-cdn-googlebot-crawling"
   },
   {
     "keyword": "Businesses in ChatGPT",

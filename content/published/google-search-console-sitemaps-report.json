@@ -1,0 +1,232 @@
+{
+  "query": "search console sitemaps report",
+  "slug": "google-search-console-sitemaps-report",
+  "eyebrow": "Google Search Console",
+  "primary_keyword": "Search Console Sitemaps report",
+  "secondary_keywords": [
+    "submit sitemap to Google",
+    "XML sitemap Search Console",
+    "sitemap couldn't fetch",
+    "do I need a sitemap"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Search Console Sitemaps Report: How to Submit",
+    "meta_description": "How to submit a sitemap in the Search Console Sitemaps report, read its status and fix errors, explained for Anaheim and Orange County business websites."
+  },
+  "h1": "How to Use the Search Console Sitemaps Report",
+  "answer": "The Search Console Sitemaps report lets you tell Google where your sitemap is, see submission history and check for errors. Google says small sites of about 500 pages or fewer, where every page is linked from the homepage, probably don't need a sitemap, and hosts like Squarespace or Wix often manage one for you. Anaheim and Orange County businesses with larger sites should submit theirs.",
+  "key_takeaways": [
+    "Submitting tells Google where the sitemap is.",
+    "Small, well-linked sites may not need one.",
+    "You need owner permissions to submit.",
+    "Not every URL in a sitemap will be crawled.",
+    "Deleting a sitemap doesn't make Google forget URLs."
+  ],
+  "sections": [
+    {
+      "heading": "What a sitemap is",
+      "body_html": "<p>Google's help page describes a sitemap as a file on your site that tells Google which pages it should know about. The Sitemaps report lets you submit new sitemaps, see submission history and see errors Google found when reading them.</p>"
+    },
+    {
+      "heading": "Do you need one?",
+      "body_html": "<p>Google says that if you use a host such as Squarespace or Wix, it probably manages your sitemap. If your site has about 500 pages or fewer and every page can be reached by following links from the homepage, you probably don't need a sitemap; request indexing of your homepage instead. Sites that add pages regularly benefit most.</p>"
+    },
+    {
+      "heading": "Submitting means pointing",
+      "body_html": "<p>Google notes that submitting a sitemap means telling Google where to find the file on your site; you can't upload a sitemap to Google. The file must live on your website.</p>"
+    },
+    {
+      "heading": "How to submit",
+      "body_html": "<ol><li>Post the sitemap on your site in an accepted format, ideally at the site root.</li><li>Test that Google can fetch it with a live <a href=\"https://thechimeraai.com/google-search-console-url-inspection/\">URL inspection</a> showing Page fetch Successful.</li><li>Open the Sitemaps report, paste the sitemap URL into Add a new sitemap and select Submit.</li><li>Check the status; if it isn't Success, open the row to see details.</li></ol>"
+    },
+    {
+      "heading": "Owners only",
+      "body_html": "<p>Google says you must have owner permissions to submit a sitemap in the report. If you don't, you can list the sitemap in your <a href=\"https://thechimeraai.com/robots-txt-for-ai-crawlers/\">robots.txt</a> file instead.</p>"
+    },
+    {
+      "heading": "Crawling takes time",
+      "body_html": "<p>Google fetches a submitted sitemap right away, but crawling the URLs in it can take time, and not every URL may be crawled, depending on site size, activity and traffic. A sitemap helps discovery; it doesn't guarantee indexing.</p>"
+    },
+    {
+      "heading": "Resubmitting",
+      "body_html": "<p>Google recrawls successful sitemaps periodically on its own schedule. Resubmit only after big changes. If a fetch fails, Google retries for a few days and then stops, so fix errors and resubmit.</p>"
+    },
+    {
+      "heading": "Deleting a sitemap",
+      "body_html": "<p>Removing a sitemap from the report doesn't make Google forget it or its URLs. To stop Google visiting URLs, use robots.txt, delete the pages or add a noindex rule.</p>"
+    },
+    {
+      "heading": "Sitemaps on WordPress sites",
+      "body_html": "<p>Many WordPress SEO plugins and WordPress itself generate a sitemap automatically. Find its address, test it with URL Inspection and submit it. Make sure it lists only pages you want indexed.</p>"
+    },
+    {
+      "heading": "Common mistakes",
+      "body_html": "<ul><li>Submitting a sitemap that includes noindexed or redirected URLs.</li><li>Submitting the wrong address, such as http instead of https.</li><li>Expecting submission to force indexing.</li><li>Forgetting to resubmit after fixing errors.</li><li>Listing staging or test pages.</li></ul>"
+    },
+    {
+      "heading": "Questions owners ask us",
+      "body_html": "<p>Owners often ask whether they need separate sitemaps for images or blog posts. Most small business sites need one sitemap, often split automatically by a plugin into an index of smaller files. Another question is how often to submit. Once is enough unless you make major changes. Owners also ask why the discovered page count is lower than their sitemap count. Not every listed URL is crawled or indexed; check the <a href=\"https://thechimeraai.com/google-search-console-page-indexing-report/\">Page indexing report</a> for reasons.</p>"
+    },
+    {
+      "heading": "Checklist",
+      "body_html": "<ul><li>Sitemap found on your site.</li><li>Only indexable pages listed.</li><li>Live inspection shows it fetches.</li><li>Submitted in the Sitemaps report.</li><li>Status shows Success.</li><li>Listed in robots.txt as well.</li></ul>"
+    },
+    {
+      "heading": "An example",
+      "body_html": "<p>Imagine a property management company in Irvine with 600 pages for buildings and services. Its plugin generates a sitemap, but it also lists old draft pages. The team excludes drafts, tests the sitemap URL with a live inspection, submits it and confirms the status is Success. Over the following weeks, more of its building pages are discovered and indexed.</p>"
+    },
+    {
+      "heading": "How this fits your local plan",
+      "body_html": "<p>Treat this as part of a routine rather than a one-off fix. Local visibility in Anaheim and the rest of Orange County comes from many small, accurate signals adding up: a verified profile, <a href=\"https://thechimeraai.com/nap-consistency-local-citations/\">consistent listings</a>, useful service pages, real photos and a flow of honest reviews. Google is open that relevance, distance and popularity drive local results. You cannot change distance, but you can make sure Google and AI assistants understand exactly what you do and see evidence that customers value it. Put a monthly reminder in the calendar to check the profile, read new reviews and update anything that has changed.</p>"
+    },
+    {
+      "heading": "What to do this week",
+      "body_html": "<ol><li>Find your sitemap URL.</li><li>Remove pages you don't want indexed.</li><li>Test it with URL Inspection.</li><li>Submit it and check the status.</li></ol>"
+    },
+    {
+      "heading": "When to get help",
+      "body_html": "<p>You do not need an agency for every step here; Google documents most of it clearly. Consider outside help when the work is urgent and unfamiliar, when you manage several locations, or when the same issue returns after you fix it. Ask any provider to show you the specific guideline or documentation behind each recommendation, to keep you as the owner of your accounts and to report results in calls, bookings and leads rather than vanity numbers. That is how <a href=\"https://thechimeraai.com/\">Chimera</a> works with Orange County businesses from our base in Anaheim.</p>"
+    },
+    {
+      "heading": "What a clean sitemap looks like",
+      "body_html": "<p>A clean sitemap lists only the pages you want people to find in Google: the homepage, service and location pages, important blog posts and key information pages. It leaves out pages that redirect, return errors, carry a noindex tag or exist only for internal use, such as cart, account, thank-you or search result pages. Every URL in it should use the same version of your domain that your site actually uses, typically https and either www or non-www consistently. If your sitemap is generated by a plugin, check its settings once: many plugins include tag archives, <a href=\"https://thechimeraai.com/author-pages-for-eeat/\">author pages</a> or media attachment pages by default, which rarely help a small business. After any redesign or migration, open the sitemap in a browser, spot-check a dozen URLs to confirm they load and match the live site, and resubmit it. A sitemap that matches your real, indexable pages makes the Sitemaps and Page indexing reports much easier to read, because the numbers then describe pages you care about.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>If your site is large or changes often, post a clean sitemap, test it, submit it and watch its status. Chimera, based in Anaheim, keeps sitemaps clean for Orange County business websites as pages are added.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need to submit a sitemap?",
+      "a": "Google says small, well-linked sites of about 500 pages or fewer probably don't."
+    },
+    {
+      "q": "Can I upload a sitemap to Google?",
+      "a": "No. You tell Google where the file is on your site."
+    },
+    {
+      "q": "Who can submit a sitemap?",
+      "a": "Property owners; others can list it in robots.txt."
+    },
+    {
+      "q": "Will every URL in my sitemap be crawled?",
+      "a": "Not necessarily; Google says it depends on site size, activity and traffic."
+    },
+    {
+      "q": "Does deleting a sitemap remove pages from Google?",
+      "a": "No. Use robots.txt, deletion or noindex instead."
+    },
+    {
+      "q": "How often should I resubmit?",
+      "a": "Only after big changes; Google recrawls sitemaps on its own schedule."
+    },
+    {
+      "q": "Do you help businesses in Anaheim and Orange County with this?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "Search Console Page indexing report",
+      "url": "https://thechimeraai.com/google-search-console-page-indexing-report/"
+    },
+    {
+      "anchor": "Search Console URL Inspection tool",
+      "url": "https://thechimeraai.com/google-search-console-url-inspection/"
+    },
+    {
+      "anchor": "how to set up Google Search Console",
+      "url": "https://thechimeraai.com/how-to-set-up-google-search-console/"
+    },
+    {
+      "anchor": "local SEO checklist",
+      "url": "https://thechimeraai.com/local-seo-checklist/"
+    },
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Search Console's generative AI performance report",
+      "url": "https://thechimeraai.com/blog/search-console-generative-ai-performance-report/"
+    },
+    {
+      "anchor": "Search Console Performance report",
+      "url": "https://thechimeraai.com/google-search-console-performance-report/"
+    },
+    {
+      "anchor": "Search Console Links report",
+      "url": "https://thechimeraai.com/google-search-console-links-report/"
+    },
+    {
+      "anchor": "Multimodal search data in Search Console",
+      "url": "https://thechimeraai.com/blog/search-console-multimodal-search-report/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Search Console Help: Sitemaps report",
+      "url": "https://support.google.com/webmasters/answer/7451001?hl=en"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 3,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "Submitting a sitemap",
+      "lead": "From Google's help page.",
+      "steps": [
+        {
+          "title": "Post",
+          "text": "Sitemap on your site."
+        },
+        {
+          "title": "Test",
+          "text": "Live URL inspection."
+        },
+        {
+          "title": "Submit",
+          "text": "Add a new sitemap."
+        },
+        {
+          "title": "Check",
+          "text": "Status shows Success."
+        }
+      ]
+    }
+  ],
+  "hero_query": "How do I submit my website's sitemap to Google?",
+  "short_title": "Search Console Sitemaps report",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 1771,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/google-search-console-sitemaps-report-chimera.jpg",
+    "alt": "Search Console Sitemaps Report: How to Submit: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-13",
+  "updated": "2026-11-13"
+}
