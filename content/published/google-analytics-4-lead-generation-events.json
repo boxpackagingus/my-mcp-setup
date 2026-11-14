@@ -1,0 +1,236 @@
+{
+  "query": "ga4 lead generation events",
+  "slug": "google-analytics-4-lead-generation-events",
+  "eyebrow": "Google Analytics",
+  "primary_keyword": "GA4 lead generation events",
+  "secondary_keywords": [
+    "generate_lead event",
+    "GA4 lead tracking",
+    "GA4 recommended events",
+    "lead acquisition report"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "GA4 Lead Generation Events: generate_lead",
+    "meta_description": "How Anaheim and Orange County businesses can use GA4 recommended lead events like generate_lead and close_convert_lead to measure leads from form to customer."
+  },
+  "h1": "GA4 Lead Generation Events: Measure Leads From Form to Customer",
+  "answer": "GA4 lead generation events are recommended events, such as generate_lead, qualify_lead, working_lead and close_convert_lead, that measure the full lead funnel online and offline. Google says sending them populates the Lead acquisition report. Anaheim and Orange County service businesses can use them to see which marketing brings leads that become customers.",
+  "key_takeaways": [
+    "generate_lead fires when someone submits a form or information.",
+    "Lead events cover qualified, working and converted leads.",
+    "They populate the Lead acquisition report.",
+    "Recommended events need setup; they aren't automatic.",
+    "Use Google's prescribed parameters."
+  ],
+  "sections": [
+    {
+      "heading": "What recommended events are",
+      "body_html": "<p>Google's help page explains that recommended events help you measure additional behavior and generate more useful reports. Because they need extra context, they aren't sent automatically; you set them up with their prescribed parameters.</p>"
+    },
+    {
+      "heading": "The lead generation events",
+      "body_html": "<table><tr><th>Event</th><th>When to send it</th></tr><tr><td>generate_lead</td><td>A form is submitted online, or information is submitted offline</td></tr><tr><td>qualify_lead</td><td>The lead fits the criteria to become qualified</td></tr><tr><td>disqualify_lead</td><td>The lead is disqualified</td></tr><tr><td>working_lead</td><td>The lead contacts or is contacted by a representative</td></tr><tr><td>close_convert_lead</td><td>The lead becomes a customer</td></tr><tr><td>close_unconvert_lead</td><td>The lead doesn't become a customer</td></tr></table><p>Source: Google Analytics Help.</p>"
+    },
+    {
+      "heading": "Who they suit",
+      "body_html": "<p>Google recommends these events for measuring the full lead funnel online and offline, and mentions business-to-business sales, automotive sales, insurance sales and cases where conversions happen offline. Most local service businesses fit: the lead arrives online, but the sale happens on the phone or on site.</p>"
+    },
+    {
+      "heading": "The Lead acquisition report",
+      "body_html": "<p>Google says sending these events populates the Lead acquisition report, which helps you see where leads come from and how they progress.</p>"
+    },
+    {
+      "heading": "Start with generate_lead",
+      "body_html": "<p>The simplest step is sending generate_lead when a quote or contact form is submitted, and marking it as a <a href=\"https://thechimeraai.com/google-analytics-4-key-events/\">key event</a>. It's a standard name, so reports and future features understand it.</p>"
+    },
+    {
+      "heading": "Offline stages",
+      "body_html": "<p>Later events, such as qualify_lead and close_convert_lead, usually happen in your office or CRM, not on the website. Sending them requires a connection from your CRM or a server-side setup, which is more technical but shows which marketing brings paying customers.</p>"
+    },
+    {
+      "heading": "Use the prescribed parameters",
+      "body_html": "<p>Google advises sending recommended events with their prescribed parameters to get the most detail in reports and benefit from future features. Check Google's event reference when you set them up.</p>"
+    },
+    {
+      "heading": "Avoid personal information",
+      "body_html": "<p>Don't send names, emails or phone numbers to Analytics in event parameters. Use your CRM to hold personal details and send Analytics only what the events need.</p>"
+    },
+    {
+      "heading": "How this helps decisions",
+      "body_html": "<p>Knowing that a channel brings leads is useful; knowing that it brings customers is better. Lead events let you compare channels by real business results.</p>"
+    },
+    {
+      "heading": "Common mistakes",
+      "body_html": "<ul><li>Using custom names instead of generate_lead.</li><li>Sending personal information in parameters.</li><li>Firing generate_lead on page view instead of submission.</li><li>Never connecting offline outcomes.</li><li>Not marking generate_lead as a key event.</li></ul>"
+    },
+    {
+      "heading": "Questions owners ask us",
+      "body_html": "<p>Owners often ask whether they need all six lead events. No: start with generate_lead, which most businesses can set up through their form plugin or tag manager, then add later stages if you use a CRM that can send them. Another common question is whether lead events work for phone calls. A tap-to-call click can be tracked as a separate event, but a call itself isn't a form submission, so many businesses track both and compare. Owners also ask whether these events replace a CRM. They don't; Analytics shows which marketing brings leads, while a CRM manages each lead. Used together, they show which channels bring customers, which is the number that matters for budgeting in a competitive market like Orange County.</p>"
+    },
+    {
+      "heading": "Checklist",
+      "body_html": "<ul><li>generate_lead set up on forms.</li><li>Marked as a key event.</li><li>Tested in Realtime.</li><li>No personal data sent.</li><li>Later stages planned with CRM.</li></ul>"
+    },
+    {
+      "heading": "An example",
+      "body_html": "<p>Imagine an insurance agency in Garden Grove that sends generate_lead when quote forms are submitted and, through its CRM, close_convert_lead when a policy is bound. After three months, it sees that leads from organic search convert to customers at a higher rate than leads from a paid directory, and adjusts its spending.</p>"
+    },
+    {
+      "heading": "How this fits your local plan",
+      "body_html": "<p>This task is one piece of a wider local plan. Google says local results are mainly based on relevance, distance and popularity, so the profile, your website and your reputation all have to agree. A practical order for most Orange County businesses is: get the Business Profile verified and accurate, make the <a href=\"https://thechimeraai.com/nap-consistency-local-citations/\">name, address and phone</a> identical everywhere, publish one clear page per service, then build a steady habit of <a href=\"https://thechimeraai.com/how-to-get-more-google-reviews/\">genuine reviews</a> and replies. Each step makes the next one work better, and the same signals help AI assistants such as <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a>, <a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a> and Google's AI features describe your business correctly when someone in Anaheim asks for a recommendation.</p>"
+    },
+    {
+      "heading": "What to do this week",
+      "body_html": "<ol><li>Set up generate_lead on your main form.</li><li>Mark it as a key event.</li><li>Test it in Realtime.</li><li>Ask your CRM provider about sending later stages.</li></ol>"
+    },
+    {
+      "heading": "When to get help",
+      "body_html": "<p>Most of this can be done in-house with an hour or two and careful reading of Google's own help pages. It is worth bringing in help when the stakes are high or the problem keeps coming back: a profile that has been suspended more than once, many locations to manage, a site that keeps failing the same checks, or no time to keep up the routine. A good local SEO partner should explain what they will change and why, point to Google's guidelines rather than promise rankings, and leave you with access to every account. <a href=\"https://thechimeraai.com/\">Chimera</a> works this way with businesses across Anaheim and Orange County.</p>"
+    },
+    {
+      "heading": "Connecting your CRM step by step",
+      "body_html": "<p>If you use a CRM, the later lead stages can flow back to Analytics. The usual approach is to store the Analytics client identifier with each lead when the form is submitted, then send events such as qualify_lead or close_convert_lead from your CRM or server when the lead's status changes. Many CRMs offer integrations or support from their own help teams, and some marketing platforms do this automatically. Start with one stage, such as close_convert_lead when a job is booked, and check that the events appear in reports. Even a basic connection shows which channels bring paying customers rather than enquiries, which is the most useful number for deciding where an Anaheim or Orange County business should spend its marketing budget.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Send generate_lead on real form submissions, mark it as a key event and, when you can, add later stages from your CRM. Chimera, based in Anaheim, sets up lead tracking for Orange County service businesses.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is generate_lead in GA4?",
+      "a": "A recommended event for when a user submits a form or information."
+    },
+    {
+      "q": "What other lead events are there?",
+      "a": "qualify_lead, disqualify_lead, working_lead, close_convert_lead and close_unconvert_lead."
+    },
+    {
+      "q": "Are lead events sent automatically?",
+      "a": "No. Google says recommended events need setup."
+    },
+    {
+      "q": "Which report do lead events populate?",
+      "a": "The Lead acquisition report."
+    },
+    {
+      "q": "Can I send offline lead outcomes?",
+      "a": "Yes, with a CRM or server-side connection."
+    },
+    {
+      "q": "Should I send names or emails in events?",
+      "a": "No. Keep personal information out of Analytics."
+    },
+    {
+      "q": "Do you help businesses in Anaheim and Orange County with this?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "GA4 key events",
+      "url": "https://thechimeraai.com/google-analytics-4-key-events/"
+    },
+    {
+      "anchor": "GA4 enhanced measurement",
+      "url": "https://thechimeraai.com/google-analytics-4-enhanced-measurement/"
+    },
+    {
+      "anchor": "how to set up Google Analytics 4",
+      "url": "https://thechimeraai.com/how-to-set-up-google-analytics-4/"
+    },
+    {
+      "anchor": "GA4 Traffic acquisition report",
+      "url": "https://thechimeraai.com/google-analytics-4-traffic-acquisition-report/"
+    },
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "GA4 Realtime report",
+      "url": "https://thechimeraai.com/google-analytics-4-realtime-report/"
+    },
+    {
+      "anchor": "Link Google Ads to Google Analytics",
+      "url": "https://thechimeraai.com/link-google-ads-to-google-analytics/"
+    },
+    {
+      "anchor": "GA4 data retention",
+      "url": "https://thechimeraai.com/google-analytics-4-data-retention/"
+    },
+    {
+      "anchor": "How to Track AI Traffic in Google Analytics 4 (Step by Step)",
+      "url": "https://thechimeraai.com/how-to-track-ai-traffic-in-google-analytics/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Analytics Help: [GA4] Recommended events",
+      "url": "https://support.google.com/analytics/answer/9267735?hl=en"
+    },
+    {
+      "title": "Google Analytics Help: Mark events as key events",
+      "url": "https://support.google.com/analytics/answer/13128484?hl=en"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 4,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "The lead funnel in GA4",
+      "lead": "From Google's recommended events.",
+      "steps": [
+        {
+          "title": "Lead",
+          "text": "generate_lead."
+        },
+        {
+          "title": "Qualified",
+          "text": "qualify_lead."
+        },
+        {
+          "title": "Working",
+          "text": "working_lead."
+        },
+        {
+          "title": "Customer",
+          "text": "close_convert_lead."
+        }
+      ]
+    }
+  ],
+  "hero_query": "How do I track which leads from my website become customers?",
+  "short_title": "GA4 lead generation events",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 2112,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/google-analytics-4-lead-generation-events-chimera.jpg",
+    "alt": "GA4 Lead Generation Events: generate_lead: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-14",
+  "updated": "2026-11-14"
+}

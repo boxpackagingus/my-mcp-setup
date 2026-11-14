@@ -1,0 +1,228 @@
+{
+  "query": "gemini 4 hydrogen",
+  "slug": "gemini-4-hydrogen-small-business",
+  "eyebrow": "AI news",
+  "primary_keyword": "Gemini 4 Hydrogen",
+  "secondary_keywords": [
+    "Gemini 4 Hydrogen pricing",
+    "Gemini for business",
+    "Gemini in Google Sheets",
+    "Gemini 4 Hydrogen vs Argon"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Gemini 4 Hydrogen: What Small Businesses Can Use",
+    "meta_description": "Gemini 4 Hydrogen is now available across the Gemini app, Gemini for business, Sheets and the API. What Anaheim and Orange County businesses can do with it."
+  },
+  "h1": "Gemini 4 Hydrogen: What Google's New Everyday Model Means for Small Businesses",
+  "answer": "Gemini 4 Hydrogen, released November 12, 2026, is Google's fast, efficient model for everyday work. Google says it's available to everyone in the Gemini app, Google Search, Gemini for business, Google AI Studio and the Gemini API, priced at $1.50 per million input tokens for developers. For Anaheim and Orange County businesses, it means faster help with documents, spreadsheets and research.",
+  "key_takeaways": [
+    "Released November 12, 2026.",
+    "Available in the Gemini app, Search, Gemini for business and the API.",
+    "Developer price: $1.50 per million input tokens, $7.50 per million output.",
+    "Built for speed in everyday tasks.",
+    "Google says it cuts fabricated claims by more than 5x versus Gemini 3.8 Flash."
+  ],
+  "sections": [
+    {
+      "heading": "What Google announced",
+      "body_html": "<p>On November 12, 2026, Koray Kavukcuoglu, Senior Vice President at Google DeepMind and Google's Chief AI Architect, introduced <a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a> 4 Hydrogen. Google describes it as bringing cutting-edge intelligence to everyone, with speed and efficiency for everyday coding and agentic workflows. It sits alongside Gemini 4 Carbon and Argon, which Google positions for deep, long reasoning on the hardest problems.</p>"
+    },
+    {
+      "heading": "Where it's available",
+      "body_html": "<ul><li>The Gemini app and Google Search.</li><li>Gemini for business.</li><li>All tiers of Google AI Studio and the Gemini API.</li><li>Google Antigravity for paid Google AI Pro and Ultra subscribers.</li></ul>"
+    },
+    {
+      "heading": "How it compares",
+      "body_html": "<p>Google says Hydrogen surpasses Argon on the Artificial Analysis Intelligence Index at its default high thinking level, scoring 51 versus 50, and reaching 54 at its highest setting, while often completing tasks faster than models in its class.</p>"
+    },
+    {
+      "heading": "Improvements over the previous fast model",
+      "body_html": "<table><tr><th>Measure Google reports</th><th>Hydrogen vs Gemini 3.8 Flash</th></tr><tr><td>Task speed at default setting</td><td>2.5 times faster</td></tr><tr><td>Terminal-Bench 4.1</td><td>57% vs 18.2%</td></tr><tr><td>Fabricated claims</td><td>Cut by more than 5x</td></tr></table><p>Source: Google, November 12, 2026.</p>"
+    },
+    {
+      "heading": "Pricing for developers",
+      "body_html": "<p>Google says Hydrogen is priced flat across its 1 million-token context window at $1.50 per million input tokens and $7.50 per million output tokens. That's lower than the introductory Carbon price Google announced on November 10, which makes Hydrogen the practical choice for most small-business tools.</p>"
+    },
+    {
+      "heading": "Working with documents and data",
+      "body_html": "<p>Google says Hydrogen accepts up to 1 million input tokens and can produce up to 1 million output tokens, synthesizing dense PDFs, spreadsheets, charts, audio and recorded video into cited reports. For a small business, that means summarizing long contracts, supplier catalogs or months of customer feedback faster.</p>"
+    },
+    {
+      "heading": "In Google Sheets and Slides",
+      "body_html": "<p>Google gives examples of Hydrogen turning financial data into interactive models in Google Sheets, generating outputs over 30% faster than previous models in Sheets canvas, and building a multi-slide presentation in Google Slides from a video and a template. Business owners who live in spreadsheets may notice the difference first.</p>"
+    },
+    {
+      "heading": "Why fewer fabricated claims matter",
+      "body_html": "<p>Google reports Hydrogen cuts fabricated claims by more than 5x compared with Gemini 3.8 Flash. For businesses using AI to draft customer-facing content, fewer invented facts means less risk, though every draft still needs a human check.</p>"
+    },
+    {
+      "heading": "What it means for search visibility",
+      "body_html": "<p>Hydrogen also powers Google Search, which Google upgraded the same day. As AI in Search gets faster and better at following detailed questions, clear and accurate business information matters even more.</p>"
+    },
+    {
+      "heading": "Practical uses for a local business",
+      "body_html": "<ol><li>Summarize long documents, such as leases or vendor contracts, before review with your adviser.</li><li>Analyze sales or booking data in Sheets to spot seasonal patterns.</li><li>Draft service page outlines, then edit them with your own expertise and facts.</li><li>Turn customer reviews into themes to improve your service.</li><li>Prepare quick presentations for staff or partners.</li></ol>"
+    },
+    {
+      "heading": "Keep a human in the loop",
+      "body_html": "<p>Faster AI is still AI. Check facts, prices and claims before anything goes to customers, and don't paste sensitive customer data into tools without understanding how it's handled under your plan.</p>"
+    },
+    {
+      "heading": "A worked example",
+      "body_html": "<p>Imagine a catering company in Orange that exports a year of orders to Google Sheets and asks Gemini to find which menus and months bring the most revenue. Within minutes, it sees that corporate holiday events in December and graduation parties in June are its most profitable work, and plans its marketing calendar around them.</p>"
+    },
+    {
+      "heading": "Four thinking levels",
+      "body_html": "<p>Google says Hydrogen offers four thinking levels, from low to an extra-high setting, so developers can trade speed for depth. For small businesses using tools built on the API, that can mean quick answers for simple tasks and more careful reasoning for complex ones, without switching models.</p>"
+    },
+    {
+      "heading": "Questions owners ask us",
+      "body_html": "<p>Owners often ask whether they need a developer to use Hydrogen. No: it's available in the Gemini app and Gemini for business, so anyone can use it for drafts, summaries and analysis. Developers use the API to build custom tools such as quoting assistants or internal search. Another question is which model to choose. For most everyday tasks, a fast model like Hydrogen is enough; the more expensive frontier models are for the hardest, longest tasks. Owners also ask about data privacy. Check the terms of your plan, especially before pasting customer information, and prefer business plans for work data.</p>"
+    },
+    {
+      "heading": "Where it fits in a small business",
+      "body_html": "<p>Think of Hydrogen as a fast assistant for repetitive knowledge work. Office managers can summarize long email threads and documents, owners can turn exported sales data into clear charts, and marketing staff can draft outlines and first versions of posts that they then edit with real details. Front-desk teams can prepare answers to common customer questions, checked against your policies. The common thread is speed on tasks where a person still makes the final call. For a business in Anaheim or anywhere in Orange County with a small team, that time saved is the main benefit.</p>"
+    },
+    {
+      "heading": "Getting started this week",
+      "body_html": "<p>Pick one repetitive task that takes your team at least an hour a week, such as summarizing customer emails, preparing a weekly sales summary or drafting social posts from your service pages. Try it in the Gemini app or Gemini for business with Hydrogen, compare the result with how you do it now and note the time saved. Keep a short list of prompts that work, share them with staff, and set a simple rule that anything going to customers is checked by a person first. Small, repeatable wins add up faster than trying to automate everything at once.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Gemini 4 Hydrogen is Google's fast, affordable model, now available almost everywhere Google offers Gemini. Anaheim and Orange County businesses can use it for documents, data and drafts, with a human checking the results.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is Gemini 4 Hydrogen?",
+      "a": "Google's fast, efficient Gemini 4 model for everyday work, released November 12, 2026."
+    },
+    {
+      "q": "Where can I use Gemini 4 Hydrogen?",
+      "a": "The Gemini app, Google Search, Gemini for business, Google AI Studio and the Gemini API."
+    },
+    {
+      "q": "How much does Gemini 4 Hydrogen cost for developers?",
+      "a": "Google lists $1.50 per million input tokens and $7.50 per million output tokens."
+    },
+    {
+      "q": "Is Hydrogen better than Gemini 4 Argon?",
+      "a": "Google says it scores 51 vs 50 on the Artificial Analysis Intelligence Index at default settings."
+    },
+    {
+      "q": "Does it make fewer mistakes?",
+      "a": "Google says it cuts fabricated claims by more than 5x versus Gemini 3.8 Flash."
+    },
+    {
+      "q": "Can it work with spreadsheets?",
+      "a": "Yes. Google gives examples in Google Sheets and Slides."
+    },
+    {
+      "q": "Should small businesses use it for customer content?",
+      "a": "For drafts, with a human checking every fact."
+    },
+    {
+      "q": "Do you work with businesses in Anaheim and Orange County?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California, from Anaheim and Santa Ana to Irvine and the coastal cities."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "Gemini 4 Hydrogen in Google Search",
+      "url": "https://thechimeraai.com/gemini-4-hydrogen-google-search-upgrade/"
+    },
+    {
+      "anchor": "Gemini SEO",
+      "url": "https://thechimeraai.com/gemini-seo/"
+    },
+    {
+      "anchor": "AI SEO for small business",
+      "url": "https://thechimeraai.com/ai-seo-for-small-business/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Gemini 4 Carbon arrives in AI Mode",
+      "url": "https://thechimeraai.com/blog/gemini-4-carbon-ai-mode-local-business/"
+    },
+    {
+      "anchor": "Google's October 2026 AI updates",
+      "url": "https://thechimeraai.com/blog/google-october-2026-ai-updates-local-business/"
+    },
+    {
+      "anchor": "Gemini 4 Hydrogen comes to Google Search",
+      "url": "https://thechimeraai.com/blog/gemini-4-hydrogen-google-search-upgrade/"
+    },
+    {
+      "anchor": "Google's new AI Mode links",
+      "url": "https://thechimeraai.com/blog/google-ai-mode-inline-links-update/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google: Introducing Gemini 4 Hydrogen (Nov 12, 2026)",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 5,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "Where Hydrogen shows up",
+      "lead": "From Google's November 12, 2026 announcement.",
+      "steps": [
+        {
+          "title": "Gemini app",
+          "text": "Everyday help."
+        },
+        {
+          "title": "Search",
+          "text": "Faster AI answers."
+        },
+        {
+          "title": "Workspace",
+          "text": "Sheets and Slides examples."
+        },
+        {
+          "title": "API",
+          "text": "$1.50 per million input tokens."
+        }
+      ]
+    }
+  ],
+  "hero_query": "Can my small business use Gemini 4 Hydrogen?",
+  "short_title": "What Gemini 4 Hydrogen means for small businesses",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "kind": "blog",
+  "category": "AI news",
+  "slot": 1,
+  "hero_image": {
+    "id": 2108,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/gemini-4-hydrogen-small-business-banner.jpg",
+    "alt": "Gemini 4 Hydrogen: What Google's New Everyday Model Means for Small Businesses: banner photo",
+    "width": 1600,
+    "height": 760
+  },
+  "published": "2026-11-14",
+  "updated": "2026-11-14",
+  "parent_id": 709
+}

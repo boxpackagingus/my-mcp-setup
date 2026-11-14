@@ -1,0 +1,232 @@
+{
+  "query": "ga4 traffic acquisition report",
+  "slug": "google-analytics-4-traffic-acquisition-report",
+  "eyebrow": "Google Analytics",
+  "primary_keyword": "GA4 Traffic acquisition report",
+  "secondary_keywords": [
+    "GA4 acquisition report",
+    "GA4 source medium",
+    "Google Analytics traffic sources",
+    "default channel grouping"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "GA4 Traffic Acquisition Report Explained",
+    "meta_description": "How Anaheim and Orange County businesses can read the GA4 Traffic acquisition report: channels, source and medium, campaigns and key events by source."
+  },
+  "h1": "The GA4 Traffic Acquisition Report: Where Your Visitors Come From",
+  "answer": "The GA4 Traffic acquisition report shows where new and returning visitors come from, grouped by channel, source, medium and campaign. Its default view groups sessions into channels such as Organic Search, Direct, Paid Social and Email. Anaheim and Orange County businesses can use it, together with key events, to see which channels bring leads.",
+  "key_takeaways": [
+    "Shows new and returning users' sources.",
+    "Default view: session default channel grouping.",
+    "Search google / organic to see Google Search traffic.",
+    "Data comes from UTM tags or ad integrations.",
+    "Pair it with key events to see leads by channel."
+  ],
+  "sections": [
+    {
+      "heading": "What the report shows",
+      "body_html": "<p>Google's help page describes the Traffic acquisition report as a pre-made report that helps you understand where website and app visitors come from. It shows where new and returning users come from, unlike the User acquisition report, which shows only where new users come from.</p>"
+    },
+    {
+      "heading": "How to open it",
+      "body_html": "<p>Sign in to Google Analytics, select Reports, then Acquisition, then Traffic acquisition. Google notes that if you can't find it, an Editor can add it back to the navigation.</p>"
+    },
+    {
+      "heading": "Channels",
+      "body_html": "<p>The default dimension is Session default channel grouping, which groups traffic using rules into channels such as Direct, Organic Search, Paid Social, Organic Social and Email. It's the quickest overview of where visits come from.</p>"
+    },
+    {
+      "heading": "Source, medium and campaign",
+      "body_html": "<p>Google explains that Session source is the publisher or inventory source, such as google, youtube or gmail; Session medium is the method of acquisition; and Session campaign is the promotion or campaign. Each includes the word Session because it describes the visitor's most recent session.</p>"
+    },
+    {
+      "heading": "Find one source quickly",
+      "body_html": "<p>Use the search bar above the table. Google's example: search google / organic to see organic Google Search traffic.</p>"
+    },
+    {
+      "heading": "Where the data comes from",
+      "body_html": "<p>Google says traffic-source data comes from manually tagged URLs, using UTM parameters, or from integrations with ad platforms such as Google Ads using auto-tagging. Untagged email or social links often end up as Direct or a generic referral.</p>"
+    },
+    {
+      "heading": "Read it with key events",
+      "body_html": "<p>Visits alone don't pay the bills. Add your key events to the view to see which channels bring leads, then compare that with the cost and effort of each channel.</p>"
+    },
+    {
+      "heading": "AI assistants as sources",
+      "body_html": "<p>Visits from AI tools such as <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a> and <a href=\"https://thechimeraai.com/perplexity-seo/\">Perplexity</a> usually appear as referral sources. Search the table for their names to see how much AI search sends you.</p>"
+    },
+    {
+      "heading": "Questions the report answers",
+      "body_html": "<ul><li>Which channel brings the most visits?</li><li>Which channel brings the most leads?</li><li>Did our newsletter or social campaign bring traffic?</li><li>Is organic search growing month over month?</li><li>How much traffic comes from AI assistants?</li></ul>"
+    },
+    {
+      "heading": "Common mistakes",
+      "body_html": "<ul><li>Judging channels by visits instead of key events.</li><li>Leaving email and social links untagged.</li><li>Comparing months with different seasonality.</li><li>Confusing User acquisition with Traffic acquisition.</li><li>Ignoring the date range and comparison options.</li></ul>"
+    },
+    {
+      "heading": "A monthly channel review",
+      "body_html": "<p>Once a month, open Traffic acquisition for the previous month and compare it with the same month last year if you have the data. Note sessions and key events for each channel, then calculate a simple key event rate: key events divided by sessions. A channel with fewer visits but a higher rate may deserve more investment than a channel with lots of low-value traffic. Look at the source and medium rows for your tagged campaigns to see which specific emails, posts or flyers worked. Write down one decision each month, such as posting more of what worked on social or improving the landing page for a weak paid campaign, and check the effect the following month. For seasonal businesses across Anaheim and Orange County, the year-over-year comparison prevents mistaking a seasonal dip for a channel problem.</p>"
+    },
+    {
+      "heading": "Checklist",
+      "body_html": "<ul><li>Report found in Acquisition.</li><li>Key events added to the view.</li><li>Main channels reviewed.</li><li>Tagged campaigns checked.</li><li>AI referrals checked.</li><li>Monthly decision noted.</li></ul>"
+    },
+    {
+      "heading": "An example",
+      "body_html": "<p>Imagine a med spa in Newport Beach that thinks Instagram brings most of its clients. In Traffic acquisition with key events, Organic Social brings many visits but few booking requests, while Organic Search and Referral from a local wedding directory bring most bookings. The spa improves its service pages and keeps Instagram for brand awareness.</p>"
+    },
+    {
+      "heading": "How this fits your local plan",
+      "body_html": "<p>This task is one piece of a wider local plan. Google says local results are mainly based on relevance, distance and popularity, so the profile, your website and your reputation all have to agree. A practical order for most Orange County businesses is: get the Business Profile verified and accurate, make the <a href=\"https://thechimeraai.com/nap-consistency-local-citations/\">name, address and phone</a> identical everywhere, publish one clear page per service, then build a steady habit of <a href=\"https://thechimeraai.com/how-to-get-more-google-reviews/\">genuine reviews</a> and replies. Each step makes the next one work better, and the same signals help AI assistants such as ChatGPT, <a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a> and Google's AI features describe your business correctly when someone in Anaheim asks for a recommendation.</p>"
+    },
+    {
+      "heading": "What to do this week",
+      "body_html": "<ol><li>Open Traffic acquisition.</li><li>Add your key events.</li><li>Compare channels by key events.</li><li>Note one decision for this month.</li></ol>"
+    },
+    {
+      "heading": "When to get help",
+      "body_html": "<p>Most of this can be done in-house with an hour or two and careful reading of Google's own help pages. It is worth bringing in help when the stakes are high or the problem keeps coming back: a profile that has been suspended more than once, many locations to manage, a site that keeps failing the same checks, or no time to keep up the routine. A good local SEO partner should explain what they will change and why, point to Google's guidelines rather than promise rankings, and leave you with access to every account. <a href=\"https://thechimeraai.com/\">Chimera</a> works this way with businesses across Anaheim and Orange County.</p>"
+    },
+    {
+      "heading": "Understanding Direct and Referral traffic",
+      "body_html": "<p>Two channels often confuse owners. Direct includes people who typed your address or used a bookmark, but also clicks from untagged emails, apps, documents and some messaging apps, so a large Direct share usually means links need tagging rather than that people know your address by heart. Referral covers clicks from other websites, including directories, partners, local news sites and AI assistants such as ChatGPT or Perplexity. Click into Referral to see the individual sites. For local businesses, this is where you discover which directories, community sites and partners actually send visitors, and which listings are worth keeping up to date. Tagging your own links moves them out of Direct and into the right channel, making the rest of the report clearer. Review the referral list every few months to spot new sites linking to you.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Use Traffic acquisition to see which channels bring visits and, with key events, which bring leads. Tag your links so the data is accurate. Chimera, based in Anaheim, builds monthly channel reports for Orange County businesses.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What does the GA4 Traffic acquisition report show?",
+      "a": "Where new and returning users come from, by channel, source, medium and campaign."
+    },
+    {
+      "q": "How is it different from User acquisition?",
+      "a": "User acquisition shows only where new users come from."
+    },
+    {
+      "q": "How do I see Google organic traffic?",
+      "a": "Search google / organic in the table's search bar."
+    },
+    {
+      "q": "Why is so much traffic Direct?",
+      "a": "Often untagged links from emails, apps or documents; use UTM parameters."
+    },
+    {
+      "q": "Where does campaign data come from?",
+      "a": "UTM-tagged links or ad integrations with auto-tagging."
+    },
+    {
+      "q": "Can I see AI assistant traffic?",
+      "a": "Usually as referral sources, such as chatgpt.com."
+    },
+    {
+      "q": "Do you help businesses in Anaheim and Orange County with this?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "UTM parameters in Google Analytics",
+      "url": "https://thechimeraai.com/google-analytics-utm-parameters/"
+    },
+    {
+      "anchor": "GA4 key events",
+      "url": "https://thechimeraai.com/google-analytics-4-key-events/"
+    },
+    {
+      "anchor": "how to track AI traffic in Google Analytics",
+      "url": "https://thechimeraai.com/how-to-track-ai-traffic-in-google-analytics/"
+    },
+    {
+      "anchor": "link Google Ads to Google Analytics",
+      "url": "https://thechimeraai.com/link-google-ads-to-google-analytics/"
+    },
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Multimodal search data in Search Console",
+      "url": "https://thechimeraai.com/blog/search-console-multimodal-search-report/"
+    },
+    {
+      "anchor": "GA4 lead generation events",
+      "url": "https://thechimeraai.com/google-analytics-4-lead-generation-events/"
+    },
+    {
+      "anchor": "GA4 Realtime report",
+      "url": "https://thechimeraai.com/google-analytics-4-realtime-report/"
+    },
+    {
+      "anchor": "Set up Google Analytics 4",
+      "url": "https://thechimeraai.com/how-to-set-up-google-analytics-4/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Analytics Help: [GA4] Traffic acquisition report",
+      "url": "https://support.google.com/analytics/answer/12923437?hl=en"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 2,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "Reading Traffic acquisition",
+      "lead": "From Google's help page.",
+      "steps": [
+        {
+          "title": "Open",
+          "text": "Reports, Acquisition."
+        },
+        {
+          "title": "Channels",
+          "text": "Default channel grouping."
+        },
+        {
+          "title": "Drill down",
+          "text": "Source, medium, campaign."
+        },
+        {
+          "title": "Leads",
+          "text": "Add key events."
+        }
+      ]
+    }
+  ],
+  "hero_query": "How do I see where my website visitors come from?",
+  "short_title": "GA4 Traffic acquisition report",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 2114,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/google-analytics-4-traffic-acquisition-report-chimera.jpg",
+    "alt": "GA4 Traffic Acquisition Report Explained: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-14",
+  "updated": "2026-11-14"
+}

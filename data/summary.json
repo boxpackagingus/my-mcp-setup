@@ -134,16 +134,31 @@
       "form_leads_28d": 1,
       "source": "Site Kit",
       "engine_leads_28d": 0
+    },
+    {
+      "date": "2026-11-14",
+      "pages_total": 312,
+      "pages_indexed": 146,
+      "clicks_28d": 2,
+      "impressions_28d": 1466,
+      "engine_clicks_28d": 1,
+      "sessions_28d": 50.0,
+      "ai_sessions_28d": 0,
+      "ai_by_engine": {},
+      "leads_28d": 1.0,
+      "form_leads_28d": 1,
+      "source": "Site Kit",
+      "engine_leads_28d": 0
     }
   ],
   "latest": {
-    "date": "2026-11-13",
-    "pages_total": 277,
-    "pages_indexed": 109,
+    "date": "2026-11-14",
+    "pages_total": 312,
+    "pages_indexed": 146,
     "clicks_28d": 2,
-    "impressions_28d": 587,
+    "impressions_28d": 1466,
     "engine_clicks_28d": 1,
-    "sessions_28d": 67.0,
+    "sessions_28d": 50.0,
     "ai_sessions_28d": 0,
     "ai_by_engine": {},
     "leads_28d": 1.0,
@@ -211,17 +226,19 @@
     {
       "date": "2026-11-12",
       "clicks": 0,
-      "impressions": 170,
+      "impressions": 303,
       "ctr": 0,
-      "position": 69.2
+      "position": 69.87128712871286
+    },
+    {
+      "date": "2026-11-13",
+      "clicks": 0,
+      "impressions": 746,
+      "ctr": 0,
+      "position": 68.89276139410188
     }
   ],
   "ga_daily": [
-    {
-      "date": "20261016",
-      "sessions": 0.0,
-      "keyEvents": 0.0
-    },
     {
       "date": "20261017",
       "sessions": 0.0,
@@ -349,12 +366,17 @@
     },
     {
       "date": "20261111",
-      "sessions": 22.0,
+      "sessions": 0.0,
       "keyEvents": 0.0
     },
     {
       "date": "20261112",
       "sessions": 6.0,
+      "keyEvents": 0.0
+    },
+    {
+      "date": "20261113",
+      "sessions": 5.0,
       "keyEvents": 0.0
     }
   ]

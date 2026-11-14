@@ -1,0 +1,232 @@
+{
+  "query": "ga4 realtime report",
+  "slug": "google-analytics-4-realtime-report",
+  "eyebrow": "Google Analytics",
+  "primary_keyword": "GA4 Realtime report",
+  "secondary_keywords": [
+    "Google Analytics realtime",
+    "test GA4 tracking",
+    "GA4 active users",
+    "real-time website visitors"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "GA4 Realtime Report: How and When to Use It",
+    "meta_description": "How Anaheim and Orange County businesses can use the GA4 Realtime report to test tracking, watch promotions and check key events as they happen."
+  },
+  "h1": "The GA4 Realtime Report: See Your Website Activity as It Happens",
+  "answer": "The GA4 Realtime report shows activity on your website as it happens: active users in the last 5 and 30 minutes, where they came from, which pages they view, which events they trigger and which key events they complete. Anaheim and Orange County businesses use it to check tracking works and to watch a promotion or post as it goes live.",
+  "key_takeaways": [
+    "Shows active users in the last 5 and 30 minutes.",
+    "Shows sources, pages, events and key events.",
+    "Great for testing that tracking works.",
+    "Google describes it as best effort.",
+    "Use standard reports for decisions."
+  ],
+  "sections": [
+    {
+      "heading": "What the report shows",
+      "body_html": "<ul><li>Active users in the last 5 and 30 minutes.</li><li>Active users by first user source, medium or campaign.</li><li>Views by page title.</li><li>Event count by event name.</li><li><a href=\"https://thechimeraai.com/google-analytics-4-key-events/\">Key events</a> by event name.</li><li>Active users by audience and user property.</li></ul>"
+    },
+    {
+      "heading": "How to open it",
+      "body_html": "<p>Sign in to <a href=\"https://thechimeraai.com/how-to-track-ai-traffic-in-google-analytics/\">Google Analytics</a>, select Reports, then Realtime. Google notes an Editor can add it back if it's missing from your navigation.</p>"
+    },
+    {
+      "heading": "Ways to use Realtime",
+      "body_html": "<p>Google lists several uses: seeing whether a one-day promotion is driving traffic, monitoring the immediate effect of a blog or social post, checking whether new content affects traffic and verifying that the measurement code is working.</p>"
+    },
+    {
+      "heading": "Test your tracking",
+      "body_html": "<p>After installing the Google tag or creating a key event, visit your site from your phone and complete the action, such as sending a test form. You should appear in Realtime within minutes, along with the event. This is the fastest way to confirm setup.</p>"
+    },
+    {
+      "heading": "User snapshots",
+      "body_html": "<p>Click View user snapshot to see data for a single user: device, location, top events and user properties. Google says you can move between users with the arrows, which helps when testing your own visits.</p>"
+    },
+    {
+      "heading": "Comparisons",
+      "body_html": "<p>Google says you can apply comparisons to see subsets side by side, such as two campaigns, and click a city on the map to compare users there with all users. For a local business, that can show visitors from Anaheim versus elsewhere.</p>"
+    },
+    {
+      "heading": "Limits to know",
+      "body_html": "<p>Google describes Realtime as a best-effort service without a formal service level objective, so occasional delays can happen. Cards show up to 700 rows on desktop, and high-cardinality dimensions may show an (other) row.</p>"
+    },
+    {
+      "heading": "New and returning users",
+      "body_html": "<p>Google explains that Active users in Realtime shows returning users who have been processed, and that New users shows people on the site for the first time; unprocessed users are excluded from Active users. Totals may differ slightly from standard reports.</p>"
+    },
+    {
+      "heading": "When to use standard reports instead",
+      "body_html": "<p>Realtime is for checking and watching. For decisions about channels, pages and campaigns, use standard reports over weeks or months, where data is complete.</p>"
+    },
+    {
+      "heading": "Common mistakes",
+      "body_html": "<ul><li>Making decisions from a few minutes of data.</li><li>Forgetting to filter out your own test visits later.</li><li>Panicking when Realtime shows zero during quiet hours.</li><li>Expecting Realtime to match standard reports exactly.</li><li>Not testing key events after creating them.</li></ul>"
+    },
+    {
+      "heading": "A launch-day checklist",
+      "body_html": "<p>Use Realtime whenever you launch something. Before a promotion goes live, open Realtime on one screen and the promotion on another. When you send the email or publish the post, watch for visits from that source within minutes; if none appear, check the link and its <a href=\"https://thechimeraai.com/google-analytics-utm-parameters/\">UTM tags</a>. Complete the key action yourself, such as a booking or form, and confirm the key event appears. During a live event or open house in Anaheim, keep Realtime open to see whether people are visiting the page from your signage or QR codes. Afterwards, wait a day or two and review the standard reports for the full picture. This routine catches broken links and tracking errors while there's still time to fix them, rather than discovering a week later that a campaign wasn't measured.</p>"
+    },
+    {
+      "heading": "Checklist",
+      "body_html": "<ul><li>Own test visit seen.</li><li>Test key event seen.</li><li>Launch links checked.</li><li>User snapshot used for testing.</li><li>Decisions made from standard reports.</li></ul>"
+    },
+    {
+      "heading": "An example",
+      "body_html": "<p>Imagine a fitness studio in <a href=\"https://thechimeraai.com/seo-fullerton/\">Fullerton</a> launching a New Year offer by email at 9am. The owner watches Realtime: within minutes, visitors arrive from the newsletter source and several complete the trial-class form, which shows as a key event. A typo in one social link means no Instagram visits, which the owner fixes before lunch.</p>"
+    },
+    {
+      "heading": "How this fits your local plan",
+      "body_html": "<p>Treat this as part of a routine rather than a one-off fix. Local visibility in Anaheim and the rest of Orange County comes from many small, accurate signals adding up: a verified profile, <a href=\"https://thechimeraai.com/nap-consistency-local-citations/\">consistent listings</a>, useful service pages, real photos and a flow of honest reviews. Google is open that relevance, distance and popularity drive local results. You cannot change distance, but you can make sure Google and AI assistants understand exactly what you do and see evidence that customers value it. Put a monthly reminder in the calendar to check the profile, read new reviews and update anything that has changed.</p>"
+    },
+    {
+      "heading": "What to do this week",
+      "body_html": "<ol><li>Open Realtime.</li><li>Visit your site from your phone.</li><li>Complete a test key event.</li><li>Use it during your next launch.</li></ol>"
+    },
+    {
+      "heading": "When to get help",
+      "body_html": "<p>You do not need an agency for every step here; Google documents most of it clearly. Consider outside help when the work is urgent and unfamiliar, when you manage several locations, or when the same issue returns after you fix it. Ask any provider to show you the specific guideline or documentation behind each recommendation, to keep you as the owner of your accounts and to report results in calls, bookings and leads rather than vanity numbers. That is how <a href=\"https://thechimeraai.com/\">Chimera</a> works with Orange County businesses from our base in Anaheim.</p>"
+    },
+    {
+      "heading": "Excluding your own visits",
+      "body_html": "<p>Testing in Realtime means your own visits appear in reports. For a small business with modest traffic, staff and owner visits can noticeably inflate numbers over time. Google Analytics lets administrators define internal traffic, for example by the office's IP address, and filter it out of reports once the filter is active. Set this up after you've finished testing, and keep a test mode available for future checks. Also remember that visits from your web designer or agency during site work count too. A clean property, where tests and staff visits are excluded, gives you numbers that reflect real customers in Anaheim and across Orange County, which is what you need when deciding where to spend time and money. Check the filter after any office move or internet provider change.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Use Realtime to test tracking and watch launches as they happen, then use standard reports for decisions. Chimera, based in Anaheim, uses Realtime to check every tracking setup for Orange County clients.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What does the GA4 Realtime report show?",
+      "a": "Activity in the last 5 and 30 minutes: users, sources, pages, events and key events."
+    },
+    {
+      "q": "How do I test GA4 tracking?",
+      "a": "Visit your site and complete an action, then look for it in Realtime."
+    },
+    {
+      "q": "Is Realtime data guaranteed to be immediate?",
+      "a": "No. Google describes it as best effort, without a formal SLO."
+    },
+    {
+      "q": "Why don't Realtime numbers match other reports?",
+      "a": "Realtime processing differs; use standard reports for full data."
+    },
+    {
+      "q": "Can I see a single user's activity?",
+      "a": "Yes, with View user snapshot."
+    },
+    {
+      "q": "Can I compare cities in Realtime?",
+      "a": "Yes. Click a city on the map to create a comparison."
+    },
+    {
+      "q": "Do you help businesses in Anaheim and Orange County with this?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "how to set up Google Analytics 4",
+      "url": "https://thechimeraai.com/how-to-set-up-google-analytics-4/"
+    },
+    {
+      "anchor": "GA4 key events",
+      "url": "https://thechimeraai.com/google-analytics-4-key-events/"
+    },
+    {
+      "anchor": "UTM parameters in Google Analytics",
+      "url": "https://thechimeraai.com/google-analytics-utm-parameters/"
+    },
+    {
+      "anchor": "GA4 Traffic acquisition report",
+      "url": "https://thechimeraai.com/google-analytics-4-traffic-acquisition-report/"
+    },
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Search Console's generative AI performance report",
+      "url": "https://thechimeraai.com/blog/search-console-generative-ai-performance-report/"
+    },
+    {
+      "anchor": "GA4 lead generation events",
+      "url": "https://thechimeraai.com/google-analytics-4-lead-generation-events/"
+    },
+    {
+      "anchor": "GA4 users and permissions",
+      "url": "https://thechimeraai.com/google-analytics-4-users-and-permissions/"
+    },
+    {
+      "anchor": "GA4 enhanced measurement",
+      "url": "https://thechimeraai.com/google-analytics-4-enhanced-measurement/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Analytics Help: Realtime report",
+      "url": "https://support.google.com/analytics/answer/9271392?hl=en"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 3,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "Using Realtime on launch day",
+      "lead": "Based on Google's suggested uses.",
+      "steps": [
+        {
+          "title": "Open",
+          "text": "Reports, Realtime."
+        },
+        {
+          "title": "Launch",
+          "text": "Send the email or post."
+        },
+        {
+          "title": "Watch",
+          "text": "Visits from the source."
+        },
+        {
+          "title": "Confirm",
+          "text": "Key events appear."
+        }
+      ]
+    }
+  ],
+  "hero_query": "How can I check if Google Analytics is working on my website?",
+  "short_title": "GA4 Realtime report",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 2113,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/google-analytics-4-realtime-report-chimera.jpg",
+    "alt": "GA4 Realtime Report: How and When to Use It: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-14",
+  "updated": "2026-11-14"
+}

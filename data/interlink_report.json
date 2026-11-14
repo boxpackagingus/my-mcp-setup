@@ -4,6 +4,11 @@
   "home_in_text": true,
   "related_added": []
  },
+ "google-search-console-url-inspection": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
  "geo-for-dentists": {
   "context": [],
   "home_in_text": false,
@@ -25,6 +30,11 @@
   "related_added": []
  },
  "how-to-remove-fake-google-reviews": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
+ "seo-for-tax-preparers": {
   "context": [],
   "home_in_text": true,
   "related_added": []
@@ -64,6 +74,11 @@
   "home_in_text": false,
   "related_added": []
  },
+ "google-financial-services-verification-us": {
+  "context": [],
+  "home_in_text": false,
+  "related_added": []
+ },
  "seo-for-martial-arts-schools": {
   "context": [],
   "home_in_text": true,
@@ -75,9 +90,7 @@
   "related_added": []
  },
  "moving-to-a-cdn-googlebot-crawling": {
-  "context": [
-   "google-search-console-url-inspection"
-  ],
+  "context": [],
   "home_in_text": false,
   "related_added": []
  },
@@ -96,6 +109,11 @@
   "home_in_text": false,
   "related_added": []
  },
+ "google-search-console-page-indexing-report": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
  "seo-for-towing-companies": {
   "context": [],
   "home_in_text": true,
@@ -106,12 +124,22 @@
   "home_in_text": true,
   "related_added": []
  },
+ "seo-for-audiologists": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
  "geo-for-financial-advisors": {
   "context": [],
   "home_in_text": false,
   "related_added": []
  },
  "seo-for-florists": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
+ "seo-for-window-and-door-companies": {
   "context": [],
   "home_in_text": true,
   "related_added": []
@@ -142,6 +170,11 @@
   "related_added": []
  },
  "how-to-get-on-best-of-lists": {
+  "context": [],
+  "home_in_text": false,
+  "related_added": []
+ },
+ "ads-in-ai-mode-local-business": {
   "context": [],
   "home_in_text": false,
   "related_added": []
@@ -256,7 +289,17 @@
   "home_in_text": true,
   "related_added": []
  },
+ "seo-for-window-tinting": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
  "seo-for-doctors": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
+ "seo-for-urgent-care-clinics": {
   "context": [],
   "home_in_text": true,
   "related_added": []
@@ -274,6 +317,11 @@
  "product-pages-for-ai-shopping": {
   "context": [],
   "home_in_text": false,
+  "related_added": []
+ },
+ "google-search-console-removals-tool": {
+  "context": [],
+  "home_in_text": true,
   "related_added": []
  },
  "google-holiday-100-orange-county-retailers": {
@@ -391,6 +439,11 @@
   "home_in_text": true,
   "related_added": []
  },
+ "seo-for-countertop-companies": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
  "best-practices-for-llms-txt": {
   "context": [],
   "home_in_text": true,
@@ -426,6 +479,11 @@
   "home_in_text": true,
   "related_added": []
  },
+ "google-search-console-security-issues": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
  "google-ai-mode-hotel-booking-anaheim": {
   "context": [],
   "home_in_text": false,
@@ -451,9 +509,24 @@
   "home_in_text": false,
   "related_added": []
  },
+ "seo-for-music-schools": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
  "holiday-travel-search-trends-anaheim-2026": {
   "context": [],
   "home_in_text": false,
+  "related_added": []
+ },
+ "google-intelligent-eyewear-local-business": {
+  "context": [],
+  "home_in_text": false,
+  "related_added": []
+ },
+ "seo-for-personal-trainers": {
+  "context": [],
+  "home_in_text": true,
   "related_added": []
  },
  "how-to-write-content-for-ai-search": {
@@ -531,6 +604,11 @@
   "home_in_text": true,
   "related_added": []
  },
+ "gemini-in-chrome-website-answers": {
+  "context": [],
+  "home_in_text": false,
+  "related_added": []
+ },
  "geo-for-travel-websites": {
   "context": [],
   "home_in_text": true,
@@ -576,12 +654,22 @@
   "home_in_text": true,
   "related_added": []
  },
+ "seo-for-auto-glass-repair": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
  "google-october-2026-ai-updates-local-business": {
   "context": [],
   "home_in_text": false,
   "related_added": []
  },
  "seo-for-accountants": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
+ "seo-for-jewelry-stores": {
   "context": [],
   "home_in_text": true,
   "related_added": []
@@ -597,6 +685,16 @@
   "related_added": []
  },
  "seo-for-concrete-contractors": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
+ "google-search-console-sitemaps-report": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
+ "seo-for-dietitians": {
   "context": [],
   "home_in_text": true,
   "related_added": []
@@ -672,6 +770,11 @@
   "related_added": []
  },
  "seo-for-photographers": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
+ "seo-for-ev-charger-installers": {
   "context": [],
   "home_in_text": true,
   "related_added": []
@@ -886,6 +989,11 @@
   "home_in_text": true,
   "related_added": []
  },
+ "google-search-console-users-and-permissions": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
  "how-to-optimize-for-google-ai-mode": {
   "context": [],
   "home_in_text": false,
@@ -924,6 +1032,11 @@
  "does-google-penalize-ai-content": {
   "context": [],
   "home_in_text": false,
+  "related_added": []
+ },
+ "google-search-console-manual-actions": {
+  "context": [],
+  "home_in_text": true,
   "related_added": []
  },
  "how-ai-search-engines-choose-sources": {
@@ -1016,6 +1129,11 @@
   "home_in_text": false,
   "related_added": []
  },
+ "seo-for-makeup-artists": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
  "seo-for-interior-designers": {
   "context": [],
   "home_in_text": true,
@@ -1066,6 +1184,11 @@
   "home_in_text": true,
   "related_added": []
  },
+ "seo-for-appliance-repair": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
  "gemini-seo": {
   "context": [],
   "home_in_text": false,
@@ -1101,9 +1224,24 @@
   "home_in_text": true,
   "related_added": []
  },
+ "ask-maps-food-ordering-restaurants": {
+  "context": [],
+  "home_in_text": false,
+  "related_added": []
+ },
+ "seo-for-swim-schools": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
  "internal-linking-for-ai-search": {
   "context": [],
   "home_in_text": false,
+  "related_added": []
+ },
+ "how-to-set-up-google-search-console": {
+  "context": [],
+  "home_in_text": true,
   "related_added": []
  },
  "youtube-for-ai-search": {
@@ -1171,9 +1309,24 @@
   "home_in_text": false,
   "related_added": []
  },
+ "seo-for-language-schools": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
  "geo-mistakes-to-avoid": {
   "context": [],
   "home_in_text": false,
+  "related_added": []
+ },
+ "google-search-console-links-report": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
+ "seo-for-pet-boarding": {
+  "context": [],
+  "home_in_text": true,
   "related_added": []
  },
  "seo-for-tattoo-shops": {
@@ -1184,6 +1337,21 @@
  "ai-search-for-b2b-lead-generation": {
   "context": [],
   "home_in_text": false,
+  "related_added": []
+ },
+ "google-search-console-performance-report": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
+ "seo-for-dance-studios": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
+ "seo-for-siding-companies": {
+  "context": [],
+  "home_in_text": true,
   "related_added": []
  },
  "ai-crawler-user-agents": {
@@ -1211,23 +1379,27 @@
   "home_in_text": true,
   "related_added": []
  },
- "google-search-console-url-inspection": {
+ "seo-for-podiatrists": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
+ "google-analytics-4-key-events": {
   "context": [
-   "schema-markup-for-ai-search",
-   "robots-txt-for-ai-crawlers",
-   "local-landing-pages",
-   "google-search-console-manual-actions",
-   "search-console-generative-ai-performance-report"
+   "google-business-profile-optimization-orange-county",
+   "nap-consistency-local-citations",
+   "google-analytics-4-traffic-acquisition-report",
+   "seo-santa-ana"
   ],
   "home_in_text": true,
   "related_added": [
-   "google-search-console-removals-tool",
-   "google-search-console-security-issues",
-   "google-search-console-performance-report",
-   "google-search-console-links-report"
+   "google-analytics-4-enhanced-measurement",
+   "how-to-track-ai-traffic-in-google-analytics",
+   "google-analytics-utm-parameters",
+   "google-analytics-4-realtime-report"
   ]
  },
- "seo-for-tax-preparers": {
+ "seo-for-orthopedic-surgeons": {
   "context": [
    "service-area-business-seo",
    "google-business-profile-service-area",
@@ -1237,59 +1409,255 @@
   ],
   "home_in_text": true,
   "related_added": [
-   "google-financial-services-verification-us",
-   "seo-for-insurance-agents",
-   "seo-for-mortgage-brokers",
-   "seo-for-staffing-agencies"
+   "seo-for-ophthalmologists",
+   "seo-for-audiologists",
+   "seo-for-podiatrists",
+   "seo-for-plastic-surgeons"
   ]
  },
- "google-financial-services-verification-us": {
+ "search-console-platform-properties-social": {
   "context": [
-   "google-business-profile-optimization-orange-county",
-   "gemini-seo",
+   "youtube-for-ai-search",
+   "search-console-generative-ai-performance-report",
+   "local-seo-orange-county",
    "seo-irvine"
   ],
   "home_in_text": false,
   "related_added": [
-   "seo-for-tax-preparers",
-   "seo-for-staffing-agencies",
-   "seo-for-accountants",
-   "seo-for-it-companies"
+   "google-search-console-links-report",
+   "search-console-multimodal-search-report",
+   "google-search-console-security-issues",
+   "google-search-console-url-inspection"
   ]
  },
- "google-search-console-page-indexing-report": {
+ "seo-for-home-theater-installers": {
+  "context": [
+   "google-business-profile-service-area",
+   "google-local-services-ads-vs-seo",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews",
+   "google-business-profile-optimization-orange-county"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "moving-to-a-cdn-googlebot-crawling",
+   "seo-for-ev-charger-installers",
+   "seo-for-garage-door-companies",
+   "seo-for-window-and-door-companies"
+  ]
+ },
+ "link-google-ads-to-google-analytics": {
+  "context": [
+   "google-local-services-ads-vs-seo",
+   "google-analytics-utm-parameters",
+   "google-analytics-4-key-events"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "how-to-set-up-google-analytics-4",
+   "google-analytics-4-data-retention",
+   "how-to-track-ai-traffic-in-google-analytics",
+   "google-analytics-4-users-and-permissions"
+  ]
+ },
+ "google-maps-dining-trends-restaurants": {
+  "context": [
+   "how-to-remove-fake-google-reviews",
+   "how-to-respond-to-google-reviews"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "ask-maps-food-ordering-restaurants",
+   "geo-for-restaurants",
+   "seo-for-ice-cream-shops",
+   "seo-for-bakeries"
+  ]
+ },
+ "seo-for-real-estate-lawyers": {
+  "context": [
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "google-local-services-ads-vs-seo",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-business-lawyers",
+   "seo-for-divorce-lawyers",
+   "seo-for-dui-lawyers",
+   "seo-for-employment-lawyers"
+  ]
+ },
+ "google-when-to-buy-holiday-retailers": {
+  "context": [
+   "google-business-profile-holiday-hours",
+   "google-business-profile-optimization-orange-county",
+   "seo-fullerton"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "seo-for-shopify-stores",
+   "google-holiday-100-orange-county-retailers",
+   "google-universal-cart-orange-county-retailers",
+   "geo-for-ecommerce"
+  ]
+ },
+ "google-analytics-4-enhanced-measurement": {
+  "context": [
+   "youtube-for-ai-search",
+   "google-analytics-4-key-events",
+   "how-to-track-ai-traffic-in-google-analytics"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "google-analytics-utm-parameters",
+   "link-google-ads-to-google-analytics",
+   "google-analytics-4-data-retention",
+   "google-analytics-4-users-and-permissions"
+  ]
+ },
+ "seo-for-pool-builders": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "google-local-services-ads-vs-seo",
+   "how-to-remove-fake-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "moving-to-a-cdn-googlebot-crawling",
+   "seo-for-insulation-contractors",
+   "seo-for-window-and-door-companies",
+   "seo-for-siding-companies"
+  ]
+ },
+ "seo-for-ice-cream-shops": {
+  "context": [
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "google-local-services-ads-vs-seo",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "ask-maps-food-ordering-restaurants",
+   "seo-for-coffee-shops",
+   "seo-for-bubble-tea-shops",
+   "google-maps-dining-trends-restaurants"
+  ]
+ },
+ "seo-for-ophthalmologists": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "google-local-services-ads-vs-seo",
+   "how-to-remove-fake-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-audiologists",
+   "seo-for-podiatrists",
+   "seo-for-orthopedic-surgeons",
+   "seo-for-dietitians"
+  ]
+ },
+ "seo-for-carpenters": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "google-local-services-ads-vs-seo",
+   "how-to-remove-fake-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "moving-to-a-cdn-googlebot-crawling",
+   "seo-for-pool-builders",
+   "seo-for-window-and-door-companies",
+   "seo-for-siding-companies"
+  ]
+ },
+ "google-analytics-4-traffic-acquisition-report": {
   "context": [
    "how-to-get-more-google-reviews",
-   "robots-txt-for-ai-crawlers",
+   "perplexity-seo",
    "how-to-rank-in-chatgpt",
    "gemini-seo",
    "nap-consistency-local-citations"
   ],
   "home_in_text": true,
   "related_added": [
-   "search-console-generative-ai-performance-report",
-   "google-search-console-removals-tool",
-   "google-search-console-performance-report",
-   "google-search-console-links-report"
+   "search-console-multimodal-search-report",
+   "google-analytics-4-lead-generation-events",
+   "google-analytics-4-realtime-report",
+   "how-to-set-up-google-analytics-4"
   ]
  },
- "seo-for-audiologists": {
+ "google-analytics-4-data-retention": {
   "context": [
-   "service-area-business-seo",
-   "google-business-profile-service-area",
-   "google-business-profile-categories",
-   "google-local-services-ads-vs-seo",
-   "how-to-remove-fake-google-reviews"
+   "how-to-get-more-google-reviews",
+   "how-to-rank-in-chatgpt",
+   "gemini-seo",
+   "nap-consistency-local-citations",
+   "search-console-generative-ai-performance-report"
   ],
   "home_in_text": true,
   "related_added": [
-   "seo-for-podiatrists",
-   "seo-for-veterinarians",
-   "seo-for-urgent-care-clinics",
-   "seo-for-dietitians"
+   "link-google-ads-to-google-analytics",
+   "how-to-track-ai-traffic-in-google-analytics",
+   "google-analytics-4-key-events",
+   "google-analytics-4-enhanced-measurement"
   ]
  },
- "seo-for-window-and-door-companies": {
+ "seo-for-occupational-therapists": {
+  "context": [
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "google-local-services-ads-vs-seo",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-audiologists",
+   "seo-for-veterinarians",
+   "seo-for-dietitians",
+   "seo-for-podiatrists"
+  ]
+ },
+ "how-to-set-up-google-analytics-4": {
+  "context": [
+   "how-to-get-more-google-reviews",
+   "google-business-profile-optimization-orange-county",
+   "perplexity-seo",
+   "how-to-rank-in-chatgpt",
+   "gemini-seo"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "google-analytics-4-data-retention",
+   "link-google-ads-to-google-analytics",
+   "how-to-track-ai-traffic-in-google-analytics",
+   "google-analytics-4-users-and-permissions"
+  ]
+ },
+ "gemini-4-hydrogen-small-business": {
+  "context": [
+   "gemini-seo"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "gemini-4-carbon-ai-mode-local-business",
+   "google-october-2026-ai-updates-local-business",
+   "gemini-4-hydrogen-google-search-upgrade",
+   "google-ai-mode-inline-links-update"
+  ]
+ },
+ "seo-for-dui-lawyers": {
   "context": [
    "service-area-business-seo",
    "google-business-profile-service-area",
@@ -1299,29 +1667,13 @@
   ],
   "home_in_text": true,
   "related_added": [
-   "moving-to-a-cdn-googlebot-crawling",
-   "seo-for-siding-companies",
-   "seo-for-garage-door-companies",
-   "seo-for-countertop-companies"
+   "seo-for-immigration-lawyers",
+   "seo-for-business-lawyers",
+   "seo-for-real-estate-lawyers",
+   "seo-for-employment-lawyers"
   ]
  },
- "ads-in-ai-mode-local-business": {
-  "context": [
-   "how-to-get-more-google-reviews",
-   "how-to-show-up-in-google-ai-overviews",
-   "how-to-optimize-for-google-ai-mode",
-   "gemini-seo",
-   "nap-consistency-local-citations"
-  ],
-  "home_in_text": false,
-  "related_added": [
-   "google-ai-mode-inline-links-update",
-   "what-is-query-fan-out",
-   "ai-overviews-vs-featured-snippets",
-   "google-search-profiles-local-brands"
-  ]
- },
- "seo-for-window-tinting": {
+ "seo-for-insulation-contractors": {
   "context": [
    "google-business-profile-service-area",
    "google-business-profile-categories",
@@ -1332,242 +1684,155 @@
   "home_in_text": true,
   "related_added": [
    "moving-to-a-cdn-googlebot-crawling",
-   "seo-for-window-cleaning",
-   "seo-for-roofers",
-   "seo-for-moving-companies"
-  ]
- },
- "seo-for-urgent-care-clinics": {
-  "context": [
-   "google-business-profile-holiday-hours",
-   "service-area-business-seo",
-   "google-business-profile-service-area",
-   "google-business-profile-categories",
-   "how-to-remove-fake-google-reviews"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "seo-for-physical-therapists",
-   "seo-for-audiologists",
-   "seo-for-podiatrists",
-   "seo-for-dermatologists"
-  ]
- },
- "google-search-console-removals-tool": {
-  "context": [
-   "how-to-get-more-google-reviews",
-   "google-business-profile-optimization-orange-county",
-   "how-to-rank-in-chatgpt",
-   "gemini-seo",
-   "nap-consistency-local-citations"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "search-console-generative-ai-performance-report",
-   "google-search-console-performance-report",
-   "google-search-console-sitemaps-report",
-   "google-search-console-links-report"
-  ]
- },
- "seo-for-countertop-companies": {
-  "context": [
-   "google-business-profile-service-area",
-   "google-local-services-ads-vs-seo",
-   "how-to-remove-fake-google-reviews",
-   "how-to-get-more-google-reviews",
-   "google-business-profile-optimization-orange-county"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "moving-to-a-cdn-googlebot-crawling",
+   "seo-for-pool-builders",
    "seo-for-window-and-door-companies",
-   "seo-for-siding-companies",
-   "seo-for-flooring-companies"
+   "seo-for-siding-companies"
   ]
  },
- "google-search-console-security-issues": {
-  "context": [
-   "nap-consistency-local-citations",
-   "search-console-generative-ai-performance-report",
-   "seo-costa-mesa"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "google-search-console-links-report",
-   "google-search-console-performance-report",
-   "google-search-console-url-inspection",
-   "google-search-console-sitemaps-report"
-  ]
- },
- "seo-for-music-schools": {
-  "context": [
-   "google-business-profile-service-area",
-   "google-business-profile-categories",
-   "how-to-remove-fake-google-reviews",
-   "how-to-get-more-google-reviews",
-   "google-business-profile-optimization-orange-county"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "seo-for-swim-schools",
-   "seo-for-private-schools",
-   "seo-for-language-schools",
-   "seo-for-daycare-centers"
-  ]
- },
- "google-intelligent-eyewear-local-business": {
-  "context": [
-   "google-business-profile-holiday-hours",
-   "how-to-respond-to-google-reviews",
-   "gemini-seo"
-  ],
-  "home_in_text": false,
-  "related_added": [
-   "gemini-apple-carplay-local-business",
-   "gemini-in-chrome-website-answers",
-   "google-october-2026-ai-updates-local-business",
-   "gemini-4-carbon-ai-mode-local-business"
-  ]
- },
- "seo-for-personal-trainers": {
-  "context": [
-   "service-area-business-seo",
-   "google-business-profile-service-area",
-   "google-business-profile-categories",
-   "google-local-services-ads-vs-seo",
-   "how-to-remove-fake-google-reviews"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "seo-for-dog-trainers",
-   "seo-for-yoga-studios",
-   "seo-for-nail-salons",
-   "seo-for-dog-groomers"
-  ]
- },
- "gemini-in-chrome-website-answers": {
-  "context": [
-   "google-business-profile-service-area",
-   "gemini-seo"
-  ],
-  "home_in_text": false,
-  "related_added": [
-   "gemini-apple-carplay-local-business",
-   "google-intelligent-eyewear-local-business",
-   "google-october-2026-ai-updates-local-business",
-   "gemini-4-carbon-ai-mode-local-business"
-  ]
- },
- "seo-for-auto-glass-repair": {
-  "context": [
-   "service-area-business-seo",
-   "google-business-profile-service-area",
-   "google-business-profile-categories",
-   "google-local-services-ads-vs-seo",
-   "how-to-remove-fake-google-reviews"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "seo-for-auto-detailing",
-   "seo-for-car-washes",
-   "seo-for-car-dealerships"
-  ]
- },
- "seo-for-jewelry-stores": {
-  "context": [
-   "google-business-profile-holiday-hours",
-   "service-area-business-seo",
-   "google-business-profile-service-area",
-   "google-business-profile-categories",
-   "how-to-remove-fake-google-reviews"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "google-holiday-100-orange-county-retailers",
-   "seo-for-shopify-stores",
-   "geo-for-ecommerce",
-   "google-universal-cart-orange-county-retailers"
-  ]
- },
- "google-search-console-sitemaps-report": {
-  "context": [
-   "robots-txt-for-ai-crawlers",
-   "nap-consistency-local-citations",
-   "author-pages-for-eeat",
-   "google-search-console-url-inspection",
-   "google-search-console-page-indexing-report"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "search-console-generative-ai-performance-report",
-   "google-search-console-performance-report",
-   "google-search-console-links-report",
-   "search-console-multimodal-search-report"
-  ]
- },
- "seo-for-dietitians": {
-  "context": [
-   "google-business-profile-service-area",
-   "google-business-profile-categories",
-   "google-local-services-ads-vs-seo",
-   "how-to-remove-fake-google-reviews",
-   "how-to-get-more-google-reviews"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "seo-for-audiologists",
-   "seo-for-podiatrists",
-   "seo-for-veterinarians",
-   "seo-for-urgent-care-clinics"
-  ]
- },
- "seo-for-ev-charger-installers": {
-  "context": [
-   "google-business-profile-service-area",
-   "google-business-profile-categories",
-   "google-local-services-ads-vs-seo",
-   "how-to-remove-fake-google-reviews",
-   "how-to-get-more-google-reviews"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "moving-to-a-cdn-googlebot-crawling",
-   "seo-for-garage-door-companies",
-   "seo-for-appliance-repair",
-   "seo-for-pressure-washing"
-  ]
- },
- "google-search-console-users-and-permissions": {
+ "google-analytics-utm-parameters": {
   "context": [
    "google-business-profile-optimization-orange-county",
-   "search-console-generative-ai-performance-report",
+   "internal-linking-for-ai-search",
+   "google-analytics-4-traffic-acquisition-report",
    "how-to-track-ai-traffic-in-google-analytics"
   ],
   "home_in_text": true,
   "related_added": [
-   "google-search-console-security-issues",
-   "google-search-console-url-inspection",
-   "google-search-console-sitemaps-report",
-   "google-search-console-page-indexing-report"
+   "google-analytics-4-enhanced-measurement",
+   "link-google-ads-to-google-analytics",
+   "google-analytics-4-lead-generation-events",
+   "google-analytics-4-realtime-report"
   ]
  },
- "google-search-console-manual-actions": {
+ "seo-for-laser-hair-removal": {
   "context": [
+   "google-business-profile-service-area",
+   "google-local-services-ads-vs-seo",
+   "how-to-remove-fake-google-reviews",
    "how-to-get-more-google-reviews",
-   "robots-txt-for-ai-crawlers",
-   "how-to-rank-in-chatgpt",
-   "gemini-seo",
-   "nap-consistency-local-citations"
+   "google-business-profile-optimization-orange-county"
   ],
   "home_in_text": true,
   "related_added": [
-   "search-console-generative-ai-performance-report",
-   "google-search-console-url-inspection",
-   "google-search-console-performance-report",
-   "google-search-console-sitemaps-report"
+   "seo-for-salons",
+   "seo-for-nail-salons",
+   "seo-for-personal-trainers",
+   "seo-for-makeup-artists"
   ]
  },
- "seo-for-makeup-artists": {
+ "google-analytics-4-lead-generation-events": {
+  "context": [
+   "how-to-get-more-google-reviews",
+   "how-to-rank-in-chatgpt",
+   "gemini-seo",
+   "nap-consistency-local-citations",
+   "google-analytics-4-key-events"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "google-analytics-4-realtime-report",
+   "link-google-ads-to-google-analytics",
+   "google-analytics-4-data-retention",
+   "how-to-track-ai-traffic-in-google-analytics"
+  ]
+ },
+ "seo-for-oil-change-shops": {
+  "context": [
+   "google-business-profile-holiday-hours",
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "google-local-services-ads-vs-seo"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-auto-body-shops",
+   "seo-for-transmission-shops",
+   "seo-for-auto-glass-repair",
+   "seo-for-auto-detailing"
+  ]
+ },
+ "seo-for-lash-and-brow-studios": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-local-services-ads-vs-seo",
+   "how-to-remove-fake-google-reviews",
+   "how-to-respond-to-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-yoga-studios",
+   "seo-for-tattoo-shops",
+   "seo-for-gyms",
+   "seo-for-nail-salons"
+  ]
+ },
+ "seo-for-drain-cleaning": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-local-services-ads-vs-seo",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "moving-to-a-cdn-googlebot-crawling",
+   "seo-for-garage-door-companies",
+   "seo-for-commercial-cleaning",
+   "seo-for-pool-service-companies"
+  ]
+ },
+ "seo-for-business-lawyers": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-local-services-ads-vs-seo",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-immigration-lawyers",
+   "seo-for-real-estate-lawyers",
+   "seo-for-personal-injury-lawyers",
+   "seo-for-divorce-lawyers"
+  ]
+ },
+ "google-analytics-4-users-and-permissions": {
+  "context": [
+   "google-business-profile-optimization-orange-county",
+   "nap-consistency-local-citations",
+   "search-console-generative-ai-performance-report",
+   "google-analytics-4-key-events",
+   "seo-irvine"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "google-analytics-4-realtime-report",
+   "link-google-ads-to-google-analytics",
+   "how-to-track-ai-traffic-in-google-analytics",
+   "google-analytics-4-traffic-acquisition-report"
+  ]
+ },
+ "seo-for-bubble-tea-shops": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-business-profile-categories",
+   "google-local-services-ads-vs-seo",
+   "how-to-remove-fake-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "google-maps-dining-trends-restaurants",
+   "seo-for-ice-cream-shops",
+   "seo-for-bakeries",
+   "ask-maps-food-ordering-restaurants"
+  ]
+ },
+ "seo-for-tanning-salons": {
   "context": [
    "service-area-business-seo",
    "google-business-profile-service-area",
@@ -1578,12 +1843,12 @@
   "home_in_text": true,
   "related_added": [
    "seo-for-nail-salons",
+   "seo-for-laser-hair-removal",
    "seo-for-tattoo-shops",
-   "seo-for-dog-groomers",
    "seo-for-personal-trainers"
   ]
  },
- "seo-for-appliance-repair": {
+ "seo-for-transmission-shops": {
   "context": [
    "google-business-profile-service-area",
    "google-business-profile-categories",
@@ -1593,163 +1858,70 @@
   ],
   "home_in_text": true,
   "related_added": [
-   "moving-to-a-cdn-googlebot-crawling",
-   "seo-for-garage-door-companies",
-   "seo-for-tree-service-companies",
-   "seo-for-junk-removal"
+   "seo-for-auto-body-shops",
+   "seo-for-auto-glass-repair",
+   "seo-for-oil-change-shops",
+   "seo-for-car-washes"
   ]
  },
- "ask-maps-food-ordering-restaurants": {
+ "seo-for-facial-spas": {
   "context": [
-   "google-business-profile-holiday-hours",
-   "gemini-seo",
-   "seo-irvine"
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-local-services-ads-vs-seo",
+   "how-to-remove-fake-google-reviews",
+   "how-to-get-more-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-nail-salons",
+   "seo-for-dog-groomers",
+   "seo-for-makeup-artists",
+   "seo-for-laser-hair-removal"
+  ]
+ },
+ "seo-for-employment-lawyers": {
+  "context": [
+   "service-area-business-seo",
+   "google-business-profile-service-area",
+   "google-local-services-ads-vs-seo",
+   "how-to-remove-fake-google-reviews",
+   "how-to-respond-to-google-reviews"
+  ],
+  "home_in_text": true,
+  "related_added": [
+   "seo-for-divorce-lawyers",
+   "seo-for-immigration-lawyers",
+   "seo-for-dui-lawyers",
+   "seo-for-real-estate-lawyers"
+  ]
+ },
+ "google-wallet-gemini-subscriptions-local-business": {
+  "context": [
+   "gemini-seo"
   ],
   "home_in_text": false,
   "related_added": [
-   "geo-for-restaurants",
-   "seo-for-coffee-shops",
-   "seo-for-bakeries",
-   "seo-for-travel-agencies"
+   "gemini-apple-carplay-local-business",
+   "gemini-task-automation-bookings-anaheim",
+   "google-intelligent-eyewear-local-business",
+   "gemini-in-chrome-website-answers"
   ]
  },
- "seo-for-swim-schools": {
-  "context": [
-   "google-business-profile-holiday-hours",
-   "service-area-business-seo",
-   "google-business-profile-service-area",
-   "google-business-profile-categories",
-   "how-to-remove-fake-google-reviews"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "seo-for-music-schools",
-   "seo-for-dance-studios",
-   "seo-for-private-schools",
-   "seo-for-language-schools"
-  ]
- },
- "how-to-set-up-google-search-console": {
-  "context": [
-   "how-to-get-more-google-reviews",
-   "google-business-profile-optimization-orange-county",
-   "how-to-show-up-in-google-ai-overviews",
-   "how-to-optimize-for-google-ai-mode",
-   "how-to-rank-in-chatgpt"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "search-console-generative-ai-performance-report",
-   "google-search-console-security-issues",
-   "google-search-console-links-report",
-   "google-search-console-url-inspection"
-  ]
- },
- "seo-for-language-schools": {
-  "context": [
-   "service-area-business-seo",
-   "google-business-profile-service-area",
-   "google-business-profile-categories",
-   "google-local-services-ads-vs-seo",
-   "how-to-remove-fake-google-reviews"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "seo-for-swim-schools",
-   "seo-for-music-schools",
-   "seo-for-dance-studios",
-   "seo-for-daycare-centers"
-  ]
- },
- "google-search-console-links-report": {
-  "context": [
-   "internal-linking-for-ai-search",
-   "google-search-console-manual-actions"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "search-console-generative-ai-performance-report",
-   "search-console-multimodal-search-report",
-   "google-search-console-security-issues",
-   "google-search-console-performance-report"
-  ]
- },
- "seo-for-pet-boarding": {
-  "context": [
-   "google-business-profile-holiday-hours",
-   "service-area-business-seo",
-   "google-business-profile-service-area",
-   "google-local-services-ads-vs-seo",
-   "how-to-remove-fake-google-reviews"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "seo-for-dog-trainers",
-   "seo-for-salons",
-   "seo-for-martial-arts-schools",
-   "seo-for-nail-salons"
-  ]
- },
- "google-search-console-performance-report": {
+ "google-analytics-4-realtime-report": {
   "context": [
    "nap-consistency-local-citations",
-   "seo-irvine",
-   "seo-santa-ana"
+   "google-analytics-utm-parameters",
+   "google-analytics-4-key-events",
+   "how-to-track-ai-traffic-in-google-analytics",
+   "seo-fullerton"
   ],
   "home_in_text": true,
   "related_added": [
    "search-console-generative-ai-performance-report",
-   "search-console-multimodal-search-report",
-   "google-search-console-sitemaps-report",
-   "google-search-console-page-indexing-report"
-  ]
- },
- "seo-for-dance-studios": {
-  "context": [
-   "service-area-business-seo",
-   "google-business-profile-service-area",
-   "google-business-profile-categories",
-   "google-local-services-ads-vs-seo",
-   "how-to-remove-fake-google-reviews"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "seo-for-swim-schools",
-   "seo-for-language-schools",
-   "seo-for-music-schools",
-   "seo-for-private-schools"
-  ]
- },
- "seo-for-siding-companies": {
-  "context": [
-   "service-area-business-seo",
-   "google-business-profile-service-area",
-   "google-business-profile-categories",
-   "google-local-services-ads-vs-seo",
-   "how-to-remove-fake-google-reviews"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "moving-to-a-cdn-googlebot-crawling",
-   "seo-for-window-and-door-companies",
-   "seo-for-flooring-companies",
-   "seo-for-countertop-companies"
-  ]
- },
- "seo-for-podiatrists": {
-  "context": [
-   "google-business-profile-service-area",
-   "google-business-profile-categories",
-   "google-local-services-ads-vs-seo",
-   "how-to-remove-fake-google-reviews",
-   "how-to-get-more-google-reviews"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "seo-for-audiologists",
-   "seo-for-dietitians",
-   "seo-for-veterinarians",
-   "seo-for-urgent-care-clinics"
+   "google-analytics-4-lead-generation-events",
+   "google-analytics-4-users-and-permissions",
+   "google-analytics-4-enhanced-measurement"
   ]
  }
 }

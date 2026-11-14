@@ -1,7 +1,7 @@
-# Daily run 2026-11-13
+# Daily run 2026-11-14
 
-- Published 35 pages: 20 industry guides (slots 101-120), 10 Google Search Console how-to guides and 5 blog posts; one existing page republished with links to the new ones.
-- Blog posts: ads in AI Mode; Google Financial Services Verification for U.S. ads; Ask Maps food ordering for restaurants; Google intelligent eyewear; Gemini in Chrome.
-- All 35 pass the quality gate; Unsplash banners recorded in data/banner_photos_used.json.
-- Interlinking extended to the Search Console guides and new industries; IndexNow sent; site check: all 277 pages live, in sitemap and llms.txt, with schema.
-- Totals (last 28 days): 277 pages live (251 guides, 26 blogs), 109 pages showing in Google (up from 57), 587 impressions, 67 visits, 1 lead.
+- Published 35 pages: 20 industry guides (slots 121-140), 10 Google Analytics 4 how-to guides and 5 blog posts.
+- Blog posts: Gemini 4 Hydrogen for small businesses; Search Console platform properties for social accounts; Google Maps dining trends; Google's When to Buy holiday guide; Google Wallet in Gemini.
+- All 35 pass the quality gate; Unsplash banners recorded (app logos on one phone photo blurred).
+- Interlinking extended to the GA4 guides and new industries; IndexNow sent; site check: all 312 pages live, in sitemap and llms.txt, with schema.
+- Totals (last 28 days): 312 pages live (281 guides, 31 blogs), 146 pages showing in Google, 1,466 impressions, 50 visits, 1 lead.

@@ -1,0 +1,228 @@
+{
+  "query": "how to set up google analytics 4",
+  "slug": "how-to-set-up-google-analytics-4",
+  "eyebrow": "Google Analytics",
+  "primary_keyword": "set up Google Analytics 4",
+  "secondary_keywords": [
+    "Google Analytics 4 setup",
+    "install Google Analytics",
+    "GA4 for small business",
+    "Google Analytics WordPress"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "How to Set Up Google Analytics 4 (2026 Guide)",
+    "meta_description": "How to set up Google Analytics 4 for an Anaheim or Orange County business website: account, property, web data stream, Google tag and first checks."
+  },
+  "h1": "How to Set Up Google Analytics 4 for Your Business Website",
+  "answer": "To set up Google Analytics 4, create an Analytics account at analytics.google.com, add a property with your time zone and currency, add a web data stream for your site, then install the Google tag, either by pasting your G- measurement ID into your website builder or adding the tag code. Anaheim and Orange County businesses can then see where visitors come from and which ones become leads.",
+  "key_takeaways": [
+    "GA4 is free to set up.",
+    "Account, then property, then data stream.",
+    "Choose your reporting time zone carefully.",
+    "Many website builders only need your G- ID.",
+    "Turn on enhanced measurement when you create the stream."
+  ],
+  "sections": [
+    {
+      "heading": "What Google Analytics does",
+      "body_html": "<p>Google Analytics measures what people do on your website: where they came from, which pages they read and which actions they take, such as calling, booking or sending a form. For a small business in Anaheim or anywhere in Orange County, it's how you learn which marketing actually brings customers, not just visitors.</p>"
+    },
+    {
+      "heading": "Step 1: create an account",
+      "body_html": "<p>Google's help page says to go to analytics.google.com and click Start Measuring if it's your first time; otherwise, in Admin, click Create, then Account. Give the account a name and choose your data-sharing settings. Google suggests a separate account only when a website belongs to a separate business.</p>"
+    },
+    {
+      "heading": "Step 2: create a property",
+      "body_html": "<p>In Admin, click Create, then Property. Name it, choose the reporting time zone and currency, then select your industry, business size and how you intend to use Analytics. Google tailors default reports to that choice; for example, choosing Generate more leads shows reports for measuring lead generation. You need the Editor role to add properties.</p>"
+    },
+    {
+      "heading": "Choose the time zone carefully",
+      "body_html": "<p>Google explains that visits are recorded in the property's time zone, and that changing it later only affects data going forward and can cause a flat spot or spike. Google also advises not changing it more than once a day. For an Orange County business, choose Pacific time from the start.</p>"
+    },
+    {
+      "heading": "Step 3: add a web data stream",
+      "body_html": "<p>In Admin, under Data collection and modification, click Data Streams, then Add stream and Web. Enter your website URL and a stream name. Google recommends enabling enhanced measurement now, which automatically collects page views and other events; you can turn individual events off later.</p>"
+    },
+    {
+      "heading": "Step 4: install the Google tag",
+      "body_html": "<p>Find your Measurement ID, which starts with G-, under Stream details. Many website builders and plugins, including Site Kit and MonsterInsights for WordPress, Squarespace, Wix, Shopify and GoDaddy, have a field where you paste the ID. If yours doesn't, Google shows the tag code under View tag instructions, to add with your site's custom HTML feature.</p>"
+    },
+    {
+      "heading": "Check it's working",
+      "body_html": "<p>Open the Realtime report and visit your own site from your phone. If you appear as an active user within a few minutes, data is flowing. If not, recheck the measurement ID and that the tag is on every page.</p>"
+    },
+    {
+      "heading": "What to set up next",
+      "body_html": "<ol><li>Mark important actions, such as form submissions, as key events.</li><li>Add UTM parameters to links in emails, social posts and your <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a>.</li><li>Link Search Console and Google Ads if you use them.</li><li>Set data retention to the longest period available.</li><li>Add your team and agency as users with the right roles.</li></ol>"
+    },
+    {
+      "heading": "Common setup mistakes",
+      "body_html": "<ul><li>Installing the tag twice, through a plugin and in the theme, which double-counts visits.</li><li>Using a personal Google Account as the only administrator.</li><li>Choosing the wrong time zone.</li><li>Never marking key events, so reports can't show leads.</li><li>Forgetting to tag links from emails and the Business Profile.</li></ul>"
+    },
+    {
+      "heading": "GA4 and AI search",
+      "body_html": "<p>Visitors increasingly arrive from AI assistants such as <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a>, <a href=\"https://thechimeraai.com/perplexity-seo/\">Perplexity</a> and <a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a>. Google Analytics shows these as referral sources, so a correct setup is also how you measure visits from AI search.</p>"
+    },
+    {
+      "heading": "Questions owners ask us",
+      "body_html": "<p>Owners often ask whether Google Analytics is the same as Search Console. It isn't: Search Console shows how your site performs in Google Search before people click, while Analytics shows what visitors do after they arrive, from every source. Most businesses need both. Another common question is whether Analytics slows a site down. The Google tag is light, and installing it once, through one method, avoids problems. Owners also ask how long it takes to see useful data. Realtime shows activity within minutes, but standard reports become meaningful after a few weeks of traffic, so set it up early, before you launch campaigns, and keep the same property for years so you can compare seasons.</p>"
+    },
+    {
+      "heading": "Checklist",
+      "body_html": "<ul><li>Account created.</li><li>Property in Pacific time.</li><li>Web data stream added.</li><li>Enhanced measurement on.</li><li>Google tag installed once.</li><li>Realtime shows your own visit.</li><li>Business account is an administrator.</li></ul>"
+    },
+    {
+      "heading": "An example",
+      "body_html": "<p>Imagine a roofing company in Placentia whose WordPress site has no analytics. The owner creates an account and property in Pacific time, chooses Generate more leads, adds a web stream with enhanced measurement and pastes the G- ID into Site Kit. A test visit appears in Realtime, and the next week the company marks quote form submissions as a key event.</p>"
+    },
+    {
+      "heading": "How this fits your local plan",
+      "body_html": "<p>This task is one piece of a wider local plan. Google says local results are mainly based on relevance, distance and popularity, so the profile, your website and your reputation all have to agree. A practical order for most Orange County businesses is: get the Business Profile verified and accurate, make the name, address and phone identical everywhere, publish one clear page per service, then build a steady habit of <a href=\"https://thechimeraai.com/how-to-get-more-google-reviews/\">genuine reviews</a> and replies. Each step makes the next one work better, and the same signals help AI assistants such as ChatGPT, Gemini and Google's AI features describe your business correctly when someone in Anaheim asks for a recommendation.</p>"
+    },
+    {
+      "heading": "What to do this week",
+      "body_html": "<ol><li>Create the account and property.</li><li>Add a web data stream.</li><li>Install the Google tag.</li><li>Confirm your visit in Realtime.</li></ol>"
+    },
+    {
+      "heading": "When to get help",
+      "body_html": "<p>Most of this can be done in-house with an hour or two and careful reading of Google's own help pages. It is worth bringing in help when the stakes are high or the problem keeps coming back: a profile that has been suspended more than once, many locations to manage, a site that keeps failing the same checks, or no time to keep up the routine. A good local SEO partner should explain what they will change and why, point to Google's guidelines rather than promise rankings, and leave you with access to every account. <a href=\"https://thechimeraai.com/\">Chimera</a> works this way with businesses across Anaheim and Orange County.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Create an account and property with Pacific time, add a web stream with enhanced measurement, install the Google tag once and check Realtime. Chimera, based in Anaheim, sets up Analytics for Orange County businesses so every lead can be traced to its source.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is Google Analytics 4 free?",
+      "a": "Yes, for standard properties."
+    },
+    {
+      "q": "What do I need to install GA4?",
+      "a": "An account, a property, a web data stream and the Google tag on your site."
+    },
+    {
+      "q": "Where do I find my measurement ID?",
+      "a": "In Admin, Data streams, under Stream details; it starts with G-."
+    },
+    {
+      "q": "Can I install GA4 on WordPress without code?",
+      "a": "Yes. Plugins such as Site Kit and MonsterInsights accept your Google tag ID."
+    },
+    {
+      "q": "Should I turn on enhanced measurement?",
+      "a": "Google recommends enabling it when you create the stream."
+    },
+    {
+      "q": "Can I change my time zone later?",
+      "a": "Yes, but it only affects future data and can cause a flat spot or spike."
+    },
+    {
+      "q": "Do you help businesses in Anaheim and Orange County with this?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "GA4 key events",
+      "url": "https://thechimeraai.com/google-analytics-4-key-events/"
+    },
+    {
+      "anchor": "UTM parameters in Google Analytics",
+      "url": "https://thechimeraai.com/google-analytics-utm-parameters/"
+    },
+    {
+      "anchor": "GA4 Realtime report",
+      "url": "https://thechimeraai.com/google-analytics-4-realtime-report/"
+    },
+    {
+      "anchor": "how to set up Google Search Console",
+      "url": "https://thechimeraai.com/how-to-set-up-google-search-console/"
+    },
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "GA4 data retention",
+      "url": "https://thechimeraai.com/google-analytics-4-data-retention/"
+    },
+    {
+      "anchor": "Link Google Ads to Google Analytics",
+      "url": "https://thechimeraai.com/link-google-ads-to-google-analytics/"
+    },
+    {
+      "anchor": "How to Track AI Traffic in Google Analytics 4 (Step by Step)",
+      "url": "https://thechimeraai.com/how-to-track-ai-traffic-in-google-analytics/"
+    },
+    {
+      "anchor": "GA4 users and permissions",
+      "url": "https://thechimeraai.com/google-analytics-4-users-and-permissions/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Analytics Help: Set up Analytics for a website and/or app",
+      "url": "https://support.google.com/analytics/answer/9304153?hl=en"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 4,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "Setting up GA4",
+      "lead": "From Google's Analytics help.",
+      "steps": [
+        {
+          "title": "Account",
+          "text": "analytics.google.com."
+        },
+        {
+          "title": "Property",
+          "text": "Time zone and currency."
+        },
+        {
+          "title": "Stream",
+          "text": "Web stream with enhanced measurement."
+        },
+        {
+          "title": "Tag",
+          "text": "Paste the G- ID or add the tag."
+        }
+      ]
+    }
+  ],
+  "hero_query": "How do I add Google Analytics to my business website?",
+  "short_title": "Set up Google Analytics 4",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 2120,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/how-to-set-up-google-analytics-4-chimera.jpg",
+    "alt": "How to Set Up Google Analytics 4 (2026 Guide): illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-14",
+  "updated": "2026-11-14"
+}

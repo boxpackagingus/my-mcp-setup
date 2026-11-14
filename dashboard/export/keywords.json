@@ -1,5 +1,875 @@
 [
   {
+    "keyword": "Gemini 4 Hydrogen",
+    "kind": "Main",
+    "page": "gemini-4-hydrogen-small-business"
+  },
+  {
+    "keyword": "Gemini 4 Hydrogen pricing",
+    "kind": "Supporting",
+    "page": "gemini-4-hydrogen-small-business"
+  },
+  {
+    "keyword": "Gemini for business",
+    "kind": "Supporting",
+    "page": "gemini-4-hydrogen-small-business"
+  },
+  {
+    "keyword": "Gemini in Google Sheets",
+    "kind": "Supporting",
+    "page": "gemini-4-hydrogen-small-business"
+  },
+  {
+    "keyword": "Gemini 4 Hydrogen vs Argon",
+    "kind": "Supporting",
+    "page": "gemini-4-hydrogen-small-business"
+  },
+  {
+    "keyword": "GA4 data retention",
+    "kind": "Main",
+    "page": "google-analytics-4-data-retention"
+  },
+  {
+    "keyword": "Google Analytics data retention",
+    "kind": "Supporting",
+    "page": "google-analytics-4-data-retention"
+  },
+  {
+    "keyword": "GA4 14 months",
+    "kind": "Supporting",
+    "page": "google-analytics-4-data-retention"
+  },
+  {
+    "keyword": "GA4 explorations data",
+    "kind": "Supporting",
+    "page": "google-analytics-4-data-retention"
+  },
+  {
+    "keyword": "GA4 retention settings",
+    "kind": "Supporting",
+    "page": "google-analytics-4-data-retention"
+  },
+  {
+    "keyword": "GA4 enhanced measurement",
+    "kind": "Main",
+    "page": "google-analytics-4-enhanced-measurement"
+  },
+  {
+    "keyword": "GA4 form tracking",
+    "kind": "Supporting",
+    "page": "google-analytics-4-enhanced-measurement"
+  },
+  {
+    "keyword": "GA4 scroll tracking",
+    "kind": "Supporting",
+    "page": "google-analytics-4-enhanced-measurement"
+  },
+  {
+    "keyword": "GA4 file download tracking",
+    "kind": "Supporting",
+    "page": "google-analytics-4-enhanced-measurement"
+  },
+  {
+    "keyword": "GA4 outbound clicks",
+    "kind": "Supporting",
+    "page": "google-analytics-4-enhanced-measurement"
+  },
+  {
+    "keyword": "GA4 key events",
+    "kind": "Main",
+    "page": "google-analytics-4-key-events"
+  },
+  {
+    "keyword": "GA4 conversions",
+    "kind": "Supporting",
+    "page": "google-analytics-4-key-events"
+  },
+  {
+    "keyword": "mark event as key event",
+    "kind": "Supporting",
+    "page": "google-analytics-4-key-events"
+  },
+  {
+    "keyword": "track form submissions GA4",
+    "kind": "Supporting",
+    "page": "google-analytics-4-key-events"
+  },
+  {
+    "keyword": "GA4 lead tracking",
+    "kind": "Supporting",
+    "page": "google-analytics-4-key-events"
+  },
+  {
+    "keyword": "GA4 lead generation events",
+    "kind": "Main",
+    "page": "google-analytics-4-lead-generation-events"
+  },
+  {
+    "keyword": "generate_lead event",
+    "kind": "Supporting",
+    "page": "google-analytics-4-lead-generation-events"
+  },
+  {
+    "keyword": "GA4 recommended events",
+    "kind": "Supporting",
+    "page": "google-analytics-4-lead-generation-events"
+  },
+  {
+    "keyword": "lead acquisition report",
+    "kind": "Supporting",
+    "page": "google-analytics-4-lead-generation-events"
+  },
+  {
+    "keyword": "GA4 Realtime report",
+    "kind": "Main",
+    "page": "google-analytics-4-realtime-report"
+  },
+  {
+    "keyword": "Google Analytics realtime",
+    "kind": "Supporting",
+    "page": "google-analytics-4-realtime-report"
+  },
+  {
+    "keyword": "test GA4 tracking",
+    "kind": "Supporting",
+    "page": "google-analytics-4-realtime-report"
+  },
+  {
+    "keyword": "GA4 active users",
+    "kind": "Supporting",
+    "page": "google-analytics-4-realtime-report"
+  },
+  {
+    "keyword": "real-time website visitors",
+    "kind": "Supporting",
+    "page": "google-analytics-4-realtime-report"
+  },
+  {
+    "keyword": "GA4 Traffic acquisition report",
+    "kind": "Main",
+    "page": "google-analytics-4-traffic-acquisition-report"
+  },
+  {
+    "keyword": "GA4 acquisition report",
+    "kind": "Supporting",
+    "page": "google-analytics-4-traffic-acquisition-report"
+  },
+  {
+    "keyword": "GA4 source medium",
+    "kind": "Supporting",
+    "page": "google-analytics-4-traffic-acquisition-report"
+  },
+  {
+    "keyword": "Google Analytics traffic sources",
+    "kind": "Supporting",
+    "page": "google-analytics-4-traffic-acquisition-report"
+  },
+  {
+    "keyword": "default channel grouping",
+    "kind": "Supporting",
+    "page": "google-analytics-4-traffic-acquisition-report"
+  },
+  {
+    "keyword": "GA4 users and permissions",
+    "kind": "Main",
+    "page": "google-analytics-4-users-and-permissions"
+  },
+  {
+    "keyword": "add user Google Analytics",
+    "kind": "Supporting",
+    "page": "google-analytics-4-users-and-permissions"
+  },
+  {
+    "keyword": "GA4 admin access",
+    "kind": "Supporting",
+    "page": "google-analytics-4-users-and-permissions"
+  },
+  {
+    "keyword": "Google Analytics agency access",
+    "kind": "Supporting",
+    "page": "google-analytics-4-users-and-permissions"
+  },
+  {
+    "keyword": "GA4 roles",
+    "kind": "Supporting",
+    "page": "google-analytics-4-users-and-permissions"
+  },
+  {
+    "keyword": "UTM parameters in Google Analytics",
+    "kind": "Main",
+    "page": "google-analytics-utm-parameters"
+  },
+  {
+    "keyword": "UTM tracking",
+    "kind": "Supporting",
+    "page": "google-analytics-utm-parameters"
+  },
+  {
+    "keyword": "campaign URL builder",
+    "kind": "Supporting",
+    "page": "google-analytics-utm-parameters"
+  },
+  {
+    "keyword": "utm_source utm_medium",
+    "kind": "Supporting",
+    "page": "google-analytics-utm-parameters"
+  },
+  {
+    "keyword": "track email clicks Google Analytics",
+    "kind": "Supporting",
+    "page": "google-analytics-utm-parameters"
+  },
+  {
+    "keyword": "Google Maps dining trends",
+    "kind": "Main",
+    "page": "google-maps-dining-trends-restaurants"
+  },
+  {
+    "keyword": "Google Maps food trends",
+    "kind": "Supporting",
+    "page": "google-maps-dining-trends-restaurants"
+  },
+  {
+    "keyword": "matcha trend",
+    "kind": "Supporting",
+    "page": "google-maps-dining-trends-restaurants"
+  },
+  {
+    "keyword": "restaurant reviews Google Maps",
+    "kind": "Supporting",
+    "page": "google-maps-dining-trends-restaurants"
+  },
+  {
+    "keyword": "Fan-Favorite Dining List",
+    "kind": "Supporting",
+    "page": "google-maps-dining-trends-restaurants"
+  },
+  {
+    "keyword": "Google Wallet in Gemini",
+    "kind": "Main",
+    "page": "google-wallet-gemini-subscriptions-local-business"
+  },
+  {
+    "keyword": "Gemini personal finance",
+    "kind": "Supporting",
+    "page": "google-wallet-gemini-subscriptions-local-business"
+  },
+  {
+    "keyword": "Google Wallet Gemini subscriptions",
+    "kind": "Supporting",
+    "page": "google-wallet-gemini-subscriptions-local-business"
+  },
+  {
+    "keyword": "membership retention",
+    "kind": "Supporting",
+    "page": "google-wallet-gemini-subscriptions-local-business"
+  },
+  {
+    "keyword": "Gemini Personal Intelligence",
+    "kind": "Supporting",
+    "page": "google-wallet-gemini-subscriptions-local-business"
+  },
+  {
+    "keyword": "Google's When to Buy Guide",
+    "kind": "Main",
+    "page": "google-when-to-buy-holiday-retailers"
+  },
+  {
+    "keyword": "holiday discount timing",
+    "kind": "Supporting",
+    "page": "google-when-to-buy-holiday-retailers"
+  },
+  {
+    "keyword": "when to buy holiday gifts",
+    "kind": "Supporting",
+    "page": "google-when-to-buy-holiday-retailers"
+  },
+  {
+    "keyword": "holiday retail promotions",
+    "kind": "Supporting",
+    "page": "google-when-to-buy-holiday-retailers"
+  },
+  {
+    "keyword": "Black Friday deals timing",
+    "kind": "Supporting",
+    "page": "google-when-to-buy-holiday-retailers"
+  },
+  {
+    "keyword": "set up Google Analytics 4",
+    "kind": "Main",
+    "page": "how-to-set-up-google-analytics-4"
+  },
+  {
+    "keyword": "Google Analytics 4 setup",
+    "kind": "Supporting",
+    "page": "how-to-set-up-google-analytics-4"
+  },
+  {
+    "keyword": "install Google Analytics",
+    "kind": "Supporting",
+    "page": "how-to-set-up-google-analytics-4"
+  },
+  {
+    "keyword": "GA4 for small business",
+    "kind": "Supporting",
+    "page": "how-to-set-up-google-analytics-4"
+  },
+  {
+    "keyword": "Google Analytics WordPress",
+    "kind": "Supporting",
+    "page": "how-to-set-up-google-analytics-4"
+  },
+  {
+    "keyword": "link Google Ads to Google Analytics",
+    "kind": "Main",
+    "page": "link-google-ads-to-google-analytics"
+  },
+  {
+    "keyword": "Google Ads Analytics link",
+    "kind": "Supporting",
+    "page": "link-google-ads-to-google-analytics"
+  },
+  {
+    "keyword": "import GA4 conversions to Google Ads",
+    "kind": "Supporting",
+    "page": "link-google-ads-to-google-analytics"
+  },
+  {
+    "keyword": "Google Ads auto-tagging",
+    "kind": "Supporting",
+    "page": "link-google-ads-to-google-analytics"
+  },
+  {
+    "keyword": "GA4 Google Ads integration",
+    "kind": "Supporting",
+    "page": "link-google-ads-to-google-analytics"
+  },
+  {
+    "keyword": "Search Console platform properties",
+    "kind": "Main",
+    "page": "search-console-platform-properties-social"
+  },
+  {
+    "keyword": "Search Console Instagram",
+    "kind": "Supporting",
+    "page": "search-console-platform-properties-social"
+  },
+  {
+    "keyword": "Search Console TikTok",
+    "kind": "Supporting",
+    "page": "search-console-platform-properties-social"
+  },
+  {
+    "keyword": "Search Console YouTube",
+    "kind": "Supporting",
+    "page": "search-console-platform-properties-social"
+  },
+  {
+    "keyword": "social media in Google Search",
+    "kind": "Supporting",
+    "page": "search-console-platform-properties-social"
+  },
+  {
+    "keyword": "SEO for bubble tea shops",
+    "kind": "Main",
+    "page": "seo-for-bubble-tea-shops"
+  },
+  {
+    "keyword": "boba shop marketing",
+    "kind": "Supporting",
+    "page": "seo-for-bubble-tea-shops"
+  },
+  {
+    "keyword": "bubble tea SEO",
+    "kind": "Supporting",
+    "page": "seo-for-bubble-tea-shops"
+  },
+  {
+    "keyword": "boba shop Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-bubble-tea-shops"
+  },
+  {
+    "keyword": "tea shop marketing",
+    "kind": "Supporting",
+    "page": "seo-for-bubble-tea-shops"
+  },
+  {
+    "keyword": "SEO for business lawyers",
+    "kind": "Main",
+    "page": "seo-for-business-lawyers"
+  },
+  {
+    "keyword": "business attorney marketing",
+    "kind": "Supporting",
+    "page": "seo-for-business-lawyers"
+  },
+  {
+    "keyword": "corporate lawyer SEO",
+    "kind": "Supporting",
+    "page": "seo-for-business-lawyers"
+  },
+  {
+    "keyword": "business law firm leads",
+    "kind": "Supporting",
+    "page": "seo-for-business-lawyers"
+  },
+  {
+    "keyword": "business lawyer Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-business-lawyers"
+  },
+  {
+    "keyword": "SEO for carpenters",
+    "kind": "Main",
+    "page": "seo-for-carpenters"
+  },
+  {
+    "keyword": "carpenter marketing",
+    "kind": "Supporting",
+    "page": "seo-for-carpenters"
+  },
+  {
+    "keyword": "finish carpentry SEO",
+    "kind": "Supporting",
+    "page": "seo-for-carpenters"
+  },
+  {
+    "keyword": "custom carpentry leads",
+    "kind": "Supporting",
+    "page": "seo-for-carpenters"
+  },
+  {
+    "keyword": "carpenter Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-carpenters"
+  },
+  {
+    "keyword": "SEO for drain cleaning",
+    "kind": "Main",
+    "page": "seo-for-drain-cleaning"
+  },
+  {
+    "keyword": "drain cleaning marketing",
+    "kind": "Supporting",
+    "page": "seo-for-drain-cleaning"
+  },
+  {
+    "keyword": "hydro jetting SEO",
+    "kind": "Supporting",
+    "page": "seo-for-drain-cleaning"
+  },
+  {
+    "keyword": "sewer cleaning marketing",
+    "kind": "Supporting",
+    "page": "seo-for-drain-cleaning"
+  },
+  {
+    "keyword": "drain cleaning Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-drain-cleaning"
+  },
+  {
+    "keyword": "SEO for DUI lawyers",
+    "kind": "Main",
+    "page": "seo-for-dui-lawyers"
+  },
+  {
+    "keyword": "DUI lawyer marketing",
+    "kind": "Supporting",
+    "page": "seo-for-dui-lawyers"
+  },
+  {
+    "keyword": "DUI attorney SEO",
+    "kind": "Supporting",
+    "page": "seo-for-dui-lawyers"
+  },
+  {
+    "keyword": "criminal defense marketing",
+    "kind": "Supporting",
+    "page": "seo-for-dui-lawyers"
+  },
+  {
+    "keyword": "DUI lawyer Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-dui-lawyers"
+  },
+  {
+    "keyword": "SEO for employment lawyers",
+    "kind": "Main",
+    "page": "seo-for-employment-lawyers"
+  },
+  {
+    "keyword": "employment attorney marketing",
+    "kind": "Supporting",
+    "page": "seo-for-employment-lawyers"
+  },
+  {
+    "keyword": "employment lawyer SEO",
+    "kind": "Supporting",
+    "page": "seo-for-employment-lawyers"
+  },
+  {
+    "keyword": "wage claim lawyer marketing",
+    "kind": "Supporting",
+    "page": "seo-for-employment-lawyers"
+  },
+  {
+    "keyword": "employment lawyer Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-employment-lawyers"
+  },
+  {
+    "keyword": "SEO for facial spas",
+    "kind": "Main",
+    "page": "seo-for-facial-spas"
+  },
+  {
+    "keyword": "facial spa marketing",
+    "kind": "Supporting",
+    "page": "seo-for-facial-spas"
+  },
+  {
+    "keyword": "esthetician SEO",
+    "kind": "Supporting",
+    "page": "seo-for-facial-spas"
+  },
+  {
+    "keyword": "skin care spa marketing",
+    "kind": "Supporting",
+    "page": "seo-for-facial-spas"
+  },
+  {
+    "keyword": "facial spa Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-facial-spas"
+  },
+  {
+    "keyword": "SEO for home theater installers",
+    "kind": "Main",
+    "page": "seo-for-home-theater-installers"
+  },
+  {
+    "keyword": "TV mounting marketing",
+    "kind": "Supporting",
+    "page": "seo-for-home-theater-installers"
+  },
+  {
+    "keyword": "home theater SEO",
+    "kind": "Supporting",
+    "page": "seo-for-home-theater-installers"
+  },
+  {
+    "keyword": "AV installer marketing",
+    "kind": "Supporting",
+    "page": "seo-for-home-theater-installers"
+  },
+  {
+    "keyword": "home theater Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-home-theater-installers"
+  },
+  {
+    "keyword": "SEO for ice cream shops",
+    "kind": "Main",
+    "page": "seo-for-ice-cream-shops"
+  },
+  {
+    "keyword": "ice cream shop marketing",
+    "kind": "Supporting",
+    "page": "seo-for-ice-cream-shops"
+  },
+  {
+    "keyword": "dessert shop SEO",
+    "kind": "Supporting",
+    "page": "seo-for-ice-cream-shops"
+  },
+  {
+    "keyword": "ice cream shop Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-ice-cream-shops"
+  },
+  {
+    "keyword": "creamery marketing",
+    "kind": "Supporting",
+    "page": "seo-for-ice-cream-shops"
+  },
+  {
+    "keyword": "SEO for insulation contractors",
+    "kind": "Main",
+    "page": "seo-for-insulation-contractors"
+  },
+  {
+    "keyword": "insulation contractor marketing",
+    "kind": "Supporting",
+    "page": "seo-for-insulation-contractors"
+  },
+  {
+    "keyword": "attic insulation SEO",
+    "kind": "Supporting",
+    "page": "seo-for-insulation-contractors"
+  },
+  {
+    "keyword": "insulation company leads",
+    "kind": "Supporting",
+    "page": "seo-for-insulation-contractors"
+  },
+  {
+    "keyword": "insulation Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-insulation-contractors"
+  },
+  {
+    "keyword": "SEO for laser hair removal",
+    "kind": "Main",
+    "page": "seo-for-laser-hair-removal"
+  },
+  {
+    "keyword": "laser hair removal marketing",
+    "kind": "Supporting",
+    "page": "seo-for-laser-hair-removal"
+  },
+  {
+    "keyword": "laser clinic SEO",
+    "kind": "Supporting",
+    "page": "seo-for-laser-hair-removal"
+  },
+  {
+    "keyword": "hair removal leads",
+    "kind": "Supporting",
+    "page": "seo-for-laser-hair-removal"
+  },
+  {
+    "keyword": "laser hair removal Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-laser-hair-removal"
+  },
+  {
+    "keyword": "SEO for lash and brow studios",
+    "kind": "Main",
+    "page": "seo-for-lash-and-brow-studios"
+  },
+  {
+    "keyword": "lash studio marketing",
+    "kind": "Supporting",
+    "page": "seo-for-lash-and-brow-studios"
+  },
+  {
+    "keyword": "lash extension SEO",
+    "kind": "Supporting",
+    "page": "seo-for-lash-and-brow-studios"
+  },
+  {
+    "keyword": "brow bar marketing",
+    "kind": "Supporting",
+    "page": "seo-for-lash-and-brow-studios"
+  },
+  {
+    "keyword": "lash studio Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-lash-and-brow-studios"
+  },
+  {
+    "keyword": "SEO for occupational therapists",
+    "kind": "Main",
+    "page": "seo-for-occupational-therapists"
+  },
+  {
+    "keyword": "occupational therapy marketing",
+    "kind": "Supporting",
+    "page": "seo-for-occupational-therapists"
+  },
+  {
+    "keyword": "pediatric OT SEO",
+    "kind": "Supporting",
+    "page": "seo-for-occupational-therapists"
+  },
+  {
+    "keyword": "OT clinic marketing",
+    "kind": "Supporting",
+    "page": "seo-for-occupational-therapists"
+  },
+  {
+    "keyword": "occupational therapist Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-occupational-therapists"
+  },
+  {
+    "keyword": "SEO for oil change shops",
+    "kind": "Main",
+    "page": "seo-for-oil-change-shops"
+  },
+  {
+    "keyword": "oil change marketing",
+    "kind": "Supporting",
+    "page": "seo-for-oil-change-shops"
+  },
+  {
+    "keyword": "quick lube SEO",
+    "kind": "Supporting",
+    "page": "seo-for-oil-change-shops"
+  },
+  {
+    "keyword": "oil change shop leads",
+    "kind": "Supporting",
+    "page": "seo-for-oil-change-shops"
+  },
+  {
+    "keyword": "oil change Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-oil-change-shops"
+  },
+  {
+    "keyword": "SEO for ophthalmologists",
+    "kind": "Main",
+    "page": "seo-for-ophthalmologists"
+  },
+  {
+    "keyword": "ophthalmology marketing",
+    "kind": "Supporting",
+    "page": "seo-for-ophthalmologists"
+  },
+  {
+    "keyword": "eye surgeon SEO",
+    "kind": "Supporting",
+    "page": "seo-for-ophthalmologists"
+  },
+  {
+    "keyword": "cataract surgery marketing",
+    "kind": "Supporting",
+    "page": "seo-for-ophthalmologists"
+  },
+  {
+    "keyword": "ophthalmologist Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-ophthalmologists"
+  },
+  {
+    "keyword": "SEO for orthopedic surgeons",
+    "kind": "Main",
+    "page": "seo-for-orthopedic-surgeons"
+  },
+  {
+    "keyword": "orthopedic marketing",
+    "kind": "Supporting",
+    "page": "seo-for-orthopedic-surgeons"
+  },
+  {
+    "keyword": "orthopedic surgeon SEO",
+    "kind": "Supporting",
+    "page": "seo-for-orthopedic-surgeons"
+  },
+  {
+    "keyword": "sports medicine marketing",
+    "kind": "Supporting",
+    "page": "seo-for-orthopedic-surgeons"
+  },
+  {
+    "keyword": "orthopedic surgeon Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-orthopedic-surgeons"
+  },
+  {
+    "keyword": "SEO for pool builders",
+    "kind": "Main",
+    "page": "seo-for-pool-builders"
+  },
+  {
+    "keyword": "pool builder marketing",
+    "kind": "Supporting",
+    "page": "seo-for-pool-builders"
+  },
+  {
+    "keyword": "pool contractor SEO",
+    "kind": "Supporting",
+    "page": "seo-for-pool-builders"
+  },
+  {
+    "keyword": "pool company leads",
+    "kind": "Supporting",
+    "page": "seo-for-pool-builders"
+  },
+  {
+    "keyword": "pool builder Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-pool-builders"
+  },
+  {
+    "keyword": "SEO for real estate lawyers",
+    "kind": "Main",
+    "page": "seo-for-real-estate-lawyers"
+  },
+  {
+    "keyword": "real estate attorney marketing",
+    "kind": "Supporting",
+    "page": "seo-for-real-estate-lawyers"
+  },
+  {
+    "keyword": "real estate lawyer SEO",
+    "kind": "Supporting",
+    "page": "seo-for-real-estate-lawyers"
+  },
+  {
+    "keyword": "landlord attorney marketing",
+    "kind": "Supporting",
+    "page": "seo-for-real-estate-lawyers"
+  },
+  {
+    "keyword": "real estate lawyer Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-real-estate-lawyers"
+  },
+  {
+    "keyword": "SEO for tanning salons",
+    "kind": "Main",
+    "page": "seo-for-tanning-salons"
+  },
+  {
+    "keyword": "tanning salon marketing",
+    "kind": "Supporting",
+    "page": "seo-for-tanning-salons"
+  },
+  {
+    "keyword": "spray tan SEO",
+    "kind": "Supporting",
+    "page": "seo-for-tanning-salons"
+  },
+  {
+    "keyword": "tanning business leads",
+    "kind": "Supporting",
+    "page": "seo-for-tanning-salons"
+  },
+  {
+    "keyword": "spray tan Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-tanning-salons"
+  },
+  {
+    "keyword": "SEO for transmission shops",
+    "kind": "Main",
+    "page": "seo-for-transmission-shops"
+  },
+  {
+    "keyword": "transmission shop marketing",
+    "kind": "Supporting",
+    "page": "seo-for-transmission-shops"
+  },
+  {
+    "keyword": "transmission repair SEO",
+    "kind": "Supporting",
+    "page": "seo-for-transmission-shops"
+  },
+  {
+    "keyword": "transmission rebuild leads",
+    "kind": "Supporting",
+    "page": "seo-for-transmission-shops"
+  },
+  {
+    "keyword": "transmission repair Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-transmission-shops"
+  },
+  {
     "keyword": "ads in AI Mode",
     "kind": "Main",
     "page": "ads-in-ai-mode-local-business"
@@ -875,11 +1745,6 @@
     "page": "seo-for-window-tinting"
   },
   {
-    "keyword": "Gemini 4 Hydrogen",
-    "kind": "Main",
-    "page": "gemini-4-hydrogen-google-search-upgrade"
-  },
-  {
     "keyword": "Gemini 4 Hydrogen Search",
     "kind": "Supporting",
     "page": "gemini-4-hydrogen-google-search-upgrade"
@@ -1223,6 +2088,31 @@
     "keyword": "Google Business Profile edits",
     "kind": "Supporting",
     "page": "how-to-edit-google-business-profile"
+  },
+  {
+    "keyword": "moving to a CDN",
+    "kind": "Main",
+    "page": "moving-to-a-cdn-googlebot-crawling"
+  },
+  {
+    "keyword": "CDN Googlebot",
+    "kind": "Supporting",
+    "page": "moving-to-a-cdn-googlebot-crawling"
+  },
+  {
+    "keyword": "CDN crawl rate",
+    "kind": "Supporting",
+    "page": "moving-to-a-cdn-googlebot-crawling"
+  },
+  {
+    "keyword": "bot protection blocking Googlebot",
+    "kind": "Supporting",
+    "page": "moving-to-a-cdn-googlebot-crawling"
+  },
+  {
+    "keyword": "CDN migration SEO",
+    "kind": "Supporting",
+    "page": "moving-to-a-cdn-googlebot-crawling"
   },
   {
     "keyword": "SEO for acupuncturists",
@@ -1723,31 +2613,6 @@
     "keyword": "towing Orange County",
     "kind": "Supporting",
     "page": "seo-for-towing-companies"
-  },
-  {
-    "keyword": "moving to a CDN",
-    "kind": "Main",
-    "page": "moving-to-a-cdn-googlebot-crawling"
-  },
-  {
-    "keyword": "CDN Googlebot",
-    "kind": "Supporting",
-    "page": "moving-to-a-cdn-googlebot-crawling"
-  },
-  {
-    "keyword": "CDN crawl rate",
-    "kind": "Supporting",
-    "page": "moving-to-a-cdn-googlebot-crawling"
-  },
-  {
-    "keyword": "bot protection blocking Googlebot",
-    "kind": "Supporting",
-    "page": "moving-to-a-cdn-googlebot-crawling"
-  },
-  {
-    "keyword": "CDN migration SEO",
-    "kind": "Supporting",
-    "page": "moving-to-a-cdn-googlebot-crawling"
   },
   {
     "keyword": "Businesses in ChatGPT",
@@ -2252,11 +3117,6 @@
   {
     "keyword": "SEO for criminal defense lawyers",
     "kind": "Main",
-    "page": "seo-for-criminal-defense-lawyers"
-  },
-  {
-    "keyword": "criminal defense marketing",
-    "kind": "Supporting",
     "page": "seo-for-criminal-defense-lawyers"
   },
   {

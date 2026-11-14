@@ -1,0 +1,232 @@
+{
+  "query": "ga4 data retention",
+  "slug": "google-analytics-4-data-retention",
+  "eyebrow": "Google Analytics",
+  "primary_keyword": "GA4 data retention",
+  "secondary_keywords": [
+    "Google Analytics data retention",
+    "GA4 14 months",
+    "GA4 explorations data",
+    "GA4 retention settings"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "GA4 Data Retention: Change It to 14 Months",
+    "meta_description": "What GA4 data retention controls, why the default affects explorations, and how Anaheim and Orange County businesses should set it for year-over-year analysis."
+  },
+  "h1": "GA4 Data Retention: What It Controls and How to Set It",
+  "answer": "GA4 data retention sets how long Google Analytics keeps user-level and event-level data before deleting it. For standard properties, you can choose 2 or 14 months. It doesn't affect standard aggregated reports, but it limits explorations and funnel reports. Anaheim and Orange County businesses usually choose 14 months to compare a season with the same season last year.",
+  "key_takeaways": [
+    "Standard properties: 2 or 14 months.",
+    "Doesn't affect standard aggregated reports.",
+    "Limits explorations and funnel reports.",
+    "Changes take effect after 24 hours.",
+    "Age, gender and interest data are kept 2 months."
+  ],
+  "sections": [
+    {
+      "heading": "What retention controls",
+      "body_html": "<p>Google's help page says the data retention controls set how long user-level and event-level data stored by Google Analytics is kept before it's automatically deleted. This includes data linked to cookies, user identifiers and advertising identifiers.</p>"
+    },
+    {
+      "heading": "Your options",
+      "body_html": "<p>For standard Google Analytics properties, Google says you can set the retention of user-level data, including key events data, to 2 months or 14 months. For other event data, 2 or 14 months are available, with longer periods of 26, 38 and 50 months only on Analytics 360.</p>"
+    },
+    {
+      "heading": "What it affects",
+      "body_html": "<p>Google says the setting doesn't affect standard aggregated reports, including comparisons. It only affects explorations and funnel reports. If you want to explore detailed data over a longer period, a short retention setting will cut it off.</p>"
+    },
+    {
+      "heading": "Why 14 months suits most businesses",
+      "body_html": "<p>With 14 months, you can explore this year's busy season against last year's in explorations. For seasonal businesses in Orange County, such as HVAC, pool services or tax preparers, that comparison matters.</p>"
+    },
+    {
+      "heading": "Fixed limits",
+      "body_html": "<p>Google notes that the two-month period always applies to age, gender and interest data, whatever your settings, and that Google-signals data is kept for at most 26 months. Large and XL properties are limited to 2 months.</p>"
+    },
+    {
+      "heading": "Changing the setting",
+      "body_html": "<p>Google says Analytics waits 24 hours before applying a change, and you can revert during that time without affecting data. If you increase retention, it applies to data you've already collected and not yet deleted. If you reduce it, affected data is deleted in the next monthly process.</p>"
+    },
+    {
+      "heading": "Google Ads data",
+      "body_html": "<p>Google says Google Ads data in Analytics is limited to a rolling 36-month window, and reports with longer date ranges show a banner and a data quality indicator.</p>"
+    },
+    {
+      "heading": "Where to change it",
+      "body_html": "<p>In GA4 Admin, look under Data collection and modification for Data retention, then choose the period and save. You need the right permissions on the property.</p>"
+    },
+    {
+      "heading": "Privacy considerations",
+      "body_html": "<p>Longer retention means keeping data longer. Make sure your privacy policy reflects how you use Analytics and how long data is kept, and follow the rules that apply to your business.</p>"
+    },
+    {
+      "heading": "Common mistakes",
+      "body_html": "<ul><li>Leaving the default without checking it.</li><li>Expecting retention to change standard reports.</li><li>Reducing retention by mistake and losing exploration data.</li><li>Forgetting to update the privacy policy.</li><li>Assuming 360-only periods are available on standard properties.</li></ul>"
+    },
+    {
+      "heading": "Questions owners ask us",
+      "body_html": "<p>Owners often ask whether a 2-month setting means they lose all their history. It doesn't: standard reports, such as Traffic acquisition and pages, keep aggregated data regardless of retention. What you lose is the ability to build detailed explorations and funnel reports over older periods. Another common question is whether to change the setting on an old property. Yes, if it's set to 2 months and you want longer explorations; increasing retention applies to data not yet deleted. Owners also ask whether they need Analytics 360 for longer retention. Most small businesses don't; 14 months is enough for year-over-year comparisons, and standard reports cover longer trends.</p>"
+    },
+    {
+      "heading": "Checklist",
+      "body_html": "<ul><li>Retention setting checked.</li><li>Set to 14 months if suitable.</li><li>Privacy policy reviewed.</li><li>Change confirmed after 24 hours.</li></ul>"
+    },
+    {
+      "heading": "An example",
+      "body_html": "<p>Imagine a pool service company in Mission Viejo whose Analytics property was set to 2 months. In June, the owner wants to explore which pages led to quote requests last summer but finds no data in explorations. The company changes retention to 14 months so next summer it can compare with this one.</p>"
+    },
+    {
+      "heading": "How this fits your local plan",
+      "body_html": "<p>This task is one piece of a wider local plan. Google says local results are mainly based on relevance, distance and popularity, so the profile, your website and your reputation all have to agree. A practical order for most Orange County businesses is: get the Business Profile verified and accurate, make the <a href=\"https://thechimeraai.com/nap-consistency-local-citations/\">name, address and phone</a> identical everywhere, publish one clear page per service, then build a steady habit of <a href=\"https://thechimeraai.com/how-to-get-more-google-reviews/\">genuine reviews</a> and replies. Each step makes the next one work better, and the same signals help AI assistants such as <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a>, <a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a> and Google's AI features describe your business correctly when someone in Anaheim asks for a recommendation.</p>"
+    },
+    {
+      "heading": "What to do this week",
+      "body_html": "<ol><li>Open Data retention in Admin.</li><li>Check the current setting.</li><li>Choose 14 months if suitable.</li><li>Review your privacy policy.</li></ol>"
+    },
+    {
+      "heading": "When to get help",
+      "body_html": "<p>Most of this can be done in-house with an hour or two and careful reading of Google's own help pages. It is worth bringing in help when the stakes are high or the problem keeps coming back: a profile that has been suspended more than once, many locations to manage, a site that keeps failing the same checks, or no time to keep up the routine. A good local SEO partner should explain what they will change and why, point to Google's guidelines rather than promise rankings, and leave you with access to every account. <a href=\"https://thechimeraai.com/\">Chimera</a> works this way with businesses across Anaheim and Orange County.</p>"
+    },
+    {
+      "heading": "A first-week settings checklist",
+      "body_html": "<p>Data retention is one of several settings worth checking in the first week of any Analytics property, because some only affect data collected afterwards. Confirm the reporting time zone is Pacific time for an Orange County business and the currency is right. Set data retention to 14 months. Turn on enhanced measurement and test it. Mark your main lead actions as key events. Define internal traffic so staff visits can be filtered. Link <a href=\"https://thechimeraai.com/blog/search-console-generative-ai-performance-report/\">Search Console</a> and Google Ads if you use them. Add at least two business-controlled Administrators and give agencies narrower roles. Doing these things on day one costs an hour; discovering a year later that a setting was wrong costs a year of comparable data. Write the settings down in a short document so anyone who works on the property later knows how it was configured and why, and review the list once a year to make sure nothing has drifted, especially after a website redesign or a change of agency.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Check your retention setting, choose 14 months for year-over-year explorations, and remember standard reports aren't affected. Chimera, based in Anaheim, checks retention in every Analytics setup for Orange County businesses.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is GA4 data retention?",
+      "a": "How long user-level and event-level data is kept before automatic deletion."
+    },
+    {
+      "q": "What are the options for standard properties?",
+      "a": "2 or 14 months."
+    },
+    {
+      "q": "Does retention affect standard reports?",
+      "a": "No. Google says it only affects explorations and funnel reports."
+    },
+    {
+      "q": "When does a change take effect?",
+      "a": "After 24 hours, and you can revert during that time."
+    },
+    {
+      "q": "Does increasing retention restore deleted data?",
+      "a": "No. It applies to data not yet deleted."
+    },
+    {
+      "q": "How long is Google Ads data kept in GA4?",
+      "a": "A rolling 36-month window."
+    },
+    {
+      "q": "Do you help businesses in Anaheim and Orange County with this?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "how to set up Google Analytics 4",
+      "url": "https://thechimeraai.com/how-to-set-up-google-analytics-4/"
+    },
+    {
+      "anchor": "GA4 users and permissions",
+      "url": "https://thechimeraai.com/google-analytics-4-users-and-permissions/"
+    },
+    {
+      "anchor": "GA4 Traffic acquisition report",
+      "url": "https://thechimeraai.com/google-analytics-4-traffic-acquisition-report/"
+    },
+    {
+      "anchor": "local SEO checklist",
+      "url": "https://thechimeraai.com/local-seo-checklist/"
+    },
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Link Google Ads to Google Analytics",
+      "url": "https://thechimeraai.com/link-google-ads-to-google-analytics/"
+    },
+    {
+      "anchor": "How to Track AI Traffic in Google Analytics 4 (Step by Step)",
+      "url": "https://thechimeraai.com/how-to-track-ai-traffic-in-google-analytics/"
+    },
+    {
+      "anchor": "GA4 key events",
+      "url": "https://thechimeraai.com/google-analytics-4-key-events/"
+    },
+    {
+      "anchor": "GA4 enhanced measurement",
+      "url": "https://thechimeraai.com/google-analytics-4-enhanced-measurement/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Analytics Help: Data retention",
+      "url": "https://support.google.com/analytics/answer/7667196?hl=en"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 2,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "Setting data retention",
+      "lead": "From Google's help page.",
+      "steps": [
+        {
+          "title": "Admin",
+          "text": "Data retention."
+        },
+        {
+          "title": "Choose",
+          "text": "2 or 14 months."
+        },
+        {
+          "title": "Wait",
+          "text": "Applied after 24 hours."
+        },
+        {
+          "title": "Explore",
+          "text": "Longer explorations."
+        }
+      ]
+    }
+  ],
+  "hero_query": "Why can't I explore last year's data in Google Analytics?",
+  "short_title": "GA4 data retention",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 2109,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/google-analytics-4-data-retention-chimera.jpg",
+    "alt": "GA4 Data Retention: Change It to 14 Months: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-14",
+  "updated": "2026-11-14"
+}

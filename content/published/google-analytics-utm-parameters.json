@@ -1,0 +1,236 @@
+{
+  "query": "utm parameters google analytics",
+  "slug": "google-analytics-utm-parameters",
+  "eyebrow": "Google Analytics",
+  "primary_keyword": "UTM parameters in Google Analytics",
+  "secondary_keywords": [
+    "UTM tracking",
+    "campaign URL builder",
+    "utm_source utm_medium",
+    "track email clicks Google Analytics"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "UTM Parameters in Google Analytics: A Guide",
+    "meta_description": "How to add UTM parameters to links so Google Analytics shows which emails, social posts and Business Profile links bring Orange County customers."
+  },
+  "h1": "UTM Parameters in Google Analytics: Track Every Campaign Link",
+  "answer": "UTM parameters are tags you add to the end of a link, such as utm_source, utm_medium and utm_campaign, so Google Analytics can show which email, social post or ad brought each visitor. Google says you should always use those three, and the values appear in the Traffic acquisition report. Anaheim and Orange County businesses can use them to measure every campaign link.",
+  "key_takeaways": [
+    "Always use utm_source, utm_medium and utm_campaign.",
+    "Values show in the Traffic acquisition report.",
+    "Values are case-sensitive.",
+    "Use lowercase and consistent names.",
+    "Auto-tagging handles Google Ads; UTMs handle the rest."
+  ],
+  "sections": [
+    {
+      "heading": "What UTM parameters do",
+      "body_html": "<p>Google's help page explains that adding UTM campaign parameters to the links you use in referral links and campaigns lets you see which campaigns refer traffic. When someone clicks a tagged link, the values are sent to Analytics and appear in the <a href=\"https://thechimeraai.com/google-analytics-4-traffic-acquisition-report/\">Traffic acquisition report</a>.</p>"
+    },
+    {
+      "heading": "The parameters",
+      "body_html": "<table><tr><th>Parameter</th><th>What it identifies</th><th>Example</th></tr><tr><td>utm_source</td><td>The referrer</td><td>newsletter, facebook</td></tr><tr><td>utm_medium</td><td>The marketing medium</td><td>email, cpc, social</td></tr><tr><td>utm_campaign</td><td>The campaign or promotion</td><td>spring_sale</td></tr><tr><td>utm_content</td><td>Which creative or link</td><td>header_button</td></tr><tr><td>utm_term</td><td>Paid keyword</td><td>roof repair</td></tr><tr><td>utm_id</td><td>Campaign ID</td><td>an internal ID</td></tr></table><p>Source: <a href=\"https://thechimeraai.com/how-to-track-ai-traffic-in-google-analytics/\">Google Analytics</a> Help.</p>"
+    },
+    {
+      "heading": "Always use the core three",
+      "body_html": "<p>Google says that when you add parameters to a URL, you should always use utm_source, utm_medium and utm_campaign. Its example for a summer email: utm_source=summer-mailer, utm_medium=email and utm_campaign=summer-sale.</p>"
+    },
+    {
+      "heading": "Consistency matters",
+      "body_html": "<p>Google's best practices say to use one unique source per platform, one medium per channel and one name per campaign. It stresses that values are case-sensitive, so Meta and meta are treated as different values, and recommends lowercase as a standard.</p>"
+    },
+    {
+      "heading": "Use a URL builder",
+      "body_html": "<p>Google provides URL builders that add the parameters for you, which reduces typos. Many ad platforms also support dynamic parameters that fill in values automatically.</p>"
+    },
+    {
+      "heading": "Where to see the data",
+      "body_html": "<p>Tagged visits appear in the Traffic acquisition report under Session source, Session medium and Session campaign. Google notes UTM parameters are omitted from the Landing page + query string and Page path + query string dimensions, and appear in Page location instead.</p>"
+    },
+    {
+      "heading": "Links local businesses should tag",
+      "body_html": "<ul><li>The website link on your <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a>, for example utm_source=google, utm_medium=organic, utm_campaign=gbp.</li><li>Links in email newsletters.</li><li>Links in social media posts and bios.</li><li>QR codes on flyers, vehicles and signage.</li><li>Links in partner directories you control.</li></ul>"
+    },
+    {
+      "heading": "Google Ads uses auto-tagging",
+      "body_html": "<p>Google says traffic-source data can come from manual tagging or from integrations such as Google Ads with auto-tagging. If you link Google Ads, you don't need to add UTMs to those ads.</p>"
+    },
+    {
+      "heading": "Don't tag internal links",
+      "body_html": "<p>Use UTMs only on links that bring people to your site from elsewhere. Tagging links between your own pages starts new attribution and muddles reports.</p>"
+    },
+    {
+      "heading": "Common mistakes",
+      "body_html": "<ul><li>Mixing capital and lowercase letters.</li><li>Using different names for the same source.</li><li>Tagging <a href=\"https://thechimeraai.com/internal-linking-for-ai-search/\">internal links</a>.</li><li>Leaving utm_medium off.</li><li>Forgetting to tag QR codes on print materials.</li></ul>"
+    },
+    {
+      "heading": "A simple naming sheet",
+      "body_html": "<p>Create a one-page sheet that lists the exact values your business uses and share it with anyone who creates links. For example: sources such as google, facebook, instagram, newsletter, flyer and yelp; mediums such as organic, social, email, print and referral; and campaign names made of the season or offer plus the year, all in lowercase with hyphens or underscores. Add a column for the full tagged URL and the date it was created. When someone needs a new link, they copy the pattern instead of inventing names. For an Orange County business running seasonal promotions, community events and printed mailers, this simple sheet is the difference between a clean report that shows which promotion worked and a list of near-duplicate rows nobody can read.</p>"
+    },
+    {
+      "heading": "Checklist",
+      "body_html": "<ul><li>Naming sheet created.</li><li>Business Profile link tagged.</li><li>Email links tagged.</li><li>Social links tagged.</li><li>QR codes tagged.</li><li>Lowercase used everywhere.</li></ul>"
+    },
+    {
+      "heading": "An example",
+      "body_html": "<p>Imagine a bakery in Orange that sends a monthly newsletter, posts on Instagram and hands out flyers with a QR code. It tags each link with its own source and medium and a shared campaign name for the holiday pre-order promotion. In Traffic acquisition, the bakery sees that the newsletter brings the most pre-orders, while the flyer QR code brings few, so it changes the flyer design.</p>"
+    },
+    {
+      "heading": "How this fits your local plan",
+      "body_html": "<p>It helps to see where this sits in the bigger picture. Google ranks local results mainly on relevance, distance and popularity, and AI assistants lean on the same public information: your Business Profile, your website, other listings and what customers write. For a business in Anaheim or anywhere in Orange County, the most reliable plan is simple and repeated: keep every listing accurate, explain each service clearly on its own page, show real proof of your work and reply to customers. Small improvements here compound, and they are far harder for competitors to copy than an ad budget.</p>"
+    },
+    {
+      "heading": "What to do this week",
+      "body_html": "<ol><li>Write your naming sheet.</li><li>Tag your Business Profile website link.</li><li>Tag your next email.</li><li>Check Traffic acquisition next week.</li></ol>"
+    },
+    {
+      "heading": "When to get help",
+      "body_html": "<p>Plenty of owners handle this themselves. Outside help pays off when time is short, when the business has many locations or when a problem is costing calls every day it stays unresolved. Be wary of anyone who promises guaranteed positions or asks for your verification codes or passwords; Google says nobody can pay for a better local ranking. Look for clear explanations, honest timelines and reporting tied to real enquiries. <a href=\"https://thechimeraai.com/\">Chimera</a> offers exactly that to businesses in Anaheim and across Orange County.</p>"
+    },
+    {
+      "heading": "Where Orange County businesses lose attribution",
+      "body_html": "<p>The biggest gaps we see come from links nobody thinks of as marketing. The website button on a Google Business Profile is often the busiest source of local visits, yet untagged it blends into organic search. Links in email signatures, text-message reminders, PDF quotes and invoices, printed flyers, vehicle wraps and event banners usually arrive as Direct traffic unless tagged, often through a QR code. Directory listings you control, such as Yelp or industry directories, can carry tagged links too. Go through every place your website address appears, decide which ones you can tag and add them to your naming sheet. Even tagging the five busiest sources makes reports far easier to trust, and it shows which offline marketing in Anaheim and across Orange County actually drives visits. Review the list whenever you print new materials or add a new listing, so new links are tagged from the start.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Tag every outside link you control with utm_source, utm_medium and utm_campaign in lowercase, keep a naming sheet and read the results in Traffic acquisition. Chimera, based in Anaheim, sets up consistent tagging for Orange County businesses.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What are UTM parameters?",
+      "a": "Tags added to a link so Google Analytics can identify the source, medium and campaign."
+    },
+    {
+      "q": "Which UTM parameters are required?",
+      "a": "Google says always use utm_source, utm_medium and utm_campaign."
+    },
+    {
+      "q": "Are UTM values case-sensitive?",
+      "a": "Yes. Google recommends using lowercase."
+    },
+    {
+      "q": "Where do I see UTM data?",
+      "a": "In the Traffic acquisition report."
+    },
+    {
+      "q": "Do I need UTMs for Google Ads?",
+      "a": "Not if Google Ads is linked with auto-tagging."
+    },
+    {
+      "q": "Should I tag my Google Business Profile link?",
+      "a": "Yes, so profile visits are easy to identify."
+    },
+    {
+      "q": "Do you help businesses in Anaheim and Orange County with this?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "GA4 Traffic acquisition report",
+      "url": "https://thechimeraai.com/google-analytics-4-traffic-acquisition-report/"
+    },
+    {
+      "anchor": "how to set up Google Analytics 4",
+      "url": "https://thechimeraai.com/how-to-set-up-google-analytics-4/"
+    },
+    {
+      "anchor": "GA4 key events",
+      "url": "https://thechimeraai.com/google-analytics-4-key-events/"
+    },
+    {
+      "anchor": "Google Business Profile performance insights",
+      "url": "https://thechimeraai.com/google-business-profile-performance/"
+    },
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "GA4 enhanced measurement",
+      "url": "https://thechimeraai.com/google-analytics-4-enhanced-measurement/"
+    },
+    {
+      "anchor": "Link Google Ads to Google Analytics",
+      "url": "https://thechimeraai.com/link-google-ads-to-google-analytics/"
+    },
+    {
+      "anchor": "GA4 lead generation events",
+      "url": "https://thechimeraai.com/google-analytics-4-lead-generation-events/"
+    },
+    {
+      "anchor": "GA4 Realtime report",
+      "url": "https://thechimeraai.com/google-analytics-4-realtime-report/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Analytics Help: URL builders: Collect campaign data with custom URLs",
+      "url": "https://support.google.com/analytics/answer/10917952?hl=en"
+    },
+    {
+      "title": "Google Analytics Help: [GA4] Traffic acquisition report",
+      "url": "https://support.google.com/analytics/answer/12923437?hl=en"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 2,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "Tagging a link",
+      "lead": "From Google's help page.",
+      "steps": [
+        {
+          "title": "Source",
+          "text": "Where the click comes from."
+        },
+        {
+          "title": "Medium",
+          "text": "The channel."
+        },
+        {
+          "title": "Campaign",
+          "text": "The promotion."
+        },
+        {
+          "title": "Report",
+          "text": "Traffic acquisition."
+        }
+      ]
+    }
+  ],
+  "hero_query": "How do I see which of my marketing links bring customers?",
+  "short_title": "UTM parameters in Google Analytics",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 2116,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/google-analytics-utm-parameters-chimera.jpg",
+    "alt": "UTM Parameters in Google Analytics: A Guide: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-14",
+  "updated": "2026-11-14"
+}

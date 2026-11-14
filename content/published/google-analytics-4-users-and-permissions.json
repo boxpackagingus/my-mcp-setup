@@ -1,0 +1,232 @@
+{
+  "query": "ga4 users and permissions",
+  "slug": "google-analytics-4-users-and-permissions",
+  "eyebrow": "Google Analytics",
+  "primary_keyword": "GA4 users and permissions",
+  "secondary_keywords": [
+    "add user Google Analytics",
+    "GA4 admin access",
+    "Google Analytics agency access",
+    "GA4 roles"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "GA4 Users and Permissions: Who Gets Access",
+    "meta_description": "How to add users to Google Analytics 4, choose roles at account or property level and remove access safely, for Anaheim and Orange County businesses."
+  },
+  "h1": "GA4 Users and Permissions: Give the Right People the Right Access",
+  "answer": "GA4 users and permissions control who can see and change your Google Analytics data. You add users by Google Account email at the account or property level, and choose roles such as Administrator, Editor, Marketer, Analyst or Viewer. Only Administrators can manage users. Anaheim and Orange County businesses should keep administrator access in-house and give agencies only what they need.",
+  "key_takeaways": [
+    "Add users at account or property level.",
+    "Users are identified by Google Account email.",
+    "Administrators manage users.",
+    "Account-level access applies to every property.",
+    "The last Administrator can't delete themselves."
+  ],
+  "sections": [
+    {
+      "heading": "Why access matters",
+      "body_html": "<p>Analytics data shows how your business performs online. Giving each person their own access, with the lowest role they need, protects that data and lets you remove access cleanly when people leave.</p>"
+    },
+    {
+      "heading": "Account vs property level",
+      "body_html": "<p>Google's help page says the level at which you add a user determines their initial access. A user added at the account level has access to all properties in that account with the same permissions; a user added at the property level only has access to that property.</p>"
+    },
+    {
+      "heading": "Who can manage users",
+      "body_html": "<p>Google says you need the Administrator role at the account or property level to add or modify users or user groups. To delete users, you need Administrator at the account level, and users can only be deleted at the account level. As a safety measure, the last Administrator can't delete themselves.</p>"
+    },
+    {
+      "heading": "How to add a user",
+      "body_html": "<ol><li>In Admin, under Account or Property, click Access Management.</li><li>Click the plus icon, then Add users.</li><li>Enter the person's Google Account or Google Workspace email.</li><li>Optionally select Notify new users by email.</li><li>Choose permissions and click Add.</li></ol>"
+    },
+    {
+      "heading": "Choosing roles",
+      "body_html": "<ul><li>Administrator: full control, including users; keep this in the business.</li><li>Editor: can change settings and configuration.</li><li>Marketer: can work with <a href=\"https://thechimeraai.com/google-analytics-4-key-events/\">key events</a> and audiences.</li><li>Analyst or Viewer: for people who only need to read reports.</li></ul>"
+    },
+    {
+      "heading": "Permissions follow the hierarchy",
+      "body_html": "<p>Google explains you can give a user more permissions as you move down from account to property, but not fewer. A user with Editor at the account level is an Editor on every property, and that can't be reduced at property level.</p>"
+    },
+    {
+      "heading": "Google Accounts only",
+      "body_html": "<p>Users must have email addresses registered as Google Accounts. The email and password become their Analytics login, so each person should use their own.</p>"
+    },
+    {
+      "heading": "User groups",
+      "body_html": "<p>Google lets you create user groups to manage access for several people at once, which helps larger teams or agencies with many staff.</p>"
+    },
+    {
+      "heading": "Agencies and freelancers",
+      "body_html": "<p>Give agencies Editor or Marketer access at the property level for the property they work on, and keep at least two Administrators inside the business so access never depends on one person.</p>"
+    },
+    {
+      "heading": "Common mistakes",
+      "body_html": "<ul><li>An agency or developer as the only Administrator.</li><li>Sharing one login between staff.</li><li>Adding everyone at the account level.</li><li>Leaving former staff with access.</li><li>Giving Administrator to people who only read reports.</li></ul>"
+    },
+    {
+      "heading": "A quarterly access check",
+      "body_html": "<p>Every three months, open Access Management at both the account and property level and read down the list. Remove anyone who has left, lower roles for people who only read reports and confirm at least two Administrators are business-controlled accounts. Do the same review for <a href=\"https://thechimeraai.com/blog/search-console-generative-ai-performance-report/\">Search Console</a>, <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a>, Google Ads and your website admin at the same time, so access stays consistent. Keep a short record of who has which role and why. When you hire an agency, put in writing that the business keeps Administrator access and that the agency's access ends when the work ends. For Orange County businesses that have changed web designers or marketing providers over the years, this routine prevents the common situation where nobody in the business can open its own analytics.</p>"
+    },
+    {
+      "heading": "Checklist",
+      "body_html": "<ul><li>Two business Administrators.</li><li>Agency added at property level.</li><li>Read-only staff as Viewers.</li><li>Former staff removed.</li><li>Quarterly review scheduled.</li></ul>"
+    },
+    {
+      "heading": "An example",
+      "body_html": "<p>Imagine a dental practice in <a href=\"https://thechimeraai.com/seo-irvine/\">Irvine</a> whose website company created its Analytics account and is the only Administrator. The practice asks the company to add the office manager and owner as Administrators, then changes the website company's role to Editor on the property. When the practice later switches web providers, it removes the old company's access in minutes.</p>"
+    },
+    {
+      "heading": "How this fits your local plan",
+      "body_html": "<p>Treat this as part of a routine rather than a one-off fix. Local visibility in Anaheim and the rest of Orange County comes from many small, accurate signals adding up: a verified profile, <a href=\"https://thechimeraai.com/nap-consistency-local-citations/\">consistent listings</a>, useful service pages, real photos and a flow of honest reviews. Google is open that relevance, distance and popularity drive local results. You cannot change distance, but you can make sure Google and AI assistants understand exactly what you do and see evidence that customers value it. Put a monthly reminder in the calendar to check the profile, read new reviews and update anything that has changed.</p>"
+    },
+    {
+      "heading": "What to do this week",
+      "body_html": "<ol><li>Open Access Management.</li><li>Check who is an Administrator.</li><li>Add a second business Administrator.</li><li>Remove access no longer needed.</li></ol>"
+    },
+    {
+      "heading": "When to get help",
+      "body_html": "<p>You do not need an agency for every step here; Google documents most of it clearly. Consider outside help when the work is urgent and unfamiliar, when you manage several locations, or when the same issue returns after you fix it. Ask any provider to show you the specific guideline or documentation behind each recommendation, to keep you as the owner of your accounts and to report results in calls, bookings and leads rather than vanity numbers. That is how <a href=\"https://thechimeraai.com/\">Chimera</a> works with Orange County businesses from our base in Anaheim.</p>"
+    },
+    {
+      "heading": "Taking back control of an old account",
+      "body_html": "<p>Many businesses find that a former designer, agency or employee created their Analytics account and still controls it. If that person still has Administrator access, ask them to add a business-controlled Google Account as an Administrator, then lower or remove their access. If they won't respond, Analytics access depends on the account holder, so you may need to contact them in writing or, as a last resort, create a new property and accept that history stays in the old one. Prevention is far easier: when anyone sets up Analytics for you, make sure the account is created with or immediately shared to a business account you control. The same applies to Search Console, Google Business Profile and Google Ads, so check them all at once.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Keep Administrator access in the business, add others at the property level with the lowest role they need, and review access quarterly. Chimera, based in Anaheim, works on Orange County clients' Analytics as an Editor, never as sole Administrator.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I add a user to Google Analytics?",
+      "a": "In Admin, Access Management, click the plus icon, Add users, enter their email and choose roles."
+    },
+    {
+      "q": "Who can add users?",
+      "a": "Users with the Administrator role at the account or property level."
+    },
+    {
+      "q": "What's the difference between account and property access?",
+      "a": "Account access applies to all properties; property access applies to one."
+    },
+    {
+      "q": "Can I give someone less access on a property than on the account?",
+      "a": "No. Google says permissions can only increase as you move down."
+    },
+    {
+      "q": "Can the last Administrator remove themselves?",
+      "a": "No. Google prevents it as a safety measure."
+    },
+    {
+      "q": "What role should my agency have?",
+      "a": "Usually Editor or Marketer on the property, not Administrator."
+    },
+    {
+      "q": "Do you help businesses in Anaheim and Orange County with this?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "how to set up Google Analytics 4",
+      "url": "https://thechimeraai.com/how-to-set-up-google-analytics-4/"
+    },
+    {
+      "anchor": "Search Console users and permissions",
+      "url": "https://thechimeraai.com/google-search-console-users-and-permissions/"
+    },
+    {
+      "anchor": "GA4 data retention",
+      "url": "https://thechimeraai.com/google-analytics-4-data-retention/"
+    },
+    {
+      "anchor": "local SEO checklist",
+      "url": "https://thechimeraai.com/local-seo-checklist/"
+    },
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "GA4 Realtime report",
+      "url": "https://thechimeraai.com/google-analytics-4-realtime-report/"
+    },
+    {
+      "anchor": "Link Google Ads to Google Analytics",
+      "url": "https://thechimeraai.com/link-google-ads-to-google-analytics/"
+    },
+    {
+      "anchor": "How to Track AI Traffic in Google Analytics 4 (Step by Step)",
+      "url": "https://thechimeraai.com/how-to-track-ai-traffic-in-google-analytics/"
+    },
+    {
+      "anchor": "GA4 Traffic acquisition report",
+      "url": "https://thechimeraai.com/google-analytics-4-traffic-acquisition-report/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Analytics Help: Add, edit, and delete Analytics users and user groups",
+      "url": "https://support.google.com/analytics/answer/9305788?hl=en"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 4,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "Adding a user",
+      "lead": "From Google's help page.",
+      "steps": [
+        {
+          "title": "Admin",
+          "text": "Access Management."
+        },
+        {
+          "title": "Add",
+          "text": "Plus icon, Add users."
+        },
+        {
+          "title": "Email",
+          "text": "Their Google Account."
+        },
+        {
+          "title": "Role",
+          "text": "Lowest role they need."
+        }
+      ]
+    }
+  ],
+  "hero_query": "How do I give my marketing agency access to Google Analytics?",
+  "short_title": "GA4 users and permissions",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 2115,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/google-analytics-4-users-and-permissions-chimera.jpg",
+    "alt": "GA4 Users and Permissions: Who Gets Access: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-14",
+  "updated": "2026-11-14"
+}

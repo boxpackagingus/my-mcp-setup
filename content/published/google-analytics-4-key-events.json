@@ -1,0 +1,232 @@
+{
+  "query": "ga4 key events",
+  "slug": "google-analytics-4-key-events",
+  "eyebrow": "Google Analytics",
+  "primary_keyword": "GA4 key events",
+  "secondary_keywords": [
+    "GA4 conversions",
+    "mark event as key event",
+    "track form submissions GA4",
+    "GA4 lead tracking"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "GA4 Key Events: Track Leads That Matter",
+    "meta_description": "How Anaheim and Orange County businesses can mark form submissions, calls and bookings as GA4 key events and use them for reporting and Google Ads."
+  },
+  "h1": "GA4 Key Events: How to Measure the Leads That Matter",
+  "answer": "GA4 key events are the actions that matter most to your business, such as a quote request, a booking or a call click, marked as key events in Google Analytics. You can mark up to 30 per standard property, and they appear in reports within about 24 hours. Anaheim and Orange County businesses use them to see which marketing brings leads, not just visitors.",
+  "key_takeaways": [
+    "Key events are your most important actions.",
+    "Mark up to 30 events on a standard property.",
+    "Marking a key event isn't retroactive.",
+    "Allow up to 24 hours for standard reports.",
+    "Key events can become Google Ads conversions."
+  ],
+  "sections": [
+    {
+      "heading": "What a key event is",
+      "body_html": "<p>Google's help page says to measure a key event, you create or identify an event that measures an important interaction, then mark it as a key event. After that, you can report on how users reach those actions and which marketing channels lead to them.</p>"
+    },
+    {
+      "heading": "Key events for local businesses",
+      "body_html": "<ul><li>A contact or quote form submission.</li><li>A click on your phone number.</li><li>A booking or appointment request.</li><li>A click to get directions.</li><li>A newsletter sign-up, if it leads to sales.</li></ul>"
+    },
+    {
+      "heading": "Limits and defaults",
+      "body_html": "<p>Google says you can mark up to 30 events as key events on standard properties and 50 on Analytics 360. Some events are marked by default, such as purchase on websites. When Ads Personalization is enabled with a linked Google Ads account, ecommerce events such as begin_checkout and view_item are also marked.</p>"
+    },
+    {
+      "heading": "Mark an existing event",
+      "body_html": "<p>In Admin, under Data display, click Events. Find the event in the Recent events tab and click the star icon next to it. Google says you need to be an Editor or above at the property level to do this.</p>"
+    },
+    {
+      "heading": "Mark a new event ahead of time",
+      "body_html": "<p>Google notes that new events might not show up right away, but you can mark them as key events in advance. In Admin, Events, click Create event, enter the event name, turn on Mark as key event, choose a default value and counting method, then click Create. Special characters can't be used in new event names.</p>"
+    },
+    {
+      "heading": "Not retroactive",
+      "body_html": "<p>Google says marking a key event affects reports from that point on and doesn't change historic data. Allow up to 24 hours for key events to appear in standard reports; Realtime updates a few minutes after a user triggers one.</p>"
+    },
+    {
+      "heading": "Stopping a key event",
+      "body_html": "<p>To stop collecting key event data, unmark it by deselecting the star on the Key events tab. Google says past events still show as key events in reports.</p>"
+    },
+    {
+      "heading": "Key events and Google Ads",
+      "body_html": "<p>If you advertise, Google says you can create Google Ads conversions based on your Analytics key events, and manage most conversion settings within Analytics, for consistency between the two. Google notes this feature may not yet be available to every property.</p>"
+    },
+    {
+      "heading": "Pick the right events",
+      "body_html": "<p>Mark actions that signal real business value. A visitor reading three pages isn't a lead; a completed quote form is. Too many key events dilute reports, so start with three to five.</p>"
+    },
+    {
+      "heading": "Common mistakes",
+      "body_html": "<ul><li>Marking page views or scrolls as key events.</li><li>Counting the thank-you page view and the form event twice.</li><li>Expecting historic data to update.</li><li>Using different names for the same event on different pages.</li><li>Never checking key events against real leads in your CRM.</li></ul>"
+    },
+    {
+      "heading": "Questions owners ask us",
+      "body_html": "<p>Owners often ask how to track phone calls as key events. A click on a tap-to-call link can be tracked as an event and marked as a key event, which counts call intent from your website; it doesn't count calls from your <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a>, which appear in profile performance instead. Another question is why key events don't match the number of leads in the inbox. Spam form submissions, duplicate submissions and people who call instead of filling in forms all cause differences, so compare monthly and look at trends rather than exact matches. Owners also ask whether to assign values. If you know roughly what a lead is worth, a default value helps you compare channels; if not, counts are enough to start.</p>"
+    },
+    {
+      "heading": "Checklist",
+      "body_html": "<ul><li>Three to five key events chosen.</li><li>Each event firing correctly.</li><li>Events marked with the star.</li><li>Checked in Realtime.</li><li>Compared monthly with real leads.</li></ul>"
+    },
+    {
+      "heading": "An example",
+      "body_html": "<p>Imagine a law firm in <a href=\"https://thechimeraai.com/seo-santa-ana/\">Santa Ana</a> that measures only visits. It creates a key event for consultation form submissions and another for clicks on its phone number. Within a month, the <a href=\"https://thechimeraai.com/google-analytics-4-traffic-acquisition-report/\">Traffic acquisition report</a> shows that organic search brings most consultation requests, while social media brings visits but few leads, so the firm shifts its budget.</p>"
+    },
+    {
+      "heading": "How this fits your local plan",
+      "body_html": "<p>Treat this as part of a routine rather than a one-off fix. Local visibility in Anaheim and the rest of Orange County comes from many small, accurate signals adding up: a verified profile, <a href=\"https://thechimeraai.com/nap-consistency-local-citations/\">consistent listings</a>, useful service pages, real photos and a flow of honest reviews. Google is open that relevance, distance and popularity drive local results. You cannot change distance, but you can make sure Google and AI assistants understand exactly what you do and see evidence that customers value it. Put a monthly reminder in the calendar to check the profile, read new reviews and update anything that has changed.</p>"
+    },
+    {
+      "heading": "What to do this week",
+      "body_html": "<ol><li>List your three most valuable actions.</li><li>Check they're tracked as events.</li><li>Mark them as key events.</li><li>Compare with real leads next month.</li></ol>"
+    },
+    {
+      "heading": "When to get help",
+      "body_html": "<p>You do not need an agency for every step here; Google documents most of it clearly. Consider outside help when the work is urgent and unfamiliar, when you manage several locations, or when the same issue returns after you fix it. Ask any provider to show you the specific guideline or documentation behind each recommendation, to keep you as the owner of your accounts and to report results in calls, bookings and leads rather than vanity numbers. That is how <a href=\"https://thechimeraai.com/\">Chimera</a> works with Orange County businesses from our base in Anaheim.</p>"
+    },
+    {
+      "heading": "How to name events consistently",
+      "body_html": "<p>Before creating events, agree on a short list of names and use them everywhere. Google's recommended names, such as generate_lead for a form submission, are the best starting point because reports and future features recognize them. For actions without a recommended name, use short lowercase names with underscores, such as phone_click or directions_click. Use the same name on every page and form, so a quote form on a service page and a contact form on the homepage both send generate_lead rather than two different names. Keep a note of each event, what triggers it and when it was marked as a key event, so anyone reviewing reports later knows what the numbers mean.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Pick three to five actions that mean business, mark them as key events, wait a day for reports and compare against real leads. Chimera, based in Anaheim, sets up key events for Orange County businesses so marketing is judged on leads.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a key event in GA4?",
+      "a": "An event you mark as important to your business, such as a form submission or booking."
+    },
+    {
+      "q": "How many key events can I have?",
+      "a": "Up to 30 on standard properties and 50 on Analytics 360."
+    },
+    {
+      "q": "Do key events update past data?",
+      "a": "No. Google says they affect reports from the time you mark them."
+    },
+    {
+      "q": "How long until key events show in reports?",
+      "a": "Up to 24 hours in standard reports; minutes in Realtime."
+    },
+    {
+      "q": "Who can mark key events?",
+      "a": "Users with Editor access or above at the property level for existing events."
+    },
+    {
+      "q": "Can key events be used in Google Ads?",
+      "a": "Yes. Google says you can create Ads conversions based on them."
+    },
+    {
+      "q": "Do you help businesses in Anaheim and Orange County with this?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "how to set up Google Analytics 4",
+      "url": "https://thechimeraai.com/how-to-set-up-google-analytics-4/"
+    },
+    {
+      "anchor": "GA4 lead generation events",
+      "url": "https://thechimeraai.com/google-analytics-4-lead-generation-events/"
+    },
+    {
+      "anchor": "link Google Ads to Google Analytics",
+      "url": "https://thechimeraai.com/link-google-ads-to-google-analytics/"
+    },
+    {
+      "anchor": "GA4 Traffic acquisition report",
+      "url": "https://thechimeraai.com/google-analytics-4-traffic-acquisition-report/"
+    },
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "GA4 enhanced measurement",
+      "url": "https://thechimeraai.com/google-analytics-4-enhanced-measurement/"
+    },
+    {
+      "anchor": "How to Track AI Traffic in Google Analytics 4 (Step by Step)",
+      "url": "https://thechimeraai.com/how-to-track-ai-traffic-in-google-analytics/"
+    },
+    {
+      "anchor": "UTM parameters in Google Analytics",
+      "url": "https://thechimeraai.com/google-analytics-utm-parameters/"
+    },
+    {
+      "anchor": "GA4 Realtime report",
+      "url": "https://thechimeraai.com/google-analytics-4-realtime-report/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Analytics Help: Mark events as key events",
+      "url": "https://support.google.com/analytics/answer/13128484?hl=en"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 3,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "Marking a key event",
+      "lead": "From Google's help page.",
+      "steps": [
+        {
+          "title": "Event",
+          "text": "Identify or create the event."
+        },
+        {
+          "title": "Star",
+          "text": "Admin, Events, click the star."
+        },
+        {
+          "title": "Wait",
+          "text": "Up to 24 hours in reports."
+        },
+        {
+          "title": "Use",
+          "text": "Report and optionally import to Ads."
+        }
+      ]
+    }
+  ],
+  "hero_query": "How do I track contact form leads in Google Analytics 4?",
+  "short_title": "GA4 key events",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 2111,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/google-analytics-4-key-events-chimera.jpg",
+    "alt": "GA4 Key Events: Track Leads That Matter: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-14",
+  "updated": "2026-11-14"
+}

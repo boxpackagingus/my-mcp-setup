@@ -1,0 +1,216 @@
+{
+ "date": "2026-11-14",
+ "research": "Industry 'seo for <industry>' seeds checked against the 140 existing pages (slots 121-140), Local Services Ads eligibility taken only from Google's category list; 10 Google Analytics 4 how-to topics, each verified against its Google Analytics Help page; 5 posts from Google announcements (Jul 29 - Nov 13, 2026) not yet covered. Search Console query data unavailable (no service-account key). No topic repeats an existing page.",
+ "topics": [
+  {
+   "slug": "gemini-4-hydrogen-small-business",
+   "query": "gemini 4 hydrogen",
+   "kind": "blog",
+   "title": "Gemini 4 Hydrogen: What Google's New Everyday Model Means for Small Businesses"
+  },
+  {
+   "slug": "google-analytics-4-data-retention",
+   "query": "ga4 data retention",
+   "kind": "guide",
+   "title": "GA4 Data Retention: What It Controls and How to Set It"
+  },
+  {
+   "slug": "google-analytics-4-enhanced-measurement",
+   "query": "ga4 enhanced measurement",
+   "kind": "guide",
+   "title": "GA4 Enhanced Measurement: Track More Without Code"
+  },
+  {
+   "slug": "google-analytics-4-key-events",
+   "query": "ga4 key events",
+   "kind": "guide",
+   "title": "GA4 Key Events: How to Measure the Leads That Matter"
+  },
+  {
+   "slug": "google-analytics-4-lead-generation-events",
+   "query": "ga4 lead generation events",
+   "kind": "guide",
+   "title": "GA4 Lead Generation Events: Measure Leads From Form to Customer"
+  },
+  {
+   "slug": "google-analytics-4-realtime-report",
+   "query": "ga4 realtime report",
+   "kind": "guide",
+   "title": "The GA4 Realtime Report: See Your Website Activity as It Happens"
+  },
+  {
+   "slug": "google-analytics-4-traffic-acquisition-report",
+   "query": "ga4 traffic acquisition report",
+   "kind": "guide",
+   "title": "The GA4 Traffic Acquisition Report: Where Your Visitors Come From"
+  },
+  {
+   "slug": "google-analytics-4-users-and-permissions",
+   "query": "ga4 users and permissions",
+   "kind": "guide",
+   "title": "GA4 Users and Permissions: Give the Right People the Right Access"
+  },
+  {
+   "slug": "google-analytics-utm-parameters",
+   "query": "utm parameters google analytics",
+   "kind": "guide",
+   "title": "UTM Parameters in Google Analytics: Track Every Campaign Link"
+  },
+  {
+   "slug": "google-maps-dining-trends-restaurants",
+   "query": "google maps fan favorite dining",
+   "kind": "blog",
+   "title": "Google Maps Dining Trends: What the Fan-Favorite Dining List Teaches Orange County Restaurants"
+  },
+  {
+   "slug": "google-wallet-gemini-subscriptions-local-business",
+   "query": "google wallet gemini",
+   "kind": "blog",
+   "title": "Google Wallet in Gemini: Why Membership Businesses Should Pay Attention"
+  },
+  {
+   "slug": "google-when-to-buy-holiday-retailers",
+   "query": "google when to buy guide",
+   "kind": "blog",
+   "title": "Google's When to Buy Guide: How Orange County Retailers Can Time Holiday Promotions"
+  },
+  {
+   "slug": "how-to-set-up-google-analytics-4",
+   "query": "how to set up google analytics 4",
+   "kind": "guide",
+   "title": "How to Set Up Google Analytics 4 for Your Business Website"
+  },
+  {
+   "slug": "link-google-ads-to-google-analytics",
+   "query": "link google ads to google analytics",
+   "kind": "guide",
+   "title": "How to Link Google Ads to Google Analytics 4"
+  },
+  {
+   "slug": "search-console-platform-properties-social",
+   "query": "search console platform properties",
+   "kind": "blog",
+   "title": "Search Console Platform Properties: See How Your Social Posts Perform in Google Search"
+  },
+  {
+   "slug": "seo-for-bubble-tea-shops",
+   "query": "seo for bubble tea shops",
+   "kind": "guide",
+   "title": "SEO for Bubble Tea Shops in Orange County: Become the Local Favorite"
+  },
+  {
+   "slug": "seo-for-business-lawyers",
+   "query": "seo for business lawyers",
+   "kind": "guide",
+   "title": "SEO for Business Lawyers in Orange County: Win Clients Who Need Ongoing Counsel"
+  },
+  {
+   "slug": "seo-for-carpenters",
+   "query": "seo for carpenters",
+   "kind": "guide",
+   "title": "SEO for Carpenters in Orange County: Win More Custom Projects"
+  },
+  {
+   "slug": "seo-for-drain-cleaning",
+   "query": "seo for drain cleaning",
+   "kind": "guide",
+   "title": "SEO for Drain Cleaning Companies in Orange County: Win the Urgent Calls"
+  },
+  {
+   "slug": "seo-for-dui-lawyers",
+   "query": "seo for dui lawyers",
+   "kind": "guide",
+   "title": "SEO for DUI Lawyers in Orange County: Be Found When Clients Need Help Fast"
+  },
+  {
+   "slug": "seo-for-employment-lawyers",
+   "query": "seo for employment lawyers",
+   "kind": "guide",
+   "title": "SEO for Employment Lawyers in Orange County: Help Workers and Employers Find You"
+  },
+  {
+   "slug": "seo-for-facial-spas",
+   "query": "seo for facial spas",
+   "kind": "guide",
+   "title": "SEO for Facial Spas in Orange County: Book More Treatments"
+  },
+  {
+   "slug": "seo-for-home-theater-installers",
+   "query": "seo for home theater installers",
+   "kind": "guide",
+   "title": "SEO for Home Theater Installers in Orange County: Win AV Projects"
+  },
+  {
+   "slug": "seo-for-ice-cream-shops",
+   "query": "seo for ice cream shops",
+   "kind": "guide",
+   "title": "SEO for Ice Cream Shops in Orange County: Be the Go-To Dessert Stop"
+  },
+  {
+   "slug": "seo-for-insulation-contractors",
+   "query": "seo for insulation contractors",
+   "kind": "guide",
+   "title": "SEO for Insulation Contractors in Orange County: Win Comfort Upgrades"
+  },
+  {
+   "slug": "seo-for-laser-hair-removal",
+   "query": "seo for laser hair removal",
+   "kind": "guide",
+   "title": "SEO for Laser Hair Removal Providers in Orange County: Book More Consultations"
+  },
+  {
+   "slug": "seo-for-lash-and-brow-studios",
+   "query": "seo for lash studios",
+   "kind": "guide",
+   "title": "SEO for Lash and Brow Studios in Orange County: Fill Your Booking Calendar"
+  },
+  {
+   "slug": "seo-for-occupational-therapists",
+   "query": "seo for occupational therapists",
+   "kind": "guide",
+   "title": "SEO for Occupational Therapists in Orange County: Help Families Find Care"
+  },
+  {
+   "slug": "seo-for-oil-change-shops",
+   "query": "seo for oil change shops",
+   "kind": "guide",
+   "title": "SEO for Oil Change Shops in Orange County: Get More Drive-Ins"
+  },
+  {
+   "slug": "seo-for-ophthalmologists",
+   "query": "seo for ophthalmologists",
+   "kind": "guide",
+   "title": "SEO for Ophthalmologists in Orange County: Help Patients Find Eye Care"
+  },
+  {
+   "slug": "seo-for-orthopedic-surgeons",
+   "query": "seo for orthopedic surgeons",
+   "kind": "guide",
+   "title": "SEO for Orthopedic Surgeons in Orange County: Help Patients Find the Right Specialist"
+  },
+  {
+   "slug": "seo-for-pool-builders",
+   "query": "seo for pool builders",
+   "kind": "guide",
+   "title": "SEO for Pool Builders in Orange County: Win Backyard Projects"
+  },
+  {
+   "slug": "seo-for-real-estate-lawyers",
+   "query": "seo for real estate lawyers",
+   "kind": "guide",
+   "title": "SEO for Real Estate Lawyers in Orange County: Win Transaction and Dispute Clients"
+  },
+  {
+   "slug": "seo-for-tanning-salons",
+   "query": "seo for tanning salons",
+   "kind": "guide",
+   "title": "SEO for Tanning Salons in Orange County: Grow Memberships and Walk-Ins"
+  },
+  {
+   "slug": "seo-for-transmission-shops",
+   "query": "seo for transmission shops",
+   "kind": "guide",
+   "title": "SEO for Transmission Shops in Orange County: Win Repair and Rebuild Jobs"
+  }
+ ]
+}

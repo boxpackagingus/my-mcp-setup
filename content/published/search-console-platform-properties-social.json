@@ -1,0 +1,236 @@
+{
+  "query": "search console platform properties",
+  "slug": "search-console-platform-properties-social",
+  "eyebrow": "Search Console",
+  "primary_keyword": "Search Console platform properties",
+  "secondary_keywords": [
+    "Search Console Instagram",
+    "Search Console TikTok",
+    "Search Console YouTube",
+    "social media in Google Search"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Search Console Platform Properties: Social in Search",
+    "meta_description": "Search Console platform properties show how your Instagram, TikTok, X and YouTube posts perform in Google Search. How Orange County businesses can use them."
+  },
+  "h1": "Search Console Platform Properties: See How Your Social Posts Perform in Google Search",
+  "answer": "Search Console platform properties let you track how your posts on Instagram, TikTok, X and YouTube perform in Google Search, Discover and Google News. Google made them available globally on July 29, 2026. For Anaheim and Orange County businesses that post on social media, they show which posts people find through Google and what they searched.",
+  "key_takeaways": [
+    "Platform properties cover Instagram, TikTok, X and YouTube.",
+    "They show performance in Search, Discover and News.",
+    "Available globally since July 29, 2026.",
+    "Verification by website property or platform login.",
+    "Google published a guide to analyzing social and video performance."
+  ],
+  "sections": [
+    {
+      "heading": "What Google launched",
+      "body_html": "<p>Google's Search Central blog announced platform properties for <a href=\"https://thechimeraai.com/blog/search-console-generative-ai-performance-report/\">Search Console</a> in July 2026, and on July 29, 2026 made them globally available. They let you track how social and video posts on Instagram, TikTok, X and <a href=\"https://thechimeraai.com/youtube-for-ai-search/\">YouTube</a> perform on Google Search, Discover and Google News.</p>"
+    },
+    {
+      "heading": "What a platform property is",
+      "body_html": "<p>Search Console's help page explains that platform properties represent your presence on supported platforms, such as instagram.com/username. You verify them either through an automated connection with an existing website property or by logging in to the platform directly.</p>"
+    },
+    {
+      "heading": "Why local businesses should care",
+      "body_html": "<p>Many Orange County businesses post more often on Instagram or TikTok than on their websites. When those posts appear in Google Search, they bring attention that's hard to measure inside the social apps. Platform properties show which posts Google sends people to and what they searched for.</p>"
+    },
+    {
+      "heading": "Understand your Search audience",
+      "body_html": "<p>Google suggests using the Insights report to find top, trending up and trending down query groups sending people from Google Search to your social and video content. Those themes show what your audience cares about and can inspire your next post, caption or video.</p>"
+    },
+    {
+      "heading": "Spot trending posts",
+      "body_html": "<p>Google recommends the 24-hour filter to spot sudden traffic spikes from Search to recent posts, so you can cross-promote them on other platforms while interest is high.</p>"
+    },
+    {
+      "heading": "Compare across platforms",
+      "body_html": "<p>Google suggests exporting performance data from several platform properties into one spreadsheet to compare YouTube, Instagram, X and TikTok side by side.</p>"
+    },
+    {
+      "heading": "Refresh older content",
+      "body_html": "<p>Google points out that Search Console can show older videos regaining search traction, which might be worth pinning or following up with a part two. Search Console annotations can track whether changes, such as a new YouTube title or TikTok caption, affect performance.</p>"
+    },
+    {
+      "heading": "How to add one",
+      "body_html": "<ol><li>Open the property selector in Search Console and select Add property.</li><li>Choose a platform property and the platform.</li><li>Connect through your verified website property, or log in to the platform.</li><li>Open the Performance and Insights reports for that account.</li></ol>"
+    },
+    {
+      "heading": "Already have a Search profile?",
+      "body_html": "<p>Google says that if you've already set up your Search profile, you should have access to data for the same platform in Search Console.</p>"
+    },
+    {
+      "heading": "Captions and titles as search text",
+      "body_html": "<p>Because people find posts through Google Search, captions, titles and descriptions work like page titles. Mention the service, place and question your post answers, such as a before-and-after kitchen remodel in <a href=\"https://thechimeraai.com/seo-irvine/\">Irvine</a>, rather than only emojis and hashtags.</p>"
+    },
+    {
+      "heading": "A worked example",
+      "body_html": "<p>Imagine a nail salon in Anaheim with a busy Instagram account. After adding a platform property, it sees that posts about gel extensions get impressions from Google searches for gel nails near Disneyland. The salon writes clearer captions mentioning gel extensions and Anaheim, and creates a matching service page on its website.</p>"
+    },
+    {
+      "heading": "Measure alongside your website",
+      "body_html": "<p>Keep your website property and platform properties in the same account, check both monthly and compare which topics perform on each. Topics that do well on social are good candidates for full website pages.</p>"
+    },
+    {
+      "heading": "What to post when you know what people search",
+      "body_html": "<p>Once you can see the queries that lead to your posts, plan content around them. If people find your bakery's TikTok through searches for custom birthday cakes in Anaheim, post more cake decorating videos with clear captions and link to an order page. If a roofer's YouTube walkthrough of a tile roof repair keeps getting impressions, make more of those and add a written version on the website. Social platforms reward engagement, while Google rewards relevance; clear titles and captions serve both.</p>"
+    },
+    {
+      "heading": "Questions owners ask us",
+      "body_html": "<p>Owners often ask whether platform properties replace the analytics inside Instagram or TikTok. They don't: those show activity within the app, while Search Console shows how Google Search, Discover and News send people to your posts. Another question is whether this helps <a href=\"https://thechimeraai.com/local-seo-orange-county/\">local SEO</a> directly. It shows demand and topics that you can also cover on your website and Business Profile. Owners also ask if it's worth it for small accounts. Setup takes minutes, and even a small account can learn which posts Google surfaces.</p>"
+    },
+    {
+      "heading": "Writing captions that work in Search",
+      "body_html": "<p>Write the first line of a caption as if it were a headline someone could search for: what the post shows, for whom and where. A restaurant might write Birria tacos and consommé in Anaheim, made fresh every weekend rather than only using emojis. A contractor might write Before and after: tile roof repair in Mission Viejo. Keep hashtags, but don't rely on them alone. Use the same words customers use in reviews and search terms, which you can see in Search Console and your Business Profile performance report.</p>"
+    },
+    {
+      "heading": "A monthly social and search review",
+      "body_html": "<p>Once a month, open each platform property's Performance and Insights reports alongside your website property. Note the top queries and posts on each platform, any topics trending up and posts that are regaining traction. Pick one topic that performs well on social but has no page on your website, and create that page. Pick one older post worth refreshing or pinning. Over a few months, your social accounts and website start supporting each other, and you can see which content earns attention in Google, not just in the app.</p>"
+    },
+    {
+      "heading": "Questions to ask your social media manager",
+      "body_html": "<ul><li>Have we added our Instagram, TikTok, X and YouTube accounts as platform properties?</li><li>Which posts get the most impressions from Google Search?</li><li>What search topics lead people to our posts?</li><li>Which of those topics don't have a page on our website yet?</li><li>Are our captions written so people can find them in Search?</li><li>Do we track changes with Search Console annotations?</li></ul><p>Answering these takes an hour and usually reveals one or two quick wins, such as a post topic that deserves a website page or captions that could be clearer.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Search Console platform properties show how your Instagram, TikTok, X and YouTube posts perform in Google. Anaheim and Orange County businesses can use them to write better captions, spot trends and decide what to post next.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What are Search Console platform properties?",
+      "a": "Properties that track how your Instagram, TikTok, X and YouTube posts perform on Google."
+    },
+    {
+      "q": "Which platforms are supported?",
+      "a": "Google lists Instagram, TikTok, X and YouTube."
+    },
+    {
+      "q": "When did they become available to everyone?",
+      "a": "July 29, 2026."
+    },
+    {
+      "q": "How do I verify a platform property?",
+      "a": "Through your existing website property or by logging in to the platform."
+    },
+    {
+      "q": "What can I learn from them?",
+      "a": "Which queries and posts bring Google traffic, and trending posts."
+    },
+    {
+      "q": "Do I need a website property too?",
+      "a": "It's recommended, and it can be used to connect platform properties."
+    },
+    {
+      "q": "Do captions matter for Google Search?",
+      "a": "Yes. Clear captions and titles help people find posts through Search."
+    },
+    {
+      "q": "Do you work with businesses in Anaheim and Orange County?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California, from Anaheim and Santa Ana to Irvine and the coastal cities."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "how to set up Google Search Console",
+      "url": "https://thechimeraai.com/how-to-set-up-google-search-console/"
+    },
+    {
+      "anchor": "Search Console Performance report",
+      "url": "https://thechimeraai.com/google-search-console-performance-report/"
+    },
+    {
+      "anchor": "YouTube for AI search",
+      "url": "https://thechimeraai.com/youtube-for-ai-search/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Search Console Links report",
+      "url": "https://thechimeraai.com/google-search-console-links-report/"
+    },
+    {
+      "anchor": "Multimodal search data in Search Console",
+      "url": "https://thechimeraai.com/blog/search-console-multimodal-search-report/"
+    },
+    {
+      "anchor": "Search Console security issues",
+      "url": "https://thechimeraai.com/google-search-console-security-issues/"
+    },
+    {
+      "anchor": "Search Console URL Inspection tool",
+      "url": "https://thechimeraai.com/google-search-console-url-inspection/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Search Central blog: Platform properties roll out globally, plus a new social and video performance guide (Jul 29, 2026)",
+      "url": "https://developers.google.com/search/blog/2026/07/platform-properties-social-video-guide"
+    },
+    {
+      "title": "Search Console Help: Add a website or platform property to Search Console",
+      "url": "https://support.google.com/webmasters/answer/34592?hl=en"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 4,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "Using platform properties",
+      "lead": "From Google's July 29, 2026 post.",
+      "steps": [
+        {
+          "title": "Add",
+          "text": "Platform property in Search Console."
+        },
+        {
+          "title": "Insights",
+          "text": "Query groups by topic."
+        },
+        {
+          "title": "Trending",
+          "text": "24-hour filter for spikes."
+        },
+        {
+          "title": "Act",
+          "text": "Better captions and new pages."
+        }
+      ]
+    }
+  ],
+  "hero_query": "Can I see how my Instagram posts perform in Google Search?",
+  "short_title": "Search Console platform properties for your social accounts",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "kind": "blog",
+  "category": "Search Console",
+  "slot": 2,
+  "hero_image": {
+    "id": 2122,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/search-console-platform-properties-social-banner.jpg",
+    "alt": "Search Console Platform Properties: See How Your Social Posts Perform in Google Search: banner photo",
+    "width": 1600,
+    "height": 760
+  },
+  "published": "2026-11-14",
+  "updated": "2026-11-14",
+  "parent_id": 709
+}
