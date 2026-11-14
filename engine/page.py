@@ -139,20 +139,12 @@ def render_html(spec, cfg):
     d = date.fromisoformat(updated_iso[:10])
     updated = f"{d.strftime('%b')} {d.day}, {d.year}"
     parts.append(
-        '<section class="cp-hero"><div class="cp-hero-grid"><div>'
+        '<section class="cp-hero"><div class="cp-hero-grid" style="grid-template-columns:1fr"><div>'
         f'<p class="cp-eyebrow">{_e(spec.get("eyebrow") or "GEO guide")} · {_e(city.split(",")[0])}, {_e(region)}</p>'
         f'<p class="cp-answer"><strong>Short answer:</strong> {_e(spec["answer"])}</p>'
         '<div class="cp-actions"><a class="cp-btn cp-btn--primary" href="#get-started">Get your free AI visibility audit</a>'
         '<a class="cp-btn cp-btn--ghost" href="#faq">Read the FAQs</a></div></div>'
-        '<dl class="cp-glance">'
-        f'<div><dt>Reading time</dt><dd>{minutes} min</dd></div>'
-        + (f'<div><dt>Published</dt><dd>{_e(updated)}</dd></div>'
-           f'<div><dt>Written by</dt><dd>{_e(site["brand"])} team</dd></div>' if blog else
-           f'<div><dt>Sections</dt><dd>{len(spec["sections"])}</dd></div>'
-           f'<div><dt>FAQs answered</dt><dd>{len(spec["faqs"])}</dd></div>')
-        + f'<div><dt>Location</dt><dd>{_e(city.split(",")[0])}, CA</dd></div>'
-        f'<div><dt>Updated</dt><dd>{_e(updated)}</dd></div>'
-        f'</dl></div>{trust}</section>'
+        f'</div>{trust}</section>'
     )
     hero = spec.get("hero_image")
     if hero:

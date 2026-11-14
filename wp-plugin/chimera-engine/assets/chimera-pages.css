@@ -66,7 +66,7 @@
 
 /* Hero */
 .cp-hero { padding: var(--cp-pad); }
-.cp-hero-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(220px, 300px); gap: clamp(20px, 4vw, 48px); align-items: start; }
+.cp-hero-grid { display: grid; grid-template-columns: 1fr; gap: clamp(20px, 4vw, 48px); align-items: start; }
 @media (max-width: 860px) { .cp-hero-grid { grid-template-columns: 1fr; } }
 .cp-answer { font-size: clamp(1.1rem, 1.9vw, 1.38rem); line-height: 1.55; max-width: 60ch; margin: 0 0 26px; }
 .cp-answer strong { color: var(--cp-accent); }
