@@ -1,0 +1,236 @@
+{
+  "query": "apple business insights",
+  "slug": "apple-business-insights",
+  "eyebrow": "Apple Maps",
+  "primary_keyword": "Apple Business insights",
+  "secondary_keywords": [
+    "Apple Maps analytics",
+    "Apple Business Connect insights",
+    "Apple Maps business data",
+    "Apple Maps search taps"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Apple Business Insights: Read Your Apple Maps Data",
+    "meta_description": "How Anaheim and Orange County businesses can read Apple Business insights: search taps, search types, spatial heat maps, place card views and Actions."
+  },
+  "h1": "Apple Business Insights: How Customers Find You on Apple Maps",
+  "answer": "Apple Business insights show how people find your location in Apple Maps and what they do next: search taps, whether they searched your name or a category, where they were when they tapped, place card views and actions like directions, calls and website taps. Data is aggregated by day, week and month. Anaheim and Orange County businesses can use it to see Apple Maps' real value.",
+  "key_takeaways": [
+    "Insights cover searches, views and Actions.",
+    "Data starts within about an hour of verification.",
+    "Aggregated by day, week and month.",
+    "Spatial insights show where searchers were.",
+    "Low numbers below a threshold show as zero."
+  ],
+  "sections": [
+    {
+      "heading": "Apple Business Connect is now Apple Business",
+      "body_html": "<p>Apple's guide states that Apple Business Connect is now Apple Business, which combines what was previously in Apple Business Manager, Apple Business Essentials and Apple Business Connect into one offering. If you used Apple Business Connect before, you can sign in to Apple Business with the same personal Apple Account.</p>"
+    },
+    {
+      "heading": "What insights show",
+      "body_html": "<p>Apple's guide says insights help you understand how people find your brand's location and what they do once they find it, with searches, views and Actions in Maps. You can also get a monthly Insight recap by email.</p>"
+    },
+    {
+      "heading": "When data appears",
+      "body_html": "<p>Apple says insights data isn't available for up to one hour after you verify your location or brand. Data is aggregated by day, week (Sunday to Saturday) and month, in UTC and your local time zone. Spatial insights are available only by month.</p>"
+    },
+    {
+      "heading": "Search taps and search types",
+      "body_html": "<p>Search taps count taps on your location in search results. Search type shows what customers searched first: your name or brand, a category such as a product or service, or other searches such as addresses. Category searches show how often new customers discover you.</p>"
+    },
+    {
+      "heading": "Spatial insights",
+      "body_html": "<p>Apple's spatial insights show where customers were when they tapped your location, as a heat map or a list of up to 10 zip codes. For an Orange County business, this shows which neighborhoods and cities your Apple Maps customers come from.</p>"
+    },
+    {
+      "heading": "Similar locations",
+      "body_html": "<p>Apple says a Similar Locations module compares your search taps with similar locations, based on category, market segment, products and services, price point and proximity, when enough data exists.</p>"
+    },
+    {
+      "heading": "Place card views and interactions",
+      "body_html": "<ul><li>Place card views from search, the map and referrals from Apple or third-party apps.</li><li>Directions requests.</li><li>Website taps.</li><li>Calls.</li><li>Shares.</li><li>Photo views.</li><li>Showcase and Action taps.</li></ul>"
+    },
+    {
+      "heading": "Privacy thresholds",
+      "body_html": "<p>Apple notes that usage below a reporting threshold shows as zero to protect individual customers, and that low usage is reported more accurately over longer periods. Small businesses should look at monthly data.</p>"
+    },
+    {
+      "heading": "Turn insights into action",
+      "body_html": "<ul><li>Few category searches: improve your categories and about section.</li><li>Many views but few actions: add photos, Actions or a showcase.</li><li>Directions from unexpected zip codes: consider those areas in your marketing.</li><li>Rising calls: make sure phones are answered.</li></ul>"
+    },
+    {
+      "heading": "Combine with Google",
+      "body_html": "<p>Compare Apple insights with your <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a> performance. Together they show how many people find you on maps across both major platforms.</p>"
+    },
+    {
+      "heading": "Common mistakes",
+      "body_html": "<ul><li>Judging weekly data for a small business.</li><li>Ignoring Apple Maps because Google is bigger.</li><li>Not reading the monthly recap email.</li><li>Expecting exact matches with Google numbers.</li><li>Not acting on spatial insights.</li></ul>"
+    },
+    {
+      "heading": "Questions owners ask us",
+      "body_html": "<p>Owners often ask why some numbers show zero. Apple hides low counts below a privacy threshold, so a small business may see zeros in daily views but real numbers monthly. Another common question is how Apple Maps compares with Google. It varies by business and audience; the only way to know is to set up both and compare insights over a few months. Owners also ask what to do first with insights. Look at search type: if most taps come from people searching your name, Apple Maps is mainly helping existing customers find you; if category searches grow, it's bringing new customers, which is worth investing in with better photos, Actions and showcases.</p>"
+    },
+    {
+      "heading": "Checklist",
+      "body_html": "<ul><li>Location verified.</li><li>Monthly recap enabled.</li><li>Search types reviewed.</li><li>Spatial insights checked.</li><li>Actions compared with views.</li><li>Compared with Google performance.</li></ul>"
+    },
+    {
+      "heading": "An example",
+      "body_html": "<p>Imagine a pet groomer in Tustin that checks Apple Business insights and finds most search taps come from category searches for dog grooming, with many coming from neighboring Irvine zip codes. It adds an Irvine-focused showcase for weekday appointments and a booking Action, and watches bookings from those areas rise.</p>"
+    },
+    {
+      "heading": "How this fits your local plan",
+      "body_html": "<p>This task is one piece of a wider local plan. Google says local results are mainly based on relevance, distance and popularity, so the profile, your website and your reputation all have to agree. A practical order for most Orange County businesses is: get the Business Profile verified and accurate, make the <a href=\"https://thechimeraai.com/nap-consistency-local-citations/\">name, address and phone</a> identical everywhere, publish one clear page per service, then build a steady habit of <a href=\"https://thechimeraai.com/how-to-get-more-google-reviews/\">genuine reviews</a> and replies. Each step makes the next one work better, and the same signals help AI assistants such as <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a>, <a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a> and Google's AI features describe your business correctly when someone in Anaheim asks for a recommendation.</p>"
+    },
+    {
+      "heading": "What to do this week",
+      "body_html": "<ol><li>Open insights for your location.</li><li>Set the period to the last month.</li><li>Note search types and top zip codes.</li><li>Pick one improvement.</li></ol>"
+    },
+    {
+      "heading": "When to get help",
+      "body_html": "<p>Most of this can be done in-house with an hour or two and careful reading of Google's own help pages. It is worth bringing in help when the stakes are high or the problem keeps coming back: a profile that has been suspended more than once, many locations to manage, a site that keeps failing the same checks, or no time to keep up the routine. A good local SEO partner should explain what they will change and why, point to Google's guidelines rather than promise rankings, and leave you with access to every account. <a href=\"https://thechimeraai.com/\">Chimera</a> works this way with businesses across Anaheim and Orange County.</p>"
+    },
+    {
+      "heading": "A monthly Apple Maps report",
+      "body_html": "<p>Keep a simple monthly record with five numbers from Apple Business insights: search taps, the share of category searches, place card views, directions requests and calls. Add the top three zip codes from spatial insights and any showcase or Action taps. Next to each month, note what you changed: new photos, a showcase, updated hours or Actions. After a few months, patterns appear, such as showcases lifting views or new photos increasing directions. Put the same five numbers from your Google Business Profile beside them, so you can see how much each map platform contributes. For a small Orange County business, this one-page report is enough to decide where to spend time each month.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Check Apple Business insights monthly for search types, locations, views and actions, and act on what they show. Chimera, based in Anaheim, reports Apple and Google map performance together for Orange County businesses.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What do Apple Business insights show?",
+      "a": "Searches, place card views and actions such as directions, calls and website taps."
+    },
+    {
+      "q": "How soon is data available?",
+      "a": "Within up to one hour after verification."
+    },
+    {
+      "q": "Why do some numbers show zero?",
+      "a": "Apple shows usage below a privacy threshold as zero."
+    },
+    {
+      "q": "Can I see where customers searched from?",
+      "a": "Yes, with monthly spatial insights by heat map or zip code."
+    },
+    {
+      "q": "How is data aggregated?",
+      "a": "By day, week and month."
+    },
+    {
+      "q": "Can I get a monthly summary?",
+      "a": "Yes, a monthly Insight recap."
+    },
+    {
+      "q": "Do you help businesses in Anaheim and Orange County with this?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "Google Business Profile performance insights",
+      "url": "https://thechimeraai.com/google-business-profile-performance/"
+    },
+    {
+      "anchor": "Apple Business Actions",
+      "url": "https://thechimeraai.com/apple-business-actions/"
+    },
+    {
+      "anchor": "Apple Business showcases",
+      "url": "https://thechimeraai.com/apple-business-showcases/"
+    },
+    {
+      "anchor": "how to set up Apple Business",
+      "url": "https://thechimeraai.com/how-to-set-up-apple-business/"
+    },
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Apple Business Connect is now Apple Business",
+      "url": "https://thechimeraai.com/blog/apple-business-connect-now-apple-business/"
+    },
+    {
+      "anchor": "Ads on Apple Maps",
+      "url": "https://thechimeraai.com/apple-maps-ads/"
+    },
+    {
+      "anchor": "Apple Business photos",
+      "url": "https://thechimeraai.com/apple-business-photos/"
+    },
+    {
+      "anchor": "Apple Branded Mail",
+      "url": "https://thechimeraai.com/apple-branded-mail/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Apple Business User Guide: Use insights for a single location in Apple Business",
+      "url": "https://support.apple.com/guide/business/use-insights-for-a-single-location-abcbb749656b/1/web/1"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 3,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "Reading insights",
+      "lead": "From Apple's guide.",
+      "steps": [
+        {
+          "title": "Search",
+          "text": "Taps and search types."
+        },
+        {
+          "title": "Where",
+          "text": "Spatial heat map."
+        },
+        {
+          "title": "Views",
+          "text": "Place card views."
+        },
+        {
+          "title": "Actions",
+          "text": "Directions, calls, website."
+        }
+      ]
+    }
+  ],
+  "hero_query": "How can I see how many people find my business on Apple Maps?",
+  "short_title": "Apple Business insights",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 2183,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/apple-business-insights-chimera.jpg",
+    "alt": "Apple Business Insights: Read Your Apple Maps Data: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-15",
+  "updated": "2026-11-15"
+}

@@ -62,6 +62,9 @@ PHRASES = [
     (r"FAQ pages?", "faq-pages-for-ai-search"),
     (r"author (?:pages|bios)", "author-pages-for-eeat"),
     (r"internal links?", "internal-linking-for-ai-search"),
+    (r"Apple Business Connect|Apple Business\b", "how-to-set-up-apple-business"),
+    (r"Apple Maps", "add-business-to-apple-maps"),
+    (r"Tap to Pay on iPhone", "tap-to-pay-on-iphone-small-business"),
     (r"URL Inspection(?: tool)?", "google-search-console-url-inspection"),
     (r"Page indexing report", "google-search-console-page-indexing-report"),
     (r"Sitemaps report", "google-search-console-sitemaps-report"),
@@ -92,19 +95,20 @@ STOP = set("the a an and or of for to in on with your you how what is are does d
            " search ai should know means".split())
 
 CLUSTERS = [
+    ("apple", r"apple-|tap-to-pay"),
     ("searchconsole", r"search-console"),
-    ("analytics", r"google-analytics|link-google-ads"),
-    ("hospitality", r"bubble-tea|ice-cream|dining-trends|ask-maps|restaurant|bakeries|coffee|hotel|travel|wedding|event-planner|holiday-travel|eat-here|hotel-booking"),
+    ("analytics", r"google-analytics|link-google-ads|google-ads-channel|google-ads-data-strength"),
+    ("hospitality", r"frozen-yogurt|pizza|sushi|vietnamese|mexican-rest|korean-rest|sandwich|smoothie|bubble-tea|ice-cream|dining-trends|ask-maps|restaurant|bakeries|coffee|hotel|travel|wedding|event-planner|holiday-travel|eat-here|hotel-booking"),
     ("home", r"drain-cleaning|insulation|carpenter|pool-builder|home-theater|appliance|siding|countertop|ev-charger|plumb|hvac|roof|electric|contractor|painter|landscap|pest|pool|tree|cleaning|carpet|window|junk|moving|garage|handyman|concrete|flooring|bathroom|kitchen|fence|pressure|water-damage|solar|locksmith|home-builder|interior|architect|home-services|property-management|self-storage"),
-    ("legal", r"dui-lawyer|business-lawyer|real-estate-lawyer|employment-lawyer|law|lawyer|attorney|personal-injury|estate-planning|criminal|immigration"),
-    ("health", r"ophthalmolog|orthopedic|occupational|audiolog|podiatr|dietitian|urgent-care|dentist|orthodont|doctor|chiropract|physical-therap|dermatolog|plastic-surg|optometr|veterinar|therapist|med-spa|healthcare|senior-living|massage"),
-    ("lifestyle", r"lash-and-brow|facial-spa|laser-hair|tanning|personal-trainer|makeup|pet-boarding|salon|tattoo|gym|yoga|martial|dog-|photograph"),
-    ("auto", r"auto-|car-|window-tinting|oil-change|transmission"),
+    ("legal", r"traffic-ticket|malpractice|disability-lawyer|intellectual-property|dui-lawyer|business-lawyer|real-estate-lawyer|employment-lawyer|law|lawyer|attorney|personal-injury|estate-planning|criminal|immigration"),
+    ("health", r"weight-loss|ophthalmolog|orthopedic|occupational|audiolog|podiatr|dietitian|urgent-care|dentist|orthodont|doctor|chiropract|physical-therap|dermatolog|plastic-surg|optometr|veterinar|therapist|med-spa|healthcare|senior-living|massage"),
+    ("lifestyle", r"hair-braiding|piercing|lash-and-brow|facial-spa|laser-hair|tanning|personal-trainer|makeup|pet-boarding|salon|tattoo|gym|yoga|martial|dog-|photograph"),
+    ("auto", r"auto-|car-|window-tinting|oil-change|transmission|brake-shop"),
     ("professional", r"tax-prep|accountant|insurance|mortgage|financial|real-estate|it-companies|staffing|b2b|saas|manufactur|nonprofit|startup"),
-    ("education", r"dance-studio|language-school|music-school|swim-school|tutoring|private-school|daycare"),
-    ("retail", r"when-to-buy|jewelry|shopify|ecommerce|product-pages|holiday-100|universal-cart|shopping"),
+    ("education", r"beauty-school|massage-school|cpr-and-first-aid|dance-studio|language-school|music-school|swim-school|tutoring|private-school|daycare"),
+    ("retail", r"merchant-center|when-to-buy|jewelry|shopify|ecommerce|product-pages|holiday-100|universal-cart|shopping"),
     ("gbp", r"google-business-profile|review|nap-|service-area|near-me|local-landing|local-seo|local-geo|local-business-schema|seo-company|seo-irvine|seo-santa|seo-hunt|seo-newport|seo-full|seo-costa|geo-agency|local-services-ads|core-web-vitals|30-day"),
-    ("ai", r"wallet-gemini|eyewear|chatgpt|gemini|perplexity|copilot|claude|meta-ai|ai-mode|ai-overviews|llm|query-fan|crawler|robots|llms-txt|training-control|carbon|october-2026|search-profiles|inline-links|businesses-in-chatgpt"),
+    ("ai", r"ai-studio|wallet-gemini|eyewear|chatgpt|gemini|perplexity|copilot|claude|meta-ai|ai-mode|ai-overviews|llm|query-fan|crawler|robots|llms-txt|training-control|carbon|october-2026|search-profiles|inline-links|businesses-in-chatgpt"),
 ]
 
 

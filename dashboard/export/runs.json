@@ -1,5 +1,23 @@
 [
   {
+    "at": "2026-11-15T13:04:13Z",
+    "published": 5,
+    "failed": 0,
+    "waiting": 0,
+    "slugs": "seo-for-pizza-restaurants, seo-for-sandwich-shops, seo-for-smoothie-shops, seo-for-sushi-restaurants, seo-for-vietnamese-restaurants",
+    "indexnow": "Sent 2026-11-15",
+    "note": ""
+  },
+  {
+    "at": "2026-11-15T13:02:39Z",
+    "published": 34,
+    "failed": 5,
+    "waiting": 0,
+    "slugs": "add-business-to-apple-maps, apple-branded-mail, apple-business-actions, apple-business-connect-now-apple-business, apple-business-insights, apple-business-photos, apple-business-showcases, apple-maps-ads, apple-maps-place-card, google-ads-channel-prioritization-budget-controls, google-ads-data-strength-demand-gen, google-ai-studio-cloud-credits, google-business-profile-holiday-hours, how-to-edit-google-business-profile, how-to-set-up-apple-business, merchant-center-ai-performance-insights, nap-consistency-local-citations, near-me-searches, seo-for-auto-ac-repair, seo-for-beauty-schools, seo-for-brake-shops, seo-for-cpr-and-first-aid-training, seo-for-disability-lawyers, seo-for-frozen-yogurt-shops, seo-for-hair-braiding-salons, seo-for-intellectual-property-lawyers, seo-for-korean-restaurants, seo-for-massage-schools, seo-for-medical-malpractice-lawyers, seo-for-mexican-restaurants, seo-for-piercing-studios, seo-for-traffic-ticket-lawyers, seo-for-weight-loss-clinics, tap-to-pay-on-iphone-small-business",
+    "indexnow": "Sent 2026-11-15",
+    "note": "seo-for-pizza-restaurants.json: Too similar to an existing page (62% overlap); seo-for-sandwich-shops.json: Too similar to an existing page (62% overlap); seo-for-smoothie-shops.json: Too similar to an existing page (61% overlap); seo-for-sushi-restaurants.json: Too similar to an existing page (62% "
+  },
+  {
     "at": "2026-11-14T13:05:24Z",
     "published": 35,
     "failed": 0,

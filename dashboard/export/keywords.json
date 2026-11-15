@@ -1,5 +1,870 @@
 [
   {
+    "keyword": "add your business to Apple Maps",
+    "kind": "Main",
+    "page": "add-business-to-apple-maps"
+  },
+  {
+    "keyword": "Apple Maps business listing",
+    "kind": "Supporting",
+    "page": "add-business-to-apple-maps"
+  },
+  {
+    "keyword": "claim business Apple Maps",
+    "kind": "Supporting",
+    "page": "add-business-to-apple-maps"
+  },
+  {
+    "keyword": "update hours Apple Maps",
+    "kind": "Supporting",
+    "page": "add-business-to-apple-maps"
+  },
+  {
+    "keyword": "Apple Maps wrong location",
+    "kind": "Supporting",
+    "page": "add-business-to-apple-maps"
+  },
+  {
+    "keyword": "Apple Branded Mail",
+    "kind": "Main",
+    "page": "apple-branded-mail"
+  },
+  {
+    "keyword": "Apple Mail logo",
+    "kind": "Supporting",
+    "page": "apple-branded-mail"
+  },
+  {
+    "keyword": "branded email Apple",
+    "kind": "Supporting",
+    "page": "apple-branded-mail"
+  },
+  {
+    "keyword": "BIMI Apple Mail",
+    "kind": "Supporting",
+    "page": "apple-branded-mail"
+  },
+  {
+    "keyword": "Apple Business email branding",
+    "kind": "Supporting",
+    "page": "apple-branded-mail"
+  },
+  {
+    "keyword": "Apple Business Actions",
+    "kind": "Main",
+    "page": "apple-business-actions"
+  },
+  {
+    "keyword": "Apple Maps order button",
+    "kind": "Supporting",
+    "page": "apple-business-actions"
+  },
+  {
+    "keyword": "Apple Maps reservation link",
+    "kind": "Supporting",
+    "page": "apple-business-actions"
+  },
+  {
+    "keyword": "Apple Business Connect actions",
+    "kind": "Supporting",
+    "page": "apple-business-actions"
+  },
+  {
+    "keyword": "Apple Maps booking",
+    "kind": "Supporting",
+    "page": "apple-business-actions"
+  },
+  {
+    "keyword": "Apple Business Connect is now Apple Business",
+    "kind": "Main",
+    "page": "apple-business-connect-now-apple-business"
+  },
+  {
+    "keyword": "Apple Business",
+    "kind": "Supporting",
+    "page": "apple-business-connect-now-apple-business"
+  },
+  {
+    "keyword": "Apple Business Connect change",
+    "kind": "Supporting",
+    "page": "apple-business-connect-now-apple-business"
+  },
+  {
+    "keyword": "business.apple.com",
+    "kind": "Supporting",
+    "page": "apple-business-connect-now-apple-business"
+  },
+  {
+    "keyword": "Apple Business insights",
+    "kind": "Main",
+    "page": "apple-business-insights"
+  },
+  {
+    "keyword": "Apple Maps analytics",
+    "kind": "Supporting",
+    "page": "apple-business-insights"
+  },
+  {
+    "keyword": "Apple Business Connect insights",
+    "kind": "Supporting",
+    "page": "apple-business-insights"
+  },
+  {
+    "keyword": "Apple Maps business data",
+    "kind": "Supporting",
+    "page": "apple-business-insights"
+  },
+  {
+    "keyword": "Apple Maps search taps",
+    "kind": "Supporting",
+    "page": "apple-business-insights"
+  },
+  {
+    "keyword": "Apple Business photos",
+    "kind": "Main",
+    "page": "apple-business-photos"
+  },
+  {
+    "keyword": "Apple Maps photos",
+    "kind": "Supporting",
+    "page": "apple-business-photos"
+  },
+  {
+    "keyword": "Apple Business cover photo",
+    "kind": "Supporting",
+    "page": "apple-business-photos"
+  },
+  {
+    "keyword": "Apple Maps logo size",
+    "kind": "Supporting",
+    "page": "apple-business-photos"
+  },
+  {
+    "keyword": "add photos to Apple Maps listing",
+    "kind": "Supporting",
+    "page": "apple-business-photos"
+  },
+  {
+    "keyword": "Apple Business showcases",
+    "kind": "Main",
+    "page": "apple-business-showcases"
+  },
+  {
+    "keyword": "Apple Maps offers",
+    "kind": "Supporting",
+    "page": "apple-business-showcases"
+  },
+  {
+    "keyword": "Apple Business Connect showcase",
+    "kind": "Supporting",
+    "page": "apple-business-showcases"
+  },
+  {
+    "keyword": "promote business Apple Maps",
+    "kind": "Supporting",
+    "page": "apple-business-showcases"
+  },
+  {
+    "keyword": "Apple Maps events",
+    "kind": "Supporting",
+    "page": "apple-business-showcases"
+  },
+  {
+    "keyword": "ads on Apple Maps",
+    "kind": "Main",
+    "page": "apple-maps-ads"
+  },
+  {
+    "keyword": "Apple Maps advertising",
+    "kind": "Supporting",
+    "page": "apple-maps-ads"
+  },
+  {
+    "keyword": "Apple Business ads",
+    "kind": "Supporting",
+    "page": "apple-maps-ads"
+  },
+  {
+    "keyword": "advertise on Apple Maps",
+    "kind": "Supporting",
+    "page": "apple-maps-ads"
+  },
+  {
+    "keyword": "Apple Maps promoted listing",
+    "kind": "Supporting",
+    "page": "apple-maps-ads"
+  },
+  {
+    "keyword": "Apple Maps place card",
+    "kind": "Main",
+    "page": "apple-maps-place-card"
+  },
+  {
+    "keyword": "Apple Maps listing details",
+    "kind": "Supporting",
+    "page": "apple-maps-place-card"
+  },
+  {
+    "keyword": "Apple Maps business name rules",
+    "kind": "Supporting",
+    "page": "apple-maps-place-card"
+  },
+  {
+    "keyword": "Apple Business place card",
+    "kind": "Supporting",
+    "page": "apple-maps-place-card"
+  },
+  {
+    "keyword": "Siri business listing",
+    "kind": "Supporting",
+    "page": "apple-maps-place-card"
+  },
+  {
+    "keyword": "Google Ads channel prioritization",
+    "kind": "Main",
+    "page": "google-ads-channel-prioritization-budget-controls"
+  },
+  {
+    "keyword": "Google Ads budget allocation",
+    "kind": "Supporting",
+    "page": "google-ads-channel-prioritization-budget-controls"
+  },
+  {
+    "keyword": "Search partners control",
+    "kind": "Supporting",
+    "page": "google-ads-channel-prioritization-budget-controls"
+  },
+  {
+    "keyword": "Display Network Search campaigns",
+    "kind": "Supporting",
+    "page": "google-ads-channel-prioritization-budget-controls"
+  },
+  {
+    "keyword": "Google Ads channel controls",
+    "kind": "Supporting",
+    "page": "google-ads-channel-prioritization-budget-controls"
+  },
+  {
+    "keyword": "Google Ads data strength",
+    "kind": "Main",
+    "page": "google-ads-data-strength-demand-gen"
+  },
+  {
+    "keyword": "Demand Gen data strength",
+    "kind": "Supporting",
+    "page": "google-ads-data-strength-demand-gen"
+  },
+  {
+    "keyword": "Google Tag Gateway",
+    "kind": "Supporting",
+    "page": "google-ads-data-strength-demand-gen"
+  },
+  {
+    "keyword": "enhanced conversions Google Analytics",
+    "kind": "Supporting",
+    "page": "google-ads-data-strength-demand-gen"
+  },
+  {
+    "keyword": "Google Ads conversion tracking",
+    "kind": "Supporting",
+    "page": "google-ads-data-strength-demand-gen"
+  },
+  {
+    "keyword": "Google AI Studio cloud credits",
+    "kind": "Main",
+    "page": "google-ai-studio-cloud-credits"
+  },
+  {
+    "keyword": "Google Developer Program credits",
+    "kind": "Supporting",
+    "page": "google-ai-studio-cloud-credits"
+  },
+  {
+    "keyword": "Gemini API credits",
+    "kind": "Supporting",
+    "page": "google-ai-studio-cloud-credits"
+  },
+  {
+    "keyword": "Google AI Pro credits",
+    "kind": "Supporting",
+    "page": "google-ai-studio-cloud-credits"
+  },
+  {
+    "keyword": "AI Studio billing",
+    "kind": "Supporting",
+    "page": "google-ai-studio-cloud-credits"
+  },
+  {
+    "keyword": "set up Apple Business",
+    "kind": "Main",
+    "page": "how-to-set-up-apple-business"
+  },
+  {
+    "keyword": "Apple Business Connect",
+    "kind": "Supporting",
+    "page": "how-to-set-up-apple-business"
+  },
+  {
+    "keyword": "Apple Business sign up",
+    "kind": "Supporting",
+    "page": "how-to-set-up-apple-business"
+  },
+  {
+    "keyword": "verify business Apple Maps",
+    "kind": "Supporting",
+    "page": "how-to-set-up-apple-business"
+  },
+  {
+    "keyword": "Merchant Center AI performance insights",
+    "kind": "Main",
+    "page": "merchant-center-ai-performance-insights"
+  },
+  {
+    "keyword": "AI Mode shopping",
+    "kind": "Supporting",
+    "page": "merchant-center-ai-performance-insights"
+  },
+  {
+    "keyword": "Merchant Center share of voice",
+    "kind": "Supporting",
+    "page": "merchant-center-ai-performance-insights"
+  },
+  {
+    "keyword": "conversational attributes",
+    "kind": "Supporting",
+    "page": "merchant-center-ai-performance-insights"
+  },
+  {
+    "keyword": "Google Shopping AI",
+    "kind": "Supporting",
+    "page": "merchant-center-ai-performance-insights"
+  },
+  {
+    "keyword": "SEO for auto AC repair",
+    "kind": "Main",
+    "page": "seo-for-auto-ac-repair"
+  },
+  {
+    "keyword": "car AC repair marketing",
+    "kind": "Supporting",
+    "page": "seo-for-auto-ac-repair"
+  },
+  {
+    "keyword": "auto AC shop SEO",
+    "kind": "Supporting",
+    "page": "seo-for-auto-ac-repair"
+  },
+  {
+    "keyword": "car air conditioning repair leads",
+    "kind": "Supporting",
+    "page": "seo-for-auto-ac-repair"
+  },
+  {
+    "keyword": "auto AC repair Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-auto-ac-repair"
+  },
+  {
+    "keyword": "SEO for beauty schools",
+    "kind": "Main",
+    "page": "seo-for-beauty-schools"
+  },
+  {
+    "keyword": "cosmetology school marketing",
+    "kind": "Supporting",
+    "page": "seo-for-beauty-schools"
+  },
+  {
+    "keyword": "beauty school SEO",
+    "kind": "Supporting",
+    "page": "seo-for-beauty-schools"
+  },
+  {
+    "keyword": "esthetics school marketing",
+    "kind": "Supporting",
+    "page": "seo-for-beauty-schools"
+  },
+  {
+    "keyword": "beauty school Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-beauty-schools"
+  },
+  {
+    "keyword": "SEO for brake shops",
+    "kind": "Main",
+    "page": "seo-for-brake-shops"
+  },
+  {
+    "keyword": "brake shop marketing",
+    "kind": "Supporting",
+    "page": "seo-for-brake-shops"
+  },
+  {
+    "keyword": "brake repair SEO",
+    "kind": "Supporting",
+    "page": "seo-for-brake-shops"
+  },
+  {
+    "keyword": "brake service leads",
+    "kind": "Supporting",
+    "page": "seo-for-brake-shops"
+  },
+  {
+    "keyword": "brake repair Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-brake-shops"
+  },
+  {
+    "keyword": "SEO for CPR and first aid training",
+    "kind": "Main",
+    "page": "seo-for-cpr-and-first-aid-training"
+  },
+  {
+    "keyword": "CPR training marketing",
+    "kind": "Supporting",
+    "page": "seo-for-cpr-and-first-aid-training"
+  },
+  {
+    "keyword": "CPR class SEO",
+    "kind": "Supporting",
+    "page": "seo-for-cpr-and-first-aid-training"
+  },
+  {
+    "keyword": "first aid training leads",
+    "kind": "Supporting",
+    "page": "seo-for-cpr-and-first-aid-training"
+  },
+  {
+    "keyword": "CPR class Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-cpr-and-first-aid-training"
+  },
+  {
+    "keyword": "SEO for disability lawyers",
+    "kind": "Main",
+    "page": "seo-for-disability-lawyers"
+  },
+  {
+    "keyword": "disability attorney marketing",
+    "kind": "Supporting",
+    "page": "seo-for-disability-lawyers"
+  },
+  {
+    "keyword": "SSDI lawyer SEO",
+    "kind": "Supporting",
+    "page": "seo-for-disability-lawyers"
+  },
+  {
+    "keyword": "disability law firm leads",
+    "kind": "Supporting",
+    "page": "seo-for-disability-lawyers"
+  },
+  {
+    "keyword": "disability lawyer Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-disability-lawyers"
+  },
+  {
+    "keyword": "SEO for frozen yogurt shops",
+    "kind": "Main",
+    "page": "seo-for-frozen-yogurt-shops"
+  },
+  {
+    "keyword": "froyo shop marketing",
+    "kind": "Supporting",
+    "page": "seo-for-frozen-yogurt-shops"
+  },
+  {
+    "keyword": "frozen yogurt SEO",
+    "kind": "Supporting",
+    "page": "seo-for-frozen-yogurt-shops"
+  },
+  {
+    "keyword": "dessert shop marketing",
+    "kind": "Supporting",
+    "page": "seo-for-frozen-yogurt-shops"
+  },
+  {
+    "keyword": "frozen yogurt Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-frozen-yogurt-shops"
+  },
+  {
+    "keyword": "SEO for hair braiding salons",
+    "kind": "Main",
+    "page": "seo-for-hair-braiding-salons"
+  },
+  {
+    "keyword": "braiding salon marketing",
+    "kind": "Supporting",
+    "page": "seo-for-hair-braiding-salons"
+  },
+  {
+    "keyword": "braids SEO",
+    "kind": "Supporting",
+    "page": "seo-for-hair-braiding-salons"
+  },
+  {
+    "keyword": "textured hair salon marketing",
+    "kind": "Supporting",
+    "page": "seo-for-hair-braiding-salons"
+  },
+  {
+    "keyword": "braiding salon Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-hair-braiding-salons"
+  },
+  {
+    "keyword": "SEO for intellectual property lawyers",
+    "kind": "Main",
+    "page": "seo-for-intellectual-property-lawyers"
+  },
+  {
+    "keyword": "trademark attorney marketing",
+    "kind": "Supporting",
+    "page": "seo-for-intellectual-property-lawyers"
+  },
+  {
+    "keyword": "IP law firm SEO",
+    "kind": "Supporting",
+    "page": "seo-for-intellectual-property-lawyers"
+  },
+  {
+    "keyword": "patent attorney marketing",
+    "kind": "Supporting",
+    "page": "seo-for-intellectual-property-lawyers"
+  },
+  {
+    "keyword": "trademark lawyer Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-intellectual-property-lawyers"
+  },
+  {
+    "keyword": "SEO for Korean restaurants",
+    "kind": "Main",
+    "page": "seo-for-korean-restaurants"
+  },
+  {
+    "keyword": "Korean BBQ marketing",
+    "kind": "Supporting",
+    "page": "seo-for-korean-restaurants"
+  },
+  {
+    "keyword": "Korean restaurant SEO",
+    "kind": "Supporting",
+    "page": "seo-for-korean-restaurants"
+  },
+  {
+    "keyword": "KBBQ restaurant marketing",
+    "kind": "Supporting",
+    "page": "seo-for-korean-restaurants"
+  },
+  {
+    "keyword": "Korean restaurant Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-korean-restaurants"
+  },
+  {
+    "keyword": "SEO for massage schools",
+    "kind": "Main",
+    "page": "seo-for-massage-schools"
+  },
+  {
+    "keyword": "massage school marketing",
+    "kind": "Supporting",
+    "page": "seo-for-massage-schools"
+  },
+  {
+    "keyword": "massage therapy school SEO",
+    "kind": "Supporting",
+    "page": "seo-for-massage-schools"
+  },
+  {
+    "keyword": "massage program marketing",
+    "kind": "Supporting",
+    "page": "seo-for-massage-schools"
+  },
+  {
+    "keyword": "massage school Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-massage-schools"
+  },
+  {
+    "keyword": "SEO for medical malpractice lawyers",
+    "kind": "Main",
+    "page": "seo-for-medical-malpractice-lawyers"
+  },
+  {
+    "keyword": "medical malpractice attorney marketing",
+    "kind": "Supporting",
+    "page": "seo-for-medical-malpractice-lawyers"
+  },
+  {
+    "keyword": "malpractice lawyer SEO",
+    "kind": "Supporting",
+    "page": "seo-for-medical-malpractice-lawyers"
+  },
+  {
+    "keyword": "medical malpractice leads",
+    "kind": "Supporting",
+    "page": "seo-for-medical-malpractice-lawyers"
+  },
+  {
+    "keyword": "medical malpractice lawyer Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-medical-malpractice-lawyers"
+  },
+  {
+    "keyword": "SEO for Mexican restaurants",
+    "kind": "Main",
+    "page": "seo-for-mexican-restaurants"
+  },
+  {
+    "keyword": "Mexican restaurant marketing",
+    "kind": "Supporting",
+    "page": "seo-for-mexican-restaurants"
+  },
+  {
+    "keyword": "taco shop SEO",
+    "kind": "Supporting",
+    "page": "seo-for-mexican-restaurants"
+  },
+  {
+    "keyword": "Mexican catering marketing",
+    "kind": "Supporting",
+    "page": "seo-for-mexican-restaurants"
+  },
+  {
+    "keyword": "Mexican restaurant Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-mexican-restaurants"
+  },
+  {
+    "keyword": "SEO for piercing studios",
+    "kind": "Main",
+    "page": "seo-for-piercing-studios"
+  },
+  {
+    "keyword": "piercing studio marketing",
+    "kind": "Supporting",
+    "page": "seo-for-piercing-studios"
+  },
+  {
+    "keyword": "piercing shop SEO",
+    "kind": "Supporting",
+    "page": "seo-for-piercing-studios"
+  },
+  {
+    "keyword": "body piercing marketing",
+    "kind": "Supporting",
+    "page": "seo-for-piercing-studios"
+  },
+  {
+    "keyword": "piercing studio Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-piercing-studios"
+  },
+  {
+    "keyword": "SEO for traffic ticket lawyers",
+    "kind": "Main",
+    "page": "seo-for-traffic-ticket-lawyers"
+  },
+  {
+    "keyword": "traffic lawyer marketing",
+    "kind": "Supporting",
+    "page": "seo-for-traffic-ticket-lawyers"
+  },
+  {
+    "keyword": "speeding ticket lawyer SEO",
+    "kind": "Supporting",
+    "page": "seo-for-traffic-ticket-lawyers"
+  },
+  {
+    "keyword": "traffic ticket attorney leads",
+    "kind": "Supporting",
+    "page": "seo-for-traffic-ticket-lawyers"
+  },
+  {
+    "keyword": "traffic ticket lawyer Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-traffic-ticket-lawyers"
+  },
+  {
+    "keyword": "SEO for weight loss clinics",
+    "kind": "Main",
+    "page": "seo-for-weight-loss-clinics"
+  },
+  {
+    "keyword": "weight loss clinic marketing",
+    "kind": "Supporting",
+    "page": "seo-for-weight-loss-clinics"
+  },
+  {
+    "keyword": "medical weight loss SEO",
+    "kind": "Supporting",
+    "page": "seo-for-weight-loss-clinics"
+  },
+  {
+    "keyword": "weight loss program leads",
+    "kind": "Supporting",
+    "page": "seo-for-weight-loss-clinics"
+  },
+  {
+    "keyword": "weight loss clinic Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-weight-loss-clinics"
+  },
+  {
+    "keyword": "Tap to Pay on iPhone",
+    "kind": "Main",
+    "page": "tap-to-pay-on-iphone-small-business"
+  },
+  {
+    "keyword": "contactless payments iPhone",
+    "kind": "Supporting",
+    "page": "tap-to-pay-on-iphone-small-business"
+  },
+  {
+    "keyword": "accept cards on iPhone",
+    "kind": "Supporting",
+    "page": "tap-to-pay-on-iphone-small-business"
+  },
+  {
+    "keyword": "iPhone card reader app",
+    "kind": "Supporting",
+    "page": "tap-to-pay-on-iphone-small-business"
+  },
+  {
+    "keyword": "Tap to Pay small business",
+    "kind": "Supporting",
+    "page": "tap-to-pay-on-iphone-small-business"
+  },
+  {
+    "keyword": "SEO for pizza restaurants",
+    "kind": "Main",
+    "page": "seo-for-pizza-restaurants"
+  },
+  {
+    "keyword": "pizza shop marketing",
+    "kind": "Supporting",
+    "page": "seo-for-pizza-restaurants"
+  },
+  {
+    "keyword": "pizzeria SEO",
+    "kind": "Supporting",
+    "page": "seo-for-pizza-restaurants"
+  },
+  {
+    "keyword": "pizza delivery marketing",
+    "kind": "Supporting",
+    "page": "seo-for-pizza-restaurants"
+  },
+  {
+    "keyword": "pizza restaurant Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-pizza-restaurants"
+  },
+  {
+    "keyword": "SEO for sandwich shops",
+    "kind": "Main",
+    "page": "seo-for-sandwich-shops"
+  },
+  {
+    "keyword": "sandwich shop marketing",
+    "kind": "Supporting",
+    "page": "seo-for-sandwich-shops"
+  },
+  {
+    "keyword": "deli SEO",
+    "kind": "Supporting",
+    "page": "seo-for-sandwich-shops"
+  },
+  {
+    "keyword": "lunch catering marketing",
+    "kind": "Supporting",
+    "page": "seo-for-sandwich-shops"
+  },
+  {
+    "keyword": "sandwich shop Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-sandwich-shops"
+  },
+  {
+    "keyword": "SEO for smoothie shops",
+    "kind": "Main",
+    "page": "seo-for-smoothie-shops"
+  },
+  {
+    "keyword": "smoothie shop marketing",
+    "kind": "Supporting",
+    "page": "seo-for-smoothie-shops"
+  },
+  {
+    "keyword": "juice bar SEO",
+    "kind": "Supporting",
+    "page": "seo-for-smoothie-shops"
+  },
+  {
+    "keyword": "acai bowl shop marketing",
+    "kind": "Supporting",
+    "page": "seo-for-smoothie-shops"
+  },
+  {
+    "keyword": "smoothie shop Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-smoothie-shops"
+  },
+  {
+    "keyword": "SEO for sushi restaurants",
+    "kind": "Main",
+    "page": "seo-for-sushi-restaurants"
+  },
+  {
+    "keyword": "sushi restaurant marketing",
+    "kind": "Supporting",
+    "page": "seo-for-sushi-restaurants"
+  },
+  {
+    "keyword": "sushi bar SEO",
+    "kind": "Supporting",
+    "page": "seo-for-sushi-restaurants"
+  },
+  {
+    "keyword": "omakase marketing",
+    "kind": "Supporting",
+    "page": "seo-for-sushi-restaurants"
+  },
+  {
+    "keyword": "sushi restaurant Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-sushi-restaurants"
+  },
+  {
+    "keyword": "SEO for Vietnamese restaurants",
+    "kind": "Main",
+    "page": "seo-for-vietnamese-restaurants"
+  },
+  {
+    "keyword": "Vietnamese restaurant marketing",
+    "kind": "Supporting",
+    "page": "seo-for-vietnamese-restaurants"
+  },
+  {
+    "keyword": "pho restaurant SEO",
+    "kind": "Supporting",
+    "page": "seo-for-vietnamese-restaurants"
+  },
+  {
+    "keyword": "Little Saigon restaurant marketing",
+    "kind": "Supporting",
+    "page": "seo-for-vietnamese-restaurants"
+  },
+  {
+    "keyword": "Vietnamese restaurant Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-vietnamese-restaurants"
+  },
+  {
     "keyword": "Gemini 4 Hydrogen",
     "kind": "Main",
     "page": "gemini-4-hydrogen-small-business"
@@ -2065,31 +2930,6 @@
     "page": "how-to-create-google-business-profile"
   },
   {
-    "keyword": "edit your Google Business Profile",
-    "kind": "Main",
-    "page": "how-to-edit-google-business-profile"
-  },
-  {
-    "keyword": "update Google Business Profile",
-    "kind": "Supporting",
-    "page": "how-to-edit-google-business-profile"
-  },
-  {
-    "keyword": "change Google Business Profile",
-    "kind": "Supporting",
-    "page": "how-to-edit-google-business-profile"
-  },
-  {
-    "keyword": "edit Google Maps listing",
-    "kind": "Supporting",
-    "page": "how-to-edit-google-business-profile"
-  },
-  {
-    "keyword": "Google Business Profile edits",
-    "kind": "Supporting",
-    "page": "how-to-edit-google-business-profile"
-  },
-  {
     "keyword": "moving to a CDN",
     "kind": "Main",
     "page": "moving-to-a-cdn-googlebot-crawling"
@@ -2615,6 +3455,31 @@
     "page": "seo-for-towing-companies"
   },
   {
+    "keyword": "edit your Google Business Profile",
+    "kind": "Main",
+    "page": "how-to-edit-google-business-profile"
+  },
+  {
+    "keyword": "update Google Business Profile",
+    "kind": "Supporting",
+    "page": "how-to-edit-google-business-profile"
+  },
+  {
+    "keyword": "change Google Business Profile",
+    "kind": "Supporting",
+    "page": "how-to-edit-google-business-profile"
+  },
+  {
+    "keyword": "edit Google Maps listing",
+    "kind": "Supporting",
+    "page": "how-to-edit-google-business-profile"
+  },
+  {
+    "keyword": "Google Business Profile edits",
+    "kind": "Supporting",
+    "page": "how-to-edit-google-business-profile"
+  },
+  {
     "keyword": "Businesses in ChatGPT",
     "kind": "Main",
     "page": "businesses-in-chatgpt-claim-your-business"
@@ -2738,31 +3603,6 @@
     "keyword": "best category for Google Business Profile",
     "kind": "Supporting",
     "page": "google-business-profile-categories"
-  },
-  {
-    "keyword": "Google Business Profile holiday hours",
-    "kind": "Main",
-    "page": "google-business-profile-holiday-hours"
-  },
-  {
-    "keyword": "Google special hours",
-    "kind": "Supporting",
-    "page": "google-business-profile-holiday-hours"
-  },
-  {
-    "keyword": "holiday hours Google Maps",
-    "kind": "Supporting",
-    "page": "google-business-profile-holiday-hours"
-  },
-  {
-    "keyword": "GBP holiday hours",
-    "kind": "Supporting",
-    "page": "google-business-profile-holiday-hours"
-  },
-  {
-    "keyword": "temporarily closed Google Business Profile",
-    "kind": "Supporting",
-    "page": "google-business-profile-holiday-hours"
   },
   {
     "keyword": "Google Business Profile photos",
@@ -3510,6 +4350,31 @@
     "page": "seo-for-yoga-studios"
   },
   {
+    "keyword": "Google Business Profile holiday hours",
+    "kind": "Main",
+    "page": "google-business-profile-holiday-hours"
+  },
+  {
+    "keyword": "Google special hours",
+    "kind": "Supporting",
+    "page": "google-business-profile-holiday-hours"
+  },
+  {
+    "keyword": "holiday hours Google Maps",
+    "kind": "Supporting",
+    "page": "google-business-profile-holiday-hours"
+  },
+  {
+    "keyword": "GBP holiday hours",
+    "kind": "Supporting",
+    "page": "google-business-profile-holiday-hours"
+  },
+  {
+    "keyword": "temporarily closed Google Business Profile",
+    "kind": "Supporting",
+    "page": "google-business-profile-holiday-hours"
+  },
+  {
     "keyword": "AI search plan",
     "kind": "Main",
     "page": "30-day-ai-search-plan-orange-county"
@@ -4003,56 +4868,6 @@
     "keyword": "local search Orange County",
     "kind": "Supporting",
     "page": "local-seo-orange-county"
-  },
-  {
-    "keyword": "NAP consistency",
-    "kind": "Main",
-    "page": "nap-consistency-local-citations"
-  },
-  {
-    "keyword": "local citations",
-    "kind": "Supporting",
-    "page": "nap-consistency-local-citations"
-  },
-  {
-    "keyword": "NAP SEO",
-    "kind": "Supporting",
-    "page": "nap-consistency-local-citations"
-  },
-  {
-    "keyword": "business listings consistency",
-    "kind": "Supporting",
-    "page": "nap-consistency-local-citations"
-  },
-  {
-    "keyword": "citation cleanup",
-    "kind": "Supporting",
-    "page": "nap-consistency-local-citations"
-  },
-  {
-    "keyword": "near me searches",
-    "kind": "Main",
-    "page": "near-me-searches"
-  },
-  {
-    "keyword": "near me SEO",
-    "kind": "Supporting",
-    "page": "near-me-searches"
-  },
-  {
-    "keyword": "rank for near me",
-    "kind": "Supporting",
-    "page": "near-me-searches"
-  },
-  {
-    "keyword": "near me searches Google",
-    "kind": "Supporting",
-    "page": "near-me-searches"
-  },
-  {
-    "keyword": "open near me",
-    "kind": "Supporting",
-    "page": "near-me-searches"
   },
   {
     "keyword": "SEO company Anaheim",
@@ -5728,6 +6543,56 @@
     "keyword": "local SEO without a storefront",
     "kind": "Supporting",
     "page": "service-area-business-seo"
+  },
+  {
+    "keyword": "NAP consistency",
+    "kind": "Main",
+    "page": "nap-consistency-local-citations"
+  },
+  {
+    "keyword": "local citations",
+    "kind": "Supporting",
+    "page": "nap-consistency-local-citations"
+  },
+  {
+    "keyword": "NAP SEO",
+    "kind": "Supporting",
+    "page": "nap-consistency-local-citations"
+  },
+  {
+    "keyword": "business listings consistency",
+    "kind": "Supporting",
+    "page": "nap-consistency-local-citations"
+  },
+  {
+    "keyword": "citation cleanup",
+    "kind": "Supporting",
+    "page": "nap-consistency-local-citations"
+  },
+  {
+    "keyword": "near me searches",
+    "kind": "Main",
+    "page": "near-me-searches"
+  },
+  {
+    "keyword": "near me SEO",
+    "kind": "Supporting",
+    "page": "near-me-searches"
+  },
+  {
+    "keyword": "rank for near me",
+    "kind": "Supporting",
+    "page": "near-me-searches"
+  },
+  {
+    "keyword": "near me searches Google",
+    "kind": "Supporting",
+    "page": "near-me-searches"
+  },
+  {
+    "keyword": "open near me",
+    "kind": "Supporting",
+    "page": "near-me-searches"
   },
   {
     "keyword": "AI crawler user agents",

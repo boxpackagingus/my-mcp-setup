@@ -1,0 +1,216 @@
+{
+ "date": "2026-11-15",
+ "research": "Industry 'seo for <industry>' seeds checked against the 160 existing pages (slots 141-160), Local Services Ads eligibility taken only from Google's category list; 10 Apple Business (formerly Apple Business Connect) topics, each verified against Apple's Apple Business User Guide; 5 posts from Apple's rename notice and Google announcements (Sep 16 - Nov 13, 2026) not yet covered. Bing Places, Yelp and Nextdoor help pages were blocked by the network, so they were not used. Search Console query data unavailable (no service-account key). No topic repeats an existing page.",
+ "topics": [
+  {
+   "slug": "add-business-to-apple-maps",
+   "query": "add business to apple maps",
+   "kind": "guide",
+   "title": "How to Add Your Business to Apple Maps and Keep It Accurate"
+  },
+  {
+   "slug": "apple-branded-mail",
+   "query": "apple branded mail",
+   "kind": "guide",
+   "title": "Apple Branded Mail: Put Your Logo on Emails in Apple Mail"
+  },
+  {
+   "slug": "apple-business-actions",
+   "query": "apple business actions",
+   "kind": "guide",
+   "title": "Apple Business Actions: Add Order, Reserve and Booking Buttons to Apple Maps"
+  },
+  {
+   "slug": "apple-business-connect-now-apple-business",
+   "query": "apple business connect apple business",
+   "kind": "blog",
+   "title": "Apple Business Connect Is Now Apple Business: What Local Businesses Should Do"
+  },
+  {
+   "slug": "apple-business-insights",
+   "query": "apple business insights",
+   "kind": "guide",
+   "title": "Apple Business Insights: How Customers Find You on Apple Maps"
+  },
+  {
+   "slug": "apple-business-photos",
+   "query": "apple business photos",
+   "kind": "guide",
+   "title": "Apple Business Photos: How to Add Photos to Apple Maps"
+  },
+  {
+   "slug": "apple-business-showcases",
+   "query": "apple business showcases",
+   "kind": "guide",
+   "title": "Apple Business Showcases: Promote Offers and Events on Apple Maps"
+  },
+  {
+   "slug": "apple-maps-ads",
+   "query": "apple maps ads",
+   "kind": "guide",
+   "title": "Ads on Apple Maps: How to Promote Your Business With Apple Business"
+  },
+  {
+   "slug": "apple-maps-place-card",
+   "query": "apple maps place card",
+   "kind": "guide",
+   "title": "The Apple Maps Place Card: How to Complete Every Section"
+  },
+  {
+   "slug": "google-ads-channel-prioritization-budget-controls",
+   "query": "google ads channel prioritization",
+   "kind": "blog",
+   "title": "Google Ads Channel Prioritization and Budget Allocation: More Control Over Where Ads Run"
+  },
+  {
+   "slug": "google-ads-data-strength-demand-gen",
+   "query": "google ads data strength",
+   "kind": "blog",
+   "title": "Google Ads Data Strength: Why Better Tracking Means Better Ad Results"
+  },
+  {
+   "slug": "google-ai-studio-cloud-credits",
+   "query": "google ai studio cloud credits",
+   "kind": "blog",
+   "title": "Google AI Studio Cloud Credits: What Small Businesses Building With AI Should Know"
+  },
+  {
+   "slug": "how-to-set-up-apple-business",
+   "query": "how to set up apple business",
+   "kind": "guide",
+   "title": "How to Set Up Apple Business to Manage Your Apple Maps Listing"
+  },
+  {
+   "slug": "merchant-center-ai-performance-insights",
+   "query": "merchant center ai performance insights",
+   "kind": "blog",
+   "title": "Merchant Center AI Performance Insights: See How Shoppers Find You in AI Search"
+  },
+  {
+   "slug": "seo-for-auto-ac-repair",
+   "query": "seo for auto ac repair",
+   "kind": "guide",
+   "title": "SEO for Auto AC Repair Shops in Orange County: Win the Hot-Weather Rush"
+  },
+  {
+   "slug": "seo-for-beauty-schools",
+   "query": "seo for beauty schools",
+   "kind": "guide",
+   "title": "SEO for Beauty Schools in Orange County: Enroll More Students"
+  },
+  {
+   "slug": "seo-for-brake-shops",
+   "query": "seo for brake shops",
+   "kind": "guide",
+   "title": "SEO for Brake Shops in Orange County: Earn Trust for a Safety Repair"
+  },
+  {
+   "slug": "seo-for-cpr-and-first-aid-training",
+   "query": "seo for cpr training",
+   "kind": "guide",
+   "title": "SEO for CPR and First Aid Training Providers in Orange County"
+  },
+  {
+   "slug": "seo-for-disability-lawyers",
+   "query": "seo for disability lawyers",
+   "kind": "guide",
+   "title": "SEO for Disability Lawyers in Orange County: Help Claimants Find You"
+  },
+  {
+   "slug": "seo-for-frozen-yogurt-shops",
+   "query": "seo for frozen yogurt shops",
+   "kind": "guide",
+   "title": "SEO for Frozen Yogurt Shops in Orange County: Be the Go-To Treat"
+  },
+  {
+   "slug": "seo-for-hair-braiding-salons",
+   "query": "seo for hair braiding salons",
+   "kind": "guide",
+   "title": "SEO for Hair Braiding Salons in Orange County: Get Booked for Every Style"
+  },
+  {
+   "slug": "seo-for-intellectual-property-lawyers",
+   "query": "seo for intellectual property lawyers",
+   "kind": "guide",
+   "title": "SEO for Intellectual Property Lawyers in Orange County: Win Founders and Creators"
+  },
+  {
+   "slug": "seo-for-korean-restaurants",
+   "query": "seo for korean restaurants",
+   "kind": "guide",
+   "title": "SEO for Korean Restaurants in Orange County: Win Diners Looking for KBBQ and More"
+  },
+  {
+   "slug": "seo-for-massage-schools",
+   "query": "seo for massage schools",
+   "kind": "guide",
+   "title": "SEO for Massage Schools in Orange County: Enroll More Future Therapists"
+  },
+  {
+   "slug": "seo-for-medical-malpractice-lawyers",
+   "query": "seo for medical malpractice lawyers",
+   "kind": "guide",
+   "title": "SEO for Medical Malpractice Lawyers in Orange County: Reach Clients With Care"
+  },
+  {
+   "slug": "seo-for-mexican-restaurants",
+   "query": "seo for mexican restaurants",
+   "kind": "guide",
+   "title": "SEO for Mexican Restaurants in Orange County: Become the Local Favorite"
+  },
+  {
+   "slug": "seo-for-piercing-studios",
+   "query": "seo for piercing studios",
+   "kind": "guide",
+   "title": "SEO for Piercing Studios in Orange County: Earn Trust Before the Appointment"
+  },
+  {
+   "slug": "seo-for-pizza-restaurants",
+   "query": "seo for pizza restaurants",
+   "kind": "guide",
+   "title": "SEO for Pizza Restaurants in Orange County: Win Delivery and Dine-In"
+  },
+  {
+   "slug": "seo-for-sandwich-shops",
+   "query": "seo for sandwich shops",
+   "kind": "guide",
+   "title": "SEO for Sandwich Shops in Orange County: Win the Lunch Rush"
+  },
+  {
+   "slug": "seo-for-smoothie-shops",
+   "query": "seo for smoothie shops",
+   "kind": "guide",
+   "title": "SEO for Smoothie Shops in Orange County: Win Health-Minded Customers"
+  },
+  {
+   "slug": "seo-for-sushi-restaurants",
+   "query": "seo for sushi restaurants",
+   "kind": "guide",
+   "title": "SEO for Sushi Restaurants in Orange County: Fill Tables and Takeout Orders"
+  },
+  {
+   "slug": "seo-for-traffic-ticket-lawyers",
+   "query": "seo for traffic ticket lawyers",
+   "kind": "guide",
+   "title": "SEO for Traffic Ticket Lawyers in Orange County: Win Clients Before Their Court Date"
+  },
+  {
+   "slug": "seo-for-vietnamese-restaurants",
+   "query": "seo for vietnamese restaurants",
+   "kind": "guide",
+   "title": "SEO for Vietnamese Restaurants in Orange County: Stand Out in Little Saigon and Beyond"
+  },
+  {
+   "slug": "seo-for-weight-loss-clinics",
+   "query": "seo for weight loss clinics",
+   "kind": "guide",
+   "title": "SEO for Weight Loss Clinics in Orange County: Build Trust Before the First Visit"
+  },
+  {
+   "slug": "tap-to-pay-on-iphone-small-business",
+   "query": "tap to pay on iphone small business",
+   "kind": "guide",
+   "title": "Tap to Pay on iPhone: Accept Contactless Payments Without Extra Hardware"
+  }
+ ]
+}

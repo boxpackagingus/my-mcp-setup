@@ -1,0 +1,232 @@
+{
+  "query": "google ads channel prioritization",
+  "slug": "google-ads-channel-prioritization-budget-controls",
+  "eyebrow": "Google Ads",
+  "primary_keyword": "Google Ads channel prioritization",
+  "secondary_keywords": [
+    "Google Ads budget allocation",
+    "Search partners control",
+    "Display Network Search campaigns",
+    "Google Ads channel controls"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Google Ads Channel Prioritization: New Controls",
+    "meta_description": "Google Ads channel prioritization lets advertisers fund chosen channels first and cap spend on others. What Anaheim and Orange County advertisers should know."
+  },
+  "h1": "Google Ads Channel Prioritization and Budget Allocation: More Control Over Where Ads Run",
+  "answer": "Google Ads channel prioritization lets advertisers mark channels such as Google Search, Search partners or the Display Network as high or low priority, so campaigns fund high-priority channels first. Budget allocation lets you cap low-priority channels at a percentage of the daily budget. Google is rolling them out across Search, Shopping, Performance Max and Demand Gen. Anaheim and Orange County advertisers can test networks without all-or-nothing choices.",
+  "key_takeaways": [
+    "Announced October 14, 2026.",
+    "Mark channels as high or low priority.",
+    "Cap low-priority channels at a share of daily budget.",
+    "Rolling out to Search, Shopping, Performance Max and Demand Gen.",
+    "Search campaigns with the Display Network change in February 2027."
+  ],
+  "sections": [
+    {
+      "heading": "What Google announced",
+      "body_html": "<p>On October 14, 2026, Google introduced two optional controls in Google Ads: channel prioritization and budget allocation. Google says they build on earlier controls such as Smart Bidding Exploration and campaign total budgets, and are rolling out globally across Search, Shopping, Performance Max and Demand Gen.</p>"
+    },
+    {
+      "heading": "Channel prioritization",
+      "body_html": "<p>Google says channel prioritization lets advertisers categorize inventory as High priority or Low priority. Campaigns fully fund high-priority channels, within the target when using Target CPA or Target ROAS, before spending the rest on lower-priority channels.</p>"
+    },
+    {
+      "heading": "How channels are grouped",
+      "body_html": "<p>For Search campaigns, Google Search, Search partners and the Google Display Network can be set to different priorities. In Performance Max and Demand Gen, Google surfaces like Search, <a href=\"https://thechimeraai.com/youtube-for-ai-search/\">YouTube</a>, Maps, Gmail and Discover are prioritized together as Google channels.</p>"
+    },
+    {
+      "heading": "Budget allocation",
+      "body_html": "<p>For channels set to Low priority, Google says advertisers can set a maximum percentage of the daily budget, which its tools aim to keep within on a best-effort basis. Google notes this matters for Target CPA or Target ROAS campaigns not limited by budget, where prioritization alone generally won't change much.</p>"
+    },
+    {
+      "heading": "Where controls apply",
+      "body_html": "<p>Google says the controls roll out at the account and campaign levels and also apply to shared budgets, with distinct priority tiers across Search, Shopping, Performance Max and Demand Gen.</p>"
+    },
+    {
+      "heading": "Test instead of opting out",
+      "body_html": "<p>Google describes these controls as giving more control than all-or-nothing opt-outs. Advertisers who switched off Search partners or the Display Network can now test them with clear limits instead.</p>"
+    },
+    {
+      "heading": "A change coming in February 2027",
+      "body_html": "<p>Google says that starting in February 2027, for Search campaigns with the Google Display Network turned on, the current spend allocation setup will go away and advertisers may see a shift in channel spending. To keep their current setup, they can set the Display Network to Low priority with a 50% budget allocation.</p>"
+    },
+    {
+      "heading": "What this means for local advertisers",
+      "body_html": "<p>Many small advertisers in Orange County want their money spent on Google Search, where people are actively looking for a plumber, dentist or restaurant. Setting Google Search as high priority and capping partner networks gives that control without switching other channels off entirely.</p>"
+    },
+    {
+      "heading": "A simple setup for service businesses",
+      "body_html": "<ol><li>Set Google Search to High priority.</li><li>Set Search partners and the Display Network to Low priority.</li><li>Cap low-priority channels at a small share of the daily budget.</li><li>Track leads by channel for a month.</li><li>Adjust priorities based on cost per real lead.</li></ol>"
+    },
+    {
+      "heading": "Measure leads, not clicks",
+      "body_html": "<p>Compare channels by <a href=\"https://thechimeraai.com/google-analytics-4-key-events/\">key events</a> such as form submissions and calls, ideally with Google Ads linked to Analytics. A channel with cheap clicks but few leads isn't cheap.</p>"
+    },
+    {
+      "heading": "A worked example",
+      "body_html": "<p>Imagine a roofing company in Mission Viejo that turned off the Display Network years ago. With the new controls, it keeps Google Search as high priority and sets the Display Network to low priority with a 10% cap. After a month, it compares leads per dollar on each channel and decides whether to keep the test running.</p>"
+    },
+    {
+      "heading": "Questions advertisers ask us",
+      "body_html": "<p>Advertisers often ask whether to turn partner networks back on. For many local service businesses, Search is still the main source of leads, but a capped test of partner networks can show whether they add affordable leads. Another common question is how much to cap. Start small, such as 10% of the daily budget, and adjust once you have a month of lead data. Advertisers also ask whether the February 2027 change affects them. If your Search campaigns include the Display Network, review the settings before then and decide whether to set a priority and allocation that matches what you want.</p>"
+    },
+    {
+      "heading": "How this fits with Local Services Ads",
+      "body_html": "<p>Many Orange County service businesses run <a href=\"https://thechimeraai.com/google-local-services-ads-vs-seo/\">Local Services Ads</a> alongside Search campaigns. Local Services Ads have their own lead-based model, so these new controls don't apply to them. Compare cost per real lead across both, and use the new controls to keep Search campaign spending focused on the channels that bring the best leads.</p>"
+    },
+    {
+      "heading": "Understanding the channels",
+      "body_html": "<p>Google Search is the main search results page. Search partners are other sites that show Google search ads, and the Google Display Network shows ads on websites and apps. In Performance Max and Demand Gen, Google groups its own surfaces, including Search, YouTube, Maps, Gmail and Discover, as Google channels. Knowing which channel brings which kind of lead is what lets you set priorities sensibly instead of guessing.</p>"
+    },
+    {
+      "heading": "Reporting to watch",
+      "body_html": "<p>After setting priorities, review spend, conversions and cost per conversion by channel each week for the first month, then monthly. Look for low-priority channels that bring leads at a similar or better cost; those may deserve more budget. Watch for channels that spend up to their cap without producing leads; those may need a lower cap or a different approach. Keep notes of each change so you can connect it to results later, and remember that lead quality, not just volume, decides what's worth paying for.</p>"
+    },
+    {
+      "heading": "Where to find the settings",
+      "body_html": "<p>Google says the controls are rolling out at the account and campaign levels and also apply to shared budgets, over the next months, so they may not appear in every account yet. When they do, review each campaign's network settings, decide which channels matter most for your goals and set priorities accordingly. If you work with an agency, ask how they plan to use the controls and how they'll report results by channel. For small budgets, simple settings reviewed regularly beat complicated setups that nobody checks. Google points to its Help Center for details as the features roll out.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Google Ads channel prioritization lets you fund chosen channels first and cap others. Anaheim and Orange County advertisers can protect Search budgets, test other networks safely and prepare for the February 2027 change to Search campaigns with the Display Network.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is Google Ads channel prioritization?",
+      "a": "A control to mark channels as high or low priority so high-priority channels are funded first."
+    },
+    {
+      "q": "What is budget allocation?",
+      "a": "A cap on low-priority channels as a maximum percentage of the daily budget."
+    },
+    {
+      "q": "Which campaign types get these controls?",
+      "a": "Search, Shopping, Performance Max and Demand Gen."
+    },
+    {
+      "q": "Are the controls required?",
+      "a": "No. Google says they're optional."
+    },
+    {
+      "q": "What changes in February 2027?",
+      "a": "For Search campaigns with the Display Network on, the current spend allocation setup goes away."
+    },
+    {
+      "q": "How do I keep my current setup?",
+      "a": "Google suggests setting the Display Network to Low priority with a 50% allocation."
+    },
+    {
+      "q": "Is the budget cap exact?",
+      "a": "Google says it works on a best-effort basis."
+    },
+    {
+      "q": "Do you work with businesses in Anaheim and Orange County?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California, from Anaheim and Santa Ana to Irvine and the coastal cities."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "ads in AI Mode",
+      "url": "https://thechimeraai.com/ads-in-ai-mode-local-business/"
+    },
+    {
+      "anchor": "Google Ads' Invalid Traffic card",
+      "url": "https://thechimeraai.com/google-ads-invalid-traffic-card/"
+    },
+    {
+      "anchor": "link Google Ads to Google Analytics",
+      "url": "https://thechimeraai.com/link-google-ads-to-google-analytics/"
+    },
+    {
+      "anchor": "Google Local Services Ads vs SEO",
+      "url": "https://thechimeraai.com/google-local-services-ads-vs-seo/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "GA4 Traffic acquisition report",
+      "url": "https://thechimeraai.com/google-analytics-4-traffic-acquisition-report/"
+    },
+    {
+      "anchor": "Google Ads data strength and Demand Gen",
+      "url": "https://thechimeraai.com/blog/google-ads-data-strength-demand-gen/"
+    },
+    {
+      "anchor": "GA4 data retention",
+      "url": "https://thechimeraai.com/google-analytics-4-data-retention/"
+    },
+    {
+      "anchor": "How to Track AI Traffic in Google Analytics 4 (Step by Step)",
+      "url": "https://thechimeraai.com/how-to-track-ai-traffic-in-google-analytics/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Ads & Commerce blog: New Google Ads channel prioritization and budget controls (Oct 14, 2026)",
+      "url": "https://blog.google/products/ads-commerce/channel-prioritization-budget-allocation/"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 3,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "How prioritization works",
+      "lead": "From Google's October 14, 2026 post.",
+      "steps": [
+        {
+          "title": "High priority",
+          "text": "Funded first."
+        },
+        {
+          "title": "Low priority",
+          "text": "Gets the rest."
+        },
+        {
+          "title": "Cap",
+          "text": "Maximum share of daily budget."
+        },
+        {
+          "title": "Review",
+          "text": "Compare leads by channel."
+        }
+      ]
+    }
+  ],
+  "hero_query": "Can I control which Google channels my ad budget goes to?",
+  "short_title": "Google Ads channel prioritization and budget controls",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "kind": "blog",
+  "category": "Google news",
+  "slot": 2,
+  "hero_image": {
+    "id": 2188,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/google-ads-channel-prioritization-budget-controls-banner.jpg",
+    "alt": "Google Ads Channel Prioritization and Budget Allocation: More Control Over Where Ads Run: banner photo",
+    "width": 1600,
+    "height": 760
+  },
+  "published": "2026-11-15",
+  "updated": "2026-11-15",
+  "parent_id": 709
+}

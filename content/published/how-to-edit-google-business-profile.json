@@ -78,7 +78,7 @@
     },
     {
       "heading": "An example",
-      "body_html": "<p>Imagine an HVAC company in Orange that changes its phone system and number. The office manager, signed in with the business account, opens the profile on Google Search, selects Edit profile and updates the number, then checks the edit status until it is live. The same day, the website, Yelp and Apple Maps listings are updated, and the old number is forwarded during the transition.</p>"
+      "body_html": "<p>Imagine an HVAC company in Orange that changes its phone system and number. The office manager, signed in with the business account, opens the profile on Google Search, selects Edit profile and updates the number, then checks the edit status until it is live. The same day, the website, Yelp and <a href=\"https://thechimeraai.com/add-business-to-apple-maps/\">Apple Maps</a> listings are updated, and the old number is forwarded during the transition.</p>"
     },
     {
       "heading": "How this fits your local plan",
@@ -240,5 +240,5 @@
     "height": 840
   },
   "published": "2026-11-12",
-  "updated": "2026-11-14"
+  "updated": "2026-11-15"
 }

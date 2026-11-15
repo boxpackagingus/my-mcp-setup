@@ -149,16 +149,31 @@
       "form_leads_28d": 1,
       "source": "Site Kit",
       "engine_leads_28d": 0
+    },
+    {
+      "date": "2026-11-15",
+      "pages_total": 347,
+      "pages_indexed": 178,
+      "clicks_28d": 4,
+      "impressions_28d": 2275,
+      "engine_clicks_28d": 3,
+      "sessions_28d": 71.0,
+      "ai_sessions_28d": 0,
+      "ai_by_engine": {},
+      "leads_28d": 1.0,
+      "form_leads_28d": 1,
+      "source": "Site Kit",
+      "engine_leads_28d": 0
     }
   ],
   "latest": {
-    "date": "2026-11-14",
-    "pages_total": 312,
-    "pages_indexed": 146,
-    "clicks_28d": 2,
-    "impressions_28d": 1466,
-    "engine_clicks_28d": 1,
-    "sessions_28d": 50.0,
+    "date": "2026-11-15",
+    "pages_total": 347,
+    "pages_indexed": 178,
+    "clicks_28d": 4,
+    "impressions_28d": 2275,
+    "engine_clicks_28d": 3,
+    "sessions_28d": 71.0,
     "ai_sessions_28d": 0,
     "ai_by_engine": {},
     "leads_28d": 1.0,
@@ -221,7 +236,7 @@
       "clicks": 1,
       "impressions": 66,
       "ctr": 0.015151515151515152,
-      "position": 54.42424242424242
+      "position": 54.39393939393939
     },
     {
       "date": "2026-11-12",
@@ -233,17 +248,19 @@
     {
       "date": "2026-11-13",
       "clicks": 0,
-      "impressions": 746,
+      "impressions": 762,
       "ctr": 0,
-      "position": 68.89276139410188
+      "position": 68.82808398950131
+    },
+    {
+      "date": "2026-11-14",
+      "clicks": 2,
+      "impressions": 793,
+      "ctr": 0.0025220680958385876,
+      "position": 72.52711223203026
     }
   ],
   "ga_daily": [
-    {
-      "date": "20261017",
-      "sessions": 0.0,
-      "keyEvents": 0.0
-    },
     {
       "date": "20261018",
       "sessions": 0.0,
@@ -366,16 +383,21 @@
     },
     {
       "date": "20261111",
-      "sessions": 0.0,
+      "sessions": 22.0,
       "keyEvents": 0.0
     },
     {
       "date": "20261112",
-      "sessions": 6.0,
+      "sessions": 0.0,
       "keyEvents": 0.0
     },
     {
       "date": "20261113",
+      "sessions": 5.0,
+      "keyEvents": 0.0
+    },
+    {
+      "date": "20261114",
       "sessions": 5.0,
       "keyEvents": 0.0
     }

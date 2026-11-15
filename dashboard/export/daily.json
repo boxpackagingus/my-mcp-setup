@@ -1,11 +1,5 @@
 [
   {
-    "day": "2026-10-17",
-    "impressions": 0,
-    "clicks": 0,
-    "visits": 0
-  },
-  {
     "day": "2026-10-18",
     "impressions": 0,
     "clicks": 0,
@@ -153,18 +147,24 @@
     "day": "2026-11-11",
     "impressions": 66,
     "clicks": 1,
-    "visits": 0
+    "visits": 22
   },
   {
     "day": "2026-11-12",
     "impressions": 303,
     "clicks": 0,
-    "visits": 6
+    "visits": 0
   },
   {
     "day": "2026-11-13",
-    "impressions": 746,
+    "impressions": 762,
     "clicks": 0,
+    "visits": 5
+  },
+  {
+    "day": "2026-11-14",
+    "impressions": 793,
+    "clicks": 2,
     "visits": 5
   }
 ]

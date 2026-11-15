@@ -1,0 +1,236 @@
+{
+  "query": "apple business actions",
+  "slug": "apple-business-actions",
+  "eyebrow": "Apple Maps",
+  "primary_keyword": "Apple Business Actions",
+  "secondary_keywords": [
+    "Apple Maps order button",
+    "Apple Maps reservation link",
+    "Apple Business Connect actions",
+    "Apple Maps booking"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Apple Business Actions: Add Booking and Order Buttons",
+    "meta_description": "How to add Actions such as Order, Reserve and Menu to your Apple Maps place card with Apple Business, requirements and approval times, for Orange County."
+  },
+  "h1": "Apple Business Actions: Add Order, Reserve and Booking Buttons to Apple Maps",
+  "answer": "Apple Business Actions are buttons on your Apple Maps place card, such as Order, Menu or Reserve, that link to your website or preferred platform. Your first Action becomes the Primary Action, shown next to your website button. Apple approves Actions, which can take up to three business days. Anaheim and Orange County businesses can use them to turn Maps views into bookings and orders.",
+  "key_takeaways": [
+    "Actions are buttons on the place card.",
+    "Types depend on your category.",
+    "The first Action becomes the Primary Action.",
+    "Approval can take up to three business days.",
+    "Customers need iOS 17.4 or later."
+  ],
+  "sections": [
+    {
+      "heading": "Apple Business Connect is now Apple Business",
+      "body_html": "<p>Apple's guide states that <a href=\"https://thechimeraai.com/how-to-set-up-apple-business/\">Apple Business Connect</a> is now Apple Business, which combines what was previously in Apple Business Manager, Apple Business Essentials and Apple Business Connect into one offering. If you used Apple Business Connect before, you can sign in to Apple Business with the same personal Apple Account.</p>"
+    },
+    {
+      "heading": "What Actions are",
+      "body_html": "<p>Apple's guide says Actions appear on place cards by adding a direct link to your brand's website or preferred platform. Maps users access them at the top of the place card through the Primary Action or More, with names such as Order or Tickets.</p>"
+    },
+    {
+      "heading": "Category Actions",
+      "body_html": "<p>Each category has several Action types. Apple's restaurant example includes Menu, Reserve, Waitlist, Pickup and Delivery. You can create Actions for the ones that fit and leave others empty.</p>"
+    },
+    {
+      "heading": "The Primary Action",
+      "body_html": "<p>Apple says the Primary Action appears as a button to the right of your website button, and under More with other Actions. Your very first Action automatically becomes the Primary Action; you can change it later.</p>"
+    },
+    {
+      "heading": "Requirements",
+      "body_html": "<ul><li>Customers need iOS 17.4 or iPadOS 17.4 or later to use Actions on iPhone and iPad.</li><li>A URL can't be used in more than one Action type.</li><li>A URL can't exactly match a third-party partner's Action URL.</li><li>Apple must approve Actions, which can take up to three business days.</li></ul>"
+    },
+    {
+      "heading": "Actions in showcases",
+      "body_html": "<p>Showcases can include an Action as their call-to-action button, linking a promotion straight to ordering or booking.</p>"
+    },
+    {
+      "heading": "Partner Actions",
+      "body_html": "<p>Apple notes that Actions can also be created through the Apple Business Partner API, and some Actions are available only that way. Booking or ordering platforms you already use may support them.</p>"
+    },
+    {
+      "heading": "Actions by business type",
+      "body_html": "<ul><li>Restaurants: Menu, Reserve, Pickup, Delivery.</li><li>Salons and spas: booking.</li><li>Venues: tickets.</li><li>Service businesses: a quote or booking page.</li></ul>"
+    },
+    {
+      "heading": "Use direct links",
+      "body_html": "<p>Link each Action to the page where the customer completes that task, not your homepage. Test every link on an iPhone after approval.</p>"
+    },
+    {
+      "heading": "Match your Google links",
+      "body_html": "<p>Use the same booking and ordering pages you link from your <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a>, so customers get the same experience wherever they find you.</p>"
+    },
+    {
+      "heading": "Common mistakes",
+      "body_html": "<ul><li>Linking every Action to the homepage.</li><li>Reusing one URL for several Action types.</li><li>Forgetting to test on an iPhone.</li><li>Leaving an old provider's link in place.</li><li>Not choosing the right Primary Action.</li></ul>"
+    },
+    {
+      "heading": "Questions owners ask us",
+      "body_html": "<p>Owners often ask which Action should be primary. Choose the action most customers take: Order for a takeout restaurant, Reserve for a sit-down restaurant, booking for a salon or clinic. Another common question is why an Action doesn't appear. It may still be in review, which can take up to three business days, or the customer's device may be on an older iOS version. Owners also ask whether Actions replace a phone number. They don't; many customers still call, so keep your phone number accurate and answered. Actions simply give people who prefer to book or order online a faster route from <a href=\"https://thechimeraai.com/add-business-to-apple-maps/\">Apple Maps</a> to your business.</p>"
+    },
+    {
+      "heading": "Checklist",
+      "body_html": "<ul><li>Action types chosen for your category.</li><li>Each Action links to a specific page.</li><li>Primary Action chosen.</li><li>Approved by Apple.</li><li>Tested on an iPhone.</li><li>Same links as Google.</li></ul>"
+    },
+    {
+      "heading": "An example",
+      "body_html": "<p>Imagine a sushi restaurant in <a href=\"https://thechimeraai.com/seo-irvine/\">Irvine</a> that takes reservations and pickup orders. It adds a Reserve Action linking to its booking page and a Pickup Action linking to its ordering page, making Reserve the Primary Action. After approval, iPhone users who find the restaurant in Maps can book a table in two taps.</p>"
+    },
+    {
+      "heading": "How this fits your local plan",
+      "body_html": "<p>It helps to see where this sits in the bigger picture. Google ranks local results mainly on relevance, distance and popularity, and AI assistants lean on the same public information: your Business Profile, your website, other listings and what customers write. For a business in Anaheim or anywhere in Orange County, the most reliable plan is simple and repeated: keep every listing accurate, explain each service clearly on its own page, show real proof of your work and reply to customers. Small improvements here compound, and they are far harder for competitors to copy than an ad budget.</p>"
+    },
+    {
+      "heading": "What to do this week",
+      "body_html": "<ol><li>List the actions customers take.</li><li>Add matching Actions.</li><li>Choose the Primary Action.</li><li>Test each link after approval.</li></ol>"
+    },
+    {
+      "heading": "When to get help",
+      "body_html": "<p>Plenty of owners handle this themselves. Outside help pays off when time is short, when the business has many locations or when a problem is costing calls every day it stays unresolved. Be wary of anyone who promises guaranteed positions or asks for your verification codes or passwords; Google says nobody can pay for a better local ranking. Look for clear explanations, honest timelines and reporting tied to real enquiries. <a href=\"https://thechimeraai.com/\">Chimera</a> offers exactly that to businesses in Anaheim and across Orange County.</p>"
+    },
+    {
+      "heading": "Matching Actions to your category",
+      "body_html": "<p>Think about the one thing most customers want to do after finding you. A taqueria with lots of takeout wants Order or Pickup first; a sit-down restaurant wants Reserve; a salon, spa or clinic wants booking; a venue wants Tickets. Make that the Primary Action, then add secondary Actions such as Menu or Delivery under More. Check that each linked page works on a phone, loads quickly and lets customers finish the task without hunting. Review Actions whenever you change booking or ordering providers, because an old link left in place sends customers to a dead end and makes Apple Maps look broken. Compare Action taps in Apple Business insights month to month to see which ones customers actually use. If an Action gets few taps, check whether the linked page is slow or confusing on a phone before removing it, and ask a friend to try booking or ordering from Apple Maps while you watch.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Add Actions for the tasks customers want, link each to the right page, choose a sensible Primary Action and test on an iPhone. Chimera, based in Anaheim, sets up Apple and Google action links together for Orange County businesses.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What are Apple Business Actions?",
+      "a": "Buttons on your Apple Maps place card, such as Order or Reserve, linking to your website or platform."
+    },
+    {
+      "q": "Which Action is the Primary Action?",
+      "a": "Your first Action by default; you can change it."
+    },
+    {
+      "q": "How long does Action approval take?",
+      "a": "Up to three business days."
+    },
+    {
+      "q": "What iOS version do customers need?",
+      "a": "iOS 17.4 or iPadOS 17.4 or later."
+    },
+    {
+      "q": "Can I use the same URL for two Actions?",
+      "a": "No. Apple says a URL can't appear in more than one Action type."
+    },
+    {
+      "q": "Can booking platforms add Actions?",
+      "a": "Some Actions are available through the Apple Business Partner API."
+    },
+    {
+      "q": "Do you help businesses in Anaheim and Orange County with this?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "Apple Business showcases",
+      "url": "https://thechimeraai.com/apple-business-showcases/"
+    },
+    {
+      "anchor": "Google Business Profile booking and order links",
+      "url": "https://thechimeraai.com/google-business-profile-links/"
+    },
+    {
+      "anchor": "Apple Maps place card",
+      "url": "https://thechimeraai.com/apple-maps-place-card/"
+    },
+    {
+      "anchor": "Apple Business insights",
+      "url": "https://thechimeraai.com/apple-business-insights/"
+    },
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Apple Business Connect is now Apple Business",
+      "url": "https://thechimeraai.com/blog/apple-business-connect-now-apple-business/"
+    },
+    {
+      "anchor": "Apple Business photos",
+      "url": "https://thechimeraai.com/apple-business-photos/"
+    },
+    {
+      "anchor": "Ads on Apple Maps",
+      "url": "https://thechimeraai.com/apple-maps-ads/"
+    },
+    {
+      "anchor": "Apple Branded Mail",
+      "url": "https://thechimeraai.com/apple-branded-mail/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Apple Business User Guide: About Actions in Apple Business",
+      "url": "https://support.apple.com/guide/business/about-actions-abcba5e65376/1/web/1"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 2,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "Adding Actions",
+      "lead": "From Apple's guide.",
+      "steps": [
+        {
+          "title": "Type",
+          "text": "Pick from your category."
+        },
+        {
+          "title": "Link",
+          "text": "Direct page URL."
+        },
+        {
+          "title": "Primary",
+          "text": "First Action by default."
+        },
+        {
+          "title": "Approve",
+          "text": "Up to three business days."
+        }
+      ]
+    }
+  ],
+  "hero_query": "How do I add a booking button to my Apple Maps listing?",
+  "short_title": "Apple Business Actions",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 2181,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/apple-business-actions-chimera.jpg",
+    "alt": "Apple Business Actions: Add Booking and Order Buttons: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-15",
+  "updated": "2026-11-15"
+}

@@ -78,7 +78,7 @@
     },
     {
       "heading": "Where near me searches happen",
-      "body_html": "<p>Near me searches happen in Google Search, Google Maps, Apple Maps, voice assistants and AI chat apps. Each draws on business listings and websites, so your profile on Google, your Apple Maps and Bing listings and your own website all need the same accurate details. A business that is correct on Google but wrong on Apple Maps can lose iPhone users searching for directions.</p>"
+      "body_html": "<p>Near me searches happen in Google Search, Google Maps, <a href=\"https://thechimeraai.com/add-business-to-apple-maps/\">Apple Maps</a>, voice assistants and AI chat apps. Each draws on business listings and websites, so your profile on Google, your Apple Maps and Bing listings and your own website all need the same accurate details. A business that is correct on Google but wrong on Apple Maps can lose iPhone users searching for directions.</p>"
     },
     {
       "heading": "Turning near me visibility into customers",
@@ -357,5 +357,5 @@
     "height": 840
   },
   "published": "2026-11-10",
-  "updated": "2026-11-14"
+  "updated": "2026-11-15"
 }

@@ -1,0 +1,236 @@
+{
+  "query": "apple branded mail",
+  "slug": "apple-branded-mail",
+  "eyebrow": "Apple Maps",
+  "primary_keyword": "Apple Branded Mail",
+  "secondary_keywords": [
+    "Apple Mail logo",
+    "branded email Apple",
+    "BIMI Apple Mail",
+    "Apple Business email branding"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Apple Branded Mail: Show Your Logo in iPhone Mail",
+    "meta_description": "How Apple Branded Mail adds your logo and name to emails in the Mail app, its requirements (DMARC, DKIM, commercial domain) and review time, for OC businesses."
+  },
+  "h1": "Apple Branded Mail: Put Your Logo on Emails in Apple Mail",
+  "answer": "Apple Branded Mail adds your business logo and name to emails you send, so they stand out in the Mail app on Apple devices and in iCloud Mail on the web. You need a verified organization and brand, a commercial email domain, DMARC compliance and DKIM-authenticated email. Apple's review can take up to seven business days. Anaheim and Orange County businesses can use it to make emails more trusted.",
+  "key_takeaways": [
+    "Shows your logo and name in Apple Mail.",
+    "Needs a verified organization and approved brand.",
+    "Requires a commercial domain, not Gmail or iCloud.",
+    "Mail must meet DMARC and be DKIM-authenticated.",
+    "Review can take up to seven business days."
+  ],
+  "sections": [
+    {
+      "heading": "Apple Business Connect is now Apple Business",
+      "body_html": "<p>Apple's guide states that <a href=\"https://thechimeraai.com/how-to-set-up-apple-business/\">Apple Business Connect</a> is now Apple Business, which combines what was previously in Apple Business Manager, Apple Business Essentials and Apple Business Connect into one offering. If you used Apple Business Connect before, you can sign in to Apple Business with the same personal Apple Account.</p>"
+    },
+    {
+      "heading": "What Branded Mail does",
+      "body_html": "<p>Apple's guide says Branded Mail lets businesses add a brand logo and name to their emails, helping build brand identity, increase trust and make emails stand out in Mail on Apple devices and iCloud Mail on the web.</p>"
+    },
+    {
+      "heading": "Where customers see it",
+      "body_html": "<p>Apple says customers see your brand in email on iPhone when the default language is English, Portuguese, French, Italian, German, Spanish or Simplified Chinese, and in iCloud Mail on the web.</p>"
+    },
+    {
+      "heading": "Requirements",
+      "body_html": "<ul><li>Your organization must be verified, and your brand and logo approved.</li><li>A commercial email domain; icloud.com, mac.com, gmail.com, outlook.com and yahoo.com aren't allowed.</li><li>The domain needs an MX, A or AAAA record.</li><li>Your mail server must meet DMARC requirements.</li><li>All emails must be DKIM-authenticated; SPF-only isn't supported.</li><li>Up to 100 domains, subdomains and email addresses per brand.</li></ul>"
+    },
+    {
+      "heading": "Choose what to brand",
+      "body_html": "<p>Apple says you can verify a whole domain and its subdomains, only a subdomain, or a specific email address. Its example: a membership program on a subdomain could use a different logo from the main brand.</p>"
+    },
+    {
+      "heading": "Franchisees",
+      "body_html": "<p>Apple notes that a franchisee needs to work with the brand owner to use Branded Mail, because the organization must own the brand.</p>"
+    },
+    {
+      "heading": "Review time",
+      "body_html": "<p>Apple says the review process can take up to seven business days. Third-party partners who manage your brand can also manage Branded Mail for you.</p>"
+    },
+    {
+      "heading": "Why authentication matters",
+      "body_html": "<p>DMARC and DKIM prove your emails really come from your domain. They protect customers from impersonation and improve deliverability generally, so they're worth setting up even before Branded Mail.</p>"
+    },
+    {
+      "heading": "Who benefits most",
+      "body_html": "<ul><li>Businesses that send appointment confirmations and reminders.</li><li>Retailers sending order and shipping emails.</li><li>Professional firms sending invoices or documents.</li><li>Any business whose customers might mistake a real email for spam.</li></ul>"
+    },
+    {
+      "heading": "Ask your email provider",
+      "body_html": "<p>Your email or website provider can usually set up DKIM and DMARC. Ask them to confirm all mail you send, including from booking or marketing tools, is DKIM-signed for your domain.</p>"
+    },
+    {
+      "heading": "Common mistakes",
+      "body_html": "<ul><li>Trying to brand a Gmail address.</li><li>SPF-only authentication.</li><li>Marketing tools sending unsigned mail.</li><li>Brand or logo not yet approved.</li><li>Franchisees applying without the brand owner.</li></ul>"
+    },
+    {
+      "heading": "Questions owners ask us",
+      "body_html": "<p>Owners often ask whether Branded Mail improves inbox placement. Apple describes it as adding your logo and name and helping emails stand out; authentication such as DKIM and DMARC is what helps deliverability in general. Another question is whether customers on Android or Gmail see the logo. Branded Mail applies to Apple's Mail app and iCloud Mail, as Apple describes; other providers have their own systems. Owners also ask how long setup takes. Once DKIM and DMARC are in place and your organization and brand are verified, submitting is quick, but allow up to seven business days for Apple's review. For Orange County businesses that send booking confirmations, it's a simple way to look more trustworthy.</p>"
+    },
+    {
+      "heading": "Checklist",
+      "body_html": "<ul><li>Organization verified.</li><li>Brand and logo approved.</li><li>Commercial domain.</li><li>DMARC in place.</li><li>DKIM on all sending tools.</li><li>Branded Mail submitted.</li></ul>"
+    },
+    {
+      "heading": "An example",
+      "body_html": "<p>Imagine a veterinary clinic in Garden Grove that sends appointment reminders from its practice software and newsletters from a marketing tool. Its IT provider sets up DMARC and makes sure both tools sign mail with DKIM for the clinic's domain. After Apple approves Branded Mail, clients see the clinic's logo next to reminders in iPhone Mail.</p>"
+    },
+    {
+      "heading": "How this fits your local plan",
+      "body_html": "<p>Treat this as part of a routine rather than a one-off fix. Local visibility in Anaheim and the rest of Orange County comes from many small, accurate signals adding up: a verified profile, <a href=\"https://thechimeraai.com/nap-consistency-local-citations/\">consistent listings</a>, useful service pages, real photos and a flow of honest reviews. Google is open that relevance, distance and popularity drive local results. You cannot change distance, but you can make sure Google and AI assistants understand exactly what you do and see evidence that customers value it. Put a monthly reminder in the calendar to check the profile, read new reviews and update anything that has changed.</p>"
+    },
+    {
+      "heading": "What to do this week",
+      "body_html": "<ol><li>List every tool that sends email for you.</li><li>Ask your provider about DKIM and DMARC.</li><li>Confirm your brand is approved.</li><li>Submit Branded Mail.</li></ol>"
+    },
+    {
+      "heading": "When to get help",
+      "body_html": "<p>You do not need an agency for every step here; Google documents most of it clearly. Consider outside help when the work is urgent and unfamiliar, when you manage several locations, or when the same issue returns after you fix it. Ask any provider to show you the specific guideline or documentation behind each recommendation, to keep you as the owner of your accounts and to report results in calls, bookings and leads rather than vanity numbers. That is how <a href=\"https://thechimeraai.com/\">Chimera</a> works with Orange County businesses from our base in Anaheim.</p>"
+    },
+    {
+      "heading": "Checking your email authentication",
+      "body_html": "<p>Before applying, check that your email is properly authenticated. Ask your email provider or IT person three questions: Is DKIM signing turned on for our domain? Do we have a DMARC record, and what policy does it use? Which other services send email as us, such as booking systems, invoicing tools, website forms and newsletter platforms, and are they DKIM-signed for our domain? Each tool that sends email for you needs to be set up correctly, or some messages won't qualify. Free online DMARC checkers can show whether a record exists, but your provider should confirm the details. Getting this right also helps your email reach inboxes more reliably, even beyond Apple Mail.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Verify your organization and brand, set up DMARC and DKIM on a commercial domain, then submit Branded Mail and allow up to seven business days. Chimera, based in Anaheim, helps Orange County businesses set up email authentication and branding.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is Apple Branded Mail?",
+      "a": "A feature that adds your logo and name to emails in Apple Mail and iCloud Mail on the web."
+    },
+    {
+      "q": "Can I use Branded Mail with Gmail?",
+      "a": "No. Apple requires a commercial domain, not gmail.com, icloud.com and similar."
+    },
+    {
+      "q": "What authentication is required?",
+      "a": "DMARC compliance and DKIM-authenticated email; SPF-only isn't supported."
+    },
+    {
+      "q": "How long does review take?",
+      "a": "Up to seven business days."
+    },
+    {
+      "q": "Can franchisees use Branded Mail?",
+      "a": "Only by working with the brand owner."
+    },
+    {
+      "q": "How many domains can a brand have?",
+      "a": "Up to 100 domains, subdomains and email addresses combined."
+    },
+    {
+      "q": "Do you help businesses in Anaheim and Orange County with this?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "how to set up Apple Business",
+      "url": "https://thechimeraai.com/how-to-set-up-apple-business/"
+    },
+    {
+      "anchor": "Apple Maps place card",
+      "url": "https://thechimeraai.com/apple-maps-place-card/"
+    },
+    {
+      "anchor": "NAP consistency and local citations",
+      "url": "https://thechimeraai.com/nap-consistency-local-citations/"
+    },
+    {
+      "anchor": "Google Business Profile optimization in Orange County",
+      "url": "https://thechimeraai.com/google-business-profile-optimization-orange-county/"
+    },
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Apple Business Connect is now Apple Business",
+      "url": "https://thechimeraai.com/blog/apple-business-connect-now-apple-business/"
+    },
+    {
+      "anchor": "Apple Business photos",
+      "url": "https://thechimeraai.com/apple-business-photos/"
+    },
+    {
+      "anchor": "Apple Business showcases",
+      "url": "https://thechimeraai.com/apple-business-showcases/"
+    },
+    {
+      "anchor": "Ads on Apple Maps",
+      "url": "https://thechimeraai.com/apple-maps-ads/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Apple Business User Guide: Intro to Branded Mail in Apple Business",
+      "url": "https://support.apple.com/guide/business/intro-to-branded-mail-abcb761b19d2/1/web/1"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 4,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "Setting up Branded Mail",
+      "lead": "From Apple's guide.",
+      "steps": [
+        {
+          "title": "Verify",
+          "text": "Organization and brand."
+        },
+        {
+          "title": "Authenticate",
+          "text": "DMARC and DKIM."
+        },
+        {
+          "title": "Choose",
+          "text": "Domain, subdomain or address."
+        },
+        {
+          "title": "Review",
+          "text": "Up to seven business days."
+        }
+      ]
+    }
+  ],
+  "hero_query": "How can my business logo show up in customers' iPhone email?",
+  "short_title": "Apple Branded Mail",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 2180,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/apple-branded-mail-chimera.jpg",
+    "alt": "Apple Branded Mail: Show Your Logo in iPhone Mail: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-15",
+  "updated": "2026-11-15"
+}

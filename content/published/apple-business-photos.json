@@ -1,0 +1,240 @@
+{
+  "query": "apple business photos",
+  "slug": "apple-business-photos",
+  "eyebrow": "Apple Maps",
+  "primary_keyword": "Apple Business photos",
+  "secondary_keywords": [
+    "Apple Maps photos",
+    "Apple Business cover photo",
+    "Apple Maps logo size",
+    "add photos to Apple Maps listing"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Apple Business Photos: Sizes and Rules for Apple Maps",
+    "meta_description": "Photo sizes and rules for Apple Business: location photos, cover photo, logo and showcase images for Apple Maps, explained for Anaheim and Orange County."
+  },
+  "h1": "Apple Business Photos: How to Add Photos to Apple Maps",
+  "answer": "Apple Business photos appear on your Apple Maps place card in an album called From the Business, once Apple approves them. Location photos must be at least 720 by 960 pixels, cover photos at least 1600 by 1040 and logos at least 1024 by 1024, in HEIF, JPEG or PNG. Anaheim and Orange County businesses should add real photos of the outside, inside and work.",
+  "key_takeaways": [
+    "Photos appear in the From the Business album.",
+    "Apple reviews every photo.",
+    "Location photos: at least 720 x 960 pixels.",
+    "Cover photo: at least 1600 x 1040, no promotional text.",
+    "Add captions and alt text."
+  ],
+  "sections": [
+    {
+      "heading": "Apple Business Connect is now Apple Business",
+      "body_html": "<p>Apple's guide states that Apple Business Connect is now Apple Business, which combines what was previously in Apple Business Manager, Apple Business Essentials and Apple Business Connect into one offering. If you used Apple Business Connect before, you can sign in to Apple Business with the same personal Apple Account.</p>"
+    },
+    {
+      "heading": "Where photos appear",
+      "body_html": "<p>Apple's guide says that after photos are added, approved and associated with a location, they appear in an album named From the Business on the place card, where customers can open them full screen. Photos are also used in the place card header, showcases and ads on Maps.</p>"
+    },
+    {
+      "heading": "Size requirements",
+      "body_html": "<table><tr><th>Use</th><th>Minimum size</th><th>Notes</th></tr><tr><td>Location photos</td><td>720 x 960</td><td>Specific to one location</td></tr><tr><td>Showcase photos</td><td>492 x 492</td><td>1:1 aspect ratio</td></tr><tr><td>Cover photo</td><td>1600 x 1040</td><td>No edits, promotional text, watermarks or clip art</td></tr><tr><td>Brand logo</td><td>1024 x 1024</td><td>1:1; HEIF, JPEG, PNG or SVG</td></tr></table><p>Source: Apple Business User Guide. Maximum size is 4864 x 4864 pixels.</p>"
+    },
+    {
+      "heading": "File formats",
+      "body_html": "<p>Apple accepts HEIF, JPEG or PNG for photos, and also SVG for logos. Apple suggests naming files clearly, especially if you have several locations, so each photo is easy to identify.</p>"
+    },
+    {
+      "heading": "What to photograph",
+      "body_html": "<p>Apple says location photos should be specific to a single location and help customers know what to expect, such as exterior views, services or products and ambiance. For a local business, that means the storefront from the street, the entrance, the inside and examples of your work.</p>"
+    },
+    {
+      "heading": "How to add photos",
+      "body_html": "<ol><li>In Apple Business, choose Brands, Locations and select your location.</li><li>Select Photos, then Add Photos.</li><li>Upload new photos or choose approved ones from the Asset Gallery.</li><li>Enter a caption and alt text, then select Upload.</li></ol>"
+    },
+    {
+      "heading": "Review and approval",
+      "body_html": "<p>Apple marks uploaded photos In Review and checks them against its photo and text standards before they can be used. Your organization must be verified before you can add photos.</p>"
+    },
+    {
+      "heading": "The cover photo",
+      "body_html": "<p>Apple's guide says the cover photo and logo together form the place card header shown in Maps and Apple Wallet. A location-specific cover photo takes precedence over the brand's. It's cropped to 2.5:1 for Maps and about 1.54:1 for Wallet, so keep the subject centered.</p>"
+    },
+    {
+      "heading": "Albums",
+      "body_html": "<p>Uploads appear in an album named All Photos, and Apple says category albums are created automatically once more than 27 photos are added.</p>"
+    },
+    {
+      "heading": "Alt text matters",
+      "body_html": "<p>Apple describes alt text as being for customers who may be unable to see the image. Describe what the photo shows plainly, such as Front entrance of the bakery on Main Street.</p>"
+    },
+    {
+      "heading": "Common mistakes",
+      "body_html": "<ul><li>Text or offers on the cover photo.</li><li>Low-resolution photos below the minimum size.</li><li>Stock images that don't show your location.</li><li>Skipping captions and alt text.</li><li>Using the same cover photo for every location when they look different.</li></ul>"
+    },
+    {
+      "heading": "Questions owners ask us",
+      "body_html": "<p>Owners often ask how many photos to add. Start with a strong cover photo and logo, then add enough location photos to answer customers' questions: what the outside looks like, how to find the entrance, what the inside feels like and examples of what you sell or do. Ten to twenty good photos is a sensible start, refreshed seasonally. Another question is whether to reuse <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a> photos. Yes, if they meet Apple's size and content requirements; consistent imagery helps customers recognize you. Owners also ask why a photo was rejected. Promotional text, watermarks and edits are common reasons for cover photos, so use clean, real photos.</p>"
+    },
+    {
+      "heading": "Checklist",
+      "body_html": "<ul><li>Logo at least 1024 x 1024.</li><li>Cover photo at least 1600 x 1040, no text.</li><li>Exterior and entrance photos.</li><li>Interior and work photos.</li><li>Captions and alt text added.</li><li>Photos approved.</li></ul>"
+    },
+    {
+      "heading": "An example",
+      "body_html": "<p>Imagine an auto repair shop in Santa Ana with no photos on Apple Maps. The owner uploads a square logo, a clean cover photo of the shop front, and photos of the entrance, the waiting area and the service bays, each with a caption and alt text. Once approved, drivers can see where to pull in before they arrive.</p>"
+    },
+    {
+      "heading": "How this fits your local plan",
+      "body_html": "<p>This task is one piece of a wider local plan. Google says local results are mainly based on relevance, distance and popularity, so the profile, your website and your reputation all have to agree. A practical order for most Orange County businesses is: get the Business Profile verified and accurate, make the <a href=\"https://thechimeraai.com/nap-consistency-local-citations/\">name, address and phone</a> identical everywhere, publish one clear page per service, then build a steady habit of <a href=\"https://thechimeraai.com/how-to-get-more-google-reviews/\">genuine reviews</a> and replies. Each step makes the next one work better, and the same signals help AI assistants such as <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a>, <a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a> and Google's AI features describe your business correctly when someone in Anaheim asks for a recommendation.</p>"
+    },
+    {
+      "heading": "What to do this week",
+      "body_html": "<ol><li>Prepare a logo and cover photo.</li><li>Take exterior and entrance photos.</li><li>Upload with captions and alt text.</li><li>Check approval status.</li></ol>"
+    },
+    {
+      "heading": "When to get help",
+      "body_html": "<p>Most of this can be done in-house with an hour or two and careful reading of Google's own help pages. It is worth bringing in help when the stakes are high or the problem keeps coming back: a profile that has been suspended more than once, many locations to manage, a site that keeps failing the same checks, or no time to keep up the routine. A good local SEO partner should explain what they will change and why, point to Google's guidelines rather than promise rankings, and leave you with access to every account. <a href=\"https://thechimeraai.com/\">Chimera</a> works this way with businesses across Anaheim and Orange County.</p>"
+    },
+    {
+      "heading": "A simple photo plan",
+      "body_html": "<p>Plan photos the way a first-time customer experiences your business. Start outside: a clear daytime shot of the storefront and one of the entrance or parking. Then inside: the main space, the counter or reception, and any seating. Then your work: products, dishes, finished jobs or treatment rooms. Finally, people, with permission: your team at work. Retake photos when you renovate, change signage or add services, and remove ones that no longer match reality.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Upload a clean cover photo, a square logo and real location photos at the required sizes, with captions and alt text, and let Apple approve them. Chimera, based in Anaheim, prepares Apple and Google photo sets for Orange County businesses.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where do Apple Business photos appear?",
+      "a": "In the From the Business album on your place card, and in headers, showcases and ads."
+    },
+    {
+      "q": "What size should Apple Maps photos be?",
+      "a": "Location photos at least 720 x 960 pixels; cover photos at least 1600 x 1040."
+    },
+    {
+      "q": "What file formats are accepted?",
+      "a": "HEIF, JPEG or PNG, plus SVG for logos."
+    },
+    {
+      "q": "Can the cover photo include text?",
+      "a": "No. Apple says no promotional text, watermarks or clip art."
+    },
+    {
+      "q": "Does Apple review photos?",
+      "a": "Yes. Photos are in review until Apple approves them."
+    },
+    {
+      "q": "Do I need to verify before adding photos?",
+      "a": "Yes. Apple says your organization must be verified."
+    },
+    {
+      "q": "Do you help businesses in Anaheim and Orange County with this?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "Apple Maps place card",
+      "url": "https://thechimeraai.com/apple-maps-place-card/"
+    },
+    {
+      "anchor": "Apple Business showcases",
+      "url": "https://thechimeraai.com/apple-business-showcases/"
+    },
+    {
+      "anchor": "Google Business Profile photos",
+      "url": "https://thechimeraai.com/google-business-profile-photos/"
+    },
+    {
+      "anchor": "how to set up Apple Business",
+      "url": "https://thechimeraai.com/how-to-set-up-apple-business/"
+    },
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Apple Business Connect is now Apple Business",
+      "url": "https://thechimeraai.com/blog/apple-business-connect-now-apple-business/"
+    },
+    {
+      "anchor": "Add your business to Apple Maps",
+      "url": "https://thechimeraai.com/add-business-to-apple-maps/"
+    },
+    {
+      "anchor": "Ads on Apple Maps",
+      "url": "https://thechimeraai.com/apple-maps-ads/"
+    },
+    {
+      "anchor": "Apple Branded Mail",
+      "url": "https://thechimeraai.com/apple-branded-mail/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Apple Business User Guide: Add, edit, or delete photos in Apple Business",
+      "url": "https://support.apple.com/guide/business/add-edit-or-delete-photos-abcb7557e4c4/1/web/1"
+    },
+    {
+      "title": "Apple Business User Guide: About the cover photo in Apple Business",
+      "url": "https://support.apple.com/guide/business/about-the-cover-photo-abcb139fcd45/1/web/1"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 2,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "Adding photos",
+      "lead": "From Apple's guide.",
+      "steps": [
+        {
+          "title": "Prepare",
+          "text": "Right size and format."
+        },
+        {
+          "title": "Upload",
+          "text": "Photos tab, Add Photos."
+        },
+        {
+          "title": "Describe",
+          "text": "Caption and alt text."
+        },
+        {
+          "title": "Approve",
+          "text": "Apple reviews."
+        }
+      ]
+    }
+  ],
+  "hero_query": "How do I add photos to my business on Apple Maps?",
+  "short_title": "Apple Business photos",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 2184,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/apple-business-photos-chimera.jpg",
+    "alt": "Apple Business Photos: Sizes and Rules for Apple Maps: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-15",
+  "updated": "2026-11-15"
+}
