@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Chimera Engine
  * Description: Support for engine-built landing pages: llms.txt, Markdown copies, robots.txt rules, schema, hub listing, IndexNow, page design, lead form, AI-traffic and lead tracking.
- * Version: 1.7.6
+ * Version: 1.7.7
  * Requires at least: 6.0
  * Requires PHP: 7.4
  * Author: The Chimera AI
@@ -138,7 +138,7 @@ add_action('wp_head', function () {
     if (!$has_seo_plugin) {
         $img = get_the_post_thumbnail_url($id, 'full');
         echo '<meta property="og:type" content="article">' . "\n";
-        echo '<meta property="og:title" content="' . esc_attr(get_the_title($id)) . '">' . "\n";
+        echo '<meta property="og:title" content="' . esc_attr(chimera_seo_title($id) ?: get_the_title($id)) . '">' . "\n";
         echo '<meta property="og:url" content="' . esc_url(get_permalink($id)) . '">' . "\n";
         echo '<meta property="og:site_name" content="' . esc_attr(get_bloginfo('name')) . '">' . "\n";
         if ($desc) {
@@ -417,3 +417,23 @@ add_action('wp_footer', function () {
 </script>
     <?php
 }, 99);
+
+
+/**
+ * SEO title for engine pages (1.7.7). Without Yoast or Rank Math, WordPress used the long H1 as the <title>,
+ * so the short, keyword-led titles the engine writes never reached search results. Use them when present.
+ */
+function chimera_seo_title($id) {
+    if (!$id || !get_post_meta($id, '_chimera_engine', true)) {
+        return '';
+    }
+    return trim((string) get_post_meta($id, '_yoast_wpseo_title', true));
+}
+
+add_filter('pre_get_document_title', function ($title) {
+    if (defined('WPSEO_VERSION') || class_exists('RankMath') || !is_singular()) {
+        return $title;
+    }
+    $seo = chimera_seo_title(get_queried_object_id());
+    return $seo !== '' ? $seo : $title;
+}, 20);
