@@ -1,5 +1,7 @@
 # Chimera Growth Engine
 
+> **Start here:** [HANDBOOK.md](HANDBOOK.md) is the complete guide (setup, daily run, rules, files). New chat? Paste [prompts/new-chat.md](prompts/new-chat.md). One-command setup: `bash scripts/setup.sh`.
+
 A daily engine for **thechimeraai.com** that finds the questions buyers search for, publishes a landing page for each one, and tracks traffic, AI-search visits and leads.
 
 ```
