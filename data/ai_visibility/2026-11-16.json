@@ -1,0 +1,366 @@
+{
+  "top_entities": [
+    [
+      "Coalition Technologies",
+      4
+    ],
+    [
+      "Directive Consulting",
+      4
+    ],
+    [
+      "Titan Growth",
+      3
+    ],
+    [
+      "Single Grain",
+      3
+    ],
+    [
+      "SEO Inc.",
+      2
+    ],
+    [
+      "Victorious SEO",
+      2
+    ],
+    [
+      "2. Directive Consulting",
+      2
+    ],
+    [
+      "SaaS, Tech, and B2B",
+      1
+    ],
+    [
+      "WebFX",
+      1
+    ],
+    [
+      "SaaS, Education, and Crypto/Blockchain",
+      1
+    ],
+    [
+      "ROI-focused keyword strategies",
+      1
+    ],
+    [
+      "Orange County SEO",
+      1
+    ],
+    [
+      "Local SEO / Google Business Profile",
+      1
+    ],
+    [
+      "Clarify \"Link Building\" Strategy",
+      1
+    ],
+    [
+      "Technical Audit Sample",
+      1
+    ],
+    [
+      "Contract Terms",
+      1
+    ],
+    [
+      "Reporting",
+      1
+    ],
+    [
+      "Revenue/Leads/Conversions",
+      1
+    ],
+    [
+      "Team Structure",
+      1
+    ],
+    [
+      "\"Generative Engine Optimization\" service line",
+      1
+    ],
+    [
+      "\"AI Overview Optimization\"",
+      1
+    ],
+    [
+      "Entity vs. Keywords",
+      1
+    ],
+    [
+      "Entity Recognition",
+      1
+    ],
+    [
+      "Citation/Source Strategy",
+      1
+    ],
+    [
+      "cited as a source",
+      1
+    ],
+    [
+      "Measurement",
+      1
+    ],
+    [
+      "'Share of Model'",
+      1
+    ],
+    [
+      "LLM Visibility",
+      1
+    ],
+    [
+      "ZipTie.dev, Profound, or Peec.ai",
+      1
+    ],
+    [
+      "ChatGPT",
+      1
+    ],
+    [
+      "Bing’s index",
+      1
+    ],
+    [
+      "Google AI Overviews",
+      1
+    ],
+    [
+      "GEO – Generative Engine Optimization",
+      1
+    ],
+    [
+      "Orange County-based agencies",
+      1
+    ],
+    [
+      "1. Coalition Technologies",
+      1
+    ],
+    [
+      "Verify",
+      1
+    ],
+    [
+      "3. Single Grain",
+      1
+    ],
+    [
+      "4. Titan Growth",
+      1
+    ],
+    [
+      "5. Wpromote",
+      1
+    ],
+    [
+      "6. Search Nurture",
+      1
+    ]
+  ],
+  "date": "2026-11-16",
+  "kind": "model memory (free models, no live web)",
+  "answers": 8,
+  "errors": 0,
+  "share_of_answers": {
+    "Chimera": 0,
+    "Thrive": 0,
+    "MileMark": 0,
+    "Brandastic": 0,
+    "The Ad Firm": 0,
+    "Ignite Digital": 0,
+    "Zupo": 0,
+    "Hexxen": 0,
+    "ignitedigital": 0
+  },
+  "rows": [
+    {
+      "prompt": "What is the best SEO company in Anaheim, California?",
+      "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+      "named": [],
+      "entities": [
+        "SEO Inc.",
+        "Coalition Technologies",
+        "Directive Consulting",
+        "SaaS, Tech, and B2B",
+        "Titan Growth",
+        "WebFX",
+        "Single Grain",
+        "SaaS, Education, and Crypto/Blockchain",
+        "Victorious SEO",
+        "ROI-focused keyword strategies",
+        "Orange County SEO",
+        "Local SEO / Google Business Profile",
+        "Clarify \"Link Building\" Strategy",
+        "Technical Audit Sample",
+        "Contract Terms",
+        "Reporting",
+        "Revenue/Leads/Conversions",
+        "Team Structure"
+      ],
+      "answer": "There is no single objective \"best\" SEO company, as the right fit depends entirely on your budget, industry, business size, and specific goals (e.g., local SEO, technical SEO, enterprise strategy, content marketing).\n\nHowever, here are several **well-reviewed, established SEO agencies located in or immediately serving Anaheim, CA**, based on third-party review platforms (Clutch, UpCity, Google Maps) and industry recognition:\n\n### Top-Rated Agencies in Anaheim\n1.  **SEO Inc.**\n    *   **Location:** Anaheim (Headquarters)\n    *   **Focus:** Enterprise & Mid-market SEO, PPC, Social Media. They are one of the older established firms in Orange County (founded 1997).\n    *   **Best for:** Companies looking for a large, full-service agency with a long track record.\n\n2.  **Coalition Technologies**\n    *   **Location:** Anaheim (Major office/hub)\n    *   **Focus:** SEO, Web Design, PPC, Email Marketing. Heavy focus on eCommerce (Shopify, BigCommerce, Magento) and lead generation.\n    *   **Best for:** E-commerce brands and businesses wanting a data-driven, full-funnel approach.\n\n3.  **Directive Consulting**\n    *   **Location:** Irvine (≈10 mins from Anaheim) — *Major OC player*\n    *   **Focus:** **SaaS, Tech, and B2B** SEO. Known for \"Customer Generation\" methodology.\n    *   **Best for:** B2B software/tech companies needing high-intent lead generation.\n\n4.   **Titan Growth**\n    *   **Location:** Anaheim Hills / Orange County area\n    *   **Focus:** Enterprise SEO, Paid Media, CRO. Known for proprietary technology (TitanBOT) for technical auditing.\n    *   **Best for:** Larger enterprises needing deep technical SEO and scalable processes.\n\n5.  **WebFX**\n    *   **Location:** Anaheim Office (HQ in PA, but significant local presence)\n    *   **Focus:** Full-service digital marketing (SEO, PPC, Web Design, CRM implementation). Proprietary marketing cloud software (MarketingCloudFX).\n    *   **Best for:** Businesses wanting a massive team, proprietary reporting tech, and guaranteed deliverables.\n\n---\n\n### Strong Boutique / Specialized Options (OC Based)\n*   **Single Grain** (Irvine/Remote): Founded by Eric Siu; strong focus on **SaaS, Education, and Crypto/Blockchain** SEO/content.\n*   **Victorious SEO** (Serves OC remotely/HQ in SF): Specializes *only* in SEO (no web design/PPC). Strong on **ROI-focused keyword strategies**.\n*   **Orange County SEO** (Local firms with this name exist; verify specific entity): Several smaller local shops operate under similar names focusing strictly on **Local SEO / Google Business Profile** for Anaheim/OC brick-and-mortars.\n\n---\n\n### How to Vet Them (Do This Before Signing)\n1.  **Ask for Case Studies in *Your* Vertical:** An agency great at eCommerce SEO may suck at Local Service Business SEO (plumbers, lawyers, dentists).\n2.  **Clarify \"Link Building\" Strategy:** Ask specifically *how* they acquire links. Avoid anyone buying links, using PBNs (Private Blog Networks), or guaranteeing \"DA/DR increases.\"\n3.  **Technical Audit Sample:** Ask to see a redacted sample of their technical site audit deliverable.\n4.  **Contract Terms:** Avoid 12-month lock-ins initially. Standard is 3–6 months with 30-day out clauses.\n5.  **Reporting:** Ensure they report on **Revenue/Leads/Conversions**, not just \"Rankings\" or \"Traffic.\"\n6.  **Team Structure:** Will"
+    },
+    {
+      "prompt": "Recommend a GEO agency in Orange County, California that can get my business mentioned in ChatGPT and Google AI Overviews.",
+      "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+      "named": [],
+      "entities": [
+        "Directive Consulting",
+        "\"Generative Engine Optimization\" service line",
+        "Single Grain",
+        "\"AI Overview Optimization\"",
+        "Coalition Technologies",
+        "Entity vs. Keywords",
+        "Entity Recognition",
+        "Citation/Source Strategy",
+        "cited as a source",
+        "Measurement",
+        "'Share of Model'",
+        "LLM Visibility",
+        "ZipTie.dev, Profound, or Peec.ai",
+        "ChatGPT",
+        "Bing’s index",
+        "Google AI Overviews"
+      ],
+      "answer": "Because \"Generative Engine Optimization\" (GEO) is an emerging discipline (the term was largely coined in late 2023), there is no established, third-party verified \"Top GEO Agency\" list yet. Most agencies currently offering this are **established SEO/Content strategy firms that have pivoted their methodologies** to target LLM citations and AI Overviews.\n\nHere are three Orange County-based agencies with strong technical SEO reputations that are actively publishing case studies/methodologies on AI Search optimization (GEO/AIO):\n\n### 1. **Directive Consulting** (Irvine)\n*   **Why them:** They are one of the few major OC agencies that has publicly built a specific **\"Generative Engine Optimization\" service line**. They publish original research on how LLMs cite sources (e.g., their \"LLM Visibility\" studies) and focus heavily on the *entity/knowledge graph* structure required for ChatGPT/Perplexity citations.\n*   **Best for:** B2B SaaS, Tech, and High-Growth companies needing technical entity optimization.\n*   **Website:** `directiveconsulting.com`\n\n### 2. **Single Grain** (Irvine / Costa Mesa area)\n*   **Why them:** Eric Siu’s agency has been very early on \"AI SEO\" content. They explicitly offer **\"AI Overview Optimization\"** and \"LLM Optimization\" services. Their approach leans heavily on *content clustering, citation building, and structured data* designed to trigger AI Overviews.\n*   **Best for:** Companies wanting a blend of performance marketing + organic AI visibility.\n*   **Website:** `singlegrain.com`\n\n### 3. **Coalition Technologies** (Irvine)\n*   **Why them:** A large, award-winning technical SEO shop. While they may not use the specific buzzword \"GEO\" on every landing page, their core methodology—**Schema/Structured Data at scale, Entity Resolution, and E-E-A-T content engineering**—is the exact technical foundation required to appear in Google AI Overviews and ChatGPT browsing results.\n*   **Best for:** E-commerce and Enterprise clients needing heavy technical implementation.\n*   **Website:** `coalitiontechnologies.com`\n\n---\n\n### What to actually ask them (The \"BS Filter\")\nSince everyone now claims to do GEO, ask these three specific questions to see if they have a real methodology vs. just rebranded SEO:\n\n1.  **Entity vs. Keywords:** *\"How do you optimize for **Entity Recognition** (Knowledge Graph/Wikidata/Schema) vs. traditional keyword ranking? Show me how you structure an entity home for a client.\"*\n2.  **Citation/Source Strategy:** *\"How do you engineer content to be **cited as a source** in an AI Overview (the little link icons) rather than just having your content summarized without attribution?\"*\n3.  **Measurement:** *\"How do you report on **'Share of Model'** or **LLM Visibility**? Do you use tools like **ZipTie.dev, Profound, or Peec.ai** to track citations in ChatGPT/Perplexity/AIOs over time?\"*\n\n### A Note on \"Getting Mentioned in ChatGPT\"\n*   **ChatGPT (Default/Browsing):** Relies heavily on **Bing’s index** + High-authority training data. You need strong Bing SEO + Digital PR on sites Bing trusts (Wikipedia, major news, .edu/.gov).\n*   **Google AI Overviews:**"
+    },
+    {
+      "prompt": "Which agencies in Orange County, CA help local businesses show up in AI search results?",
+      "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+      "named": [],
+      "entities": [
+        "GEO – Generative Engine Optimization",
+        "Orange County-based agencies",
+        "1. Coalition Technologies",
+        "Verify",
+        "2. Directive Consulting",
+        "3. Single Grain",
+        "4. Titan Growth",
+        "5. Wpromote",
+        "6. Search Nurture",
+        "7. Bastion Agency",
+        "Critical for AI",
+        "8. 97th Floor",
+        "major Irvine office/presence"
+      ],
+      "answer": "Because \"AI Search Optimization\" (often called **GEO – Generative Engine Optimization**) is a very new service category, most agencies don't yet list it as a distinct, standalone practice area on their websites. Instead, they are folding it into **Technical SEO, Content Strategy, and Schema/Structured Data services**.\n\nBelow are **Orange County-based agencies** with strong reputations for the technical SEO and content foundations that AI search (Google AI Overviews, Perplexity, ChatGPT browsing, etc.) relies on. You should contact them directly to confirm they are actively executing GEO strategies for clients right now.\n\n---\n\n### Agencies Headquartered in Orange County, CA\n\n**1. Coalition Technologies** (Irvine)\n*   **Why they fit:** One of the largest dedicated SEO firms in the county. They have dedicated R&D teams for algorithm changes and heavily invest in structured data/schema implementation—a prerequisite for AI citation.\n*   **Verify:** Ask about their \"AI Overview tracking\" and \"entity optimization\" processes.\n\n**2. Directive Consulting** (Irvine)\n*   **Why they fit:** Specializes in B2B/Tech SEO. They have published extensively on \"Generative Engine Optimization\" and the shift from keywords to entities/topics. Their \"Customer Generation\" methodology aligns well with how LLMs retrieve brand mentions.\n*   **Verify:** Ask for case studies on getting clients cited in AI Overviews or Perplexity.\n\n**3. Single Grain** (Irvine / Costa Mesa area)\n*   **Why they fit:** Eric Siu’s agency focuses heavily on content repurposing and \"omnipresence\" marketing. They are very vocal on their podcast (*Marketing School*) and blog about optimizing for LLM visibility (mentions, citations, brand authority).\n*   **Verify:** Ask about their \"LLM Audit\" or \"AI Visibility Audit\" deliverables.\n\n**4. Titan Growth** (Irvine)\n*   **Why they fit:** Known for proprietary technology (TitanBOT) that mimics search engine crawling. Technical crawling simulation is critical for understanding how AI bots (GPTBot, Google-Extended, PerplexityBot) see your site.\n*   **Verify:** Ask how they manage `robots.txt` / `ai.txt` directives and bot crawl budget for AI agents.\n\n**5. Wpromote** (Costa Mesa / Long Beach border)\n*   **Why they fit:** Large performance marketing agency with a dedicated \"Future of Search\" practice. They have published frameworks specifically for \"Optimizing for AI Overviews\" and \"Zero-Click Search.\"\n*   **Verify:** Ask for their specific framework for \"Grounding\" brand data in Knowledge Graphs.\n\n**6. Search Nurture** (Irvine)\n*   **Why they fit:** E-commerce and marketplace specialists. Since AI shopping agents (Perplexity Shopping, Rufus, Google AI Shopping) are the next frontier, their product feed optimization and PDP (Product Detail Page) schema expertise is directly applicable.\n*   **Verify:** Ask about optimizing Product Schema (`Product`, `Offer`, `Review`) for AI shopping agents.\n\n**7. Bastion Agency** (Irvine / Newport Beach)\n*   **Why they fit:** Integrated PR + Digital. **Critical for AI:** LLMs rely heavily on *earned media mentions* and authoritative third-party citations (Wikipedia, major news, industry journals) for training data and retrieval. Bastion’s PR arm builds exactly this \"off-site authority.\"\n*   **Verify:** Ask how they coordinate Digital PR campaigns specifically for LLM citation building.\n\n**8. 97th Floor** (Lehi, UT HQ but **major Irvine office/presence**)\n*"
+    },
+    {
+      "prompt": "Who is a good local SEO agency for a law firm in Orange County, California?",
+      "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+      "named": [],
+      "entities": [
+        "headquartered in Orange County",
+        "heavy specialization in Legal SEO",
+        "PaperStreet",
+        "Juris Digital",
+        "LawRank",
+        "AttorneySync",
+        "dNovo Group",
+        "Rankings.io",
+        "Consultwebs",
+        "Postali",
+        "Civille",
+        "Grow Law Firm",
+        "\"Who writes the content?\"",
+        "\"What is your link building strategy?\"",
+        "\"Do you have conflicts of interest?\"",
+        "\"What does reporting look like?\"",
+        "`\"personal injury lawyer Irvine\"`",
+        "organic results",
+        "Red Flag",
+        "Search",
+        "Click the top 3–5",
+        "Contact those agencies—they are"
+      ],
+      "answer": "I cannot browse live reviews, current rankings, or 2024/2025 \"Best Of\" lists, so I cannot give you a real-time verdict on who is currently the *best* performer.\n\nHowever, there are several agencies **headquartered in Orange County** or with a **heavy specialization in Legal SEO** that are frequently cited in the legal marketing community. You should vet these based on current case studies, client references, and pricing fit:\n\n### Agencies Headquartered in Orange County (Legal Focus)\n1.  **PaperStreet** (Irvine) — Very well-known nationally for law firm web design + SEO. They focus almost exclusively on law firms.\n2.  **Juris Digital** (Irvine area) — Founded by a former attorney; specializes strictly in law firm SEO and PPC.\n3.  **LawRank** (Newport Beach) — Focuses exclusively on SEO for personal injury and mass tort firms.\n4.  **AttorneySync** (Costa Mesa) — Long-standing agency focused on local SEO and GBP management for small-to-mid firms.\n5.  **dNovo Group** (Irvine) — Works with law firms on SEO, PPC, and intake optimization.\n\n### National Legal SEO Specialists (Often serve OC firms remotely)\n*   **Rankings.io** (Personal injury focus, high-end)\n*   **Consultwebs** (Broad practice areas, strong content/tech SEO)\n*   **Postali** (Content-heavy strategy, good for thought leadership)\n*   **Civille** (Technical SEO + Core Web Vitals focus)\n*   **Grow Law Firm** (Aggressive growth focus, PI/Mass Tort heavy)\n\n---\n\n### How to Vet Them (Critical for Law Firms)\nBecause legal SEO is high-stakes (YMYL), ask these specific questions before signing:\n\n1.  **\"Show me 3 case studies for firms in my practice area (e.g., PI, Family, Estate) in competitive California markets.\"** Look for traffic *and* lead/case acquisition data, not just keyword rankings.\n2.  **\"How do you handle Google Business Profile (Map Pack) optimization for multi-office or service-area firms?\"** This is the #1 driver for local legal leads.\n3.  **\"Who writes the content?\"** It must be legally accurate. Ask if they use US-based writers with legal backgrounds or attorneys on staff for review. AI-generated content without heavy editing is a liability risk.\n4.  **\"What is your link building strategy?\"** Avoid anyone buying links, using PBNs, or doing \"guest post\" farms. You want earned media, legal directory citations (Justia, Avvo, FindLaw, local bar associations), and scholarship/community outreach links.\n5.  **\"Do you have conflicts of interest?\"** Ensure they don't already represent your direct competitor in the same city/practice area.\n6.  **\"What does reporting look like?\"** You need visibility on: Organic Sessions → Goal Completions (Calls/Forms/Chats) → Qualified Leads → Signed Cases (if you share that data back).\n\n---\n\n### A Practical Shortcut\n1.  Search **`\"personal injury lawyer Irvine\"`** (or your specific practice area + city).\n2.  Click the top 3–5 **organic results** (not ads, not the map pack).\n3.  Scroll to the footer of their websites. The agency credit is usually there (e.g., *\"Marketing by [Agency Name]\"* or *\"Website by [Agency Name]\"*).\n4.  Contact those agencies—they are *proven* to rank firms in your exact market.\n\n**Red Flag:** Any agency guaranteeing"
+    },
+    {
+      "prompt": "I own a restaurant in Anaheim. Which marketing agency should I hire for Google Maps and AI search visibility?",
+      "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+      "named": [],
+      "entities": [
+        "For Google Maps",
+        "For AI search visibility",
+        "Local starting points to research"
+      ],
+      "answer": "I don't have access to current agency performance data, client reviews, or specific rankings for Anaheim-based marketing agencies. I can't recommend a specific firm without risking sending you to someone who might not be a good fit.\n\n**What to look for instead:**\n\n**For Google Maps (Local SEO):**\n- Agencies with proven GBP (Google Business Profile) optimization case studies for restaurants\n- Experience with multi-location if you plan to expand\n- Review management systems (not just \"we'll ask for reviews\")\n- Citation cleanup/local directory management\n- Photo/video optimization for GBP\n\n**For AI search visibility:**\n- Schema markup implementation (Restaurant, Menu, Review schemas)\n- Content strategy for conversational queries (\"best tacos near Disneyland open late\")\n- Entity optimization (making sure your brand, dishes, location are recognized)\n- Experience with AI Overviews/SGE tracking\n\n**How to vet them:**\n1. Ask for 2-3 restaurant clients in Orange County/LA area you can contact\n2. Request a sample audit of your current GBP and website\n3. Ask how they measure ROI — not just \"impressions\" but calls, direction requests, online orders\n4. Check if they outsource the work or do it in-house\n5. Get pricing in writing — monthly retainer vs. project-based\n\n**Local starting points to research:**\n- Search \"restaurant marketing agency Anaheim\" and \"local SEO agency Orange County\" — then vet the top 5-10 results using the criteria above\n- Ask other Anaheim restaurant owners (not competitors, but complementary businesses) who they use\n- Check Clutch.co or UpCity for verified reviews\n\nWould you like a checklist you can send to agencies to compare proposals?"
+    },
+    {
+      "prompt": "Best generative engine optimization (GEO) agencies in Southern California?",
+      "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+      "named": [],
+      "entities": [
+        "Generative Engine Optimization",
+        "Technical SEO/Content Strategy agencies",
+        "Los Angeles / Greater LA",
+        "Directive Consulting",
+        "HawkSEM",
+        "Single Grain",
+        "Coalition Technologies",
+        "Victorious",
+        "Orange County",
+        "Seer Interactive",
+        "Strongest public GEO footprint.",
+        "Titan Growth",
+        "Ignite Visibility",
+        "San Diego",
+        "Search Laboratory",
+        "97th Floor",
+        "“Show me a GEO audit deliverable.”",
+        "ZipTie",
+        "Peec AI",
+        "Profound",
+        "Athena",
+        "“How do you measure success?”",
+        "“Who on the team owns this?”"
+      ],
+      "answer": "Because **Generative Engine Optimization (GEO)** is an emerging discipline (largely defined in late 2023/2024), there are very few agencies with a long, proven track record *specifically* labeled \"GEO.\" Most reputable players are established **Technical SEO/Content Strategy agencies** that have rapidly built dedicated GEO/AI-Visibility practice areas.\n\nHere are Southern California agencies (LA, Orange County, San Diego) widely respected for technical SEO and AI-search readiness, listed alphabetically. **I have not audited their current GEO client results personally—verify case studies before signing.**\n\n---\n\n### **Los Angeles / Greater LA**\n| Agency | Why they’re relevant to GEO |\n|--------|-----------------------------|\n| **Directive Consulting** (Irvine/LA) | Enterprise B2B SEO; publishes original research on AI Overviews & LLM citation patterns; offers \"Generative Search Optimization\" as a defined service line. |\n| **HawkSEM** (LA) | Data-driven paid/organic hybrid; early adopter of schema/knowledge-graph work that feeds LLMs. |\n| **Single Grain** (LA/Remote) | Eric Siu’s shop; heavy content-engineering focus; publicly testing GEO tactics on their own properties. |\n| **Coalition Technologies** (LA) | Large technical SEO team; strong on site-speed, structured data, and entity optimization—core GEO prerequisites. |\n| **Victorious** (LA/SF) | Process-heavy enterprise SEO; recently publishing on \"AI Search Readiness Audits.\" |\n\n### **Orange County**\n| Agency | Why they’re relevant to GEO |\n|--------|-----------------------------|\n| **Seer Interactive** (Costa Mesa/Philly) | **Strongest public GEO footprint.** Publishes open-source LLM visibility tooling, runs \"AI Search\" workshops, and treats GEO as a distinct product. |\n| **Titan Growth** (San Diego/OC) | Patent-holding tech stack (TitanBOT) for crawl/render analysis; now layering LLM-citation tracking. |\n| **Ignite Visibility** (San Diego/OC) | John Lincoln’s team; early mover on \"Answer Engine Optimization\" content and schema strategies. |\n\n### **San Diego**\n| Agency | Why they’re relevant to GEO |\n|--------|-----------------------------|\n| **Search Laboratory** (SD) | Technical-first; deep log-file analysis and entity-mapping work that translates directly to LLM retrieval. |\n| **97th Floor** (SD/Lehi) | Enterprise content + SEO; investing heavily in \"AI Content Systems\" that align with GEO workflows. |\n\n---\n\n## How to Vet Them (5 Quick Questions)\n1. **“Show me a GEO audit deliverable.”** It should cover: entity coverage, citation gaps in Perplexity/ChatGPT/Claude, structured-data health, and competitor LLM share-of-voice.\n2. **“What tooling do you use for LLM rank tracking?”** Acceptable answers: custom API pipelines, **ZipTie**, **Peec AI**, **Profound**, **Athena**, or proprietary scripts—not just Semrush/Ahrefs.\n3. **“How do you measure success?”** Look for: *citation frequency*, *brand mention sentiment in AI answers*, *referral traffic from AI chat interfaces*, not just keyword rankings.\n4. **“Can you share a case study with before/after AI Overview / ChatGPT citation data?”** Red flag if they only show traditional SERP wins.\n5. **“Who on the team owns this?”** You want a named"
+    },
+    {
+      "prompt": "Which Orange County SEO agency should a home services contractor hire?",
+      "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+      "named": [],
+      "entities": [
+        "exactly how to vet them",
+        "home services",
+        "| For contractors,",
+        "Cost Per Booked Job",
+        "Coalition Technologies",
+        "Home Services division/team lead",
+        "Directive Consulting",
+        "Local/Services practice",
+        "Titan Growth",
+        "Victorious SEO",
+        "SEO Inc.",
+        "Local SEO Guide",
+        "Niche specialist."
+      ],
+      "answer": "I cannot give you a single definitive \"best\" agency because I don’t have access to real-time client retention data, current contract terms, or recent case studies from the last 6–12 months. **Anyone giving you a specific name without that data is guessing.**\n\nHowever, I can tell you **exactly how to vet them** and list agencies that have historically had a visible footprint in the **Orange County + Home Services/Contractor SEO niche** so you have a starting shortlist.\n\n---\n\n### 1. The \"Must-Ask\" Vetting Questions (Send these to 3–5 agencies)\nIf an agency cannot answer these specifically for **home services**, walk away.\n\n| Question | Why It Matters for Contractors |\n| :--- | :--- |\n| **\"Show me 3 case studies for roofing, HVAC, plumbing, or general contracting clients in the last 18 months.\"** | Proves they know your seasonality, lead types (emergency vs. install), and GBP (Google Business Profile) nuances. |\n| **\"How do you handle Google Business Profile (GBP) optimization vs. website SEO?\"** | For contractors, **GBP drives 60–80% of leads**. If they treat it as an afterthought, they don't know your vertical. |\n| **\"What is your link building strategy for local service businesses?\"** | Avoid: PBNs, guest post farms, \"national\" links. Look for: Local citations, supplier/manufacturer badges, Chamber of Commerce, local news sponsorships, EGIA/ACCA associations. |\n| **\"How do you track ROI? Do you integrate with ServiceTitan, Housecall Pro, Jobber, or CallRail?\"** | If they only send \"traffic reports\" or \"keyword rankings,\" they aren't measuring *revenue*. You need **Cost Per Booked Job**. |\n| **\"Who writes the content? Do you have writers who know Manual J load calculations, SEER ratings, or trenchless sewer repair?\"** | Generic content (\"5 Signs You Need a New Roof\") doesn't convert. Technical accuracy builds trust with homeowners *and* Google E-E-A-T. |\n| **\"What happens if we pause after 6 months?\"** | You want an asset build (content, citations, GBP authority) you keep, not a rental model where they delete your citations/links if you leave. |\n\n---\n\n### 2. Agencies to Investigate (Orange County / SoCal Focus)\n*These firms have historically marketed to or worked with home services clients in the OC/LA metro. **Verify current client roster and team stability before signing.***\n\n| Agency | Location | Notes for Vetting |\n| :--- | :--- | :--- |\n| **Coalition Technologies** | Los Angeles (serves OC heavily) | Large team; ask specifically for their **Home Services division/team lead**. Ensure you aren't handed to a junior generalist. |\n| **Directive Consulting** | Irvine | Strong B2B/tech roots, but has a **Local/Services practice**. Good if you want sophisticated analytics/attribution modeling. |\n| **Titan Growth** | San Diego / OC presence | Known for \"TitanBOT\" tech stack. Ask how their AI tools apply to *local* contractor SEO specifically. |\n| **Victorious SEO** | Remote / SF roots, OC clients | Process-heavy. Good if you want strict SOPs; bad if you need high-touch strategy pivots. |\n| **SEO Inc.** | Carlsbad (North County) | Old school (20+ years). Deep technical bench. Verify their current local/GBP capabilities vs. traditional national SEO. |\n| **Local SEO Guide** | Remote (Andrew Shotland) | **Niche specialist.** They *only* do enterprise/local SEO. Very expensive, but arguably the highest strategic"
+    },
+    {
+      "prompt": "Top AI search optimization consultants near Irvine, California?",
+      "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+      "named": [],
+      "entities": [
+        "Technical SEO",
+        "Content Strategy",
+        "Digital Marketing",
+        "1. Single Grain",
+        "Irvine",
+        "Relevance",
+        "2. Directive Consulting",
+        "3. Coalition Technologies",
+        "4. Victorious SEO",
+        "5. Kevin Indig",
+        "Los Angeles / OC Area",
+        "6. Eli Schwartz",
+        "Los Angeles Area"
+      ],
+      "answer": "I don't have access to a real-time, ranked leaderboard of consultants specifically titled \"AI Search Optimization\" (or GEO/Generative Engine Optimization) in the Irvine area, as this is an emerging niche and most practitioners operate under broader **Technical SEO**, **Content Strategy**, or **Digital Marketing** agency umbrellas.\n\nHowever, here are **reputable agencies and consultants based in or near Irvine/Orange County** that are actively publishing case studies, speaking on the topic, and offering Generative Engine Optimization (GEO) / AI Overview optimization services as of early 2025.\n\n### Agencies with Irvine/OC Presence & Known AI/GEO Focus\n\n**1. Single Grain (Eric Siu)**\n*   **Location:** Headquartered in **Irvine** (Spectrum area).\n*   **Relevance:** Eric Siu (CEO) hosts the *Marketing School* podcast (with Neil Patel) and *Leveling Up*, where they frequently discuss AI search, GEO, and SGE/AI Overview optimization strategies. They offer enterprise SEO programs that now explicitly include \"AI Search Readiness\" and GEO audits.\n*   **Best for:** SaaS, Tech, Education, Enterprise.\n\n**2. Directive Consulting**\n*   **Location:** **Irvine** (Headquarters).\n*   **Relevance:** A major B2B/Enterprise SEO agency. They have published extensive content on \"Generative Engine Optimization\" (GEO) and optimizing for AI Overviews/Perplexity/ChatGPT citations. They treat GEO as a technical discipline (schema, entity optimization, citation building).\n*   **Best for:** B2B SaaS, High-growth Tech, Enterprise.\n\n**3. Coalition Technologies**\n*   **Location:** **Irvine** (Major office/Hub).\n*   **Relevance:** Large technical SEO shop. They have released specific \"GEO Services\" pages and whitepapers on optimizing for LLM retrieval (RAG) and AI Overviews. Strong on the technical infrastructure side (site speed, crawlability, structured data) required for AI citation.\n*   **Best for:** E-commerce, Enterprise, Technical SEO heavy lifts.\n\n**4. Victorious SEO**\n*   **Location:** **Irvine** (Office) / HQ in SF.\n*   **Relevance:** Data-driven SEO agency. They have launched specific \"AI Search Optimization\" service lines focusing on entity optimization, knowledge graph management, and content restructuring for LLM summarization.\n*   **Best for:** Mid-market to Enterprise, Data-led approach.\n\n---\n\n### Specialized Consultants / Boutiques (Southern California Based)\n\n**5. Kevin Indig (Growth Memo / Advisory)**\n*   **Location:** **Los Angeles / OC Area** (Remote-friendly).\n*   **Relevance:** Former VP SEO/Content at Shopify & G2. One of the most cited voices on the *theory* of GEO (Information Gain, Entity SEO, RAG optimization). He runs a high-end advisory practice for late-stage startups/public companies.\n*   **Best for:** Strategic advisory, Board-level strategy, Product-led SEO.\n\n**6. Eli Schwartz (Growth Advisor / Author \"Product-Led SEO\")**\n*   **Location:** **Los Angeles Area**.\n*   **Relevance:** Author of the definitive book on modern SEO strategy. He consults specifically on \"Product-Led SEO\" which aligns perfectly with how AI retrieves information (structured data, programmatic pages, user intent modeling). Active speaker"
+    }
+  ]
+}

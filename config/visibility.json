@@ -1,0 +1,70 @@
+{
+  "note": "Buyer questions asked to free AI models each day. Models are free OpenRouter models that answered reliably on 2026-11-16.",
+  "models": [
+    "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "baidu/ernie-5.5-flash-preview:free",
+    "particle-ai/particle-1:free"
+  ],
+  "prompts": [
+    "What is the best SEO company in Anaheim, California?",
+    "Recommend a GEO agency in Orange County, California that can get my business mentioned in ChatGPT and Google AI Overviews.",
+    "Which agencies in Orange County, CA help local businesses show up in AI search results?",
+    "Who is a good local SEO agency for a law firm in Orange County, California?",
+    "I own a restaurant in Anaheim. Which marketing agency should I hire for Google Maps and AI search visibility?",
+    "Best generative engine optimization (GEO) agencies in Southern California?",
+    "Which Orange County SEO agency should a home services contractor hire?",
+    "Top AI search optimization consultants near Irvine, California?"
+  ],
+  "extra_brands": {
+    "Thrive": [
+      "thrive agency",
+      "thriveagency"
+    ],
+    "MileMark": [
+      "milemark"
+    ],
+    "Brandastic": [
+      "brandastic"
+    ],
+    "The Ad Firm": [
+      "the ad firm",
+      "theadfirm"
+    ],
+    "Ignite Digital": [
+      "ignite digital"
+    ],
+    "Zupo": [
+      "\\bzupo\\b"
+    ],
+    "Hexxen": [
+      "hexxen"
+    ],
+    "Coalition Technologies": [
+      "coalition technologies"
+    ],
+    "Directive Consulting": [
+      "directive consulting",
+      "\\bdirective\\b"
+    ],
+    "Titan Growth": [
+      "titan growth"
+    ],
+    "Single Grain": [
+      "single grain"
+    ],
+    "SEO Inc": [
+      "seo inc\\b",
+      "seoinc"
+    ],
+    "Victorious": [
+      "victorious"
+    ],
+    "WebFX": [
+      "webfx"
+    ],
+    "PaperStreet": [
+      "paperstreet",
+      "paper street"
+    ]
+  }
+}
