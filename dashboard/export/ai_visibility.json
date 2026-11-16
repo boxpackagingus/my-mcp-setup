@@ -1,0 +1,51 @@
+[
+  {
+    "brand": "Chimera",
+    "answers_named": 0,
+    "answers": 8,
+    "date": "2026-11-16",
+    "share": 0.0
+  },
+  {
+    "brand": "Directive Consulting",
+    "answers_named": 6,
+    "answers": 8,
+    "date": "2026-11-16",
+    "share": 0.75
+  },
+  {
+    "brand": "Coalition Technologies",
+    "answers_named": 5,
+    "answers": 8,
+    "date": "2026-11-16",
+    "share": 0.625
+  },
+  {
+    "brand": "Single Grain",
+    "answers_named": 4,
+    "answers": 8,
+    "date": "2026-11-16",
+    "share": 0.5
+  },
+  {
+    "brand": "Titan Growth",
+    "answers_named": 4,
+    "answers": 8,
+    "date": "2026-11-16",
+    "share": 0.5
+  },
+  {
+    "brand": "SEO Inc",
+    "answers_named": 2,
+    "answers": 8,
+    "date": "2026-11-16",
+    "share": 0.25
+  },
+  {
+    "brand": "Victorious SEO",
+    "answers_named": 2,
+    "answers": 8,
+    "date": "2026-11-16",
+    "share": 0.25
+  }
+]

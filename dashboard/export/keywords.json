@@ -3980,31 +3980,6 @@
     "page": "seo-for-commercial-cleaning"
   },
   {
-    "keyword": "SEO for divorce lawyers",
-    "kind": "Main",
-    "page": "seo-for-divorce-lawyers"
-  },
-  {
-    "keyword": "family law marketing",
-    "kind": "Supporting",
-    "page": "seo-for-divorce-lawyers"
-  },
-  {
-    "keyword": "divorce attorney SEO",
-    "kind": "Supporting",
-    "page": "seo-for-divorce-lawyers"
-  },
-  {
-    "keyword": "family lawyer SEO",
-    "kind": "Supporting",
-    "page": "seo-for-divorce-lawyers"
-  },
-  {
-    "keyword": "divorce lawyer marketing Orange County",
-    "kind": "Supporting",
-    "page": "seo-for-divorce-lawyers"
-  },
-  {
     "keyword": "SEO for driving schools",
     "kind": "Main",
     "page": "seo-for-driving-schools"
@@ -4353,6 +4328,31 @@
     "keyword": "Google Business Profile edits",
     "kind": "Supporting",
     "page": "how-to-edit-google-business-profile"
+  },
+  {
+    "keyword": "SEO for divorce lawyers",
+    "kind": "Main",
+    "page": "seo-for-divorce-lawyers"
+  },
+  {
+    "keyword": "family law marketing",
+    "kind": "Supporting",
+    "page": "seo-for-divorce-lawyers"
+  },
+  {
+    "keyword": "divorce attorney SEO",
+    "kind": "Supporting",
+    "page": "seo-for-divorce-lawyers"
+  },
+  {
+    "keyword": "family lawyer SEO",
+    "kind": "Supporting",
+    "page": "seo-for-divorce-lawyers"
+  },
+  {
+    "keyword": "divorce lawyer marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-divorce-lawyers"
   },
   {
     "keyword": "Businesses in ChatGPT",
@@ -4830,51 +4830,6 @@
     "page": "seo-for-coffee-shops"
   },
   {
-    "keyword": "SEO for criminal defense lawyers",
-    "kind": "Main",
-    "page": "seo-for-criminal-defense-lawyers"
-  },
-  {
-    "keyword": "criminal lawyer SEO",
-    "kind": "Supporting",
-    "page": "seo-for-criminal-defense-lawyers"
-  },
-  {
-    "keyword": "DUI lawyer SEO",
-    "kind": "Supporting",
-    "page": "seo-for-criminal-defense-lawyers"
-  },
-  {
-    "keyword": "criminal defense SEO Orange County",
-    "kind": "Supporting",
-    "page": "seo-for-criminal-defense-lawyers"
-  },
-  {
-    "keyword": "SEO for estate planning attorneys",
-    "kind": "Main",
-    "page": "seo-for-estate-planning-attorneys"
-  },
-  {
-    "keyword": "estate planning marketing",
-    "kind": "Supporting",
-    "page": "seo-for-estate-planning-attorneys"
-  },
-  {
-    "keyword": "estate planning law firm SEO",
-    "kind": "Supporting",
-    "page": "seo-for-estate-planning-attorneys"
-  },
-  {
-    "keyword": "trust attorney marketing",
-    "kind": "Supporting",
-    "page": "seo-for-estate-planning-attorneys"
-  },
-  {
-    "keyword": "estate planning SEO Orange County",
-    "kind": "Supporting",
-    "page": "seo-for-estate-planning-attorneys"
-  },
-  {
     "keyword": "SEO for event planners",
     "kind": "Main",
     "page": "seo-for-event-planners"
@@ -4923,31 +4878,6 @@
     "keyword": "fence company marketing Orange County",
     "kind": "Supporting",
     "page": "seo-for-fence-companies"
-  },
-  {
-    "keyword": "SEO for immigration lawyers",
-    "kind": "Main",
-    "page": "seo-for-immigration-lawyers"
-  },
-  {
-    "keyword": "immigration law firm marketing",
-    "kind": "Supporting",
-    "page": "seo-for-immigration-lawyers"
-  },
-  {
-    "keyword": "immigration attorney SEO",
-    "kind": "Supporting",
-    "page": "seo-for-immigration-lawyers"
-  },
-  {
-    "keyword": "immigration lawyer marketing",
-    "kind": "Supporting",
-    "page": "seo-for-immigration-lawyers"
-  },
-  {
-    "keyword": "immigration lawyer SEO Orange County",
-    "kind": "Supporting",
-    "page": "seo-for-immigration-lawyers"
   },
   {
     "keyword": "SEO for IT companies",
@@ -5248,6 +5178,76 @@
     "keyword": "temporarily closed Google Business Profile",
     "kind": "Supporting",
     "page": "google-business-profile-holiday-hours"
+  },
+  {
+    "keyword": "SEO for criminal defense lawyers",
+    "kind": "Main",
+    "page": "seo-for-criminal-defense-lawyers"
+  },
+  {
+    "keyword": "criminal lawyer SEO",
+    "kind": "Supporting",
+    "page": "seo-for-criminal-defense-lawyers"
+  },
+  {
+    "keyword": "DUI lawyer SEO",
+    "kind": "Supporting",
+    "page": "seo-for-criminal-defense-lawyers"
+  },
+  {
+    "keyword": "criminal defense SEO Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-criminal-defense-lawyers"
+  },
+  {
+    "keyword": "SEO for estate planning attorneys",
+    "kind": "Main",
+    "page": "seo-for-estate-planning-attorneys"
+  },
+  {
+    "keyword": "estate planning marketing",
+    "kind": "Supporting",
+    "page": "seo-for-estate-planning-attorneys"
+  },
+  {
+    "keyword": "estate planning law firm SEO",
+    "kind": "Supporting",
+    "page": "seo-for-estate-planning-attorneys"
+  },
+  {
+    "keyword": "trust attorney marketing",
+    "kind": "Supporting",
+    "page": "seo-for-estate-planning-attorneys"
+  },
+  {
+    "keyword": "estate planning SEO Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-estate-planning-attorneys"
+  },
+  {
+    "keyword": "SEO for immigration lawyers",
+    "kind": "Main",
+    "page": "seo-for-immigration-lawyers"
+  },
+  {
+    "keyword": "immigration law firm marketing",
+    "kind": "Supporting",
+    "page": "seo-for-immigration-lawyers"
+  },
+  {
+    "keyword": "immigration attorney SEO",
+    "kind": "Supporting",
+    "page": "seo-for-immigration-lawyers"
+  },
+  {
+    "keyword": "immigration lawyer marketing",
+    "kind": "Supporting",
+    "page": "seo-for-immigration-lawyers"
+  },
+  {
+    "keyword": "immigration lawyer SEO Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-immigration-lawyers"
   },
   {
     "keyword": "AI search plan",
@@ -5743,56 +5743,6 @@
     "keyword": "local search Orange County",
     "kind": "Supporting",
     "page": "local-seo-orange-county"
-  },
-  {
-    "keyword": "SEO company Anaheim",
-    "kind": "Main",
-    "page": "seo-company-anaheim"
-  },
-  {
-    "keyword": "SEO agency Anaheim",
-    "kind": "Supporting",
-    "page": "seo-company-anaheim"
-  },
-  {
-    "keyword": "Anaheim SEO services",
-    "kind": "Supporting",
-    "page": "seo-company-anaheim"
-  },
-  {
-    "keyword": "local SEO Anaheim",
-    "kind": "Supporting",
-    "page": "seo-company-anaheim"
-  },
-  {
-    "keyword": "AI SEO Anaheim",
-    "kind": "Supporting",
-    "page": "seo-company-anaheim"
-  },
-  {
-    "keyword": "SEO company Orange County",
-    "kind": "Main",
-    "page": "seo-company-orange-county"
-  },
-  {
-    "keyword": "Orange County SEO agency",
-    "kind": "Supporting",
-    "page": "seo-company-orange-county"
-  },
-  {
-    "keyword": "SEO services Orange County",
-    "kind": "Supporting",
-    "page": "seo-company-orange-county"
-  },
-  {
-    "keyword": "SEO company Orange County CA",
-    "kind": "Supporting",
-    "page": "seo-company-orange-county"
-  },
-  {
-    "keyword": "AI SEO Orange County",
-    "kind": "Supporting",
-    "page": "seo-company-orange-county"
   },
   {
     "keyword": "Costa Mesa SEO",
@@ -6540,31 +6490,6 @@
     "page": "seo-for-landscapers"
   },
   {
-    "keyword": "SEO for law firms",
-    "kind": "Main",
-    "page": "seo-for-law-firms-orange-county"
-  },
-  {
-    "keyword": "law firm SEO",
-    "kind": "Supporting",
-    "page": "seo-for-law-firms-orange-county"
-  },
-  {
-    "keyword": "attorney SEO",
-    "kind": "Supporting",
-    "page": "seo-for-law-firms-orange-county"
-  },
-  {
-    "keyword": "lawyer marketing",
-    "kind": "Supporting",
-    "page": "seo-for-law-firms-orange-county"
-  },
-  {
-    "keyword": "legal marketing Orange County",
-    "kind": "Supporting",
-    "page": "seo-for-law-firms-orange-county"
-  },
-  {
     "keyword": "SEO for locksmiths",
     "kind": "Main",
     "page": "seo-for-locksmiths"
@@ -6765,21 +6690,6 @@
     "page": "seo-for-painters"
   },
   {
-    "keyword": "SEO for personal injury lawyers",
-    "kind": "Main",
-    "page": "seo-for-personal-injury-lawyers"
-  },
-  {
-    "keyword": "personal injury SEO",
-    "kind": "Supporting",
-    "page": "seo-for-personal-injury-lawyers"
-  },
-  {
-    "keyword": "personal injury marketing Orange County",
-    "kind": "Supporting",
-    "page": "seo-for-personal-injury-lawyers"
-  },
-  {
     "keyword": "SEO for pest control",
     "kind": "Main",
     "page": "seo-for-pest-control"
@@ -6978,56 +6888,6 @@
     "keyword": "property management marketing Orange County",
     "kind": "Supporting",
     "page": "seo-for-property-management"
-  },
-  {
-    "keyword": "SEO for real estate agents",
-    "kind": "Main",
-    "page": "seo-for-real-estate-agents-orange-county"
-  },
-  {
-    "keyword": "real estate SEO",
-    "kind": "Supporting",
-    "page": "seo-for-real-estate-agents-orange-county"
-  },
-  {
-    "keyword": "realtor SEO",
-    "kind": "Supporting",
-    "page": "seo-for-real-estate-agents-orange-county"
-  },
-  {
-    "keyword": "real estate marketing",
-    "kind": "Supporting",
-    "page": "seo-for-real-estate-agents-orange-county"
-  },
-  {
-    "keyword": "realtor marketing Orange County",
-    "kind": "Supporting",
-    "page": "seo-for-real-estate-agents-orange-county"
-  },
-  {
-    "keyword": "SEO for restaurants",
-    "kind": "Main",
-    "page": "seo-for-restaurants-orange-county"
-  },
-  {
-    "keyword": "restaurant SEO",
-    "kind": "Supporting",
-    "page": "seo-for-restaurants-orange-county"
-  },
-  {
-    "keyword": "restaurant marketing",
-    "kind": "Supporting",
-    "page": "seo-for-restaurants-orange-county"
-  },
-  {
-    "keyword": "local SEO for restaurants",
-    "kind": "Supporting",
-    "page": "seo-for-restaurants-orange-county"
-  },
-  {
-    "keyword": "restaurant marketing Orange County",
-    "kind": "Supporting",
-    "page": "seo-for-restaurants-orange-county"
   },
   {
     "keyword": "SEO for roofers",
@@ -7300,31 +7160,6 @@
     "page": "seo-fullerton"
   },
   {
-    "keyword": "Huntington Beach SEO",
-    "kind": "Main",
-    "page": "seo-huntington-beach"
-  },
-  {
-    "keyword": "SEO company Huntington Beach",
-    "kind": "Supporting",
-    "page": "seo-huntington-beach"
-  },
-  {
-    "keyword": "Huntington Beach SEO agency",
-    "kind": "Supporting",
-    "page": "seo-huntington-beach"
-  },
-  {
-    "keyword": "local SEO Huntington Beach",
-    "kind": "Supporting",
-    "page": "seo-huntington-beach"
-  },
-  {
-    "keyword": "SEO services Huntington Beach",
-    "kind": "Supporting",
-    "page": "seo-huntington-beach"
-  },
-  {
     "keyword": "Irvine SEO",
     "kind": "Main",
     "page": "seo-irvine"
@@ -7468,6 +7303,276 @@
     "keyword": "open near me",
     "kind": "Supporting",
     "page": "near-me-searches"
+  },
+  {
+    "keyword": "SEO company Anaheim",
+    "kind": "Main",
+    "page": "seo-company-anaheim"
+  },
+  {
+    "keyword": "SEO agency Anaheim",
+    "kind": "Supporting",
+    "page": "seo-company-anaheim"
+  },
+  {
+    "keyword": "Anaheim SEO services",
+    "kind": "Supporting",
+    "page": "seo-company-anaheim"
+  },
+  {
+    "keyword": "local SEO Anaheim",
+    "kind": "Supporting",
+    "page": "seo-company-anaheim"
+  },
+  {
+    "keyword": "AI SEO Anaheim",
+    "kind": "Supporting",
+    "page": "seo-company-anaheim"
+  },
+  {
+    "keyword": "seo anaheim",
+    "kind": "Supporting",
+    "page": "seo-company-anaheim"
+  },
+  {
+    "keyword": "anaheim seo expert",
+    "kind": "Supporting",
+    "page": "seo-company-anaheim"
+  },
+  {
+    "keyword": "seo company in anaheim",
+    "kind": "Supporting",
+    "page": "seo-company-anaheim"
+  },
+  {
+    "keyword": "SEO company Orange County",
+    "kind": "Main",
+    "page": "seo-company-orange-county"
+  },
+  {
+    "keyword": "Orange County SEO agency",
+    "kind": "Supporting",
+    "page": "seo-company-orange-county"
+  },
+  {
+    "keyword": "SEO services Orange County",
+    "kind": "Supporting",
+    "page": "seo-company-orange-county"
+  },
+  {
+    "keyword": "SEO company Orange County CA",
+    "kind": "Supporting",
+    "page": "seo-company-orange-county"
+  },
+  {
+    "keyword": "AI SEO Orange County",
+    "kind": "Supporting",
+    "page": "seo-company-orange-county"
+  },
+  {
+    "keyword": "seo agency orange county",
+    "kind": "Supporting",
+    "page": "seo-company-orange-county"
+  },
+  {
+    "keyword": "orange county seo services",
+    "kind": "Supporting",
+    "page": "seo-company-orange-county"
+  },
+  {
+    "keyword": "seo company oc",
+    "kind": "Supporting",
+    "page": "seo-company-orange-county"
+  },
+  {
+    "keyword": "SEO for law firms",
+    "kind": "Main",
+    "page": "seo-for-law-firms-orange-county"
+  },
+  {
+    "keyword": "law firm SEO",
+    "kind": "Supporting",
+    "page": "seo-for-law-firms-orange-county"
+  },
+  {
+    "keyword": "attorney SEO",
+    "kind": "Supporting",
+    "page": "seo-for-law-firms-orange-county"
+  },
+  {
+    "keyword": "lawyer marketing",
+    "kind": "Supporting",
+    "page": "seo-for-law-firms-orange-county"
+  },
+  {
+    "keyword": "legal marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-law-firms-orange-county"
+  },
+  {
+    "keyword": "attorney seo orange county",
+    "kind": "Supporting",
+    "page": "seo-for-law-firms-orange-county"
+  },
+  {
+    "keyword": "law firm seo orange county",
+    "kind": "Supporting",
+    "page": "seo-for-law-firms-orange-county"
+  },
+  {
+    "keyword": "law firm seo company santa ana",
+    "kind": "Supporting",
+    "page": "seo-for-law-firms-orange-county"
+  },
+  {
+    "keyword": "lawyer seo orange county",
+    "kind": "Supporting",
+    "page": "seo-for-law-firms-orange-county"
+  },
+  {
+    "keyword": "legal seo orange county",
+    "kind": "Supporting",
+    "page": "seo-for-law-firms-orange-county"
+  },
+  {
+    "keyword": "SEO for personal injury lawyers",
+    "kind": "Main",
+    "page": "seo-for-personal-injury-lawyers"
+  },
+  {
+    "keyword": "personal injury SEO",
+    "kind": "Supporting",
+    "page": "seo-for-personal-injury-lawyers"
+  },
+  {
+    "keyword": "personal injury marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-personal-injury-lawyers"
+  },
+  {
+    "keyword": "SEO for real estate agents",
+    "kind": "Main",
+    "page": "seo-for-real-estate-agents-orange-county"
+  },
+  {
+    "keyword": "real estate SEO",
+    "kind": "Supporting",
+    "page": "seo-for-real-estate-agents-orange-county"
+  },
+  {
+    "keyword": "realtor SEO",
+    "kind": "Supporting",
+    "page": "seo-for-real-estate-agents-orange-county"
+  },
+  {
+    "keyword": "real estate marketing",
+    "kind": "Supporting",
+    "page": "seo-for-real-estate-agents-orange-county"
+  },
+  {
+    "keyword": "realtor marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-real-estate-agents-orange-county"
+  },
+  {
+    "keyword": "real estate seo orange county",
+    "kind": "Supporting",
+    "page": "seo-for-real-estate-agents-orange-county"
+  },
+  {
+    "keyword": "real estate agent seo orange county",
+    "kind": "Supporting",
+    "page": "seo-for-real-estate-agents-orange-county"
+  },
+  {
+    "keyword": "realtor seo orange county",
+    "kind": "Supporting",
+    "page": "seo-for-real-estate-agents-orange-county"
+  },
+  {
+    "keyword": "SEO for restaurants",
+    "kind": "Main",
+    "page": "seo-for-restaurants-orange-county"
+  },
+  {
+    "keyword": "restaurant SEO",
+    "kind": "Supporting",
+    "page": "seo-for-restaurants-orange-county"
+  },
+  {
+    "keyword": "restaurant marketing",
+    "kind": "Supporting",
+    "page": "seo-for-restaurants-orange-county"
+  },
+  {
+    "keyword": "local SEO for restaurants",
+    "kind": "Supporting",
+    "page": "seo-for-restaurants-orange-county"
+  },
+  {
+    "keyword": "restaurant marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-restaurants-orange-county"
+  },
+  {
+    "keyword": "restaurant seo orange county",
+    "kind": "Supporting",
+    "page": "seo-for-restaurants-orange-county"
+  },
+  {
+    "keyword": "orange county restaurant marketing",
+    "kind": "Supporting",
+    "page": "seo-for-restaurants-orange-county"
+  },
+  {
+    "keyword": "restaurant seo anaheim",
+    "kind": "Supporting",
+    "page": "seo-for-restaurants-orange-county"
+  },
+  {
+    "keyword": "Huntington Beach SEO",
+    "kind": "Main",
+    "page": "seo-huntington-beach"
+  },
+  {
+    "keyword": "SEO company Huntington Beach",
+    "kind": "Supporting",
+    "page": "seo-huntington-beach"
+  },
+  {
+    "keyword": "Huntington Beach SEO agency",
+    "kind": "Supporting",
+    "page": "seo-huntington-beach"
+  },
+  {
+    "keyword": "local SEO Huntington Beach",
+    "kind": "Supporting",
+    "page": "seo-huntington-beach"
+  },
+  {
+    "keyword": "SEO services Huntington Beach",
+    "kind": "Supporting",
+    "page": "seo-huntington-beach"
+  },
+  {
+    "keyword": "huntington beach seo company",
+    "kind": "Supporting",
+    "page": "seo-huntington-beach"
+  },
+  {
+    "keyword": "seo huntington beach",
+    "kind": "Supporting",
+    "page": "seo-huntington-beach"
+  },
+  {
+    "keyword": "ai search optimization huntington beach",
+    "kind": "Supporting",
+    "page": "seo-huntington-beach"
+  },
+  {
+    "keyword": "huntington beach seo services",
+    "kind": "Supporting",
+    "page": "seo-huntington-beach"
   },
   {
     "keyword": "AI crawler user agents",

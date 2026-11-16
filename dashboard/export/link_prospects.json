@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Good Neighbor Podcast: Orange County",
+    "url": "https://www.buzzsprout.com/2538926/episodes/",
+    "type": "podcast",
+    "priority": 5,
+    "status": "new",
+    "cost": "free interview per show page",
+    "next_step": "Book a free interview at gnpOrangeCounty.com to be featured on the Good Neighbor Podcast.",
+    "found": "2026-11-16"
+  },
+  {
+    "name": "OC Startup Council directory",
+    "url": "https://ocstartupcouncil.org/",
+    "type": "directory",
+    "priority": 5,
+    "status": "new",
+    "cost": "free basic listing; memberships from $25/yr",
+    "next_step": "Submit a free basic listing to the OC Startups Directory under the appropriate category.",
+    "found": "2026-11-16"
+  },
+  {
+    "name": "Anaheim Chamber of Commerce",
+    "url": "https://anaheimchamber.org/",
+    "type": "chamber",
+    "priority": 4,
+    "status": "new",
+    "cost": "paid membership",
+    "next_step": "Join the Anaheim Chamber of Commerce to secure a member directory listing and attend New Member Orientation for networking.",
+    "found": "2026-11-16"
+  },
+  {
+    "name": "North Orange County Chamber of Commerce",
+    "url": "https://www.nocchamber.com/",
+    "type": "chamber",
+    "priority": 4,
+    "status": "new",
+    "cost": "paid membership",
+    "next_step": "Apply for membership with the North Orange County Chamber of Commerce to be included in the Anaheim Business Directory.",
+    "found": "2026-11-16"
+  },
+  {
+    "name": "Orange County Business Journal (company news)",
+    "url": "https://www.ocbj.com/",
+    "type": "news",
+    "priority": 4,
+    "status": "new",
+    "cost": "free to pitch",
+    "next_step": "Submit Chimera's latest innovations or milestones to the OC Business Journal's OC500 letter for potential coverage.",
+    "found": "2026-11-16"
+  },
+  {
+    "name": "Critical Mass Business Talk Show",
+    "url": "https://criticalmassbusinesstalkshow.podbean.com/",
+    "type": "podcast",
+    "priority": 2,
+    "status": "new",
+    "cost": "unknown",
+    "next_step": "Reach out to the Critical Mass Business Talk Show host to explore guest appearance opportunities.",
+    "found": "2026-11-16"
+  },
+  {
+    "name": "OC Business Podcast (Build Your Authority)",
+    "url": "https://feeds.transistor.fm/oc-business-podcast/",
+    "type": "podcast",
+    "priority": 2,
+    "status": "new",
+    "cost": "unknown",
+    "next_step": "Contact the OC Business Podcast host to inquire about guest booking opportunities and pitch Chimera.",
+    "found": "2026-11-16"
+  },
+  {
+    "name": "OC Business Report",
+    "url": "https://www.iheart.com/podcast/263-oc-business-report-128946958/",
+    "type": "podcast",
+    "priority": 2,
+    "status": "new",
+    "cost": "unknown",
+    "next_step": "Pitch Chimera as a guest to OC Business Report through their contact channels on Apple Podcasts or iHeart.",
+    "found": "2026-11-16"
+  }
+]

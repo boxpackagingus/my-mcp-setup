@@ -121,9 +121,60 @@ def run(cfg):
 
     runs = [dict(r) for r in reversed(config.read_json(config.DATA / "runs.json", []))][:60]
 
-    files = {"totals": totals, "pages": page_rows, "blogs": blog_rows, "keywords": keyword_rows,
+    opp_money, opp_fixes, ai_vis, links = _opportunities()
+    if totals:
+        totals[0]["money_queries"] = len(opp_money)
+        totals[0]["money_top20"] = sum(1 for r in opp_money if r["position"] <= 20)
+        totals[0]["fixes_open"] = len(opp_fixes)
+        totals[0]["ai_chimera_named"] = next((r["answers_named"] for r in ai_vis if r["brand"] == "Chimera"), None)
+        totals[0]["ai_answers"] = ai_vis[0]["answers"] if ai_vis else None
+        totals[0]["links_open"] = sum(1 for r in links if r["status"] == "new")
+
+    files = {"totals": totals, "pages": page_rows, "opp_money": opp_money, "opp_fixes": opp_fixes,
+             "ai_visibility": ai_vis, "link_prospects": links, "blogs": blog_rows, "keywords": keyword_rows,
              "daily": daily, "upcoming": upcoming, "site_files": site_files,
              "page_checks": page_checks, "indexing": indexing, "runs": runs}
     for name, rows in files.items():
         config.write_json(OUT / f"{name}.json", rows)
     return {k: len(v) for k, v in files.items()}
+
+
+def _opportunities():
+    """Rows for the dashboard's Opportunities section, from the opportunity finder and the two free workers."""
+    opp = config.read_json(config.DATA / "opportunities.json", {})
+    hist = sorted((config.DATA / "money_positions").glob("*.json")) if (config.DATA / "money_positions").exists() else []
+    prev = {}
+    for f in hist:
+        if f.stem < opp.get("date", ""):
+            prev = config.read_json(f, {})
+    money = []
+    for r in opp.get("money_queries", []):
+        before = prev.get(r["query"] + " | " + r["slug"])
+        pos = round(r["position"], 1)
+        money.append({"query": r["query"], "page": r["slug"], "position": pos, "previous": before,
+                      "change": round(before - pos, 1) if before is not None else None,
+                      "impressions": r["impressions"], "clicks": r.get("clicks", 0)})
+    fixes = [{"query": c["query"], "keep": c["keep"], "others": ", ".join(p[0] for p in c["pages"] if p[0] != c["keep"]),
+              "pages": len(c["pages"]), "impressions": c["impressions"], "intent": c["intent"]}
+             for c in opp.get("cannibalization", []) if c["intent"] in ("money-local", "money-national")]
+    vis_days = sorted((config.DATA / "ai_visibility").glob("2*.json")) if (config.DATA / "ai_visibility").exists() else []
+    ai = []
+    if vis_days:
+        v = config.read_json(vis_days[-1], {})
+        counts = dict(v.get("share_of_answers", {}))
+        import re
+        ents = {}
+        for name, n in v.get("top_entities", []):
+            name = re.sub(r"^\d+\.\s*", "", name).rstrip(".")
+            ents[name] = ents.get(name, 0) + n
+        for name, n in sorted(ents.items(), key=lambda kv: -kv[1])[:15]:
+            if name not in counts and n > 1:
+                counts[name] = n
+        counts = {b: n for b, n in counts.items() if n > 0 or b == "Chimera"}
+        for brand, n in sorted(counts.items(), key=lambda kv: (kv[0] != "Chimera", -kv[1], kv[0])):
+            ai.append({"brand": brand, "answers_named": n, "answers": v.get("answers", 0), "date": v.get("date"),
+                       "share": round(n / v["answers"], 3) if v.get("answers") else None})
+    links = [{"name": p["name"], "url": p["url"], "type": p.get("type"), "priority": p.get("priority"),
+              "status": p.get("status"), "cost": p.get("cost"), "next_step": p.get("next_step"), "found": p.get("found")}
+             for p in config.read_json(config.DATA / "link_prospects.json", [])]
+    return money, fixes, ai, links

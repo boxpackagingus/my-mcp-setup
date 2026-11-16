@@ -56,7 +56,7 @@
   <header class="cg-head">
     <h1>Chimera Growth Dashboard</h1>
     <p class="cg-lede">So far the engine has built <b data-draw="lede-pages" data-source="totals" data-field="pages_live" data-row="0">—</b> pages on thechimeraai.com, targeting <b data-draw="lede-keywords" data-source="totals" data-field="keywords_used" data-row="0">—</b> keywords.</p>
-    <p class="cg-muted">Updated <span data-draw="updated" data-source="totals" data-field="updated" data-row="0">—</span> · refreshed every 3 hours · location locked to <span data-draw="location" data-source="totals" data-field="location" data-row="0">—</span></p>
+    <p class="cg-muted">Updated <span data-draw="updated" data-source="totals" data-field="updated" data-row="0">—</span> · refreshed once a day after the daily run · location locked to <span data-draw="location" data-source="totals" data-field="location" data-row="0">—</span></p>
   </header>
 
   <div class="cg-notice" data-google-notice hidden>
@@ -65,6 +65,7 @@
 
   <nav class="cg-nav" aria-label="Jump to section">
     <button type="button" data-go="built">Overview</button>
+    <button type="button" data-go="opportunities">Opportunities</button>
     <button type="button" data-go="blog">Blog</button>
     <button type="button" data-go="live">New pages live</button>
     <button type="button" data-go="indexed">Indexed pages</button>
@@ -139,6 +140,115 @@
         <p class="cg-label">Leads</p>
         <p class="cg-value dash-skeleton" data-draw="tile" data-source="totals" data-field="leads" data-row="0">—</p>
         <p class="cg-help">Audit requests sent through your forms</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="cg-section" id="opportunities">
+    <header>
+      <h2>Opportunities</h2>
+      <p class="cg-muted">Where the next clients are most likely to come from: searches by local buyers, pages to fix, what AI assistants say, and local links to earn</p>
+    </header>
+    <div class="cg-tiles">
+      <div class="cg-tile">
+        <p class="cg-label">Money searches we show up for</p>
+        <p class="cg-value dash-skeleton" data-draw="tile" data-source="totals" data-field="money_queries" data-row="0">—</p>
+        <p class="cg-help">Local buyer searches, like "anaheim seo company", last 28 days</p>
+      </div>
+      <div class="cg-tile">
+        <p class="cg-label">Of those, in the top 20</p>
+        <p class="cg-value dash-skeleton" data-draw="tile" data-source="totals" data-field="money_top20" data-row="0">—</p>
+        <p class="cg-help">Pages 1–2 of Google, where clicks start</p>
+      </div>
+      <div class="cg-tile">
+        <p class="cg-label">Pages competing with each other</p>
+        <p class="cg-value dash-skeleton" data-draw="tile" data-source="totals" data-field="fixes_open" data-row="0">—</p>
+        <p class="cg-help">One search split across several of our pages</p>
+      </div>
+      <div class="cg-tile">
+        <p class="cg-label">AI answers naming Chimera</p>
+        <p class="cg-value"><span data-draw="tile" data-source="totals" data-field="ai_chimera_named" data-row="0">—</span> <small>of <span data-draw="tile" data-source="totals" data-field="ai_answers" data-row="0">—</span></small></p>
+        <p class="cg-help">Buyer questions asked to free AI models today</p>
+      </div>
+      <div class="cg-tile">
+        <p class="cg-label">Open link opportunities</p>
+        <p class="cg-value dash-skeleton" data-draw="tile" data-source="totals" data-field="links_open" data-row="0">—</p>
+        <p class="cg-help">Local sites that could link to or mention Chimera</p>
+      </div>
+    </div>
+
+    <div class="cg-card" id="money">
+      <h2>Money searches and where we rank</h2>
+      <p class="cg-muted">Position is Google's average over 28 days; smaller is better. Change compares with the previous daily run.</p>
+      <div class="cg-table-wrap">
+        <table data-source="opp_money" data-row-key="query,page">
+          <thead>
+            <tr>
+              <th data-field="query">Search</th>
+              <th data-field="page" class="cg-hide-narrow">Our page</th>
+              <th data-field="position" class="cg-num">Position</th>
+              <th data-field="change" class="cg-num">Change</th>
+              <th data-field="impressions" class="cg-num cg-hide-narrow">Impressions</th>
+            </tr>
+          </thead>
+          <tbody data-draw="money-body"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="cg-card" id="fixes">
+      <h2>Pages competing for the same search</h2>
+      <p class="cg-muted">The daily run makes one page the main page for each search and points the others elsewhere. Rows clear as Google recrawls.</p>
+      <div class="cg-table-wrap">
+        <table data-source="opp_fixes" data-row-key="query">
+          <thead>
+            <tr>
+              <th data-field="query">Search</th>
+              <th data-field="keep">Main page</th>
+              <th data-field="others" class="cg-hide-narrow">Also competing</th>
+              <th data-field="impressions" class="cg-num">Impressions</th>
+            </tr>
+          </thead>
+          <tbody data-draw="fixes-body"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="cg-card" id="ai-visibility">
+      <h2>Who AI assistants recommend</h2>
+      <p class="cg-muted">Agencies named when free AI models are asked Orange County buyer questions. These models answer from memory, without live web search.</p>
+      <div class="cg-table-wrap">
+        <table data-source="ai_visibility" data-row-key="brand">
+          <thead>
+            <tr>
+              <th data-field="brand">Agency</th>
+              <th data-field="answers_named" class="cg-num">Answers naming it</th>
+              <th data-field="answers" class="cg-num cg-hide-narrow">Answers asked</th>
+              <th data-field="date" class="cg-hide-narrow">Checked</th>
+            </tr>
+          </thead>
+          <tbody data-draw="ai-body"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="cg-card" id="links">
+      <h2>Local link opportunities</h2>
+      <p class="cg-muted">Found with web search; priority 5 is best. Tell Claude when you contact or get listed on one, and its status updates.</p>
+      <div class="cg-table-wrap">
+        <table data-source="link_prospects" data-row-key="url">
+          <thead>
+            <tr>
+              <th data-field="name">Opportunity</th>
+              <th data-field="priority" class="cg-num">Priority</th>
+              <th data-field="type" class="cg-hide-narrow">Type</th>
+              <th data-field="cost" class="cg-hide-narrow">Cost</th>
+              <th data-field="next_step">Next step</th>
+              <th data-field="status">Status</th>
+            </tr>
+          </thead>
+          <tbody data-draw="links-body"></tbody>
+        </table>
       </div>
     </div>
   </section>
@@ -475,6 +585,60 @@
     return true;
   };
   const when = (v) => (v ? d3.utcFormat('%b %-d, %Y · %H:%M UTC')(new Date(v)) : '—');
+
+  // Opportunities
+  dash.draw('money-body', (tb) => {
+    const d = dash.data('opp_money');
+    if (!status(tb, d, 5, 'Money searches appear once Google shows our pages for local buyer searches.')) return;
+    d.data.forEach((r) => {
+      const tr = document.createElement('tr'); tr.dataset.key = encodeURIComponent(r.query) + ',' + encodeURIComponent(r.page);
+      td(tr, r.query); td(tr, r.page, 'cg-hide-narrow');
+      td(tr, r.position === null || r.position === undefined ? '—' : d3.format('.1f')(r.position), 'cg-num');
+      const ch = r.change;
+      pillCell(tr, ch === null || ch === undefined ? 'new' : (ch > 0 ? '▲ ' : ch < 0 ? '▼ ' : '') + d3.format('.1f')(Math.abs(ch)),
+        ch === null || ch === undefined ? 'none' : ch > 0 ? 'ok' : ch < 0 ? 'bad' : 'none', 'cg-num');
+      td(tr, num(r.impressions), 'cg-num cg-hide-narrow');
+      tb.append(tr);
+    });
+  });
+
+  dash.draw('fixes-body', (tb) => {
+    const d = dash.data('opp_fixes');
+    if (!status(tb, d, 4, 'No pages are competing for the same search right now.')) return;
+    d.data.forEach((r) => {
+      const tr = document.createElement('tr'); tr.dataset.key = encodeURIComponent(r.query);
+      td(tr, r.query); td(tr, r.keep); td(tr, r.others, 'cg-hide-narrow'); td(tr, num(r.impressions), 'cg-num');
+      tb.append(tr);
+    });
+  });
+
+  dash.draw('ai-body', (tb) => {
+    const d = dash.data('ai_visibility');
+    if (!status(tb, d, 4, 'The first AI check runs with the next daily run.')) return;
+    d.data.forEach((r) => {
+      const tr = document.createElement('tr'); tr.dataset.key = encodeURIComponent(r.brand);
+      if (r.brand === 'Chimera') { const c = document.createElement('td'); const b = document.createElement('b'); b.textContent = r.brand; c.append(b); tr.append(c); }
+      else td(tr, r.brand);
+      if (r.brand === 'Chimera') pillCell(tr, num(r.answers_named), r.answers_named > 0 ? 'ok' : 'bad', 'cg-num');
+      else td(tr, num(r.answers_named), 'cg-num');
+      td(tr, num(r.answers), 'cg-num cg-hide-narrow'); td(tr, day(r.date), 'cg-hide-narrow');
+      tb.append(tr);
+    });
+  });
+
+  dash.draw('links-body', (tb) => {
+    const d = dash.data('link_prospects');
+    if (!status(tb, d, 6, 'The daily run adds local link opportunities.')) return;
+    const ST = { new: 'warn', contacted: 'none', listed: 'ok', skip: 'none' };
+    d.data.forEach((r) => {
+      const tr = document.createElement('tr'); tr.dataset.key = encodeURIComponent(r.url);
+      linkCell(tr, r.url, r.name);
+      td(tr, r.priority === null || r.priority === undefined ? '—' : String(r.priority), 'cg-num');
+      td(tr, r.type || '—', 'cg-hide-narrow'); td(tr, r.cost || '—', 'cg-hide-narrow'); td(tr, r.next_step || '—');
+      pillCell(tr, r.status || 'new', ST[r.status] || 'none');
+      tb.append(tr);
+    });
+  });
 
   // Jump menu
   document.querySelectorAll('.cg-nav [data-go]').forEach((b) => b.addEventListener('click', () => {

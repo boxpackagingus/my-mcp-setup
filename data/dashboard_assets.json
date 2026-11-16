@@ -1,7 +1,7 @@
 {
  "totals": {
-  "blob": "4f7c3f5fb21a8ac56ab873f11b4c51fe",
-  "sha": "29b5a5c3c7e4e50203745c4d22e9aad4fec2e30b4787b182fd7dcfa59ab063d6"
+  "blob": "fd4ee7e7a773e7379a61d60bef616477",
+  "sha": "84dce7d4f4ee159d9a5e9f70bdc4884ad960eb585cd1333b682818e0a03776ee"
  },
  "pages": {
   "blob": "30c4c0b26e0ae15032ee4852ead31cac",
@@ -38,5 +38,21 @@
  "blogs": {
   "blob": "a84b5e3c7778c465b60893a0b7add6a4",
   "sha": "a6de5a6bfdd2bf416bb0060cc447e6fc159ac437cc61df0c698a0a2221ae5325"
+ },
+ "opp_money": {
+  "blob": "51689d6f51f06fbf6847ec4bbde1a0d6",
+  "sha": "c1955e9c2c296665ef618d6e317d1e0b14fbecd027e0c78148322590fe63a49f"
+ },
+ "opp_fixes": {
+  "blob": "e2729287565036a4961480bc99e4a55a",
+  "sha": "c72c0b3626e00c32850666bce2780a57f5e6846becacff4504334a55ec1dabef"
+ },
+ "ai_visibility": {
+  "blob": "48cb5e00f3f74b6877c71e020f7c7a58",
+  "sha": "edecfcf772eeb90e211a5e5387016cd3c7bbf3e8fc58146c52b93c948c9abb2b"
+ },
+ "link_prospects": {
+  "blob": "1fcdeb5adbb04329221b190c615e8733",
+  "sha": "b940683f6dbb456d9cac38f40f935b95381383eb37b4665b77dc713efe53a408"
  }
 }
