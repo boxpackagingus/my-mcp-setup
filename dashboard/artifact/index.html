@@ -629,7 +629,7 @@
   dash.draw('links-body', (tb) => {
     const d = dash.data('link_prospects');
     if (!status(tb, d, 6, 'The daily run adds local link opportunities.')) return;
-    const ST = { new: 'warn', contacted: 'none', listed: 'ok', skip: 'none' };
+    const ST = { new: 'warn', ready: 'warn', contacted: 'none', listed: 'ok', skip: 'none' };
     d.data.forEach((r) => {
       const tr = document.createElement('tr'); tr.dataset.key = encodeURIComponent(r.url);
       linkCell(tr, r.url, r.name);

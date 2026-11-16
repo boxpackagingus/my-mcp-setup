@@ -57,8 +57,8 @@ def run(cfg):
         except Exception as e:
             for p in new:
                 p["next_step"] = p["next_step"] or f"(model unavailable: {str(e)[:60]})"
-    out = sorted(have.values(), key=lambda p: (p["status"] != "new", -p["priority"], p["name"]))
+    out = sorted(have.values(), key=lambda p: ({"ready": 0, "new": 1}.get(p["status"], 2), -p["priority"], p["name"]))
     config.write_json(path, out)
-    return {"new": len(new), "total": len(out), "open": sum(p["status"] == "new" for p in out),
+    return {"new": len(new), "total": len(out), "open": sum(p["status"] in ("new", "ready") for p in out),
             "top": [(p["priority"], p["name"], p["next_step"][:90]) for p in out[:8]],
             "free_requests_left": openrouter.remaining(), "date": date.today().isoformat()}

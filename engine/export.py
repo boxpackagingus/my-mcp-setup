@@ -128,7 +128,7 @@ def run(cfg):
         totals[0]["fixes_open"] = len(opp_fixes)
         totals[0]["ai_chimera_named"] = next((r["answers_named"] for r in ai_vis if r["brand"] == "Chimera"), None)
         totals[0]["ai_answers"] = ai_vis[0]["answers"] if ai_vis else None
-        totals[0]["links_open"] = sum(1 for r in links if r["status"] == "new")
+        totals[0]["links_open"] = sum(1 for r in links if r["status"] in ("new", "ready"))
 
     files = {"totals": totals, "pages": page_rows, "opp_money": opp_money, "opp_fixes": opp_fixes,
              "ai_visibility": ai_vis, "link_prospects": links, "blogs": blog_rows, "keywords": keyword_rows,

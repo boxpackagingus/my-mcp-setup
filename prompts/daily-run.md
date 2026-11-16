@@ -193,7 +193,8 @@ allowance is about 50 requests a day, so run each once per daily run, visibility
 2. **Link prospects:** run 3-4 web searches for new Anaheim and Orange County link or mention opportunities (chambers,
    associations, podcasts, local news, events, free directories, unlinked mentions of Chimera). Add only real results, with
    the evidence from the search, to data/link_prospects_raw.json, then run `python -m engine prospects`. Never invent
-   opportunities, contacts or prices. Statuses (new / contacted / listed / skip) in data/link_prospects.json are kept between runs.
+   opportunities, contacts or prices. Statuses (new / ready / contacted / listed / skip; 'ready' = copy or Gmail draft prepared in data/outreach/, waiting for the user to send) in data/link_prospects.json are kept between runs.
+   For the top new opportunities, prepare outreach copy in data/outreach/YYYY-MM-DD.md and, where there is a public email, a Gmail draft (never send, never submit forms) and set status to ready.
 3. The end-of-run report adds: whether any AI answer named Chimera (and who was named most), and the top 3 open link
    opportunities with their next step.
 
