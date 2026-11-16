@@ -194,7 +194,7 @@ allowance is about 50 requests a day, so run each once per daily run, visibility
    associations, podcasts, local news, events, free directories, unlinked mentions of Chimera). Add only real results, with
    the evidence from the search, to data/link_prospects_raw.json, then run `python -m engine prospects`. Never invent
    opportunities, contacts or prices. Statuses (new / ready / contacted / listed / skip; 'ready' = copy or Gmail draft prepared in data/outreach/, waiting for the user to send) in data/link_prospects.json are kept between runs.
-   For the top new opportunities, prepare outreach copy in data/outreach/YYYY-MM-DD.md and, where there is a public email, a Gmail draft (never send, never submit forms) and set status to ready.
+   For the top new opportunities, prepare outreach copy in data/outreach/YYYY-MM-DD.md and, where there is a public email, a Gmail draft (never send, never submit forms) and set status to ready. Fill the sign-off from the environment variables CHIMERA_CONTACT_NAME, CHIMERA_CONTACT_PHONE and CHIMERA_CONTACT_EMAIL; never write those values into the repo (use [brackets] in data/outreach/ files).
 3. The end-of-run report adds: whether any AI answer named Chimera (and who was named most), and the top 3 open link
    opportunities with their next step.
 
