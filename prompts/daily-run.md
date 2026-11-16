@@ -183,6 +183,20 @@ The 30 daily pages are now split between fixing what already ranks and new pages
 3. **5 blogs** as before.
 The end-of-run report adds: pages fixed (and why), money-query positions today vs yesterday.
 
+### Free workers (added 2026-11-16, approved by the user)
+
+Both use free OpenRouter models only (IDs ending in `:free`; the key is a network secret injected by the proxy). The free
+allowance is about 50 requests a day, so run each once per daily run, visibility first:
+1. **AI visibility:** `python -m engine visibility` asks the buyer questions in config/visibility.json and records which
+   agencies each answer names (data/ai_visibility/). It measures model memory, not live web. If a free model keeps failing,
+   swap it in config/visibility.json for another free model that answers (check https://openrouter.ai/api/v1/models).
+2. **Link prospects:** run 3-4 web searches for new Anaheim and Orange County link or mention opportunities (chambers,
+   associations, podcasts, local news, events, free directories, unlinked mentions of Chimera). Add only real results, with
+   the evidence from the search, to data/link_prospects_raw.json, then run `python -m engine prospects`. Never invent
+   opportunities, contacts or prices. Statuses (new / contacted / listed / skip) in data/link_prospects.json are kept between runs.
+3. The end-of-run report adds: whether any AI answer named Chimera (and who was named most), and the top 3 open link
+   opportunities with their next step.
+
 ## Daily blog: 5 posts a day at /blog/
 
 Blog posts are WordPress pages under the `/blog/` parent page. A spec with `"kind": "blog"` is published there,
