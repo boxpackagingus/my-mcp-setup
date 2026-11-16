@@ -1,35 +1,5 @@
 [
   {
-    "name": "Good Neighbor Podcast: Orange County",
-    "url": "https://www.buzzsprout.com/2538926/episodes/",
-    "type": "podcast",
-    "priority": 5,
-    "status": "ready",
-    "cost": "free interview per show page",
-    "next_step": "Form copy ready in data/outreach/2026-11-16.md; submit at gnporangecounty.com.",
-    "found": "2026-11-16"
-  },
-  {
-    "name": "OC Startup Council directory",
-    "url": "https://ocstartupcouncil.org/",
-    "type": "directory",
-    "priority": 5,
-    "status": "ready",
-    "cost": "free basic listing; memberships from $25/yr",
-    "next_step": "Listing copy ready in data/outreach/2026-11-16.md; submit at ocstartupcouncil.org/add-your-startup (Startup Supporters & Friends).",
-    "found": "2026-11-16"
-  },
-  {
-    "name": "Orange County Business Journal (company news)",
-    "url": "https://www.ocbj.com/",
-    "type": "news",
-    "priority": 4,
-    "status": "ready",
-    "cost": "free to pitch",
-    "next_step": "Expert-source pitch saved as a Gmail draft to features@ocbj.com; fill brackets and send.",
-    "found": "2026-11-16"
-  },
-  {
     "name": "Anaheim Chamber of Commerce",
     "url": "https://anaheimchamber.org/",
     "type": "chamber",
@@ -77,6 +47,36 @@
     "status": "new",
     "cost": "unknown",
     "next_step": "Pitch Chimera as a guest to OC Business Report through their contact channels on Apple Podcasts or iHeart.",
+    "found": "2026-11-16"
+  },
+  {
+    "name": "Good Neighbor Podcast: Orange County",
+    "url": "https://www.buzzsprout.com/2538926/episodes/",
+    "type": "podcast",
+    "priority": 5,
+    "status": "skip",
+    "cost": "free interview per show page",
+    "next_step": "Booking site gnporangecounty.com returns 404 and no public host email found (2026-11-16). Retry later.",
+    "found": "2026-11-16"
+  },
+  {
+    "name": "OC Startup Council directory",
+    "url": "https://ocstartupcouncil.org/",
+    "type": "directory",
+    "priority": 5,
+    "status": "contacted",
+    "cost": "free basic listing; memberships from $25/yr",
+    "next_step": "Directory listing costs $199+/yr for non-startups (skipped: free only). Sent 2026-11-16: free article to ocsc@startupcouncil.net (ARTICLE REQUEST).",
+    "found": "2026-11-16"
+  },
+  {
+    "name": "Orange County Business Journal (company news)",
+    "url": "https://www.ocbj.com/",
+    "type": "news",
+    "priority": 4,
+    "status": "contacted",
+    "cost": "free to pitch",
+    "next_step": "Sent 2026-11-16: expert-source pitch to features@ocbj.com. Watch for a reply.",
     "found": "2026-11-16"
   }
 ]
