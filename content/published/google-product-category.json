@@ -1,0 +1,240 @@
+{
+  "query": "google product category",
+  "slug": "google-product-category",
+  "eyebrow": "Google Shopping",
+  "primary_keyword": "Google product category",
+  "secondary_keywords": [
+    "Google product taxonomy",
+    "google_product_category",
+    "Merchant Center categories",
+    "Google Shopping categories"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Google Product Category: When to Set It",
+    "meta_description": "How the Google product category attribute works, when Google accepts an override and how Orange County retailers keep products categorized correctly."
+  },
+  "h1": "Google Product Category: How Google Categorizes Your Products",
+  "answer": "The Google product category attribute lets you override Google's automatic categorization of your products in specific cases. Google assigns every product a category from its taxonomy, using your titles, descriptions, price, brand and GTIN. Google accepts overrides for category-specific requirements, campaign targeting and alcohol. Anaheim and Orange County retailers should focus on good data first.",
+  "key_takeaways": [
+    "Google categorizes every product automatically.",
+    "Good titles and descriptions drive categorization.",
+    "The attribute is optional.",
+    "Overrides are accepted only in specific cases.",
+    "Use current taxonomy values."
+  ],
+  "sections": [
+    {
+      "heading": "How categorization works",
+      "body_html": "<p>Google's help page says all products are automatically assigned a category from Google's evolving product taxonomy, a tree from broad categories such as Electronics down to specific ones such as Mobile Phones. Google uses it to understand what you sell beyond keywords.</p>"
+    },
+    {
+      "heading": "Why it matters for Orange County retailers",
+      "body_html": "<p>Shoppers in Anaheim and across Orange County often search Google before visiting a store or buying online, and Google shows products in Search, the Shopping tab, Maps, Images, Lens, <a href=\"https://thechimeraai.com/youtube-for-ai-search/\">YouTube</a> and <a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a>. Merchant Center is how your products get there. For independent shops competing with big chains, accurate product data is one of the few places where a small retailer can look just as complete as a large one.</p>"
+    },
+    {
+      "heading": "What drives the automatic category",
+      "body_html": "<p>Google says high-quality titles and descriptions and accurate price, brand and GTIN information help ensure products are categorized correctly.</p>"
+    },
+    {
+      "heading": "When Google accepts an override",
+      "body_html": "<ul><li>Category-specific attribute requirements: if Google wrongly assigns a category with extra required fields, such as apparel, you can override it.</li><li>Google Ads campaign targeting based on product categories.</li><li>Alcohol, which must be correctly categorized for policy compliance.</li></ul>"
+    },
+    {
+      "heading": "Optional attribute",
+      "body_html": "<p>Google says the attribute is optional for each product. Most small retailers won't need it if their data is clear.</p>"
+    },
+    {
+      "heading": "Supported values",
+      "body_html": "<p>You can submit the category ID or the full path from Google's predefined taxonomy. Use current values; Google warns against out-of-date categories.</p>"
+    },
+    {
+      "heading": "Check your categories",
+      "body_html": "<p>Google advises making sure the taxonomy matches your products and updating the value if not. Review categories for your top sellers in Merchant Center.</p>"
+    },
+    {
+      "heading": "Apparel needs extra data",
+      "body_html": "<p>Some categories, such as apparel, require additional fields like size and color. If your products truly belong there, provide those fields rather than overriding the category.</p>"
+    },
+    {
+      "heading": "Category and your website",
+      "body_html": "<p>Google lists mismatched categories between your store and product data as a common cause of issues, so keep site categories and product data consistent.</p>"
+    },
+    {
+      "heading": "Common mistakes",
+      "body_html": "<ul><li>Overriding categories without a valid reason.</li><li>Using outdated category values.</li><li>Vague titles that confuse categorization.</li><li>Avoiding apparel fields by mis-categorizing.</li><li>Mismatched site and feed categories.</li></ul>"
+    },
+    {
+      "heading": "Questions owners ask us",
+      "body_html": "<p>Owners often ask whether setting a category improves rankings. Google uses categories to understand products, but the attribute only overrides automatic categorization in specific cases; better titles, descriptions and GTINs usually matter more. Another common question is how to find the right category. Use Google's published taxonomy and choose the most specific accurate category. Owners also ask what to do when a product is categorized wrongly. First improve the title and description; if Google still gets it wrong in one of the accepted cases, use the attribute to override it.</p>"
+    },
+    {
+      "heading": "Checklist",
+      "body_html": "<ul><li>Titles and descriptions clear.</li><li>GTINs and brands added.</li><li>Top sellers' categories reviewed.</li><li>Overrides only in accepted cases.</li><li>Current taxonomy values used.</li></ul>"
+    },
+    {
+      "heading": "An example",
+      "body_html": "<p>Imagine a kitchen store in Orange whose cast-iron pans are miscategorized as decor because titles only say Rustic Skillet. The owner rewrites titles to include cast iron frying pan and size, adds GTINs and brands, and Google categorizes them correctly without an override.</p>"
+    },
+    {
+      "heading": "How this fits your local plan",
+      "body_html": "<p>This task is one piece of a wider local plan. Google says local results are mainly based on relevance, distance and popularity, so the profile, your website and your reputation all have to agree. A practical order for most Orange County businesses is: get the Business Profile verified and accurate, make the <a href=\"https://thechimeraai.com/nap-consistency-local-citations/\">name, address and phone</a> identical everywhere, publish one clear page per service, then build a steady habit of <a href=\"https://thechimeraai.com/how-to-get-more-google-reviews/\">genuine reviews</a> and replies. Each step makes the next one work better, and the same signals help AI assistants such as <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a>, Gemini and Google's AI features describe your business correctly when someone in Anaheim asks for a recommendation.</p>"
+    },
+    {
+      "heading": "What to do this week",
+      "body_html": "<ol><li>Review categories for top sellers.</li><li>Improve vague titles.</li><li>Add GTINs.</li><li>Override only if needed.</li></ol>"
+    },
+    {
+      "heading": "When to get help",
+      "body_html": "<p>Most of this can be done in-house with an hour or two and careful reading of Google's own help pages. It is worth bringing in help when the stakes are high or the problem keeps coming back: a profile that has been suspended more than once, many locations to manage, a site that keeps failing the same checks, or no time to keep up the routine. A good local SEO partner should explain what they will change and why, point to Google's guidelines rather than promise rankings, and leave you with access to every account. <a href=\"https://thechimeraai.com/\">Chimera</a> works this way with businesses across Anaheim and Orange County.</p>"
+    },
+    {
+      "heading": "Organizing your own categories",
+      "body_html": "<p>Your website's own categories help shoppers browse and also give Google consistent signals. Use clear category names that customers understand, such as Women's Running Shoes rather than an internal code, and put each product in the most specific category that fits. Keep the same structure in your product data, using the product type attribute to describe your own categories. When the website, product data and Google's taxonomy all point to the same kind of product, categorization problems become rare.</p>"
+    },
+    {
+      "heading": "Reviewing categories after changes",
+      "body_html": "<p>Check product categories whenever you add a new product line, change suppliers or import products in bulk, since imported titles and descriptions are often vague. Pick a sample of new products and look at how they appear in Merchant Center. If several are in the wrong category, improve their titles and descriptions first. Keep a note of any overrides you set, and why, so they can be reviewed if Google updates its taxonomy.</p>"
+    },
+    {
+      "heading": "Using product type alongside category",
+      "body_html": "<p>The product type attribute lets you describe your own categories, using the path a shopper would follow on your website, such as Home > Kitchen > Cookware > Frying Pans. Unlike the Google product category, it's entirely yours to define. It helps keep your data organized, makes reports in Merchant Center easier to read and can be used to group products in campaigns if you advertise. Keep your product type values consistent and descriptive, and update them whenever your website's categories change, so the two always match and anyone working on your data understands how products are organized.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Let good titles, descriptions and GTINs drive categorization, and override only in Google's accepted cases with current values. Chimera, based in Anaheim, reviews product categorization for Orange County retailers.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the Google product category attribute?",
+      "a": "An optional attribute to override Google's automatic product categorization in specific cases."
+    },
+    {
+      "q": "Does Google categorize products automatically?",
+      "a": "Yes, using its product taxonomy."
+    },
+    {
+      "q": "When can I override the category?",
+      "a": "For category-specific requirements, campaign targeting and alcohol."
+    },
+    {
+      "q": "What helps correct categorization?",
+      "a": "Good titles, descriptions, price, brand and GTIN."
+    },
+    {
+      "q": "Can I use a category ID?",
+      "a": "Yes, the ID or the full path."
+    },
+    {
+      "q": "Should I avoid apparel requirements by changing category?",
+      "a": "No. Provide the required fields if the product is apparel."
+    },
+    {
+      "q": "Do you help businesses in Anaheim and Orange County with this?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "Merchant Center product data",
+      "url": "https://thechimeraai.com/merchant-center-product-data/"
+    },
+    {
+      "anchor": "Merchant Center attribute rules",
+      "url": "https://thechimeraai.com/merchant-center-attribute-rules/"
+    },
+    {
+      "anchor": "Merchant Center product disapprovals",
+      "url": "https://thechimeraai.com/merchant-center-disapprovals/"
+    },
+    {
+      "anchor": "how to set up Google Merchant Center",
+      "url": "https://thechimeraai.com/how-to-set-up-google-merchant-center/"
+    },
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "A holiday Merchant Center checklist for retailers",
+      "url": "https://thechimeraai.com/blog/holiday-merchant-center-checklist/"
+    },
+    {
+      "anchor": "Local inventory feed",
+      "url": "https://thechimeraai.com/local-inventory-feed/"
+    },
+    {
+      "anchor": "Google free product listings",
+      "url": "https://thechimeraai.com/google-free-product-listings/"
+    },
+    {
+      "anchor": "Merchant Center promotions",
+      "url": "https://thechimeraai.com/google-merchant-center-promotions/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Merchant Center Help: Google product category [google_product_category]",
+      "url": "https://support.google.com/merchants/answer/6324436?hl=en"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 2,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "How categories are set",
+      "lead": "From Google's help page.",
+      "steps": [
+        {
+          "title": "Data",
+          "text": "Titles, descriptions, GTIN."
+        },
+        {
+          "title": "Auto",
+          "text": "Google assigns a category."
+        },
+        {
+          "title": "Check",
+          "text": "Review top sellers."
+        },
+        {
+          "title": "Override",
+          "text": "Only accepted cases."
+        }
+      ]
+    }
+  ],
+  "hero_query": "How does Google decide what category my products are in?",
+  "short_title": "Google product category",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 2259,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/google-product-category-chimera.jpg",
+    "alt": "Google Product Category: When to Set It: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-16",
+  "updated": "2026-11-16"
+}

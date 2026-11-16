@@ -46,7 +46,7 @@
     },
     {
       "heading": "Price, availability and policies",
-      "body_html": "<p>Keep price, stock status, shipping times and costs, and return policies accurate and visible. Out-of-date prices or stock lead to poor recommendations and frustrated shoppers. Clear policies are also a trust signal; shoppers often ask assistants about returns and delivery before buying.</p>"
+      "body_html": "<p>Keep price, stock status, shipping times and costs, and <a href=\"https://thechimeraai.com/merchant-center-return-policies/\">return policies</a> accurate and visible. Out-of-date prices or stock lead to poor recommendations and frustrated shoppers. Clear policies are also a trust signal; shoppers often ask assistants about returns and delivery before buying.</p>"
     },
     {
       "heading": "Product structured data",
@@ -277,7 +277,7 @@
     "height": 840
   },
   "published": "2026-11-06",
-  "updated": "2026-11-14",
+  "updated": "2026-11-16",
   "photo": {
     "id": 396,
     "url": "https://thechimeraai.com/wp-content/uploads/2026/11/product-pages-for-ai-shopping-photo.jpg",

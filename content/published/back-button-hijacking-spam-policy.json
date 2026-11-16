@@ -1,0 +1,224 @@
+{
+  "query": "back button hijacking",
+  "slug": "back-button-hijacking-spam-policy",
+  "eyebrow": "Google Search",
+  "primary_keyword": "back button hijacking",
+  "secondary_keywords": [
+    "Google spam policy back button",
+    "malicious practices policy",
+    "back button redirect SEO",
+    "Google manual action back button"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Back Button Hijacking: Google's Spam Policy",
+    "meta_description": "Back button hijacking is now an explicit Google spam violation, enforced since June 15, 2026. How Orange County businesses can check their sites and ad scripts."
+  },
+  "h1": "Back Button Hijacking: Check Your Website Before Google Does",
+  "answer": "Back button hijacking is when a website stops visitors from using the browser's back button to return to the page they came from, for example by sending them to pages they never visited or to ads. Google made it an explicit violation of its malicious practices spam policy, with enforcement from June 15, 2026. Anaheim and Orange County businesses should check their site's scripts, plugins and ad code.",
+  "key_takeaways": [
+    "Announced April 13, 2026.",
+    "Enforcement began June 15, 2026.",
+    "It's part of the malicious practices policy.",
+    "Ad platforms and libraries can cause it.",
+    "Fixed sites can request reconsideration."
+  ],
+  "sections": [
+    {
+      "heading": "What Google announced",
+      "body_html": "<p>On April 13, 2026, Google's Search Quality team announced that back button hijacking would become an explicit violation of the malicious practices section of its spam policies, which can lead to spam actions. Google published the policy two months ahead of enforcement, which began on June 15, 2026.</p>"
+    },
+    {
+      "heading": "What back button hijacking is",
+      "body_html": "<p>Google explains that when people click the back button, they expect to return to the previous page. Back button hijacking happens when a site interferes with browser navigation and stops them from going straight back. Instead, they may land on pages they never visited, see unsolicited recommendations or ads, or simply be unable to browse normally.</p>"
+    },
+    {
+      "heading": "Why Google is acting",
+      "body_html": "<p>Google says the practice breaks the expected user journey, frustrates people and makes them feel manipulated and less willing to visit unfamiliar sites. It notes that inserting deceptive or manipulative pages into browser history has always been against Google Search Essentials, but that it has seen a rise in this behavior.</p>"
+    },
+    {
+      "heading": "The possible consequences",
+      "body_html": "<p>Google says pages engaging in back button hijacking may be subject to manual spam actions or automated demotions, which can affect a site's performance in Google Search.</p>"
+    },
+    {
+      "heading": "It may not be your own code",
+      "body_html": "<p>Google specifically notes that some back button hijacking may come from a site's included libraries or advertising platform. A small business might never have added such code deliberately but could still be running it through a plugin, theme, pop-up tool or ad network.</p>"
+    },
+    {
+      "heading": "How to check your site",
+      "body_html": "<ol><li>Open your site on a phone from a Google search result.</li><li>Visit two or three pages, then press back repeatedly.</li><li>Check that each press returns to the page you came from, ending at Google.</li><li>Repeat on pages with ads, pop-ups or chat widgets.</li><li>Ask your developer to review scripts that change browser history.</li></ol>"
+    },
+    {
+      "heading": "Common sources on small business sites",
+      "body_html": "<ul><li>Aggressive pop-up or exit-intent plugins.</li><li>Ad networks with recommendation widgets.</li><li>Old landing page tools.</li><li>Third-party chat or booking scripts.</li><li>Plugins from unknown developers.</li></ul>"
+    },
+    {
+      "heading": "What to do if you find it",
+      "body_html": "<p>Google expects site owners to remove or disable any code, imports or configurations responsible for back button hijacking. Contact the plugin or ad provider, switch off the feature, or replace the tool. Test again afterwards on desktop and mobile browsers.</p>"
+    },
+    {
+      "heading": "If you received a manual action",
+      "body_html": "<p>Google says that if your site has had a <a href=\"https://thechimeraai.com/google-search-console-manual-actions/\">manual action</a> and you've fixed the issue, you can submit a reconsideration request in <a href=\"https://thechimeraai.com/blog/search-console-generative-ai-performance-report/\">Search Console</a>. Explain what you found, what you removed and how you tested it.</p>"
+    },
+    {
+      "heading": "Why this matters beyond Google",
+      "body_html": "<p>Even without a penalty, trapping visitors damages trust. A customer in Anaheim who can't get back to search results after visiting your site is unlikely to call you. A clean, predictable experience supports both rankings and conversions.</p>"
+    },
+    {
+      "heading": "A worked example",
+      "body_html": "<p>Imagine a dental office in <a href=\"https://thechimeraai.com/seo-irvine/\">Irvine</a> using a free pop-up plugin to promote a new-patient offer. When the office manager tests the site from Google, pressing back opens the offer page again instead of returning to search results. The developer removes the plugin's exit-intent feature, tests on several phones and adds a monthly check to the maintenance list.</p>"
+    },
+    {
+      "heading": "Questions owners ask us",
+      "body_html": "<p>Owners often ask whether exit pop-ups are banned. Google's policy is about interfering with the back button and inserting deceptive pages into browser history, not about showing a polite pop-up. Another common question is whether a small site will really be noticed. Google says affected pages may face manual actions or automated demotions, so it isn't worth the risk. Owners also ask how often to check. After any new plugin, theme or ad setup, and as part of a regular technical review.</p>"
+    },
+    {
+      "heading": "Questions to ask your web developer",
+      "body_html": "<p>If someone else manages your website, ask them a few direct questions. Which plugins, scripts and ad tags are installed, and who supplies each one? Do any of them change the browser history, open new pages when visitors try to leave or redirect people to offers? When was each one last updated, and is it still supported by its developer? Which tools could be removed without losing anything important? A good developer will answer quickly and may find old tools nobody remembers adding. Keep the answers in a simple list, so the next time you add a tool, you can check it against the same questions before it goes live.</p>"
+    },
+    {
+      "heading": "Build a monthly website health check",
+      "body_html": "<p>Back button behavior is one item in a broader monthly check that takes about twenty minutes. Search for your business on Google from a phone and open your site. Click through the main pages, test the back button, submit a test contact form, tap the phone number and check the booking or ordering link. Look at Search Console for new messages, manual actions or security issues. Note anything odd and fix it before customers notice. For small businesses in Anaheim and across Orange County, this routine catches most problems introduced by plugin updates, new ad tools or theme changes, and keeps the site working the way customers expect.</p>"
+    },
+    {
+      "heading": "Choosing tools that respect visitors",
+      "body_html": "<p>When choosing new plugins, pop-ups or ad partners, look for tools from established developers with clear documentation and recent updates. Read reviews from other site owners, and test any new tool on a staging copy of your site or at a quiet time. Avoid tools that promise to keep visitors on your site by any means, since those features are often the ones that interfere with navigation. A visitor who can easily leave and come back is far more valuable than one who feels trapped and never returns.</p>"
+    },
+    {
+      "heading": "Explaining the issue to your team",
+      "body_html": "<p>If several people touch your website, such as an owner, a marketing assistant and an outside developer, make sure everyone understands the rule in simple terms: visitors must always be able to press back and return to where they came from. Share the short testing steps from this article and ask anyone adding a new tool to test it before and after launch. Clear responsibility prevents a well-meaning change from causing a problem nobody notices until rankings or enquiries drop.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Back button hijacking is an explicit Google spam violation, enforced since June 15, 2026. Test your site's back button, review plugins and ad code, remove anything that traps visitors, and request reconsideration if you received a manual action. Anaheim and Orange County businesses keep both rankings and trust this way.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is back button hijacking?",
+      "a": "When a site stops visitors from using the back button to return to the page they came from."
+    },
+    {
+      "q": "When did Google start enforcing the policy?",
+      "a": "June 15, 2026."
+    },
+    {
+      "q": "Which Google policy covers it?",
+      "a": "The malicious practices section of Google's spam policies."
+    },
+    {
+      "q": "Can ad code cause back button hijacking?",
+      "a": "Yes. Google says it may come from included libraries or advertising platforms."
+    },
+    {
+      "q": "What happens to sites that do it?",
+      "a": "Manual spam actions or automated demotions are possible."
+    },
+    {
+      "q": "How do I recover from a manual action?",
+      "a": "Fix the issue, then submit a reconsideration request in Search Console."
+    },
+    {
+      "q": "Do you work with businesses in Anaheim and Orange County?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California, from Anaheim and Santa Ana to Irvine and the coastal cities."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "Search Console security issues",
+      "url": "https://thechimeraai.com/google-search-console-security-issues/"
+    },
+    {
+      "anchor": "Search Console manual actions",
+      "url": "https://thechimeraai.com/google-search-console-manual-actions/"
+    },
+    {
+      "anchor": "robots.txt for AI crawlers",
+      "url": "https://thechimeraai.com/robots-txt-for-ai-crawlers/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Set up Google Search Console",
+      "url": "https://thechimeraai.com/how-to-set-up-google-search-console/"
+    },
+    {
+      "anchor": "Search Console Links report",
+      "url": "https://thechimeraai.com/google-search-console-links-report/"
+    },
+    {
+      "anchor": "Search Console URL Inspection tool",
+      "url": "https://thechimeraai.com/google-search-console-url-inspection/"
+    },
+    {
+      "anchor": "Search Console Page indexing report",
+      "url": "https://thechimeraai.com/google-search-console-page-indexing-report/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Search Central blog: Introducing a new spam policy for \"back button hijacking\" (Apr 13, 2026)",
+      "url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 5,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "Checking your back button",
+      "lead": "Based on Google's April 13, 2026 post.",
+      "steps": [
+        {
+          "title": "Search",
+          "text": "Open your site from Google."
+        },
+        {
+          "title": "Browse",
+          "text": "Visit a few pages."
+        },
+        {
+          "title": "Back",
+          "text": "Press back to Google."
+        },
+        {
+          "title": "Fix",
+          "text": "Remove scripts that interfere."
+        }
+      ]
+    }
+  ],
+  "hero_query": "Will Google penalize my site for back button redirects?",
+  "short_title": "Google's back button hijacking spam policy",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "kind": "blog",
+  "category": "Google news",
+  "slot": 1,
+  "hero_image": {
+    "id": 2254,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/back-button-hijacking-spam-policy-banner.jpg",
+    "alt": "Back Button Hijacking: Check Your Website Before Google Does: banner photo",
+    "width": 1600,
+    "height": 760
+  },
+  "published": "2026-11-16",
+  "updated": "2026-11-16",
+  "parent_id": 709
+}

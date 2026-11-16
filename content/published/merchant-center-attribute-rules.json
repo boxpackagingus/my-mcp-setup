@@ -1,0 +1,240 @@
+{
+  "query": "merchant center attribute rules",
+  "slug": "merchant-center-attribute-rules",
+  "eyebrow": "Google Shopping",
+  "primary_keyword": "Merchant Center attribute rules",
+  "secondary_keywords": [
+    "Merchant Center feed rules",
+    "Google Shopping feed rules",
+    "transform product data",
+    "Merchant Center rules"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Merchant Center Attribute Rules (Feed Rules)",
+    "meta_description": "How Merchant Center attribute rules, formerly feed rules, fix and transform product data without editing your store, for Anaheim and Orange County retailers."
+  },
+  "h1": "Merchant Center Attribute Rules: Fix Product Data Without Editing Your Store",
+  "answer": "Merchant Center attribute rules, formerly called feed rules, let you transform product data to meet Google's requirements without changing your store, for example adding a brand or improving titles. You enable them with the Advanced data source management add-on, then create, test and apply rules per data source. Anaheim and Orange County retailers can fix errors quickly this way.",
+  "key_takeaways": [
+    "Feed rules are now called attribute rules.",
+    "Enable the Advanced data source management add-on.",
+    "Rules run in order, one after another.",
+    "Test rules before applying them.",
+    "Use rules to fix errors without editing your store."
+  ],
+  "sections": [
+    {
+      "heading": "What attribute rules do",
+      "body_html": "<p>Google's help page says attribute rules let you transform data to match its <a href=\"https://thechimeraai.com/merchant-center-product-data/\">product data specification</a>, resolve errors and help Google interpret your data. Google notes that feed rules are now known as attribute rules.</p>"
+    },
+    {
+      "heading": "Why it matters for Orange County retailers",
+      "body_html": "<p>Shoppers in Anaheim and across Orange County often search Google before visiting a store or buying online, and Google shows products in Search, the Shopping tab, Maps, Images, Lens, <a href=\"https://thechimeraai.com/youtube-for-ai-search/\">YouTube</a> and <a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a>. Merchant Center is how your products get there. For independent shops competing with big chains, accurate product data is one of the few places where a small retailer can look just as complete as a large one.</p>"
+    },
+    {
+      "heading": "Enable the add-on",
+      "body_html": "<p>In Merchant Center, go to Settings, then Add-ons, find Advanced data source management on the Discover tab and select Add. Without it, the Attribute rules tab won't appear.</p>"
+    },
+    {
+      "heading": "Create a rule",
+      "body_html": "<ol><li>Go to Data sources and select a primary product source.</li><li>Open the Attribute rules tab.</li><li>Select Add attribute rule and choose the attribute.</li><li>Add ways to replace data, change it or add modifications.</li><li>Save as draft, test the rules, then apply changes.</li></ol>"
+    },
+    {
+      "heading": "Rules run in order",
+      "body_html": "<p>Google says attribute rules cascade: if there are several, the first runs, then the second and so on. Order matters when rules affect the same attribute.</p>"
+    },
+    {
+      "heading": "ID rules are separate",
+      "body_html": "<p>Google notes that rules for the ID attribute use a separate ID rules section.</p>"
+    },
+    {
+      "heading": "Examples for local retailers",
+      "body_html": "<ul><li>Add your brand to products from your own line.</li><li>Append color or size to titles.</li><li>Set condition to new for all products.</li><li>Fix category values for a group of products.</li><li>Map your internal stock values to Google's availability values.</li></ul>"
+    },
+    {
+      "heading": "Test before applying",
+      "body_html": "<p>Google's flow includes Test rules for drafts. Check a sample of affected products before applying, so a rule doesn't change products you didn't intend.</p>"
+    },
+    {
+      "heading": "Rules vs fixing the source",
+      "body_html": "<p>Rules are a quick fix. Where possible, fix data in your store or platform too, so it's correct everywhere, including your website and <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a>.</p>"
+    },
+    {
+      "heading": "Common mistakes",
+      "body_html": "<ul><li>Rules that change products unintentionally.</li><li>Forgetting rules run in order.</li><li>Using rules to hide real website problems.</li><li>Not documenting rules.</li><li>Never reviewing old rules.</li></ul>"
+    },
+    {
+      "heading": "Questions owners ask us",
+      "body_html": "<p>Owners often ask whether attribute rules can fix price mismatches. They can transform data, but prices must still match your website, so fix price problems at the source. Another common question is whether rules affect the website. They don't; they only change the data Google receives. Owners also ask who should manage rules. Someone who understands both the product catalog and Google's requirements, with a short written list of what each rule does and why, so the next person doesn't undo important fixes.</p>"
+    },
+    {
+      "heading": "Checklist",
+      "body_html": "<ul><li>Add-on enabled.</li><li>Rules created per data source.</li><li>Rules tested before applying.</li><li>Rule order checked.</li><li>Rules documented.</li></ul>"
+    },
+    {
+      "heading": "An example",
+      "body_html": "<p>Imagine a home decor store in Laguna Niguel whose product data lacks colors in titles. Using attribute rules, it appends the color attribute to titles for all products in its main data source, tests the rule on a sample and applies it. Titles now read like Linen Throw Pillow 20 inch Sage Green, matching what shoppers search.</p>"
+    },
+    {
+      "heading": "How this fits your local plan",
+      "body_html": "<p>It helps to see where this sits in the bigger picture. Google ranks local results mainly on relevance, distance and popularity, and AI assistants lean on the same public information: your Business Profile, your website, other listings and what customers write. For a business in Anaheim or anywhere in Orange County, the most reliable plan is simple and repeated: keep every listing accurate, explain each service clearly on its own page, show real proof of your work and reply to customers. Small improvements here compound, and they are far harder for competitors to copy than an ad budget.</p>"
+    },
+    {
+      "heading": "What to do this week",
+      "body_html": "<ol><li>Enable Advanced data source management.</li><li>Pick one common error.</li><li>Create and test a rule.</li><li>Document it.</li></ol>"
+    },
+    {
+      "heading": "When to get help",
+      "body_html": "<p>Plenty of owners handle this themselves. Outside help pays off when time is short, when the business has many locations or when a problem is costing calls every day it stays unresolved. Be wary of anyone who promises guaranteed positions or asks for your verification codes or passwords; Google says nobody can pay for a better local ranking. Look for clear explanations, honest timelines and reporting tied to real enquiries. <a href=\"https://thechimeraai.com/\">Chimera</a> offers exactly that to businesses in Anaheim and across Orange County.</p>"
+    },
+    {
+      "heading": "Keeping a rules log",
+      "body_html": "<p>Keep a simple log for every rule: the data source, the attribute it changes, what it does, why you added it and the date. Rules are invisible on your website, so without notes, a future staff member or agency may not know why product titles look different in Google than in your store. Review the log every few months and remove rules that are no longer needed, for example when you've fixed the underlying data in your store platform. A short, current list of rules is much easier to manage than a long list nobody understands.</p>"
+    },
+    {
+      "heading": "When to fix the source instead",
+      "body_html": "<p>Rules are best for changes that only matter to Google, such as mapping your internal stock labels to Google's availability values or adding a fixed condition value. When the problem also affects shoppers on your website, such as a missing size or a vague title, fix it in your store platform so both the site and Google benefit. As a rule of thumb, if a customer reading your product page would be confused by the same problem, fix the source first.</p>"
+    },
+    {
+      "heading": "A safe way to try your first rule",
+      "body_html": "<p>Pick one small, low-risk problem for your first rule, such as setting condition to new for a store that sells only new products. Create it, save it as a draft and test it, then look at five or ten affected products to confirm the result is what you expected. Only then apply it, and check Merchant Center the next day to make sure nothing unexpected changed. Once you're comfortable with the process, move on to more useful rules, such as improving titles for a product group. Working one rule at a time makes it easy to see which change caused any problem, and to undo it quickly if needed.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Enable the add-on, create rules carefully, test them and keep a list of what each one does. Chimera, based in Anaheim, manages product data rules for Orange County retailers.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What are Merchant Center attribute rules?",
+      "a": "Rules that transform product data to meet Google's requirements; formerly feed rules."
+    },
+    {
+      "q": "How do I enable attribute rules?",
+      "a": "Add the Advanced data source management add-on in Settings, Add-ons."
+    },
+    {
+      "q": "Do rules run in order?",
+      "a": "Yes. Google says they cascade, one after another."
+    },
+    {
+      "q": "Can I test rules?",
+      "a": "Yes. Save as draft and use Test rules."
+    },
+    {
+      "q": "Do rules change my website?",
+      "a": "No. They change the data Google receives."
+    },
+    {
+      "q": "How do I make rules for IDs?",
+      "a": "Use the separate ID rules section."
+    },
+    {
+      "q": "Do you help businesses in Anaheim and Orange County with this?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "Merchant Center product data",
+      "url": "https://thechimeraai.com/merchant-center-product-data/"
+    },
+    {
+      "anchor": "Merchant Center product disapprovals",
+      "url": "https://thechimeraai.com/merchant-center-disapprovals/"
+    },
+    {
+      "anchor": "Google product category",
+      "url": "https://thechimeraai.com/google-product-category/"
+    },
+    {
+      "anchor": "how to set up Google Merchant Center",
+      "url": "https://thechimeraai.com/how-to-set-up-google-merchant-center/"
+    },
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "A holiday Merchant Center checklist for retailers",
+      "url": "https://thechimeraai.com/blog/holiday-merchant-center-checklist/"
+    },
+    {
+      "anchor": "Local inventory feed",
+      "url": "https://thechimeraai.com/local-inventory-feed/"
+    },
+    {
+      "anchor": "Merchant Center promotions",
+      "url": "https://thechimeraai.com/google-merchant-center-promotions/"
+    },
+    {
+      "anchor": "Product Pages for AI Shopping",
+      "url": "https://thechimeraai.com/product-pages-for-ai-shopping/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Merchant Center Help: Set up your attribute rules",
+      "url": "https://support.google.com/merchants/answer/14994083?hl=en"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 3,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "Using attribute rules",
+      "lead": "From Google's help page.",
+      "steps": [
+        {
+          "title": "Enable",
+          "text": "Advanced data source management."
+        },
+        {
+          "title": "Create",
+          "text": "Rule per attribute."
+        },
+        {
+          "title": "Test",
+          "text": "Check drafts."
+        },
+        {
+          "title": "Apply",
+          "text": "Save and apply."
+        }
+      ]
+    }
+  ],
+  "hero_query": "How can I fix my Google product feed without changing my website?",
+  "short_title": "Merchant Center attribute rules",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 2263,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/merchant-center-attribute-rules-chimera.jpg",
+    "alt": "Merchant Center Attribute Rules (Feed Rules): illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-16",
+  "updated": "2026-11-16"
+}

@@ -1,5 +1,880 @@
 [
   {
+    "keyword": "back button hijacking",
+    "kind": "Main",
+    "page": "back-button-hijacking-spam-policy"
+  },
+  {
+    "keyword": "Google spam policy back button",
+    "kind": "Supporting",
+    "page": "back-button-hijacking-spam-policy"
+  },
+  {
+    "keyword": "malicious practices policy",
+    "kind": "Supporting",
+    "page": "back-button-hijacking-spam-policy"
+  },
+  {
+    "keyword": "back button redirect SEO",
+    "kind": "Supporting",
+    "page": "back-button-hijacking-spam-policy"
+  },
+  {
+    "keyword": "Google manual action back button",
+    "kind": "Supporting",
+    "page": "back-button-hijacking-spam-policy"
+  },
+  {
+    "keyword": "Google free product listings",
+    "kind": "Main",
+    "page": "google-free-product-listings"
+  },
+  {
+    "keyword": "free Google Shopping listings",
+    "kind": "Supporting",
+    "page": "google-free-product-listings"
+  },
+  {
+    "keyword": "Google Shopping free",
+    "kind": "Supporting",
+    "page": "google-free-product-listings"
+  },
+  {
+    "keyword": "products on Google Maps",
+    "kind": "Supporting",
+    "page": "google-free-product-listings"
+  },
+  {
+    "keyword": "show products on Google for free",
+    "kind": "Supporting",
+    "page": "google-free-product-listings"
+  },
+  {
+    "keyword": "local inventory ads and free local listings",
+    "kind": "Main",
+    "page": "google-local-inventory-ads"
+  },
+  {
+    "keyword": "local inventory ads",
+    "kind": "Supporting",
+    "page": "google-local-inventory-ads"
+  },
+  {
+    "keyword": "free local listings Google",
+    "kind": "Supporting",
+    "page": "google-local-inventory-ads"
+  },
+  {
+    "keyword": "in-store inventory Google",
+    "kind": "Supporting",
+    "page": "google-local-inventory-ads"
+  },
+  {
+    "keyword": "show store stock on Google",
+    "kind": "Supporting",
+    "page": "google-local-inventory-ads"
+  },
+  {
+    "keyword": "Google Maps know before you go tips",
+    "kind": "Main",
+    "page": "google-maps-know-before-you-go-restaurants"
+  },
+  {
+    "keyword": "Google Maps restaurant tips",
+    "kind": "Supporting",
+    "page": "google-maps-know-before-you-go-restaurants"
+  },
+  {
+    "keyword": "Google Maps Explore dining lists",
+    "kind": "Supporting",
+    "page": "google-maps-know-before-you-go-restaurants"
+  },
+  {
+    "keyword": "Ask Maps restaurants",
+    "kind": "Supporting",
+    "page": "google-maps-know-before-you-go-restaurants"
+  },
+  {
+    "keyword": "Google Maps trending restaurants",
+    "kind": "Supporting",
+    "page": "google-maps-know-before-you-go-restaurants"
+  },
+  {
+    "keyword": "Merchant Center promotions",
+    "kind": "Main",
+    "page": "google-merchant-center-promotions"
+  },
+  {
+    "keyword": "Google Shopping promotions",
+    "kind": "Supporting",
+    "page": "google-merchant-center-promotions"
+  },
+  {
+    "keyword": "Merchant promotions",
+    "kind": "Supporting",
+    "page": "google-merchant-center-promotions"
+  },
+  {
+    "keyword": "show sale on Google Shopping",
+    "kind": "Supporting",
+    "page": "google-merchant-center-promotions"
+  },
+  {
+    "keyword": "Google promotions feed",
+    "kind": "Supporting",
+    "page": "google-merchant-center-promotions"
+  },
+  {
+    "keyword": "Google product category",
+    "kind": "Main",
+    "page": "google-product-category"
+  },
+  {
+    "keyword": "Google product taxonomy",
+    "kind": "Supporting",
+    "page": "google-product-category"
+  },
+  {
+    "keyword": "google_product_category",
+    "kind": "Supporting",
+    "page": "google-product-category"
+  },
+  {
+    "keyword": "Merchant Center categories",
+    "kind": "Supporting",
+    "page": "google-product-category"
+  },
+  {
+    "keyword": "Google Shopping categories",
+    "kind": "Supporting",
+    "page": "google-product-category"
+  },
+  {
+    "keyword": "holiday Merchant Center checklist",
+    "kind": "Main",
+    "page": "holiday-merchant-center-checklist"
+  },
+  {
+    "keyword": "Merchant Center holiday",
+    "kind": "Supporting",
+    "page": "holiday-merchant-center-checklist"
+  },
+  {
+    "keyword": "Google Shopping holiday checklist",
+    "kind": "Supporting",
+    "page": "holiday-merchant-center-checklist"
+  },
+  {
+    "keyword": "holiday product feed",
+    "kind": "Supporting",
+    "page": "holiday-merchant-center-checklist"
+  },
+  {
+    "keyword": "Merchant Center Black Friday",
+    "kind": "Supporting",
+    "page": "holiday-merchant-center-checklist"
+  },
+  {
+    "keyword": "set up Google Merchant Center",
+    "kind": "Main",
+    "page": "how-to-set-up-google-merchant-center"
+  },
+  {
+    "keyword": "Google Merchant Center setup",
+    "kind": "Supporting",
+    "page": "how-to-set-up-google-merchant-center"
+  },
+  {
+    "keyword": "Merchant Center account",
+    "kind": "Supporting",
+    "page": "how-to-set-up-google-merchant-center"
+  },
+  {
+    "keyword": "Google Shopping setup",
+    "kind": "Supporting",
+    "page": "how-to-set-up-google-merchant-center"
+  },
+  {
+    "keyword": "list products on Google",
+    "kind": "Supporting",
+    "page": "how-to-set-up-google-merchant-center"
+  },
+  {
+    "keyword": "local inventory feed",
+    "kind": "Main",
+    "page": "local-inventory-feed"
+  },
+  {
+    "keyword": "local inventory data",
+    "kind": "Supporting",
+    "page": "local-inventory-feed"
+  },
+  {
+    "keyword": "Merchant Center store code",
+    "kind": "Supporting",
+    "page": "local-inventory-feed"
+  },
+  {
+    "keyword": "in-store inventory feed",
+    "kind": "Supporting",
+    "page": "local-inventory-feed"
+  },
+  {
+    "keyword": "local product inventory Google",
+    "kind": "Supporting",
+    "page": "local-inventory-feed"
+  },
+  {
+    "keyword": "Merchant Center attribute rules",
+    "kind": "Main",
+    "page": "merchant-center-attribute-rules"
+  },
+  {
+    "keyword": "Merchant Center feed rules",
+    "kind": "Supporting",
+    "page": "merchant-center-attribute-rules"
+  },
+  {
+    "keyword": "Google Shopping feed rules",
+    "kind": "Supporting",
+    "page": "merchant-center-attribute-rules"
+  },
+  {
+    "keyword": "transform product data",
+    "kind": "Supporting",
+    "page": "merchant-center-attribute-rules"
+  },
+  {
+    "keyword": "Merchant Center rules",
+    "kind": "Supporting",
+    "page": "merchant-center-attribute-rules"
+  },
+  {
+    "keyword": "Merchant Center product disapprovals",
+    "kind": "Main",
+    "page": "merchant-center-disapprovals"
+  },
+  {
+    "keyword": "Merchant Center errors",
+    "kind": "Supporting",
+    "page": "merchant-center-disapprovals"
+  },
+  {
+    "keyword": "Google Shopping disapproved",
+    "kind": "Supporting",
+    "page": "merchant-center-disapprovals"
+  },
+  {
+    "keyword": "price mismatch Merchant Center",
+    "kind": "Supporting",
+    "page": "merchant-center-disapprovals"
+  },
+  {
+    "keyword": "Merchant Center warnings",
+    "kind": "Supporting",
+    "page": "merchant-center-disapprovals"
+  },
+  {
+    "keyword": "Merchant Center product data",
+    "kind": "Main",
+    "page": "merchant-center-product-data"
+  },
+  {
+    "keyword": "Google Shopping feed",
+    "kind": "Supporting",
+    "page": "merchant-center-product-data"
+  },
+  {
+    "keyword": "product feed attributes",
+    "kind": "Supporting",
+    "page": "merchant-center-product-data"
+  },
+  {
+    "keyword": "Merchant Center feed requirements",
+    "kind": "Supporting",
+    "page": "merchant-center-product-data"
+  },
+  {
+    "keyword": "Google Shopping titles",
+    "kind": "Supporting",
+    "page": "merchant-center-product-data"
+  },
+  {
+    "keyword": "Merchant Center return policies",
+    "kind": "Main",
+    "page": "merchant-center-return-policies"
+  },
+  {
+    "keyword": "return policy Google Shopping",
+    "kind": "Supporting",
+    "page": "merchant-center-return-policies"
+  },
+  {
+    "keyword": "Merchant Center returns",
+    "kind": "Supporting",
+    "page": "merchant-center-return-policies"
+  },
+  {
+    "keyword": "show returns on Google",
+    "kind": "Supporting",
+    "page": "merchant-center-return-policies"
+  },
+  {
+    "keyword": "return policy label",
+    "kind": "Supporting",
+    "page": "merchant-center-return-policies"
+  },
+  {
+    "keyword": "SEO for auto parts stores",
+    "kind": "Main",
+    "page": "seo-for-auto-parts-stores"
+  },
+  {
+    "keyword": "auto parts marketing",
+    "kind": "Supporting",
+    "page": "seo-for-auto-parts-stores"
+  },
+  {
+    "keyword": "car parts store SEO",
+    "kind": "Supporting",
+    "page": "seo-for-auto-parts-stores"
+  },
+  {
+    "keyword": "performance parts store SEO",
+    "kind": "Supporting",
+    "page": "seo-for-auto-parts-stores"
+  },
+  {
+    "keyword": "auto parts Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-auto-parts-stores"
+  },
+  {
+    "keyword": "SEO for bike shops",
+    "kind": "Main",
+    "page": "seo-for-bike-shops"
+  },
+  {
+    "keyword": "bike shop marketing",
+    "kind": "Supporting",
+    "page": "seo-for-bike-shops"
+  },
+  {
+    "keyword": "bicycle store SEO",
+    "kind": "Supporting",
+    "page": "seo-for-bike-shops"
+  },
+  {
+    "keyword": "e-bike shop SEO",
+    "kind": "Supporting",
+    "page": "seo-for-bike-shops"
+  },
+  {
+    "keyword": "bike repair Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-bike-shops"
+  },
+  {
+    "keyword": "SEO for bookstores",
+    "kind": "Main",
+    "page": "seo-for-bookstores"
+  },
+  {
+    "keyword": "bookstore marketing",
+    "kind": "Supporting",
+    "page": "seo-for-bookstores"
+  },
+  {
+    "keyword": "independent bookstore SEO",
+    "kind": "Supporting",
+    "page": "seo-for-bookstores"
+  },
+  {
+    "keyword": "used bookstore marketing",
+    "kind": "Supporting",
+    "page": "seo-for-bookstores"
+  },
+  {
+    "keyword": "bookstore Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-bookstores"
+  },
+  {
+    "keyword": "SEO for clothing boutiques",
+    "kind": "Main",
+    "page": "seo-for-clothing-boutiques"
+  },
+  {
+    "keyword": "boutique marketing",
+    "kind": "Supporting",
+    "page": "seo-for-clothing-boutiques"
+  },
+  {
+    "keyword": "clothing store SEO",
+    "kind": "Supporting",
+    "page": "seo-for-clothing-boutiques"
+  },
+  {
+    "keyword": "fashion boutique SEO",
+    "kind": "Supporting",
+    "page": "seo-for-clothing-boutiques"
+  },
+  {
+    "keyword": "boutique Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-clothing-boutiques"
+  },
+  {
+    "keyword": "SEO for computer repair shops",
+    "kind": "Main",
+    "page": "seo-for-computer-repair-shops"
+  },
+  {
+    "keyword": "computer repair marketing",
+    "kind": "Supporting",
+    "page": "seo-for-computer-repair-shops"
+  },
+  {
+    "keyword": "laptop repair SEO",
+    "kind": "Supporting",
+    "page": "seo-for-computer-repair-shops"
+  },
+  {
+    "keyword": "PC repair shop SEO",
+    "kind": "Supporting",
+    "page": "seo-for-computer-repair-shops"
+  },
+  {
+    "keyword": "computer repair Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-computer-repair-shops"
+  },
+  {
+    "keyword": "SEO for electronics stores",
+    "kind": "Main",
+    "page": "seo-for-electronics-stores"
+  },
+  {
+    "keyword": "electronics store marketing",
+    "kind": "Supporting",
+    "page": "seo-for-electronics-stores"
+  },
+  {
+    "keyword": "electronics retailer SEO",
+    "kind": "Supporting",
+    "page": "seo-for-electronics-stores"
+  },
+  {
+    "keyword": "TV store SEO",
+    "kind": "Supporting",
+    "page": "seo-for-electronics-stores"
+  },
+  {
+    "keyword": "electronics store Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-electronics-stores"
+  },
+  {
+    "keyword": "SEO for furniture stores",
+    "kind": "Main",
+    "page": "seo-for-furniture-stores"
+  },
+  {
+    "keyword": "furniture store marketing",
+    "kind": "Supporting",
+    "page": "seo-for-furniture-stores"
+  },
+  {
+    "keyword": "furniture showroom SEO",
+    "kind": "Supporting",
+    "page": "seo-for-furniture-stores"
+  },
+  {
+    "keyword": "furniture retailer SEO",
+    "kind": "Supporting",
+    "page": "seo-for-furniture-stores"
+  },
+  {
+    "keyword": "furniture store Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-furniture-stores"
+  },
+  {
+    "keyword": "SEO for garden centers",
+    "kind": "Main",
+    "page": "seo-for-garden-centers"
+  },
+  {
+    "keyword": "nursery marketing",
+    "kind": "Supporting",
+    "page": "seo-for-garden-centers"
+  },
+  {
+    "keyword": "plant nursery SEO",
+    "kind": "Supporting",
+    "page": "seo-for-garden-centers"
+  },
+  {
+    "keyword": "garden store SEO",
+    "kind": "Supporting",
+    "page": "seo-for-garden-centers"
+  },
+  {
+    "keyword": "garden center Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-garden-centers"
+  },
+  {
+    "keyword": "SEO for hardware stores",
+    "kind": "Main",
+    "page": "seo-for-hardware-stores"
+  },
+  {
+    "keyword": "hardware store marketing",
+    "kind": "Supporting",
+    "page": "seo-for-hardware-stores"
+  },
+  {
+    "keyword": "local hardware store SEO",
+    "kind": "Supporting",
+    "page": "seo-for-hardware-stores"
+  },
+  {
+    "keyword": "independent hardware store online",
+    "kind": "Supporting",
+    "page": "seo-for-hardware-stores"
+  },
+  {
+    "keyword": "hardware store Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-hardware-stores"
+  },
+  {
+    "keyword": "SEO for hobby shops",
+    "kind": "Main",
+    "page": "seo-for-hobby-shops"
+  },
+  {
+    "keyword": "hobby shop marketing",
+    "kind": "Supporting",
+    "page": "seo-for-hobby-shops"
+  },
+  {
+    "keyword": "game store SEO",
+    "kind": "Supporting",
+    "page": "seo-for-hobby-shops"
+  },
+  {
+    "keyword": "card shop SEO",
+    "kind": "Supporting",
+    "page": "seo-for-hobby-shops"
+  },
+  {
+    "keyword": "hobby shop Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-hobby-shops"
+  },
+  {
+    "keyword": "SEO for home decor stores",
+    "kind": "Main",
+    "page": "seo-for-home-decor-stores"
+  },
+  {
+    "keyword": "home decor marketing",
+    "kind": "Supporting",
+    "page": "seo-for-home-decor-stores"
+  },
+  {
+    "keyword": "home goods store SEO",
+    "kind": "Supporting",
+    "page": "seo-for-home-decor-stores"
+  },
+  {
+    "keyword": "decor shop SEO",
+    "kind": "Supporting",
+    "page": "seo-for-home-decor-stores"
+  },
+  {
+    "keyword": "home decor Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-home-decor-stores"
+  },
+  {
+    "keyword": "SEO for music stores",
+    "kind": "Main",
+    "page": "seo-for-music-stores"
+  },
+  {
+    "keyword": "music store marketing",
+    "kind": "Supporting",
+    "page": "seo-for-music-stores"
+  },
+  {
+    "keyword": "instrument store SEO",
+    "kind": "Supporting",
+    "page": "seo-for-music-stores"
+  },
+  {
+    "keyword": "guitar store SEO",
+    "kind": "Supporting",
+    "page": "seo-for-music-stores"
+  },
+  {
+    "keyword": "music store Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-music-stores"
+  },
+  {
+    "keyword": "SEO for pawn shops",
+    "kind": "Main",
+    "page": "seo-for-pawn-shops"
+  },
+  {
+    "keyword": "pawn shop marketing",
+    "kind": "Supporting",
+    "page": "seo-for-pawn-shops"
+  },
+  {
+    "keyword": "pawn store SEO",
+    "kind": "Supporting",
+    "page": "seo-for-pawn-shops"
+  },
+  {
+    "keyword": "gold buyer SEO",
+    "kind": "Supporting",
+    "page": "seo-for-pawn-shops"
+  },
+  {
+    "keyword": "pawn shop Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-pawn-shops"
+  },
+  {
+    "keyword": "SEO for pet stores",
+    "kind": "Main",
+    "page": "seo-for-pet-stores"
+  },
+  {
+    "keyword": "pet supply store marketing",
+    "kind": "Supporting",
+    "page": "seo-for-pet-stores"
+  },
+  {
+    "keyword": "pet shop SEO",
+    "kind": "Supporting",
+    "page": "seo-for-pet-stores"
+  },
+  {
+    "keyword": "independent pet store marketing",
+    "kind": "Supporting",
+    "page": "seo-for-pet-stores"
+  },
+  {
+    "keyword": "pet store Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-pet-stores"
+  },
+  {
+    "keyword": "SEO for phone repair shops",
+    "kind": "Main",
+    "page": "seo-for-phone-repair-shops"
+  },
+  {
+    "keyword": "phone repair marketing",
+    "kind": "Supporting",
+    "page": "seo-for-phone-repair-shops"
+  },
+  {
+    "keyword": "cell phone repair SEO",
+    "kind": "Supporting",
+    "page": "seo-for-phone-repair-shops"
+  },
+  {
+    "keyword": "iPhone repair shop SEO",
+    "kind": "Supporting",
+    "page": "seo-for-phone-repair-shops"
+  },
+  {
+    "keyword": "phone repair Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-phone-repair-shops"
+  },
+  {
+    "keyword": "SEO for shoe stores",
+    "kind": "Main",
+    "page": "seo-for-shoe-stores"
+  },
+  {
+    "keyword": "shoe store marketing",
+    "kind": "Supporting",
+    "page": "seo-for-shoe-stores"
+  },
+  {
+    "keyword": "footwear store SEO",
+    "kind": "Supporting",
+    "page": "seo-for-shoe-stores"
+  },
+  {
+    "keyword": "running store SEO",
+    "kind": "Supporting",
+    "page": "seo-for-shoe-stores"
+  },
+  {
+    "keyword": "shoe store Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-shoe-stores"
+  },
+  {
+    "keyword": "SEO for sporting goods stores",
+    "kind": "Main",
+    "page": "seo-for-sporting-goods-stores"
+  },
+  {
+    "keyword": "sporting goods marketing",
+    "kind": "Supporting",
+    "page": "seo-for-sporting-goods-stores"
+  },
+  {
+    "keyword": "sports store SEO",
+    "kind": "Supporting",
+    "page": "seo-for-sporting-goods-stores"
+  },
+  {
+    "keyword": "team sports store marketing",
+    "kind": "Supporting",
+    "page": "seo-for-sporting-goods-stores"
+  },
+  {
+    "keyword": "sporting goods Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-sporting-goods-stores"
+  },
+  {
+    "keyword": "SEO for surf shops",
+    "kind": "Main",
+    "page": "seo-for-surf-shops"
+  },
+  {
+    "keyword": "surf shop marketing",
+    "kind": "Supporting",
+    "page": "seo-for-surf-shops"
+  },
+  {
+    "keyword": "surf store SEO",
+    "kind": "Supporting",
+    "page": "seo-for-surf-shops"
+  },
+  {
+    "keyword": "surfboard rental SEO",
+    "kind": "Supporting",
+    "page": "seo-for-surf-shops"
+  },
+  {
+    "keyword": "surf shop Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-surf-shops"
+  },
+  {
+    "keyword": "SEO for thrift stores",
+    "kind": "Main",
+    "page": "seo-for-thrift-stores"
+  },
+  {
+    "keyword": "thrift store marketing",
+    "kind": "Supporting",
+    "page": "seo-for-thrift-stores"
+  },
+  {
+    "keyword": "consignment store SEO",
+    "kind": "Supporting",
+    "page": "seo-for-thrift-stores"
+  },
+  {
+    "keyword": "resale shop SEO",
+    "kind": "Supporting",
+    "page": "seo-for-thrift-stores"
+  },
+  {
+    "keyword": "thrift store Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-thrift-stores"
+  },
+  {
+    "keyword": "SEO for toy stores",
+    "kind": "Main",
+    "page": "seo-for-toy-stores"
+  },
+  {
+    "keyword": "toy store marketing",
+    "kind": "Supporting",
+    "page": "seo-for-toy-stores"
+  },
+  {
+    "keyword": "toy shop SEO",
+    "kind": "Supporting",
+    "page": "seo-for-toy-stores"
+  },
+  {
+    "keyword": "independent toy store marketing",
+    "kind": "Supporting",
+    "page": "seo-for-toy-stores"
+  },
+  {
+    "keyword": "toy store Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-toy-stores"
+  },
+  {
+    "keyword": "thrift shopping with Google Lens",
+    "kind": "Main",
+    "page": "thrift-shopping-google-lens-ai-mode"
+  },
+  {
+    "keyword": "Google Lens thrift",
+    "kind": "Supporting",
+    "page": "thrift-shopping-google-lens-ai-mode"
+  },
+  {
+    "keyword": "vintage shopping AI Mode",
+    "kind": "Supporting",
+    "page": "thrift-shopping-google-lens-ai-mode"
+  },
+  {
+    "keyword": "Circle to Search shopping",
+    "kind": "Supporting",
+    "page": "thrift-shopping-google-lens-ai-mode"
+  },
+  {
+    "keyword": "resale shop marketing",
+    "kind": "Supporting",
+    "page": "thrift-shopping-google-lens-ai-mode"
+  },
+  {
+    "keyword": "YouTube ads from social assets",
+    "kind": "Main",
+    "page": "youtube-ads-from-social-assets"
+  },
+  {
+    "keyword": "Demand Gen creative",
+    "kind": "Supporting",
+    "page": "youtube-ads-from-social-assets"
+  },
+  {
+    "keyword": "Asset Studio video",
+    "kind": "Supporting",
+    "page": "youtube-ads-from-social-assets"
+  },
+  {
+    "keyword": "YouTube ads small business",
+    "kind": "Supporting",
+    "page": "youtube-ads-from-social-assets"
+  },
+  {
+    "keyword": "reuse social videos for ads",
+    "kind": "Supporting",
+    "page": "youtube-ads-from-social-assets"
+  },
+  {
     "keyword": "add your business to Apple Maps",
     "kind": "Main",
     "page": "add-business-to-apple-maps"
@@ -7650,26 +8525,6 @@
     "page": "press-releases-for-ai-search"
   },
   {
-    "keyword": "product pages for AI shopping",
-    "kind": "Main",
-    "page": "product-pages-for-ai-shopping"
-  },
-  {
-    "keyword": "ChatGPT shopping",
-    "kind": "Supporting",
-    "page": "product-pages-for-ai-shopping"
-  },
-  {
-    "keyword": "ecommerce product pages AI",
-    "kind": "Supporting",
-    "page": "product-pages-for-ai-shopping"
-  },
-  {
-    "keyword": "Product structured data",
-    "kind": "Supporting",
-    "page": "product-pages-for-ai-shopping"
-  },
-  {
     "keyword": "Reddit for AI search",
     "kind": "Main",
     "page": "reddit-for-ai-search"
@@ -7833,6 +8688,26 @@
     "keyword": "AI Overviews clicks",
     "kind": "Supporting",
     "page": "zero-click-searches"
+  },
+  {
+    "keyword": "product pages for AI shopping",
+    "kind": "Main",
+    "page": "product-pages-for-ai-shopping"
+  },
+  {
+    "keyword": "ChatGPT shopping",
+    "kind": "Supporting",
+    "page": "product-pages-for-ai-shopping"
+  },
+  {
+    "keyword": "ecommerce product pages AI",
+    "kind": "Supporting",
+    "page": "product-pages-for-ai-shopping"
+  },
+  {
+    "keyword": "Product structured data",
+    "kind": "Supporting",
+    "page": "product-pages-for-ai-shopping"
   },
   {
     "keyword": "AI Overviews vs featured snippets",

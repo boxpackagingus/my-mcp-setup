@@ -1,0 +1,240 @@
+{
+  "query": "google merchant center promotions",
+  "slug": "google-merchant-center-promotions",
+  "eyebrow": "Google Shopping",
+  "primary_keyword": "Merchant Center promotions",
+  "secondary_keywords": [
+    "Google Shopping promotions",
+    "Merchant promotions",
+    "show sale on Google Shopping",
+    "Google promotions feed"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Merchant Center Promotions: Show Offers on Google",
+    "meta_description": "How Merchant Center promotions show your offers next to products on Google Search and the Shopping tab, plus data and review rules, for Orange County stores."
+  },
+  "h1": "Merchant Center Promotions: Show Your Offers on Google",
+  "answer": "Merchant Center promotions let retailers show offers with their products across Google, including Search, the Shopping tab and Chrome, in countries including the United States. You submit a promotions data source with a promotion ID and whether it applies to all or specific products, and Google reviews every promotion. Anaheim and Orange County retailers can highlight holiday and seasonal deals.",
+  "key_takeaways": [
+    "Promotions show with your products on Google.",
+    "Available in the U.S. and other countries.",
+    "Each needs a promotion ID.",
+    "Apply to all products or specific ones.",
+    "Google reviews every promotion."
+  ],
+  "sections": [
+    {
+      "heading": "What promotions are",
+      "body_html": "<p>Google's help page says promotions you submit through a data source are distributed across Google properties, including Search, the Shopping tab and Chrome, and display on desktop and mobile in countries including the United States.</p>"
+    },
+    {
+      "heading": "Why it matters for Orange County retailers",
+      "body_html": "<p>Shoppers in Anaheim and across Orange County often search Google before visiting a store or buying online, and Google shows products in Search, the Shopping tab, Maps, Images, Lens, <a href=\"https://thechimeraai.com/youtube-for-ai-search/\">YouTube</a> and <a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a>. Merchant Center is how your products get there. For independent shops competing with big chains, accurate product data is one of the few places where a small retailer can look just as complete as a large one.</p>"
+    },
+    {
+      "heading": "How to submit",
+      "body_html": "<p>Google says you can use an XML file, a tab-delimited file or a Google Spreadsheet, uploaded to the same Merchant Center account as your product data.</p>"
+    },
+    {
+      "heading": "Promotion ID",
+      "body_html": "<p>The promotion ID is required, up to 50 characters, case-sensitive and without spaces or symbols such as % and !. It links a promotion to products.</p>"
+    },
+    {
+      "heading": "All or specific products",
+      "body_html": "<p>The product applicability attribute is required: all products or specific products. For specific products, use product filter attributes or map the promotion ID to products in your product data.</p>"
+    },
+    {
+      "heading": "Review",
+      "body_html": "<p>Google reviews all promotions against program policies and editorial requirements before showing them, so submit them ahead of when you want them live.</p>"
+    },
+    {
+      "heading": "Limits",
+      "body_html": "<p>Google notes there's a limit on the total number of active promotions in an account. Focus on your most important offers.</p>"
+    },
+    {
+      "heading": "Good promotions for local retailers",
+      "body_html": "<ul><li>Holiday percentage-off sales.</li><li>Free gift with purchase.</li><li>Seasonal clearance.</li><li>Free shipping thresholds.</li><li>Back-to-school or local event offers.</li></ul>"
+    },
+    {
+      "heading": "Match your website",
+      "body_html": "<p>Make sure the promotion works exactly as described on your site, with the same dates, conditions and products, so shoppers aren't disappointed at checkout.</p>"
+    },
+    {
+      "heading": "Common mistakes",
+      "body_html": "<ul><li>Submitting the day a sale starts.</li><li>Promotion IDs with spaces or symbols.</li><li>Offers that don't match checkout.</li><li>Too many minor promotions.</li><li>Forgetting to map products for specific-product promotions.</li></ul>"
+    },
+    {
+      "heading": "Questions owners ask us",
+      "body_html": "<p>Owners often ask whether promotions cost money. Promotions are submitted through Merchant Center; check Google's current terms for your account and programs. Another common question is how promotions relate to Business Profile offers. They're separate: Merchant Center promotions show with products, while Business Profile offer posts show on your profile, so use both for big sales. Owners also ask how to choose which offers to submit. Pick the promotions most likely to change a shopper's mind, such as a strong holiday discount or free shipping, rather than small, frequent deals.</p>"
+    },
+    {
+      "heading": "Checklist",
+      "body_html": "<ul><li>Promotion data source set up.</li><li>IDs without spaces or symbols.</li><li>Products mapped correctly.</li><li>Submitted early for review.</li><li>Offer matches checkout.</li></ul>"
+    },
+    {
+      "heading": "An example",
+      "body_html": "<p>Imagine a toy store in Tustin planning a holiday sale on board games. It creates a promotion with a clean ID, applies it to specific products by mapping the ID in its product data, and submits it a week before the sale. Shoppers searching for those games see the offer next to the products on Google.</p>"
+    },
+    {
+      "heading": "How this fits your local plan",
+      "body_html": "<p>Treat this as part of a routine rather than a one-off fix. Local visibility in Anaheim and the rest of Orange County comes from many small, accurate signals adding up: a verified profile, <a href=\"https://thechimeraai.com/nap-consistency-local-citations/\">consistent listings</a>, useful service pages, real photos and a flow of honest reviews. Google is open that relevance, distance and popularity drive local results. You cannot change distance, but you can make sure Google and AI assistants understand exactly what you do and see evidence that customers value it. Put a monthly reminder in the calendar to check the profile, read new reviews and update anything that has changed.</p>"
+    },
+    {
+      "heading": "What to do this week",
+      "body_html": "<ol><li>Pick your next major promotion.</li><li>Create the promotion data source.</li><li>Map it to products.</li><li>Submit a week ahead.</li></ol>"
+    },
+    {
+      "heading": "When to get help",
+      "body_html": "<p>You do not need an agency for every step here; Google documents most of it clearly. Consider outside help when the work is urgent and unfamiliar, when you manage several locations, or when the same issue returns after you fix it. Ask any provider to show you the specific guideline or documentation behind each recommendation, to keep you as the owner of your accounts and to report results in calls, bookings and leads rather than vanity numbers. That is how <a href=\"https://thechimeraai.com/\">Chimera</a> works with Orange County businesses from our base in Anaheim.</p>"
+    },
+    {
+      "heading": "Planning promotions for the year",
+      "body_html": "<p>Map out the year's main selling moments in one sitting. For Orange County retailers these often include Valentine's Day, spring cleaning, graduation season in May and June, back-to-school in August, Halloween, Black Friday and the December holidays. For each, decide whether a promotion is worth running and what it will be: a percentage off, a fixed amount off, a free gift or free shipping. Note the start and end dates and when to submit, at least a week ahead, so Google's review doesn't delay a sale that's already advertised in your store, newsletter and social media.</p>"
+    },
+    {
+      "heading": "Checking results afterwards",
+      "body_html": "<p>After each promotion, compare sales of the promoted products during the promotion with the weeks before and after, both online and in store. Note which offers changed shopper behavior and which made little difference. Over a year, this tells you which promotions are worth repeating and which only reduced margins. Keep the notes with your promotion calendar so next year's planning starts from evidence rather than guesswork, and share them with anyone who helps run sales.</p>"
+    },
+    {
+      "heading": "Writing the offer text",
+      "body_html": "<p>Keep the promotion's wording short, specific and easy to check at checkout. Say exactly what the shopper gets, such as 20% off all board games or free gift wrap with any order over $50, rather than vague phrases like huge savings. State any minimum spend or excluded items clearly on the landing page. Shoppers compare offers quickly on small screens, so a clear, concrete benefit stands out more than clever wording. Test the offer yourself on the website before the promotion goes live, using a phone, to confirm the discount applies to the right products and the checkout total matches what the promotion says.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Submit your best offers as promotions with a clean ID and correct product mapping, early enough for review, and make sure they match checkout. Chimera, based in Anaheim, plans product promotions for Orange County retailers.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What are Merchant Center promotions?",
+      "a": "Offers that show with your products across Google Search, the Shopping tab and Chrome."
+    },
+    {
+      "q": "Are promotions available in the U.S.?",
+      "a": "Yes."
+    },
+    {
+      "q": "What file types can I use?",
+      "a": "XML, tab-delimited files or Google Spreadsheets."
+    },
+    {
+      "q": "Does Google review promotions?",
+      "a": "Yes, every promotion, before it shows."
+    },
+    {
+      "q": "Can a promotion apply to only some products?",
+      "a": "Yes, with product filters or mapped promotion IDs."
+    },
+    {
+      "q": "Is there a limit on promotions?",
+      "a": "Yes, on the total number of active promotions."
+    },
+    {
+      "q": "Do you help businesses in Anaheim and Orange County with this?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "Merchant Center product data",
+      "url": "https://thechimeraai.com/merchant-center-product-data/"
+    },
+    {
+      "anchor": "how to set up Google Merchant Center",
+      "url": "https://thechimeraai.com/how-to-set-up-google-merchant-center/"
+    },
+    {
+      "anchor": "Merchant Center return policies",
+      "url": "https://thechimeraai.com/merchant-center-return-policies/"
+    },
+    {
+      "anchor": "Google's When to Buy Guide for retailers",
+      "url": "https://thechimeraai.com/google-when-to-buy-holiday-retailers/"
+    },
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "A holiday Merchant Center checklist for retailers",
+      "url": "https://thechimeraai.com/blog/holiday-merchant-center-checklist/"
+    },
+    {
+      "anchor": "Local inventory feed",
+      "url": "https://thechimeraai.com/local-inventory-feed/"
+    },
+    {
+      "anchor": "Merchant Center attribute rules",
+      "url": "https://thechimeraai.com/merchant-center-attribute-rules/"
+    },
+    {
+      "anchor": "Google product category",
+      "url": "https://thechimeraai.com/google-product-category/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Merchant Center Help: Promotions data specification",
+      "url": "https://support.google.com/merchants/answer/2906014?hl=en"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 3,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "Submitting a promotion",
+      "lead": "From Google's specification.",
+      "steps": [
+        {
+          "title": "ID",
+          "text": "Unique promotion ID."
+        },
+        {
+          "title": "Products",
+          "text": "All or specific."
+        },
+        {
+          "title": "Upload",
+          "text": "Promotions data source."
+        },
+        {
+          "title": "Review",
+          "text": "Google checks policies."
+        }
+      ]
+    }
+  ],
+  "hero_query": "How can I show my sale prices on Google Shopping?",
+  "short_title": "Merchant Center promotions",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 2258,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/google-merchant-center-promotions-chimera.jpg",
+    "alt": "Merchant Center Promotions: Show Offers on Google: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-16",
+  "updated": "2026-11-16"
+}

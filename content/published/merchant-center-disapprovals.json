@@ -1,0 +1,240 @@
+{
+  "query": "merchant center disapprovals",
+  "slug": "merchant-center-disapprovals",
+  "eyebrow": "Google Shopping",
+  "primary_keyword": "Merchant Center product disapprovals",
+  "secondary_keywords": [
+    "Merchant Center errors",
+    "Google Shopping disapproved",
+    "price mismatch Merchant Center",
+    "Merchant Center warnings"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Merchant Center Product Disapprovals: Fixes",
+    "meta_description": "How to fix Merchant Center product disapprovals and warnings: mismatched prices, broken links, blocked images and policy issues, for Orange County retailers."
+  },
+  "h1": "Merchant Center Product Disapprovals: Why They Happen and How to Fix Them",
+  "answer": "Merchant Center product disapprovals stop products from showing on Google, while warnings may limit performance and can turn into disapprovals. Common causes include product data that doesn't match your website, broken links, placeholder content and robots.txt blocking Googlebot. Google may also pre-emptively disapprove products when price or availability don't match. Anaheim and Orange County retailers should check issues weekly.",
+  "key_takeaways": [
+    "Disapproved products stop showing.",
+    "Warnings can become disapprovals.",
+    "Price and availability mismatches cause pre-emptive disapprovals.",
+    "Website problems cause many issues.",
+    "Some issues affect the whole account."
+  ],
+  "sections": [
+    {
+      "heading": "Why issues happen",
+      "body_html": "<p>Google's help page says products can be disapproved, or accounts suspended, when product data and online stores don't comply with its policies and data quality requirements.</p>"
+    },
+    {
+      "heading": "Why it matters for Orange County retailers",
+      "body_html": "<p>Shoppers in Anaheim and across Orange County often search Google before visiting a store or buying online, and Google shows products in Search, the Shopping tab, Maps, Images, Lens, YouTube and <a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a>. Merchant Center is how your products get there. For independent shops competing with big chains, accurate product data is one of the few places where a small retailer can look just as complete as a large one.</p>"
+    },
+    {
+      "heading": "Product-level issues",
+      "body_html": "<p>Google says product-level issues can occur when product data doesn't match your online store, doesn't follow the product data specification or violates Shopping policies. They affect individual products, not the whole account.</p>"
+    },
+    {
+      "heading": "Warnings vs disapprovals",
+      "body_html": "<p>Products with warnings continue to show but may perform worse, and unresolved warnings can lead to disapprovals. Disapproved products stop showing across Google.</p>"
+    },
+    {
+      "heading": "Pre-emptive disapprovals",
+      "body_html": "<p>Google says a pre-emptive item disapproval happens when price or availability don't match between your product data and product pages; products likely to violate requirements are disapproved as a precaution, and a review is required.</p>"
+    },
+    {
+      "heading": "Common website causes",
+      "body_html": "<ul><li>Placeholder content.</li><li>Broken links.</li><li>Missing or inconsistent information.</li><li>Inaccurate descriptions.</li><li>Mismatched categories.</li><li><a href=\"https://thechimeraai.com/robots-txt-for-ai-crawlers/\">robots.txt</a> blocking Googlebot or Googlebot-image.</li><li>Slow or unavailable product pages.</li><li>Product URLs redirecting to generic pages.</li></ul>"
+    },
+    {
+      "heading": "Account-level issues",
+      "body_html": "<p>Google also has setup and policy issues that can affect your whole account, which need attention before anything else.</p>"
+    },
+    {
+      "heading": "AI-generated assets",
+      "body_html": "<p>Google notes that some regions, including California, have rules requiring labels or disclosures for ads with certain AI-generated or edited assets, and that Merchant Center offers an AI label setting. Google adds that using the setting doesn't guarantee legal compliance.</p>"
+    },
+    {
+      "heading": "A weekly routine",
+      "body_html": "<ol><li>Open the issues view in Merchant Center.</li><li>Fix account-level issues first.</li><li>Sort product issues by number of products affected.</li><li>Fix the cause on your website or data, not just the symptom.</li><li>Request review where required.</li></ol>"
+    },
+    {
+      "heading": "Common mistakes",
+      "body_html": "<ul><li>Fixing data but not the website.</li><li>Ignoring warnings until they become disapprovals.</li><li>Blocking image crawlers in robots.txt.</li><li>Sale prices that don't update in the feed.</li><li>Out-of-stock items listed as in stock.</li></ul>"
+    },
+    {
+      "heading": "Questions owners ask us",
+      "body_html": "<p>Owners often ask why a product was disapproved when it looks fine on their site. Often the data Google received differs from the page, for example a price that changed after the last feed update, or the page loaded slowly when Google checked. Another common question is how long fixes take. It depends on the issue; some clear when Google next processes your data, while pre-emptive disapprovals need a review. Owners also ask whether to delete problem products. Fix them instead where possible; deleting hides the symptom without solving the cause.</p>"
+    },
+    {
+      "heading": "Checklist",
+      "body_html": "<ul><li>Issues checked weekly.</li><li>Account issues cleared.</li><li>Prices and stock in sync.</li><li>robots.txt allows Googlebot-image.</li><li>Product URLs go to product pages.</li><li>Reviews requested where needed.</li></ul>"
+    },
+    {
+      "heading": "An example",
+      "body_html": "<p>Imagine an outdoor gear store in Lake Forest whose sale prices update on the website but not in its product data. Google flags mismatched prices and pre-emptively disapproves products. The store sets its feed to update several times a day, fixes the mismatches and requests a review. Products return to free listings.</p>"
+    },
+    {
+      "heading": "How this fits your local plan",
+      "body_html": "<p>This task is one piece of a wider local plan. Google says local results are mainly based on relevance, distance and popularity, so the profile, your website and your reputation all have to agree. A practical order for most Orange County businesses is: get the Business Profile verified and accurate, make the name, address and phone identical everywhere, publish one clear page per service, then build a steady habit of <a href=\"https://thechimeraai.com/how-to-get-more-google-reviews/\">genuine reviews</a> and replies. Each step makes the next one work better, and the same signals help AI assistants such as <a href=\"https://thechimeraai.com/how-to-rank-in-chatgpt/\">ChatGPT</a>, Gemini and Google's AI features describe your business correctly when someone in Anaheim asks for a recommendation.</p>"
+    },
+    {
+      "heading": "What to do this week",
+      "body_html": "<ol><li>Open Merchant Center issues.</li><li>Note the top three causes.</li><li>Fix them at the source.</li><li>Request review if required.</li></ol>"
+    },
+    {
+      "heading": "When to get help",
+      "body_html": "<p>Most of this can be done in-house with an hour or two and careful reading of Google's own help pages. It is worth bringing in help when the stakes are high or the problem keeps coming back: a profile that has been suspended more than once, many locations to manage, a site that keeps failing the same checks, or no time to keep up the routine. A good local SEO partner should explain what they will change and why, point to Google's guidelines rather than promise rankings, and leave you with access to every account. <a href=\"https://thechimeraai.com/\">Chimera</a> works this way with businesses across Anaheim and Orange County.</p>"
+    },
+    {
+      "heading": "Preventing issues before they start",
+      "body_html": "<p>Most disapprovals come from a few predictable causes, so build habits that prevent them. Update product data automatically and often, especially around sales. Check that your robots.txt allows Google to crawl product pages and images after any website change. Keep product pages live even when items sell out, marking them out of stock rather than deleting them. When you redesign your site or change platforms, check Merchant Center daily for two weeks, since migrations often break links, images or <a href=\"https://thechimeraai.com/schema-markup-for-ai-search/\">structured data</a>.</p>"
+    },
+    {
+      "heading": "Getting help",
+      "body_html": "<p>If you can't work out why products are disapproved, start with the issue details in Merchant Center, which explain the problem and often link to the affected attribute and help article. Check one affected product on your website and compare it line by line with the data Google received. If the cause still isn't clear, Merchant Center offers contact options for support. Keep a record of what you changed and when, so you can explain it if you request a review.</p>"
+    },
+    {
+      "heading": "A note on prices and tax",
+      "body_html": "<p>In the United States, product prices in your data usually exclude sales tax, matching how prices are shown on most store websites. Check that the price on your product page, the price in your product data and the price in your structured data are the same number, in the same currency, before tax. Sale prices need the same care: when a sale ends, the website, data and structured data should all return to the regular price together. Mismatched prices are one of the most frequent reasons for disapprovals, so these checks save time.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Check Merchant Center issues weekly, fix account issues first, fix causes on your website and keep prices and availability in sync. Chimera, based in Anaheim, resolves product issues for Orange County retailers.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a Merchant Center disapproval?",
+      "a": "An issue that stops a product from showing across Google."
+    },
+    {
+      "q": "What's the difference between a warning and a disapproval?",
+      "a": "Warned products still show but may perform worse; disapproved products don't show."
+    },
+    {
+      "q": "What is a pre-emptive item disapproval?",
+      "a": "A precautionary disapproval when price or availability don't match your product pages."
+    },
+    {
+      "q": "Can robots.txt cause disapprovals?",
+      "a": "Yes, if it blocks Googlebot or Googlebot-image."
+    },
+    {
+      "q": "Do issues affect my whole account?",
+      "a": "Product-level issues don't; setup and policy issues can."
+    },
+    {
+      "q": "How do I fix a pre-emptive disapproval?",
+      "a": "Fix the mismatch, then request a review."
+    },
+    {
+      "q": "Do you help businesses in Anaheim and Orange County with this?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "Merchant Center product data",
+      "url": "https://thechimeraai.com/merchant-center-product-data/"
+    },
+    {
+      "anchor": "Merchant Center attribute rules",
+      "url": "https://thechimeraai.com/merchant-center-attribute-rules/"
+    },
+    {
+      "anchor": "robots.txt for AI crawlers",
+      "url": "https://thechimeraai.com/robots-txt-for-ai-crawlers/"
+    },
+    {
+      "anchor": "how to set up Google Merchant Center",
+      "url": "https://thechimeraai.com/how-to-set-up-google-merchant-center/"
+    },
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "A holiday Merchant Center checklist for retailers",
+      "url": "https://thechimeraai.com/blog/holiday-merchant-center-checklist/"
+    },
+    {
+      "anchor": "Google product category",
+      "url": "https://thechimeraai.com/google-product-category/"
+    },
+    {
+      "anchor": "Local inventory feed",
+      "url": "https://thechimeraai.com/local-inventory-feed/"
+    },
+    {
+      "anchor": "Merchant Center promotions",
+      "url": "https://thechimeraai.com/google-merchant-center-promotions/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Merchant Center Help: Issues in Merchant Center",
+      "url": "https://support.google.com/merchants/answer/12153802?hl=en"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 2,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "Fixing disapprovals",
+      "lead": "From Google's help page.",
+      "steps": [
+        {
+          "title": "Find",
+          "text": "Issues view."
+        },
+        {
+          "title": "Prioritize",
+          "text": "Account issues first."
+        },
+        {
+          "title": "Fix",
+          "text": "Website and data."
+        },
+        {
+          "title": "Review",
+          "text": "Request where needed."
+        }
+      ]
+    }
+  ],
+  "hero_query": "Why are my products disapproved in Google Merchant Center?",
+  "short_title": "Merchant Center product disapprovals",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 2264,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/merchant-center-disapprovals-chimera.jpg",
+    "alt": "Merchant Center Product Disapprovals: Fixes: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-16",
+  "updated": "2026-11-16"
+}

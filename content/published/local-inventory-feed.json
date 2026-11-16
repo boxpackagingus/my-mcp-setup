@@ -1,0 +1,240 @@
+{
+  "query": "local inventory feed",
+  "slug": "local-inventory-feed",
+  "eyebrow": "Google Shopping",
+  "primary_keyword": "local inventory feed",
+  "secondary_keywords": [
+    "local inventory data",
+    "Merchant Center store code",
+    "in-store inventory feed",
+    "local product inventory Google"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Local Inventory Feed: Format Your Store Stock",
+    "meta_description": "How to format a Merchant Center local inventory feed: ID, store code, availability and price per store, for Orange County stores using free local listings."
+  },
+  "h1": "Local Inventory Feed: How to Tell Google What's in Each Store",
+  "answer": "A local inventory feed tells Merchant Center which of your stores has each product, using the product ID, the store code from your Business Profile, availability and optionally a store-specific price. Google says syncing store locations can take up to 24 hours. Anaheim and Orange County retailers need an accurate local inventory feed for local inventory ads and free local listings.",
+  "key_takeaways": [
+    "ID, store code and availability are required.",
+    "Store codes must match your Business Profile.",
+    "Price per store is optional and overrides the main price.",
+    "Use English values like in_stock.",
+    "Allow 24 hours for store locations to sync."
+  ],
+  "sections": [
+    {
+      "heading": "What the feed does",
+      "body_html": "<p>Google's help page says local inventory data tells Google which stores have each product, and correct formatting is important for successful <a href=\"https://thechimeraai.com/google-local-inventory-ads/\">local inventory ads</a> and free local listings.</p>"
+    },
+    {
+      "heading": "Why it matters for Orange County retailers",
+      "body_html": "<p>Shoppers in Anaheim and across Orange County often search Google before visiting a store or buying online, and Google shows products in Search, the Shopping tab, Maps, Images, Lens, <a href=\"https://thechimeraai.com/youtube-for-ai-search/\">YouTube</a> and <a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a>. Merchant Center is how your products get there. For independent shops competing with big chains, accurate product data is one of the few places where a small retailer can look just as complete as a large one.</p>"
+    },
+    {
+      "heading": "Required attributes",
+      "body_html": "<table><tr><th>Attribute</th><th>What it is</th><th>Notes</th></tr><tr><td>ID</td><td>Product's unique identifier</td><td>Max 50 characters; same as product data</td></tr><tr><td>Store code</td><td>Store's unique identifier</td><td>Max 64 characters; case-sensitive; matches Business Profile</td></tr><tr><td>Availability</td><td>In-store availability</td><td>in_stock, limited_availability, on_display_to_order, out_of_stock</td></tr></table><p>Source: Google Merchant Center Help.</p>"
+    },
+    {
+      "heading": "One row per store",
+      "body_html": "<p>Google says that if you sell the same item in several stores, the same ID appears with each store code, one row per store, with other attributes adjusted.</p>"
+    },
+    {
+      "heading": "Store-specific prices",
+      "body_html": "<p>Price is optional; Google says it overrides the main product price for that store. In the U.S., don't include tax in the price. Sale prices and sale date ranges are also optional.</p>"
+    },
+    {
+      "heading": "Use English values",
+      "body_html": "<p>Google says attribute names and supported values, such as availability values, must be submitted in English for the system to read them.</p>"
+    },
+    {
+      "heading": "Timing",
+      "body_html": "<p>Google says syncing business locations into Merchant Center can take up to 24 hours, so upload the inventory feed 24 hours after linking accounts or after changing store codes in your Business Profiles.</p>"
+    },
+    {
+      "heading": "Only in-store products",
+      "body_html": "<p>Google says to include only products generally available for purchase in stores.</p>"
+    },
+    {
+      "heading": "Keep it current",
+      "body_html": "<p>Accurate availability is essential. Update the feed as often as your systems allow, especially for products that sell out quickly.</p>"
+    },
+    {
+      "heading": "Common mistakes",
+      "body_html": "<ul><li>Store codes that don't match the Business Profile exactly.</li><li>Different IDs from the product feed.</li><li>Tax included in U.S. prices.</li><li>Non-English availability values.</li><li>Uploading before locations sync.</li></ul>"
+    },
+    {
+      "heading": "Questions owners ask us",
+      "body_html": "<p>Owners often ask where to find their store code. It's set in your <a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a> for each location, and the inventory feed must use exactly the same value, including capitalization. Another common question is how often to update inventory. As often as practical; daily is a sensible minimum, and more often for fast sellers. Owners also ask whether they need a developer. Small stores can often export inventory from their point-of-sale system into a spreadsheet format, while larger catalogs usually benefit from an automated connection.</p>"
+    },
+    {
+      "heading": "Checklist",
+      "body_html": "<ul><li>Store codes copied from Business Profile.</li><li>IDs match product feed.</li><li>Availability in English values.</li><li>U.S. prices without tax.</li><li>Uploaded after locations synced.</li><li>Updated at least daily.</li></ul>"
+    },
+    {
+      "heading": "An example",
+      "body_html": "<p>Imagine a two-location pet store in Anaheim and Fullerton. It sets store codes ANA01 and FUL01 in each Business Profile, waits a day for locations to sync, then uploads a daily inventory feed exported from its point-of-sale system, with one row per product per store. Shoppers searching for a specific dog food nearby see which store has it.</p>"
+    },
+    {
+      "heading": "How this fits your local plan",
+      "body_html": "<p>Treat this as part of a routine rather than a one-off fix. Local visibility in Anaheim and the rest of Orange County comes from many small, accurate signals adding up: a verified profile, <a href=\"https://thechimeraai.com/nap-consistency-local-citations/\">consistent listings</a>, useful service pages, real photos and a flow of honest reviews. Google is open that relevance, distance and popularity drive local results. You cannot change distance, but you can make sure Google and AI assistants understand exactly what you do and see evidence that customers value it. Put a monthly reminder in the calendar to check the profile, read new reviews and update anything that has changed.</p>"
+    },
+    {
+      "heading": "What to do this week",
+      "body_html": "<ol><li>Check store codes in your Business Profile.</li><li>Export inventory from your POS.</li><li>Format ID, store code and availability.</li><li>Upload and schedule updates.</li></ol>"
+    },
+    {
+      "heading": "When to get help",
+      "body_html": "<p>You do not need an agency for every step here; Google documents most of it clearly. Consider outside help when the work is urgent and unfamiliar, when you manage several locations, or when the same issue returns after you fix it. Ask any provider to show you the specific guideline or documentation behind each recommendation, to keep you as the owner of your accounts and to report results in calls, bookings and leads rather than vanity numbers. That is how <a href=\"https://thechimeraai.com/\">Chimera</a> works with Orange County businesses from our base in Anaheim.</p>"
+    },
+    {
+      "heading": "Exporting from your point of sale",
+      "body_html": "<p>Most point-of-sale systems can export a product list with stock levels by location. Map the export's columns to Google's attributes: your product ID to ID, each store to its store code, and quantity on hand to availability, with in_stock above zero and out_of_stock at zero. Make sure the IDs exactly match those in your main product data, including any prefixes or leading zeros. Once the mapping works, schedule the export to run automatically so the feed stays current without manual effort.</p>"
+    },
+    {
+      "heading": "Handling low stock",
+      "body_html": "<p>Items with one or two left on the shelf are where online inventory goes wrong, since they may sell or turn out damaged before a shopper arrives. Some retailers mark items with very low counts as limited availability or out of stock to avoid disappointing customers. Choose a threshold that suits your store and sales speed, apply it consistently in your export and review it during busy seasons such as the holidays, when stock moves faster.</p>"
+    },
+    {
+      "heading": "Testing with one store first",
+      "body_html": "<p>If you have several locations, start your local inventory setup with a single store. Confirm its store code matches the Business Profile, upload inventory for that store and watch Merchant Center for errors over a few days. Check a handful of products online against the shelf. Once everything works, add your other stores one at a time. This approach makes problems easy to trace, because any error clearly belongs to the store you just added rather than being buried among several locations at once. It also gives staff at the first store time to get used to keeping stock records accurate before the process rolls out everywhere.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>Submit ID, store code and availability for each product and store, match store codes to your Business Profile and update often. Chimera, based in Anaheim, sets up local inventory feeds for Orange County stores.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a local inventory feed?",
+      "a": "Data telling Google which stores have each product."
+    },
+    {
+      "q": "What attributes are required?",
+      "a": "ID, store code and availability."
+    },
+    {
+      "q": "Where do store codes come from?",
+      "a": "Your Google Business Profile locations."
+    },
+    {
+      "q": "Can prices differ by store?",
+      "a": "Yes. A store price overrides the main product price."
+    },
+    {
+      "q": "Should U.S. prices include tax?",
+      "a": "No."
+    },
+    {
+      "q": "How long until locations sync?",
+      "a": "Up to 24 hours."
+    },
+    {
+      "q": "Do you help businesses in Anaheim and Orange County with this?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "local inventory ads and free local listings",
+      "url": "https://thechimeraai.com/google-local-inventory-ads/"
+    },
+    {
+      "anchor": "how to set up Google Merchant Center",
+      "url": "https://thechimeraai.com/how-to-set-up-google-merchant-center/"
+    },
+    {
+      "anchor": "Google Business Profile optimization",
+      "url": "https://thechimeraai.com/google-business-profile-optimization-orange-county/"
+    },
+    {
+      "anchor": "Merchant Center product data",
+      "url": "https://thechimeraai.com/merchant-center-product-data/"
+    },
+    {
+      "anchor": "local GEO",
+      "url": "https://thechimeraai.com/local-geo/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "A holiday Merchant Center checklist for retailers",
+      "url": "https://thechimeraai.com/blog/holiday-merchant-center-checklist/"
+    },
+    {
+      "anchor": "Merchant Center attribute rules",
+      "url": "https://thechimeraai.com/merchant-center-attribute-rules/"
+    },
+    {
+      "anchor": "Merchant Center promotions",
+      "url": "https://thechimeraai.com/google-merchant-center-promotions/"
+    },
+    {
+      "anchor": "Google product category",
+      "url": "https://thechimeraai.com/google-product-category/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Merchant Center Help: Local inventory data specification",
+      "url": "https://support.google.com/merchants/answer/3061342?hl=en"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 4,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "Building the feed",
+      "lead": "From Google's specification.",
+      "steps": [
+        {
+          "title": "Store code",
+          "text": "From Business Profile."
+        },
+        {
+          "title": "ID",
+          "text": "Same as product data."
+        },
+        {
+          "title": "Availability",
+          "text": "English values."
+        },
+        {
+          "title": "Upload",
+          "text": "After locations sync."
+        }
+      ]
+    }
+  ],
+  "hero_query": "How do I send Google my store's stock levels?",
+  "short_title": "Local inventory feed",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "hero_image": {
+    "id": 2262,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/local-inventory-feed-chimera.jpg",
+    "alt": "Local Inventory Feed: Format Your Store Stock: illustration with the AI platforms covered in this guide",
+    "width": 1600,
+    "height": 840
+  },
+  "published": "2026-11-16",
+  "updated": "2026-11-16"
+}

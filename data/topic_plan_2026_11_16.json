@@ -1,0 +1,216 @@
+{
+  "date": "2026-11-16",
+  "research": "10 Google Merchant Center topics, each verified against the matching Google Merchant Center Help page (saved 2026-11-16); 20 retail industry 'seo for <industry>' seeds (slots 161-180) checked against the 180 existing pages, with Schema.org store types confirmed live; 5 posts from Google announcements and Search Central posts (Apr 13 - Oct 8, 2026) not yet covered, plus a holiday checklist built only from today's verified Merchant Center facts. Search Console query data unavailable (no service-account key). No topic repeats an existing page.",
+  "topics": [
+    {
+      "slug": "back-button-hijacking-spam-policy",
+      "query": "back button hijacking",
+      "kind": "blog",
+      "title": "Back Button Hijacking: Check Your Website Before Google Does"
+    },
+    {
+      "slug": "google-free-product-listings",
+      "query": "google free product listings",
+      "kind": "guide",
+      "title": "Google Free Product Listings: Show Your Products on Google at No Cost"
+    },
+    {
+      "slug": "google-local-inventory-ads",
+      "query": "google local inventory ads",
+      "kind": "guide",
+      "title": "Local Inventory Ads and Free Local Listings: Show Shoppers What's in Your Store"
+    },
+    {
+      "slug": "google-maps-know-before-you-go-restaurants",
+      "query": "google maps know before you go",
+      "kind": "blog",
+      "title": "Google Maps Know Before You Go Tips: What Restaurants Should Know"
+    },
+    {
+      "slug": "google-merchant-center-promotions",
+      "query": "google merchant center promotions",
+      "kind": "guide",
+      "title": "Merchant Center Promotions: Show Your Offers on Google"
+    },
+    {
+      "slug": "google-product-category",
+      "query": "google product category",
+      "kind": "guide",
+      "title": "Google Product Category: How Google Categorizes Your Products"
+    },
+    {
+      "slug": "holiday-merchant-center-checklist",
+      "query": "holiday merchant center checklist",
+      "kind": "blog",
+      "title": "A Holiday Merchant Center Checklist for Orange County Retailers"
+    },
+    {
+      "slug": "how-to-set-up-google-merchant-center",
+      "query": "how to set up google merchant center",
+      "kind": "guide",
+      "title": "How to Set Up Google Merchant Center for Your Store"
+    },
+    {
+      "slug": "local-inventory-feed",
+      "query": "local inventory feed",
+      "kind": "guide",
+      "title": "Local Inventory Feed: How to Tell Google What's in Each Store"
+    },
+    {
+      "slug": "merchant-center-attribute-rules",
+      "query": "merchant center attribute rules",
+      "kind": "guide",
+      "title": "Merchant Center Attribute Rules: Fix Product Data Without Editing Your Store"
+    },
+    {
+      "slug": "merchant-center-disapprovals",
+      "query": "merchant center disapprovals",
+      "kind": "guide",
+      "title": "Merchant Center Product Disapprovals: Why They Happen and How to Fix Them"
+    },
+    {
+      "slug": "merchant-center-product-data",
+      "query": "merchant center product data",
+      "kind": "guide",
+      "title": "Merchant Center Product Data: The Attributes That Get Products Shown"
+    },
+    {
+      "slug": "merchant-center-return-policies",
+      "query": "merchant center return policies",
+      "kind": "guide",
+      "title": "Merchant Center Return Policies: Show Shoppers Your Returns on Google"
+    },
+    {
+      "slug": "seo-for-auto-parts-stores",
+      "query": "seo for auto parts stores",
+      "kind": "guide",
+      "title": "SEO for Auto Parts Stores in Orange County: Have the Part When It's Needed"
+    },
+    {
+      "slug": "seo-for-bike-shops",
+      "query": "seo for bike shops",
+      "kind": "guide",
+      "title": "SEO for Bike Shops in Orange County: Sell Bikes and Fill the Repair Stand"
+    },
+    {
+      "slug": "seo-for-bookstores",
+      "query": "seo for bookstores",
+      "kind": "guide",
+      "title": "SEO for Bookstores in Orange County: Turn Readers Into Regulars"
+    },
+    {
+      "slug": "seo-for-clothing-boutiques",
+      "query": "seo for clothing boutiques",
+      "kind": "guide",
+      "title": "SEO for Clothing Boutiques in Orange County: Get Found Beyond Instagram"
+    },
+    {
+      "slug": "seo-for-computer-repair-shops",
+      "query": "seo for computer repair shops",
+      "kind": "guide",
+      "title": "SEO for Computer Repair Shops in Orange County: Be the Shop People Trust With Their Data"
+    },
+    {
+      "slug": "seo-for-electronics-stores",
+      "query": "seo for electronics stores",
+      "kind": "guide",
+      "title": "SEO for Electronics Stores in Orange County: Beat Online Retailers on Speed and Help"
+    },
+    {
+      "slug": "seo-for-furniture-stores",
+      "query": "seo for furniture stores",
+      "kind": "guide",
+      "title": "SEO for Furniture Stores in Orange County: Bring Shoppers Into the Showroom"
+    },
+    {
+      "slug": "seo-for-garden-centers",
+      "query": "seo for garden centers",
+      "kind": "guide",
+      "title": "SEO for Garden Centers in Orange County: Grow With the Seasons"
+    },
+    {
+      "slug": "seo-for-hardware-stores",
+      "query": "seo for hardware stores",
+      "kind": "guide",
+      "title": "SEO for Hardware Stores in Orange County: Win the Urgent Fix-It Search"
+    },
+    {
+      "slug": "seo-for-hobby-shops",
+      "query": "seo for hobby shops",
+      "kind": "guide",
+      "title": "SEO for Hobby Shops in Orange County: Grow Your Community"
+    },
+    {
+      "slug": "seo-for-home-decor-stores",
+      "query": "seo for home decor stores",
+      "kind": "guide",
+      "title": "SEO for Home Decor Stores in Orange County: Inspire Shoppers to Visit"
+    },
+    {
+      "slug": "seo-for-music-stores",
+      "query": "seo for music stores",
+      "kind": "guide",
+      "title": "SEO for Music Stores in Orange County: Rentals, Lessons and Repairs"
+    },
+    {
+      "slug": "seo-for-pawn-shops",
+      "query": "seo for pawn shops",
+      "kind": "guide",
+      "title": "SEO for Pawn Shops in Orange County: Explain Loans and Earn Trust"
+    },
+    {
+      "slug": "seo-for-pet-stores",
+      "query": "seo for pet stores",
+      "kind": "guide",
+      "title": "SEO for Pet Stores in Orange County: Become the Go-To Shop for Pet Owners"
+    },
+    {
+      "slug": "seo-for-phone-repair-shops",
+      "query": "seo for phone repair shops",
+      "kind": "guide",
+      "title": "SEO for Phone Repair Shops in Orange County: Win the Cracked-Screen Search"
+    },
+    {
+      "slug": "seo-for-shoe-stores",
+      "query": "seo for shoe stores",
+      "kind": "guide",
+      "title": "SEO for Shoe Stores in Orange County: Fit Is Your Advantage"
+    },
+    {
+      "slug": "seo-for-sporting-goods-stores",
+      "query": "seo for sporting goods stores",
+      "kind": "guide",
+      "title": "SEO for Sporting Goods Stores in Orange County: Gear Up Local Teams"
+    },
+    {
+      "slug": "seo-for-surf-shops",
+      "query": "seo for surf shops",
+      "kind": "guide",
+      "title": "SEO for Surf Shops in Orange County: Catch Visitors and Locals"
+    },
+    {
+      "slug": "seo-for-thrift-stores",
+      "query": "seo for thrift stores",
+      "kind": "guide",
+      "title": "SEO for Thrift Stores in Orange County: Bring in Donors and Shoppers"
+    },
+    {
+      "slug": "seo-for-toy-stores",
+      "query": "seo for toy stores",
+      "kind": "guide",
+      "title": "SEO for Toy Stores in Orange County: Win the Gift Search"
+    },
+    {
+      "slug": "thrift-shopping-google-lens-ai-mode",
+      "query": "thrift shopping google lens",
+      "kind": "blog",
+      "title": "Thrift Shopping With Google Lens and AI Mode: What Resale Shops Should Know"
+    },
+    {
+      "slug": "youtube-ads-from-social-assets",
+      "query": "youtube ads from social assets",
+      "kind": "blog",
+      "title": "YouTube Ads From Social Assets: Start With What You Already Have"
+    }
+  ]
+}
