@@ -154,6 +154,7 @@ Every day, research, write and publish **30 new guide pages**, in addition to th
    sitemap and in llms.txt. Google has no request-indexing API; if `GSC_SERVICE_ACCOUNT_KEY_JSON` is set, the engine
    also resubmits the sitemap to Search Console.
 6. **Dashboard.** Run the quick dashboard refresh below, then commit with the message `Daily run YYYY-MM-DD`.
+7. **Push to both repos.** `git push origin main`, then `git push buildup main` (boxpackagingus/main-build-up). If the `buildup` remote is missing, add it first: `git remote add buildup https://github.com/boxpackagingus/main-build-up`. Report a failure on either push.
 
 ## Daily blog: 5 posts a day at /blog/
 
