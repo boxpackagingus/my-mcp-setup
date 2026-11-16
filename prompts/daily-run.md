@@ -167,6 +167,22 @@ and pick new topics from money-local gaps. Vendored skills to use: local-keyword
 local-content-strategy, local-link-building, mkt-cro, mkt-copywriting, mkt-programmatic-seo, gsc-cannibalization-check,
 gsc-content-opportunities (all MIT, see each folder's LICENSE).
 
+### Daily mix from 2026-11-17 (approved by the user 2026-11-16: "Rebalance")
+
+The 30 daily pages are now split between fixing what already ranks and new pages with local buyer intent:
+1. **Fix up to 15 existing pages a day**, chosen from `data/opportunities.json`:
+   - Cannibalization: for each money query split across several of our pages, choose one keeper (best position),
+     point the others' titles, H1s and answers at their own distinct topic, and link them to the keeper with the query as anchor text.
+   - CTR fixes and striking distance: rewrite the title and meta so the money query leads, and add the missing answer,
+     local proof and FAQ the query asks for. Apply the mkt-cro and mkt-copywriting skills to money pages (one clear CTA, trust near the form).
+   - Republish fixed pages through drafts so IndexNow fires.
+2. **About 15 new pages** for money-local gaps only: service x Orange County city, or industry x Orange County
+   (for example "law firm seo santa ana", "real estate seo irvine"), each with genuine city-specific detail per
+   the local-landing-pages skill. No new national "seo for <industry>" pages unless a money query in the data asks for one.
+   Also use `data/competitor_gaps.json` (`python -m engine competitors`) when config/competitors.json lists domains.
+3. **5 blogs** as before.
+The end-of-run report adds: pages fixed (and why), money-query positions today vs yesterday.
+
 ## Daily blog: 5 posts a day at /blog/
 
 Blog posts are WordPress pages under the `/blog/` parent page. A spec with `"kind": "blog"` is published there,
