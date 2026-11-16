@@ -9,6 +9,7 @@
   python -m engine sitecheck          Check llms.txt, robots.txt, sitemap and every page
   python -m engine export             Write the dashboard data files (dashboard/export/)
   python -m engine status             Show today's limit and queue size
+  python -m engine opportunities      Money queries, striking distance, CTR fixes, cannibalization
   python -m engine refresh            Track + export, then list dashboard files that changed
 """
 import json
@@ -49,6 +50,10 @@ def main(argv):
         from . import publish
         max_pages = int(args[args.index("--max") + 1]) if "--max" in args else None
         print(json.dumps(publish.run(cfg, dry_run="--dry-run" in args, max_pages=max_pages), indent=2))
+        return 0
+    if cmd == "opportunities":
+        from . import opportunities
+        print(json.dumps(opportunities.run(cfg), indent=2))
         return 0
     if cmd == "track":
         from . import track

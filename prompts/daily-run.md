@@ -156,6 +156,17 @@ Every day, research, write and publish **30 new guide pages**, in addition to th
 6. **Dashboard.** Run the quick dashboard refresh below, then commit with the message `Daily run YYYY-MM-DD`.
 7. **Push to both repos.** `git push origin main`, then `git push buildup main` (boxpackagingus/main-build-up). If the `buildup` remote is missing, add it first: `git remote add buildup https://github.com/boxpackagingus/main-build-up`. Report a failure on either push.
 
+## Step 0: opportunities first (added 2026-11-16)
+
+Before choosing any topics, run `python -m engine opportunities`. It reads 28 days of Search Console query+page data and writes
+`data/opportunities.json` with: the intent mix (money-local, money-national, service-research, question, other, non-us),
+money queries (local buyer intent such as "anaheim seo", "attorney seo orange county"), striking-distance queries (positions 4-30,
+weighted by intent), CTR fixes and cannibalization (one query, several of our pages). Use it to steer the day:
+fix cannibalization and strengthen pages that already rank for money queries before writing new national "seo for X" pages,
+and pick new topics from money-local gaps. Vendored skills to use: local-keyword-research, local-landing-pages,
+local-content-strategy, local-link-building, mkt-cro, mkt-copywriting, mkt-programmatic-seo, gsc-cannibalization-check,
+gsc-content-opportunities (all MIT, see each folder's LICENSE).
+
 ## Daily blog: 5 posts a day at /blog/
 
 Blog posts are WordPress pages under the `/blog/` parent page. A spec with `"kind": "blog"` is published there,
