@@ -102,5 +102,10 @@ def run(cfg):
            "intent_mix": dict(mix), "money_queries": slim(money[:40]), "striking_distance": slim(striking[:40], ("score",)),
            "ctr_fixes": slim(ctr[:30], ("gap",)), "cannibalization": cannibal[:30]}
     config.write_json(config.ROOT / "data" / "opportunities.json", out)
+    # Daily snapshot of money-query positions, so each run can report today vs yesterday.
+    hist = config.ROOT / "data" / "money_positions"
+    hist.mkdir(exist_ok=True)
+    config.write_json(hist / f"{out['date']}.json",
+                      {r["query"] + " | " + r["slug"]: round(r["position"], 1) for r in money})
     return {"rows": len(rows), "intent_mix": dict(mix), "money_queries": len(money), "striking": len(striking),
             "ctr_fixes": len(ctr), "cannibalization": len(cannibal), "file": "data/opportunities.json"}
