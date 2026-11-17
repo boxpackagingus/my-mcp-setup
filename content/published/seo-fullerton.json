@@ -7,7 +7,10 @@
     "SEO company Fullerton",
     "Fullerton SEO agency",
     "local SEO Fullerton",
-    "SEO services Fullerton CA"
+    "SEO services Fullerton CA",
+    "local seo fullerton",
+    "fullerton local seo",
+    "seo company fullerton"
   ],
   "search_intent": "informational",
   "seo": {
@@ -79,6 +82,10 @@
     {
       "heading": "Where the opportunity is in Fullerton",
       "body_html": "<p>In Fullerton the opportunity is speed and accuracy for a mobile, student-heavy audience: current hours, clear prices or price ranges, student offers where you have them and quick answers to common questions, plus home and family services for residents across the city.</p>"
+    },
+    {
+      "heading": "Local SEO in Fullerton: where to start",
+      "body_html": "<p>For most Fullerton businesses, local SEO starts with three things. First, a complete Google Business Profile with the right category, services, hours and photos. Second, a website page for each service that names Fullerton and the nearby areas you serve, such as the neighborhoods around Cal State Fullerton or downtown. Third, a steady flow of genuine reviews. Businesses near the Anaheim border should describe their service area clearly so Google knows they serve both cities.</p>"
     },
     {
       "heading": "The short version",
@@ -328,5 +335,5 @@
     "height": 840
   },
   "published": "2026-11-10",
-  "updated": "2026-11-14"
+  "updated": "2026-11-17"
 }

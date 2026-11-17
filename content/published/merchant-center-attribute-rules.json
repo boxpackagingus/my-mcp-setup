@@ -74,7 +74,7 @@
     },
     {
       "heading": "An example",
-      "body_html": "<p>Imagine a home decor store in Laguna Niguel whose product data lacks colors in titles. Using attribute rules, it appends the color attribute to titles for all products in its main data source, tests the rule on a sample and applies it. Titles now read like Linen Throw Pillow 20 inch Sage Green, matching what shoppers search.</p>"
+      "body_html": "<p>Imagine a home decor store in <a href=\"https://thechimeraai.com/seo-laguna-niguel/\">Laguna Niguel</a> whose product data lacks colors in titles. Using attribute rules, it appends the color attribute to titles for all products in its main data source, tests the rule on a sample and applies it. Titles now read like Linen Throw Pillow 20 inch Sage Green, matching what shoppers search.</p>"
     },
     {
       "heading": "How this fits your local plan",
@@ -236,5 +236,5 @@
     "height": 840
   },
   "published": "2026-11-16",
-  "updated": "2026-11-16"
+  "updated": "2026-11-17"
 }

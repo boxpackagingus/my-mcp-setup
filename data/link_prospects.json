@@ -26,6 +26,19 @@
     "next_step": "Apply for membership with the North Orange County Chamber of Commerce to be included in the Anaheim Business Directory."
   },
   {
+    "name": "Orange County Business Council: Insights newsletter",
+    "url": "https://ocbc.org/news-media/news/",
+    "type": "news",
+    "cost": "unknown (newsletter features OC business news)",
+    "evidence": "OCBC's Insights newsletter carries Orange County business news from nonprofits and for-profits; site lists named staff contacts (Communications and Social Media Specialist) rather than a general submission address. Not emailed: named staff address.",
+    "found": "2026-11-17",
+    "query": "Orange County Business Council newsletter submit member news",
+    "status": "new",
+    "http": "blocked by network allowlist",
+    "priority": 4,
+    "next_step": "Email the named Communications and Social Media Specialist with a tailored pitch about Chimera's Anaheim SEO case studies for OC businesses."
+  },
+  {
     "name": "Critical Mass Business Talk Show",
     "url": "https://criticalmassbusinesstalkshow.podbean.com/",
     "type": "podcast",
@@ -37,6 +50,19 @@
     "http": "blocked by network allowlist",
     "priority": 2,
     "next_step": "Reach out to the Critical Mass Business Talk Show host to explore guest appearance opportunities."
+  },
+  {
+    "name": "Daily Pilot (Costa Mesa, Newport Beach, Irvine)",
+    "url": "https://www.dailypilot.com/",
+    "type": "news",
+    "cost": "free to pitch",
+    "evidence": "Los Angeles Times community paper covering Costa Mesa, Newport Beach and Irvine; no published tips address found in search on 2026-11-17.",
+    "found": "2026-11-17",
+    "query": "Daily Pilot submit news tips",
+    "status": "new",
+    "http": "blocked by network allowlist",
+    "priority": 2,
+    "next_step": "Find reporter contact details via the Daily Pilot website or LinkedIn to pitch a hyperlocal business story."
   },
   {
     "name": "OC Business Podcast (Build Your Authority)",
@@ -63,6 +89,19 @@
     "http": "blocked by network allowlist",
     "priority": 2,
     "next_step": "Pitch Chimera as a guest to OC Business Report through their contact channels on Apple Podcasts or iHeart."
+  },
+  {
+    "name": "Voice of OC (contact and tips page)",
+    "url": "https://voiceofoc.org/staff-contact-us/",
+    "type": "news",
+    "cost": "free",
+    "evidence": "Nonprofit OC newsroom with a Contact Us / Anonymous Tips / Contributing Writers page. Covers public affairs; low fit for business pitches.",
+    "found": "2026-11-17",
+    "query": "Irvine Weekly OR Daily Pilot submit news tips email",
+    "status": "new",
+    "http": "blocked by network allowlist",
+    "priority": 1,
+    "next_step": "Skip pitching Voice of OC as its public-affairs focus makes business coverage unlikely."
   },
   {
     "name": "Good Neighbor Podcast: Orange County",

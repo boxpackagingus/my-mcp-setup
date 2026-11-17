@@ -74,7 +74,7 @@
     },
     {
       "heading": "An example",
-      "body_html": "<p>Imagine a Vietnamese restaurant in Westminster whose Apple Maps name includes Best Pho Little Saigon. The owner changes the display name to the name on the sign, adds a Vietnamese-language name, writes an about section mentioning that it's family-run since 1998, and uploads a logo and cover photo of the dining room.</p>"
+      "body_html": "<p>Imagine a Vietnamese restaurant in <a href=\"https://thechimeraai.com/seo-westminster/\">Westminster</a> whose Apple Maps name includes Best Pho Little Saigon. The owner changes the display name to the name on the sign, adds a Vietnamese-language name, writes an about section mentioning that it's family-run since 1998, and uploads a logo and cover photo of the dining room.</p>"
     },
     {
       "heading": "How this fits your local plan",
@@ -232,5 +232,5 @@
     "height": 840
   },
   "published": "2026-11-15",
-  "updated": "2026-11-15"
+  "updated": "2026-11-17"
 }

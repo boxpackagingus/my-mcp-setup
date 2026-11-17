@@ -1,5 +1,5 @@
 {
-  "checked": "2026-11-16T13:05:52Z",
+  "checked": "2026-11-17T13:10:01Z",
   "files": [
     {
       "file": "robots.txt",
@@ -9,52 +9,40 @@
       "items": 5,
       "items_label": "AI crawlers allowed",
       "note": "Lists the sitemap",
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "file": "Sitemap",
       "url": "https://thechimeraai.com/wp-sitemap.xml",
       "http": 200,
       "status": "OK",
-      "items": 387,
+      "items": 407,
       "items_label": "pages listed",
       "note": "Google reads this to find new pages",
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "file": "llms.txt",
       "url": "https://thechimeraai.com/llms.txt",
       "http": 200,
       "status": "OK",
-      "items": 383,
+      "items": 403,
       "items_label": "guides listed",
       "note": "Map of your site for AI assistants",
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "file": "llms-full.txt",
       "url": "https://thechimeraai.com/llms-full.txt",
       "http": 200,
       "status": "OK",
-      "items": 383,
+      "items": 403,
       "items_label": "full guides included",
-      "note": "3680 KB of plain text for AI assistants",
-      "checked": "2026-11-16T13:05:52Z"
+      "note": "3873 KB of plain text for AI assistants",
+      "checked": "2026-11-17T13:10:01Z"
     }
   ],
   "pages": [
-    {
-      "slug": "30-day-ai-search-plan-orange-county",
-      "url": "https://thechimeraai.com/blog/30-day-ai-search-plan-orange-county/",
-      "published": "2026-11-10",
-      "live": "Yes",
-      "in_sitemap": "Yes",
-      "in_llms": "Yes",
-      "markdown": "Yes",
-      "schema": "Yes",
-      "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
-    },
     {
       "slug": "ads-in-ai-mode-local-business",
       "url": "https://thechimeraai.com/blog/ads-in-ai-mode-local-business/",
@@ -65,7 +53,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "ai-crawler-user-agents",
@@ -77,7 +65,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "ai-overviews-vs-featured-snippets",
@@ -89,7 +77,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "ai-search-for-b2b-lead-generation",
@@ -101,7 +89,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "ai-search-optimization-checklist",
@@ -113,7 +101,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "ai-search-statistics",
@@ -125,7 +113,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "ai-seo-for-small-business",
@@ -137,7 +125,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "ai-share-of-voice",
@@ -149,7 +137,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "ai-visibility-audit",
@@ -161,7 +149,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "answer-engine-optimization-vs-generative-engine-optimization",
@@ -173,19 +161,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
-    },
-    {
-      "slug": "ask-maps-food-ordering-restaurants",
-      "url": "https://thechimeraai.com/blog/ask-maps-food-ordering-restaurants/",
-      "published": "2026-11-13",
-      "live": "Yes",
-      "in_sitemap": "Yes",
-      "in_llms": "Yes",
-      "markdown": "Yes",
-      "schema": "Yes",
-      "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "author-pages-for-eeat",
@@ -197,7 +173,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "best-practices-for-llms-txt",
@@ -209,7 +185,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "businesses-in-chatgpt-claim-your-business",
@@ -221,7 +197,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "chatgpt-search-vs-google",
@@ -233,7 +209,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "core-web-vitals-for-local-businesses",
@@ -245,7 +221,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "digital-pr-for-ai-search",
@@ -257,7 +233,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "does-google-penalize-ai-content",
@@ -269,7 +245,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "eeat-for-ai-search",
@@ -281,7 +257,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "entity-seo-for-ai-search",
@@ -293,7 +269,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "faq-pages-for-ai-search",
@@ -305,7 +281,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "gemini-4-carbon-ai-mode-local-business",
@@ -317,7 +293,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "gemini-4-hydrogen-google-search-upgrade",
@@ -329,7 +305,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "gemini-apple-carplay-local-business",
@@ -341,19 +317,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
-    },
-    {
-      "slug": "gemini-in-chrome-website-answers",
-      "url": "https://thechimeraai.com/blog/gemini-in-chrome-website-answers/",
-      "published": "2026-11-13",
-      "live": "Yes",
-      "in_sitemap": "Yes",
-      "in_llms": "Yes",
-      "markdown": "Yes",
-      "schema": "Yes",
-      "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "gemini-seo",
@@ -365,7 +329,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "gemini-task-automation-bookings-anaheim",
@@ -377,7 +341,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "generative-engine-optimization-agency",
@@ -389,19 +353,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
-    },
-    {
-      "slug": "geo-agency-orange-county",
-      "url": "https://thechimeraai.com/geo-agency-orange-county/",
-      "published": "2026-11-05",
-      "live": "Yes",
-      "in_sitemap": "Yes",
-      "in_llms": "Yes",
-      "markdown": "Yes",
-      "schema": "Yes",
-      "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "geo-content-strategy",
@@ -413,7 +365,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "geo-for-b2b-saas",
@@ -425,7 +377,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "geo-for-dentists",
@@ -437,7 +389,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "geo-for-ecommerce",
@@ -449,7 +401,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "geo-for-financial-advisors",
@@ -461,7 +413,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "geo-for-healthcare",
@@ -473,7 +425,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "geo-for-home-services",
@@ -485,7 +437,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "geo-for-hotels",
@@ -497,7 +449,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "geo-for-law-firms",
@@ -509,7 +461,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "geo-for-manufacturers",
@@ -521,7 +473,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "geo-for-med-spas",
@@ -533,7 +485,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "geo-for-multi-location-businesses",
@@ -545,7 +497,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "geo-for-real-estate-agents",
@@ -557,7 +509,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "geo-for-restaurants",
@@ -569,7 +521,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "geo-for-startups",
@@ -581,19 +533,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
-    },
-    {
-      "slug": "geo-for-travel-websites",
-      "url": "https://thechimeraai.com/geo-for-travel-websites/",
-      "published": "2026-11-10",
-      "live": "Yes",
-      "in_sitemap": "Yes",
-      "in_llms": "Yes",
-      "markdown": "Yes",
-      "schema": "Yes",
-      "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "geo-mistakes-to-avoid",
@@ -605,7 +545,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "geo-roi",
@@ -617,7 +557,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "geo-seo-best-practices",
@@ -629,7 +569,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "geo-vs-ppc",
@@ -641,7 +581,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "geo-vs-seo",
@@ -653,7 +593,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-ads-invalid-traffic-card",
@@ -665,7 +605,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-ai-mode-hotel-booking-anaheim",
@@ -677,7 +617,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-ai-mode-inline-links-update",
@@ -689,7 +629,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-ai-training-control-robots-txt",
@@ -701,7 +641,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-automated-calls-to-your-business",
@@ -713,7 +653,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-business-profile-attributes",
@@ -725,7 +665,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-business-profile-booking-button",
@@ -737,7 +677,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-business-profile-categories",
@@ -749,7 +689,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-business-profile-gemini-web-app",
@@ -761,7 +701,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-business-profile-links",
@@ -773,7 +713,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-business-profile-optimization-orange-county",
@@ -785,7 +725,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-business-profile-owners-and-managers",
@@ -797,19 +737,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
-    },
-    {
-      "slug": "google-business-profile-performance",
-      "url": "https://thechimeraai.com/google-business-profile-performance/",
-      "published": "2026-11-12",
-      "live": "Yes",
-      "in_sitemap": "Yes",
-      "in_llms": "Yes",
-      "markdown": "Yes",
-      "schema": "Yes",
-      "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-business-profile-photos",
@@ -821,7 +749,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-business-profile-posts",
@@ -833,7 +761,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-business-profile-service-area",
@@ -845,7 +773,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-business-profile-services",
@@ -857,7 +785,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-business-profile-suspended",
@@ -869,7 +797,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-business-profile-verification",
@@ -881,7 +809,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-eat-here-domains-orange-county",
@@ -893,7 +821,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-financial-services-verification-us",
@@ -905,7 +833,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-holiday-100-orange-county-retailers",
@@ -917,7 +845,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-intelligent-eyewear-local-business",
@@ -929,7 +857,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-local-services-ads-vs-seo",
@@ -941,7 +869,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-october-2026-ai-updates-local-business",
@@ -953,7 +881,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-search-console-links-report",
@@ -965,7 +893,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-search-console-manual-actions",
@@ -977,7 +905,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-search-console-page-indexing-report",
@@ -989,19 +917,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
-    },
-    {
-      "slug": "google-search-console-performance-report",
-      "url": "https://thechimeraai.com/google-search-console-performance-report/",
-      "published": "2026-11-13",
-      "live": "Yes",
-      "in_sitemap": "Yes",
-      "in_llms": "Yes",
-      "markdown": "Yes",
-      "schema": "Yes",
-      "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-search-console-removals-tool",
@@ -1013,7 +929,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-search-console-security-issues",
@@ -1025,7 +941,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-search-console-sitemaps-report",
@@ -1037,7 +953,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-search-console-url-inspection",
@@ -1049,19 +965,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
-    },
-    {
-      "slug": "google-search-console-users-and-permissions",
-      "url": "https://thechimeraai.com/google-search-console-users-and-permissions/",
-      "published": "2026-11-13",
-      "live": "Yes",
-      "in_sitemap": "Yes",
-      "in_llms": "Yes",
-      "markdown": "Yes",
-      "schema": "Yes",
-      "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-search-profiles-local-brands",
@@ -1073,7 +977,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-seo-learning-paths-small-business",
@@ -1085,7 +989,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-universal-cart-orange-county-retailers",
@@ -1097,7 +1001,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "holiday-travel-search-trends-anaheim-2026",
@@ -1109,7 +1013,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "how-ai-search-engines-choose-sources",
@@ -1121,7 +1025,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "how-chatgpt-recommends-local-businesses",
@@ -1133,7 +1037,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "how-long-does-geo-take",
@@ -1145,7 +1049,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "how-long-should-content-be-for-ai-search",
@@ -1157,7 +1061,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "how-much-does-geo-cost",
@@ -1169,7 +1073,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "how-to-check-if-chatgpt-mentions-your-brand",
@@ -1181,7 +1085,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "how-to-choose-a-geo-agency",
@@ -1193,19 +1097,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
-    },
-    {
-      "slug": "how-to-claim-google-business-profile",
-      "url": "https://thechimeraai.com/how-to-claim-google-business-profile/",
-      "published": "2026-11-12",
-      "live": "Yes",
-      "in_sitemap": "Yes",
-      "in_llms": "Yes",
-      "markdown": "Yes",
-      "schema": "Yes",
-      "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "how-to-create-google-business-profile",
@@ -1217,7 +1109,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "how-to-find-prompts-people-ask-ai",
@@ -1229,7 +1121,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "how-to-fix-wrong-information-about-your-brand-in-chatgpt",
@@ -1241,7 +1133,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "how-to-get-a-google-knowledge-panel",
@@ -1253,7 +1145,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "how-to-get-brand-mentions-for-ai-search",
@@ -1265,7 +1157,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "how-to-get-cited-by-claude",
@@ -1277,7 +1169,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "how-to-get-more-google-reviews",
@@ -1289,7 +1181,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "how-to-get-on-best-of-lists",
@@ -1301,7 +1193,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "how-to-measure-geo-results",
@@ -1313,7 +1205,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "how-to-optimize-for-google-ai-mode",
@@ -1325,7 +1217,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "how-to-optimize-for-meta-ai",
@@ -1337,7 +1229,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "how-to-rank-in-chatgpt",
@@ -1349,19 +1241,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
-    },
-    {
-      "slug": "how-to-remove-fake-google-reviews",
-      "url": "https://thechimeraai.com/how-to-remove-fake-google-reviews/",
-      "published": "2026-11-11",
-      "live": "Yes",
-      "in_sitemap": "Yes",
-      "in_llms": "Yes",
-      "markdown": "Yes",
-      "schema": "Yes",
-      "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "how-to-respond-to-google-reviews",
@@ -1373,7 +1253,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "how-to-set-up-google-search-console",
@@ -1385,7 +1265,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "how-to-show-up-in-google-ai-overviews",
@@ -1397,7 +1277,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "how-to-track-ai-traffic-in-google-analytics",
@@ -1409,7 +1289,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "how-to-track-ai-visibility",
@@ -1421,7 +1301,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "how-to-update-old-content-for-ai-search",
@@ -1433,7 +1313,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "how-to-write-comparison-pages",
@@ -1445,7 +1325,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "how-to-write-content-for-ai-search",
@@ -1457,7 +1337,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "internal-linking-for-ai-search",
@@ -1469,7 +1349,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "is-geo-bring-sales",
@@ -1481,7 +1361,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "is-seo-dead",
@@ -1493,7 +1373,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "is-seo-worth-it-for-small-business",
@@ -1505,7 +1385,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "local-business-schema-for-ai-search",
@@ -1517,7 +1397,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "local-geo",
@@ -1529,7 +1409,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "local-landing-pages",
@@ -1541,19 +1421,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
-    },
-    {
-      "slug": "local-seo-checklist",
-      "url": "https://thechimeraai.com/local-seo-checklist/",
-      "published": "2026-11-10",
-      "live": "Yes",
-      "in_sitemap": "Yes",
-      "in_llms": "Yes",
-      "markdown": "Yes",
-      "schema": "Yes",
-      "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "local-seo-keywords",
@@ -1565,7 +1433,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "local-seo-orange-county",
@@ -1577,7 +1445,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "microsoft-copilot-seo",
@@ -1589,7 +1457,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "moving-to-a-cdn-googlebot-crawling",
@@ -1601,7 +1469,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "perplexity-seo",
@@ -1613,7 +1481,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "press-releases-for-ai-search",
@@ -1625,7 +1493,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "reddit-for-ai-search",
@@ -1637,7 +1505,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "robots-txt-for-ai-crawlers",
@@ -1649,7 +1517,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "schema-markup-for-ai-search",
@@ -1661,7 +1529,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "search-console-generative-ai-performance-report",
@@ -1673,7 +1541,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "search-console-multimodal-search-report",
@@ -1685,31 +1553,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
-    },
-    {
-      "slug": "seo-company-anaheim",
-      "url": "https://thechimeraai.com/seo-company-anaheim/",
-      "published": "2026-11-10",
-      "live": "Yes",
-      "in_sitemap": "Yes",
-      "in_llms": "Yes",
-      "markdown": "Yes",
-      "schema": "Yes",
-      "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
-    },
-    {
-      "slug": "seo-company-orange-county",
-      "url": "https://thechimeraai.com/seo-company-orange-county/",
-      "published": "2026-11-10",
-      "live": "Yes",
-      "in_sitemap": "Yes",
-      "in_llms": "Yes",
-      "markdown": "Yes",
-      "schema": "Yes",
-      "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-costa-mesa",
@@ -1721,7 +1565,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-accountants",
@@ -1733,7 +1577,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-acupuncturists",
@@ -1745,7 +1589,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-appliance-repair",
@@ -1757,7 +1601,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-architects",
@@ -1769,7 +1613,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-audiologists",
@@ -1781,7 +1625,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-auto-body-shops",
@@ -1793,7 +1637,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-auto-detailing",
@@ -1805,7 +1649,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-auto-glass-repair",
@@ -1817,7 +1661,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-auto-repair-shops",
@@ -1829,7 +1673,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-bakeries",
@@ -1841,7 +1685,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-bankruptcy-attorneys",
@@ -1853,7 +1697,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-barbershops",
@@ -1865,7 +1709,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-bathroom-remodelers",
@@ -1877,7 +1721,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-cabinet-companies",
@@ -1889,7 +1733,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-car-dealerships",
@@ -1901,7 +1745,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-car-washes",
@@ -1913,7 +1757,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-carpet-cleaning",
@@ -1925,7 +1769,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-catering-companies",
@@ -1937,7 +1781,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-chiropractors",
@@ -1949,7 +1793,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-cleaning-companies",
@@ -1961,7 +1805,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-coffee-shops",
@@ -1973,7 +1817,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-commercial-cleaning",
@@ -1985,7 +1829,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-concrete-contractors",
@@ -1997,7 +1841,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-contractors",
@@ -2009,7 +1853,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-countertop-companies",
@@ -2021,19 +1865,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
-    },
-    {
-      "slug": "seo-for-criminal-defense-lawyers",
-      "url": "https://thechimeraai.com/seo-for-criminal-defense-lawyers/",
-      "published": "2026-11-11",
-      "live": "Yes",
-      "in_sitemap": "Yes",
-      "in_llms": "Yes",
-      "markdown": "Yes",
-      "schema": "Yes",
-      "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-dance-studios",
@@ -2045,7 +1877,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-daycare-centers",
@@ -2057,19 +1889,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
-    },
-    {
-      "slug": "seo-for-dentists-orange-county",
-      "url": "https://thechimeraai.com/seo-for-dentists-orange-county/",
-      "published": "2026-11-10",
-      "live": "Yes",
-      "in_sitemap": "Yes",
-      "in_llms": "Yes",
-      "markdown": "Yes",
-      "schema": "Yes",
-      "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-dermatologists",
@@ -2081,7 +1901,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-dietitians",
@@ -2093,31 +1913,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
-    },
-    {
-      "slug": "seo-for-divorce-lawyers",
-      "url": "https://thechimeraai.com/seo-for-divorce-lawyers/",
-      "published": "2026-11-12",
-      "live": "Yes",
-      "in_sitemap": "Yes",
-      "in_llms": "Yes",
-      "markdown": "Yes",
-      "schema": "Yes",
-      "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
-    },
-    {
-      "slug": "seo-for-doctors",
-      "url": "https://thechimeraai.com/seo-for-doctors/",
-      "published": "2026-11-10",
-      "live": "Yes",
-      "in_sitemap": "Yes",
-      "in_llms": "Yes",
-      "markdown": "Yes",
-      "schema": "Yes",
-      "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-dog-groomers",
@@ -2129,7 +1925,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-dog-trainers",
@@ -2141,7 +1937,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-driving-schools",
@@ -2153,7 +1949,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-electricians",
@@ -2165,19 +1961,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
-    },
-    {
-      "slug": "seo-for-estate-planning-attorneys",
-      "url": "https://thechimeraai.com/seo-for-estate-planning-attorneys/",
-      "published": "2026-11-11",
-      "live": "Yes",
-      "in_sitemap": "Yes",
-      "in_llms": "Yes",
-      "markdown": "Yes",
-      "schema": "Yes",
-      "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-ev-charger-installers",
@@ -2189,7 +1973,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-event-planners",
@@ -2201,7 +1985,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-fence-companies",
@@ -2213,7 +1997,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-flooring-companies",
@@ -2225,7 +2009,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-florists",
@@ -2237,7 +2021,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-food-trucks",
@@ -2249,7 +2033,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-foundation-repair",
@@ -2261,7 +2045,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-funeral-homes",
@@ -2273,7 +2057,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-garage-door-companies",
@@ -2285,19 +2069,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
-    },
-    {
-      "slug": "seo-for-gyms",
-      "url": "https://thechimeraai.com/seo-for-gyms/",
-      "published": "2026-11-10",
-      "live": "Yes",
-      "in_sitemap": "Yes",
-      "in_llms": "Yes",
-      "markdown": "Yes",
-      "schema": "Yes",
-      "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-handyman-services",
@@ -2309,7 +2081,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-home-builders",
@@ -2321,7 +2093,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-home-inspectors",
@@ -2333,7 +2105,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-hotels-orange-county",
@@ -2345,7 +2117,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-hvac-companies",
@@ -2357,19 +2129,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
-    },
-    {
-      "slug": "seo-for-immigration-lawyers",
-      "url": "https://thechimeraai.com/seo-for-immigration-lawyers/",
-      "published": "2026-11-11",
-      "live": "Yes",
-      "in_sitemap": "Yes",
-      "in_llms": "Yes",
-      "markdown": "Yes",
-      "schema": "Yes",
-      "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-insurance-agents",
@@ -2381,7 +2141,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-interior-designers",
@@ -2393,7 +2153,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-it-companies",
@@ -2405,7 +2165,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-jewelry-stores",
@@ -2417,7 +2177,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-junk-removal",
@@ -2429,7 +2189,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-kitchen-remodelers",
@@ -2441,7 +2201,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-landscapers",
@@ -2453,7 +2213,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-language-schools",
@@ -2465,19 +2225,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
-    },
-    {
-      "slug": "seo-for-law-firms-orange-county",
-      "url": "https://thechimeraai.com/seo-for-law-firms-orange-county/",
-      "published": "2026-11-10",
-      "live": "Yes",
-      "in_sitemap": "Yes",
-      "in_llms": "Yes",
-      "markdown": "Yes",
-      "schema": "Yes",
-      "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-locksmiths",
@@ -2489,7 +2237,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-makeup-artists",
@@ -2501,7 +2249,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-martial-arts-schools",
@@ -2513,7 +2261,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-massage-therapists",
@@ -2525,7 +2273,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-mobile-mechanics",
@@ -2537,7 +2285,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-mold-remediation",
@@ -2549,7 +2297,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-mortgage-brokers",
@@ -2561,7 +2309,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-moving-companies",
@@ -2573,7 +2321,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-music-schools",
@@ -2585,7 +2333,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-nail-salons",
@@ -2597,7 +2345,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-nonprofits",
@@ -2609,7 +2357,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-optometrists",
@@ -2621,7 +2369,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-orthodontists",
@@ -2633,7 +2381,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-painters",
@@ -2645,31 +2393,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
-    },
-    {
-      "slug": "seo-for-personal-injury-lawyers",
-      "url": "https://thechimeraai.com/seo-for-personal-injury-lawyers/",
-      "published": "2026-11-10",
-      "live": "Yes",
-      "in_sitemap": "Yes",
-      "in_llms": "Yes",
-      "markdown": "Yes",
-      "schema": "Yes",
-      "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
-    },
-    {
-      "slug": "seo-for-personal-trainers",
-      "url": "https://thechimeraai.com/seo-for-personal-trainers/",
-      "published": "2026-11-13",
-      "live": "Yes",
-      "in_sitemap": "Yes",
-      "in_llms": "Yes",
-      "markdown": "Yes",
-      "schema": "Yes",
-      "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-pest-control",
@@ -2681,7 +2405,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-pet-boarding",
@@ -2693,7 +2417,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-photographers",
@@ -2705,7 +2429,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-physical-therapists",
@@ -2717,7 +2441,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-pilates-studios",
@@ -2729,7 +2453,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-plastic-surgeons",
@@ -2741,7 +2465,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-plumbers",
@@ -2753,7 +2477,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-podiatrists",
@@ -2765,7 +2489,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-pool-service-companies",
@@ -2777,7 +2501,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-pressure-washing",
@@ -2789,7 +2513,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-private-schools",
@@ -2801,7 +2525,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-property-management",
@@ -2813,31 +2537,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
-    },
-    {
-      "slug": "seo-for-real-estate-agents-orange-county",
-      "url": "https://thechimeraai.com/seo-for-real-estate-agents-orange-county/",
-      "published": "2026-11-10",
-      "live": "Yes",
-      "in_sitemap": "Yes",
-      "in_llms": "Yes",
-      "markdown": "Yes",
-      "schema": "Yes",
-      "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
-    },
-    {
-      "slug": "seo-for-restaurants-orange-county",
-      "url": "https://thechimeraai.com/seo-for-restaurants-orange-county/",
-      "published": "2026-11-10",
-      "live": "Yes",
-      "in_sitemap": "Yes",
-      "in_llms": "Yes",
-      "markdown": "Yes",
-      "schema": "Yes",
-      "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-roofers",
@@ -2849,7 +2549,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-salons",
@@ -2861,7 +2561,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-security-companies",
@@ -2873,7 +2573,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-self-storage",
@@ -2885,7 +2585,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-senior-living",
@@ -2897,7 +2597,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-shopify-stores",
@@ -2909,7 +2609,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-siding-companies",
@@ -2921,7 +2621,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-solar-companies",
@@ -2933,7 +2633,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-staffing-agencies",
@@ -2945,7 +2645,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-swim-schools",
@@ -2957,7 +2657,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-tattoo-shops",
@@ -2969,7 +2669,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-tax-preparers",
@@ -2981,7 +2681,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-therapists",
@@ -2993,7 +2693,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-tire-shops",
@@ -3005,7 +2705,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-towing-companies",
@@ -3017,7 +2717,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-travel-agencies",
@@ -3029,7 +2729,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-tree-service-companies",
@@ -3041,7 +2741,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-tutoring-centers",
@@ -3053,7 +2753,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-urgent-care-clinics",
@@ -3065,7 +2765,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-veterinarians",
@@ -3077,7 +2777,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-water-damage-restoration",
@@ -3089,7 +2789,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-wedding-venues",
@@ -3101,7 +2801,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-window-and-door-companies",
@@ -3113,7 +2813,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-window-cleaning",
@@ -3125,7 +2825,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-window-tinting",
@@ -3137,7 +2837,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-yoga-studios",
@@ -3149,31 +2849,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
-    },
-    {
-      "slug": "seo-fullerton",
-      "url": "https://thechimeraai.com/seo-fullerton/",
-      "published": "2026-11-10",
-      "live": "Yes",
-      "in_sitemap": "Yes",
-      "in_llms": "Yes",
-      "markdown": "Yes",
-      "schema": "Yes",
-      "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
-    },
-    {
-      "slug": "seo-huntington-beach",
-      "url": "https://thechimeraai.com/seo-huntington-beach/",
-      "published": "2026-11-10",
-      "live": "Yes",
-      "in_sitemap": "Yes",
-      "in_llms": "Yes",
-      "markdown": "Yes",
-      "schema": "Yes",
-      "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-irvine",
@@ -3185,7 +2861,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-newport-beach",
@@ -3197,7 +2873,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-santa-ana",
@@ -3209,7 +2885,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "service-area-business-seo",
@@ -3221,7 +2897,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "topical-authority-for-ai-search",
@@ -3233,7 +2909,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "what-is-generative-engine-optimization-and-how-does-it-work",
@@ -3245,7 +2921,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "what-is-llm-seo",
@@ -3257,7 +2933,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "what-is-query-fan-out",
@@ -3269,7 +2945,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "wikipedia-and-wikidata-for-ai-search",
@@ -3281,7 +2957,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "youtube-for-ai-search",
@@ -3293,7 +2969,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "zero-click-searches",
@@ -3305,7 +2981,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "gemini-4-hydrogen-small-business",
@@ -3317,7 +2993,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-analytics-4-data-retention",
@@ -3329,7 +3005,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-analytics-4-enhanced-measurement",
@@ -3341,7 +3017,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-analytics-4-key-events",
@@ -3353,7 +3029,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-analytics-4-lead-generation-events",
@@ -3365,7 +3041,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-analytics-4-realtime-report",
@@ -3377,7 +3053,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-analytics-4-traffic-acquisition-report",
@@ -3389,7 +3065,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-analytics-4-users-and-permissions",
@@ -3401,7 +3077,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-analytics-utm-parameters",
@@ -3413,43 +3089,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
-    },
-    {
-      "slug": "google-maps-dining-trends-restaurants",
-      "url": "https://thechimeraai.com/blog/google-maps-dining-trends-restaurants/",
-      "published": "2026-11-14",
-      "live": "Yes",
-      "in_sitemap": "Yes",
-      "in_llms": "Yes",
-      "markdown": "Yes",
-      "schema": "Yes",
-      "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
-    },
-    {
-      "slug": "google-wallet-gemini-subscriptions-local-business",
-      "url": "https://thechimeraai.com/blog/google-wallet-gemini-subscriptions-local-business/",
-      "published": "2026-11-14",
-      "live": "Yes",
-      "in_sitemap": "Yes",
-      "in_llms": "Yes",
-      "markdown": "Yes",
-      "schema": "Yes",
-      "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
-    },
-    {
-      "slug": "google-when-to-buy-holiday-retailers",
-      "url": "https://thechimeraai.com/blog/google-when-to-buy-holiday-retailers/",
-      "published": "2026-11-14",
-      "live": "Yes",
-      "in_sitemap": "Yes",
-      "in_llms": "Yes",
-      "markdown": "Yes",
-      "schema": "Yes",
-      "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "how-to-set-up-google-analytics-4",
@@ -3461,7 +3101,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "link-google-ads-to-google-analytics",
@@ -3473,19 +3113,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
-    },
-    {
-      "slug": "search-console-platform-properties-social",
-      "url": "https://thechimeraai.com/blog/search-console-platform-properties-social/",
-      "published": "2026-11-14",
-      "live": "Yes",
-      "in_sitemap": "Yes",
-      "in_llms": "Yes",
-      "markdown": "Yes",
-      "schema": "Yes",
-      "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-bubble-tea-shops",
@@ -3497,7 +3125,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-business-lawyers",
@@ -3509,7 +3137,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-carpenters",
@@ -3521,7 +3149,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-drain-cleaning",
@@ -3533,7 +3161,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-dui-lawyers",
@@ -3545,7 +3173,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-employment-lawyers",
@@ -3557,7 +3185,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-facial-spas",
@@ -3569,7 +3197,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-home-theater-installers",
@@ -3581,7 +3209,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-ice-cream-shops",
@@ -3593,7 +3221,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-insulation-contractors",
@@ -3605,7 +3233,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-laser-hair-removal",
@@ -3617,7 +3245,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-lash-and-brow-studios",
@@ -3629,7 +3257,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-occupational-therapists",
@@ -3641,7 +3269,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-oil-change-shops",
@@ -3653,7 +3281,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-ophthalmologists",
@@ -3665,7 +3293,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-orthopedic-surgeons",
@@ -3677,7 +3305,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-pool-builders",
@@ -3689,7 +3317,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-real-estate-lawyers",
@@ -3701,7 +3329,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-tanning-salons",
@@ -3713,7 +3341,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-transmission-shops",
@@ -3725,7 +3353,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "add-business-to-apple-maps",
@@ -3737,19 +3365,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
-    },
-    {
-      "slug": "apple-branded-mail",
-      "url": "https://thechimeraai.com/apple-branded-mail/",
-      "published": "2026-11-15",
-      "live": "Yes",
-      "in_sitemap": "Yes",
-      "in_llms": "Yes",
-      "markdown": "Yes",
-      "schema": "Yes",
-      "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "apple-business-actions",
@@ -3761,7 +3377,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "apple-business-connect-now-apple-business",
@@ -3773,7 +3389,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "apple-business-insights",
@@ -3785,7 +3401,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "apple-business-photos",
@@ -3797,7 +3413,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "apple-business-showcases",
@@ -3809,7 +3425,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "apple-maps-ads",
@@ -3821,31 +3437,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
-    },
-    {
-      "slug": "apple-maps-place-card",
-      "url": "https://thechimeraai.com/apple-maps-place-card/",
-      "published": "2026-11-15",
-      "live": "Yes",
-      "in_sitemap": "Yes",
-      "in_llms": "Yes",
-      "markdown": "Yes",
-      "schema": "Yes",
-      "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
-    },
-    {
-      "slug": "google-ads-channel-prioritization-budget-controls",
-      "url": "https://thechimeraai.com/blog/google-ads-channel-prioritization-budget-controls/",
-      "published": "2026-11-15",
-      "live": "Yes",
-      "in_sitemap": "Yes",
-      "in_llms": "Yes",
-      "markdown": "Yes",
-      "schema": "Yes",
-      "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-ads-data-strength-demand-gen",
@@ -3857,19 +3449,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
-    },
-    {
-      "slug": "google-ai-studio-cloud-credits",
-      "url": "https://thechimeraai.com/blog/google-ai-studio-cloud-credits/",
-      "published": "2026-11-15",
-      "live": "Yes",
-      "in_sitemap": "Yes",
-      "in_llms": "Yes",
-      "markdown": "Yes",
-      "schema": "Yes",
-      "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-business-profile-holiday-hours",
@@ -3881,7 +3461,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "how-to-edit-google-business-profile",
@@ -3893,7 +3473,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "how-to-set-up-apple-business",
@@ -3905,7 +3485,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "merchant-center-ai-performance-insights",
@@ -3917,7 +3497,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "nap-consistency-local-citations",
@@ -3929,19 +3509,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
-    },
-    {
-      "slug": "near-me-searches",
-      "url": "https://thechimeraai.com/near-me-searches/",
-      "published": "2026-11-10",
-      "live": "Yes",
-      "in_sitemap": "Yes",
-      "in_llms": "Yes",
-      "markdown": "Yes",
-      "schema": "Yes",
-      "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-auto-ac-repair",
@@ -3953,7 +3521,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-beauty-schools",
@@ -3965,7 +3533,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-brake-shops",
@@ -3977,7 +3545,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-cpr-and-first-aid-training",
@@ -3989,7 +3557,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-disability-lawyers",
@@ -4001,7 +3569,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-frozen-yogurt-shops",
@@ -4013,7 +3581,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-hair-braiding-salons",
@@ -4025,7 +3593,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-intellectual-property-lawyers",
@@ -4037,7 +3605,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-korean-restaurants",
@@ -4049,7 +3617,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-massage-schools",
@@ -4061,7 +3629,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-medical-malpractice-lawyers",
@@ -4073,7 +3641,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-mexican-restaurants",
@@ -4085,7 +3653,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-piercing-studios",
@@ -4097,7 +3665,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-traffic-ticket-lawyers",
@@ -4109,7 +3677,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-weight-loss-clinics",
@@ -4121,7 +3689,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "tap-to-pay-on-iphone-small-business",
@@ -4133,7 +3701,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "back-button-hijacking-spam-policy",
@@ -4145,7 +3713,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-free-product-listings",
@@ -4157,7 +3725,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-local-inventory-ads",
@@ -4169,31 +3737,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
-    },
-    {
-      "slug": "google-maps-know-before-you-go-restaurants",
-      "url": "https://thechimeraai.com/blog/google-maps-know-before-you-go-restaurants/",
-      "published": "2026-11-16",
-      "live": "Yes",
-      "in_sitemap": "Yes",
-      "in_llms": "Yes",
-      "markdown": "Yes",
-      "schema": "Yes",
-      "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
-    },
-    {
-      "slug": "google-merchant-center-promotions",
-      "url": "https://thechimeraai.com/google-merchant-center-promotions/",
-      "published": "2026-11-16",
-      "live": "Yes",
-      "in_sitemap": "Yes",
-      "in_llms": "Yes",
-      "markdown": "Yes",
-      "schema": "Yes",
-      "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "google-product-category",
@@ -4205,7 +3749,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "holiday-merchant-center-checklist",
@@ -4217,7 +3761,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "how-to-set-up-google-merchant-center",
@@ -4229,7 +3773,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "local-inventory-feed",
@@ -4241,19 +3785,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
-    },
-    {
-      "slug": "merchant-center-attribute-rules",
-      "url": "https://thechimeraai.com/merchant-center-attribute-rules/",
-      "published": "2026-11-16",
-      "live": "Yes",
-      "in_sitemap": "Yes",
-      "in_llms": "Yes",
-      "markdown": "Yes",
-      "schema": "Yes",
-      "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "merchant-center-disapprovals",
@@ -4265,7 +3797,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "merchant-center-product-data",
@@ -4277,7 +3809,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "merchant-center-return-policies",
@@ -4289,7 +3821,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "product-pages-for-ai-shopping",
@@ -4301,7 +3833,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-auto-parts-stores",
@@ -4313,7 +3845,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-bike-shops",
@@ -4325,7 +3857,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-bookstores",
@@ -4337,7 +3869,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-clothing-boutiques",
@@ -4349,7 +3881,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-computer-repair-shops",
@@ -4361,7 +3893,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-electronics-stores",
@@ -4373,7 +3905,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-furniture-stores",
@@ -4385,7 +3917,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-garden-centers",
@@ -4397,7 +3929,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-hardware-stores",
@@ -4409,7 +3941,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-hobby-shops",
@@ -4421,7 +3953,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-home-decor-stores",
@@ -4433,7 +3965,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-music-stores",
@@ -4445,7 +3977,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-pawn-shops",
@@ -4457,7 +3989,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-pet-stores",
@@ -4469,7 +4001,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-phone-repair-shops",
@@ -4481,7 +4013,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-pizza-restaurants",
@@ -4493,7 +4025,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-sandwich-shops",
@@ -4505,7 +4037,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-shoe-stores",
@@ -4517,7 +4049,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-smoothie-shops",
@@ -4529,7 +4061,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-sporting-goods-stores",
@@ -4541,7 +4073,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-surf-shops",
@@ -4553,7 +4085,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-sushi-restaurants",
@@ -4565,7 +4097,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-thrift-stores",
@@ -4577,7 +4109,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-toy-stores",
@@ -4589,7 +4121,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "seo-for-vietnamese-restaurants",
@@ -4601,7 +4133,715 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "seo-company-orange-county",
+      "url": "https://thechimeraai.com/seo-company-orange-county/",
+      "published": "2026-11-10",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "seo-for-criminal-defense-lawyers",
+      "url": "https://thechimeraai.com/seo-for-criminal-defense-lawyers/",
+      "published": "2026-11-11",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "seo-for-divorce-lawyers",
+      "url": "https://thechimeraai.com/seo-for-divorce-lawyers/",
+      "published": "2026-11-12",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "seo-for-immigration-lawyers",
+      "url": "https://thechimeraai.com/seo-for-immigration-lawyers/",
+      "published": "2026-11-11",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "seo-for-law-firms-orange-county",
+      "url": "https://thechimeraai.com/seo-for-law-firms-orange-county/",
+      "published": "2026-11-10",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "seo-for-personal-injury-lawyers",
+      "url": "https://thechimeraai.com/seo-for-personal-injury-lawyers/",
+      "published": "2026-11-10",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "seo-for-real-estate-agents-orange-county",
+      "url": "https://thechimeraai.com/seo-for-real-estate-agents-orange-county/",
+      "published": "2026-11-10",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "seo-for-restaurants-orange-county",
+      "url": "https://thechimeraai.com/seo-for-restaurants-orange-county/",
+      "published": "2026-11-10",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "30-day-ai-search-plan-orange-county",
+      "url": "https://thechimeraai.com/blog/30-day-ai-search-plan-orange-county/",
+      "published": "2026-11-10",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "ai-autonomous-attacks-small-business-websites",
+      "url": "https://thechimeraai.com/blog/ai-autonomous-attacks-small-business-websites/",
+      "published": "2026-11-17",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "apple-branded-mail",
+      "url": "https://thechimeraai.com/apple-branded-mail/",
+      "published": "2026-11-15",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "apple-maps-place-card",
+      "url": "https://thechimeraai.com/apple-maps-place-card/",
+      "published": "2026-11-15",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "ask-maps-books-local-appointments",
+      "url": "https://thechimeraai.com/blog/ask-maps-books-local-appointments/",
+      "published": "2026-11-17",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "ask-maps-food-ordering-restaurants",
+      "url": "https://thechimeraai.com/blog/ask-maps-food-ordering-restaurants/",
+      "published": "2026-11-13",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "black-friday-google-shopping-tools-retailers",
+      "url": "https://thechimeraai.com/blog/black-friday-google-shopping-tools-retailers/",
+      "published": "2026-11-17",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "gemini-in-chrome-website-answers",
+      "url": "https://thechimeraai.com/blog/gemini-in-chrome-website-answers/",
+      "published": "2026-11-13",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "geo-agency-orange-county",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/",
+      "published": "2026-11-05",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "geo-for-travel-websites",
+      "url": "https://thechimeraai.com/geo-for-travel-websites/",
+      "published": "2026-11-10",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "google-ads-channel-prioritization-budget-controls",
+      "url": "https://thechimeraai.com/blog/google-ads-channel-prioritization-budget-controls/",
+      "published": "2026-11-15",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "google-ai-studio-cloud-credits",
+      "url": "https://thechimeraai.com/blog/google-ai-studio-cloud-credits/",
+      "published": "2026-11-15",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "google-business-profile-performance",
+      "url": "https://thechimeraai.com/google-business-profile-performance/",
+      "published": "2026-11-12",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "google-maps-dining-trends-restaurants",
+      "url": "https://thechimeraai.com/blog/google-maps-dining-trends-restaurants/",
+      "published": "2026-11-14",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "google-maps-know-before-you-go-restaurants",
+      "url": "https://thechimeraai.com/blog/google-maps-know-before-you-go-restaurants/",
+      "published": "2026-11-16",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "google-merchant-center-promotions",
+      "url": "https://thechimeraai.com/google-merchant-center-promotions/",
+      "published": "2026-11-16",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "google-search-console-performance-report",
+      "url": "https://thechimeraai.com/google-search-console-performance-report/",
+      "published": "2026-11-13",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "google-search-console-users-and-permissions",
+      "url": "https://thechimeraai.com/google-search-console-users-and-permissions/",
+      "published": "2026-11-13",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "google-wallet-gemini-subscriptions-local-business",
+      "url": "https://thechimeraai.com/blog/google-wallet-gemini-subscriptions-local-business/",
+      "published": "2026-11-14",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "google-when-to-buy-holiday-retailers",
+      "url": "https://thechimeraai.com/blog/google-when-to-buy-holiday-retailers/",
+      "published": "2026-11-14",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "holiday-crowd-times-google-maps",
+      "url": "https://thechimeraai.com/blog/holiday-crowd-times-google-maps/",
+      "published": "2026-11-17",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "how-to-claim-google-business-profile",
+      "url": "https://thechimeraai.com/how-to-claim-google-business-profile/",
+      "published": "2026-11-12",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "how-to-remove-fake-google-reviews",
+      "url": "https://thechimeraai.com/how-to-remove-fake-google-reviews/",
+      "published": "2026-11-11",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "local-seo-checklist",
+      "url": "https://thechimeraai.com/local-seo-checklist/",
+      "published": "2026-11-10",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "merchant-center-attribute-rules",
+      "url": "https://thechimeraai.com/merchant-center-attribute-rules/",
+      "published": "2026-11-16",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "near-me-searches",
+      "url": "https://thechimeraai.com/near-me-searches/",
+      "published": "2026-11-10",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "search-analytics-api-branded-queries",
+      "url": "https://thechimeraai.com/blog/search-analytics-api-branded-queries/",
+      "published": "2026-11-17",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "search-console-platform-properties-social",
+      "url": "https://thechimeraai.com/blog/search-console-platform-properties-social/",
+      "published": "2026-11-14",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "seo-aliso-viejo",
+      "url": "https://thechimeraai.com/seo-aliso-viejo/",
+      "published": "2026-11-17",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "seo-brea",
+      "url": "https://thechimeraai.com/seo-brea/",
+      "published": "2026-11-17",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "seo-buena-park",
+      "url": "https://thechimeraai.com/seo-buena-park/",
+      "published": "2026-11-17",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "seo-company-anaheim",
+      "url": "https://thechimeraai.com/seo-company-anaheim/",
+      "published": "2026-11-10",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "seo-for-dentists-orange-county",
+      "url": "https://thechimeraai.com/seo-for-dentists-orange-county/",
+      "published": "2026-11-10",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "seo-for-doctors",
+      "url": "https://thechimeraai.com/seo-for-doctors/",
+      "published": "2026-11-10",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "seo-for-estate-planning-attorneys",
+      "url": "https://thechimeraai.com/seo-for-estate-planning-attorneys/",
+      "published": "2026-11-11",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "seo-for-gyms",
+      "url": "https://thechimeraai.com/seo-for-gyms/",
+      "published": "2026-11-10",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "seo-for-personal-trainers",
+      "url": "https://thechimeraai.com/seo-for-personal-trainers/",
+      "published": "2026-11-13",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "seo-fountain-valley",
+      "url": "https://thechimeraai.com/seo-fountain-valley/",
+      "published": "2026-11-17",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "seo-fullerton",
+      "url": "https://thechimeraai.com/seo-fullerton/",
+      "published": "2026-11-10",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "seo-garden-grove",
+      "url": "https://thechimeraai.com/seo-garden-grove/",
+      "published": "2026-11-17",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "seo-huntington-beach",
+      "url": "https://thechimeraai.com/seo-huntington-beach/",
+      "published": "2026-11-10",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "seo-la-habra",
+      "url": "https://thechimeraai.com/seo-la-habra/",
+      "published": "2026-11-17",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "seo-laguna-niguel",
+      "url": "https://thechimeraai.com/seo-laguna-niguel/",
+      "published": "2026-11-17",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "seo-lake-forest",
+      "url": "https://thechimeraai.com/seo-lake-forest/",
+      "published": "2026-11-17",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "seo-mission-viejo",
+      "url": "https://thechimeraai.com/seo-mission-viejo/",
+      "published": "2026-11-17",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "seo-orange-ca",
+      "url": "https://thechimeraai.com/seo-orange-ca/",
+      "published": "2026-11-17",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "seo-placentia",
+      "url": "https://thechimeraai.com/seo-placentia/",
+      "published": "2026-11-17",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "seo-san-clemente",
+      "url": "https://thechimeraai.com/seo-san-clemente/",
+      "published": "2026-11-17",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "seo-tustin",
+      "url": "https://thechimeraai.com/seo-tustin/",
+      "published": "2026-11-17",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "seo-westminster",
+      "url": "https://thechimeraai.com/seo-westminster/",
+      "published": "2026-11-17",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
+    },
+    {
+      "slug": "seo-yorba-linda",
+      "url": "https://thechimeraai.com/seo-yorba-linda/",
+      "published": "2026-11-17",
+      "live": "Yes",
+      "in_sitemap": "Yes",
+      "in_llms": "Yes",
+      "markdown": "Yes",
+      "schema": "Yes",
+      "meta_tags": 1,
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "thrift-shopping-google-lens-ai-mode",
@@ -4613,7 +4853,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     },
     {
       "slug": "youtube-ads-from-social-assets",
@@ -4625,7 +4865,7 @@
       "markdown": "Yes",
       "schema": "Yes",
       "meta_tags": 1,
-      "checked": "2026-11-16T13:05:52Z"
+      "checked": "2026-11-17T13:10:01Z"
     }
   ]
 }

@@ -26,7 +26,7 @@
   "sections": [
     {
       "heading": "What Google announced",
-      "body_html": "<p>On August 6, 2026, Google added new agentic capabilities to Ask Maps, which it describes as Google Maps' biggest transformation in over a decade. Ask Maps brings <a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a> model capabilities to Maps to answer real-world questions, and can now handle complex, multi-step tasks such as ordering food.</p>"
+      "body_html": "<p>On August 6, 2026, Google added new agentic capabilities to <a href=\"https://thechimeraai.com/blog/ask-maps-books-local-appointments/\">Ask Maps</a>, which it describes as Google Maps' biggest transformation in over a decade. Ask Maps brings <a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a> model capabilities to Maps to answer real-world questions, and can now handle complex, multi-step tasks such as ordering food.</p>"
     },
     {
       "heading": "How food ordering works",
@@ -227,6 +227,6 @@
     "height": 760
   },
   "published": "2026-11-13",
-  "updated": "2026-11-14",
+  "updated": "2026-11-17",
   "parent_id": 709
 }

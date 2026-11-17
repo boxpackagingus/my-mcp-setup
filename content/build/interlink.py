@@ -94,6 +94,13 @@ PHRASES = [
     (r"Google Analytics", "how-to-track-ai-traffic-in-google-analytics"),
     (r"generative engine optimization|GEO\b", "what-is-generative-engine-optimization-and-how-does-it-work"),
     (r"local SEO", "local-seo-orange-county"),
+    (r"Garden Grove", "seo-garden-grove"), (r"City of Orange|Old Towne Orange", "seo-orange-ca"), (r"Tustin", "seo-tustin"),
+    (r"Yorba Linda", "seo-yorba-linda"), (r"Mission Viejo", "seo-mission-viejo"), (r"Lake Forest", "seo-lake-forest"),
+    (r"Buena Park", "seo-buena-park"), (r"Westminster|Little Saigon", "seo-westminster"), (r"Fountain Valley", "seo-fountain-valley"),
+    (r"Placentia", "seo-placentia"), (r"Brea", "seo-brea"), (r"Laguna Niguel", "seo-laguna-niguel"), (r"San Clemente", "seo-san-clemente"),
+    (r"Aliso Viejo", "seo-aliso-viejo"), (r"La Habra", "seo-la-habra"),
+    (r"Ask Maps", "ask-maps-books-local-appointments"), (r"Price Insights", "black-friday-google-shopping-tools-retailers"),
+    (r"branded (?:and non-branded )?queries", "search-analytics-api-branded-queries"),
     (r"Irvine", "seo-irvine"), (r"Santa Ana", "seo-santa-ana"), (r"Huntington Beach", "seo-huntington-beach"),
     (r"Newport Beach", "seo-newport-beach"), (r"Fullerton", "seo-fullerton"), (r"Costa Mesa", "seo-costa-mesa"),
 ]
@@ -106,7 +113,7 @@ STOP = set("the a an and or of for to in on with your you how what is are does d
 
 CLUSTERS = [
     ("apple", r"apple-|tap-to-pay"),
-    ("searchconsole", r"search-console|back-button"),
+    ("searchconsole", r"search-console|back-button|search-analytics|autonomous-attacks"),
     ("analytics", r"google-analytics|link-google-ads|google-ads-channel|google-ads-data-strength|youtube-ads"),
     ("hospitality", r"frozen-yogurt|pizza|sushi|vietnamese|mexican-rest|korean-rest|sandwich|smoothie|bubble-tea|ice-cream|dining-trends|ask-maps|restaurant|bakeries|coffee|hotel|travel|wedding|event-planner|holiday-travel|eat-here|hotel-booking"),
     ("home", r"drain-cleaning|insulation|carpenter|pool-builder|home-theater|appliance|siding|countertop|ev-charger|plumb|hvac|roof|electric|contractor|painter|landscap|pest|pool|tree|cleaning|carpet|window|junk|moving|garage|handyman|concrete|flooring|bathroom|kitchen|fence|pressure|water-damage|solar|locksmith|home-builder|interior|architect|home-services|property-management|self-storage"),
@@ -116,8 +123,8 @@ CLUSTERS = [
     ("auto", r"auto-|car-|window-tinting|oil-change|transmission|brake-shop"),
     ("professional", r"tax-prep|accountant|insurance|mortgage|financial|real-estate|it-companies|staffing|b2b|saas|manufactur|nonprofit|startup"),
     ("education", r"beauty-school|massage-school|cpr-and-first-aid|dance-studio|language-school|music-school|swim-school|tutoring|private-school|daycare"),
-    ("retail", r"bike-shops|hardware-stores|pet-stores|bookstores|furniture-stores|toy-stores|clothing-boutiques|shoe-stores|sporting-goods|phone-repair|computer-repair|music-stores|hobby-shops|garden-centers|home-decor|pawn-shops|electronics-stores|surf-shops|thrift|google-product-category|local-inventory|free-product-listings|merchant-center|when-to-buy|jewelry|shopify|ecommerce|product-pages|holiday-100|universal-cart|shopping"),
-    ("gbp", r"google-business-profile|review|nap-|service-area|near-me|local-landing|local-seo|local-geo|local-business-schema|seo-company|seo-irvine|seo-santa|seo-hunt|seo-newport|seo-full|seo-costa|geo-agency|local-services-ads|core-web-vitals|30-day"),
+    ("retail", r"black-friday|bike-shops|hardware-stores|pet-stores|bookstores|furniture-stores|toy-stores|clothing-boutiques|shoe-stores|sporting-goods|phone-repair|computer-repair|music-stores|hobby-shops|garden-centers|home-decor|pawn-shops|electronics-stores|surf-shops|thrift|google-product-category|local-inventory|free-product-listings|merchant-center|when-to-buy|jewelry|shopify|ecommerce|product-pages|holiday-100|universal-cart|shopping"),
+    ("gbp", r"google-business-profile|review|nap-|service-area|near-me|local-landing|local-seo|local-geo|local-business-schema|seo-company|seo-irvine|seo-garden-grove|seo-orange-ca|seo-tustin|seo-yorba|seo-mission-viejo|seo-lake-forest|seo-buena|seo-westminster|seo-fountain|seo-placentia|seo-brea|seo-laguna|seo-san-clemente|seo-aliso|seo-la-habra|holiday-crowd|seo-santa|seo-hunt|seo-newport|seo-full|seo-costa|geo-agency|local-services-ads|core-web-vitals|30-day"),
     ("ai", r"ai-studio|wallet-gemini|eyewear|chatgpt|gemini|perplexity|copilot|claude|meta-ai|ai-mode|ai-overviews|llm|query-fan|crawler|robots|llms-txt|training-control|carbon|october-2026|search-profiles|inline-links|businesses-in-chatgpt"),
 ]
 

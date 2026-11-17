@@ -1,0 +1,232 @@
+{
+  "query": "search analytics api branded queries",
+  "slug": "search-analytics-api-branded-queries",
+  "eyebrow": "Search Console",
+  "primary_keyword": "Search Analytics API branded queries",
+  "secondary_keywords": [
+    "Search Console branded queries",
+    "brandedClassification",
+    "webMultimodal Search Console",
+    "Search Console API filterLists"
+  ],
+  "search_intent": "informational",
+  "seo": {
+    "title": "Search Analytics API: Branded Queries and More",
+    "meta_description": "The Search Analytics API now supports branded queries, web multimodal data and multi-country filters. What Orange County businesses and agencies can do with it."
+  },
+  "h1": "Search Analytics API Update: Branded Queries, Multimodal Data and Multi-Country Filters",
+  "answer": "The Search Analytics API, which feeds Search Console data to dashboards and tools, added three options on November 16, 2026: a branded queries classification to separate branded from non-branded searches, a web multimodal type for Lens and Circle to Search traffic, and filter lists for several countries or devices in one request. Anaheim and Orange County businesses can track non-brand growth more easily.",
+  "key_takeaways": [
+    "Announced November 16, 2026.",
+    "Branded vs non-branded queries are now in the API.",
+    "Web multimodal covers Google Lens, Circle to Search and image uploads.",
+    "Filter several countries or devices in one request.",
+    "Branded data is only for eligible properties."
+  ],
+  "sections": [
+    {
+      "heading": "What Google announced",
+      "body_html": "<p>On November 16, 2026, Google's <a href=\"https://thechimeraai.com/blog/search-console-generative-ai-performance-report/\">Search Console</a> team brought three features from the Performance report to the Search Analytics API: the branded queries filter, web multimodal reporting, and multi-country and multi-device filtering.</p>"
+    },
+    {
+      "heading": "Branded queries",
+      "body_html": "<p>Google says you can group or filter data by brandedClassification to compare branded and non-branded performance. As in Search Console, the data is only available for eligible properties; for others, the response returns no rows.</p>"
+    },
+    {
+      "heading": "Web multimodal",
+      "body_html": "<p>Setting the type to webMultimodal returns performance data from Google Lens, Circle to Search on Android and image uploads in Google Search, according to Google. It is also available in BigQuery for properties with an active bulk data export.</p>"
+    },
+    {
+      "heading": "Multi-country and multi-device filters",
+      "body_html": "<p>A new filterLists field lets you filter by several countries or devices in a single request, instead of making separate requests and combining them.</p>"
+    },
+    {
+      "heading": "Why branded vs non-branded matters",
+      "body_html": "<p>Branded searches, people typing your business name, show reputation. Non-branded searches, such as plumber in Anaheim, show whether SEO is bringing new customers who didn't know you. Separating them is the clearest way to see if SEO is working.</p>"
+    },
+    {
+      "heading": "What this means for small businesses",
+      "body_html": "<p>You don't need the API to see branded queries; eligible properties have the filter in <a href=\"https://thechimeraai.com/google-search-console-performance-report/\">Search Console's Performance report</a>. The API matters if you use a dashboard or agency report, which can now separate brand from non-brand automatically.</p>"
+    },
+    {
+      "heading": "What this means for agencies and dashboards",
+      "body_html": "<p>Agencies can now report non-brand growth for clients without maintaining long lists of brand-name variations, and can include Lens and Circle to Search performance alongside regular search results.</p>"
+    },
+    {
+      "heading": "Multimodal search for local businesses",
+      "body_html": "<p>Lens and Circle to Search let people search with a photo. For retailers, restaurants and anyone whose products or storefront are photographed, multimodal data shows how often those searches lead to your pages.</p>"
+    },
+    {
+      "heading": "How to start",
+      "body_html": "<ol><li>Open Search Console's Performance report.</li><li>Check whether the branded queries filter is available for your property.</li><li>Compare branded and non-branded clicks month to month.</li><li>Look at the multimodal search report if you sell products.</li><li>Ask your agency or dashboard provider to add the new API fields.</li></ol>"
+    },
+    {
+      "heading": "A worked example",
+      "body_html": "<p>Imagine an Orange County law firm whose monthly report shows clicks rising. Splitting branded from non-branded shows most of the growth came from people searching the firm's name after a radio ad, while non-branded searches like attorney <a href=\"https://thechimeraai.com/seo-santa-ana/\">Santa Ana</a> stayed flat. The firm shifts effort to practice area pages to grow non-brand searches.</p>"
+    },
+    {
+      "heading": "Questions owners ask us",
+      "body_html": "<p>Owners often ask which number to watch. Non-branded clicks, because they show new customers finding you through SEO. Another common question is why branded data is missing. Google says it's only available for eligible properties. Owners also ask whether multimodal matters for service businesses. Less than for retailers, but photos of storefronts, vehicles and equipment can still lead to searches.</p>"
+    },
+    {
+      "heading": "Keep reporting simple",
+      "body_html": "<p>For most small businesses, three numbers a month are enough: non-branded clicks, branded clicks and calls or bookings from search. The API update makes the first two easier to separate automatically.</p>"
+    },
+    {
+      "heading": "Data limits to remember",
+      "body_html": "<p>Search Console data is sampled and filtered for privacy, and recent days can change as data is finalized. Compare full months rather than single days, and treat small numbers as directional.</p>"
+    },
+    {
+      "heading": "Connect it to leads",
+      "body_html": "<p>Clicks are only part of the story. Link Search Console with <a href=\"https://thechimeraai.com/how-to-track-ai-traffic-in-google-analytics/\">Google Analytics</a> and track form submissions and calls, so you can see whether non-brand visitors become customers.</p>"
+    },
+    {
+      "heading": "How to read branded and non-branded trends",
+      "body_html": "<p>Branded and non-branded searches usually move for different reasons. Branded searches rise with word of mouth, advertising, press coverage and reviews; non-branded searches rise as your pages rank for the services and questions people search for. Look at both every month, but judge SEO mainly on non-branded growth. If branded searches are falling, check your reputation and local visibility, such as reviews and your Business Profile. If non-branded searches are flat, review which pages rank and what customers are searching for.</p>"
+    },
+    {
+      "heading": "Questions to ask your agency",
+      "body_html": "<p>If an agency reports your search performance, ask three questions. Does the report separate branded and non-branded clicks, and how? Which non-branded searches grew, and which pages earned them? How do those clicks connect to calls, forms or bookings? An agency that can answer clearly is measuring what matters. With the new API options, separating branded traffic no longer depends on hand-built lists of brand-name spellings, so there is less reason for reports to mix the two.</p>"
+    },
+    {
+      "heading": "Using multimodal data in practice",
+      "body_html": "<p>If you sell products or have a recognizable storefront, look at the multimodal report or data monthly. Pages that earn visits from Lens or Circle to Search usually have clear product images, accurate names and good descriptions. Use what you learn to improve other product pages: add images taken from the angles shoppers photograph, include brand and model in titles, and make sure each product has its own page. For local retailers in Orange County, this can bring in shoppers who photographed a product somewhere else and want to buy it nearby.</p>"
+    },
+    {
+      "heading": "Setting up a simple monthly view",
+      "body_html": "<p>You don't need a complicated dashboard to use this. Once a month, open the Performance report, apply the branded or non-branded filter if your property has it, and note clicks and impressions for each. Add the top five non-branded searches and the pages they land on. Keep these numbers in a simple spreadsheet with a column for what changed on your site that month, such as new pages or updated titles. After a few months, you'll see which work moved non-branded traffic, which is the clearest signal of whether SEO is growing your business.</p>"
+    },
+    {
+      "heading": "When to use the API directly",
+      "body_html": "<p>Most small businesses can stay in the Search Console interface. The API becomes useful when you manage many sites or locations, want data in a shared dashboard alongside sales or calls, or need reports grouped by several countries or device types at once. In those cases, the new branded classification and filter lists reduce the work of building and maintaining reports.</p>"
+    },
+    {
+      "heading": "The short version",
+      "body_html": "<p>The Search Analytics API now separates branded and non-branded queries, includes Lens and Circle to Search data, and filters several countries or devices at once. Anaheim and Orange County businesses should watch non-branded growth, and ask their agency to use the new fields.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What changed in the Search Analytics API?",
+      "a": "It added branded queries, web multimodal data and multi-country and multi-device filters."
+    },
+    {
+      "q": "When was it announced?",
+      "a": "November 16, 2026."
+    },
+    {
+      "q": "What is web multimodal?",
+      "a": "Performance from Google Lens, Circle to Search on Android and image uploads in Google Search."
+    },
+    {
+      "q": "Is branded data available for every site?",
+      "a": "No. Google says it's only for eligible properties."
+    },
+    {
+      "q": "Do I need the API?",
+      "a": "Not to see the data in Search Console; the API helps dashboards and agencies automate reports."
+    },
+    {
+      "q": "Which number should I watch?",
+      "a": "Non-branded clicks, which show new customers finding you."
+    },
+    {
+      "q": "Do you work with businesses in Anaheim and Orange County?",
+      "a": "Yes. Chimera is based in Anaheim, California and works with businesses across Orange County, California, from Anaheim and Santa Ana to Irvine and the coastal cities."
+    }
+  ],
+  "internal_links": [
+    {
+      "anchor": "Search Console Performance report",
+      "url": "https://thechimeraai.com/google-search-console-performance-report/"
+    },
+    {
+      "anchor": "Search Console multimodal report",
+      "url": "https://thechimeraai.com/search-console-multimodal-search-report/"
+    },
+    {
+      "anchor": "GEO agency in Orange County",
+      "url": "https://thechimeraai.com/geo-agency-orange-county/"
+    },
+    {
+      "anchor": "book a free AI visibility audit",
+      "url": "https://thechimeraai.com/#audit"
+    },
+    {
+      "anchor": "Search Console users and permissions",
+      "url": "https://thechimeraai.com/google-search-console-users-and-permissions/"
+    },
+    {
+      "anchor": "Multimodal search data in Search Console",
+      "url": "https://thechimeraai.com/blog/search-console-multimodal-search-report/"
+    },
+    {
+      "anchor": "Search Console security issues",
+      "url": "https://thechimeraai.com/google-search-console-security-issues/"
+    },
+    {
+      "anchor": "Set up Google Search Console",
+      "url": "https://thechimeraai.com/how-to-set-up-google-search-console/"
+    },
+    {
+      "anchor": "Chimera: GEO agency in Anaheim, Orange County",
+      "url": "https://thechimeraai.com/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Google Search Central blog: Search Analytics API update (Nov 16, 2026)",
+      "url": "https://developers.google.com/search/blog/2026/11/search-analytics-api-update"
+    }
+  ],
+  "visuals": [
+    {
+      "after": 3,
+      "type": "flow",
+      "eyebrow": "How it works",
+      "title": "What the API adds",
+      "lead": "From Google's November 16, 2026 post.",
+      "steps": [
+        {
+          "title": "Branded",
+          "text": "Brand vs non-brand."
+        },
+        {
+          "title": "Multimodal",
+          "text": "Lens and Circle to Search."
+        },
+        {
+          "title": "Filters",
+          "text": "Many countries or devices."
+        },
+        {
+          "title": "Report",
+          "text": "Automated dashboards."
+        }
+      ]
+    }
+  ],
+  "hero_query": "How do I see non-branded searches in Search Console?",
+  "short_title": "Search Analytics API adds branded queries and multimodal data",
+  "hero_engines": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "claude",
+    "google",
+    "copilot"
+  ],
+  "kind": "blog",
+  "category": "Google news",
+  "slot": 4,
+  "hero_image": {
+    "id": 2348,
+    "url": "https://thechimeraai.com/wp-content/uploads/2026/11/search-analytics-api-branded-queries-banner.jpg",
+    "alt": "Search Analytics API Update: Branded Queries, Multimodal Data and Multi-Country Filters: banner photo",
+    "width": 1600,
+    "height": 760
+  },
+  "published": "2026-11-17",
+  "updated": "2026-11-17",
+  "parent_id": 709
+}

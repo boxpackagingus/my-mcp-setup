@@ -1,10 +1,29 @@
 [
- {"name": "Anaheim Chamber of Commerce", "url": "https://anaheimchamber.org/", "type": "chamber", "cost": "paid membership", "evidence": "Homepage says membership includes a listing in the member directory, monthly meetings and business network access; runs New Member Orientation sessions.", "found": "2026-11-16", "query": "Anaheim Chamber of Commerce member directory join"},
- {"name": "North Orange County Chamber of Commerce", "url": "https://www.nocchamber.com/", "type": "chamber", "cost": "paid membership", "evidence": "Runs an Anaheim Business Directory and City of Orange directory built from active member companies (501(c)(6) association).", "found": "2026-11-16", "query": "Orange County small business directory"},
- {"name": "OC Startup Council directory", "url": "https://ocstartupcouncil.org/", "type": "directory", "cost": "free basic listing; memberships from $25/yr", "evidence": "Site says basic listings in the OC Startups Directory are free and annual Startup Memberships start at $25; organized by category.", "found": "2026-11-16", "query": "Orange County small business directory submit listing free"},
- {"name": "Good Neighbor Podcast: Orange County", "url": "https://www.buzzsprout.com/2538926/episodes", "type": "podcast", "cost": "free interview per show page", "evidence": "Local-business podcast hosted by Rachel Fyffe; episode notes invite owners to schedule a free interview at gnpOrangeCounty.com.", "found": "2026-11-16", "query": "Orange County business podcast guest"},
- {"name": "OC Business Podcast (Build Your Authority)", "url": "https://feeds.transistor.fm/oc-business-podcast", "type": "podcast", "cost": "unknown", "evidence": "Podcast showcasing local Orange County businesses and how they work; feed tagged Marketing. Guest booking not confirmed.", "found": "2026-11-16", "query": "Orange County business podcast guest"},
- {"name": "OC Business Report", "url": "https://www.iheart.com/podcast/263-oc-business-report-128946958", "type": "podcast", "cost": "unknown", "evidence": "Features industry leaders and small business owners; on Apple Podcasts and iHeart. Guest booking not confirmed.", "found": "2026-11-16", "query": "Orange County business podcast guest"},
- {"name": "Critical Mass Business Talk Show", "url": "https://criticalmassbusinesstalkshow.podbean.com/", "type": "podcast", "cost": "unknown", "evidence": "Calls itself Orange County's longest-running business talk show; host covers brand development and marketing communications.", "found": "2026-11-16", "query": "Orange County business podcast guest"},
- {"name": "Orange County Business Journal (company news)", "url": "https://www.ocbj.com/", "type": "news", "cost": "free to pitch", "evidence": "Publisher's OC500 letter asks readers to send company news: CEO changes, sales changes, acquisitions, building purchases and innovations.", "found": "2026-11-16", "query": "Orange County Business Journal submit news contributor"}
+ {
+  "name": "Orange County Business Council: Insights newsletter",
+  "url": "https://ocbc.org/news-media/news/",
+  "type": "news",
+  "cost": "unknown (newsletter features OC business news)",
+  "evidence": "OCBC's Insights newsletter carries Orange County business news from nonprofits and for-profits; site lists named staff contacts (Communications and Social Media Specialist) rather than a general submission address. Not emailed: named staff address.",
+  "found": "2026-11-17",
+  "query": "Orange County Business Council newsletter submit member news"
+ },
+ {
+  "name": "Daily Pilot (Costa Mesa, Newport Beach, Irvine)",
+  "url": "https://www.dailypilot.com/",
+  "type": "news",
+  "cost": "free to pitch",
+  "evidence": "Los Angeles Times community paper covering Costa Mesa, Newport Beach and Irvine; no published tips address found in search on 2026-11-17.",
+  "found": "2026-11-17",
+  "query": "Daily Pilot submit news tips"
+ },
+ {
+  "name": "Voice of OC (contact and tips page)",
+  "url": "https://voiceofoc.org/staff-contact-us/",
+  "type": "news",
+  "cost": "free",
+  "evidence": "Nonprofit OC newsroom with a Contact Us / Anonymous Tips / Contributing Writers page. Covers public affairs; low fit for business pitches.",
+  "found": "2026-11-17",
+  "query": "Irvine Weekly OR Daily Pilot submit news tips email"
+ }
 ]

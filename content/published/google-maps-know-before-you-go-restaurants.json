@@ -26,7 +26,7 @@
   "sections": [
     {
       "heading": "What Google highlighted",
-      "body_html": "<p>On October 8, 2026, Google shared three Google Maps features for finding a meal: Ask Maps for finding and ordering what people crave, trending dining lists in the Explore tab and know before you go tips from the Maps community.</p>"
+      "body_html": "<p>On October 8, 2026, Google shared three Google Maps features for finding a meal: <a href=\"https://thechimeraai.com/blog/ask-maps-books-local-appointments/\">Ask Maps</a> for finding and ordering what people crave, trending dining lists in the Explore tab and know before you go tips from the Maps community.</p>"
     },
     {
       "heading": "Know before you go tips",
@@ -66,7 +66,7 @@
     },
     {
       "heading": "A worked example",
-      "body_html": "<p>Imagine a ramen shop in Tustin where guests often struggle to find parking. The owner adds clear parking directions to the website and Business Profile, posts photos of the three most popular bowls and explains the walk-in waitlist. Over the following weeks, guest tips mention the parking lot behind the building and the spicy miso ramen.</p>"
+      "body_html": "<p>Imagine a ramen shop in <a href=\"https://thechimeraai.com/seo-tustin/\">Tustin</a> where guests often struggle to find parking. The owner adds clear parking directions to the website and Business Profile, posts photos of the three most popular bowls and explains the walk-in waitlist. Over the following weeks, guest tips mention the parking lot behind the building and the spicy miso ramen.</p>"
     },
     {
       "heading": "Questions owners ask us",
@@ -219,6 +219,6 @@
     "height": 760
   },
   "published": "2026-11-16",
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "parent_id": 709
 }

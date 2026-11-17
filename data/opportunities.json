@@ -1,29 +1,29 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "window": [
-    "2026-10-19",
-    "2026-11-15"
+    "2026-10-20",
+    "2026-11-16"
   ],
-  "rows": 931,
+  "rows": 1058,
   "intent_mix": {
     "other": {
-      "queries": 156,
-      "impressions": 274,
+      "queries": 198,
+      "impressions": 361,
       "clicks": 0
     },
     "service-research": {
-      "queries": 374,
-      "impressions": 1456,
+      "queries": 422,
+      "impressions": 1919,
       "clicks": 0
     },
     "money-local": {
-      "queries": 114,
-      "impressions": 333,
+      "queries": 136,
+      "impressions": 453,
       "clicks": 0
     },
     "money-national": {
-      "queries": 235,
-      "impressions": 703,
+      "queries": 246,
+      "impressions": 872,
       "clicks": 0
     },
     "non-us": {
@@ -32,12 +32,30 @@
       "clicks": 0
     },
     "question": {
-      "queries": 46,
-      "impressions": 130,
+      "queries": 50,
+      "impressions": 140,
       "clicks": 0
     }
   },
   "money_queries": [
+    {
+      "query": "seo for gyms orange county",
+      "slug": "seo-for-personal-trainers",
+      "intent": "money-local",
+      "impressions": 1,
+      "clicks": 0,
+      "position": 6,
+      "ctr": 0
+    },
+    {
+      "query": "how does ai search optimization work in huntington beach?",
+      "slug": "seo-huntington-beach",
+      "intent": "money-local",
+      "impressions": 1,
+      "clicks": 0,
+      "position": 8,
+      "ctr": 0
+    },
     {
       "query": "ai search garden grove",
       "slug": "30-day-ai-search-plan-orange-county",
@@ -78,7 +96,7 @@
       "query": "attorney seo orange county",
       "slug": "seo-for-law-firms-orange-county",
       "intent": "money-local",
-      "impressions": 1,
+      "impressions": 2,
       "clicks": 0,
       "position": 15,
       "ctr": 0
@@ -87,9 +105,9 @@
       "query": "estate planning attorney seo company near me",
       "slug": "seo-for-estate-planning-attorneys",
       "intent": "money-local",
-      "impressions": 5,
+      "impressions": 6,
       "clicks": 0,
-      "position": 15.2,
+      "position": 15.833,
       "ctr": 0
     },
     {
@@ -102,10 +120,19 @@
       "ctr": 0
     },
     {
-      "query": "law firm seo orange county",
-      "slug": "seo-for-divorce-lawyers",
+      "query": "ai search orange county ca",
+      "slug": "30-day-ai-search-plan-orange-county",
       "intent": "money-local",
-      "impressions": 1,
+      "impressions": 6,
+      "clicks": 0,
+      "position": 16.167,
+      "ctr": 0
+    },
+    {
+      "query": "local seo tips for huntington beach businesses",
+      "slug": "seo-huntington-beach",
+      "intent": "money-local",
+      "impressions": 3,
       "clicks": 0,
       "position": 18,
       "ctr": 0
@@ -129,15 +156,6 @@
       "ctr": 0
     },
     {
-      "query": "ai search orange county ca",
-      "slug": "30-day-ai-search-plan-orange-county",
-      "intent": "money-local",
-      "impressions": 4,
-      "clicks": 0,
-      "position": 19.5,
-      "ctr": 0
-    },
-    {
       "query": "real estate seo orange county",
       "slug": "seo-for-real-estate-agents-orange-county",
       "intent": "money-local",
@@ -156,26 +174,8 @@
       "ctr": 0
     },
     {
-      "query": "attorney seo orange county",
-      "slug": "seo-for-divorce-lawyers",
-      "intent": "money-local",
-      "impressions": 2,
-      "clicks": 0,
-      "position": 31,
-      "ctr": 0
-    },
-    {
       "query": "criminal lawyer seo company orange county",
       "slug": "seo-for-criminal-defense-lawyers",
-      "intent": "money-local",
-      "impressions": 1,
-      "clicks": 0,
-      "position": 31,
-      "ctr": 0
-    },
-    {
-      "query": "seo fullerton",
-      "slug": "seo-fullerton",
       "intent": "money-local",
       "impressions": 1,
       "clicks": 0,
@@ -192,12 +192,21 @@
       "ctr": 0
     },
     {
+      "query": "huntington beach seo",
+      "slug": "seo-huntington-beach",
+      "intent": "money-local",
+      "impressions": 33,
+      "clicks": 0,
+      "position": 32.091,
+      "ctr": 0
+    },
+    {
       "query": "attorney seo orange county",
       "slug": "seo-for-estate-planning-attorneys",
       "intent": "money-local",
-      "impressions": 4,
+      "impressions": 5,
       "clicks": 0,
-      "position": 33,
+      "position": 35.8,
       "ctr": 0
     },
     {
@@ -207,15 +216,6 @@
       "impressions": 1,
       "clicks": 0,
       "position": 36,
-      "ctr": 0
-    },
-    {
-      "query": "anaheim seo company",
-      "slug": "seo-company-orange-county",
-      "intent": "money-local",
-      "impressions": 7,
-      "clicks": 0,
-      "position": 36.857,
       "ctr": 0
     },
     {
@@ -237,6 +237,15 @@
       "ctr": 0
     },
     {
+      "query": "attorney seo orange county",
+      "slug": "seo-for-divorce-lawyers",
+      "intent": "money-local",
+      "impressions": 3,
+      "clicks": 0,
+      "position": 38.667,
+      "ctr": 0
+    },
+    {
       "query": "priority keywords,tree removal near me,very high,seo priority 1",
       "slug": "seo-for-tree-service-companies",
       "intent": "money-local",
@@ -246,21 +255,21 @@
       "ctr": 0
     },
     {
-      "query": "huntington beach seo",
-      "slug": "seo-huntington-beach",
+      "query": "local seo fullerton",
+      "slug": "seo-fullerton",
       "intent": "money-local",
-      "impressions": 17,
+      "impressions": 13,
       "clicks": 0,
-      "position": 40.706,
+      "position": 43,
       "ctr": 0
     },
     {
-      "query": "attorney seo orange county",
-      "slug": "seo-for-criminal-defense-lawyers",
+      "query": "law firm seo orange county",
+      "slug": "seo-for-law-firms-orange-county",
       "intent": "money-local",
-      "impressions": 5,
+      "impressions": 1,
       "clicks": 0,
-      "position": 41.8,
+      "position": 43,
       "ctr": 0
     },
     {
@@ -273,12 +282,21 @@
       "ctr": 0
     },
     {
-      "query": "local seo fullerton",
-      "slug": "seo-fullerton",
+      "query": "attorney seo orange county",
+      "slug": "seo-for-criminal-defense-lawyers",
       "intent": "money-local",
-      "impressions": 5,
+      "impressions": 6,
       "clicks": 0,
-      "position": 44.6,
+      "position": 45.167,
+      "ctr": 0
+    },
+    {
+      "query": "ai search santa ana",
+      "slug": "seo-company-orange-county",
+      "intent": "money-local",
+      "impressions": 1,
+      "clicks": 0,
+      "position": 46,
       "ctr": 0
     },
     {
@@ -300,6 +318,15 @@
       "ctr": 0
     },
     {
+      "query": "anaheim seo company",
+      "slug": "seo-company-orange-county",
+      "intent": "money-local",
+      "impressions": 9,
+      "clicks": 0,
+      "position": 46.444,
+      "ctr": 0
+    },
+    {
       "query": "ai search rancho santa margarita",
       "slug": "30-day-ai-search-plan-orange-county",
       "intent": "money-local",
@@ -315,6 +342,15 @@
       "impressions": 3,
       "clicks": 0,
       "position": 47.333,
+      "ctr": 0
+    },
+    {
+      "query": "seo fullerton",
+      "slug": "seo-fullerton",
+      "intent": "money-local",
+      "impressions": 3,
+      "clicks": 0,
+      "position": 48.667,
       "ctr": 0
     },
     {
@@ -336,6 +372,15 @@
       "ctr": 0
     },
     {
+      "query": "ai search anaheim",
+      "slug": "seo-company-anaheim",
+      "intent": "money-local",
+      "impressions": 2,
+      "clicks": 0,
+      "position": 50.5,
+      "ctr": 0
+    },
+    {
       "query": "ai seo for law firms anaheim",
       "slug": "seo-for-estate-planning-attorneys",
       "intent": "money-local",
@@ -345,57 +390,12 @@
       "ctr": 0
     },
     {
-      "query": "attorney seo orange county",
-      "slug": "seo-for-immigration-lawyers",
-      "intent": "money-local",
-      "impressions": 5,
-      "clicks": 0,
-      "position": 51.4,
-      "ctr": 0
-    },
-    {
       "query": "seo irvine",
       "slug": "seo-irvine",
       "intent": "money-local",
-      "impressions": 10,
+      "impressions": 17,
       "clicks": 0,
-      "position": 51.5,
-      "ctr": 0
-    },
-    {
-      "query": "law firm seo orange county",
-      "slug": "seo-for-estate-planning-attorneys",
-      "intent": "money-local",
-      "impressions": 4,
-      "clicks": 0,
-      "position": 52.25,
-      "ctr": 0
-    },
-    {
-      "query": "local seo anaheim",
-      "slug": "local-seo-checklist",
-      "intent": "money-local",
-      "impressions": 4,
-      "clicks": 0,
-      "position": 53,
-      "ctr": 0
-    },
-    {
-      "query": "priority keywords,stump grinding near me,very high,seo priority 5",
-      "slug": "seo-for-tree-service-companies",
-      "intent": "money-local",
-      "impressions": 2,
-      "clicks": 0,
-      "position": 53.5,
-      "ctr": 0
-    },
-    {
-      "query": "fullerton seo",
-      "slug": "seo-fullerton",
-      "intent": "money-local",
-      "impressions": 1,
-      "clicks": 0,
-      "position": 55,
+      "position": 51.235,
       "ctr": 0
     }
   ],
@@ -404,21 +404,51 @@
       "query": "estate planning attorney seo company near me",
       "slug": "seo-for-estate-planning-attorneys",
       "intent": "money-local",
-      "impressions": 5,
+      "impressions": 6,
       "clicks": 0,
-      "position": 15.2,
+      "position": 15.833,
       "ctr": 0,
-      "score": 3.29
+      "score": 3.79
     },
     {
       "query": "ai search orange county ca",
       "slug": "30-day-ai-search-plan-orange-county",
       "intent": "money-local",
-      "impressions": 4,
+      "impressions": 6,
       "clicks": 0,
-      "position": 19.5,
+      "position": 16.167,
       "ctr": 0,
-      "score": 2.05
+      "score": 3.71
+    },
+    {
+      "query": "geo for travel websites",
+      "slug": "geo-for-travel-websites",
+      "intent": "service-research",
+      "impressions": 15,
+      "clicks": 0,
+      "position": 7.733,
+      "ctr": 0,
+      "score": 1.94
+    },
+    {
+      "query": "local seo tips for huntington beach businesses",
+      "slug": "seo-huntington-beach",
+      "intent": "money-local",
+      "impressions": 3,
+      "clicks": 0,
+      "position": 18,
+      "ctr": 0,
+      "score": 1.67
+    },
+    {
+      "query": "seo for gyms orange county",
+      "slug": "seo-for-personal-trainers",
+      "intent": "money-local",
+      "impressions": 1,
+      "clicks": 0,
+      "position": 6,
+      "ctr": 0,
+      "score": 1.67
     },
     {
       "query": "restaurant seo orange county",
@@ -429,6 +459,26 @@
       "position": 14,
       "ctr": 0,
       "score": 1.43
+    },
+    {
+      "query": "attorney seo orange county",
+      "slug": "seo-for-law-firms-orange-county",
+      "intent": "money-local",
+      "impressions": 2,
+      "clicks": 0,
+      "position": 15,
+      "ctr": 0,
+      "score": 1.33
+    },
+    {
+      "query": "how does ai search optimization work in huntington beach?",
+      "slug": "seo-huntington-beach",
+      "intent": "money-local",
+      "impressions": 1,
+      "clicks": 0,
+      "position": 8,
+      "ctr": 0,
+      "score": 1.25
     },
     {
       "query": "ai search garden grove",
@@ -511,26 +561,6 @@
       "score": 0.75
     },
     {
-      "query": "geo for travel websites",
-      "slug": "geo-for-travel-websites",
-      "intent": "service-research",
-      "impressions": 8,
-      "clicks": 0,
-      "position": 11.125,
-      "ctr": 0,
-      "score": 0.72
-    },
-    {
-      "query": "attorney seo orange county",
-      "slug": "seo-for-law-firms-orange-county",
-      "intent": "money-local",
-      "impressions": 1,
-      "clicks": 0,
-      "position": 15,
-      "ctr": 0,
-      "score": 0.67
-    },
-    {
       "query": "law firm seo company santa ana ca",
       "slug": "seo-for-estate-planning-attorneys",
       "intent": "money-local",
@@ -549,26 +579,6 @@
       "position": 10,
       "ctr": 0,
       "score": 0.6
-    },
-    {
-      "query": "law firm seo orange county",
-      "slug": "seo-for-divorce-lawyers",
-      "intent": "money-local",
-      "impressions": 1,
-      "clicks": 0,
-      "position": 18,
-      "ctr": 0,
-      "score": 0.56
-    },
-    {
-      "query": "affordable carpet cleaning seo packages",
-      "slug": "seo-for-carpet-cleaning",
-      "intent": "service-research",
-      "impressions": 3,
-      "clicks": 0,
-      "position": 5.667,
-      "ctr": 0,
-      "score": 0.53
     },
     {
       "query": "what criteria should i use to evaluate new ai platforms before investing in geo?",
@@ -591,14 +601,14 @@
       "score": 0.47
     },
     {
-      "query": "google business insights",
-      "slug": "google-business-profile-performance",
-      "intent": "other",
-      "impressions": 7,
+      "query": "how to compare products across sites using gemini in chrome",
+      "slug": "gemini-in-chrome-website-answers",
+      "intent": "question",
+      "impressions": 3,
       "clicks": 0,
-      "position": 19.143,
+      "position": 15,
       "ctr": 0,
-      "score": 0.37
+      "score": 0.4
     },
     {
       "query": "how is geo different from answer engine optimization (aeo)?",
@@ -671,6 +681,16 @@
       "score": 0.27
     },
     {
+      "query": "seo company for probate law pelham",
+      "slug": "seo-for-estate-planning-attorneys",
+      "intent": "money-national",
+      "impressions": 1,
+      "clicks": 0,
+      "position": 11,
+      "ctr": 0,
+      "score": 0.27
+    },
+    {
       "query": "seo for ev charger installers",
       "slug": "seo-for-ev-charger-installers",
       "intent": "service-research",
@@ -701,12 +721,32 @@
       "score": 0.25
     },
     {
+      "query": "seo google ads",
+      "slug": "google-local-services-ads-vs-seo",
+      "intent": "service-research",
+      "impressions": 7,
+      "clicks": 0,
+      "position": 29.714,
+      "ctr": 0,
+      "score": 0.24
+    },
+    {
       "query": "geo for travel websites",
       "slug": "geo-for-hotels",
       "intent": "service-research",
       "impressions": 6,
       "clicks": 0,
       "position": 29.333,
+      "ctr": 0,
+      "score": 0.2
+    },
+    {
+      "query": "top geo mistakes to avoid",
+      "slug": "geo-mistakes-to-avoid",
+      "intent": "money-national",
+      "impressions": 2,
+      "clicks": 0,
+      "position": 29.5,
       "ctr": 0,
       "score": 0.2
     },
@@ -741,67 +781,47 @@
       "score": 0.18
     },
     {
-      "query": "landscaping company local seo",
-      "slug": "seo-for-landscapers",
-      "intent": "money-national",
-      "impressions": 1,
+      "query": "criminal defense seo experts",
+      "slug": "seo-for-criminal-defense-lawyers",
+      "intent": "service-research",
+      "impressions": 5,
       "clicks": 0,
-      "position": 19,
+      "position": 29.6,
       "ctr": 0,
-      "score": 0.16
+      "score": 0.17
     },
     {
-      "query": "chimera ai",
-      "slug": "home",
-      "intent": "other",
+      "query": "oil lube seo",
+      "slug": "seo-for-oil-change-shops",
+      "intent": "service-research",
       "impressions": 1,
       "clicks": 0,
-      "position": 8,
+      "position": 6,
       "ctr": 0,
-      "score": 0.12
-    },
-    {
-      "query": "cpa firm seo services",
-      "slug": "seo-for-accountants",
-      "intent": "money-national",
-      "impressions": 1,
-      "clicks": 0,
-      "position": 25,
-      "ctr": 0,
-      "score": 0.12
-    },
-    {
-      "query": "hearing aid company seo services",
-      "slug": "seo-for-audiologists",
-      "intent": "money-national",
-      "impressions": 1,
-      "clicks": 0,
-      "position": 24,
-      "ctr": 0,
-      "score": 0.12
-    },
-    {
-      "query": "orthodontic seo expert",
-      "slug": "seo-for-orthodontists",
-      "intent": "money-national",
-      "impressions": 1,
-      "clicks": 0,
-      "position": 25,
-      "ctr": 0,
-      "score": 0.12
-    },
-    {
-      "query": "evaluate the online travel platform google travel on exploring destinations",
-      "slug": "geo-for-travel-websites",
-      "intent": "other",
-      "impressions": 1,
-      "clicks": 0,
-      "position": 9,
-      "ctr": 0,
-      "score": 0.11
+      "score": 0.17
     }
   ],
   "ctr_fixes": [
+    {
+      "query": "geo for travel websites",
+      "slug": "geo-for-travel-websites",
+      "intent": "service-research",
+      "impressions": 15,
+      "clicks": 0,
+      "position": 7.733,
+      "ctr": 0,
+      "gap": 0.45
+    },
+    {
+      "query": "site:linkedin.com/posts \"ai mode\" or \"ai overviews\" (\"search console\" or impressions or citations)",
+      "slug": "search-console-generative-ai-performance-report",
+      "intent": "other",
+      "impressions": 3,
+      "clicks": 0,
+      "position": 2,
+      "ctr": 0,
+      "gap": 0.36
+    },
     {
       "query": "how do we find the ai prompts that influence online-course enrolments?",
       "slug": "how-to-find-prompts-people-ask-ai",
@@ -821,16 +841,6 @@
       "position": 1,
       "ctr": 0,
       "gap": 0.25
-    },
-    {
-      "query": "site:linkedin.com/posts \"ai mode\" or \"ai overviews\" (\"search console\" or impressions or citations)",
-      "slug": "search-console-generative-ai-performance-report",
-      "intent": "other",
-      "impressions": 2,
-      "clicks": 0,
-      "position": 2.5,
-      "ctr": 0,
-      "gap": 0.24
     },
     {
       "query": "how long should content be for ai search?",
@@ -853,34 +863,14 @@
       "gap": 0.12
     },
     {
-      "query": "affordable carpet cleaning seo packages",
-      "slug": "seo-for-carpet-cleaning",
-      "intent": "service-research",
-      "impressions": 3,
+      "query": "ai search orange county ca",
+      "slug": "30-day-ai-search-plan-orange-county",
+      "intent": "money-local",
+      "impressions": 6,
       "clicks": 0,
-      "position": 5.667,
+      "position": 16.167,
       "ctr": 0,
-      "gap": 0.09
-    },
-    {
-      "query": "geo for travel websites",
-      "slug": "geo-for-travel-websites",
-      "intent": "service-research",
-      "impressions": 8,
-      "clicks": 0,
-      "position": 11.125,
-      "ctr": 0,
-      "gap": 0.08
-    },
-    {
-      "query": "google business insights",
-      "slug": "google-business-profile-performance",
-      "intent": "other",
-      "impressions": 7,
-      "clicks": 0,
-      "position": 19.143,
-      "ctr": 0,
-      "gap": 0.07
+      "gap": 0.06
     },
     {
       "query": "best seo company for carpet cleaners",
@@ -889,6 +879,16 @@
       "impressions": 2,
       "clicks": 0,
       "position": 10,
+      "ctr": 0,
+      "gap": 0.06
+    },
+    {
+      "query": "estate planning attorney seo company near me",
+      "slug": "seo-for-estate-planning-attorneys",
+      "intent": "money-local",
+      "impressions": 6,
+      "clicks": 0,
+      "position": 15.833,
       "ctr": 0,
       "gap": 0.06
     },
@@ -923,26 +923,6 @@
       "gap": 0.06
     },
     {
-      "query": "estate planning attorney seo company near me",
-      "slug": "seo-for-estate-planning-attorneys",
-      "intent": "money-local",
-      "impressions": 5,
-      "clicks": 0,
-      "position": 15.2,
-      "ctr": 0,
-      "gap": 0.05
-    },
-    {
-      "query": "ai search orange county ca",
-      "slug": "30-day-ai-search-plan-orange-county",
-      "intent": "money-local",
-      "impressions": 4,
-      "clicks": 0,
-      "position": 19.5,
-      "ctr": 0,
-      "gap": 0.04
-    },
-    {
       "query": "ai search garden grove",
       "slug": "30-day-ai-search-plan-orange-county",
       "intent": "money-local",
@@ -973,6 +953,16 @@
       "gap": 0.03
     },
     {
+      "query": "chimera technologies",
+      "slug": "home",
+      "intent": "other",
+      "impressions": 1,
+      "clicks": 0,
+      "position": 7,
+      "ctr": 0,
+      "gap": 0.03
+    },
+    {
       "query": "evaluate the online travel platform google travel on exploring destinations",
       "slug": "geo-for-travel-websites",
       "intent": "other",
@@ -983,12 +973,82 @@
       "gap": 0.03
     },
     {
+      "query": "google attribute",
+      "slug": "google-business-profile-attributes",
+      "intent": "other",
+      "impressions": 1,
+      "clicks": 0,
+      "position": 7,
+      "ctr": 0,
+      "gap": 0.03
+    },
+    {
+      "query": "google my business statistics",
+      "slug": "google-business-profile-performance",
+      "intent": "other",
+      "impressions": 1,
+      "clicks": 0,
+      "position": 7,
+      "ctr": 0,
+      "gap": 0.03
+    },
+    {
+      "query": "how does ai search optimization work in huntington beach?",
+      "slug": "seo-huntington-beach",
+      "intent": "money-local",
+      "impressions": 1,
+      "clicks": 0,
+      "position": 8,
+      "ctr": 0,
+      "gap": 0.03
+    },
+    {
       "query": "how much does geo cost singapore?",
       "slug": "how-much-does-geo-cost",
       "intent": "money-national",
       "impressions": 1,
       "clicks": 0,
       "position": 10,
+      "ctr": 0,
+      "gap": 0.03
+    },
+    {
+      "query": "how to compare products across sites using gemini in chrome",
+      "slug": "gemini-in-chrome-website-answers",
+      "intent": "question",
+      "impressions": 3,
+      "clicks": 0,
+      "position": 15,
+      "ctr": 0,
+      "gap": 0.03
+    },
+    {
+      "query": "local seo tips for huntington beach businesses",
+      "slug": "seo-huntington-beach",
+      "intent": "money-local",
+      "impressions": 3,
+      "clicks": 0,
+      "position": 18,
+      "ctr": 0,
+      "gap": 0.03
+    },
+    {
+      "query": "oil lube seo",
+      "slug": "seo-for-oil-change-shops",
+      "intent": "service-research",
+      "impressions": 1,
+      "clicks": 0,
+      "position": 6,
+      "ctr": 0,
+      "gap": 0.03
+    },
+    {
+      "query": "seo for gyms orange county",
+      "slug": "seo-for-personal-trainers",
+      "intent": "money-local",
+      "impressions": 1,
+      "clicks": 0,
+      "position": 6,
       "ctr": 0,
       "gap": 0.03
     },
@@ -1013,6 +1073,16 @@
       "gap": 0.02
     },
     {
+      "query": "attorney seo orange county",
+      "slug": "seo-for-law-firms-orange-county",
+      "intent": "money-local",
+      "impressions": 2,
+      "clicks": 0,
+      "position": 15,
+      "ctr": 0,
+      "gap": 0.02
+    },
+    {
       "query": "google bedrijfsfoto",
       "slug": "google-business-profile-photos",
       "intent": "other",
@@ -1031,140 +1101,70 @@
       "position": 18.5,
       "ctr": 0,
       "gap": 0.02
-    },
-    {
-      "query": "restaurant seo orange county",
-      "slug": "seo-for-restaurants-orange-county",
-      "intent": "money-local",
-      "impressions": 2,
-      "clicks": 0,
-      "position": 14,
-      "ctr": 0,
-      "gap": 0.02
-    },
-    {
-      "query": "attorney seo orange county",
-      "slug": "seo-for-law-firms-orange-county",
-      "intent": "money-local",
-      "impressions": 1,
-      "clicks": 0,
-      "position": 15,
-      "ctr": 0,
-      "gap": 0.01
-    },
-    {
-      "query": "attorney seo santa ana",
-      "slug": "seo-for-law-firms-orange-county",
-      "intent": "money-local",
-      "impressions": 1,
-      "clicks": 0,
-      "position": 13,
-      "ctr": 0,
-      "gap": 0.01
-    },
-    {
-      "query": "california local seo for garage door company",
-      "slug": "seo-for-garage-door-companies",
-      "intent": "money-national",
-      "impressions": 1,
-      "clicks": 0,
-      "position": 11,
-      "ctr": 0,
-      "gap": 0.01
-    },
-    {
-      "query": "dental geo pricing",
-      "slug": "geo-for-dentists",
-      "intent": "money-national",
-      "impressions": 1,
-      "clicks": 0,
-      "position": 16,
-      "ctr": 0,
-      "gap": 0.01
-    },
-    {
-      "query": "geo agency newport beach",
-      "slug": "geo-agency-orange-county",
-      "intent": "money-local",
-      "impressions": 1,
-      "clicks": 0,
-      "position": 11,
-      "ctr": 0,
-      "gap": 0.01
-    },
-    {
-      "query": "google ad seo",
-      "slug": "google-local-services-ads-vs-seo",
-      "intent": "service-research",
-      "impressions": 1,
-      "clicks": 0,
-      "position": 16,
-      "ctr": 0,
-      "gap": 0.01
     }
   ],
   "cannibalization": [
     {
       "query": "anaheim seo",
       "intent": "money-local",
-      "impressions": 22,
+      "impressions": 25,
       "keep": "seo-company-anaheim",
       "pages": [
         [
           "seo-company-anaheim",
-          87.1,
-          9
+          85.1,
+          10
         ],
         [
           "seo-company-orange-county",
-          90.2,
-          13
+          88.9,
+          15
         ]
       ]
     },
     {
       "query": "attorney seo orange county",
       "intent": "money-local",
-      "impressions": 17,
+      "impressions": 22,
       "keep": "seo-for-law-firms-orange-county",
       "pages": [
         [
           "seo-for-law-firms-orange-county",
           15,
-          1
-        ],
-        [
-          "seo-for-divorce-lawyers",
-          31,
           2
         ],
         [
           "seo-for-estate-planning-attorneys",
-          33,
-          4
+          35.8,
+          5
+        ],
+        [
+          "seo-for-divorce-lawyers",
+          38.7,
+          3
         ],
         [
           "seo-for-criminal-defense-lawyers",
-          41.8,
-          5
+          45.2,
+          6
         ],
         [
           "seo-for-immigration-lawyers",
-          51.4,
-          5
+          56.3,
+          6
         ]
       ]
     },
     {
       "query": "anaheim seo company",
       "intent": "money-local",
-      "impressions": 12,
+      "impressions": 14,
       "keep": "seo-company-orange-county",
       "pages": [
         [
           "seo-company-orange-county",
-          36.9,
-          7
+          46.4,
+          9
         ],
         [
           "seo-company-anaheim",
@@ -1176,36 +1176,118 @@
     {
       "query": "seo anaheim",
       "intent": "money-local",
-      "impressions": 10,
-      "keep": "seo-company-anaheim",
+      "impressions": 14,
+      "keep": "seo-company-orange-county",
       "pages": [
         [
+          "seo-company-orange-county",
+          87.4,
+          8
+        ],
+        [
           "seo-company-anaheim",
-          91.2,
-          4
+          88.8,
+          6
+        ]
+      ]
+    },
+    {
+      "query": "ai search optimization orange county",
+      "intent": "money-local",
+      "impressions": 12,
+      "keep": "30-day-ai-search-plan-orange-county",
+      "pages": [
+        [
+          "30-day-ai-search-plan-orange-county",
+          89.8,
+          9
+        ],
+        [
+          "google-business-profile-optimization-orange-county",
+          96,
+          1
         ],
         [
           "seo-company-orange-county",
-          92,
-          6
+          100,
+          2
         ]
       ]
     },
     {
       "query": "medical practice seo orange county",
       "intent": "money-local",
-      "impressions": 8,
+      "impressions": 10,
       "keep": "seo-for-doctors",
       "pages": [
         [
           "seo-for-doctors",
-          74,
-          7
+          68.1,
+          9
         ],
         [
           "seo-for-dentists-orange-county",
           98,
           1
+        ]
+      ]
+    },
+    {
+      "query": "anaheim seo expert",
+      "intent": "money-local",
+      "impressions": 7,
+      "keep": "seo-company-anaheim",
+      "pages": [
+        [
+          "seo-company-anaheim",
+          84,
+          1
+        ],
+        [
+          "seo-company-orange-county",
+          87.3,
+          6
+        ]
+      ]
+    },
+    {
+      "query": "anaheim seo service",
+      "intent": "money-local",
+      "impressions": 7,
+      "keep": "seo-company-orange-county",
+      "pages": [
+        [
+          "seo-company-orange-county",
+          77,
+          5
+        ],
+        [
+          "seo-company-anaheim",
+          85.5,
+          2
+        ]
+      ]
+    },
+    {
+      "query": "law firm seo orange county",
+      "intent": "money-local",
+      "impressions": 7,
+      "keep": "seo-for-law-firms-orange-county",
+      "pages": [
+        [
+          "seo-for-law-firms-orange-county",
+          43,
+          1
+        ],
+        [
+          "seo-for-estate-planning-attorneys",
+          52.2,
+          4
+        ],
+        [
+          "seo-for-divorce-lawyers",
+          53,
+          2
         ]
       ]
     },
@@ -1251,42 +1333,6 @@
       ]
     },
     {
-      "query": "anaheim seo expert",
-      "intent": "money-local",
-      "impressions": 6,
-      "keep": "seo-company-anaheim",
-      "pages": [
-        [
-          "seo-company-anaheim",
-          84,
-          1
-        ],
-        [
-          "seo-company-orange-county",
-          88,
-          5
-        ]
-      ]
-    },
-    {
-      "query": "anaheim seo service",
-      "intent": "money-local",
-      "impressions": 6,
-      "keep": "seo-company-orange-county",
-      "pages": [
-        [
-          "seo-company-orange-county",
-          78.5,
-          4
-        ],
-        [
-          "seo-company-anaheim",
-          85.5,
-          2
-        ]
-      ]
-    },
-    {
       "query": "seo company anaheim",
       "intent": "money-local",
       "impressions": 6,
@@ -1305,27 +1351,9 @@
       ]
     },
     {
-      "query": "law firm seo orange county",
-      "intent": "money-local",
-      "impressions": 5,
-      "keep": "seo-for-divorce-lawyers",
-      "pages": [
-        [
-          "seo-for-divorce-lawyers",
-          18,
-          1
-        ],
-        [
-          "seo-for-estate-planning-attorneys",
-          52.2,
-          4
-        ]
-      ]
-    },
-    {
       "query": "anaheim search engine optimization",
       "intent": "money-local",
-      "impressions": 4,
+      "impressions": 5,
       "keep": "google-business-profile-optimization-orange-county",
       "pages": [
         [
@@ -1334,14 +1362,32 @@
           1
         ],
         [
+          "seo-company-orange-county",
+          79.3,
+          3
+        ],
+        [
           "seo-company-anaheim",
+          80,
+          1
+        ]
+      ]
+    },
+    {
+      "query": "seo services anaheim",
+      "intent": "money-local",
+      "impressions": 5,
+      "keep": "seo-company-orange-county",
+      "pages": [
+        [
+          "seo-company-orange-county",
           80,
           1
         ],
         [
-          "seo-company-orange-county",
-          80.5,
-          2
+          "seo-company-anaheim",
+          81.8,
+          4
         ]
       ]
     },
@@ -1364,24 +1410,6 @@
       ]
     },
     {
-      "query": "seo services anaheim",
-      "intent": "money-local",
-      "impressions": 4,
-      "keep": "seo-company-anaheim",
-      "pages": [
-        [
-          "seo-company-anaheim",
-          79.3,
-          3
-        ],
-        [
-          "seo-company-orange-county",
-          80,
-          1
-        ]
-      ]
-    },
-    {
       "query": "seo services in anaheim",
       "intent": "money-local",
       "impressions": 4,
@@ -1395,6 +1423,24 @@
         [
           "seo-company-anaheim",
           96,
+          1
+        ]
+      ]
+    },
+    {
+      "query": "ai search irvine",
+      "intent": "money-local",
+      "impressions": 3,
+      "keep": "seo-irvine",
+      "pages": [
+        [
+          "seo-irvine",
+          71,
+          2
+        ],
+        [
+          "30-day-ai-search-plan-orange-county",
+          80,
           1
         ]
       ]
@@ -1437,6 +1483,60 @@
           "seo-newport-beach",
           72.5,
           2
+        ]
+      ]
+    },
+    {
+      "query": "seo companies in anaheim",
+      "intent": "money-local",
+      "impressions": 3,
+      "keep": "seo-company-anaheim",
+      "pages": [
+        [
+          "seo-company-anaheim",
+          64,
+          1
+        ],
+        [
+          "seo-company-orange-county",
+          72.5,
+          2
+        ]
+      ]
+    },
+    {
+      "query": "geo for travel websites",
+      "intent": "service-research",
+      "impressions": 21,
+      "keep": "geo-for-travel-websites",
+      "pages": [
+        [
+          "geo-for-travel-websites",
+          7.7,
+          15
+        ],
+        [
+          "geo-for-hotels",
+          29.3,
+          6
+        ]
+      ]
+    },
+    {
+      "query": "optometrist seo",
+      "intent": "service-research",
+      "impressions": 21,
+      "keep": "seo-for-optometrists",
+      "pages": [
+        [
+          "seo-for-optometrists",
+          80.4,
+          20
+        ],
+        [
+          "seo-for-ophthalmologists",
+          95,
+          1
         ]
       ]
     },
@@ -1495,56 +1595,38 @@
       ]
     },
     {
-      "query": "geo for travel websites",
-      "intent": "service-research",
-      "impressions": 14,
-      "keep": "geo-for-travel-websites",
-      "pages": [
-        [
-          "geo-for-travel-websites",
-          11.1,
-          8
-        ],
-        [
-          "geo-for-hotels",
-          29.3,
-          6
-        ]
-      ]
-    },
-    {
       "query": "mechanic seo",
       "intent": "service-research",
-      "impressions": 10,
+      "impressions": 15,
       "keep": "seo-for-auto-repair-shops",
       "pages": [
         [
           "seo-for-auto-repair-shops",
-          70.4,
-          5
+          68.9,
+          7
         ],
         [
           "seo-for-mobile-mechanics",
-          82.6,
-          5
+          81.6,
+          8
         ]
       ]
     },
     {
       "query": "seo auto hail repair",
       "intent": "service-research",
-      "impressions": 8,
+      "impressions": 14,
       "keep": "seo-for-auto-body-shops",
       "pages": [
         [
           "seo-for-auto-body-shops",
-          32.7,
-          3
+          31.4,
+          5
         ],
         [
           "seo-for-auto-repair-shops",
-          40.7,
-          3
+          40,
+          5
         ],
         [
           "seo-for-auto-detailing",
@@ -1553,39 +1635,39 @@
         ],
         [
           "seo-for-mobile-mechanics",
-          49,
-          1
+          47,
+          3
         ]
       ]
     },
     {
       "query": "seo for auto hail repair",
       "intent": "service-research",
-      "impressions": 7,
+      "impressions": 10,
       "keep": "seo-for-auto-body-shops",
       "pages": [
         [
           "seo-for-auto-body-shops",
-          34.4,
-          5
+          30.2,
+          6
         ],
         [
           "seo-for-auto-repair-shops",
-          63.5,
-          2
+          40,
+          4
         ]
       ]
     },
     {
       "query": "seo for learning centers los angeles",
       "intent": "service-research",
-      "impressions": 6,
+      "impressions": 8,
       "keep": "seo-for-language-schools",
       "pages": [
         [
           "seo-for-language-schools",
-          40,
-          1
+          39,
+          2
         ],
         [
           "seo-for-tutoring-centers",
@@ -1594,21 +1676,21 @@
         ],
         [
           "seo-for-daycare-centers",
-          45,
-          3
+          43.5,
+          4
         ]
       ]
     },
     {
       "query": "auto mechanic seo",
       "intent": "service-research",
-      "impressions": 5,
+      "impressions": 6,
       "keep": "seo-for-auto-repair-shops",
       "pages": [
         [
           "seo-for-auto-repair-shops",
-          87.5,
-          4
+          87.4,
+          5
         ],
         [
           "seo-for-mobile-mechanics",

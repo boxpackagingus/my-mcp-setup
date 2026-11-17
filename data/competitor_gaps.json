@@ -1,14 +1,10 @@
 {
   "zupo.co": {
-    "urls": 445,
-    "topics": 404,
+    "urls": 419,
+    "topics": 390,
     "gaps": [
       {
         "topic": "keyword optimization when competing in orange county seo",
-        "intent": "money-local"
-      },
-      {
-        "topic": "seo orange county need have address orange county",
         "intent": "money-local"
       },
       {
@@ -322,12 +318,16 @@
       {
         "topic": "what is a linkable asset or a link magnet",
         "intent": "question"
+      },
+      {
+        "topic": "what is a local citation or a directory listing and why is it important",
+        "intent": "question"
       }
     ]
   },
   "brandastic.com": {
-    "urls": 899,
-    "topics": 729,
+    "urls": 900,
+    "topics": 730,
     "gaps": [
       {
         "topic": "best digital marketing agencies orange county what to look for",
@@ -845,8 +845,8 @@
     ]
   },
   "theadfirm.net": {
-    "urls": 1838,
-    "topics": 1770,
+    "urls": 1839,
+    "topics": 1771,
     "gaps": [
       {
         "topic": "aliso viejo digital marketing agency",

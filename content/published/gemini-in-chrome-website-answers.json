@@ -66,7 +66,7 @@
     },
     {
       "heading": "A worked example",
-      "body_html": "<p>Imagine a homeowner in Garden Grove comparing three roofing companies in separate tabs and asking Gemini in Chrome which ones offer a written warranty and serve Garden Grove. A roofer whose page states its warranty terms and service area in plain text is named; one that only shows them in a badge image may be described as not mentioning a warranty.</p>"
+      "body_html": "<p>Imagine a homeowner in <a href=\"https://thechimeraai.com/seo-garden-grove/\">Garden Grove</a> comparing three roofing companies in separate tabs and asking Gemini in Chrome which ones offer a written warranty and serve Garden Grove. A roofer whose page states its warranty terms and service area in plain text is named; one that only shows them in a badge image may be described as not mentioning a warranty.</p>"
     },
     {
       "heading": "Privacy for your visitors",
@@ -231,6 +231,6 @@
     "height": 760
   },
   "published": "2026-11-13",
-  "updated": "2026-11-14",
+  "updated": "2026-11-17",
   "parent_id": 709
 }

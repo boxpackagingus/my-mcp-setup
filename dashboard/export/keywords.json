@@ -1,5 +1,505 @@
 [
   {
+    "keyword": "autonomous AI attacks",
+    "kind": "Main",
+    "page": "ai-autonomous-attacks-small-business-websites"
+  },
+  {
+    "keyword": "AI cyberattacks small business",
+    "kind": "Supporting",
+    "page": "ai-autonomous-attacks-small-business-websites"
+  },
+  {
+    "keyword": "website security updates",
+    "kind": "Supporting",
+    "page": "ai-autonomous-attacks-small-business-websites"
+  },
+  {
+    "keyword": "WordPress plugin updates",
+    "kind": "Supporting",
+    "page": "ai-autonomous-attacks-small-business-websites"
+  },
+  {
+    "keyword": "GTIG AI Threat Tracker",
+    "kind": "Supporting",
+    "page": "ai-autonomous-attacks-small-business-websites"
+  },
+  {
+    "keyword": "Ask Maps appointments",
+    "kind": "Main",
+    "page": "ask-maps-books-local-appointments"
+  },
+  {
+    "keyword": "Ask Maps booking",
+    "kind": "Supporting",
+    "page": "ask-maps-books-local-appointments"
+  },
+  {
+    "keyword": "Google Maps book appointment",
+    "kind": "Supporting",
+    "page": "ask-maps-books-local-appointments"
+  },
+  {
+    "keyword": "Ask Maps agentic",
+    "kind": "Supporting",
+    "page": "ask-maps-books-local-appointments"
+  },
+  {
+    "keyword": "Google Maps call business for me",
+    "kind": "Supporting",
+    "page": "ask-maps-books-local-appointments"
+  },
+  {
+    "keyword": "Black Friday Google shopping tools",
+    "kind": "Main",
+    "page": "black-friday-google-shopping-tools-retailers"
+  },
+  {
+    "keyword": "Google Price Insights",
+    "kind": "Supporting",
+    "page": "black-friday-google-shopping-tools-retailers"
+  },
+  {
+    "keyword": "Universal Cart Black Friday",
+    "kind": "Supporting",
+    "page": "black-friday-google-shopping-tools-retailers"
+  },
+  {
+    "keyword": "Google Lens shopping",
+    "kind": "Supporting",
+    "page": "black-friday-google-shopping-tools-retailers"
+  },
+  {
+    "keyword": "Black Friday retailer checklist",
+    "kind": "Supporting",
+    "page": "black-friday-google-shopping-tools-retailers"
+  },
+  {
+    "keyword": "holiday crowd times",
+    "kind": "Main",
+    "page": "holiday-crowd-times-google-maps"
+  },
+  {
+    "keyword": "Thanksgiving busy times",
+    "kind": "Supporting",
+    "page": "holiday-crowd-times-google-maps"
+  },
+  {
+    "keyword": "Google Maps popular times holidays",
+    "kind": "Supporting",
+    "page": "holiday-crowd-times-google-maps"
+  },
+  {
+    "keyword": "holiday staffing small business",
+    "kind": "Supporting",
+    "page": "holiday-crowd-times-google-maps"
+  },
+  {
+    "keyword": "Black Friday traffic times",
+    "kind": "Supporting",
+    "page": "holiday-crowd-times-google-maps"
+  },
+  {
+    "keyword": "Search Analytics API branded queries",
+    "kind": "Main",
+    "page": "search-analytics-api-branded-queries"
+  },
+  {
+    "keyword": "Search Console branded queries",
+    "kind": "Supporting",
+    "page": "search-analytics-api-branded-queries"
+  },
+  {
+    "keyword": "brandedClassification",
+    "kind": "Supporting",
+    "page": "search-analytics-api-branded-queries"
+  },
+  {
+    "keyword": "webMultimodal Search Console",
+    "kind": "Supporting",
+    "page": "search-analytics-api-branded-queries"
+  },
+  {
+    "keyword": "Search Console API filterLists",
+    "kind": "Supporting",
+    "page": "search-analytics-api-branded-queries"
+  },
+  {
+    "keyword": "Aliso Viejo SEO",
+    "kind": "Main",
+    "page": "seo-aliso-viejo"
+  },
+  {
+    "keyword": "SEO company Aliso Viejo",
+    "kind": "Supporting",
+    "page": "seo-aliso-viejo"
+  },
+  {
+    "keyword": "local SEO Aliso Viejo",
+    "kind": "Supporting",
+    "page": "seo-aliso-viejo"
+  },
+  {
+    "keyword": "B2B SEO Aliso Viejo",
+    "kind": "Supporting",
+    "page": "seo-aliso-viejo"
+  },
+  {
+    "keyword": "AI search Aliso Viejo",
+    "kind": "Supporting",
+    "page": "seo-aliso-viejo"
+  },
+  {
+    "keyword": "Brea SEO",
+    "kind": "Main",
+    "page": "seo-brea"
+  },
+  {
+    "keyword": "SEO company Brea",
+    "kind": "Supporting",
+    "page": "seo-brea"
+  },
+  {
+    "keyword": "local SEO Brea CA",
+    "kind": "Supporting",
+    "page": "seo-brea"
+  },
+  {
+    "keyword": "Brea retail marketing",
+    "kind": "Supporting",
+    "page": "seo-brea"
+  },
+  {
+    "keyword": "AI search Brea",
+    "kind": "Supporting",
+    "page": "seo-brea"
+  },
+  {
+    "keyword": "Buena Park SEO",
+    "kind": "Main",
+    "page": "seo-buena-park"
+  },
+  {
+    "keyword": "SEO company Buena Park",
+    "kind": "Supporting",
+    "page": "seo-buena-park"
+  },
+  {
+    "keyword": "local SEO Buena Park",
+    "kind": "Supporting",
+    "page": "seo-buena-park"
+  },
+  {
+    "keyword": "Knott's area marketing",
+    "kind": "Supporting",
+    "page": "seo-buena-park"
+  },
+  {
+    "keyword": "AI search Buena Park",
+    "kind": "Supporting",
+    "page": "seo-buena-park"
+  },
+  {
+    "keyword": "Fountain Valley SEO",
+    "kind": "Main",
+    "page": "seo-fountain-valley"
+  },
+  {
+    "keyword": "SEO company Fountain Valley",
+    "kind": "Supporting",
+    "page": "seo-fountain-valley"
+  },
+  {
+    "keyword": "local SEO Fountain Valley",
+    "kind": "Supporting",
+    "page": "seo-fountain-valley"
+  },
+  {
+    "keyword": "Fountain Valley marketing",
+    "kind": "Supporting",
+    "page": "seo-fountain-valley"
+  },
+  {
+    "keyword": "AI search Fountain Valley",
+    "kind": "Supporting",
+    "page": "seo-fountain-valley"
+  },
+  {
+    "keyword": "Garden Grove SEO",
+    "kind": "Main",
+    "page": "seo-garden-grove"
+  },
+  {
+    "keyword": "SEO company Garden Grove",
+    "kind": "Supporting",
+    "page": "seo-garden-grove"
+  },
+  {
+    "keyword": "local SEO Garden Grove",
+    "kind": "Supporting",
+    "page": "seo-garden-grove"
+  },
+  {
+    "keyword": "AI search Garden Grove",
+    "kind": "Supporting",
+    "page": "seo-garden-grove"
+  },
+  {
+    "keyword": "Garden Grove SEO services",
+    "kind": "Supporting",
+    "page": "seo-garden-grove"
+  },
+  {
+    "keyword": "La Habra SEO",
+    "kind": "Main",
+    "page": "seo-la-habra"
+  },
+  {
+    "keyword": "SEO company La Habra",
+    "kind": "Supporting",
+    "page": "seo-la-habra"
+  },
+  {
+    "keyword": "local SEO La Habra",
+    "kind": "Supporting",
+    "page": "seo-la-habra"
+  },
+  {
+    "keyword": "La Habra marketing",
+    "kind": "Supporting",
+    "page": "seo-la-habra"
+  },
+  {
+    "keyword": "AI search La Habra",
+    "kind": "Supporting",
+    "page": "seo-la-habra"
+  },
+  {
+    "keyword": "Laguna Niguel SEO",
+    "kind": "Main",
+    "page": "seo-laguna-niguel"
+  },
+  {
+    "keyword": "SEO company Laguna Niguel",
+    "kind": "Supporting",
+    "page": "seo-laguna-niguel"
+  },
+  {
+    "keyword": "local SEO Laguna Niguel",
+    "kind": "Supporting",
+    "page": "seo-laguna-niguel"
+  },
+  {
+    "keyword": "South Orange County SEO",
+    "kind": "Supporting",
+    "page": "seo-laguna-niguel"
+  },
+  {
+    "keyword": "AI search Laguna Niguel",
+    "kind": "Supporting",
+    "page": "seo-laguna-niguel"
+  },
+  {
+    "keyword": "Lake Forest SEO",
+    "kind": "Main",
+    "page": "seo-lake-forest"
+  },
+  {
+    "keyword": "SEO company Lake Forest CA",
+    "kind": "Supporting",
+    "page": "seo-lake-forest"
+  },
+  {
+    "keyword": "local SEO Lake Forest",
+    "kind": "Supporting",
+    "page": "seo-lake-forest"
+  },
+  {
+    "keyword": "Foothill Ranch SEO",
+    "kind": "Supporting",
+    "page": "seo-lake-forest"
+  },
+  {
+    "keyword": "B2B SEO Lake Forest",
+    "kind": "Supporting",
+    "page": "seo-lake-forest"
+  },
+  {
+    "keyword": "Mission Viejo SEO",
+    "kind": "Main",
+    "page": "seo-mission-viejo"
+  },
+  {
+    "keyword": "SEO company Mission Viejo",
+    "kind": "Supporting",
+    "page": "seo-mission-viejo"
+  },
+  {
+    "keyword": "local SEO Mission Viejo",
+    "kind": "Supporting",
+    "page": "seo-mission-viejo"
+  },
+  {
+    "keyword": "Saddleback Valley marketing",
+    "kind": "Supporting",
+    "page": "seo-mission-viejo"
+  },
+  {
+    "keyword": "AI search Mission Viejo",
+    "kind": "Supporting",
+    "page": "seo-mission-viejo"
+  },
+  {
+    "keyword": "Orange CA SEO",
+    "kind": "Main",
+    "page": "seo-orange-ca"
+  },
+  {
+    "keyword": "SEO company Orange CA",
+    "kind": "Supporting",
+    "page": "seo-orange-ca"
+  },
+  {
+    "keyword": "City of Orange SEO",
+    "kind": "Supporting",
+    "page": "seo-orange-ca"
+  },
+  {
+    "keyword": "Old Towne Orange marketing",
+    "kind": "Supporting",
+    "page": "seo-orange-ca"
+  },
+  {
+    "keyword": "local SEO Orange California",
+    "kind": "Supporting",
+    "page": "seo-orange-ca"
+  },
+  {
+    "keyword": "Placentia SEO",
+    "kind": "Main",
+    "page": "seo-placentia"
+  },
+  {
+    "keyword": "SEO company Placentia",
+    "kind": "Supporting",
+    "page": "seo-placentia"
+  },
+  {
+    "keyword": "local SEO Placentia CA",
+    "kind": "Supporting",
+    "page": "seo-placentia"
+  },
+  {
+    "keyword": "Placentia marketing",
+    "kind": "Supporting",
+    "page": "seo-placentia"
+  },
+  {
+    "keyword": "AI search Placentia",
+    "kind": "Supporting",
+    "page": "seo-placentia"
+  },
+  {
+    "keyword": "San Clemente SEO",
+    "kind": "Main",
+    "page": "seo-san-clemente"
+  },
+  {
+    "keyword": "SEO company San Clemente",
+    "kind": "Supporting",
+    "page": "seo-san-clemente"
+  },
+  {
+    "keyword": "local SEO San Clemente",
+    "kind": "Supporting",
+    "page": "seo-san-clemente"
+  },
+  {
+    "keyword": "San Clemente marketing",
+    "kind": "Supporting",
+    "page": "seo-san-clemente"
+  },
+  {
+    "keyword": "AI search San Clemente",
+    "kind": "Supporting",
+    "page": "seo-san-clemente"
+  },
+  {
+    "keyword": "Tustin SEO",
+    "kind": "Main",
+    "page": "seo-tustin"
+  },
+  {
+    "keyword": "SEO company Tustin",
+    "kind": "Supporting",
+    "page": "seo-tustin"
+  },
+  {
+    "keyword": "local SEO Tustin CA",
+    "kind": "Supporting",
+    "page": "seo-tustin"
+  },
+  {
+    "keyword": "Tustin marketing agency",
+    "kind": "Supporting",
+    "page": "seo-tustin"
+  },
+  {
+    "keyword": "AI search Tustin",
+    "kind": "Supporting",
+    "page": "seo-tustin"
+  },
+  {
+    "keyword": "Westminster SEO",
+    "kind": "Main",
+    "page": "seo-westminster"
+  },
+  {
+    "keyword": "SEO company Westminster CA",
+    "kind": "Supporting",
+    "page": "seo-westminster"
+  },
+  {
+    "keyword": "Little Saigon marketing",
+    "kind": "Supporting",
+    "page": "seo-westminster"
+  },
+  {
+    "keyword": "Vietnamese SEO Orange County",
+    "kind": "Supporting",
+    "page": "seo-westminster"
+  },
+  {
+    "keyword": "local SEO Westminster",
+    "kind": "Supporting",
+    "page": "seo-westminster"
+  },
+  {
+    "keyword": "Yorba Linda SEO",
+    "kind": "Main",
+    "page": "seo-yorba-linda"
+  },
+  {
+    "keyword": "SEO company Yorba Linda",
+    "kind": "Supporting",
+    "page": "seo-yorba-linda"
+  },
+  {
+    "keyword": "local SEO Yorba Linda",
+    "kind": "Supporting",
+    "page": "seo-yorba-linda"
+  },
+  {
+    "keyword": "home-based business SEO",
+    "kind": "Supporting",
+    "page": "seo-yorba-linda"
+  },
+  {
+    "keyword": "Yorba Linda marketing",
+    "kind": "Supporting",
+    "page": "seo-yorba-linda"
+  },
+  {
     "keyword": "back button hijacking",
     "kind": "Main",
     "page": "back-button-hijacking-spam-policy"
@@ -73,56 +573,6 @@
     "keyword": "show store stock on Google",
     "kind": "Supporting",
     "page": "google-local-inventory-ads"
-  },
-  {
-    "keyword": "Google Maps know before you go tips",
-    "kind": "Main",
-    "page": "google-maps-know-before-you-go-restaurants"
-  },
-  {
-    "keyword": "Google Maps restaurant tips",
-    "kind": "Supporting",
-    "page": "google-maps-know-before-you-go-restaurants"
-  },
-  {
-    "keyword": "Google Maps Explore dining lists",
-    "kind": "Supporting",
-    "page": "google-maps-know-before-you-go-restaurants"
-  },
-  {
-    "keyword": "Ask Maps restaurants",
-    "kind": "Supporting",
-    "page": "google-maps-know-before-you-go-restaurants"
-  },
-  {
-    "keyword": "Google Maps trending restaurants",
-    "kind": "Supporting",
-    "page": "google-maps-know-before-you-go-restaurants"
-  },
-  {
-    "keyword": "Merchant Center promotions",
-    "kind": "Main",
-    "page": "google-merchant-center-promotions"
-  },
-  {
-    "keyword": "Google Shopping promotions",
-    "kind": "Supporting",
-    "page": "google-merchant-center-promotions"
-  },
-  {
-    "keyword": "Merchant promotions",
-    "kind": "Supporting",
-    "page": "google-merchant-center-promotions"
-  },
-  {
-    "keyword": "show sale on Google Shopping",
-    "kind": "Supporting",
-    "page": "google-merchant-center-promotions"
-  },
-  {
-    "keyword": "Google promotions feed",
-    "kind": "Supporting",
-    "page": "google-merchant-center-promotions"
   },
   {
     "keyword": "Google product category",
@@ -223,31 +673,6 @@
     "keyword": "local product inventory Google",
     "kind": "Supporting",
     "page": "local-inventory-feed"
-  },
-  {
-    "keyword": "Merchant Center attribute rules",
-    "kind": "Main",
-    "page": "merchant-center-attribute-rules"
-  },
-  {
-    "keyword": "Merchant Center feed rules",
-    "kind": "Supporting",
-    "page": "merchant-center-attribute-rules"
-  },
-  {
-    "keyword": "Google Shopping feed rules",
-    "kind": "Supporting",
-    "page": "merchant-center-attribute-rules"
-  },
-  {
-    "keyword": "transform product data",
-    "kind": "Supporting",
-    "page": "merchant-center-attribute-rules"
-  },
-  {
-    "keyword": "Merchant Center rules",
-    "kind": "Supporting",
-    "page": "merchant-center-attribute-rules"
   },
   {
     "keyword": "Merchant Center product disapprovals",
@@ -825,6 +1250,81 @@
     "page": "seo-for-toy-stores"
   },
   {
+    "keyword": "Google Maps know before you go tips",
+    "kind": "Main",
+    "page": "google-maps-know-before-you-go-restaurants"
+  },
+  {
+    "keyword": "Google Maps restaurant tips",
+    "kind": "Supporting",
+    "page": "google-maps-know-before-you-go-restaurants"
+  },
+  {
+    "keyword": "Google Maps Explore dining lists",
+    "kind": "Supporting",
+    "page": "google-maps-know-before-you-go-restaurants"
+  },
+  {
+    "keyword": "Ask Maps restaurants",
+    "kind": "Supporting",
+    "page": "google-maps-know-before-you-go-restaurants"
+  },
+  {
+    "keyword": "Google Maps trending restaurants",
+    "kind": "Supporting",
+    "page": "google-maps-know-before-you-go-restaurants"
+  },
+  {
+    "keyword": "Merchant Center promotions",
+    "kind": "Main",
+    "page": "google-merchant-center-promotions"
+  },
+  {
+    "keyword": "Google Shopping promotions",
+    "kind": "Supporting",
+    "page": "google-merchant-center-promotions"
+  },
+  {
+    "keyword": "Merchant promotions",
+    "kind": "Supporting",
+    "page": "google-merchant-center-promotions"
+  },
+  {
+    "keyword": "show sale on Google Shopping",
+    "kind": "Supporting",
+    "page": "google-merchant-center-promotions"
+  },
+  {
+    "keyword": "Google promotions feed",
+    "kind": "Supporting",
+    "page": "google-merchant-center-promotions"
+  },
+  {
+    "keyword": "Merchant Center attribute rules",
+    "kind": "Main",
+    "page": "merchant-center-attribute-rules"
+  },
+  {
+    "keyword": "Merchant Center feed rules",
+    "kind": "Supporting",
+    "page": "merchant-center-attribute-rules"
+  },
+  {
+    "keyword": "Google Shopping feed rules",
+    "kind": "Supporting",
+    "page": "merchant-center-attribute-rules"
+  },
+  {
+    "keyword": "transform product data",
+    "kind": "Supporting",
+    "page": "merchant-center-attribute-rules"
+  },
+  {
+    "keyword": "Merchant Center rules",
+    "kind": "Supporting",
+    "page": "merchant-center-attribute-rules"
+  },
+  {
     "keyword": "thrift shopping with Google Lens",
     "kind": "Main",
     "page": "thrift-shopping-google-lens-ai-mode"
@@ -898,31 +1398,6 @@
     "keyword": "Apple Maps wrong location",
     "kind": "Supporting",
     "page": "add-business-to-apple-maps"
-  },
-  {
-    "keyword": "Apple Branded Mail",
-    "kind": "Main",
-    "page": "apple-branded-mail"
-  },
-  {
-    "keyword": "Apple Mail logo",
-    "kind": "Supporting",
-    "page": "apple-branded-mail"
-  },
-  {
-    "keyword": "branded email Apple",
-    "kind": "Supporting",
-    "page": "apple-branded-mail"
-  },
-  {
-    "keyword": "BIMI Apple Mail",
-    "kind": "Supporting",
-    "page": "apple-branded-mail"
-  },
-  {
-    "keyword": "Apple Business email branding",
-    "kind": "Supporting",
-    "page": "apple-branded-mail"
   },
   {
     "keyword": "Apple Business Actions",
@@ -1070,56 +1545,6 @@
     "page": "apple-maps-ads"
   },
   {
-    "keyword": "Apple Maps place card",
-    "kind": "Main",
-    "page": "apple-maps-place-card"
-  },
-  {
-    "keyword": "Apple Maps listing details",
-    "kind": "Supporting",
-    "page": "apple-maps-place-card"
-  },
-  {
-    "keyword": "Apple Maps business name rules",
-    "kind": "Supporting",
-    "page": "apple-maps-place-card"
-  },
-  {
-    "keyword": "Apple Business place card",
-    "kind": "Supporting",
-    "page": "apple-maps-place-card"
-  },
-  {
-    "keyword": "Siri business listing",
-    "kind": "Supporting",
-    "page": "apple-maps-place-card"
-  },
-  {
-    "keyword": "Google Ads channel prioritization",
-    "kind": "Main",
-    "page": "google-ads-channel-prioritization-budget-controls"
-  },
-  {
-    "keyword": "Google Ads budget allocation",
-    "kind": "Supporting",
-    "page": "google-ads-channel-prioritization-budget-controls"
-  },
-  {
-    "keyword": "Search partners control",
-    "kind": "Supporting",
-    "page": "google-ads-channel-prioritization-budget-controls"
-  },
-  {
-    "keyword": "Display Network Search campaigns",
-    "kind": "Supporting",
-    "page": "google-ads-channel-prioritization-budget-controls"
-  },
-  {
-    "keyword": "Google Ads channel controls",
-    "kind": "Supporting",
-    "page": "google-ads-channel-prioritization-budget-controls"
-  },
-  {
     "keyword": "Google Ads data strength",
     "kind": "Main",
     "page": "google-ads-data-strength-demand-gen"
@@ -1143,31 +1568,6 @@
     "keyword": "Google Ads conversion tracking",
     "kind": "Supporting",
     "page": "google-ads-data-strength-demand-gen"
-  },
-  {
-    "keyword": "Google AI Studio cloud credits",
-    "kind": "Main",
-    "page": "google-ai-studio-cloud-credits"
-  },
-  {
-    "keyword": "Google Developer Program credits",
-    "kind": "Supporting",
-    "page": "google-ai-studio-cloud-credits"
-  },
-  {
-    "keyword": "Gemini API credits",
-    "kind": "Supporting",
-    "page": "google-ai-studio-cloud-credits"
-  },
-  {
-    "keyword": "Google AI Pro credits",
-    "kind": "Supporting",
-    "page": "google-ai-studio-cloud-credits"
-  },
-  {
-    "keyword": "AI Studio billing",
-    "kind": "Supporting",
-    "page": "google-ai-studio-cloud-credits"
   },
   {
     "keyword": "set up Apple Business",
@@ -1740,6 +2140,106 @@
     "page": "seo-for-vietnamese-restaurants"
   },
   {
+    "keyword": "Apple Branded Mail",
+    "kind": "Main",
+    "page": "apple-branded-mail"
+  },
+  {
+    "keyword": "Apple Mail logo",
+    "kind": "Supporting",
+    "page": "apple-branded-mail"
+  },
+  {
+    "keyword": "branded email Apple",
+    "kind": "Supporting",
+    "page": "apple-branded-mail"
+  },
+  {
+    "keyword": "BIMI Apple Mail",
+    "kind": "Supporting",
+    "page": "apple-branded-mail"
+  },
+  {
+    "keyword": "Apple Business email branding",
+    "kind": "Supporting",
+    "page": "apple-branded-mail"
+  },
+  {
+    "keyword": "Apple Maps place card",
+    "kind": "Main",
+    "page": "apple-maps-place-card"
+  },
+  {
+    "keyword": "Apple Maps listing details",
+    "kind": "Supporting",
+    "page": "apple-maps-place-card"
+  },
+  {
+    "keyword": "Apple Maps business name rules",
+    "kind": "Supporting",
+    "page": "apple-maps-place-card"
+  },
+  {
+    "keyword": "Apple Business place card",
+    "kind": "Supporting",
+    "page": "apple-maps-place-card"
+  },
+  {
+    "keyword": "Siri business listing",
+    "kind": "Supporting",
+    "page": "apple-maps-place-card"
+  },
+  {
+    "keyword": "Google Ads channel prioritization",
+    "kind": "Main",
+    "page": "google-ads-channel-prioritization-budget-controls"
+  },
+  {
+    "keyword": "Google Ads budget allocation",
+    "kind": "Supporting",
+    "page": "google-ads-channel-prioritization-budget-controls"
+  },
+  {
+    "keyword": "Search partners control",
+    "kind": "Supporting",
+    "page": "google-ads-channel-prioritization-budget-controls"
+  },
+  {
+    "keyword": "Display Network Search campaigns",
+    "kind": "Supporting",
+    "page": "google-ads-channel-prioritization-budget-controls"
+  },
+  {
+    "keyword": "Google Ads channel controls",
+    "kind": "Supporting",
+    "page": "google-ads-channel-prioritization-budget-controls"
+  },
+  {
+    "keyword": "Google AI Studio cloud credits",
+    "kind": "Main",
+    "page": "google-ai-studio-cloud-credits"
+  },
+  {
+    "keyword": "Google Developer Program credits",
+    "kind": "Supporting",
+    "page": "google-ai-studio-cloud-credits"
+  },
+  {
+    "keyword": "Gemini API credits",
+    "kind": "Supporting",
+    "page": "google-ai-studio-cloud-credits"
+  },
+  {
+    "keyword": "Google AI Pro credits",
+    "kind": "Supporting",
+    "page": "google-ai-studio-cloud-credits"
+  },
+  {
+    "keyword": "AI Studio billing",
+    "kind": "Supporting",
+    "page": "google-ai-studio-cloud-credits"
+  },
+  {
     "keyword": "Gemini 4 Hydrogen",
     "kind": "Main",
     "page": "gemini-4-hydrogen-small-business"
@@ -1960,81 +2460,6 @@
     "page": "google-analytics-utm-parameters"
   },
   {
-    "keyword": "Google Maps dining trends",
-    "kind": "Main",
-    "page": "google-maps-dining-trends-restaurants"
-  },
-  {
-    "keyword": "Google Maps food trends",
-    "kind": "Supporting",
-    "page": "google-maps-dining-trends-restaurants"
-  },
-  {
-    "keyword": "matcha trend",
-    "kind": "Supporting",
-    "page": "google-maps-dining-trends-restaurants"
-  },
-  {
-    "keyword": "restaurant reviews Google Maps",
-    "kind": "Supporting",
-    "page": "google-maps-dining-trends-restaurants"
-  },
-  {
-    "keyword": "Fan-Favorite Dining List",
-    "kind": "Supporting",
-    "page": "google-maps-dining-trends-restaurants"
-  },
-  {
-    "keyword": "Google Wallet in Gemini",
-    "kind": "Main",
-    "page": "google-wallet-gemini-subscriptions-local-business"
-  },
-  {
-    "keyword": "Gemini personal finance",
-    "kind": "Supporting",
-    "page": "google-wallet-gemini-subscriptions-local-business"
-  },
-  {
-    "keyword": "Google Wallet Gemini subscriptions",
-    "kind": "Supporting",
-    "page": "google-wallet-gemini-subscriptions-local-business"
-  },
-  {
-    "keyword": "membership retention",
-    "kind": "Supporting",
-    "page": "google-wallet-gemini-subscriptions-local-business"
-  },
-  {
-    "keyword": "Gemini Personal Intelligence",
-    "kind": "Supporting",
-    "page": "google-wallet-gemini-subscriptions-local-business"
-  },
-  {
-    "keyword": "Google's When to Buy Guide",
-    "kind": "Main",
-    "page": "google-when-to-buy-holiday-retailers"
-  },
-  {
-    "keyword": "holiday discount timing",
-    "kind": "Supporting",
-    "page": "google-when-to-buy-holiday-retailers"
-  },
-  {
-    "keyword": "when to buy holiday gifts",
-    "kind": "Supporting",
-    "page": "google-when-to-buy-holiday-retailers"
-  },
-  {
-    "keyword": "holiday retail promotions",
-    "kind": "Supporting",
-    "page": "google-when-to-buy-holiday-retailers"
-  },
-  {
-    "keyword": "Black Friday deals timing",
-    "kind": "Supporting",
-    "page": "google-when-to-buy-holiday-retailers"
-  },
-  {
     "keyword": "set up Google Analytics 4",
     "kind": "Main",
     "page": "how-to-set-up-google-analytics-4"
@@ -2083,31 +2508,6 @@
     "keyword": "GA4 Google Ads integration",
     "kind": "Supporting",
     "page": "link-google-ads-to-google-analytics"
-  },
-  {
-    "keyword": "Search Console platform properties",
-    "kind": "Main",
-    "page": "search-console-platform-properties-social"
-  },
-  {
-    "keyword": "Search Console Instagram",
-    "kind": "Supporting",
-    "page": "search-console-platform-properties-social"
-  },
-  {
-    "keyword": "Search Console TikTok",
-    "kind": "Supporting",
-    "page": "search-console-platform-properties-social"
-  },
-  {
-    "keyword": "Search Console YouTube",
-    "kind": "Supporting",
-    "page": "search-console-platform-properties-social"
-  },
-  {
-    "keyword": "social media in Google Search",
-    "kind": "Supporting",
-    "page": "search-console-platform-properties-social"
   },
   {
     "keyword": "SEO for bubble tea shops",
@@ -2610,6 +3010,106 @@
     "page": "seo-for-transmission-shops"
   },
   {
+    "keyword": "Google Maps dining trends",
+    "kind": "Main",
+    "page": "google-maps-dining-trends-restaurants"
+  },
+  {
+    "keyword": "Google Maps food trends",
+    "kind": "Supporting",
+    "page": "google-maps-dining-trends-restaurants"
+  },
+  {
+    "keyword": "matcha trend",
+    "kind": "Supporting",
+    "page": "google-maps-dining-trends-restaurants"
+  },
+  {
+    "keyword": "restaurant reviews Google Maps",
+    "kind": "Supporting",
+    "page": "google-maps-dining-trends-restaurants"
+  },
+  {
+    "keyword": "Fan-Favorite Dining List",
+    "kind": "Supporting",
+    "page": "google-maps-dining-trends-restaurants"
+  },
+  {
+    "keyword": "Google Wallet in Gemini",
+    "kind": "Main",
+    "page": "google-wallet-gemini-subscriptions-local-business"
+  },
+  {
+    "keyword": "Gemini personal finance",
+    "kind": "Supporting",
+    "page": "google-wallet-gemini-subscriptions-local-business"
+  },
+  {
+    "keyword": "Google Wallet Gemini subscriptions",
+    "kind": "Supporting",
+    "page": "google-wallet-gemini-subscriptions-local-business"
+  },
+  {
+    "keyword": "membership retention",
+    "kind": "Supporting",
+    "page": "google-wallet-gemini-subscriptions-local-business"
+  },
+  {
+    "keyword": "Gemini Personal Intelligence",
+    "kind": "Supporting",
+    "page": "google-wallet-gemini-subscriptions-local-business"
+  },
+  {
+    "keyword": "Google's When to Buy Guide",
+    "kind": "Main",
+    "page": "google-when-to-buy-holiday-retailers"
+  },
+  {
+    "keyword": "holiday discount timing",
+    "kind": "Supporting",
+    "page": "google-when-to-buy-holiday-retailers"
+  },
+  {
+    "keyword": "when to buy holiday gifts",
+    "kind": "Supporting",
+    "page": "google-when-to-buy-holiday-retailers"
+  },
+  {
+    "keyword": "holiday retail promotions",
+    "kind": "Supporting",
+    "page": "google-when-to-buy-holiday-retailers"
+  },
+  {
+    "keyword": "Black Friday deals timing",
+    "kind": "Supporting",
+    "page": "google-when-to-buy-holiday-retailers"
+  },
+  {
+    "keyword": "Search Console platform properties",
+    "kind": "Main",
+    "page": "search-console-platform-properties-social"
+  },
+  {
+    "keyword": "Search Console Instagram",
+    "kind": "Supporting",
+    "page": "search-console-platform-properties-social"
+  },
+  {
+    "keyword": "Search Console TikTok",
+    "kind": "Supporting",
+    "page": "search-console-platform-properties-social"
+  },
+  {
+    "keyword": "Search Console YouTube",
+    "kind": "Supporting",
+    "page": "search-console-platform-properties-social"
+  },
+  {
+    "keyword": "social media in Google Search",
+    "kind": "Supporting",
+    "page": "search-console-platform-properties-social"
+  },
+  {
     "keyword": "ads in AI Mode",
     "kind": "Main",
     "page": "ads-in-ai-mode-local-business"
@@ -2633,56 +3133,6 @@
     "keyword": "ads in AI Overviews",
     "kind": "Supporting",
     "page": "ads-in-ai-mode-local-business"
-  },
-  {
-    "keyword": "Ask Maps food ordering",
-    "kind": "Main",
-    "page": "ask-maps-food-ordering-restaurants"
-  },
-  {
-    "keyword": "Ask Maps",
-    "kind": "Supporting",
-    "page": "ask-maps-food-ordering-restaurants"
-  },
-  {
-    "keyword": "Google Maps AI ordering",
-    "kind": "Supporting",
-    "page": "ask-maps-food-ordering-restaurants"
-  },
-  {
-    "keyword": "Google Maps Square Toast ordering",
-    "kind": "Supporting",
-    "page": "ask-maps-food-ordering-restaurants"
-  },
-  {
-    "keyword": "restaurant Google Maps AI",
-    "kind": "Supporting",
-    "page": "ask-maps-food-ordering-restaurants"
-  },
-  {
-    "keyword": "Gemini in Chrome",
-    "kind": "Main",
-    "page": "gemini-in-chrome-website-answers"
-  },
-  {
-    "keyword": "Gemini Chrome side panel",
-    "kind": "Supporting",
-    "page": "gemini-in-chrome-website-answers"
-  },
-  {
-    "keyword": "Chrome AI summary",
-    "kind": "Supporting",
-    "page": "gemini-in-chrome-website-answers"
-  },
-  {
-    "keyword": "Gemini compare websites",
-    "kind": "Supporting",
-    "page": "gemini-in-chrome-website-answers"
-  },
-  {
-    "keyword": "AI browser assistant",
-    "kind": "Supporting",
-    "page": "gemini-in-chrome-website-answers"
   },
   {
     "keyword": "Financial Services Verification",
@@ -2810,31 +3260,6 @@
     "page": "google-search-console-page-indexing-report"
   },
   {
-    "keyword": "Search Console Performance report",
-    "kind": "Main",
-    "page": "google-search-console-performance-report"
-  },
-  {
-    "keyword": "Search Console clicks and impressions",
-    "kind": "Supporting",
-    "page": "google-search-console-performance-report"
-  },
-  {
-    "keyword": "Search Console queries",
-    "kind": "Supporting",
-    "page": "google-search-console-performance-report"
-  },
-  {
-    "keyword": "average position Search Console",
-    "kind": "Supporting",
-    "page": "google-search-console-performance-report"
-  },
-  {
-    "keyword": "Search Console CTR",
-    "kind": "Supporting",
-    "page": "google-search-console-performance-report"
-  },
-  {
     "keyword": "Search Console Removals tool",
     "kind": "Main",
     "page": "google-search-console-removals-tool"
@@ -2933,31 +3358,6 @@
     "keyword": "is my page on Google",
     "kind": "Supporting",
     "page": "google-search-console-url-inspection"
-  },
-  {
-    "keyword": "Search Console users and permissions",
-    "kind": "Main",
-    "page": "google-search-console-users-and-permissions"
-  },
-  {
-    "keyword": "add user Search Console",
-    "kind": "Supporting",
-    "page": "google-search-console-users-and-permissions"
-  },
-  {
-    "keyword": "Search Console owner access",
-    "kind": "Supporting",
-    "page": "google-search-console-users-and-permissions"
-  },
-  {
-    "keyword": "transfer Search Console ownership",
-    "kind": "Supporting",
-    "page": "google-search-console-users-and-permissions"
-  },
-  {
-    "keyword": "Search Console permissions",
-    "kind": "Supporting",
-    "page": "google-search-console-users-and-permissions"
   },
   {
     "keyword": "set up Google Search Console",
@@ -3260,31 +3660,6 @@
     "page": "seo-for-music-schools"
   },
   {
-    "keyword": "SEO for personal trainers",
-    "kind": "Main",
-    "page": "seo-for-personal-trainers"
-  },
-  {
-    "keyword": "personal trainer marketing",
-    "kind": "Supporting",
-    "page": "seo-for-personal-trainers"
-  },
-  {
-    "keyword": "fitness coach SEO",
-    "kind": "Supporting",
-    "page": "seo-for-personal-trainers"
-  },
-  {
-    "keyword": "personal training leads",
-    "kind": "Supporting",
-    "page": "seo-for-personal-trainers"
-  },
-  {
-    "keyword": "personal trainer Orange County",
-    "kind": "Supporting",
-    "page": "seo-for-personal-trainers"
-  },
-  {
     "keyword": "SEO for pet boarding",
     "kind": "Main",
     "page": "seo-for-pet-boarding"
@@ -3483,6 +3858,131 @@
     "keyword": "window tinting Orange County",
     "kind": "Supporting",
     "page": "seo-for-window-tinting"
+  },
+  {
+    "keyword": "Ask Maps food ordering",
+    "kind": "Main",
+    "page": "ask-maps-food-ordering-restaurants"
+  },
+  {
+    "keyword": "Ask Maps",
+    "kind": "Supporting",
+    "page": "ask-maps-food-ordering-restaurants"
+  },
+  {
+    "keyword": "Google Maps AI ordering",
+    "kind": "Supporting",
+    "page": "ask-maps-food-ordering-restaurants"
+  },
+  {
+    "keyword": "Google Maps Square Toast ordering",
+    "kind": "Supporting",
+    "page": "ask-maps-food-ordering-restaurants"
+  },
+  {
+    "keyword": "restaurant Google Maps AI",
+    "kind": "Supporting",
+    "page": "ask-maps-food-ordering-restaurants"
+  },
+  {
+    "keyword": "Gemini in Chrome",
+    "kind": "Main",
+    "page": "gemini-in-chrome-website-answers"
+  },
+  {
+    "keyword": "Gemini Chrome side panel",
+    "kind": "Supporting",
+    "page": "gemini-in-chrome-website-answers"
+  },
+  {
+    "keyword": "Chrome AI summary",
+    "kind": "Supporting",
+    "page": "gemini-in-chrome-website-answers"
+  },
+  {
+    "keyword": "Gemini compare websites",
+    "kind": "Supporting",
+    "page": "gemini-in-chrome-website-answers"
+  },
+  {
+    "keyword": "AI browser assistant",
+    "kind": "Supporting",
+    "page": "gemini-in-chrome-website-answers"
+  },
+  {
+    "keyword": "Search Console Performance report",
+    "kind": "Main",
+    "page": "google-search-console-performance-report"
+  },
+  {
+    "keyword": "Search Console clicks and impressions",
+    "kind": "Supporting",
+    "page": "google-search-console-performance-report"
+  },
+  {
+    "keyword": "Search Console queries",
+    "kind": "Supporting",
+    "page": "google-search-console-performance-report"
+  },
+  {
+    "keyword": "average position Search Console",
+    "kind": "Supporting",
+    "page": "google-search-console-performance-report"
+  },
+  {
+    "keyword": "Search Console CTR",
+    "kind": "Supporting",
+    "page": "google-search-console-performance-report"
+  },
+  {
+    "keyword": "Search Console users and permissions",
+    "kind": "Main",
+    "page": "google-search-console-users-and-permissions"
+  },
+  {
+    "keyword": "add user Search Console",
+    "kind": "Supporting",
+    "page": "google-search-console-users-and-permissions"
+  },
+  {
+    "keyword": "Search Console owner access",
+    "kind": "Supporting",
+    "page": "google-search-console-users-and-permissions"
+  },
+  {
+    "keyword": "transfer Search Console ownership",
+    "kind": "Supporting",
+    "page": "google-search-console-users-and-permissions"
+  },
+  {
+    "keyword": "Search Console permissions",
+    "kind": "Supporting",
+    "page": "google-search-console-users-and-permissions"
+  },
+  {
+    "keyword": "SEO for personal trainers",
+    "kind": "Main",
+    "page": "seo-for-personal-trainers"
+  },
+  {
+    "keyword": "personal trainer marketing",
+    "kind": "Supporting",
+    "page": "seo-for-personal-trainers"
+  },
+  {
+    "keyword": "fitness coach SEO",
+    "kind": "Supporting",
+    "page": "seo-for-personal-trainers"
+  },
+  {
+    "keyword": "personal training leads",
+    "kind": "Supporting",
+    "page": "seo-for-personal-trainers"
+  },
+  {
+    "keyword": "personal trainer Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-personal-trainers"
   },
   {
     "keyword": "Gemini 4 Hydrogen Search",
@@ -3705,31 +4205,6 @@
     "page": "google-business-profile-owners-and-managers"
   },
   {
-    "keyword": "Google Business Profile performance",
-    "kind": "Main",
-    "page": "google-business-profile-performance"
-  },
-  {
-    "keyword": "Google Business Profile insights",
-    "kind": "Supporting",
-    "page": "google-business-profile-performance"
-  },
-  {
-    "keyword": "GBP performance report",
-    "kind": "Supporting",
-    "page": "google-business-profile-performance"
-  },
-  {
-    "keyword": "Google Maps insights",
-    "kind": "Supporting",
-    "page": "google-business-profile-performance"
-  },
-  {
-    "keyword": "Google Business Profile metrics",
-    "kind": "Supporting",
-    "page": "google-business-profile-performance"
-  },
-  {
     "keyword": "Google Business Profile services",
     "kind": "Main",
     "page": "google-business-profile-services"
@@ -3753,31 +4228,6 @@
     "keyword": "Google Business Profile service categories",
     "kind": "Supporting",
     "page": "google-business-profile-services"
-  },
-  {
-    "keyword": "claim your Google Business Profile",
-    "kind": "Main",
-    "page": "how-to-claim-google-business-profile"
-  },
-  {
-    "keyword": "claim Google listing",
-    "kind": "Supporting",
-    "page": "how-to-claim-google-business-profile"
-  },
-  {
-    "keyword": "claim business on Google Maps",
-    "kind": "Supporting",
-    "page": "how-to-claim-google-business-profile"
-  },
-  {
-    "keyword": "Google Business Profile ownership",
-    "kind": "Supporting",
-    "page": "how-to-claim-google-business-profile"
-  },
-  {
-    "keyword": "claim Google My Business",
-    "kind": "Supporting",
-    "page": "how-to-claim-google-business-profile"
   },
   {
     "keyword": "create a Google Business Profile",
@@ -4355,6 +4805,56 @@
     "page": "seo-for-divorce-lawyers"
   },
   {
+    "keyword": "Google Business Profile performance",
+    "kind": "Main",
+    "page": "google-business-profile-performance"
+  },
+  {
+    "keyword": "Google Business Profile insights",
+    "kind": "Supporting",
+    "page": "google-business-profile-performance"
+  },
+  {
+    "keyword": "GBP performance report",
+    "kind": "Supporting",
+    "page": "google-business-profile-performance"
+  },
+  {
+    "keyword": "Google Maps insights",
+    "kind": "Supporting",
+    "page": "google-business-profile-performance"
+  },
+  {
+    "keyword": "Google Business Profile metrics",
+    "kind": "Supporting",
+    "page": "google-business-profile-performance"
+  },
+  {
+    "keyword": "claim your Google Business Profile",
+    "kind": "Main",
+    "page": "how-to-claim-google-business-profile"
+  },
+  {
+    "keyword": "claim Google listing",
+    "kind": "Supporting",
+    "page": "how-to-claim-google-business-profile"
+  },
+  {
+    "keyword": "claim business on Google Maps",
+    "kind": "Supporting",
+    "page": "how-to-claim-google-business-profile"
+  },
+  {
+    "keyword": "Google Business Profile ownership",
+    "kind": "Supporting",
+    "page": "how-to-claim-google-business-profile"
+  },
+  {
+    "keyword": "claim Google My Business",
+    "kind": "Supporting",
+    "page": "how-to-claim-google-business-profile"
+  },
+  {
     "keyword": "Businesses in ChatGPT",
     "kind": "Main",
     "page": "businesses-in-chatgpt-claim-your-business"
@@ -4653,31 +5153,6 @@
     "keyword": "technical SEO fundamentals",
     "kind": "Supporting",
     "page": "google-seo-learning-paths-small-business"
-  },
-  {
-    "keyword": "remove fake Google reviews",
-    "kind": "Main",
-    "page": "how-to-remove-fake-google-reviews"
-  },
-  {
-    "keyword": "report fake Google reviews",
-    "kind": "Supporting",
-    "page": "how-to-remove-fake-google-reviews"
-  },
-  {
-    "keyword": "delete Google review",
-    "kind": "Supporting",
-    "page": "how-to-remove-fake-google-reviews"
-  },
-  {
-    "keyword": "remove negative Google review",
-    "kind": "Supporting",
-    "page": "how-to-remove-fake-google-reviews"
-  },
-  {
-    "keyword": "Google review removal",
-    "kind": "Supporting",
-    "page": "how-to-remove-fake-google-reviews"
   },
   {
     "keyword": "generative AI performance report",
@@ -5200,31 +5675,6 @@
     "page": "seo-for-criminal-defense-lawyers"
   },
   {
-    "keyword": "SEO for estate planning attorneys",
-    "kind": "Main",
-    "page": "seo-for-estate-planning-attorneys"
-  },
-  {
-    "keyword": "estate planning marketing",
-    "kind": "Supporting",
-    "page": "seo-for-estate-planning-attorneys"
-  },
-  {
-    "keyword": "estate planning law firm SEO",
-    "kind": "Supporting",
-    "page": "seo-for-estate-planning-attorneys"
-  },
-  {
-    "keyword": "trust attorney marketing",
-    "kind": "Supporting",
-    "page": "seo-for-estate-planning-attorneys"
-  },
-  {
-    "keyword": "estate planning SEO Orange County",
-    "kind": "Supporting",
-    "page": "seo-for-estate-planning-attorneys"
-  },
-  {
     "keyword": "SEO for immigration lawyers",
     "kind": "Main",
     "page": "seo-for-immigration-lawyers"
@@ -5250,29 +5700,64 @@
     "page": "seo-for-immigration-lawyers"
   },
   {
-    "keyword": "AI search plan",
+    "keyword": "remove fake Google reviews",
     "kind": "Main",
-    "page": "30-day-ai-search-plan-orange-county"
+    "page": "how-to-remove-fake-google-reviews"
   },
   {
-    "keyword": "AI search for small business",
+    "keyword": "report fake Google reviews",
     "kind": "Supporting",
-    "page": "30-day-ai-search-plan-orange-county"
+    "page": "how-to-remove-fake-google-reviews"
   },
   {
-    "keyword": "Orange County small business marketing",
+    "keyword": "delete Google review",
     "kind": "Supporting",
-    "page": "30-day-ai-search-plan-orange-county"
+    "page": "how-to-remove-fake-google-reviews"
   },
   {
-    "keyword": "Anaheim SEO",
+    "keyword": "remove negative Google review",
     "kind": "Supporting",
-    "page": "30-day-ai-search-plan-orange-county"
+    "page": "how-to-remove-fake-google-reviews"
   },
   {
-    "keyword": "GEO plan",
+    "keyword": "Google review removal",
     "kind": "Supporting",
-    "page": "30-day-ai-search-plan-orange-county"
+    "page": "how-to-remove-fake-google-reviews"
+  },
+  {
+    "keyword": "SEO for estate planning attorneys",
+    "kind": "Main",
+    "page": "seo-for-estate-planning-attorneys"
+  },
+  {
+    "keyword": "estate planning marketing",
+    "kind": "Supporting",
+    "page": "seo-for-estate-planning-attorneys"
+  },
+  {
+    "keyword": "estate planning law firm SEO",
+    "kind": "Supporting",
+    "page": "seo-for-estate-planning-attorneys"
+  },
+  {
+    "keyword": "trust attorney marketing",
+    "kind": "Supporting",
+    "page": "seo-for-estate-planning-attorneys"
+  },
+  {
+    "keyword": "estate planning SEO Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-estate-planning-attorneys"
+  },
+  {
+    "keyword": "estate planning attorney seo company",
+    "kind": "Supporting",
+    "page": "seo-for-estate-planning-attorneys"
+  },
+  {
+    "keyword": "trust and probate attorney seo",
+    "kind": "Supporting",
+    "page": "seo-for-estate-planning-attorneys"
   },
   {
     "keyword": "AI SEO for small business",
@@ -5281,6 +5766,11 @@
   },
   {
     "keyword": "AI SEO small business",
+    "kind": "Supporting",
+    "page": "ai-seo-for-small-business"
+  },
+  {
+    "keyword": "AI search for small business",
     "kind": "Supporting",
     "page": "ai-seo-for-small-business"
   },
@@ -5318,31 +5808,6 @@
     "keyword": "Gemini local business",
     "kind": "Supporting",
     "page": "gemini-task-automation-bookings-anaheim"
-  },
-  {
-    "keyword": "GEO for travel websites",
-    "kind": "Main",
-    "page": "geo-for-travel-websites"
-  },
-  {
-    "keyword": "AI SEO for travel",
-    "kind": "Supporting",
-    "page": "geo-for-travel-websites"
-  },
-  {
-    "keyword": "travel website GEO",
-    "kind": "Supporting",
-    "page": "geo-for-travel-websites"
-  },
-  {
-    "keyword": "travel agency SEO",
-    "kind": "Supporting",
-    "page": "geo-for-travel-websites"
-  },
-  {
-    "keyword": "Anaheim travel marketing",
-    "kind": "Supporting",
-    "page": "geo-for-travel-websites"
   },
   {
     "keyword": "AI Mode hotel booking",
@@ -5668,31 +6133,6 @@
     "keyword": "local service pages",
     "kind": "Supporting",
     "page": "local-landing-pages"
-  },
-  {
-    "keyword": "local SEO checklist",
-    "kind": "Main",
-    "page": "local-seo-checklist"
-  },
-  {
-    "keyword": "local SEO steps",
-    "kind": "Supporting",
-    "page": "local-seo-checklist"
-  },
-  {
-    "keyword": "local SEO tasks",
-    "kind": "Supporting",
-    "page": "local-seo-checklist"
-  },
-  {
-    "keyword": "local SEO audit checklist",
-    "kind": "Supporting",
-    "page": "local-seo-checklist"
-  },
-  {
-    "keyword": "Google Maps checklist",
-    "kind": "Supporting",
-    "page": "local-seo-checklist"
   },
   {
     "keyword": "local SEO keywords",
@@ -6065,31 +6505,6 @@
     "page": "seo-for-daycare-centers"
   },
   {
-    "keyword": "SEO for dentists",
-    "kind": "Main",
-    "page": "seo-for-dentists-orange-county"
-  },
-  {
-    "keyword": "dental SEO",
-    "kind": "Supporting",
-    "page": "seo-for-dentists-orange-county"
-  },
-  {
-    "keyword": "dentist marketing",
-    "kind": "Supporting",
-    "page": "seo-for-dentists-orange-county"
-  },
-  {
-    "keyword": "local SEO for dentists",
-    "kind": "Supporting",
-    "page": "seo-for-dentists-orange-county"
-  },
-  {
-    "keyword": "dental marketing Orange County",
-    "kind": "Supporting",
-    "page": "seo-for-dentists-orange-county"
-  },
-  {
     "keyword": "SEO for dermatologists",
     "kind": "Main",
     "page": "seo-for-dermatologists"
@@ -6113,31 +6528,6 @@
     "keyword": "dermatology marketing Orange County",
     "kind": "Supporting",
     "page": "seo-for-dermatologists"
-  },
-  {
-    "keyword": "SEO for doctors",
-    "kind": "Main",
-    "page": "seo-for-doctors"
-  },
-  {
-    "keyword": "medical practice SEO",
-    "kind": "Supporting",
-    "page": "seo-for-doctors"
-  },
-  {
-    "keyword": "physician marketing",
-    "kind": "Supporting",
-    "page": "seo-for-doctors"
-  },
-  {
-    "keyword": "healthcare SEO",
-    "kind": "Supporting",
-    "page": "seo-for-doctors"
-  },
-  {
-    "keyword": "medical marketing Orange County",
-    "kind": "Supporting",
-    "page": "seo-for-doctors"
   },
   {
     "keyword": "SEO for dog groomers",
@@ -6263,31 +6653,6 @@
     "keyword": "garage door repair marketing Orange County",
     "kind": "Supporting",
     "page": "seo-for-garage-door-companies"
-  },
-  {
-    "keyword": "SEO for gyms",
-    "kind": "Main",
-    "page": "seo-for-gyms"
-  },
-  {
-    "keyword": "gym SEO",
-    "kind": "Supporting",
-    "page": "seo-for-gyms"
-  },
-  {
-    "keyword": "fitness studio SEO",
-    "kind": "Supporting",
-    "page": "seo-for-gyms"
-  },
-  {
-    "keyword": "gym marketing",
-    "kind": "Supporting",
-    "page": "seo-for-gyms"
-  },
-  {
-    "keyword": "fitness marketing Orange County",
-    "kind": "Supporting",
-    "page": "seo-for-gyms"
   },
   {
     "keyword": "SEO for handyman services",
@@ -7045,6 +7410,11 @@
     "page": "seo-for-travel-agencies"
   },
   {
+    "keyword": "travel agency SEO",
+    "kind": "Supporting",
+    "page": "seo-for-travel-agencies"
+  },
+  {
     "keyword": "travel agent marketing",
     "kind": "Supporting",
     "page": "seo-for-travel-agencies"
@@ -7133,31 +7503,6 @@
     "keyword": "window cleaning marketing Orange County",
     "kind": "Supporting",
     "page": "seo-for-window-cleaning"
-  },
-  {
-    "keyword": "Fullerton SEO",
-    "kind": "Main",
-    "page": "seo-fullerton"
-  },
-  {
-    "keyword": "SEO company Fullerton",
-    "kind": "Supporting",
-    "page": "seo-fullerton"
-  },
-  {
-    "keyword": "Fullerton SEO agency",
-    "kind": "Supporting",
-    "page": "seo-fullerton"
-  },
-  {
-    "keyword": "local SEO Fullerton",
-    "kind": "Supporting",
-    "page": "seo-fullerton"
-  },
-  {
-    "keyword": "SEO services Fullerton CA",
-    "kind": "Supporting",
-    "page": "seo-fullerton"
   },
   {
     "keyword": "Irvine SEO",
@@ -7278,71 +7623,6 @@
     "keyword": "citation cleanup",
     "kind": "Supporting",
     "page": "nap-consistency-local-citations"
-  },
-  {
-    "keyword": "near me searches",
-    "kind": "Main",
-    "page": "near-me-searches"
-  },
-  {
-    "keyword": "near me SEO",
-    "kind": "Supporting",
-    "page": "near-me-searches"
-  },
-  {
-    "keyword": "rank for near me",
-    "kind": "Supporting",
-    "page": "near-me-searches"
-  },
-  {
-    "keyword": "near me searches Google",
-    "kind": "Supporting",
-    "page": "near-me-searches"
-  },
-  {
-    "keyword": "open near me",
-    "kind": "Supporting",
-    "page": "near-me-searches"
-  },
-  {
-    "keyword": "SEO company Anaheim",
-    "kind": "Main",
-    "page": "seo-company-anaheim"
-  },
-  {
-    "keyword": "SEO agency Anaheim",
-    "kind": "Supporting",
-    "page": "seo-company-anaheim"
-  },
-  {
-    "keyword": "Anaheim SEO services",
-    "kind": "Supporting",
-    "page": "seo-company-anaheim"
-  },
-  {
-    "keyword": "local SEO Anaheim",
-    "kind": "Supporting",
-    "page": "seo-company-anaheim"
-  },
-  {
-    "keyword": "AI SEO Anaheim",
-    "kind": "Supporting",
-    "page": "seo-company-anaheim"
-  },
-  {
-    "keyword": "seo anaheim",
-    "kind": "Supporting",
-    "page": "seo-company-anaheim"
-  },
-  {
-    "keyword": "anaheim seo expert",
-    "kind": "Supporting",
-    "page": "seo-company-anaheim"
-  },
-  {
-    "keyword": "seo company in anaheim",
-    "kind": "Supporting",
-    "page": "seo-company-anaheim"
   },
   {
     "keyword": "SEO company Orange County",
@@ -7530,6 +7810,286 @@
     "page": "seo-for-restaurants-orange-county"
   },
   {
+    "keyword": "AI search plan",
+    "kind": "Main",
+    "page": "30-day-ai-search-plan-orange-county"
+  },
+  {
+    "keyword": "Orange County small business marketing",
+    "kind": "Supporting",
+    "page": "30-day-ai-search-plan-orange-county"
+  },
+  {
+    "keyword": "Anaheim SEO",
+    "kind": "Supporting",
+    "page": "30-day-ai-search-plan-orange-county"
+  },
+  {
+    "keyword": "GEO plan",
+    "kind": "Supporting",
+    "page": "30-day-ai-search-plan-orange-county"
+  },
+  {
+    "keyword": "GEO for travel websites",
+    "kind": "Main",
+    "page": "geo-for-travel-websites"
+  },
+  {
+    "keyword": "AI SEO for travel",
+    "kind": "Supporting",
+    "page": "geo-for-travel-websites"
+  },
+  {
+    "keyword": "travel website GEO",
+    "kind": "Supporting",
+    "page": "geo-for-travel-websites"
+  },
+  {
+    "keyword": "Anaheim travel marketing",
+    "kind": "Supporting",
+    "page": "geo-for-travel-websites"
+  },
+  {
+    "keyword": "local SEO checklist",
+    "kind": "Main",
+    "page": "local-seo-checklist"
+  },
+  {
+    "keyword": "local SEO steps",
+    "kind": "Supporting",
+    "page": "local-seo-checklist"
+  },
+  {
+    "keyword": "local SEO tasks",
+    "kind": "Supporting",
+    "page": "local-seo-checklist"
+  },
+  {
+    "keyword": "local SEO audit checklist",
+    "kind": "Supporting",
+    "page": "local-seo-checklist"
+  },
+  {
+    "keyword": "Google Maps checklist",
+    "kind": "Supporting",
+    "page": "local-seo-checklist"
+  },
+  {
+    "keyword": "near me searches",
+    "kind": "Main",
+    "page": "near-me-searches"
+  },
+  {
+    "keyword": "near me SEO",
+    "kind": "Supporting",
+    "page": "near-me-searches"
+  },
+  {
+    "keyword": "rank for near me",
+    "kind": "Supporting",
+    "page": "near-me-searches"
+  },
+  {
+    "keyword": "near me searches Google",
+    "kind": "Supporting",
+    "page": "near-me-searches"
+  },
+  {
+    "keyword": "open near me",
+    "kind": "Supporting",
+    "page": "near-me-searches"
+  },
+  {
+    "keyword": "SEO company Anaheim",
+    "kind": "Main",
+    "page": "seo-company-anaheim"
+  },
+  {
+    "keyword": "SEO agency Anaheim",
+    "kind": "Supporting",
+    "page": "seo-company-anaheim"
+  },
+  {
+    "keyword": "Anaheim SEO services",
+    "kind": "Supporting",
+    "page": "seo-company-anaheim"
+  },
+  {
+    "keyword": "local SEO Anaheim",
+    "kind": "Supporting",
+    "page": "seo-company-anaheim"
+  },
+  {
+    "keyword": "AI SEO Anaheim",
+    "kind": "Supporting",
+    "page": "seo-company-anaheim"
+  },
+  {
+    "keyword": "seo anaheim",
+    "kind": "Supporting",
+    "page": "seo-company-anaheim"
+  },
+  {
+    "keyword": "anaheim seo expert",
+    "kind": "Supporting",
+    "page": "seo-company-anaheim"
+  },
+  {
+    "keyword": "seo company in anaheim",
+    "kind": "Supporting",
+    "page": "seo-company-anaheim"
+  },
+  {
+    "keyword": "anaheim seo company",
+    "kind": "Supporting",
+    "page": "seo-company-anaheim"
+  },
+  {
+    "keyword": "anaheim seo agency",
+    "kind": "Supporting",
+    "page": "seo-company-anaheim"
+  },
+  {
+    "keyword": "seo anaheim ca",
+    "kind": "Supporting",
+    "page": "seo-company-anaheim"
+  },
+  {
+    "keyword": "anaheim search engine optimization",
+    "kind": "Supporting",
+    "page": "seo-company-anaheim"
+  },
+  {
+    "keyword": "SEO for dentists",
+    "kind": "Main",
+    "page": "seo-for-dentists-orange-county"
+  },
+  {
+    "keyword": "dental SEO",
+    "kind": "Supporting",
+    "page": "seo-for-dentists-orange-county"
+  },
+  {
+    "keyword": "dentist marketing",
+    "kind": "Supporting",
+    "page": "seo-for-dentists-orange-county"
+  },
+  {
+    "keyword": "local SEO for dentists",
+    "kind": "Supporting",
+    "page": "seo-for-dentists-orange-county"
+  },
+  {
+    "keyword": "dental marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-dentists-orange-county"
+  },
+  {
+    "keyword": "SEO for doctors",
+    "kind": "Main",
+    "page": "seo-for-doctors"
+  },
+  {
+    "keyword": "medical practice SEO",
+    "kind": "Supporting",
+    "page": "seo-for-doctors"
+  },
+  {
+    "keyword": "physician marketing",
+    "kind": "Supporting",
+    "page": "seo-for-doctors"
+  },
+  {
+    "keyword": "healthcare SEO",
+    "kind": "Supporting",
+    "page": "seo-for-doctors"
+  },
+  {
+    "keyword": "medical marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-doctors"
+  },
+  {
+    "keyword": "medical practice seo orange county",
+    "kind": "Supporting",
+    "page": "seo-for-doctors"
+  },
+  {
+    "keyword": "healthcare seo orange county",
+    "kind": "Supporting",
+    "page": "seo-for-doctors"
+  },
+  {
+    "keyword": "SEO for gyms",
+    "kind": "Main",
+    "page": "seo-for-gyms"
+  },
+  {
+    "keyword": "gym SEO",
+    "kind": "Supporting",
+    "page": "seo-for-gyms"
+  },
+  {
+    "keyword": "fitness studio SEO",
+    "kind": "Supporting",
+    "page": "seo-for-gyms"
+  },
+  {
+    "keyword": "gym marketing",
+    "kind": "Supporting",
+    "page": "seo-for-gyms"
+  },
+  {
+    "keyword": "fitness marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-gyms"
+  },
+  {
+    "keyword": "seo for gyms orange county",
+    "kind": "Supporting",
+    "page": "seo-for-gyms"
+  },
+  {
+    "keyword": "gym seo orange county",
+    "kind": "Supporting",
+    "page": "seo-for-gyms"
+  },
+  {
+    "keyword": "fitness studio seo orange county",
+    "kind": "Supporting",
+    "page": "seo-for-gyms"
+  },
+  {
+    "keyword": "Fullerton SEO",
+    "kind": "Main",
+    "page": "seo-fullerton"
+  },
+  {
+    "keyword": "SEO company Fullerton",
+    "kind": "Supporting",
+    "page": "seo-fullerton"
+  },
+  {
+    "keyword": "Fullerton SEO agency",
+    "kind": "Supporting",
+    "page": "seo-fullerton"
+  },
+  {
+    "keyword": "local SEO Fullerton",
+    "kind": "Supporting",
+    "page": "seo-fullerton"
+  },
+  {
+    "keyword": "SEO services Fullerton CA",
+    "kind": "Supporting",
+    "page": "seo-fullerton"
+  },
+  {
+    "keyword": "fullerton local seo",
+    "kind": "Supporting",
+    "page": "seo-fullerton"
+  },
+  {
     "keyword": "Huntington Beach SEO",
     "kind": "Main",
     "page": "seo-huntington-beach"
@@ -7571,6 +8131,11 @@
   },
   {
     "keyword": "huntington beach seo services",
+    "kind": "Supporting",
+    "page": "seo-huntington-beach"
+  },
+  {
+    "keyword": "local seo tips huntington beach",
     "kind": "Supporting",
     "page": "seo-huntington-beach"
   },
@@ -8975,31 +9540,6 @@
     "page": "generative-engine-optimization-agency"
   },
   {
-    "keyword": "GEO agency in Orange County",
-    "kind": "Main",
-    "page": "geo-agency-orange-county"
-  },
-  {
-    "keyword": "GEO agency California",
-    "kind": "Supporting",
-    "page": "geo-agency-orange-county"
-  },
-  {
-    "keyword": "AI search agency Orange County",
-    "kind": "Supporting",
-    "page": "geo-agency-orange-county"
-  },
-  {
-    "keyword": "generative engine optimization Orange County",
-    "kind": "Supporting",
-    "page": "geo-agency-orange-county"
-  },
-  {
-    "keyword": "AI SEO Irvine",
-    "kind": "Supporting",
-    "page": "geo-agency-orange-county"
-  },
-  {
     "keyword": "GEO for B2B SaaS",
     "kind": "Main",
     "page": "geo-for-b2b-saas"
@@ -9458,5 +9998,45 @@
     "keyword": "GEO meaning",
     "kind": "Supporting",
     "page": "what-is-generative-engine-optimization-and-how-does-it-work"
+  },
+  {
+    "keyword": "GEO agency in Orange County",
+    "kind": "Main",
+    "page": "geo-agency-orange-county"
+  },
+  {
+    "keyword": "GEO agency California",
+    "kind": "Supporting",
+    "page": "geo-agency-orange-county"
+  },
+  {
+    "keyword": "AI search agency Orange County",
+    "kind": "Supporting",
+    "page": "geo-agency-orange-county"
+  },
+  {
+    "keyword": "generative engine optimization Orange County",
+    "kind": "Supporting",
+    "page": "geo-agency-orange-county"
+  },
+  {
+    "keyword": "AI SEO Irvine",
+    "kind": "Supporting",
+    "page": "geo-agency-orange-county"
+  },
+  {
+    "keyword": "ai search optimization orange county",
+    "kind": "Supporting",
+    "page": "geo-agency-orange-county"
+  },
+  {
+    "keyword": "ai search orange county",
+    "kind": "Supporting",
+    "page": "geo-agency-orange-county"
+  },
+  {
+    "keyword": "geo agency newport beach",
+    "kind": "Supporting",
+    "page": "geo-agency-orange-county"
   }
 ]

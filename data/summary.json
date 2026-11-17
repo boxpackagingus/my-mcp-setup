@@ -179,16 +179,31 @@
       "form_leads_28d": 1,
       "source": "Site Kit",
       "engine_leads_28d": 0
+    },
+    {
+      "date": "2026-11-17",
+      "pages_total": 402,
+      "pages_indexed": 216,
+      "clicks_28d": 5,
+      "impressions_28d": 4153,
+      "engine_clicks_28d": 3,
+      "sessions_28d": 86.0,
+      "ai_sessions_28d": 0,
+      "ai_by_engine": {},
+      "leads_28d": 1.0,
+      "form_leads_28d": 1,
+      "source": "Site Kit",
+      "engine_leads_28d": 0
     }
   ],
   "latest": {
-    "date": "2026-11-16",
-    "pages_total": 382,
-    "pages_indexed": 194,
-    "clicks_28d": 4,
-    "impressions_28d": 3190,
+    "date": "2026-11-17",
+    "pages_total": 402,
+    "pages_indexed": 216,
+    "clicks_28d": 5,
+    "impressions_28d": 4153,
     "engine_clicks_28d": 3,
-    "sessions_28d": 77.0,
+    "sessions_28d": 86.0,
     "ai_sessions_28d": 0,
     "ai_by_engine": {},
     "leads_28d": 1.0,
@@ -277,17 +292,19 @@
     {
       "date": "2026-11-15",
       "clicks": 0,
-      "impressions": 912,
+      "impressions": 913,
       "ctr": 0,
-      "position": 71.80701754385964
+      "position": 71.72946330777656
+    },
+    {
+      "date": "2026-11-16",
+      "clicks": 1,
+      "impressions": 962,
+      "ctr": 0.0010395010395010396,
+      "position": 69.8118503118503
     }
   ],
   "ga_daily": [
-    {
-      "date": "20261019",
-      "sessions": 0.0,
-      "keyEvents": 0.0
-    },
     {
       "date": "20261020",
       "sessions": 0.0,
@@ -421,6 +438,11 @@
     {
       "date": "20261115",
       "sessions": 0.0,
+      "keyEvents": 0.0
+    },
+    {
+      "date": "20261116",
+      "sessions": 9.0,
       "keyEvents": 0.0
     }
   ]

@@ -35,7 +35,9 @@
   "related_added": []
  },
  "how-to-remove-fake-google-reviews": {
-  "context": [],
+  "context": [
+   "seo-garden-grove"
+  ],
   "home_in_text": true,
   "related_added": []
  },
@@ -50,24 +52,23 @@
   "related_added": []
  },
  "seo-for-vietnamese-restaurants": {
-  "context": [
-   "service-area-business-seo",
-   "google-business-profile-service-area",
-   "google-business-profile-categories",
-   "google-local-services-ads-vs-seo",
-   "how-to-remove-fake-google-reviews"
-  ],
+  "context": [],
   "home_in_text": true,
-  "related_added": [
-   "ask-maps-food-ordering-restaurants",
-   "seo-for-pizza-restaurants",
-   "seo-for-mexican-restaurants",
-   "seo-for-korean-restaurants"
-  ]
+  "related_added": []
  },
  "microsoft-copilot-seo": {
   "context": [],
   "home_in_text": false,
+  "related_added": []
+ },
+ "seo-for-surf-shops": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
+ "seo-for-toy-stores": {
+  "context": [],
+  "home_in_text": true,
   "related_added": []
  },
  "google-analytics-4-key-events": {
@@ -191,20 +192,9 @@
   "related_added": []
  },
  "seo-for-smoothie-shops": {
-  "context": [
-   "service-area-business-seo",
-   "google-business-profile-service-area",
-   "google-local-services-ads-vs-seo",
-   "how-to-remove-fake-google-reviews",
-   "how-to-get-more-google-reviews"
-  ],
+  "context": [],
   "home_in_text": true,
-  "related_added": [
-   "ask-maps-food-ordering-restaurants",
-   "seo-for-sandwich-shops",
-   "seo-for-coffee-shops",
-   "seo-for-frozen-yogurt-shops"
-  ]
+  "related_added": []
  },
  "seo-for-tire-shops": {
   "context": [],
@@ -222,7 +212,9 @@
   "related_added": []
  },
  "search-console-platform-properties-social": {
-  "context": [],
+  "context": [
+   "seo-mission-viejo"
+  ],
   "home_in_text": false,
   "related_added": []
  },
@@ -342,7 +334,9 @@
   "related_added": []
  },
  "google-ai-studio-cloud-credits": {
-  "context": [],
+  "context": [
+   "seo-yorba-linda"
+  ],
   "home_in_text": false,
   "related_added": []
  },
@@ -358,6 +352,13 @@
  },
  "seo-for-travel-agencies": {
   "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
+ "merchant-center-attribute-rules": {
+  "context": [
+   "seo-laguna-niguel"
+  ],
   "home_in_text": true,
   "related_added": []
  },
@@ -386,6 +387,11 @@
   "home_in_text": false,
   "related_added": []
  },
+ "google-product-category": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
  "seo-for-piercing-studios": {
   "context": [],
   "home_in_text": true,
@@ -412,7 +418,10 @@
   "related_added": []
  },
  "google-maps-dining-trends-restaurants": {
-  "context": [],
+  "context": [
+   "seo-garden-grove",
+   "seo-westminster"
+  ],
   "home_in_text": false,
   "related_added": []
  },
@@ -437,8 +446,13 @@
   "related_added": []
  },
  "product-pages-for-ai-shopping": {
+  "context": [],
+  "home_in_text": false,
+  "related_added": []
+ },
+ "youtube-ads-from-social-assets": {
   "context": [
-   "merchant-center-return-policies"
+   "seo-yorba-linda"
   ],
   "home_in_text": false,
   "related_added": []
@@ -454,6 +468,11 @@
   "related_added": []
  },
  "google-search-console-removals-tool": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
+ "seo-for-furniture-stores": {
   "context": [],
   "home_in_text": true,
   "related_added": []
@@ -489,12 +508,16 @@
   "related_added": []
  },
  "google-ads-channel-prioritization-budget-controls": {
-  "context": [],
+  "context": [
+   "seo-mission-viejo"
+  ],
   "home_in_text": false,
   "related_added": []
  },
  "google-when-to-buy-holiday-retailers": {
-  "context": [],
+  "context": [
+   "seo-tustin"
+  ],
   "home_in_text": false,
   "related_added": []
  },
@@ -528,7 +551,20 @@
   "home_in_text": false,
   "related_added": []
  },
+ "google-maps-know-before-you-go-restaurants": {
+  "context": [
+   "seo-tustin",
+   "ask-maps-books-local-appointments"
+  ],
+  "home_in_text": false,
+  "related_added": []
+ },
  "google-analytics-4-enhanced-measurement": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
+ "seo-for-home-decor-stores": {
   "context": [],
   "home_in_text": true,
   "related_added": []
@@ -549,20 +585,9 @@
   "related_added": []
  },
  "seo-for-pizza-restaurants": {
-  "context": [
-   "service-area-business-seo",
-   "google-business-profile-service-area",
-   "google-business-profile-categories",
-   "google-local-services-ads-vs-seo",
-   "how-to-remove-fake-google-reviews"
-  ],
+  "context": [],
   "home_in_text": true,
-  "related_added": [
-   "ask-maps-food-ordering-restaurants",
-   "seo-for-mexican-restaurants",
-   "seo-for-korean-restaurants",
-   "seo-for-sandwich-shops"
-  ]
+  "related_added": []
  },
  "how-to-track-ai-visibility": {
   "context": [],
@@ -649,6 +674,11 @@
   "home_in_text": true,
   "related_added": []
  },
+ "seo-for-music-stores": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
  "geo-for-healthcare": {
   "context": [],
   "home_in_text": false,
@@ -700,6 +730,11 @@
   "related_added": []
  },
  "seo-for-music-schools": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
+ "how-to-set-up-google-merchant-center": {
   "context": [],
   "home_in_text": true,
   "related_added": []
@@ -769,13 +804,20 @@
   "home_in_text": false,
   "related_added": []
  },
+ "seo-for-thrift-stores": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
  "service-area-business-seo": {
   "context": [],
   "home_in_text": false,
   "related_added": []
  },
  "how-to-claim-google-business-profile": {
-  "context": [],
+  "context": [
+   "seo-garden-grove"
+  ],
   "home_in_text": true,
   "related_added": []
  },
@@ -794,13 +836,20 @@
   "home_in_text": false,
   "related_added": []
  },
+ "seo-for-computer-repair-shops": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
  "seo-for-garage-door-companies": {
   "context": [],
   "home_in_text": true,
   "related_added": []
  },
  "gemini-in-chrome-website-answers": {
-  "context": [],
+  "context": [
+   "seo-garden-grove"
+  ],
   "home_in_text": false,
   "related_added": []
  },
@@ -890,6 +939,11 @@
   "related_added": []
  },
  "seo-for-flooring-companies": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
+ "merchant-center-product-data": {
   "context": [],
   "home_in_text": true,
   "related_added": []
@@ -1004,6 +1058,11 @@
   "home_in_text": true,
   "related_added": []
  },
+ "seo-for-shoe-stores": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
  "ai-visibility-audit": {
   "context": [],
   "home_in_text": false,
@@ -1052,6 +1111,13 @@
  "google-business-profile-links": {
   "context": [],
   "home_in_text": true,
+  "related_added": []
+ },
+ "thrift-shopping-google-lens-ai-mode": {
+  "context": [
+   "seo-orange-ca"
+  ],
+  "home_in_text": false,
   "related_added": []
  },
  "is-seo-dead": {
@@ -1144,6 +1210,11 @@
   "home_in_text": true,
   "related_added": []
  },
+ "seo-for-electronics-stores": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
  "seo-for-laser-hair-removal": {
   "context": [],
   "home_in_text": true,
@@ -1185,20 +1256,9 @@
   "related_added": []
  },
  "seo-for-sandwich-shops": {
-  "context": [
-   "service-area-business-seo",
-   "google-business-profile-service-area",
-   "google-local-services-ads-vs-seo",
-   "how-to-remove-fake-google-reviews",
-   "how-to-respond-to-google-reviews"
-  ],
+  "context": [],
   "home_in_text": true,
-  "related_added": [
-   "ask-maps-food-ordering-restaurants",
-   "seo-for-coffee-shops",
-   "seo-for-smoothie-shops",
-   "seo-for-frozen-yogurt-shops"
-  ]
+  "related_added": []
  },
  "how-to-check-if-chatgpt-mentions-your-brand": {
   "context": [],
@@ -1206,6 +1266,16 @@
   "related_added": []
  },
  "google-business-profile-owners-and-managers": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
+ "seo-for-pawn-shops": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
+ "seo-for-hardware-stores": {
   "context": [],
   "home_in_text": true,
   "related_added": []
@@ -1218,6 +1288,11 @@
  "geo-for-manufacturers": {
   "context": [],
   "home_in_text": false,
+  "related_added": []
+ },
+ "local-inventory-feed": {
+  "context": [],
+  "home_in_text": true,
   "related_added": []
  },
  "seo-for-home-inspectors": {
@@ -1240,6 +1315,11 @@
   "home_in_text": true,
   "related_added": []
  },
+ "seo-for-hobby-shops": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
  "ai-share-of-voice": {
   "context": [],
   "home_in_text": false,
@@ -1248,6 +1328,11 @@
  "is-geo-bring-sales": {
   "context": [],
   "home_in_text": false,
+  "related_added": []
+ },
+ "seo-for-auto-parts-stores": {
+  "context": [],
+  "home_in_text": true,
   "related_added": []
  },
  "seo-for-oil-change-shops": {
@@ -1301,7 +1386,9 @@
   "related_added": []
  },
  "google-search-console-users-and-permissions": {
-  "context": [],
+  "context": [
+   "seo-mission-viejo"
+  ],
   "home_in_text": true,
   "related_added": []
  },
@@ -1313,6 +1400,11 @@
  "google-ai-mode-inline-links-update": {
   "context": [],
   "home_in_text": false,
+  "related_added": []
+ },
+ "google-free-product-listings": {
+  "context": [],
+  "home_in_text": true,
   "related_added": []
  },
  "how-to-get-brand-mentions-for-ai-search": {
@@ -1346,7 +1438,9 @@
   "related_added": []
  },
  "near-me-searches": {
-  "context": [],
+  "context": [
+   "seo-orange-ca"
+  ],
   "home_in_text": false,
   "related_added": []
  },
@@ -1356,24 +1450,20 @@
   "related_added": []
  },
  "seo-for-sushi-restaurants": {
-  "context": [
-   "google-business-profile-service-area",
-   "google-business-profile-categories",
-   "google-local-services-ads-vs-seo",
-   "how-to-remove-fake-google-reviews",
-   "how-to-get-more-google-reviews"
-  ],
+  "context": [],
   "home_in_text": true,
-  "related_added": [
-   "ask-maps-food-ordering-restaurants",
-   "seo-for-pizza-restaurants",
-   "seo-for-mexican-restaurants",
-   "seo-for-vietnamese-restaurants"
-  ]
+  "related_added": []
  },
  "does-google-penalize-ai-content": {
   "context": [],
   "home_in_text": false,
+  "related_added": []
+ },
+ "google-merchant-center-promotions": {
+  "context": [
+   "seo-tustin"
+  ],
+  "home_in_text": true,
   "related_added": []
  },
  "seo-for-bubble-tea-shops": {
@@ -1399,6 +1489,11 @@
  "how-ai-search-engines-choose-sources": {
   "context": [],
   "home_in_text": false,
+  "related_added": []
+ },
+ "seo-for-garden-centers": {
+  "context": [],
+  "home_in_text": true,
   "related_added": []
  },
  "seo-for-daycare-centers": {
@@ -1431,7 +1526,17 @@
   "home_in_text": true,
   "related_added": []
  },
+ "seo-for-phone-repair-shops": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
  "seo-for-dermatologists": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
+ "merchant-center-return-policies": {
   "context": [],
   "home_in_text": true,
   "related_added": []
@@ -1486,8 +1591,15 @@
   "home_in_text": true,
   "related_added": []
  },
- "apple-maps-place-card": {
+ "google-local-inventory-ads": {
   "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
+ "apple-maps-place-card": {
+  "context": [
+   "seo-westminster"
+  ],
   "home_in_text": true,
   "related_added": []
  },
@@ -1531,6 +1643,11 @@
   "home_in_text": true,
   "related_added": []
  },
+ "seo-for-clothing-boutiques": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
  "seo-costa-mesa": {
   "context": [],
   "home_in_text": false,
@@ -1567,7 +1684,9 @@
   "related_added": []
  },
  "google-business-profile-performance": {
-  "context": [],
+  "context": [
+   "seo-mission-viejo"
+  ],
   "home_in_text": true,
   "related_added": []
  },
@@ -1591,8 +1710,15 @@
   "home_in_text": true,
   "related_added": []
  },
- "ask-maps-food-ordering-restaurants": {
+ "holiday-merchant-center-checklist": {
   "context": [],
+  "home_in_text": false,
+  "related_added": []
+ },
+ "ask-maps-food-ordering-restaurants": {
+  "context": [
+   "ask-maps-books-local-appointments"
+  ],
   "home_in_text": false,
   "related_added": []
  },
@@ -1601,8 +1727,15 @@
   "home_in_text": true,
   "related_added": []
  },
- "apple-branded-mail": {
+ "seo-for-bike-shops": {
   "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
+ "apple-branded-mail": {
+  "context": [
+   "seo-garden-grove"
+  ],
   "home_in_text": true,
   "related_added": []
  },
@@ -1637,7 +1770,9 @@
   "related_added": []
  },
  "google-wallet-gemini-subscriptions-local-business": {
-  "context": [],
+  "context": [
+   "seo-yorba-linda"
+  ],
   "home_in_text": false,
   "related_added": []
  },
@@ -1661,6 +1796,11 @@
   "home_in_text": true,
   "related_added": []
  },
+ "seo-for-bookstores": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
  "apple-maps-ads": {
   "context": [],
   "home_in_text": true,
@@ -1672,6 +1812,16 @@
   "related_added": []
  },
  "how-to-get-more-google-reviews": {
+  "context": [],
+  "home_in_text": false,
+  "related_added": []
+ },
+ "merchant-center-disapprovals": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
+ "back-button-hijacking-spam-policy": {
   "context": [],
   "home_in_text": false,
   "related_added": []
@@ -1711,6 +1861,11 @@
   "home_in_text": true,
   "related_added": []
  },
+ "seo-for-sporting-goods-stores": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
  "geo-mistakes-to-avoid": {
   "context": [],
   "home_in_text": false,
@@ -1722,6 +1877,11 @@
   "related_added": []
  },
  "google-search-console-links-report": {
+  "context": [],
+  "home_in_text": true,
+  "related_added": []
+ },
+ "seo-for-pet-stores": {
   "context": [],
   "home_in_text": true,
   "related_added": []
@@ -1747,7 +1907,9 @@
   "related_added": []
  },
  "google-search-console-performance-report": {
-  "context": [],
+  "context": [
+   "seo-tustin"
+  ],
   "home_in_text": true,
   "related_added": []
  },
@@ -1791,509 +1953,121 @@
   "home_in_text": true,
   "related_added": []
  },
- "seo-for-surf-shops": {
-  "context": [
-   "google-business-profile-service-area",
-   "google-business-profile-categories",
-   "how-to-remove-fake-google-reviews",
-   "how-to-get-more-google-reviews",
-   "google-business-profile-optimization-orange-county"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "thrift-shopping-google-lens-ai-mode",
-   "seo-for-hobby-shops",
-   "seo-for-pawn-shops",
-   "seo-for-bike-shops"
-  ]
- },
- "seo-for-toy-stores": {
-  "context": [
-   "google-business-profile-holiday-hours",
-   "service-area-business-seo",
-   "google-business-profile-service-area",
-   "google-business-profile-categories",
-   "how-to-remove-fake-google-reviews"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "google-holiday-100-orange-county-retailers",
-   "seo-for-hardware-stores",
-   "seo-for-pet-stores",
-   "seo-for-home-decor-stores"
-  ]
- },
- "merchant-center-attribute-rules": {
-  "context": [
-   "schema-markup-for-ai-search",
-   "gemini-seo",
-   "youtube-for-ai-search",
-   "merchant-center-product-data"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "holiday-merchant-center-checklist",
-   "local-inventory-feed",
-   "google-merchant-center-promotions",
-   "product-pages-for-ai-shopping"
-  ]
- },
- "google-product-category": {
-  "context": [
-   "how-to-get-more-google-reviews",
-   "how-to-rank-in-chatgpt",
-   "gemini-seo",
-   "nap-consistency-local-citations",
-   "youtube-for-ai-search"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "holiday-merchant-center-checklist",
-   "local-inventory-feed",
-   "google-free-product-listings",
-   "google-merchant-center-promotions"
-  ]
- },
- "youtube-ads-from-social-assets": {
-  "context": [
-   "google-business-profile-optimization-orange-county",
-   "gemini-seo",
-   "youtube-for-ai-search"
-  ],
-  "home_in_text": false,
-  "related_added": [
-   "how-to-set-up-google-analytics-4",
-   "google-ads-data-strength-demand-gen",
-   "google-ads-channel-prioritization-budget-controls",
-   "link-google-ads-to-google-analytics"
-  ]
- },
- "seo-for-furniture-stores": {
-  "context": [
-   "service-area-business-seo",
-   "google-business-profile-service-area",
-   "google-business-profile-categories",
-   "how-to-remove-fake-google-reviews",
-   "how-to-respond-to-google-reviews"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "google-holiday-100-orange-county-retailers",
-   "seo-for-thrift-stores",
-   "seo-for-home-decor-stores",
-   "seo-for-electronics-stores"
-  ]
- },
- "google-maps-know-before-you-go-restaurants": {
-  "context": [
-   "google-business-profile-holiday-hours",
-   "how-to-respond-to-google-reviews",
-   "google-business-profile-optimization-orange-county"
-  ],
-  "home_in_text": false,
-  "related_added": [
-   "ask-maps-food-ordering-restaurants",
-   "google-maps-dining-trends-restaurants",
-   "geo-for-restaurants",
-   "seo-for-pizza-restaurants"
-  ]
- },
- "seo-for-home-decor-stores": {
-  "context": [
-   "service-area-business-seo",
-   "google-business-profile-service-area",
-   "google-business-profile-categories",
-   "how-to-remove-fake-google-reviews",
-   "how-to-get-more-google-reviews"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "google-holiday-100-orange-county-retailers",
-   "seo-for-thrift-stores",
-   "seo-for-toy-stores",
-   "seo-for-sporting-goods-stores"
-  ]
- },
- "seo-for-music-stores": {
-  "context": [
-   "service-area-business-seo",
-   "google-business-profile-service-area",
-   "google-business-profile-categories",
-   "how-to-remove-fake-google-reviews",
-   "how-to-get-more-google-reviews"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "google-holiday-100-orange-county-retailers",
-   "seo-for-toy-stores",
-   "seo-for-shoe-stores",
-   "seo-for-furniture-stores"
-  ]
- },
- "how-to-set-up-google-merchant-center": {
-  "context": [
-   "how-to-get-more-google-reviews",
-   "how-to-rank-in-chatgpt",
-   "gemini-seo",
-   "nap-consistency-local-citations",
-   "youtube-for-ai-search"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "holiday-merchant-center-checklist",
-   "google-product-category",
-   "local-inventory-feed",
-   "merchant-center-attribute-rules"
-  ]
- },
- "seo-for-thrift-stores": {
-  "context": [
-   "service-area-business-seo",
-   "google-business-profile-service-area",
-   "how-to-remove-fake-google-reviews",
-   "how-to-respond-to-google-reviews",
-   "how-to-get-more-google-reviews"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "thrift-shopping-google-lens-ai-mode",
-   "seo-for-furniture-stores",
-   "seo-for-home-decor-stores",
-   "seo-for-toy-stores"
-  ]
- },
- "seo-for-computer-repair-shops": {
-  "context": [
-   "service-area-business-seo",
-   "google-business-profile-service-area",
-   "google-business-profile-categories",
-   "how-to-remove-fake-google-reviews",
-   "how-to-respond-to-google-reviews"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "thrift-shopping-google-lens-ai-mode",
-   "seo-for-pawn-shops",
-   "seo-for-bike-shops",
-   "seo-for-hobby-shops"
-  ]
- },
- "merchant-center-product-data": {
-  "context": [
-   "how-to-get-more-google-reviews",
-   "schema-markup-for-ai-search",
-   "robots-txt-for-ai-crawlers",
-   "how-to-rank-in-chatgpt",
-   "gemini-seo"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "holiday-merchant-center-checklist",
-   "local-inventory-feed",
-   "google-merchant-center-promotions",
-   "how-to-set-up-google-merchant-center"
-  ]
- },
- "seo-for-shoe-stores": {
-  "context": [
-   "service-area-business-seo",
-   "google-business-profile-service-area",
-   "google-business-profile-categories",
-   "how-to-remove-fake-google-reviews",
-   "how-to-respond-to-google-reviews"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "google-holiday-100-orange-county-retailers",
-   "seo-for-toy-stores",
-   "seo-for-furniture-stores",
-   "seo-for-music-stores"
-  ]
- },
- "thrift-shopping-google-lens-ai-mode": {
+ "black-friday-google-shopping-tools-retailers": {
   "context": [
    "how-to-optimize-for-google-ai-mode",
-   "seo-fullerton"
-  ],
-  "home_in_text": false,
-  "related_added": [
-   "seo-for-hobby-shops",
-   "seo-for-surf-shops",
-   "seo-for-computer-repair-shops",
-   "seo-for-phone-repair-shops"
-  ]
- },
- "seo-for-electronics-stores": {
-  "context": [
-   "service-area-business-seo",
-   "google-business-profile-service-area",
-   "google-business-profile-categories",
-   "how-to-remove-fake-google-reviews",
-   "how-to-respond-to-google-reviews"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "google-holiday-100-orange-county-retailers",
-   "seo-for-furniture-stores",
-   "seo-for-hardware-stores",
-   "seo-for-toy-stores"
-  ]
- },
- "seo-for-pawn-shops": {
-  "context": [
-   "google-business-profile-service-area",
-   "google-business-profile-categories",
-   "how-to-remove-fake-google-reviews",
-   "how-to-get-more-google-reviews",
-   "google-business-profile-optimization-orange-county"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "thrift-shopping-google-lens-ai-mode",
-   "seo-for-hobby-shops",
-   "seo-for-surf-shops",
-   "seo-for-computer-repair-shops"
-  ]
- },
- "seo-for-hardware-stores": {
-  "context": [
-   "google-business-profile-holiday-hours",
-   "service-area-business-seo",
-   "google-business-profile-service-area",
-   "google-business-profile-categories",
-   "how-to-remove-fake-google-reviews"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "google-holiday-100-orange-county-retailers",
-   "seo-for-toy-stores",
-   "seo-for-pet-stores",
-   "seo-for-electronics-stores"
-  ]
- },
- "local-inventory-feed": {
-  "context": [
-   "google-business-profile-optimization-orange-county",
    "gemini-seo",
-   "nap-consistency-local-citations",
-   "youtube-for-ai-search",
-   "google-local-inventory-ads"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "holiday-merchant-center-checklist",
-   "merchant-center-attribute-rules",
-   "google-merchant-center-promotions",
-   "google-product-category"
-  ]
- },
- "seo-for-hobby-shops": {
-  "context": [
-   "google-business-profile-service-area",
-   "google-business-profile-categories",
-   "how-to-remove-fake-google-reviews",
-   "how-to-get-more-google-reviews",
-   "google-business-profile-optimization-orange-county"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "thrift-shopping-google-lens-ai-mode",
-   "seo-for-surf-shops",
-   "seo-for-pawn-shops",
-   "seo-for-bike-shops"
-  ]
- },
- "seo-for-auto-parts-stores": {
-  "context": [
-   "service-area-business-seo",
-   "google-business-profile-service-area",
-   "google-business-profile-categories",
-   "how-to-remove-fake-google-reviews",
-   "how-to-get-more-google-reviews"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "search-console-multimodal-search-report",
-   "seo-for-auto-detailing",
-   "seo-for-car-dealerships",
-   "seo-for-auto-ac-repair"
-  ]
- },
- "google-free-product-listings": {
-  "context": [
-   "google-business-profile-optimization-orange-county",
-   "gemini-seo",
-   "nap-consistency-local-citations",
-   "youtube-for-ai-search",
-   "merchant-center-product-data"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "holiday-merchant-center-checklist",
-   "google-product-category",
-   "geo-for-ecommerce",
-   "seo-for-shopify-stores"
-  ]
- },
- "google-merchant-center-promotions": {
-  "context": [
-   "gemini-seo",
-   "nap-consistency-local-citations",
-   "youtube-for-ai-search"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "holiday-merchant-center-checklist",
-   "local-inventory-feed",
-   "merchant-center-attribute-rules",
-   "google-product-category"
-  ]
- },
- "seo-for-garden-centers": {
-  "context": [
-   "service-area-business-seo",
-   "google-business-profile-service-area",
-   "google-business-profile-categories",
-   "how-to-remove-fake-google-reviews",
-   "how-to-respond-to-google-reviews"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "google-holiday-100-orange-county-retailers",
-   "seo-for-hobby-shops",
-   "seo-for-toy-stores",
-   "seo-for-shoe-stores"
-  ]
- },
- "seo-for-phone-repair-shops": {
-  "context": [
-   "google-business-profile-service-area",
-   "google-business-profile-categories",
-   "how-to-remove-fake-google-reviews",
-   "how-to-get-more-google-reviews",
-   "google-business-profile-optimization-orange-county"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "thrift-shopping-google-lens-ai-mode",
-   "seo-for-bike-shops",
-   "seo-for-toy-stores",
-   "seo-for-hobby-shops"
-  ]
- },
- "merchant-center-return-policies": {
-  "context": [
-   "gemini-seo",
-   "youtube-for-ai-search",
-   "seo-fullerton"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "merchant-center-ai-performance-insights",
-   "google-product-category",
+   "google-free-product-listings",
    "google-local-inventory-ads",
-   "local-inventory-feed"
-  ]
- },
- "google-local-inventory-ads": {
-  "context": [
-   "google-business-profile-optimization-orange-county",
-   "gemini-seo",
-   "near-me-searches",
-   "youtube-for-ai-search",
-   "google-free-product-listings"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "merchant-center-ai-performance-insights",
-   "merchant-center-return-policies",
-   "google-merchant-center-promotions",
-   "seo-for-furniture-stores"
-  ]
- },
- "seo-for-clothing-boutiques": {
-  "context": [
-   "google-business-profile-service-area",
-   "how-to-remove-fake-google-reviews",
-   "how-to-get-more-google-reviews",
-   "google-business-profile-optimization-orange-county",
-   "schema-markup-for-ai-search"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "google-holiday-100-orange-county-retailers",
-   "seo-for-toy-stores",
-   "seo-for-shoe-stores",
-   "seo-for-furniture-stores"
-  ]
- },
- "holiday-merchant-center-checklist": {
-  "context": [
-   "google-business-profile-holiday-hours",
-   "schema-markup-for-ai-search",
-   "gemini-seo",
-   "youtube-for-ai-search",
-   "google-free-product-listings"
+   "seo-irvine"
   ],
   "home_in_text": false,
   "related_added": [
-   "merchant-center-attribute-rules",
-   "google-product-category",
-   "google-when-to-buy-holiday-retailers",
-   "google-holiday-100-orange-county-retailers"
-  ]
- },
- "seo-for-bike-shops": {
-  "context": [
-   "google-business-profile-service-area",
-   "google-business-profile-categories",
-   "how-to-remove-fake-google-reviews",
-   "how-to-get-more-google-reviews",
-   "google-business-profile-optimization-orange-county"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "thrift-shopping-google-lens-ai-mode",
-   "seo-for-hobby-shops",
-   "seo-for-surf-shops",
-   "seo-for-computer-repair-shops"
-  ]
- },
- "seo-for-bookstores": {
-  "context": [
-   "google-business-profile-service-area",
-   "google-business-profile-categories",
-   "how-to-remove-fake-google-reviews",
-   "how-to-get-more-google-reviews",
-   "google-business-profile-optimization-orange-county"
-  ],
-  "home_in_text": true,
-  "related_added": [
-   "google-holiday-100-orange-county-retailers",
-   "seo-for-toy-stores",
-   "seo-for-furniture-stores",
-   "seo-for-hardware-stores"
-  ]
- },
- "merchant-center-disapprovals": {
-  "context": [
-   "how-to-get-more-google-reviews",
-   "schema-markup-for-ai-search",
-   "robots-txt-for-ai-crawlers",
-   "how-to-rank-in-chatgpt",
-   "gemini-seo"
-  ],
-  "home_in_text": true,
-  "related_added": [
+   "seo-for-shopify-stores",
    "holiday-merchant-center-checklist",
-   "google-product-category",
-   "local-inventory-feed",
-   "google-merchant-center-promotions"
+   "merchant-center-ai-performance-insights",
+   "google-universal-cart-orange-county-retailers"
   ]
  },
- "back-button-hijacking-spam-policy": {
+ "seo-lake-forest": {
+  "context": [],
+  "home_in_text": false,
+  "related_added": [
+   "google-business-profile-gemini-web-app",
+   "seo-aliso-viejo",
+   "seo-company-orange-county",
+   "seo-brea"
+  ]
+ },
+ "seo-aliso-viejo": {
+  "context": [],
+  "home_in_text": false,
+  "related_added": [
+   "google-business-profile-gemini-web-app",
+   "seo-orange-ca",
+   "seo-lake-forest",
+   "seo-fountain-valley"
+  ]
+ },
+ "seo-yorba-linda": {
+  "context": [],
+  "home_in_text": false,
+  "related_added": [
+   "google-business-profile-gemini-web-app",
+   "seo-irvine",
+   "seo-placentia",
+   "seo-fullerton"
+  ]
+ },
+ "search-analytics-api-branded-queries": {
   "context": [
-   "google-search-console-manual-actions",
+   "google-search-console-performance-report",
+   "search-console-generative-ai-performance-report",
+   "how-to-track-ai-traffic-in-google-analytics",
+   "seo-santa-ana"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "google-search-console-users-and-permissions",
+   "search-console-multimodal-search-report",
+   "google-search-console-security-issues",
+   "how-to-set-up-google-search-console"
+  ]
+ },
+ "seo-la-habra": {
+  "context": [],
+  "home_in_text": false,
+  "related_added": [
+   "google-business-profile-gemini-web-app",
+   "seo-irvine",
+   "seo-placentia",
+   "seo-fullerton"
+  ]
+ },
+ "seo-brea": {
+  "context": [],
+  "home_in_text": false,
+  "related_added": [
+   "google-business-profile-gemini-web-app",
+   "seo-costa-mesa",
+   "seo-company-orange-county",
+   "seo-newport-beach"
+  ]
+ },
+ "ask-maps-books-local-appointments": {
+  "context": [
+   "how-to-get-more-google-reviews",
+   "google-business-profile-optimization-orange-county",
+   "add-business-to-apple-maps",
+   "seo-fullerton"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "seo-for-hotels-orange-county",
+   "google-ai-mode-hotel-booking-anaheim",
+   "google-maps-know-before-you-go-restaurants",
+   "ask-maps-food-ordering-restaurants"
+  ]
+ },
+ "holiday-crowd-times-google-maps": {
+  "context": [
+   "google-business-profile-holiday-hours",
+   "google-business-profile-optimization-orange-county",
+   "add-business-to-apple-maps",
+   "seo-tustin",
+   "ask-maps-books-local-appointments"
+  ],
+  "home_in_text": false,
+  "related_added": [
+   "30-day-ai-search-plan-orange-county",
+   "local-seo-orange-county",
+   "how-to-claim-google-business-profile",
+   "local-seo-checklist"
+  ]
+ },
+ "ai-autonomous-attacks-small-business-websites": {
+  "context": [
+   "google-search-console-security-issues",
    "search-console-generative-ai-performance-report",
    "seo-irvine"
   ],
@@ -2301,40 +2075,108 @@
   "related_added": [
    "how-to-set-up-google-search-console",
    "google-search-console-links-report",
-   "google-search-console-url-inspection",
-   "google-search-console-page-indexing-report"
+   "back-button-hijacking-spam-policy",
+   "search-analytics-api-branded-queries"
   ]
  },
- "seo-for-sporting-goods-stores": {
-  "context": [
-   "service-area-business-seo",
-   "google-business-profile-service-area",
-   "google-business-profile-categories",
-   "how-to-remove-fake-google-reviews",
-   "how-to-get-more-google-reviews"
-  ],
-  "home_in_text": true,
+ "seo-san-clemente": {
+  "context": [],
+  "home_in_text": false,
   "related_added": [
-   "google-holiday-100-orange-county-retailers",
-   "seo-for-home-decor-stores",
-   "seo-for-toy-stores",
-   "seo-for-shoe-stores"
+   "google-business-profile-gemini-web-app",
+   "seo-buena-park",
+   "seo-laguna-niguel",
+   "seo-mission-viejo"
   ]
  },
- "seo-for-pet-stores": {
-  "context": [
-   "service-area-business-seo",
-   "google-business-profile-service-area",
-   "google-business-profile-categories",
-   "how-to-remove-fake-google-reviews",
-   "how-to-get-more-google-reviews"
-  ],
-  "home_in_text": true,
+ "seo-westminster": {
+  "context": [],
+  "home_in_text": false,
   "related_added": [
-   "google-holiday-100-orange-county-retailers",
-   "seo-for-toy-stores",
-   "seo-for-hardware-stores",
-   "seo-for-home-decor-stores"
+   "google-business-profile-gemini-web-app",
+   "seo-company-orange-county",
+   "seo-irvine",
+   "seo-placentia"
+  ]
+ },
+ "seo-orange-ca": {
+  "context": [],
+  "home_in_text": false,
+  "related_added": [
+   "google-business-profile-gemini-web-app",
+   "seo-aliso-viejo",
+   "seo-tustin",
+   "seo-fountain-valley"
+  ]
+ },
+ "seo-laguna-niguel": {
+  "context": [],
+  "home_in_text": false,
+  "related_added": [
+   "google-business-profile-gemini-web-app",
+   "seo-mission-viejo",
+   "seo-buena-park",
+   "seo-san-clemente"
+  ]
+ },
+ "seo-mission-viejo": {
+  "context": [],
+  "home_in_text": false,
+  "related_added": [
+   "google-business-profile-gemini-web-app",
+   "seo-aliso-viejo",
+   "seo-fountain-valley",
+   "seo-laguna-niguel"
+  ]
+ },
+ "seo-tustin": {
+  "context": [],
+  "home_in_text": false,
+  "related_added": [
+   "google-business-profile-gemini-web-app",
+   "seo-irvine",
+   "seo-orange-ca",
+   "seo-placentia"
+  ]
+ },
+ "seo-placentia": {
+  "context": [],
+  "home_in_text": false,
+  "related_added": [
+   "google-business-profile-gemini-web-app",
+   "seo-irvine",
+   "seo-fullerton",
+   "seo-la-habra"
+  ]
+ },
+ "seo-buena-park": {
+  "context": [],
+  "home_in_text": false,
+  "related_added": [
+   "google-business-profile-gemini-web-app",
+   "seo-san-clemente",
+   "seo-laguna-niguel",
+   "seo-mission-viejo"
+  ]
+ },
+ "seo-fountain-valley": {
+  "context": [],
+  "home_in_text": false,
+  "related_added": [
+   "google-business-profile-gemini-web-app",
+   "seo-orange-ca",
+   "seo-placentia",
+   "seo-aliso-viejo"
+  ]
+ },
+ "seo-garden-grove": {
+  "context": [],
+  "home_in_text": false,
+  "related_added": [
+   "google-business-profile-gemini-web-app",
+   "seo-irvine",
+   "seo-fullerton",
+   "seo-company-orange-county"
   ]
  }
 }

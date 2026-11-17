@@ -1,0 +1,230 @@
+{
+  "date": "2026-11-17",
+  "research": "Opportunity finder (1,058 Search Console query+page rows, 28 days): money queries, cannibalization and CTR gaps chose 12 fixes; 15 new city pages for Orange County cities with no page (Garden Grove already ranks 9 for 'ai search garden grove'), every city fact from that city's Wikipedia article; competitor sitemaps show per-city pages as the main gap. 5 posts from Google announcements of Nov 16, 2026. No topic repeats an existing page.",
+  "topics": [
+    {
+      "slug": "30-day-ai-search-plan-orange-county",
+      "query": "ai search plan for small business",
+      "kind": "blog",
+      "title": "A 30-Day AI Search Plan for Orange County Small Businesses",
+      "action": "fix"
+    },
+    {
+      "slug": "ai-autonomous-attacks-small-business-websites",
+      "query": "autonomous ai attacks small business",
+      "kind": "blog",
+      "title": "Autonomous AI Attacks: Why Small Business Websites Must Update Faster",
+      "action": "new"
+    },
+    {
+      "slug": "ask-maps-books-local-appointments",
+      "query": "ask maps appointments",
+      "kind": "blog",
+      "title": "Ask Maps Appointments: Google Maps Can Now Find Open Slots and Call Local Businesses",
+      "action": "new"
+    },
+    {
+      "slug": "black-friday-google-shopping-tools-retailers",
+      "query": "black friday google shopping tools",
+      "kind": "blog",
+      "title": "Black Friday Google Shopping Tools: How Shoppers Will Find and Compare Your Products",
+      "action": "new"
+    },
+    {
+      "slug": "geo-agency-orange-county",
+      "query": "geo agency orange county",
+      "kind": "guide",
+      "title": "GEO Agency in Orange County, California",
+      "action": "fix"
+    },
+    {
+      "slug": "geo-for-travel-websites",
+      "query": "geo for travel websites",
+      "kind": "guide",
+      "title": "GEO for Travel Websites: Get Recommended When People Plan Trips With AI",
+      "action": "fix"
+    },
+    {
+      "slug": "holiday-crowd-times-google-maps",
+      "query": "holiday crowd times google maps",
+      "kind": "blog",
+      "title": "Holiday Crowd Times: What Google Maps Trends Mean for Local Businesses",
+      "action": "new"
+    },
+    {
+      "slug": "local-seo-checklist",
+      "query": "local seo checklist",
+      "kind": "guide",
+      "title": "The Local SEO Checklist: 30 Steps for Anaheim and Orange County Businesses",
+      "action": "fix"
+    },
+    {
+      "slug": "search-analytics-api-branded-queries",
+      "query": "search analytics api branded queries",
+      "kind": "blog",
+      "title": "Search Analytics API Update: Branded Queries, Multimodal Data and Multi-Country Filters",
+      "action": "new"
+    },
+    {
+      "slug": "seo-aliso-viejo",
+      "query": "seo aliso viejo",
+      "kind": "guide",
+      "title": "Aliso Viejo SEO: Local and Business Search in Orange County's Newest City",
+      "action": "new"
+    },
+    {
+      "slug": "seo-brea",
+      "query": "seo brea",
+      "kind": "guide",
+      "title": "Brea SEO: Retail and Local Services in Google and AI Search",
+      "action": "new"
+    },
+    {
+      "slug": "seo-buena-park",
+      "query": "seo buena park",
+      "kind": "guide",
+      "title": "Buena Park SEO: Reach Visitors and Residents in Buena Park",
+      "action": "new"
+    },
+    {
+      "slug": "seo-company-anaheim",
+      "query": "seo company anaheim",
+      "kind": "guide",
+      "title": "SEO Company in Anaheim, California: Rank on Google and Get Recommended by AI",
+      "action": "fix"
+    },
+    {
+      "slug": "seo-for-dentists-orange-county",
+      "query": "seo for dentists",
+      "kind": "guide",
+      "title": "SEO for Dentists in Orange County: Rank in Google Maps and Fill Your Chairs",
+      "action": "fix"
+    },
+    {
+      "slug": "seo-for-doctors",
+      "query": "seo for doctors",
+      "kind": "guide",
+      "title": "SEO for Doctors and Medical Practices in Orange County",
+      "action": "fix"
+    },
+    {
+      "slug": "seo-for-estate-planning-attorneys",
+      "query": "seo for estate planning attorneys",
+      "kind": "guide",
+      "title": "SEO for Estate Planning Attorneys in Orange County",
+      "action": "fix"
+    },
+    {
+      "slug": "seo-for-gyms",
+      "query": "seo for gyms",
+      "kind": "guide",
+      "title": "SEO for Gyms and Fitness Studios in Orange County",
+      "action": "fix"
+    },
+    {
+      "slug": "seo-for-personal-trainers",
+      "query": "seo for personal trainers",
+      "kind": "guide",
+      "title": "SEO for Personal Trainers in Orange County: Book More Clients",
+      "action": "fix"
+    },
+    {
+      "slug": "seo-fountain-valley",
+      "query": "seo fountain valley",
+      "kind": "guide",
+      "title": "Fountain Valley SEO: Local Search for a Suburban, Growing Business City",
+      "action": "new"
+    },
+    {
+      "slug": "seo-fullerton",
+      "query": "seo fullerton",
+      "kind": "guide",
+      "title": "Fullerton SEO: Get Found Locally and Recommended by AI in Fullerton",
+      "action": "fix"
+    },
+    {
+      "slug": "seo-garden-grove",
+      "query": "seo garden grove",
+      "kind": "guide",
+      "title": "Garden Grove SEO: Get Found on Google and Named by AI in Garden Grove",
+      "action": "new"
+    },
+    {
+      "slug": "seo-huntington-beach",
+      "query": "huntington beach seo",
+      "kind": "guide",
+      "title": "Huntington Beach SEO: Get Found Locally and Recommended by AI",
+      "action": "fix"
+    },
+    {
+      "slug": "seo-la-habra",
+      "query": "seo la habra",
+      "kind": "guide",
+      "title": "La Habra SEO: Get Found on Both Sides of the County Line",
+      "action": "new"
+    },
+    {
+      "slug": "seo-laguna-niguel",
+      "query": "seo laguna niguel",
+      "kind": "guide",
+      "title": "Laguna Niguel SEO: Reach Homeowners Near the Coast",
+      "action": "new"
+    },
+    {
+      "slug": "seo-lake-forest",
+      "query": "seo lake forest ca",
+      "kind": "guide",
+      "title": "Lake Forest SEO: Local and B2B Search for Lake Forest, California",
+      "action": "new"
+    },
+    {
+      "slug": "seo-mission-viejo",
+      "query": "seo mission viejo",
+      "kind": "guide",
+      "title": "Mission Viejo SEO: Reach Families in the Saddleback Valley",
+      "action": "new"
+    },
+    {
+      "slug": "seo-orange-ca",
+      "query": "seo orange ca",
+      "kind": "guide",
+      "title": "Orange CA SEO: Local Search and AI Visibility for the City of Orange",
+      "action": "new"
+    },
+    {
+      "slug": "seo-placentia",
+      "query": "seo placentia",
+      "kind": "guide",
+      "title": "Placentia SEO: Get Found in a Growing Downtown",
+      "action": "new"
+    },
+    {
+      "slug": "seo-san-clemente",
+      "query": "seo san clemente",
+      "kind": "guide",
+      "title": "San Clemente SEO: Reach Visitors and Locals in the Spanish Village by the Sea",
+      "action": "new"
+    },
+    {
+      "slug": "seo-tustin",
+      "query": "seo tustin",
+      "kind": "guide",
+      "title": "Tustin SEO: Get Found From Old Town to Tustin Legacy",
+      "action": "new"
+    },
+    {
+      "slug": "seo-westminster",
+      "query": "seo westminster ca",
+      "kind": "guide",
+      "title": "Westminster SEO: Get Found in Little Saigon and Across Westminster",
+      "action": "new"
+    },
+    {
+      "slug": "seo-yorba-linda",
+      "query": "seo yorba linda",
+      "kind": "guide",
+      "title": "Yorba Linda SEO: Help Local and Home-Based Businesses Get Found",
+      "action": "new"
+    }
+  ]
+}

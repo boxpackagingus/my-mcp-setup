@@ -2,50 +2,92 @@
   {
     "brand": "Chimera",
     "answers_named": 0,
-    "answers": 8,
-    "date": "2026-11-16",
+    "answers": 24,
+    "date": "2026-11-17",
     "share": 0.0
+  },
+  {
+    "brand": "Coalition Technologies",
+    "answers_named": 6,
+    "answers": 24,
+    "date": "2026-11-17",
+    "share": 0.25
   },
   {
     "brand": "Directive Consulting",
     "answers_named": 6,
-    "answers": 8,
-    "date": "2026-11-16",
-    "share": 0.75
-  },
-  {
-    "brand": "Coalition Technologies",
-    "answers_named": 5,
-    "answers": 8,
-    "date": "2026-11-16",
-    "share": 0.625
+    "answers": 24,
+    "date": "2026-11-17",
+    "share": 0.25
   },
   {
     "brand": "Single Grain",
-    "answers_named": 4,
-    "answers": 8,
-    "date": "2026-11-16",
-    "share": 0.5
+    "answers_named": 6,
+    "answers": 24,
+    "date": "2026-11-17",
+    "share": 0.25
   },
   {
     "brand": "Titan Growth",
     "answers_named": 4,
-    "answers": 8,
-    "date": "2026-11-16",
-    "share": 0.5
+    "answers": 24,
+    "date": "2026-11-17",
+    "share": 0.167
   },
   {
-    "brand": "SEO Inc",
+    "brand": "Clutch.co",
     "answers_named": 2,
-    "answers": 8,
-    "date": "2026-11-16",
-    "share": 0.25
+    "answers": 24,
+    "date": "2026-11-17",
+    "share": 0.083
+  },
+  {
+    "brand": "Irvine",
+    "answers_named": 2,
+    "answers": 24,
+    "date": "2026-11-17",
+    "share": 0.083
+  },
+  {
+    "brand": "Victorious",
+    "answers_named": 2,
+    "answers": 24,
+    "date": "2026-11-17",
+    "share": 0.083
   },
   {
     "brand": "Victorious SEO",
     "answers_named": 2,
-    "answers": 8,
-    "date": "2026-11-16",
-    "share": 0.25
+    "answers": 24,
+    "date": "2026-11-17",
+    "share": 0.083
+  },
+  {
+    "brand": "WebFX",
+    "answers_named": 2,
+    "answers": 24,
+    "date": "2026-11-17",
+    "share": 0.083
+  },
+  {
+    "brand": "Wpromote",
+    "answers_named": 2,
+    "answers": 24,
+    "date": "2026-11-17",
+    "share": 0.083
+  },
+  {
+    "brand": "PaperStreet",
+    "answers_named": 1,
+    "answers": 24,
+    "date": "2026-11-17",
+    "share": 0.042
+  },
+  {
+    "brand": "SEO Inc",
+    "answers_named": 1,
+    "answers": 24,
+    "date": "2026-11-17",
+    "share": 0.042
   }
 ]

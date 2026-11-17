@@ -82,7 +82,7 @@
     },
     {
       "heading": "Writing captions that work in Search",
-      "body_html": "<p>Write the first line of a caption as if it were a headline someone could search for: what the post shows, for whom and where. A restaurant might write Birria tacos and consommé in Anaheim, made fresh every weekend rather than only using emojis. A contractor might write Before and after: tile roof repair in Mission Viejo. Keep hashtags, but don't rely on them alone. Use the same words customers use in reviews and search terms, which you can see in Search Console and your Business Profile performance report.</p>"
+      "body_html": "<p>Write the first line of a caption as if it were a headline someone could search for: what the post shows, for whom and where. A restaurant might write Birria tacos and consommé in Anaheim, made fresh every weekend rather than only using emojis. A contractor might write Before and after: tile roof repair in <a href=\"https://thechimeraai.com/seo-mission-viejo/\">Mission Viejo</a>. Keep hashtags, but don't rely on them alone. Use the same words customers use in reviews and search terms, which you can see in Search Console and your Business Profile performance report.</p>"
     },
     {
       "heading": "A monthly social and search review",
@@ -231,6 +231,6 @@
     "height": 760
   },
   "published": "2026-11-14",
-  "updated": "2026-11-14",
+  "updated": "2026-11-17",
   "parent_id": 709
 }

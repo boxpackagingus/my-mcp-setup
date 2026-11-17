@@ -78,7 +78,7 @@
     },
     {
       "heading": "An example",
-      "body_html": "<p>Imagine a veterinary clinic in Garden Grove that sends appointment reminders from its practice software and newsletters from a marketing tool. Its IT provider sets up DMARC and makes sure both tools sign mail with DKIM for the clinic's domain. After Apple approves Branded Mail, clients see the clinic's logo next to reminders in iPhone Mail.</p>"
+      "body_html": "<p>Imagine a veterinary clinic in <a href=\"https://thechimeraai.com/seo-garden-grove/\">Garden Grove</a> that sends appointment reminders from its practice software and newsletters from a marketing tool. Its IT provider sets up DMARC and makes sure both tools sign mail with DKIM for the clinic's domain. After Apple approves Branded Mail, clients see the clinic's logo next to reminders in iPhone Mail.</p>"
     },
     {
       "heading": "How this fits your local plan",
@@ -232,5 +232,5 @@
     "height": 840
   },
   "published": "2026-11-15",
-  "updated": "2026-11-15"
+  "updated": "2026-11-17"
 }
