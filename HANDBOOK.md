@@ -105,7 +105,7 @@ Add hosts with `update_environment` only when a request is actually refused by t
 
 ### 3.4 WordPress
 
-- Plugin **Chimera Engine 1.7.7** (`wp-plugin/chimera-engine/`, zips in `dist/`). Install or update via Plugins > Add New >
+- Plugin **Chimera Engine 1.7.8** (`wp-plugin/chimera-engine/`, zips in `dist/`). Install or update via Plugins > Add New >
   Upload Plugin > Replace current. The engine cannot upload plugins itself; build a new zip and send it to the user.
 - It registers page meta for the engine, prints schema, Markdown alternates, Open Graph, and (since 1.7.7) uses the
   engine's SEO title as the page `<title>` when no SEO plugin is active. REST routes: `chimera/v1/indexnow`, `/pages`,

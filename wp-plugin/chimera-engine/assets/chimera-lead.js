@@ -27,7 +27,9 @@
         if (!window.fetch || !window.FormData) return; // falls back to a normal post
         e.preventDefault();
         if (button) { button.disabled = true; button.textContent = 'Sending…'; }
-        fetch(form.action, { method: 'POST', body: new FormData(form), headers: { Accept: 'application/json' }, credentials: 'same-origin' })
+        // The form has a hidden input named "action", which shadows form.action; read the attribute instead.
+        var url = form.getAttribute('action');
+        fetch(url, { method: 'POST', body: new FormData(form), headers: { Accept: 'application/json' }, credentials: 'same-origin' })
           .then(function (r) { return r.json().catch(function () { return { ok: r.ok }; }); })
           .then(function (res) {
             if (res && res.ok) {
