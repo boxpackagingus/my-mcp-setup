@@ -94,6 +94,11 @@ PHRASES = [
     (r"Google Analytics", "how-to-track-ai-traffic-in-google-analytics"),
     (r"generative engine optimization|GEO\b", "what-is-generative-engine-optimization-and-how-does-it-work"),
     (r"local SEO", "local-seo-orange-county"),
+    (r"Cypress College|Cypress, CA", "seo-cypress"), (r"Laguna Beach", "seo-laguna-beach"), (r"Laguna Hills", "seo-laguna-hills"),
+    (r"Seal Beach", "seo-seal-beach"), (r"Dana Point", "seo-dana-point"), (r"San Juan Capistrano", "seo-san-juan-capistrano"),
+    (r"Los Alamitos", "seo-los-alamitos"), (r"Stanton", "seo-stanton"), (r"La Palma", "seo-la-palma"), (r"Laguna Woods", "seo-laguna-woods"),
+    (r"choos(?:e|ing) an SEO (?:agency|company)", "how-to-choose-an-seo-agency-orange-county"), (r"PPC vs\.? SEO|paid (?:search|ads) (?:vs|or) SEO", "ppc-vs-seo-orange-county"),
+    (r"Google Wallet", "google-wallet-ios-local-businesses"), (r"temporary threads", "ai-mode-temporary-threads-businesses"),
     (r"Garden Grove", "seo-garden-grove"), (r"City of Orange|Old Towne Orange", "seo-orange-ca"), (r"Tustin", "seo-tustin"),
     (r"Yorba Linda", "seo-yorba-linda"), (r"Mission Viejo", "seo-mission-viejo"), (r"Lake Forest", "seo-lake-forest"),
     (r"Buena Park", "seo-buena-park"), (r"Westminster|Little Saigon", "seo-westminster"), (r"Fountain Valley", "seo-fountain-valley"),
@@ -124,8 +129,8 @@ CLUSTERS = [
     ("professional", r"tax-prep|accountant|insurance|mortgage|financial|real-estate|it-companies|staffing|b2b|saas|manufactur|nonprofit|startup"),
     ("education", r"beauty-school|massage-school|cpr-and-first-aid|dance-studio|language-school|music-school|swim-school|tutoring|private-school|daycare"),
     ("retail", r"black-friday|bike-shops|hardware-stores|pet-stores|bookstores|furniture-stores|toy-stores|clothing-boutiques|shoe-stores|sporting-goods|phone-repair|computer-repair|music-stores|hobby-shops|garden-centers|home-decor|pawn-shops|electronics-stores|surf-shops|thrift|google-product-category|local-inventory|free-product-listings|merchant-center|when-to-buy|jewelry|shopify|ecommerce|product-pages|holiday-100|universal-cart|shopping"),
-    ("gbp", r"google-business-profile|review|nap-|service-area|near-me|local-landing|local-seo|local-geo|local-business-schema|seo-company|seo-irvine|seo-garden-grove|seo-orange-ca|seo-tustin|seo-yorba|seo-mission-viejo|seo-lake-forest|seo-buena|seo-westminster|seo-fountain|seo-placentia|seo-brea|seo-laguna|seo-san-clemente|seo-aliso|seo-la-habra|holiday-crowd|seo-santa|seo-hunt|seo-newport|seo-full|seo-costa|geo-agency|local-services-ads|core-web-vitals|30-day"),
-    ("ai", r"ai-studio|wallet-gemini|eyewear|chatgpt|gemini|perplexity|copilot|claude|meta-ai|ai-mode|ai-overviews|llm|query-fan|crawler|robots|llms-txt|training-control|carbon|october-2026|search-profiles|inline-links|businesses-in-chatgpt"),
+    ("gbp", r"google-business-profile|review|nap-|service-area|near-me|local-landing|local-seo|local-geo|local-business-schema|seo-company|seo-irvine|seo-garden-grove|seo-cypress|seo-laguna-|seo-seal-beach|seo-dana-point|seo-san-juan|seo-los-alamitos|seo-stanton|seo-la-palma|how-to-choose-an-seo|ppc-vs-seo|seo-orange-ca|seo-tustin|seo-yorba|seo-mission-viejo|seo-lake-forest|seo-buena|seo-westminster|seo-fountain|seo-placentia|seo-brea|seo-laguna|seo-san-clemente|seo-aliso|seo-la-habra|holiday-crowd|seo-santa|seo-hunt|seo-newport|seo-full|seo-costa|geo-agency|local-services-ads|core-web-vitals|30-day"),
+    ("ai", r"gemini-tasks|ai-mode-temporary|google-vids|google-wallet|holiday-search|ai-studio|wallet-gemini|eyewear|chatgpt|gemini|perplexity|copilot|claude|meta-ai|ai-mode|ai-overviews|llm|query-fan|crawler|robots|llms-txt|training-control|carbon|october-2026|search-profiles|inline-links|businesses-in-chatgpt"),
 ]
 
 

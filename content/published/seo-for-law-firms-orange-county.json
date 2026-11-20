@@ -12,7 +12,8 @@
     "law firm seo orange county",
     "law firm seo company santa ana",
     "lawyer seo orange county",
-    "legal seo orange county"
+    "legal seo orange county",
+    "attorney seo santa ana"
   ],
   "search_intent": "informational",
   "seo": {
@@ -88,6 +89,10 @@
     {
       "heading": "How to measure results",
       "body_html": "<table><tr><th>What to track</th><th>Where</th></tr><tr><td>Calls, direction requests and website clicks</td><td><a href=\"https://thechimeraai.com/google-business-profile-optimization-orange-county/\">Google Business Profile</a> performance</td></tr><tr><td>Impressions and clicks for legal searches</td><td>Google Search Console</td></tr><tr><td>Visits from ChatGPT, Perplexity, Gemini and Copilot</td><td>Google Analytics referrals</td></tr><tr><td>Being named in AI answers</td><td>Ask the same 10 questions monthly and record the results</td></tr><tr><td>Consultation requests and retained clients by source</td><td>Your CRM, booking or call-tracking system</td></tr></table>"
+    },
+    {
+      "heading": "Law firm SEO in Santa Ana",
+      "body_html": "<p>Santa Ana is Orange County's county seat, so many residents search for attorneys there. Firms with Santa Ana offices should say so clearly on their practice pages and Business Profile, and can see our <a href=\"https://thechimeraai.com/seo-santa-ana/\">Santa Ana SEO</a> page for city-specific advice. Firms serving the whole county should describe the cities they cover rather than creating near-identical pages for each.</p>"
     },
     {
       "heading": "The short version",
@@ -346,5 +351,5 @@
     "height": 840
   },
   "published": "2026-11-10",
-  "updated": "2026-11-16"
+  "updated": "2026-11-18"
 }

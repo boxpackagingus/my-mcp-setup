@@ -194,22 +194,37 @@
       "form_leads_28d": 1,
       "source": "Site Kit",
       "engine_leads_28d": 0
+    },
+    {
+      "date": "2026-11-18",
+      "pages_total": 419,
+      "pages_indexed": 239,
+      "clicks_28d": 10,
+      "impressions_28d": 5346,
+      "engine_clicks_28d": 6,
+      "sessions_28d": 103.0,
+      "ai_sessions_28d": 0,
+      "ai_by_engine": {},
+      "leads_28d": 5,
+      "form_leads_28d": 5,
+      "source": "Site Kit",
+      "engine_leads_28d": 2.0
     }
   ],
   "latest": {
-    "date": "2026-11-17",
-    "pages_total": 402,
-    "pages_indexed": 216,
-    "clicks_28d": 5,
-    "impressions_28d": 4153,
-    "engine_clicks_28d": 3,
-    "sessions_28d": 86.0,
+    "date": "2026-11-18",
+    "pages_total": 419,
+    "pages_indexed": 239,
+    "clicks_28d": 10,
+    "impressions_28d": 5346,
+    "engine_clicks_28d": 6,
+    "sessions_28d": 103.0,
     "ai_sessions_28d": 0,
     "ai_by_engine": {},
-    "leads_28d": 1.0,
-    "form_leads_28d": 1,
+    "leads_28d": 5,
+    "form_leads_28d": 5,
     "source": "Site Kit",
-    "engine_leads_28d": 0
+    "engine_leads_28d": 2.0
   },
   "gsc_daily": [
     {
@@ -302,14 +317,16 @@
       "impressions": 962,
       "ctr": 0.0010395010395010396,
       "position": 69.8118503118503
+    },
+    {
+      "date": "2026-11-17",
+      "clicks": 5,
+      "impressions": 1193,
+      "ctr": 0.004191114836546521,
+      "position": 46.08549874266555
     }
   ],
   "ga_daily": [
-    {
-      "date": "20261020",
-      "sessions": 0.0,
-      "keyEvents": 0.0
-    },
     {
       "date": "20261021",
       "sessions": 0.0,
@@ -443,6 +460,11 @@
     {
       "date": "20261116",
       "sessions": 9.0,
+      "keyEvents": 0.0
+    },
+    {
+      "date": "20261117",
+      "sessions": 17.0,
       "keyEvents": 0.0
     }
   ]

@@ -1,5 +1,18 @@
 [
   {
+    "name": "Visit Anaheim media office",
+    "url": "https://www.visitanaheim.org/media/contact-us/",
+    "type": "news",
+    "cost": "free",
+    "evidence": "Visit Anaheim's media page offers help with story ideas, fact-checking and interviews; contact page lists a communications manager (named contact, no general address found).",
+    "found": "2026-11-18",
+    "query": "Anaheim local news submit a story",
+    "status": "new",
+    "http": "blocked by network allowlist",
+    "priority": 5,
+    "next_step": "Email the named communications manager with a tailored story pitch about Chimera's Anaheim-specific SEO/GEO expertise for local businesses."
+  },
+  {
     "name": "Anaheim Chamber of Commerce",
     "url": "https://anaheimchamber.org/",
     "type": "chamber",
@@ -37,6 +50,32 @@
     "http": "blocked by network allowlist",
     "priority": 4,
     "next_step": "Email the named Communications and Social Media Specialist with a tailored pitch about Chimera's Anaheim SEO case studies for OC businesses."
+  },
+  {
+    "name": "SCORE Orange County workshops",
+    "url": "https://www.score.org/ca/orange-county/",
+    "type": "event",
+    "cost": "free",
+    "evidence": "SCORE Orange County runs free marketing workshops led by outside presenters (e.g. a local marketing agency founder); speaking route not yet confirmed.",
+    "found": "2026-11-18",
+    "query": "Orange County SBDC small business workshops guest speaker marketing",
+    "status": "new",
+    "http": "blocked by network allowlist",
+    "priority": 4,
+    "next_step": "Contact SCORE Orange County to propose a workshop on local SEO/GEO strategies for Anaheim small businesses, referencing past marketing agency presenters."
+  },
+  {
+    "name": "Orange County Register local news desk",
+    "url": "https://www.ocregister.com/contact-us/",
+    "type": "news",
+    "cost": "free to pitch",
+    "evidence": "Search results show local@ocregister.com for story suggestions, but only via a mirror domain; ocregister.com could not be checked from this environment on 2026-11-18. Not emailed until the address is confirmed on the real site.",
+    "found": "2026-11-18",
+    "query": "Anaheim local news submit a story OR news tips email",
+    "status": "new",
+    "http": "blocked by network allowlist",
+    "priority": 3,
+    "next_step": "Verify the email address on ocregister.com's official contact page before pitching a local SEO/GEO story angle."
   },
   {
     "name": "Critical Mass Business Talk Show",

@@ -1,0 +1,195 @@
+{
+  "date": "2026-11-18",
+  "research": "Opportunity finder (28 days of Search Console query+page data): rising city pages (Newport Beach, Santa Ana, Costa Mesa) strengthened with Wikipedia-sourced local detail; cannibalization fixes (brake vs auto repair, Huntington Beach tips, Santa Ana law-firm searches); 10 new pages for the remaining Orange County cities without one (facts from each city's Wikipedia article; Rancho Santa Margarita skipped: article not retrieved); 2 buyer guides from the competitor gap (how to choose an SEO agency, PPC vs SEO) built on Google's own guidance; 5 posts from Google announcements of Nov 16-17, 2026.",
+  "topics": [
+    {
+      "slug": "ai-mode-temporary-threads-businesses",
+      "query": "ai mode temporary threads",
+      "kind": "blog",
+      "title": "AI Mode Temporary Threads: When Searches Aren't Personalized, Clear Business Information Wins",
+      "action": "new"
+    },
+    {
+      "slug": "gemini-tasks-calls-local-businesses",
+      "query": "gemini calls businesses",
+      "kind": "blog",
+      "title": "Gemini Calls Local Businesses: How AI Assistants Now Book Appointments by Phone",
+      "action": "new"
+    },
+    {
+      "slug": "geo-for-travel-websites",
+      "query": "geo for travel websites",
+      "kind": "guide",
+      "title": "GEO for Travel Websites: Get Recommended When People Plan Trips With AI",
+      "action": "fix"
+    },
+    {
+      "slug": "google-vids-avatars-small-business-video",
+      "query": "google vids avatar",
+      "kind": "blog",
+      "title": "Google Vids Personal Avatars: Free AI Video of Yourself for Small Business Marketing",
+      "action": "new"
+    },
+    {
+      "slug": "google-wallet-ios-local-businesses",
+      "query": "google wallet ios",
+      "kind": "blog",
+      "title": "Google Wallet on iOS: Loyalty Cards, Receipts and AI Purchases for iPhone Users",
+      "action": "new"
+    },
+    {
+      "slug": "holiday-search-features-local-businesses",
+      "query": "holiday search features local businesses",
+      "kind": "blog",
+      "title": "Holiday Search Features: How Lens and AI Mode Send Shoppers to Local Businesses",
+      "action": "new"
+    },
+    {
+      "slug": "how-to-choose-an-seo-agency-orange-county",
+      "query": "how to choose an seo agency in orange county",
+      "kind": "guide",
+      "title": "How to Choose an SEO Agency in Orange County: Questions, Red Flags and What to Expect",
+      "action": "new"
+    },
+    {
+      "slug": "local-seo-checklist",
+      "query": "local seo checklist",
+      "kind": "guide",
+      "title": "The Local SEO Checklist: 30 Steps for Anaheim and Orange County Businesses",
+      "action": "fix"
+    },
+    {
+      "slug": "ppc-vs-seo-orange-county",
+      "query": "ppc vs seo orange county",
+      "kind": "guide",
+      "title": "PPC vs SEO for Orange County Businesses: Which First, and How They Work Together",
+      "action": "new"
+    },
+    {
+      "slug": "seo-company-orange-county",
+      "query": "seo company orange county",
+      "kind": "guide",
+      "title": "SEO Company in Orange County: Local SEO and AI Search Across OC",
+      "action": "fix"
+    },
+    {
+      "slug": "seo-costa-mesa",
+      "query": "costa mesa seo",
+      "kind": "guide",
+      "title": "Costa Mesa SEO: Retail, Dining and Services in Google and AI Search",
+      "action": "fix"
+    },
+    {
+      "slug": "seo-cypress",
+      "query": "seo cypress ca",
+      "kind": "guide",
+      "title": "Cypress SEO: Get Found by Customers in Cypress, California",
+      "action": "new"
+    },
+    {
+      "slug": "seo-dana-point",
+      "query": "seo dana point",
+      "kind": "guide",
+      "title": "Dana Point SEO: Reach Harbor Visitors and Local Residents",
+      "action": "new"
+    },
+    {
+      "slug": "seo-for-auto-repair-shops",
+      "query": "seo for auto repair",
+      "kind": "guide",
+      "title": "SEO for Auto Repair Shops in Orange County: More Cars in the Bay",
+      "action": "fix"
+    },
+    {
+      "slug": "seo-for-brake-shops",
+      "query": "seo for brake shops",
+      "kind": "guide",
+      "title": "SEO for Brake Shops in Orange County: Earn Trust for a Safety Repair",
+      "action": "fix"
+    },
+    {
+      "slug": "seo-for-law-firms-orange-county",
+      "query": "seo for law firms",
+      "kind": "guide",
+      "title": "SEO for Law Firms in Orange County: Practice Areas, Attorneys and Local Rankings",
+      "action": "fix"
+    },
+    {
+      "slug": "seo-for-security-companies",
+      "query": "seo for security company",
+      "kind": "guide",
+      "title": "SEO for Security Companies in Orange County: Guards, Alarms and Cameras",
+      "action": "fix"
+    },
+    {
+      "slug": "seo-la-palma",
+      "query": "seo la palma",
+      "kind": "guide",
+      "title": "La Palma SEO: Help a Small-City Business Get Found",
+      "action": "new"
+    },
+    {
+      "slug": "seo-laguna-beach",
+      "query": "seo laguna beach",
+      "kind": "guide",
+      "title": "Laguna Beach SEO: Reach Art Lovers, Visitors and Locals",
+      "action": "new"
+    },
+    {
+      "slug": "seo-laguna-hills",
+      "query": "seo laguna hills",
+      "kind": "guide",
+      "title": "Laguna Hills SEO: Stand Out Along El Toro Road and Beyond",
+      "action": "new"
+    },
+    {
+      "slug": "seo-laguna-woods",
+      "query": "seo laguna woods",
+      "kind": "guide",
+      "title": "Laguna Woods SEO: Reach Older Adults and the Families Who Search for Them",
+      "action": "new"
+    },
+    {
+      "slug": "seo-los-alamitos",
+      "query": "seo los alamitos",
+      "kind": "guide",
+      "title": "Los Alamitos SEO: Local Search for a Small City With Big Landmarks",
+      "action": "new"
+    },
+    {
+      "slug": "seo-newport-beach",
+      "query": "seo newport beach",
+      "kind": "guide",
+      "title": "Newport Beach SEO: Premium Local Businesses and AI Search",
+      "action": "fix"
+    },
+    {
+      "slug": "seo-san-juan-capistrano",
+      "query": "seo san juan capistrano",
+      "kind": "guide",
+      "title": "San Juan Capistrano SEO: Reach Mission Visitors and Local Customers",
+      "action": "new"
+    },
+    {
+      "slug": "seo-santa-ana",
+      "query": "seo santa ana",
+      "kind": "guide",
+      "title": "Santa Ana SEO: Rank Locally and Get Recommended by AI in Santa Ana",
+      "action": "fix"
+    },
+    {
+      "slug": "seo-seal-beach",
+      "query": "seo seal beach",
+      "kind": "guide",
+      "title": "Seal Beach SEO: Reach Beachgoers, Retirees and Aerospace Workers",
+      "action": "new"
+    },
+    {
+      "slug": "seo-stanton",
+      "query": "seo stanton ca",
+      "kind": "guide",
+      "title": "Stanton SEO: Get Found Between Anaheim and Garden Grove",
+      "action": "new"
+    }
+  ]
+}

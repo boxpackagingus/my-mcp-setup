@@ -39,6 +39,30 @@
         "PaperStreet": 1,
         "ignitedigital": 0
       }
+    },
+    {
+      "date": "2026-11-18",
+      "answers": 24,
+      "chimera": 0,
+      "share": {
+        "Chimera": 0,
+        "Thrive": 0,
+        "MileMark": 0,
+        "Brandastic": 0,
+        "The Ad Firm": 0,
+        "Ignite Digital": 0,
+        "Zupo": 0,
+        "Hexxen": 0,
+        "Coalition Technologies": 6,
+        "Directive Consulting": 8,
+        "Titan Growth": 6,
+        "Single Grain": 7,
+        "SEO Inc": 2,
+        "Victorious": 4,
+        "WebFX": 0,
+        "PaperStreet": 2,
+        "ignitedigital": 0
+      }
     }
   ]
 }

@@ -1,5 +1,15 @@
 [
   {
+    "name": "Visit Anaheim media office",
+    "url": "https://www.visitanaheim.org/media/contact-us/",
+    "type": "news",
+    "priority": 5,
+    "status": "new",
+    "cost": "free",
+    "next_step": "Email the named communications manager with a tailored story pitch about Chimera's Anaheim-specific SEO/GEO expertise for local businesses.",
+    "found": "2026-11-18"
+  },
+  {
     "name": "Anaheim Chamber of Commerce",
     "url": "https://anaheimchamber.org/",
     "type": "chamber",
@@ -28,6 +38,26 @@
     "cost": "unknown (newsletter features OC business news)",
     "next_step": "Email the named Communications and Social Media Specialist with a tailored pitch about Chimera's Anaheim SEO case studies for OC businesses.",
     "found": "2026-11-17"
+  },
+  {
+    "name": "SCORE Orange County workshops",
+    "url": "https://www.score.org/ca/orange-county/",
+    "type": "event",
+    "priority": 4,
+    "status": "new",
+    "cost": "free",
+    "next_step": "Contact SCORE Orange County to propose a workshop on local SEO/GEO strategies for Anaheim small businesses, referencing past marketing agency presenters.",
+    "found": "2026-11-18"
+  },
+  {
+    "name": "Orange County Register local news desk",
+    "url": "https://www.ocregister.com/contact-us/",
+    "type": "news",
+    "priority": 3,
+    "status": "new",
+    "cost": "free to pitch",
+    "next_step": "Verify the email address on ocregister.com's official contact page before pitching a local SEO/GEO story angle.",
+    "found": "2026-11-18"
   },
   {
     "name": "Critical Mass Business Talk Show",

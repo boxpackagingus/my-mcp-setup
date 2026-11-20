@@ -7,7 +7,11 @@
     "Santa Ana SEO agency",
     "SEO company Santa Ana",
     "local SEO Santa Ana",
-    "SEO services Santa Ana CA"
+    "SEO services Santa Ana CA",
+    "seo santa ana",
+    "santa ana seo company",
+    "local seo santa ana",
+    "attorney seo santa ana"
   ],
   "search_intent": "informational",
   "seo": {
@@ -79,6 +83,10 @@
     {
       "heading": "Where the opportunity is in Santa Ana",
       "body_html": "<p>In Santa Ana the clearest opportunities are bilingual service pages where customers need them, professional services near the Civic Center and courts, and automotive and home services across the city's neighborhoods, where many competitors still have incomplete profiles.</p>"
+    },
+    {
+      "heading": "Santa Ana as the county seat and a business hub",
+      "body_html": "<p>Santa Ana is the county seat of Orange County and, with 310,227 residents in 2020, its third most populous city after Anaheim and Irvine. Wikipedia describes it as a major regional economic and cultural hub, and lists companies headquartered here including Behr Paint, First American Corporation, Ingram Micro and SchoolsFirst Federal Credit Union.</p><p>As the county seat, Santa Ana draws people for government and legal business, which makes it important for law firms, accountants and other professional services. Pages that name Santa Ana and describe the specific services offered there, in English and Spanish where customers need it, help both Google and AI assistants match a business to local searches.</p>"
     },
     {
       "heading": "The short version",
@@ -328,5 +336,5 @@
     "height": 840
   },
   "published": "2026-11-10",
-  "updated": "2026-11-14"
+  "updated": "2026-11-18"
 }

@@ -1,5 +1,430 @@
 [
   {
+    "keyword": "AI Mode temporary threads",
+    "kind": "Main",
+    "page": "ai-mode-temporary-threads-businesses"
+  },
+  {
+    "keyword": "AI Mode private search",
+    "kind": "Supporting",
+    "page": "ai-mode-temporary-threads-businesses"
+  },
+  {
+    "keyword": "AI Mode incognito",
+    "kind": "Supporting",
+    "page": "ai-mode-temporary-threads-businesses"
+  },
+  {
+    "keyword": "AI Mode personalization",
+    "kind": "Supporting",
+    "page": "ai-mode-temporary-threads-businesses"
+  },
+  {
+    "keyword": "temporary threads Google",
+    "kind": "Supporting",
+    "page": "ai-mode-temporary-threads-businesses"
+  },
+  {
+    "keyword": "Gemini calls local businesses",
+    "kind": "Main",
+    "page": "gemini-tasks-calls-local-businesses"
+  },
+  {
+    "keyword": "Gemini book appointment",
+    "kind": "Supporting",
+    "page": "gemini-tasks-calls-local-businesses"
+  },
+  {
+    "keyword": "AI assistant phone call business",
+    "kind": "Supporting",
+    "page": "gemini-tasks-calls-local-businesses"
+  },
+  {
+    "keyword": "Tasks in Gemini",
+    "kind": "Supporting",
+    "page": "gemini-tasks-calls-local-businesses"
+  },
+  {
+    "keyword": "Gemini agent calls",
+    "kind": "Supporting",
+    "page": "gemini-tasks-calls-local-businesses"
+  },
+  {
+    "keyword": "Google Vids personal avatars",
+    "kind": "Main",
+    "page": "google-vids-avatars-small-business-video"
+  },
+  {
+    "keyword": "Google Vids avatar free",
+    "kind": "Supporting",
+    "page": "google-vids-avatars-small-business-video"
+  },
+  {
+    "keyword": "AI avatar video small business",
+    "kind": "Supporting",
+    "page": "google-vids-avatars-small-business-video"
+  },
+  {
+    "keyword": "Google Vids personal avatar",
+    "kind": "Supporting",
+    "page": "google-vids-avatars-small-business-video"
+  },
+  {
+    "keyword": "AI explainer video",
+    "kind": "Supporting",
+    "page": "google-vids-avatars-small-business-video"
+  },
+  {
+    "keyword": "Google Wallet on iOS",
+    "kind": "Main",
+    "page": "google-wallet-ios-local-businesses"
+  },
+  {
+    "keyword": "Google Wallet iPhone",
+    "kind": "Supporting",
+    "page": "google-wallet-ios-local-businesses"
+  },
+  {
+    "keyword": "loyalty cards Google Wallet",
+    "kind": "Supporting",
+    "page": "google-wallet-ios-local-businesses"
+  },
+  {
+    "keyword": "Google Pay iOS",
+    "kind": "Supporting",
+    "page": "google-wallet-ios-local-businesses"
+  },
+  {
+    "keyword": "agentic purchases receipts",
+    "kind": "Supporting",
+    "page": "google-wallet-ios-local-businesses"
+  },
+  {
+    "keyword": "holiday search features",
+    "kind": "Main",
+    "page": "holiday-search-features-local-businesses"
+  },
+  {
+    "keyword": "Google Lens local inventory",
+    "kind": "Supporting",
+    "page": "holiday-search-features-local-businesses"
+  },
+  {
+    "keyword": "AI Mode restaurant reservations",
+    "kind": "Supporting",
+    "page": "holiday-search-features-local-businesses"
+  },
+  {
+    "keyword": "AI Mode hotel booking",
+    "kind": "Supporting",
+    "page": "holiday-search-features-local-businesses"
+  },
+  {
+    "keyword": "holiday shopping Google Search",
+    "kind": "Supporting",
+    "page": "holiday-search-features-local-businesses"
+  },
+  {
+    "keyword": "choose an SEO agency in Orange County",
+    "kind": "Main",
+    "page": "how-to-choose-an-seo-agency-orange-county"
+  },
+  {
+    "keyword": "best SEO agency Orange County",
+    "kind": "Supporting",
+    "page": "how-to-choose-an-seo-agency-orange-county"
+  },
+  {
+    "keyword": "SEO agency Orange County what to look for",
+    "kind": "Supporting",
+    "page": "how-to-choose-an-seo-agency-orange-county"
+  },
+  {
+    "keyword": "hire SEO company Orange County",
+    "kind": "Supporting",
+    "page": "how-to-choose-an-seo-agency-orange-county"
+  },
+  {
+    "keyword": "questions to ask an SEO agency",
+    "kind": "Supporting",
+    "page": "how-to-choose-an-seo-agency-orange-county"
+  },
+  {
+    "keyword": "PPC vs SEO for Orange County businesses",
+    "kind": "Main",
+    "page": "ppc-vs-seo-orange-county"
+  },
+  {
+    "keyword": "Google Ads vs SEO",
+    "kind": "Supporting",
+    "page": "ppc-vs-seo-orange-county"
+  },
+  {
+    "keyword": "PPC or SEO small business",
+    "kind": "Supporting",
+    "page": "ppc-vs-seo-orange-county"
+  },
+  {
+    "keyword": "paid vs organic search Orange County",
+    "kind": "Supporting",
+    "page": "ppc-vs-seo-orange-county"
+  },
+  {
+    "keyword": "SEO vs ads ROI",
+    "kind": "Supporting",
+    "page": "ppc-vs-seo-orange-county"
+  },
+  {
+    "keyword": "Cypress SEO",
+    "kind": "Main",
+    "page": "seo-cypress"
+  },
+  {
+    "keyword": "SEO company Cypress CA",
+    "kind": "Supporting",
+    "page": "seo-cypress"
+  },
+  {
+    "keyword": "local SEO Cypress",
+    "kind": "Supporting",
+    "page": "seo-cypress"
+  },
+  {
+    "keyword": "Cypress marketing agency",
+    "kind": "Supporting",
+    "page": "seo-cypress"
+  },
+  {
+    "keyword": "AI search Cypress",
+    "kind": "Supporting",
+    "page": "seo-cypress"
+  },
+  {
+    "keyword": "Dana Point SEO",
+    "kind": "Main",
+    "page": "seo-dana-point"
+  },
+  {
+    "keyword": "SEO company Dana Point",
+    "kind": "Supporting",
+    "page": "seo-dana-point"
+  },
+  {
+    "keyword": "local SEO Dana Point",
+    "kind": "Supporting",
+    "page": "seo-dana-point"
+  },
+  {
+    "keyword": "Dana Point tour marketing",
+    "kind": "Supporting",
+    "page": "seo-dana-point"
+  },
+  {
+    "keyword": "AI search Dana Point",
+    "kind": "Supporting",
+    "page": "seo-dana-point"
+  },
+  {
+    "keyword": "La Palma SEO",
+    "kind": "Main",
+    "page": "seo-la-palma"
+  },
+  {
+    "keyword": "SEO company La Palma",
+    "kind": "Supporting",
+    "page": "seo-la-palma"
+  },
+  {
+    "keyword": "local SEO La Palma",
+    "kind": "Supporting",
+    "page": "seo-la-palma"
+  },
+  {
+    "keyword": "La Palma marketing",
+    "kind": "Supporting",
+    "page": "seo-la-palma"
+  },
+  {
+    "keyword": "AI search La Palma",
+    "kind": "Supporting",
+    "page": "seo-la-palma"
+  },
+  {
+    "keyword": "Laguna Beach SEO",
+    "kind": "Main",
+    "page": "seo-laguna-beach"
+  },
+  {
+    "keyword": "SEO company Laguna Beach",
+    "kind": "Supporting",
+    "page": "seo-laguna-beach"
+  },
+  {
+    "keyword": "Laguna Beach gallery marketing",
+    "kind": "Supporting",
+    "page": "seo-laguna-beach"
+  },
+  {
+    "keyword": "local SEO Laguna Beach",
+    "kind": "Supporting",
+    "page": "seo-laguna-beach"
+  },
+  {
+    "keyword": "AI search Laguna Beach",
+    "kind": "Supporting",
+    "page": "seo-laguna-beach"
+  },
+  {
+    "keyword": "Laguna Hills SEO",
+    "kind": "Main",
+    "page": "seo-laguna-hills"
+  },
+  {
+    "keyword": "SEO company Laguna Hills",
+    "kind": "Supporting",
+    "page": "seo-laguna-hills"
+  },
+  {
+    "keyword": "local SEO Laguna Hills",
+    "kind": "Supporting",
+    "page": "seo-laguna-hills"
+  },
+  {
+    "keyword": "Laguna Hills marketing",
+    "kind": "Supporting",
+    "page": "seo-laguna-hills"
+  },
+  {
+    "keyword": "AI search Laguna Hills",
+    "kind": "Supporting",
+    "page": "seo-laguna-hills"
+  },
+  {
+    "keyword": "Laguna Woods SEO",
+    "kind": "Main",
+    "page": "seo-laguna-woods"
+  },
+  {
+    "keyword": "SEO for senior services Orange County",
+    "kind": "Supporting",
+    "page": "seo-laguna-woods"
+  },
+  {
+    "keyword": "local SEO Laguna Woods",
+    "kind": "Supporting",
+    "page": "seo-laguna-woods"
+  },
+  {
+    "keyword": "Laguna Woods Village services marketing",
+    "kind": "Supporting",
+    "page": "seo-laguna-woods"
+  },
+  {
+    "keyword": "AI search Laguna Woods",
+    "kind": "Supporting",
+    "page": "seo-laguna-woods"
+  },
+  {
+    "keyword": "Los Alamitos SEO",
+    "kind": "Main",
+    "page": "seo-los-alamitos"
+  },
+  {
+    "keyword": "SEO company Los Alamitos",
+    "kind": "Supporting",
+    "page": "seo-los-alamitos"
+  },
+  {
+    "keyword": "local SEO Los Alamitos",
+    "kind": "Supporting",
+    "page": "seo-los-alamitos"
+  },
+  {
+    "keyword": "Los Alamitos marketing",
+    "kind": "Supporting",
+    "page": "seo-los-alamitos"
+  },
+  {
+    "keyword": "AI search Los Alamitos",
+    "kind": "Supporting",
+    "page": "seo-los-alamitos"
+  },
+  {
+    "keyword": "San Juan Capistrano SEO",
+    "kind": "Main",
+    "page": "seo-san-juan-capistrano"
+  },
+  {
+    "keyword": "SEO company San Juan Capistrano",
+    "kind": "Supporting",
+    "page": "seo-san-juan-capistrano"
+  },
+  {
+    "keyword": "local SEO San Juan Capistrano",
+    "kind": "Supporting",
+    "page": "seo-san-juan-capistrano"
+  },
+  {
+    "keyword": "SJC marketing",
+    "kind": "Supporting",
+    "page": "seo-san-juan-capistrano"
+  },
+  {
+    "keyword": "AI search San Juan Capistrano",
+    "kind": "Supporting",
+    "page": "seo-san-juan-capistrano"
+  },
+  {
+    "keyword": "Seal Beach SEO",
+    "kind": "Main",
+    "page": "seo-seal-beach"
+  },
+  {
+    "keyword": "SEO company Seal Beach",
+    "kind": "Supporting",
+    "page": "seo-seal-beach"
+  },
+  {
+    "keyword": "local SEO Seal Beach",
+    "kind": "Supporting",
+    "page": "seo-seal-beach"
+  },
+  {
+    "keyword": "Seal Beach marketing",
+    "kind": "Supporting",
+    "page": "seo-seal-beach"
+  },
+  {
+    "keyword": "AI search Seal Beach",
+    "kind": "Supporting",
+    "page": "seo-seal-beach"
+  },
+  {
+    "keyword": "Stanton SEO",
+    "kind": "Main",
+    "page": "seo-stanton"
+  },
+  {
+    "keyword": "SEO company Stanton CA",
+    "kind": "Supporting",
+    "page": "seo-stanton"
+  },
+  {
+    "keyword": "local SEO Stanton",
+    "kind": "Supporting",
+    "page": "seo-stanton"
+  },
+  {
+    "keyword": "Stanton marketing",
+    "kind": "Supporting",
+    "page": "seo-stanton"
+  },
+  {
+    "keyword": "AI search Stanton",
+    "kind": "Supporting",
+    "page": "seo-stanton"
+  },
+  {
     "keyword": "autonomous AI attacks",
     "kind": "Main",
     "page": "ai-autonomous-attacks-small-business-websites"
@@ -1665,31 +2090,6 @@
     "page": "seo-for-beauty-schools"
   },
   {
-    "keyword": "SEO for brake shops",
-    "kind": "Main",
-    "page": "seo-for-brake-shops"
-  },
-  {
-    "keyword": "brake shop marketing",
-    "kind": "Supporting",
-    "page": "seo-for-brake-shops"
-  },
-  {
-    "keyword": "brake repair SEO",
-    "kind": "Supporting",
-    "page": "seo-for-brake-shops"
-  },
-  {
-    "keyword": "brake service leads",
-    "kind": "Supporting",
-    "page": "seo-for-brake-shops"
-  },
-  {
-    "keyword": "brake repair Orange County",
-    "kind": "Supporting",
-    "page": "seo-for-brake-shops"
-  },
-  {
     "keyword": "SEO for CPR and first aid training",
     "kind": "Main",
     "page": "seo-for-cpr-and-first-aid-training"
@@ -2238,6 +2638,41 @@
     "keyword": "AI Studio billing",
     "kind": "Supporting",
     "page": "google-ai-studio-cloud-credits"
+  },
+  {
+    "keyword": "SEO for brake shops",
+    "kind": "Main",
+    "page": "seo-for-brake-shops"
+  },
+  {
+    "keyword": "brake shop marketing",
+    "kind": "Supporting",
+    "page": "seo-for-brake-shops"
+  },
+  {
+    "keyword": "brake repair SEO",
+    "kind": "Supporting",
+    "page": "seo-for-brake-shops"
+  },
+  {
+    "keyword": "brake service leads",
+    "kind": "Supporting",
+    "page": "seo-for-brake-shops"
+  },
+  {
+    "keyword": "brake repair Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-brake-shops"
+  },
+  {
+    "keyword": "brake repair shop seo",
+    "kind": "Supporting",
+    "page": "seo-for-brake-shops"
+  },
+  {
+    "keyword": "brake repair seo orange county",
+    "kind": "Supporting",
+    "page": "seo-for-brake-shops"
   },
   {
     "keyword": "Gemini 4 Hydrogen",
@@ -3035,31 +3470,6 @@
     "page": "google-maps-dining-trends-restaurants"
   },
   {
-    "keyword": "Google Wallet in Gemini",
-    "kind": "Main",
-    "page": "google-wallet-gemini-subscriptions-local-business"
-  },
-  {
-    "keyword": "Gemini personal finance",
-    "kind": "Supporting",
-    "page": "google-wallet-gemini-subscriptions-local-business"
-  },
-  {
-    "keyword": "Google Wallet Gemini subscriptions",
-    "kind": "Supporting",
-    "page": "google-wallet-gemini-subscriptions-local-business"
-  },
-  {
-    "keyword": "membership retention",
-    "kind": "Supporting",
-    "page": "google-wallet-gemini-subscriptions-local-business"
-  },
-  {
-    "keyword": "Gemini Personal Intelligence",
-    "kind": "Supporting",
-    "page": "google-wallet-gemini-subscriptions-local-business"
-  },
-  {
     "keyword": "Google's When to Buy Guide",
     "kind": "Main",
     "page": "google-when-to-buy-holiday-retailers"
@@ -3108,6 +3518,31 @@
     "keyword": "social media in Google Search",
     "kind": "Supporting",
     "page": "search-console-platform-properties-social"
+  },
+  {
+    "keyword": "Google Wallet in Gemini",
+    "kind": "Main",
+    "page": "google-wallet-gemini-subscriptions-local-business"
+  },
+  {
+    "keyword": "Gemini personal finance",
+    "kind": "Supporting",
+    "page": "google-wallet-gemini-subscriptions-local-business"
+  },
+  {
+    "keyword": "Google Wallet Gemini subscriptions",
+    "kind": "Supporting",
+    "page": "google-wallet-gemini-subscriptions-local-business"
+  },
+  {
+    "keyword": "membership retention",
+    "kind": "Supporting",
+    "page": "google-wallet-gemini-subscriptions-local-business"
+  },
+  {
+    "keyword": "Gemini Personal Intelligence",
+    "kind": "Supporting",
+    "page": "google-wallet-gemini-subscriptions-local-business"
   },
   {
     "keyword": "ads in AI Mode",
@@ -4680,31 +5115,6 @@
     "page": "seo-for-pilates-studios"
   },
   {
-    "keyword": "SEO for security companies",
-    "kind": "Main",
-    "page": "seo-for-security-companies"
-  },
-  {
-    "keyword": "security company marketing",
-    "kind": "Supporting",
-    "page": "seo-for-security-companies"
-  },
-  {
-    "keyword": "security guard company SEO",
-    "kind": "Supporting",
-    "page": "seo-for-security-companies"
-  },
-  {
-    "keyword": "alarm company SEO",
-    "kind": "Supporting",
-    "page": "seo-for-security-companies"
-  },
-  {
-    "keyword": "security company marketing Orange County",
-    "kind": "Supporting",
-    "page": "seo-for-security-companies"
-  },
-  {
     "keyword": "SEO for tire shops",
     "kind": "Main",
     "page": "seo-for-tire-shops"
@@ -4853,6 +5263,41 @@
     "keyword": "claim Google My Business",
     "kind": "Supporting",
     "page": "how-to-claim-google-business-profile"
+  },
+  {
+    "keyword": "SEO for security companies",
+    "kind": "Main",
+    "page": "seo-for-security-companies"
+  },
+  {
+    "keyword": "security company marketing",
+    "kind": "Supporting",
+    "page": "seo-for-security-companies"
+  },
+  {
+    "keyword": "security guard company SEO",
+    "kind": "Supporting",
+    "page": "seo-for-security-companies"
+  },
+  {
+    "keyword": "alarm company SEO",
+    "kind": "Supporting",
+    "page": "seo-for-security-companies"
+  },
+  {
+    "keyword": "security company marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-security-companies"
+  },
+  {
+    "keyword": "seo for alarm and monitoring companies",
+    "kind": "Supporting",
+    "page": "seo-for-security-companies"
+  },
+  {
+    "keyword": "security system installer seo",
+    "kind": "Supporting",
+    "page": "seo-for-security-companies"
   },
   {
     "keyword": "Businesses in ChatGPT",
@@ -5810,11 +6255,6 @@
     "page": "gemini-task-automation-bookings-anaheim"
   },
   {
-    "keyword": "AI Mode hotel booking",
-    "kind": "Main",
-    "page": "google-ai-mode-hotel-booking-anaheim"
-  },
-  {
     "keyword": "Google AI Mode hotels",
     "kind": "Supporting",
     "page": "google-ai-mode-hotel-booking-anaheim"
@@ -6185,31 +6625,6 @@
     "page": "local-seo-orange-county"
   },
   {
-    "keyword": "Costa Mesa SEO",
-    "kind": "Main",
-    "page": "seo-costa-mesa"
-  },
-  {
-    "keyword": "SEO company Costa Mesa",
-    "kind": "Supporting",
-    "page": "seo-costa-mesa"
-  },
-  {
-    "keyword": "Costa Mesa SEO agency",
-    "kind": "Supporting",
-    "page": "seo-costa-mesa"
-  },
-  {
-    "keyword": "local SEO Costa Mesa",
-    "kind": "Supporting",
-    "page": "seo-costa-mesa"
-  },
-  {
-    "keyword": "SEO services Costa Mesa",
-    "kind": "Supporting",
-    "page": "seo-costa-mesa"
-  },
-  {
     "keyword": "SEO for accountants",
     "kind": "Main",
     "page": "seo-for-accountants"
@@ -6283,31 +6698,6 @@
     "keyword": "detailing marketing Orange County",
     "kind": "Supporting",
     "page": "seo-for-auto-detailing"
-  },
-  {
-    "keyword": "SEO for auto repair shops",
-    "kind": "Main",
-    "page": "seo-for-auto-repair-shops"
-  },
-  {
-    "keyword": "auto repair SEO",
-    "kind": "Supporting",
-    "page": "seo-for-auto-repair-shops"
-  },
-  {
-    "keyword": "mechanic SEO",
-    "kind": "Supporting",
-    "page": "seo-for-auto-repair-shops"
-  },
-  {
-    "keyword": "local SEO for auto repair shops",
-    "kind": "Supporting",
-    "page": "seo-for-auto-repair-shops"
-  },
-  {
-    "keyword": "auto shop marketing Orange County",
-    "kind": "Supporting",
-    "page": "seo-for-auto-repair-shops"
   },
   {
     "keyword": "SEO for bathroom remodelers",
@@ -7530,56 +7920,6 @@
     "page": "seo-irvine"
   },
   {
-    "keyword": "Newport Beach SEO",
-    "kind": "Main",
-    "page": "seo-newport-beach"
-  },
-  {
-    "keyword": "SEO services Newport Beach",
-    "kind": "Supporting",
-    "page": "seo-newport-beach"
-  },
-  {
-    "keyword": "SEO company Newport Beach",
-    "kind": "Supporting",
-    "page": "seo-newport-beach"
-  },
-  {
-    "keyword": "Newport Beach SEO agency",
-    "kind": "Supporting",
-    "page": "seo-newport-beach"
-  },
-  {
-    "keyword": "local SEO Newport Beach",
-    "kind": "Supporting",
-    "page": "seo-newport-beach"
-  },
-  {
-    "keyword": "Santa Ana SEO",
-    "kind": "Main",
-    "page": "seo-santa-ana"
-  },
-  {
-    "keyword": "Santa Ana SEO agency",
-    "kind": "Supporting",
-    "page": "seo-santa-ana"
-  },
-  {
-    "keyword": "SEO company Santa Ana",
-    "kind": "Supporting",
-    "page": "seo-santa-ana"
-  },
-  {
-    "keyword": "local SEO Santa Ana",
-    "kind": "Supporting",
-    "page": "seo-santa-ana"
-  },
-  {
-    "keyword": "SEO services Santa Ana CA",
-    "kind": "Supporting",
-    "page": "seo-santa-ana"
-  },
-  {
     "keyword": "SEO for service-area businesses",
     "kind": "Main",
     "page": "service-area-business-seo"
@@ -7625,102 +7965,22 @@
     "page": "nap-consistency-local-citations"
   },
   {
-    "keyword": "SEO company Orange County",
-    "kind": "Main",
-    "page": "seo-company-orange-county"
-  },
-  {
-    "keyword": "Orange County SEO agency",
-    "kind": "Supporting",
-    "page": "seo-company-orange-county"
-  },
-  {
-    "keyword": "SEO services Orange County",
-    "kind": "Supporting",
-    "page": "seo-company-orange-county"
-  },
-  {
-    "keyword": "SEO company Orange County CA",
-    "kind": "Supporting",
-    "page": "seo-company-orange-county"
-  },
-  {
-    "keyword": "AI SEO Orange County",
-    "kind": "Supporting",
-    "page": "seo-company-orange-county"
-  },
-  {
-    "keyword": "seo agency orange county",
-    "kind": "Supporting",
-    "page": "seo-company-orange-county"
-  },
-  {
-    "keyword": "orange county seo services",
-    "kind": "Supporting",
-    "page": "seo-company-orange-county"
-  },
-  {
-    "keyword": "seo company oc",
-    "kind": "Supporting",
-    "page": "seo-company-orange-county"
-  },
-  {
-    "keyword": "SEO for law firms",
-    "kind": "Main",
-    "page": "seo-for-law-firms-orange-county"
-  },
-  {
-    "keyword": "law firm SEO",
-    "kind": "Supporting",
-    "page": "seo-for-law-firms-orange-county"
-  },
-  {
-    "keyword": "attorney SEO",
-    "kind": "Supporting",
-    "page": "seo-for-law-firms-orange-county"
-  },
-  {
-    "keyword": "lawyer marketing",
-    "kind": "Supporting",
-    "page": "seo-for-law-firms-orange-county"
-  },
-  {
-    "keyword": "legal marketing Orange County",
-    "kind": "Supporting",
-    "page": "seo-for-law-firms-orange-county"
-  },
-  {
-    "keyword": "attorney seo orange county",
-    "kind": "Supporting",
-    "page": "seo-for-law-firms-orange-county"
-  },
-  {
-    "keyword": "law firm seo orange county",
-    "kind": "Supporting",
-    "page": "seo-for-law-firms-orange-county"
-  },
-  {
-    "keyword": "law firm seo company santa ana",
-    "kind": "Supporting",
-    "page": "seo-for-law-firms-orange-county"
-  },
-  {
-    "keyword": "lawyer seo orange county",
-    "kind": "Supporting",
-    "page": "seo-for-law-firms-orange-county"
-  },
-  {
-    "keyword": "legal seo orange county",
-    "kind": "Supporting",
-    "page": "seo-for-law-firms-orange-county"
-  },
-  {
     "keyword": "SEO for personal injury lawyers",
     "kind": "Main",
     "page": "seo-for-personal-injury-lawyers"
   },
   {
     "keyword": "personal injury SEO",
+    "kind": "Supporting",
+    "page": "seo-for-personal-injury-lawyers"
+  },
+  {
+    "keyword": "law firm SEO",
+    "kind": "Supporting",
+    "page": "seo-for-personal-injury-lawyers"
+  },
+  {
+    "keyword": "lawyer marketing",
     "kind": "Supporting",
     "page": "seo-for-personal-injury-lawyers"
   },
@@ -7828,51 +8088,6 @@
     "keyword": "GEO plan",
     "kind": "Supporting",
     "page": "30-day-ai-search-plan-orange-county"
-  },
-  {
-    "keyword": "GEO for travel websites",
-    "kind": "Main",
-    "page": "geo-for-travel-websites"
-  },
-  {
-    "keyword": "AI SEO for travel",
-    "kind": "Supporting",
-    "page": "geo-for-travel-websites"
-  },
-  {
-    "keyword": "travel website GEO",
-    "kind": "Supporting",
-    "page": "geo-for-travel-websites"
-  },
-  {
-    "keyword": "Anaheim travel marketing",
-    "kind": "Supporting",
-    "page": "geo-for-travel-websites"
-  },
-  {
-    "keyword": "local SEO checklist",
-    "kind": "Main",
-    "page": "local-seo-checklist"
-  },
-  {
-    "keyword": "local SEO steps",
-    "kind": "Supporting",
-    "page": "local-seo-checklist"
-  },
-  {
-    "keyword": "local SEO tasks",
-    "kind": "Supporting",
-    "page": "local-seo-checklist"
-  },
-  {
-    "keyword": "local SEO audit checklist",
-    "kind": "Supporting",
-    "page": "local-seo-checklist"
-  },
-  {
-    "keyword": "Google Maps checklist",
-    "kind": "Supporting",
-    "page": "local-seo-checklist"
   },
   {
     "keyword": "near me searches",
@@ -8138,6 +8353,276 @@
     "keyword": "local seo tips huntington beach",
     "kind": "Supporting",
     "page": "seo-huntington-beach"
+  },
+  {
+    "keyword": "GEO for travel websites",
+    "kind": "Main",
+    "page": "geo-for-travel-websites"
+  },
+  {
+    "keyword": "AI SEO for travel",
+    "kind": "Supporting",
+    "page": "geo-for-travel-websites"
+  },
+  {
+    "keyword": "travel website GEO",
+    "kind": "Supporting",
+    "page": "geo-for-travel-websites"
+  },
+  {
+    "keyword": "Anaheim travel marketing",
+    "kind": "Supporting",
+    "page": "geo-for-travel-websites"
+  },
+  {
+    "keyword": "local SEO checklist",
+    "kind": "Main",
+    "page": "local-seo-checklist"
+  },
+  {
+    "keyword": "local SEO steps",
+    "kind": "Supporting",
+    "page": "local-seo-checklist"
+  },
+  {
+    "keyword": "local SEO tasks",
+    "kind": "Supporting",
+    "page": "local-seo-checklist"
+  },
+  {
+    "keyword": "local SEO audit checklist",
+    "kind": "Supporting",
+    "page": "local-seo-checklist"
+  },
+  {
+    "keyword": "Google Maps checklist",
+    "kind": "Supporting",
+    "page": "local-seo-checklist"
+  },
+  {
+    "keyword": "SEO company Orange County",
+    "kind": "Main",
+    "page": "seo-company-orange-county"
+  },
+  {
+    "keyword": "Orange County SEO agency",
+    "kind": "Supporting",
+    "page": "seo-company-orange-county"
+  },
+  {
+    "keyword": "SEO services Orange County",
+    "kind": "Supporting",
+    "page": "seo-company-orange-county"
+  },
+  {
+    "keyword": "SEO company Orange County CA",
+    "kind": "Supporting",
+    "page": "seo-company-orange-county"
+  },
+  {
+    "keyword": "AI SEO Orange County",
+    "kind": "Supporting",
+    "page": "seo-company-orange-county"
+  },
+  {
+    "keyword": "seo agency orange county",
+    "kind": "Supporting",
+    "page": "seo-company-orange-county"
+  },
+  {
+    "keyword": "orange county seo services",
+    "kind": "Supporting",
+    "page": "seo-company-orange-county"
+  },
+  {
+    "keyword": "seo company oc",
+    "kind": "Supporting",
+    "page": "seo-company-orange-county"
+  },
+  {
+    "keyword": "Costa Mesa SEO",
+    "kind": "Main",
+    "page": "seo-costa-mesa"
+  },
+  {
+    "keyword": "SEO company Costa Mesa",
+    "kind": "Supporting",
+    "page": "seo-costa-mesa"
+  },
+  {
+    "keyword": "Costa Mesa SEO agency",
+    "kind": "Supporting",
+    "page": "seo-costa-mesa"
+  },
+  {
+    "keyword": "local SEO Costa Mesa",
+    "kind": "Supporting",
+    "page": "seo-costa-mesa"
+  },
+  {
+    "keyword": "SEO services Costa Mesa",
+    "kind": "Supporting",
+    "page": "seo-costa-mesa"
+  },
+  {
+    "keyword": "seo costa mesa ca",
+    "kind": "Supporting",
+    "page": "seo-costa-mesa"
+  },
+  {
+    "keyword": "costa mesa seo company",
+    "kind": "Supporting",
+    "page": "seo-costa-mesa"
+  },
+  {
+    "keyword": "SEO for auto repair shops",
+    "kind": "Main",
+    "page": "seo-for-auto-repair-shops"
+  },
+  {
+    "keyword": "auto repair SEO",
+    "kind": "Supporting",
+    "page": "seo-for-auto-repair-shops"
+  },
+  {
+    "keyword": "mechanic SEO",
+    "kind": "Supporting",
+    "page": "seo-for-auto-repair-shops"
+  },
+  {
+    "keyword": "local SEO for auto repair shops",
+    "kind": "Supporting",
+    "page": "seo-for-auto-repair-shops"
+  },
+  {
+    "keyword": "auto shop marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-auto-repair-shops"
+  },
+  {
+    "keyword": "SEO for law firms",
+    "kind": "Main",
+    "page": "seo-for-law-firms-orange-county"
+  },
+  {
+    "keyword": "attorney SEO",
+    "kind": "Supporting",
+    "page": "seo-for-law-firms-orange-county"
+  },
+  {
+    "keyword": "legal marketing Orange County",
+    "kind": "Supporting",
+    "page": "seo-for-law-firms-orange-county"
+  },
+  {
+    "keyword": "attorney seo orange county",
+    "kind": "Supporting",
+    "page": "seo-for-law-firms-orange-county"
+  },
+  {
+    "keyword": "law firm seo orange county",
+    "kind": "Supporting",
+    "page": "seo-for-law-firms-orange-county"
+  },
+  {
+    "keyword": "law firm seo company santa ana",
+    "kind": "Supporting",
+    "page": "seo-for-law-firms-orange-county"
+  },
+  {
+    "keyword": "lawyer seo orange county",
+    "kind": "Supporting",
+    "page": "seo-for-law-firms-orange-county"
+  },
+  {
+    "keyword": "legal seo orange county",
+    "kind": "Supporting",
+    "page": "seo-for-law-firms-orange-county"
+  },
+  {
+    "keyword": "attorney seo santa ana",
+    "kind": "Supporting",
+    "page": "seo-for-law-firms-orange-county"
+  },
+  {
+    "keyword": "Newport Beach SEO",
+    "kind": "Main",
+    "page": "seo-newport-beach"
+  },
+  {
+    "keyword": "SEO services Newport Beach",
+    "kind": "Supporting",
+    "page": "seo-newport-beach"
+  },
+  {
+    "keyword": "SEO company Newport Beach",
+    "kind": "Supporting",
+    "page": "seo-newport-beach"
+  },
+  {
+    "keyword": "Newport Beach SEO agency",
+    "kind": "Supporting",
+    "page": "seo-newport-beach"
+  },
+  {
+    "keyword": "local SEO Newport Beach",
+    "kind": "Supporting",
+    "page": "seo-newport-beach"
+  },
+  {
+    "keyword": "seo newport beach",
+    "kind": "Supporting",
+    "page": "seo-newport-beach"
+  },
+  {
+    "keyword": "newport beach seo services",
+    "kind": "Supporting",
+    "page": "seo-newport-beach"
+  },
+  {
+    "keyword": "local seo services newport beach",
+    "kind": "Supporting",
+    "page": "seo-newport-beach"
+  },
+  {
+    "keyword": "newport beach seo company",
+    "kind": "Supporting",
+    "page": "seo-newport-beach"
+  },
+  {
+    "keyword": "Santa Ana SEO",
+    "kind": "Main",
+    "page": "seo-santa-ana"
+  },
+  {
+    "keyword": "Santa Ana SEO agency",
+    "kind": "Supporting",
+    "page": "seo-santa-ana"
+  },
+  {
+    "keyword": "SEO company Santa Ana",
+    "kind": "Supporting",
+    "page": "seo-santa-ana"
+  },
+  {
+    "keyword": "local SEO Santa Ana",
+    "kind": "Supporting",
+    "page": "seo-santa-ana"
+  },
+  {
+    "keyword": "SEO services Santa Ana CA",
+    "kind": "Supporting",
+    "page": "seo-santa-ana"
+  },
+  {
+    "keyword": "seo santa ana",
+    "kind": "Supporting",
+    "page": "seo-santa-ana"
+  },
+  {
+    "keyword": "santa ana seo company",
+    "kind": "Supporting",
+    "page": "seo-santa-ana"
   },
   {
     "keyword": "AI crawler user agents",

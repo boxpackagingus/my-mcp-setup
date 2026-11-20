@@ -1,29 +1,29 @@
 [
  {
-  "name": "Orange County Business Council: Insights newsletter",
-  "url": "https://ocbc.org/news-media/news/",
-  "type": "news",
-  "cost": "unknown (newsletter features OC business news)",
-  "evidence": "OCBC's Insights newsletter carries Orange County business news from nonprofits and for-profits; site lists named staff contacts (Communications and Social Media Specialist) rather than a general submission address. Not emailed: named staff address.",
-  "found": "2026-11-17",
-  "query": "Orange County Business Council newsletter submit member news"
- },
- {
-  "name": "Daily Pilot (Costa Mesa, Newport Beach, Irvine)",
-  "url": "https://www.dailypilot.com/",
+  "name": "Orange County Register local news desk",
+  "url": "https://www.ocregister.com/contact-us/",
   "type": "news",
   "cost": "free to pitch",
-  "evidence": "Los Angeles Times community paper covering Costa Mesa, Newport Beach and Irvine; no published tips address found in search on 2026-11-17.",
-  "found": "2026-11-17",
-  "query": "Daily Pilot submit news tips"
+  "evidence": "Search results show local@ocregister.com for story suggestions, but only via a mirror domain; ocregister.com could not be checked from this environment on 2026-11-18. Not emailed until the address is confirmed on the real site.",
+  "found": "2026-11-18",
+  "query": "Anaheim local news submit a story OR news tips email"
  },
  {
-  "name": "Voice of OC (contact and tips page)",
-  "url": "https://voiceofoc.org/staff-contact-us/",
+  "name": "Visit Anaheim media office",
+  "url": "https://www.visitanaheim.org/media/contact-us/",
   "type": "news",
   "cost": "free",
-  "evidence": "Nonprofit OC newsroom with a Contact Us / Anonymous Tips / Contributing Writers page. Covers public affairs; low fit for business pitches.",
-  "found": "2026-11-17",
-  "query": "Irvine Weekly OR Daily Pilot submit news tips email"
+  "evidence": "Visit Anaheim's media page offers help with story ideas, fact-checking and interviews; contact page lists a communications manager (named contact, no general address found).",
+  "found": "2026-11-18",
+  "query": "Anaheim local news submit a story"
+ },
+ {
+  "name": "SCORE Orange County workshops",
+  "url": "https://www.score.org/ca/orange-county/",
+  "type": "event",
+  "cost": "free",
+  "evidence": "SCORE Orange County runs free marketing workshops led by outside presenters (e.g. a local marketing agency founder); speaking route not yet confirmed.",
+  "found": "2026-11-18",
+  "query": "Orange County SBDC small business workshops guest speaker marketing"
  }
 ]

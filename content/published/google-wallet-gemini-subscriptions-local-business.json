@@ -26,7 +26,7 @@
   "sections": [
     {
       "heading": "What Google announced",
-      "body_html": "<p>On November 13, 2026, Google added Google Wallet to the apps <a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a> can connect to through Personal Intelligence. Google says it's rolling out to all Gemini app users in the U.S., on web, Android and iOS, so they can get responses informed by their spending habits.</p>"
+      "body_html": "<p>On November 13, 2026, Google added <a href=\"https://thechimeraai.com/blog/google-wallet-ios-local-businesses/\">Google Wallet</a> to the apps <a href=\"https://thechimeraai.com/gemini-seo/\">Gemini</a> can connect to through Personal Intelligence. Google says it's rolling out to all Gemini app users in the U.S., on web, Android and iOS, so they can get responses informed by their spending habits.</p>"
     },
     {
       "heading": "What people can ask",
@@ -223,6 +223,6 @@
     "height": 760
   },
   "published": "2026-11-14",
-  "updated": "2026-11-17",
+  "updated": "2026-11-18",
   "parent_id": 709
 }
