@@ -253,6 +253,9 @@ Page edits follow the one-writer rule (`<meta name="dash-one-writer">`): fixed t
 
 ## 10. State on 2026-11-18 (for context)
 
+- **Daily run PAUSED on 2026-11-20** at the user's request (scheduled task trig_018F1FKWfSqVZrcXAZijJoaA disabled).
+  Re-enable it with update_trigger enabled=true when the user asks.
+
 - 419 pages live; 239 indexed; last 28 days: 5,324 impressions, 10 clicks, 103 visits, 5 leads (3 are Claude test
   leads named "... (ignore)" that can be deleted in WordPress).
 - 147 money queries tracked, 14 in the top 20. Strategy since 2026-11-16: fix money pages and add local

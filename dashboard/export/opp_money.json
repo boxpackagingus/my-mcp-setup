@@ -9,6 +9,15 @@
     "clicks": 0
   },
   {
+    "query": "seo company la habra ca",
+    "page": "seo-la-habra",
+    "position": 7.7,
+    "previous": null,
+    "change": null,
+    "impressions": 6,
+    "clicks": 0
+  },
+  {
     "query": "how does ai search optimization work in huntington beach?",
     "page": "seo-huntington-beach",
     "position": 8,
@@ -36,12 +45,57 @@
     "clicks": 0
   },
   {
+    "query": "fountain valley seo",
+    "page": "seo-fountain-valley",
+    "position": 11.3,
+    "previous": null,
+    "change": null,
+    "impressions": 3,
+    "clicks": 0
+  },
+  {
+    "query": "brea seo",
+    "page": "seo-brea",
+    "position": 12,
+    "previous": null,
+    "change": null,
+    "impressions": 1,
+    "clicks": 0
+  },
+  {
     "query": "attorney seo santa ana",
     "page": "seo-for-law-firms-orange-county",
     "position": 13,
     "previous": 13,
     "change": 0,
     "impressions": 1,
+    "clicks": 0
+  },
+  {
+    "query": "la habra search engine optimization",
+    "page": "seo-la-habra",
+    "position": 13,
+    "previous": null,
+    "change": null,
+    "impressions": 1,
+    "clicks": 0
+  },
+  {
+    "query": "seo company la habra",
+    "page": "seo-la-habra",
+    "position": 13.5,
+    "previous": null,
+    "change": null,
+    "impressions": 4,
+    "clicks": 0
+  },
+  {
+    "query": "local seo tips for huntington beach businesses",
+    "page": "local-seo-checklist",
+    "position": 13.8,
+    "previous": 14,
+    "change": 0.2,
+    "impressions": 4,
     "clicks": 0
   },
   {
@@ -54,12 +108,21 @@
     "clicks": 0
   },
   {
-    "query": "local seo tips for huntington beach businesses",
-    "page": "local-seo-checklist",
+    "query": "search engine optimization tustin",
+    "page": "seo-tustin",
     "position": 14,
     "previous": null,
     "change": null,
     "impressions": 1,
+    "clicks": 0
+  },
+  {
+    "query": "criminal lawyer seo company orange county",
+    "page": "seo-for-criminal-defense-lawyers",
+    "position": 14.7,
+    "previous": 31,
+    "change": 16.3,
+    "impressions": 3,
     "clicks": 0
   },
   {
@@ -72,12 +135,30 @@
     "clicks": 0
   },
   {
+    "query": "yorba linda seo",
+    "page": "seo-yorba-linda",
+    "position": 15,
+    "previous": null,
+    "change": null,
+    "impressions": 2,
+    "clicks": 0
+  },
+  {
     "query": "estate planning attorney seo company near me",
     "page": "seo-for-estate-planning-attorneys",
     "position": 15.8,
     "previous": 15.8,
     "change": 0.0,
     "impressions": 6,
+    "clicks": 0
+  },
+  {
+    "query": "seo company placentia ca",
+    "page": "seo-placentia",
+    "position": 16,
+    "previous": null,
+    "change": null,
+    "impressions": 2,
     "clicks": 0
   },
   {
@@ -102,9 +183,18 @@
     "query": "local seo tips for huntington beach businesses",
     "page": "seo-huntington-beach",
     "position": 16.8,
-    "previous": 18,
-    "change": 1.2,
+    "previous": 16.8,
+    "change": 0.0,
     "impressions": 4,
+    "clicks": 0
+  },
+  {
+    "query": "seo tustin",
+    "page": "seo-tustin",
+    "position": 18,
+    "previous": null,
+    "change": null,
+    "impressions": 3,
     "clicks": 0
   },
   {
@@ -126,6 +216,15 @@
     "clicks": 0
   },
   {
+    "query": "seo mission viejo",
+    "page": "seo-mission-viejo",
+    "position": 20,
+    "previous": null,
+    "change": null,
+    "impressions": 1,
+    "clicks": 0
+  },
+  {
     "query": "real estate seo orange county",
     "page": "seo-for-real-estate-agents-orange-county",
     "position": 26.5,
@@ -138,9 +237,18 @@
     "query": "fullerton seo expert",
     "page": "seo-fullerton",
     "position": 27,
-    "previous": null,
-    "change": null,
+    "previous": 27,
+    "change": 0,
     "impressions": 1,
+    "clicks": 0
+  },
+  {
+    "query": "huntington beach seo",
+    "page": "seo-huntington-beach",
+    "position": 28.9,
+    "previous": 31.4,
+    "change": 2.5,
+    "impressions": 47,
     "clicks": 0
   },
   {
@@ -153,30 +261,21 @@
     "clicks": 0
   },
   {
-    "query": "criminal lawyer seo company orange county",
-    "page": "seo-for-criminal-defense-lawyers",
-    "position": 31,
-    "previous": 31,
-    "change": 0,
-    "impressions": 1,
-    "clicks": 0
-  },
-  {
-    "query": "huntington beach seo",
-    "page": "seo-huntington-beach",
-    "position": 31.4,
-    "previous": 32.1,
-    "change": 0.7,
-    "impressions": 34,
-    "clicks": 0
-  },
-  {
     "query": "attorney seo orange county",
-    "page": "seo-for-estate-planning-attorneys",
-    "position": 31.8,
-    "previous": 35.8,
-    "change": 4.0,
-    "impressions": 6,
+    "page": "seo-for-divorce-lawyers",
+    "position": 29.2,
+    "previous": 32.8,
+    "change": 3.6,
+    "impressions": 5,
+    "clicks": 0
+  },
+  {
+    "query": "search engine optimization fullerton",
+    "page": "seo-fullerton",
+    "position": 29.5,
+    "previous": 46,
+    "change": 16.5,
+    "impressions": 2,
     "clicks": 0
   },
   {
@@ -189,12 +288,21 @@
     "clicks": 0
   },
   {
-    "query": "attorney seo orange county",
-    "page": "seo-for-divorce-lawyers",
-    "position": 32.8,
-    "previous": 38.7,
-    "change": 5.9,
-    "impressions": 4,
+    "query": "placentia seo",
+    "page": "seo-placentia",
+    "position": 35.3,
+    "previous": null,
+    "change": null,
+    "impressions": 3,
+    "clicks": 0
+  },
+  {
+    "query": "mission viejo seo",
+    "page": "seo-mission-viejo",
+    "position": 35.5,
+    "previous": null,
+    "change": null,
+    "impressions": 2,
     "clicks": 0
   },
   {
@@ -207,6 +315,15 @@
     "clicks": 0
   },
   {
+    "query": "attorney seo orange county",
+    "page": "seo-for-estate-planning-attorneys",
+    "position": 36.1,
+    "previous": 31.8,
+    "change": -4.3,
+    "impressions": 8,
+    "clicks": 0
+  },
+  {
     "query": "seo company anaheim ca",
     "page": "seo-company-anaheim",
     "position": 37,
@@ -216,147 +333,30 @@
     "clicks": 0
   },
   {
-    "query": "law firm seo company anaheim ca",
-    "page": "seo-for-criminal-defense-lawyers",
-    "position": 38,
-    "previous": 38,
-    "change": 0,
-    "impressions": 1,
-    "clicks": 0
-  },
-  {
-    "query": "med spa seo orange county",
-    "page": "seo-for-facial-spas",
-    "position": 38,
+    "query": "seo company in brea ca",
+    "page": "seo-brea",
+    "position": 37,
     "previous": null,
     "change": null,
     "impressions": 1,
-    "clicks": 0
-  },
-  {
-    "query": "priority keywords,tree removal near me,very high,seo priority 1",
-    "page": "seo-for-tree-service-companies",
-    "position": 40.7,
-    "previous": 40.7,
-    "change": 0.0,
-    "impressions": 3,
     "clicks": 0
   },
   {
     "query": "attorney seo orange county",
     "page": "seo-for-criminal-defense-lawyers",
-    "position": 41,
-    "previous": 45.2,
-    "change": 4.2,
-    "impressions": 7,
+    "position": 37.9,
+    "previous": 41,
+    "change": 3.1,
+    "impressions": 8,
     "clicks": 0
   },
   {
-    "query": "restaurant seo orange county",
-    "page": "seo-for-mexican-restaurants",
-    "position": 42,
+    "query": "placentia seo companies",
+    "page": "seo-placentia",
+    "position": 38,
     "previous": null,
     "change": null,
-    "impressions": 1,
-    "clicks": 0
-  },
-  {
-    "query": "local seo fullerton",
-    "page": "seo-fullerton",
-    "position": 43,
-    "previous": 43,
-    "change": 0,
-    "impressions": 13,
-    "clicks": 0
-  },
-  {
-    "query": "law firm seo orange county",
-    "page": "seo-for-law-firms-orange-county",
-    "position": 43,
-    "previous": 43,
-    "change": 0,
-    "impressions": 1,
-    "clicks": 0
-  },
-  {
-    "query": "law firm seo company anaheim ca",
-    "page": "seo-for-estate-planning-attorneys",
-    "position": 44,
-    "previous": 44,
-    "change": 0,
-    "impressions": 1,
-    "clicks": 0
-  },
-  {
-    "query": "local seo anaheim",
-    "page": "local-seo-checklist",
-    "position": 46,
-    "previous": 53,
-    "change": 7,
-    "impressions": 5,
-    "clicks": 0
-  },
-  {
-    "query": "ai search santa ana",
-    "page": "seo-company-orange-county",
-    "position": 46,
-    "previous": 46,
-    "change": 0,
-    "impressions": 1,
-    "clicks": 0
-  },
-  {
-    "query": "personal injury attorney seo orange county",
-    "page": "seo-for-personal-injury-lawyers",
-    "position": 46,
-    "previous": 46,
-    "change": 0,
-    "impressions": 1,
-    "clicks": 0
-  },
-  {
-    "query": "search engine optimization fullerton",
-    "page": "seo-fullerton",
-    "position": 46,
-    "previous": 46,
-    "change": 0,
-    "impressions": 1,
-    "clicks": 0
-  },
-  {
-    "query": "anaheim seo company",
-    "page": "seo-company-orange-county",
-    "position": 46.4,
-    "previous": 46.4,
-    "change": 0.0,
-    "impressions": 9,
-    "clicks": 0
-  },
-  {
-    "query": "ai search rancho santa margarita",
-    "page": "30-day-ai-search-plan-orange-county",
-    "position": 47,
-    "previous": 47,
-    "change": 0,
     "impressions": 2,
-    "clicks": 0
-  },
-  {
-    "query": "priority keywords,tree trimming near me,very high,seo priority 4",
-    "page": "seo-for-tree-service-companies",
-    "position": 47.3,
-    "previous": 47.3,
-    "change": 0.0,
-    "impressions": 3,
-    "clicks": 0
-  },
-  {
-    "query": "seo fullerton",
-    "page": "seo-fullerton",
-    "position": 48.7,
-    "previous": 48.7,
-    "change": 0.0,
-    "impressions": 3,
     "clicks": 0
   }
 ]

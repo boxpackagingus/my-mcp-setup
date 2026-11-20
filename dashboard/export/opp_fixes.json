@@ -1,18 +1,34 @@
 [
   {
+    "query": "attorney seo orange county",
+    "keep": "seo-for-law-firms-orange-county",
+    "others": "seo-for-divorce-lawyers, seo-for-estate-planning-attorneys, seo-for-criminal-defense-lawyers, seo-for-immigration-lawyers",
+    "pages": 5,
+    "impressions": 31,
+    "intent": "money-local"
+  },
+  {
     "query": "anaheim seo",
     "keep": "seo-company-anaheim",
     "others": "seo-company-orange-county",
     "pages": 2,
-    "impressions": 27,
+    "impressions": 30,
     "intent": "money-local"
   },
   {
-    "query": "attorney seo orange county",
-    "keep": "seo-for-law-firms-orange-county",
-    "others": "seo-for-estate-planning-attorneys, seo-for-divorce-lawyers, seo-for-criminal-defense-lawyers, seo-for-immigration-lawyers",
-    "pages": 5,
-    "impressions": 26,
+    "query": "anaheim seo company",
+    "keep": "seo-company-orange-county",
+    "others": "seo-company-anaheim",
+    "pages": 2,
+    "impressions": 16,
+    "intent": "money-local"
+  },
+  {
+    "query": "medical practice seo orange county",
+    "keep": "seo-for-doctors",
+    "others": "seo-for-dentists-orange-county",
+    "pages": 2,
+    "impressions": 16,
     "intent": "money-local"
   },
   {
@@ -24,27 +40,11 @@
     "intent": "money-local"
   },
   {
-    "query": "anaheim seo company",
-    "keep": "seo-company-orange-county",
-    "others": "seo-company-anaheim",
-    "pages": 2,
-    "impressions": 14,
-    "intent": "money-local"
-  },
-  {
     "query": "ai search optimization orange county",
     "keep": "30-day-ai-search-plan-orange-county",
     "others": "google-business-profile-optimization-orange-county, seo-company-orange-county",
     "pages": 3,
     "impressions": 12,
-    "intent": "money-local"
-  },
-  {
-    "query": "medical practice seo orange county",
-    "keep": "seo-for-doctors",
-    "others": "seo-for-dentists-orange-county",
-    "pages": 2,
-    "impressions": 11,
     "intent": "money-local"
   },
   {
@@ -56,6 +56,14 @@
     "intent": "money-local"
   },
   {
+    "query": "anaheim seo service",
+    "keep": "seo-company-orange-county",
+    "others": "seo-company-anaheim",
+    "pages": 2,
+    "impressions": 8,
+    "intent": "money-local"
+  },
+  {
     "query": "local seo anaheim",
     "keep": "local-seo-checklist",
     "others": "seo-company-orange-county, seo-company-anaheim",
@@ -64,25 +72,25 @@
     "intent": "money-local"
   },
   {
-    "query": "anaheim seo expert",
-    "keep": "seo-company-anaheim",
-    "others": "seo-company-orange-county",
+    "query": "local seo tips for huntington beach businesses",
+    "keep": "local-seo-checklist",
+    "others": "seo-huntington-beach",
     "pages": 2,
-    "impressions": 7,
-    "intent": "money-local"
-  },
-  {
-    "query": "anaheim seo service",
-    "keep": "seo-company-orange-county",
-    "others": "seo-company-anaheim",
-    "pages": 2,
-    "impressions": 7,
+    "impressions": 8,
     "intent": "money-local"
   },
   {
     "query": "seo company in anaheim",
     "keep": "seo-company-orange-county",
     "others": "seo-company-anaheim",
+    "pages": 2,
+    "impressions": 8,
+    "intent": "money-local"
+  },
+  {
+    "query": "anaheim seo expert",
+    "keep": "seo-company-anaheim",
+    "others": "seo-company-orange-county",
     "pages": 2,
     "impressions": 7,
     "intent": "money-local"
@@ -96,18 +104,18 @@
     "intent": "money-local"
   },
   {
-    "query": "anaheim search engine optimization",
-    "keep": "google-business-profile-optimization-orange-county",
-    "others": "seo-company-orange-county, seo-company-anaheim",
-    "pages": 3,
+    "query": "ai seo anaheim",
+    "keep": "seo-company-anaheim",
+    "others": "seo-irvine, seo-for-it-companies, seo-santa-ana",
+    "pages": 4,
     "impressions": 5,
     "intent": "money-local"
   },
   {
-    "query": "local seo tips for huntington beach businesses",
-    "keep": "local-seo-checklist",
-    "others": "seo-huntington-beach",
-    "pages": 2,
+    "query": "anaheim search engine optimization",
+    "keep": "google-business-profile-optimization-orange-county",
+    "others": "seo-company-orange-county, seo-company-anaheim",
+    "pages": 3,
     "impressions": 5,
     "intent": "money-local"
   },
@@ -123,6 +131,14 @@
     "query": "seo agency anaheim",
     "keep": "seo-company-orange-county",
     "others": "seo-company-anaheim",
+    "pages": 2,
+    "impressions": 4,
+    "intent": "money-local"
+  },
+  {
+    "query": "seo companies in anaheim",
+    "keep": "seo-company-anaheim",
+    "others": "seo-company-orange-county",
     "pages": 2,
     "impressions": 4,
     "intent": "money-local"
@@ -144,14 +160,6 @@
     "intent": "money-local"
   },
   {
-    "query": "ai seo anaheim",
-    "keep": "seo-company-anaheim",
-    "others": "seo-for-it-companies, seo-santa-ana",
-    "pages": 3,
-    "impressions": 3,
-    "intent": "money-local"
-  },
-  {
     "query": "geo agency newport beach",
     "keep": "geo-agency-orange-county",
     "others": "seo-newport-beach",
@@ -168,14 +176,6 @@
     "intent": "money-local"
   },
   {
-    "query": "seo companies in anaheim",
-    "keep": "seo-company-anaheim",
-    "others": "seo-company-orange-county",
-    "pages": 2,
-    "impressions": 3,
-    "intent": "money-local"
-  },
-  {
     "query": "ai seo for law firms costa mesa",
     "keep": "seo-for-estate-planning-attorneys",
     "others": "seo-for-criminal-defense-lawyers",
@@ -187,14 +187,6 @@
     "query": "ai seo for law firms irvine",
     "keep": "seo-for-estate-planning-attorneys",
     "others": "seo-for-law-firms-orange-county",
-    "pages": 2,
-    "impressions": 2,
-    "intent": "money-local"
-  },
-  {
-    "query": "law firm seo company anaheim ca",
-    "keep": "seo-for-criminal-defense-lawyers",
-    "others": "seo-for-estate-planning-attorneys",
     "pages": 2,
     "impressions": 2,
     "intent": "money-local"
