@@ -251,16 +251,21 @@ Page edits follow the one-writer rule (`<meta name="dash-one-writer">`): fixed t
 
 ---
 
-## 10. State on 2026-11-16 (for context)
+## 10. State on 2026-11-18 (for context)
 
-- 382 pages live (341 guides, 41 blog posts); 194 indexed; last 28 days: 3,190 impressions, 4 clicks, 77 visits, 1 lead.
-- Median Google position around 67. Most impressions came from national "<industry> seo" searches; local buyer
-  searches ("anaheim seo company", "attorney seo orange county") rank 9-40. Strategy rebalanced on 2026-11-16
-  toward fixing money pages and local buyer-intent pages.
-- Plugin 1.7.7 live: all 382 pages now show their short SEO titles.
-- AI visibility: Chimera named in 0 of 8 answers; models most often name Directive Consulting and Coalition Technologies.
-- Outreach sent: Orange County Business Journal (expert-source pitch, features@ocbj.com) and OC Startup Council
-  (free article, ocsc@startupcouncil.net). Good Neighbor Podcast skipped (booking site down).
+- 419 pages live; 239 indexed; last 28 days: 5,324 impressions, 10 clicks, 103 visits, 5 leads (3 are Claude test
+  leads named "... (ignore)" that can be deleted in WordPress).
+- 147 money queries tracked, 14 in the top 20. Strategy since 2026-11-16: fix money pages and add local
+  buyer-intent pages (city pages now cover most Orange County cities; see `content/published/seo-*.json`).
+- Plugin 1.7.8 live: short SEO titles (1.7.7) and the lead form fix (1.7.8: the hidden `action` input shadowed
+  `form.action`, so leads posted to "[object HTMLInputElement]" from Nov 5 to Nov 18).
+- AI visibility: Chimera named in 0 of 24 answers; Coalition Technologies, Directive Consulting, Titan Growth and
+  Single Grain named most.
+- Outreach sent so far: Orange County Business Journal and OC Startup Council (2026-11-16), no replies yet.
+  Verified but not yet used: Fullerton Observer, contact@fullertonobserver.com (Fullerton-related stories only).
+- Banner photo pool is nearly used up; fetch new Unsplash photos before the next runs.
+- The Main-Build-Up repo now lives at https://github.com/boxpackagingus/Main-Build-Up.git (the old lowercase URL
+  still redirects).
 - The authority gap (links and mentions) is the main limit; local link building is the priority.
 
 ---
