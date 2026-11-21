@@ -130,6 +130,21 @@
       "env": {
         "BRAVE_API_KEY": "set-by-environment-network-secret"
       }
+    },
+    "mcp-gsc": {
+      "type": "stdio",
+      "command": "uvx",
+      "args": [
+        "--from",
+        "git+https://github.com/AminForou/mcp-gsc@fb2330c",
+        "mcp-search-console"
+      ],
+      "env": {
+        "GSC_CREDENTIALS_PATH": "${GSC_CREDENTIALS_PATH}",
+        "GSC_SKIP_OAUTH": "true",
+        "GSC_ALLOW_DESTRUCTIVE": "false",
+        "GSC_DATA_STATE": "all"
+      }
     }
   }
 }

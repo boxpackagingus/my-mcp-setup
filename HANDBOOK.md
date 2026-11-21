@@ -251,6 +251,14 @@ Page edits follow the one-writer rule (`<meta name="dash-one-writer">`): fixed t
 
 ---
 
+### mcp-gsc (Search Console MCP, added 2026-11-21)
+`.mcp.json` server `mcp-gsc`: AminForou/mcp-gsc (MIT), pinned to reviewed commit `fb2330c`, run with
+`uvx --from git+https://github.com/AminForou/mcp-gsc@fb2330c mcp-search-console`. 21 tools: search analytics,
+period comparison, page/query breakdowns, URL inspection (single and batch), indexing issues, sitemaps.
+Add/delete tools stay disabled (`GSC_ALLOW_DESTRUCTIVE=false`); browser OAuth is off (`GSC_SKIP_OAUTH=true`).
+It needs a Google service-account JSON key file at the path in `GSC_CREDENTIALS_PATH`, with that service account
+added as a user on the thechimeraai.com Search Console property. Until then its tools return an auth error.
+
 ## 10. State on 2026-11-18 (for context)
 
 - **Daily run PAUSED on 2026-11-20** at the user's request (scheduled task trig_018F1FKWfSqVZrcXAZijJoaA disabled).
