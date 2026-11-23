@@ -98,6 +98,40 @@ python -m engine dashboard
    - Then delete the old assets.
    - Don't change `files/index.html` unless the page itself needs to change.
 
+## Google focus plan from 2026-11-24 (OVERRIDES "Daily guides: 30 new pages a day" and "Daily blog: 5 posts a day")
+
+The user's goal (2026-11-23): Google only. More impressions, clicks, visits and leads from qualified, high-volume
+searches. No Bing, no AI-answer tracking (`engine visibility` is no longer part of the daily run). Free tools only.
+Publishing volume is NOT the lever: 419 pages, ~7,100 impressions, 12 clicks. Authority, focus and click-through are.
+
+Daily, in this order:
+1. Measure: `track`, `sitecheck`, `opportunities` (and `competitors`). Record, for every query in
+   `data/focus_pages.json`, today's position, impressions and clicks vs the last run.
+2. Focus pages (3 a day, rotating through `data/focus_pages.json`): make each the best answer on page 1 for its search.
+   Real substance only: what the service includes, how the work runs week by week, honest price ranges only if the user
+   has given them (otherwise "request a quote"), FAQs built from that page's real Search Console queries, a clear call
+   and form in the first screen, and links to it from the 5 most related existing pages. Never invent results, clients,
+   reviews or prices. Quality gate as always.
+3. Click-through fixes (up to 10 pages a day): pages with impressions and 0 clicks in `opportunities.json`
+   (ctr_fixes, striking_distance). Rewrite the SEO title (30-60 chars, search phrase first, Anaheim/Orange County) and
+   meta description (120-160 chars, specific benefit + call to action). Note the old title in the report.
+4. Cannibalization (up to 5 a day): for each query with 2+ competing pages, keep one page; remove that query's phrase
+   from the others' titles/H1/FAQs and link them to the keeper with that phrase. List pages that should be merged with
+   301 redirects for the user to approve; do not delete pages on your own.
+5. New pages: at most 3 a day, and only for a real Google search (impressions in Search Console or a Google
+   suggestion) with no matching page. No more city x industry filler.
+6. Blog: at most 1 post a day, only for a question people actually search on Google, or work on the linkable asset.
+7. Authority (the main limit): link prospects + up to 3 outreach emails a day under the existing outreach rules. Once
+   a week, advance the linkable asset (a free Orange County resource worth citing) and pitch it.
+8. Publish (IndexNow + sitemap), interlink, sitecheck, dashboard refresh, commit "Daily run YYYY-MM-DD", push to both
+   repos.
+9. Report (Google only): impressions, clicks, CTR, visits, leads (28 days, vs last run); each focus query's position
+   today vs last run; titles rewritten; pages improved and why; outreach sent and replies; failures; what the user
+   must do.
+
+Waiting on the user: Google Business Profile status and review count; service-account key for direct Search Console;
+which client industries to prioritise; any real case results or prices they allow us to publish.
+
 ## Location lock (every page and every blog post)
 
 Chimera is in **Anaheim, California**, serving **Orange County, California**. Every page and post must name both.

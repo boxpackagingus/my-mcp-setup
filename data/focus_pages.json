@@ -1,0 +1,56 @@
+{
+  "set": "2026-11-23",
+  "note": "Google focus set. Change only with the user's say-so or when Search Console shows a better money search.",
+  "focus": [
+    {
+      "query": "seo company anaheim",
+      "page": "seo-company-anaheim",
+      "why": "home city, highest buyer intent"
+    },
+    {
+      "query": "seo company orange county",
+      "page": "seo-company-orange-county",
+      "why": "county-wide buyer search"
+    },
+    {
+      "query": "local seo orange county",
+      "page": "local-seo-orange-county",
+      "why": "local service buyers"
+    },
+    {
+      "query": "seo irvine",
+      "page": "seo-irvine",
+      "why": "largest business base in OC"
+    },
+    {
+      "query": "seo santa ana",
+      "page": "seo-santa-ana",
+      "why": "county seat, rising in Google"
+    },
+    {
+      "query": "huntington beach seo",
+      "page": "seo-huntington-beach",
+      "why": "most impressions of any money search (47, pos 29)"
+    },
+    {
+      "query": "seo newport beach",
+      "page": "seo-newport-beach",
+      "why": "high-value businesses, rising"
+    },
+    {
+      "query": "attorney seo orange county",
+      "page": "seo-for-law-firms-orange-county",
+      "why": "law searches already show impressions; 4 pages compete"
+    },
+    {
+      "query": "estate planning attorney seo",
+      "page": "seo-for-estate-planning-attorneys",
+      "why": "35 impressions, pos ~16"
+    },
+    {
+      "query": "geo agency orange county",
+      "page": "geo-agency-orange-county",
+      "why": "AI-search service, Chimera's specialty"
+    }
+  ]
+}
