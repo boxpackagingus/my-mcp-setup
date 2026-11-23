@@ -12,6 +12,7 @@
   python -m engine opportunities      Money queries, striking distance, CTR fixes, cannibalization
   python -m engine competitors        Topic gaps from competitor sitemaps (config/competitors.json)
   python -m engine visibility         Ask free AI models buyer questions; who gets named
+  python -m engine bing               Bing Webmaster Tools: queries, traffic, links, crawl (free key)
   python -m engine prospects          Verify and rank local link opportunities (data/link_prospects_raw.json)
   python -m engine refresh            Track + export, then list dashboard files that changed
 """
@@ -65,6 +66,10 @@ def main(argv):
     if cmd == "visibility":
         from . import visibility
         print(json.dumps(visibility.run(cfg), indent=2))
+        return 0
+    if cmd == "bing":
+        from . import bing
+        print(json.dumps(bing.run(cfg), indent=2))
         return 0
     if cmd == "prospects":
         from . import prospects

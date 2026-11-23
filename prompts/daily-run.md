@@ -187,7 +187,7 @@ The end-of-run report adds: pages fixed (and why), money-query positions today v
 
 Both use free OpenRouter models only (IDs ending in `:free`; the key is a network secret injected by the proxy). The free
 allowance is about 50 requests a day, so run each once per daily run, visibility first:
-1. **AI visibility:** `python -m engine visibility` asks the buyer questions in config/visibility.json and records which
+1. **AI visibility:** `python -m engine visibility`, `python -m engine bing` (skip quietly if BING_WEBMASTER_API_KEY is not set) asks the buyer questions in config/visibility.json and records which
    agencies each answer names (data/ai_visibility/). It measures model memory, not live web. If a free model keeps failing,
    swap it in config/visibility.json for another free model that answers (check https://openrouter.ai/api/v1/models).
 2. **Link prospects:** run 3-4 web searches for new Anaheim and Orange County link or mention opportunities (chambers,

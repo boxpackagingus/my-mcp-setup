@@ -251,6 +251,17 @@ Page edits follow the one-writer rule (`<meta name="dash-one-writer">`): fixed t
 
 ---
 
+### Bing Webmaster Tools (free, added 2026-11-23)
+`python -m engine bing` (engine/bing.py) reads what Bing records about thechimeraai.com: search queries, daily
+impressions and clicks, inbound link counts per page, and crawl/index stats. Output: `data/bing/YYYY-MM-DD.json` and
+`data/bing/summary.json`. Read-only. Bing's index feeds Microsoft Copilot and ChatGPT search.
+Needs `BING_WEBMASTER_API_KEY` as an environment variable (Bing's API takes the key in the URL, so a header-injected
+network secret cannot be used). Host `ssl.bing.com` is on the network allowlist. Setup, all free:
+1. Sign in at bing.com/webmasters with a Microsoft account.
+2. Add the site with "Import from Google Search Console" or verify it (XML file, meta tag or DNS).
+3. Settings (gear) > API access > API Key > Generate.
+4. Cloud environment menu > Edit > environment variables: `BING_WEBMASTER_API_KEY=<key>`. A new session picks it up.
+
 ### mcp-gsc (Search Console MCP, added 2026-11-21)
 `.mcp.json` server `mcp-gsc`: AminForou/mcp-gsc (MIT), pinned to reviewed commit `fb2330c`, run with
 `uvx --from git+https://github.com/AminForou/mcp-gsc@fb2330c mcp-search-console`. 21 tools: search analytics,
